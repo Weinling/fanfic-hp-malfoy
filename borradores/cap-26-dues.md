@@ -58,17 +58,19 @@ Lyra got up with the rest of Slytherin. She went down the dungeon steps with Cra
 
 ⁂
 
-Halfway down the dungeon steps, the ring in her pocket began to flash.
+An hour later, in the common room, with Parkinson still explaining to the fire who Potter must have bribed, the ring in her pocket began to flash.
 
 She felt it before she knew what it was: a pulse against her fingers, on, off, on, warm and then cool and then warm again. The other ring was looking for her. It had done this twice in October, and both times she had taken her hand out of her pocket and gone the other way, because she had sat on a window seat in August with a green ring shut in a drawer and decided that there were things she was no longer going to ask Potter, since he would only not answer them.
 
-“Lyra?” Crabbe had stopped two steps below. “Coming?”
+Lyra stood up.
 
-“I’ve left my scarf in the Hall,” said Lyra. “Go on. I’ll catch you up.”
+“Where are you going?” said Crabbe. “It’s gone ten.”
 
-She was not wearing a scarf. Crabbe looked at her neck, and then at her face, and then went on down the stairs without a word, taking Goyle and Parkinson with her, which was the most Crabbe thing she could possibly have done.
+“I’ve left my scarf in the Great Hall.”
 
-Lyra went back up. At the top of the steps she turned slowly on the spot, with her hand closed round the ring in her pocket, the way she had turned on the castle steps in February, and when she faced the marble staircase it grew warm.
+Lyra had not been wearing a scarf. Crabbe looked at her neck, and then at her face, and then turned back to the fire and asked Parkinson a question about Durmstrang that would keep him busy for half an hour, which was the most Crabbe thing she could possibly have done.
+
+At the top of the dungeon steps she turned slowly on the spot, with her hand closed round the ring in her pocket, the way she had turned on the castle steps in February, and when she faced the marble staircase it grew warm.
 
 She followed it. Up the marble staircase, and along the first-floor corridor, past the portraits settling down for the night, until it was so warm against her palm that it was almost hot; and there was a classroom door standing an inch ajar that had certainly been shut when she passed it that morning.
 
