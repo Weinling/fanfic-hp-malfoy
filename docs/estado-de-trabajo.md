@@ -6,21 +6,15 @@
 
 ## Ahora mismo
 
-- **Capítulo en curso:** ninguno. Empieza el arco del cuarto año.
-- **Lo último hecho:** coreanos 26 a 35 recibidos (una tanda, 11 de octubre), guardados en `coreano/` con saltos de línea repuestos y commiteados. El autor dice que no hace falta adaptarlos todos de golpe: «solo hasta donde se considere».
-- **En marcha:**
-  - Un lector está escribiendo `borradores/resumen-coreano-26-35.md` (resumen detallado por escenas). Si se compacta antes de que termine, comprobar si el archivo existe; si no, relanzarlo.
-  - Lectura completa de la historia (inicio de arco): hecha el 11 de octubre.
-  - Crítico nuevo (Opus) lanzado: lee su arranque (`docs/notas/critico-cuarto-ano-arranque.md`) y los capítulos 1 a 3, 13 a 23 y *Year One*. Todavía no ha criticado nada. Si se compacta, retomarlo con SendMessage (el identificador está en el contexto de la sesión; si se ha perdido, lanzar otro con el mismo arranque).
-- **Lo siguiente:**
-  1. Escribir `borradores/plan-coreano-26-35.md`: estructura del arco, correspondencia coreano → adaptado (el 26 es la cuarta parte de *Year One*), choques ya vistos y decisiones para el autor.
-  2. Empezar un crítico nuevo (Opus) con un resumen de las notas de crítica anteriores.
-  3. Ficha y guion del primer capítulo del arco; luego escribir escena a escena.
-- **Choques ya vistos en la tanda:**
-  - El coreano 26 dice que ella no volvió a decir la palabra; aquí la dice en segundo (caps. 1 y 7) y casi en el 19.
-  - En el coreano 30, Lyra desaprueba a Lupin; aquí tiene culpa y una deuda (la poción). Su dimisión puede ser el pago.
-  - Momentos sexualizados que hay que rehacer (tienen 14 años): el chiste del hurón y el «pecho», el beso medio tumbados, sentarse en el regazo de Harry en la tienda.
-  - Coreano 33: que Harry tenga Saeta de Fuego propia encaja (su Nimbus se perdió en el 10).
+- **Capítulo en curso:** *Year One*, parte 4, *Two Words* (coreano 26), en `borradores/extra-year-one-4-two-words.md`. Escrito entero (unas 4.750 palabras) y commiteado. Ficha en `borradores/extra-year-one-4-ficha-guion.md`.
+- **En marcha:** el crítico del cuarto año lo está criticando. Al volver la crítica: aplicar, escribir la nota en `docs/notas/extra-year-one-4-critica.md`, el manual `docs/capitulos/extra-year-one-4.md` y una línea en el handoff.
+- **Hecho hoy:**
+  - Coreanos 26 a 35 guardados.
+  - Resumen por escenas en `borradores/resumen-coreano-26-35.md`.
+  - Lectura completa de la historia.
+  - Plan del arco en `borradores/plan-coreano-26-35.md`, con decisiones marcadas (avisar).
+  - Crítico nuevo con su arranque. Su lectura inicial cazó cinco fallos de continuidad en los borradores 16 a 23, ya corregidos (anotados en `docs/notas/cap-23-critica.md`).
+- **Lo siguiente:** el capítulo 24 (coreano 27, la Copa Mundial), con su ficha y un lector antes de cerrarla.
 
 ## Texto que solo existe en contexto
 
