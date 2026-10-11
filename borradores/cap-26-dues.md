@@ -184,6 +184,12 @@ The elf had seen it and begun to howl. And Dumbledore had knelt down beside the 
 
 He looked almost proud, she thought, and almost sick, and was trying to be only one of them.
 
+“When?” said Lyra.
+
+“August. Middle of the night.” He thought about it. “A Tuesday.”
+
+At a quarter past two on a Tuesday morning in August, a ring in Wiltshire had gone gold, and she had lain back on her pillow with the satisfied feeling of somebody who has read the last page of a book first. She had not read anything at all.
+
 Lyra found that she had nothing to say for a while. *He changed his mind about something, and it killed him.* Her mother had written that in a small upright hand, a year ago, from a hired owl, and told her to burn it. And her father had written, in a letter hidden inside a letter, *the most devoted of us all*. She had sat behind her bed-curtains with the two of them side by side and decided that one of her parents was lying, or wrong, or had not been told.
 
 They had both been right.

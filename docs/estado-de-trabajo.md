@@ -6,7 +6,7 @@
 
 ## Ahora mismo
 
-- **Capítulo en curso:** el 26, *Dues* (coreano 29). Ficha en borrador en `borradores/cap-26-ficha-guion.md`; un lector busca las referencias. Escritura en `borradores/cap-26-dues.md`.
+- **Capítulo en curso:** el 26, *Dues* (coreano 29), en `borradores/cap-26-dues.md`: escrito entero (unas 4.550 palabras), ficha cerrada. En crítica.
 - **Cerrado también:** el 25, *Old Friends*, con manual, nota y handoff.
 - **Cerrado:** el 24, *Replay*, escrito, criticado y revisado, con manual, nota y handoff.
 - **Cerrado hoy:** *Year One*, parte 4 (coreano 26), escrito, criticado y revisado, con manual (`docs/capitulos/extra-year-one-4.md`), nota (`docs/notas/extra-year-one-4-critica.md`) y handoff §15.

@@ -1,6 +1,6 @@
 # Capítulo 26: Dues (coreano 29)
 
-Borrador de ficha, 11 de octubre de 2026. Se cierra con el informe del lector.
+Ficha cerrada el 11 de octubre de 2026 con el informe del lector. Añadido: el dorado del anillo a las dos y cuarto de un martes (24) fue la destrucción del guardapelo. Sirius no sabía cómo murió su hermano (16): el hallazgo es nuevo también para él. Lyra le da a Potter el dato de su padre («the most devoted of us all», 9), que solo ella tenía.
 
 ## Ficha
 
