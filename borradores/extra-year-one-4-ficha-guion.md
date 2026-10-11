@@ -1,6 +1,6 @@
 # *Year One*, parte 4: Two Words (coreano 26)
 
-Borrador de ficha, 11 de octubre de 2026. Se cierra cuando vuelva el lector con las referencias (protocolo de `CLAUDE.md`).
+Ficha cerrada el 11 de octubre de 2026, con el informe del lector (referencias en toda la historia) y el aviso del crítico nuevo sobre las codas a las nueve.
 
 ## Ficha
 
@@ -27,9 +27,19 @@ Borrador de ficha, 11 de octubre de 2026. Se cierra cuando vuelva el lector con 
 ## Decisiones (avisar)
 
 1. **La escena de Snape y Dumbledore se queda, corta y en el punto de vista de Snape.** Es otra excepción de punto de vista, justificada porque nadie más puede ver desde fuera el cambio de Harry tras la visión de la parte 3. Se recorta lo que es exposición (la Piedra como cebo, los títulos de Dumbledore, «hay un juramento») y se quita la frase de Dumbledore «si lo sabe, será por la cicatriz»: el crítico avisó de que no se diera otra pieza del misterio de ese calibre en el mismo tramo, y la parte 3 ya dio la visión.
-2. **«Mudblood» en primero.** El lector de la tanda anterior anotó «no hay Mudblood en primero» como restricción, pero solo porque las partes 1 a 3 no lo necesitaban. Ningún capítulo dice que la primera vez fuera en segundo. **Pendiente de confirmar con el lector actual.**
+2. **«Mudblood» en primero.** El plan anterior anotó «no hay Mudblood en primero», porque las partes 1 a 3 no lo necesitaban. Ningún capítulo dice que la primera vez fuera en segundo: el 7 solo dice que Lyra la vio estremecerse en segundo. Se mantiene. La reacción fría de Potter en el 7 («Say that in front of me again») se lee ahora como alguien que ha aprendido a controlarse (el 16: «he was good at that, these days»).
 3. **El final del coreano cambia.** El coreano dice que ella no volvió a decir la palabra nunca y que dejó de temer el nombre; aquí la dice en segundo (1, 7) y casi en tercero (19), y sigue estremeciéndose con el nombre (1, 4, 14). Queda: no la dice en lo que queda de curso; la siguiente vez es en otoño, en un campo de Quidditch, por unas escobas (el 1). Y sigue estremeciéndose con el nombre, pero hay una cara de la que se estremece más.
 4. **La sonrisa del boggart.** En el 4, Lyra «had never once seen him smile like that, cold and patient and quite without hurry». Así que aquí Potter no sonríe frío y paciente: sonríe al corrillo, de actor, y luego está furioso, rápido y sangrando. El miedo de verdad es la cara sin sonrisa, con el nombre dentro.
+
+## Restricciones del lector y cómo se cumplen
+
+- **Llorar en público (5, 14, 18).** Lyra llora delante del pasillo, pero ninguna de las dos casas quiere contarlo («By Easter it had gone the way of the Remembrall»), y ella decide que no ha llorado: «I didn’t cry.» / «No. You didn’t.» Es su patrón: el hipogrifo «did not count».
+- **«Never once frightened of him» (4).** Lo entierra, y la última frase lo enlaza con la pregunta de Lupin del 4 sin explicar el espejo: «it did not so much as occur to her that there might be an answer».
+- **La ceja (14: «he already had one of those»).** Pomfrey la cura sin rastro.
+- **La cara fría y la sonrisa paciente (4, 7, 13).** Aquí Potter sonríe de actor al corrillo y luego es furia caliente. La cara que Lyra recuerda es «white and set, with blood running into one eye and the Dark Lord’s name in its mouth».
+- **Orden.** Va después de la parte 3, como en el coreano: el Potter frío de Pociones escala hasta el pasillo.
+- **La coda a las nueve, descartada.** El crítico avisó de que el ritual de las nueve ya cierra tres textos seguidos. La parte termina con Crabbe esa noche, cogiéndole la mano a Lyra.
+- **Lyra no dice el nombre** salvo una vez, llorando y sin saberlo.
 
 ## Guion
 
