@@ -2,7 +2,7 @@
 
 Potter had given her wand back under the cloak, handle first, with a small, solemn bow from the waist, as if they were about to duel. She had taken it without a word. There had not been room under the cloak to hit him again.
 
-“Where were you at lunch?” Crabbe had asked, that evening.
+“Where were you all afternoon?” Crabbe had asked, that evening.
 
 “Detention.”
 
@@ -94,7 +94,7 @@ It was the wrong thing to say. She saw it go in. Weasley’s ears went red, and 
 
 “Oh, right,” he said. “Course. You’d know all about it, wouldn’t you. Must be nice.” His voice had gone flat and nasty, in a way she had not heard from him before. “Invisibility Cloak. Secret girlfriend. Lovely life, being Harry Potter, isn’t it? Everything handed to him.”
 
-For a moment the gravel seemed to tilt under Lyra’s feet.
+Lyra’s hand found the ring in her pocket, and stopped there.
 
 She did not let it reach her face. Moody, she thought. Moody, with his eye, telling Gryffindors—but no. Moody would tell nobody anything; it was the one thing she was sure of about him. Then who? Then *how*?
 
@@ -122,7 +122,7 @@ Lyra took a breath, and lowered her voice, and made it cold, which was easier.
 
 “His *life*?”
 
-“Work it out yourself. Do I have to explain everything to you?” She drew her cloak round her. Then, because she had come this far and there was only one thing left, and it was the most expensive of all, she said it. “And don’t you dare be jealous of him. You’ve got a family so big you can’t find the end of it. Brothers who’d hex anybody who touched you. A mother who knits. It’s the only thing he has ever wanted, and you’ve got it, and you’re standing out here sulking because he didn’t tell you something.”
+“Work it out yourself. Do I have to explain everything to you?” She drew her cloak round her. Then, because she had come this far and there was only one thing left, she said it. “And don’t you dare be jealous of him. You’ve got a family so big you can’t find the end of it. Brothers who’d hex anybody who touched you. A mother who *knits*.” She heard that in her own mouth, and could not quite believe it, and went on. “It’s the only thing he has ever wanted, and you’ve got it, and you’re standing out here sulking because he didn’t tell you something.”
 
 Weasley did not say anything at all.
 
@@ -160,7 +160,7 @@ In the end she simply said, clearly, “Lyra Malfoy, for Professor Karkaroff,”
 
 Something creaked out on the lake. A long wooden gangplank came sliding across the surface of the water towards her, quite dry, as if the lake had been told to keep its hands to itself, and settled its end on the shingle at her feet.
 
-Karkaroff was waiting at the top of it. He was tall and thin, in furs of a rich silvery colour, with short white hair and a little goatee that finished in a curl, and a smile that showed a great many yellowish teeth and did not, she noticed, go anywhere near his eyes.
+Karkaroff was waiting at the top of it. He was tall and thin, in furs of a rich silvery colour, with short white hair and a little goatee that finished in a curl, and a smile that showed a great many yellowish teeth while his pale eyes went over her cloak, and her shoes, and the crest on her father’s letter.
 
 “Lucius’s daughter!” He held out both hands to her as though she were a long-lost niece. “And the very image of him. Come in, come in, out of the cold.”
 
@@ -214,9 +214,7 @@ He considered this. “Then perhaps one day we fly,” he said, and nodded to he
 
 “There!” said Karkaroff, delighted. “What a pair you would make!”
 
-Lyra smiled her mother’s smile, the one that meant precisely nothing, and thought that Viktor Krum was undoubtedly a genius on a broom, and on a broom only. On the ground he was a hunched, heavy, silent young man with a nose like a hook. Potter, on the ground, was—
-
-She stopped that thought where it was, sharply, and stood up to go.
+Lyra smiled her mother’s smile, the one that meant precisely nothing, and thought that Viktor Krum was undoubtedly a genius on a broom, and on a broom only; but he had looked at her hands before her face, and she found she rather respected that. She stood up to go.
 
 ⁂
 
@@ -234,7 +232,7 @@ She saw the staff first, and then the shape leaning on it, and then the eye: a f
 
 “Evening, Miss Malfoy,” said Moody. “Igor keeping well?”
 
-Lyra stopped. She did not go round him, and she did not look away. She stood on the path in front of him with her chin level and her hands at her sides, and faced him, as he had told her to.
+Lyra stopped. She did not go round him, and she did not look away. She stood on the path in front of him with her hands at her sides, and faced him.
 
 “He doesn’t care for you very much, Professor.”
 
@@ -242,4 +240,4 @@ Lyra stopped. She did not go round him, and she did not look away. She stood on 
 
 Lyra stood where he had left her. She knew exactly what he had seen: Lucius Malfoy’s daughter, coming back in the dark from an old Death Eater’s ship, with her father’s letter delivered and her pockets full of whatever had been given her to bring.
 
-She had gone in by the front door, under her own name, exactly as he had told her to. It had not made the slightest difference.
+She had gone in by the front door, under her own name. It had not made the slightest difference.
