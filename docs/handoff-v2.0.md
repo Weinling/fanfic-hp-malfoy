@@ -575,7 +575,7 @@ Pegado al 14, el capítulo de Harry curaba la herida en el acto. Por eso entra d
 
 **Capítulo 17, *The Face for It*** (coreano 14), en `borradores/cap-17-the-face-for-it.md`. Revisado tras crítica, revisión y una segunda lectura del crítico (notas y decisiones en `docs/notas/cap-17-critica-y-revision.md`). Puntuaciones finales: emoción 8, romance 6, gancho 8, ritmo 7, calor 6, trama 8, personajes 8, prosa 7. Plan del tramo en `borradores/plan-coreano-14-20.md` (aprobado en parte: fusión del coreano 16 con el 17, el coreano 18 fuera de su sitio, nombres de pila en el 21).
 
-**Nueva numeración:** 17 = coreano 14; 18 = coreano 15; 19 = coreano 16 (parcial) + 17; 20 = coreano 19 sin la escena de Ron; 21 = coreano 20. El coreano 18 (extra de primero) pasa a historia corta al cerrar el arco. Hay una escena adelantada del 19 (el beso) en `borradores/cap-19-escena-shut-up-malfoy.md`, provisional.
+**Nueva numeración:** 17 = coreano 14; 18 = coreano 15; 19 = coreano 16 (parcial) + 17; 20 = coreano 19 sin la escena de Ron; 21 = coreano 20. El coreano 18 (extra de primero) pasa a historia corta al cerrar el arco. La escena adelantada del 19 (el beso) ya está integrada en `borradores/cap-19-shut-up-malfoy.md`.
 
 **Punto de la historia.** Jueves 6 de enero de 1994, noche: Lyra encuentra vacío el baño de chicas del trol. El tren volvió el domingo 2.
 

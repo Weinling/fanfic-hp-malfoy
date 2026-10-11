@@ -6,7 +6,7 @@ There were three of them, Hufflepuff third-years, crouched in a row against the 
 
 It was the best thing that had happened to their House in living memory, and Lyra could hardly blame them for it. That did not mean she had to listen. She walked straight into the middle of them, and they got up rather quickly and backed against the wall, three of them against one of her.
 
-“How sweet,” she said. “One win in a hundred years, and you’re making it last. Half of it was Diggory being clever, and none of it was you.” She looked past them at the thing on the flagstones: a little wire trap with a square of treacle tart in it, just big enough for one rat. “And this is how you celebrate. Herding vermin in corridors. You could always become Animagi and turn into dogs, you know. You’d be naturals.”
+“How sweet,” she said. “One win in a hundred years, and you’re making it last. Half of it was Diggory being clever, and none of it was you.” She looked past them at the thing on the flagstones: a little wire trap with a square of treacle tart in it, just big enough for one rat. “And this is how you celebrate. Herding vermin in corridors. You could always become Animagi and turn into ferrets, you know. You’d be naturals.”
 
 “It isn’t ours!” said the boy. “We were only watching—”
 
@@ -68,6 +68,8 @@ Attached, Weasley would have called it.
 
 “Attached,” said Lyra, under her breath. “Honestly.”
 
+A witch in a ruff, in a portrait by the stairs, said “*Ha*,” and went back to her embroidery.
+
 ⁂
 
 Snape had asked her on Monday, after Potions, in the voice he kept for things that were not quite orders. He would be at the Ministry on Wednesday evening, on business. On his desk there would be a potion for Professor Lupin, who was unwell at this time of the month and must have it before moonrise without fail. Would she take it up to him?
@@ -90,6 +92,8 @@ Professor Lupin opened his door looking worse than she had ever seen him, grey t
 
 “Miss Malfoy. Is that from Severus? Thank you. Come in a moment, out of the draught.”
 
+Lyra came in, and left the door open behind her.
+
 There was an old sheet of parchment spread on his desk, covered in fine lines like the plan of a building, and his eyes kept going back to it while he took the goblet from her. He lifted the lid and drank, and grimaced.
 
 “Foul stuff. I’d be a great deal worse without it, though. Thank Professor Snape for me, would you?”
@@ -106,11 +110,11 @@ Lupin lowered the goblet.
 
 “Yes. He would have.” He put the goblet down. “When?”
 
-“November. The eleventh.”
+“November. The thirteenth.”
 
 He looked at her for a long moment.
 
-“The eleventh,” he said. “And you’ve said nothing to anybody since.”
+“The thirteenth,” he said. “And you’ve said nothing to anybody since.”
 
 “No, sir.”
 
@@ -118,9 +122,9 @@ He looked at her for a long moment.
 
 “You told me to stand aside, once,” said Lyra. “In the staffroom. I don’t like owing people.”
 
-Something moved in his face, and for a second he looked almost young. “Then I’m in your debt, Miss Malfoy,” he said, “which I suspect you’ll enjoy.”
+For a second he looked almost young. “Then I’m in your debt, Miss Malfoy,” he said, “which I suspect you’ll enjoy.”
 
-Lyra was not particularly afraid of werewolves. She despised them a little, as everybody she knew despised them; but this one was a teacher, and she had decided some time ago that she rather approved of him, and so she was polite.
+She was polite to him because he was a teacher, and because she had decided some time ago that she rather approved of him. The open door was for the rest of it.
 
 “How does a werewolf come to teach at Hogwarts?”
 
@@ -128,7 +132,7 @@ He smiled, a little wryly, as though he had heard what was underneath the questi
 
 “Professor Snape thinks you let Sirius Black into the castle,” said Lyra. “He’d like to see you gone.”
 
-“And you know that Sirius can turn into a dog, so you know he needn’t have been let in.” He said it quite calmly. So he and Black had talked, and Black had told him who had fed him chocolate. “Severus isn’t wrong to suspect me. We were friends at school, Sirius and I. James, Sirius, Peter Pettigrew and me. There was nobody in the world who knew us the way we knew each other.” His eyes went to the parchment on the desk, and came back. “With James dead and Sirius bound the way he is, I’m the only one left who can stand up and say who Peter really was. So if you’ve a mind to tell the world what I am, Miss Malfoy, I’d ask you to wait until we have him.”
+“Sirius tells me you were in the Shack. That Harry trusted you with that much.” He looked at her over the goblet. “So you know that Sirius can turn into a dog, and that he needn’t have been let in.” He said it quite calmly. So he and Black had talked, and Black had told him who had fed him chocolate. “Severus isn’t wrong to suspect me. We were friends at school, Sirius and I. James, Sirius, Peter Pettigrew and me. There was nobody in the world who knew us the way we knew each other.” His eyes went to the parchment on the desk, and came back. “With James dead and Sirius bound the way he is, I’m the only one left who can stand up and say who Peter really was. So if you’ve a mind to tell the world what I am, Miss Malfoy, I’d ask you to wait until we have him.”
 
 “Why only you? Tell somebody else.”
 
@@ -143,6 +147,8 @@ The trap in the corridor that afternoon, and the square of treacle tart. *He’s
 Nobody could live twelve years as a rat. Nobody with any self-respect; Lyra could not have borne it for a week. But somebody with none at all, who would sooner be a rat than be dead—
 
 “Pettigrew,” she said. “It’s Weasley’s rat. That’s what Potter’s been hunting. Not a pet at all. Pettigrew.”
+
+Something else about rats tugged at her, from earlier that evening, small and grey and on its way out of reach—
 
 “Yes—” Lupin stopped. He had gone, if anything, greyer. “You didn’t know? Didn’t Harry tell you?”
 
@@ -162,13 +168,7 @@ Lupin blinked. “Granger?”
 
 Lupin opened his mouth and shut it again. He had the look of a man who had faced Dementors and Severus Snape and, once a month, himself, and was finding out that there was still something left in the world that he had no idea what to do with.
 
-“Is it because she’s clever?” said Lyra. “Because nobody’s holding anything over her? Because her parents are Muggles, so she’s safer to trust?”
-
-“Miss Malfoy—”
-
-“Why tell *me* to keep out, and ask everybody else? I’m clever too. I’m not only doing it because he’s got—I went against—” Her voice kept breaking in the wrong places, and she could not stop it. “I chose it. I *chose* to.”
-
-“Yes,” said Lupin hastily. “Yes. It’s entirely Harry’s fault, and I’ll speak to him. If you would just sit down for a moment—”
+“It’s entirely Harry’s fault,” he said hastily, “and I’ll speak to him. If you would just sit down for a moment—”
 
 But she was already at the door. She heard him say “Miss Malfoy—” behind her, and then, much more quietly, as though to the room in general, “Oh, *Harry*.”
 
@@ -196,11 +196,11 @@ His eyes went wide behind his glasses. “Who told you that?”
 
 “Does it matter?”
 
-It did not, and she went straight past it. “Nobody else is allowed to know, apparently. A convicted murderer and a werewolf, and that’s your whole army, is it? In a castle this size, after one rat?” She looked from him to Granger and back. “How many of you *are* there, Potter? You’re in the library and on the pitch and halfway up the stairs, all at once. Do you take it in turns?”
+She did not give him time to answer. “Nobody else is allowed to know, apparently. A convicted murderer and a werewolf, and that’s your whole army, is it? In a castle this size, after one rat?” She looked from him to Granger and back. “How many of you *are* there, Potter? You’re in the library and on the pitch and halfway up the stairs, all at once. Do you take it in turns?”
 
 Potter glanced at Granger. It was a very small glance, the kind two people give each other over a thing they have agreed not to say, and Lyra saw it and hated it.
 
-“Pettigrew’s a traitor,” he said, not quite looking at her. “He sold out the two people who trusted him most in the world, and he’d sell out anyone else to stay alive. If he worked out you were part of this, you’d be the first thing he grabbed.”
+“If he worked out you were part of this,” he said, not quite looking at her, “you’d be the first thing he grabbed.”
 
 “I see,” said Lyra. “So you take *Granger*.”
 
@@ -220,9 +220,9 @@ Of course he had made her. He had put the diary on a desk in an empty classroom 
 
 She did not let herself finish. She took hold of his collar instead, with both hands.
 
-“Don’t flatter yourself,” she said into his face. “Nobody made me do anything. I went over the accounts myself—mine, my reckoning, my decision—and I came out on your side. And you treat it as if it were nothing. As if I were something you could put down somewhere safe and come back for later. As if I weren’t even worth *telling*.”
+“Don’t flatter yourself,” she said into his face. “Nobody made me do anything. I went over the accounts myself—mine, my reckoning, my decision—and I came out on your side. And you treat it as if it were nothing. As if I were something you could put down somewhere safe and come back for later. As if I weren’t even worth *telling*. You owe me two. You said so yourself. And you have never once asked me for anything. Not *once*.”
 
-He owed her. He had said so himself, in the library: *that’s two I owe you*. And in all the weeks since, he had never once asked her for anything back. That was the worst of it, and she had only just understood it, with his collar in her fists. Malfoys did not do favours. They extended credit, and you only extended credit to people you meant to deal with again. Potter never asked her for anything because Potter did not think she had anything he needed.
+Malfoys did not do favours. They extended credit, and only to people they meant to deal with again.
 
 He did not answer. For once in his life he looked as if he had nothing ready, and after a moment he looked at Granger instead.
 
@@ -250,9 +250,7 @@ And then she could not have finished if she had tried, because Potter had bent h
 
 This time there was no second in which she did not understand.
 
-The word went wherever words go when there is nowhere left to say them. She still had his collar in both fists. She did not let go of it, because she had forgotten she was holding it, and because letting go would have meant deciding something. His glasses knocked against her cheekbone and he did not seem to notice. It was nothing like the train. On the train it had been over before she knew it had started, a thing done to her in passing, like a hex in a corridor. This went on. It went on long enough for her to notice that she had stopped breathing, and then that he had too; long enough for the whole corridor to go silent round them, so that she heard, from very far away, a small strangled sound that was Granger with both hands clapped over her mouth; long enough for Lyra to understand that he was not going to stop until she stopped trying to say it.
-
-She stopped trying to say it.
+The word went wherever words go when there is nowhere left to say them. She still had his collar in both fists. She did not let go of it, because she had forgotten she was holding it, and because letting go would have meant deciding something. His glasses knocked against her cheekbone and he did not seem to notice. This went on. It went on until she noticed that she had stopped breathing, and then that he had too; long enough for her to hear, from very far away, a small strangled sound that was Granger with both hands clapped over her mouth; and somewhere in it Lyra forgot what she had been trying to say.
 
 When he drew back, it was only a little way. His ears had gone scarlet, exactly as they had on the train, and this time there was no Dementor to blame. He did not speak at once. He looked, for a moment, as though he needed the moment.
 
@@ -262,7 +260,7 @@ Lyra opened her mouth. Nothing in it was a word.
 
 “Wh—that—you—”
 
-“Call me whatever you want,” said Potter. “Tell me not to smile. You’ve every right; I earned that one. Hurt me, if you like, and I’ll stand there and take it. But don’t go making yourself smaller to do it.” A strand of her hair had come down across her face when the ribbon went. He hooked it with one finger and put it back behind her ear, carefully, as if it might go off. “Every time you try, I’ll stop you.”
+“Call me whatever you want,” said Potter. “Tell me not to smile. You’ve every right; I earned that one. But don’t go making yourself smaller to do it.” A strand of her hair had come down across her face when the ribbon went. He hooked it with one finger and put it back behind her ear, carefully, as if it might go off. “Every time you try, I’ll stop you.”
 
 Somewhere in there her hands had let go of his collar. She did not know what to do with them, so she did nothing with them at all.
 
@@ -285,6 +283,8 @@ She stared at him.
 “Everything?”
 
 “Everything.”
+
+Behind him, Granger had taken her hands away from her mouth. She looked at Lyra for exactly one second, without a word. From Granger, it amounted to a speech.
 
 ⁂
 

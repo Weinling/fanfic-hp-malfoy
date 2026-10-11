@@ -52,12 +52,12 @@ Correspondencia de capítulos (adaptado = coreano):
 
 Dónde está cada cosa:
 - Publicados: `manuscrito/cap-01` … `cap-15`.
-- Sin publicar: `borradores/cap-16-how-to-stop-smiling.md`, `cap-17-the-face-for-it.md`, `cap-18-fair-play.md`, y la escena adelantada `cap-19-escena-shut-up-malfoy.md` (provisional).
+- Sin publicar: `borradores/cap-16-how-to-stop-smiling.md`, `cap-17-the-face-for-it.md`, `cap-18-fair-play.md` y `cap-19-shut-up-malfoy.md`.
 - Fichas y guiones: `borradores/cap-NN-ficha-guion.md`.
 
 ## Tu tarea
 
-Yo te indicaré una **tanda** (por ejemplo, «del 16 al 18 y la escena del 19»). La lees **seguida**, con el coreano al lado, y juzgas el **conjunto**:
+Yo te indicaré una **tanda** (por ejemplo, «del 16 al 20»). La lees **seguida**, con el coreano al lado, y juzgas el **conjunto**:
 
 - **Fidelidad al coreano:** ¿se cambia algún acontecimiento importante, motivación, relación o resultado de escena sin que el plan o una decisión mía lo justifiquen? ¿Falta algo con función? ¿Las adiciones son pequeñas y compatibles con lo que viene en el coreano siguiente?
 - **Continuidad:** entre los capítulos de la tanda y con los capítulos 1-15. Hechos, fechas, nombres, quién sabe qué, libro de cuentas, fichas y lugares. Verifica con `grep` y cita archivo:línea.
