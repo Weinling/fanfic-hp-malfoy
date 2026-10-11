@@ -88,7 +88,7 @@ She believed it, too. She very nearly believed it.
 
 At the start of the year it had been different. At the flying lesson she had come off her broom twenty feet up, which was not a thing she cared to think about, and Potter had thrown himself after her, and she had not minded nearly as much as she ought to have. She had been brought up to be looked at, and she knew what being looked at felt like, and she knew what he had looked like that day, reaching up for her with his hand out and his face wide open. He had been looking *up*. Even upside down and falling, she had been the one in the middle of the story.
 
-Now he looked at her the way you might look at a cut on somebody else’s hand. On the rare occasions he looked at her at all, his eyes went through her like something thin and cold, and then he let out a short breath through his nose, as if she had disappointed him again, and turned away.
+Now, on the rare occasions he looked at her at all, his eyes went through her like something thin and cold, and then he let out a short breath through his nose, as if she had disappointed him again, and turned away.
 
 It was not a way she was used to being looked at. It was not, she was quite sure, a way anybody had the *right* to look at her.
 
@@ -124,7 +124,7 @@ Neville shook his head. “I don’t want any more trouble.”
 
 Harry got up.
 
-He did not say anything at first. He took out his wand, and turned it over once in his fingers, and something in the way he did it made the Gryffindors nearest to him go quiet, and look at each other, and then look back at him with a sort of nervous, hopeful interest, the way people look at a firework somebody has just lit.
+He did not say anything at first. He took out his wand, and turned it over once in his fingers, and something in the way he did it made the Gryffindors nearest to him go quiet, and look at each other, and then look back at him with a sort of nervous, hopeful interest, as at a firework somebody has just lit.
 
 “Outside the library,” said Harry. “That’s what you said, Neville?”
 
@@ -272,7 +272,7 @@ People flinched all round them, as if he had thrown something. Something was run
 
 Her face crumpled.
 
-He watched it go. She had been holding it all together the whole time, the hair and the voice and the chin, and now it went all at once, and she burst into tears: not neatly, not the way girls cried in books, but the way a child cries, with her mouth open and her eyes screwed shut and great hiccupping sobs that echoed off the stone.
+He watched it go. She had been holding it all together the whole time, the hair and the voice and the chin, and now it went, and she burst into tears: not neatly, not like a girl in a book, but like a child, with her mouth open and her eyes screwed shut and great hiccupping sobs that echoed off the stone.
 
 It went straight through him.
 
@@ -295,3 +295,57 @@ Behind him, Crabbe got her legs apart. It had only been a first-year’s jinx, a
 “*Get off her!*”
 
 He went over backwards. He was not expecting it, and he had nothing left to stop himself with; he sat down hard on the floor with his head ringing. By the time he had sorted out which way was up, Crabbe had Malfoy by one arm and Goyle had her by the other, and the three of them were going away down the corridor as fast as they could go, with Malfoy still sobbing between them.
+
+⁂
+
+After a storm, it turned out, everything went very quiet.
+
+Harry lay on the flagstones and looked at the ceiling. By rights the corridor ought to have been cheering. The Slytherins had run; that was how these things were scored. Nobody cheered. Tears did not seem to belong to any House, and somehow, without anybody saying a word, the whole corridor had arrived at the conclusion that the person in the wrong was the one lying on the floor. People looked at him with uncomfortable faces, and then looked away, and drifted off in twos and threes towards their own common rooms.
+
+Ron came and crouched beside him. “You all right? Sorry, mate. I should’ve had Crabbe.”
+
+“Doesn’t matter.” Harry waved a hand at him. It was better this way, really. If she had stood there crying any longer he did not know what he would have done.
+
+“*What* is going on here?”
+
+Professor McGonagall came round the corner at a speed that did not seem possible in a woman her age, and stopped dead at the sight of Harry on the floor with blood all down one side of his face.
+
+“Potter! Your head is bleeding!”
+
+“I think I had a bit too much blood in it, Professor,” said Harry. “I was letting some out. Is there much left?”
+
+McGonagall’s nostrils went thin and white.
+
+“Fighting. *Again*. I told you the last time, Potter, I told you in so many words. I have never in all my years seen a Gryffindor start so many fights in so short a time. Fifty points, and a detention, and you may thank your stars it is not worse—”
+
+“Why only me—”
+
+“Fifty points from every student involved in this, Mr Weasley and Miss Granger *included*, and detentions all round! Hospital wing, Potter, this minute.” She turned on a tall Hufflepuff who had been edging away towards the stairs. “Mr Diggory. Who was Potter fighting?”
+
+So Malfoy would get a detention too. Harry found that he was glad, and could not have said why.
+
+He got himself up off the floor. His head had gone cold and clear, now that all the heat had gone out of it, and things were coming back to him in order. He could not quite remember, now, how he had got from Neville on the hearthrug to Malfoy against the wall. He remembered the word, and the corridor going quiet, and the name in his own mouth. Mostly, though, he remembered her face.
+
+He had decided, in October, that he was going to change her. He had put his chin up on a broom and told himself so.
+
+“I was going to change her,” Harry said, to nobody. “I made her cry.”
+
+Madam Pomfrey mended his eyebrow in about a minute, with a great deal of tutting, and in the morning there was nothing to show where it had been. That was the last anybody saw of it. The Gryffindors did not tell the story, because it was not the sort of story that made Harry look good. The Slytherins did not tell it, because it was not the sort that made Malfoy look good either. By Easter it had gone the way of the Remembrall, and nobody spoke of it at all.
+
+⁂
+
+Crabbe came up to the dormitory after lights out, when the others were asleep, and sat down on the end of Lyra’s bed in the dark.
+
+Lyra had the hangings drawn. She did not open them.
+
+“I didn’t cry,” she said.
+
+There was a pause on the other side of the curtain. Crabbe, who was the worst liar in Slytherin, and possibly in the castle, took a long time over it.
+
+“No,” she said at last. “You didn’t.”
+
+She went on sitting there. After a while Lyra put her hand out between the hangings, without meaning anything by it, and Crabbe took hold of it and held on, and neither of them said another word until Lyra was asleep.
+
+She did not say the word again that year. The next time was the following autumn, on a Quidditch pitch, about some brooms, and that time it was Weasley who went for his wand. She went on flinching at the other one, the name, as everybody she had grown up with flinched at it. But there was a particular face that she flinched from more: a boy’s face, white and set, with blood running into one eye and the Dark Lord’s name in its mouth.
+
+She was very good, by the summer, at not thinking about it. She was so good at it that a year and a half later, when a mild man in patched robes sat in a shabby armchair and asked her whether Harry Potter had ever given her a really bad fright, it did not so much as occur to her that there might be an answer.
