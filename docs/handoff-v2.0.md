@@ -769,4 +769,11 @@ Las notas del crítico del 19 son 9/9/9/7/7/9/7/7 (empata con el 15 en cabeza). 
   - Lyra compró la insignia S.P.E.W.
   - Lyra decide espiar en Slytherin.
   - Ron, distanciado de Harry.
-- **Siguiente:** el capítulo 27 (resto del coreano 30: Moody y el hurón).
+- **Capítulo 27, *Ferret*** (resto del coreano 30), escrito y criticado (`docs/notas/cap-27-critica.md`; manual `docs/capitulos/cap-27.md`). Fija:
+  - Lupin contestó: no la absuelve y se declara aún en deuda con ella.
+  - Lyra resiste el Imperius delante de Slytherin; Moody insinúa que su padre se lo enseñó.
+  - Moody sabe lo de la pareja desde septiembre (su ojo ve a través de capas), se lo dijo a Harry en octubre, rechaza la ayuda de Lyra («You’re Lucius Malfoy’s daughter») y sospecha que Lucius la manda o la controla.
+  - Lyra apuntó a Moody por la espalda y él la convirtió en hurón; Potter, citado con Moody, la recogió.
+  - Granger dedujo que el hurón era Lyra. Ron cree que Harry se presentó sin decírselo.
+  - El primer beso decidido por ella, en el hocico; «no cuenta». El de verdad queda para el 32.
+- **Siguiente:** el capítulo 28 (coreano 31: los escregutos, Weasley, el barco de Durmstrang).
