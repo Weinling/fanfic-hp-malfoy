@@ -78,7 +78,7 @@ La pregunta no es si hay contención o emoción, sino **si el lector siente lo q
 - Salir del punto de vista de Lyra.
 - Cambiar lo que pasa en una escena. Puedes decir que algo no funciona y por qué; el autor decide si el hecho se mueve o solo cambia cómo se cuenta.
 
-**Ten en cuenta:** las deudas, los favores y los pagos son el motivo central del fic y son deliberados. Señálalos solo si se vuelven fórmula. Lo mismo vale para objetos que vuelven de capítulos anteriores: son recuerdos a propósito, salvo que se usen igual dos veces.
+**Ten en cuenta:** las deudas, los favores y los pagos son el motivo central del fic, pero ya no aparecen en todos los capítulos (decisión del autor, 11 de octubre de 2026). Señala si un capítulo resuelve más de un momento clave por la cuenta, si el vocabulario contable se acumula o si el motivo se usa donde la escena no lo pide. Lo mismo vale para objetos que vuelven de capítulos anteriores: son recuerdos a propósito, salvo que se usen igual dos veces.
 
 ## 5. Tics a vigilar
 

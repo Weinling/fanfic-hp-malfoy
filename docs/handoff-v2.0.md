@@ -69,7 +69,7 @@ La comparación con la otra historia dejó claro dónde está la ventaja de este
 
 Es la frase que resume el fic, igual que “ask properly” resume el de la competencia. Lyra y Harry solo saben quererse a crédito: se hacen favores, se los cobran, se deben cosas y llevan la cuenta. El romance avanza cada vez que la cuenta deja de cuadrar, cuando uno de los dos da algo que no se puede cobrar o perdona algo que podría exigir. El final de la escalera, todavía lejos, es una Malfoy que da sin apuntar y un Potter que deja de esconder lo que sabe.
 
-Cada capítulo toca la cuenta: se contrae una deuda, se paga, se cobra de más, se perdona o se rechaza. El libro de cuentas está en la sección 6.
+La cuenta aparece **cuando la escena la pide**, no en todos los capítulos (decisión del autor, 11 de octubre de 2026, tras ver que en el 26 al 28 cada momento clave se resolvía por la cuenta). Como mucho, un momento clave por capítulo resuelto con ella, y debe haber capítulos sin ella. Cuando aparece, es que se contrae una deuda, se paga, se cobra de más, se perdona o se rechaza. Además, el motivo debe ir apagándose a medida que Lyra cambia: su arco va del crédito al regalo, y que cuente cada vez menos ya es mostrar ese cambio. El libro de cuentas está en la sección 6.
 
 ### La pregunta romántica
 
@@ -374,7 +374,7 @@ La escena pendiente desde el 7, sin Harry delante, puede ser un capítulo corto 
 ### Cada capítulo
 
 1. **Lectura.** Comprensión del coreano, continuidad con lo adaptado y canon.
-2. **Ficha del capítulo**, nueva y obligatoria: motor; peldaño (sube o baja, y por qué); deseo del lector; la escena de los dos; pantallazo previsto; momento de calor; gancho final; fichas y cuentas que se tocan; hilos atrasados; peaje del thriller. Va al principio del guion.
+2. **Ficha del capítulo**, nueva y obligatoria: motor; peldaño (sube o baja, y por qué); deseo del lector; la escena de los dos; pantallazo previsto; momento de calor; gancho final; fichas que se tocan; cuentas, solo si la escena las pide (apartado opcional); hilos atrasados; peaje del thriller. Va al principio del guion.
 3. **Guion por escenas**, que el autor aprueba antes de escribir.
 4. **Escritura** en un documento editable: primero el esqueleto con una sección pendiente por escena, luego una escena por llamada, con comillas y apóstrofos tipográficos desde el primer borrador.
 5. **Pasada de tics** (sección 4) y **lectura en frío**: dónde se cansaría un lector, qué frase citaría, si sabe en cada momento clave qué siente Lyra.
@@ -783,4 +783,5 @@ Las notas del crítico del 19 son 9/9/9/7/7/9/7/7 (empata con el 15 en cabeza). 
   - Karkaroff no metió el nombre; se le escapa que Crouch mandó a su hijo a Azkaban y algo de los Longbottom.
   - Krum: «perhaps one day we fly».
   - Moody la ve volver del barco.
+- **La cuenta, rebajada** (autor, 11 de octubre): deja de ser obligatoria en cada capítulo (§3 y §8). En el arco del 29 al 32 el motor es la elección y la lealtad; el Baile se paga sin cuentas.
 - **Siguiente:** el capítulo 29 (coreano 32), interludio de Harry **(avisar)**: la reconciliación, los Horrocruxes contados a Ron y Hermione, Krum, Skeeter y el domingo: un beso elegido por los dos (no el primero: hubo en el 3 y el 19) y los dragones.
