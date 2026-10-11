@@ -173,7 +173,7 @@ Ocupa el lugar de Draco con identidad propia: hija mayor de Lucius y Narcissa, h
 - **Lo que quiere de verdad:** que la elijan y la dejen entrar. No lo sabe, y el lector sí.
 - **Su defecto en el motor:** lo convierte todo en transacción. Su arco va del crédito al regalo.
 - **Su prejuicio** sigue ahí. Piensa “Mudblood”, aunque no lo diga delante de Potter, y protege a Lupin sin dejar de despreciar a los hombres lobo. El cambio llega con coste y no solo por Harry.
-- **Gestos:** se muerde la uña del pulgar; sabe tener la cara perfectamente quieta; lleva el pelo atado desde noviembre de 1992, una penitencia sin nombre. Se ríe poco, y cuando se ríe de verdad tiene que contar.
+- **Gestos:** se muerde la uña del pulgar; sabe tener la cara perfectamente quieta; desde noviembre de 1992 lleva el pelo atado en cada entrenamiento y cada partido (el 9), una penitencia sin nombre; fuera del campo lo lleva suelto o con pasadores, y a veces con cinta (la que pierde en la escalera del 19). Se ríe poco, y cuando se ríe de verdad tiene que contar.
 - **Mentiras a Potter:** “Extensively” (3), “No” y “Perfectly” (7). Ha mentido también a su padre (2) y a Lupin (4 y 12).
 - **Lo que le dan los dementores:** la grada de 1992 sin la mano que la agarró. Desde el partido ha soñado con ella dos veces, hacia las tres de la mañana.
 - **Boggart:** una figura encapuchada con la cara de Potter y una sonrisa fría, que a Lupin le recordó a Quien-Tú-Sabes.

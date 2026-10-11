@@ -9,7 +9,7 @@
 - **Capítulo en curso:** ninguno. El tercer año está cerrado: del 17 al 23 y *Year One* están escritos y criticados.
 - **Lo último hecho:**
   - Revisión del 1, el 2 y el 3: segunda vuelta tras una crítica externa, ya en `manuscrito/` (ver `docs/notas/revisiones/decisiones-1-2-3.md`). El autor ha confirmado la extensión.
-  - Manuales por capítulo en `docs/capitulos/`: en preparación.
+  - Manuales por capítulo en `docs/capitulos/`, del 1 al 23 más los tres de *Year One*: completos y revisados. Las contradicciones que encontraron los lectores están corregidas en los borradores (el 16, el 20, el 21, el 22 y el 23) o anotadas en los manuales.
 - **Lo siguiente:**
   - Esperar los coreanos del cuarto año (del 26 en adelante; el autor los pasará en tanda).
   - Con ellos: leer la historia entera (es inicio de arco), escribir el plan del arco y empezar un crítico nuevo con el resumen de notas.
