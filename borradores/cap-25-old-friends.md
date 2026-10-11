@@ -175,3 +175,69 @@ The Hall erupted. Lyra hardly heard it. Two other schools, Beauxbatons and Durms
 She looked across the Hall at Potter again. He was not looking at Dumbledore. He was looking at her.
 
 It lasted perhaps a second. Then he looked away, back to the staff table, with a perfectly ordinary face; and Lyra sat at the Slytherin table with her hands in her lap, and understood that he had known she would be looking, and that he had wanted her to know that he knew.
+
+⁂
+
+Professor Moody did not take a register. He stumped into the Defence classroom on the first Thursday of term, put a jar on his desk, and stood looking at the fourth-year Slytherins with one eye while the other went slowly along the rows, and then round, and then into the back of his own head, and came back with what it had found.
+
+“I know your families,” he said. His voice was a low growl, like something being dragged over gravel. “Some of your mothers and fathers sat in front of the Wizengamot because of me. If I’d had a bit more evidence, a few of you wouldn’t be sitting here at all, because you wouldn’t have been born.” The normal eye went round them, slowly. “But the sins of the parents aren’t the sins of the children. Not yet, anyway.”
+
+Nobody said a word. Next to Lyra, Goyle had gone a mottled pink.
+
+“Right. Curses. The Ministry says I’m to teach you the countercurses and leave it there. I say you can’t fight what you’ve never seen. Which of you can tell me which curses are most heavily punished by wizarding law?”
+
+Lyra did not put her hand up. She never did.
+
+“The Imperius Curse,” she said.
+
+The blue eye swivelled round and fixed on her. Then the other one did.
+
+“Ah,” said Moody. “Malfoy. Lucius Malfoy’s girl. You’d know, wouldn’t you?” He leaned on his desk. “Your father did a very beautiful Imperius, Miss Malfoy. One of the best I ever came across. Only one of his crowd that ever walked out of court, and we never did find the people he’d been working like puppets. It’s thanks to men like your father the Ministry had to start testing for it.”
+
+Somebody at the back drew in a sharp breath. Lyra kept her face perfectly still, which was the one thing in the world she was entirely sure she could do.
+
+“I don’t see what that has to do with the lesson, Professor.”
+
+Moody looked at her for a moment longer. Then he gave a short bark that might have been a laugh.
+
+“No. Nor it has. I got carried away. Old habit.”
+
+He took a spider out of the jar, a large black one, and set it on the desk, and pointed his wand at it. “*Imperio*.”
+
+The spider began to tap-dance.
+
+It went cartwheeling across the desk on its eight thin legs, and did the splits, and swung round in circles on a thread, and the class began to laugh: Parkinson first, then the Warrington cousins, then nearly everybody. Moody let them. Then he stopped smiling.
+
+“Funny, is it? You’d like it if I did it to you?” The laughter died. “Total control. I could make it jump out of the window. Drown itself. Throw itself down one of your throats. I could make *you* do it. I could make you do things you’d hang for, and you’d never know it was me.” The blue eye rested on Lyra for one moment, and went on. “Years back, there were a lot of witches and wizards claiming they’d only done the Dark Lord’s business because they’d been Imperiused. Some of them were telling the truth. Sorting out which was the Ministry’s job. Some of them we never did sort out.”
+
+He did not need to look at her again. Lyra could feel every Slytherin in the room not looking at her either.
+
+“Another. Anybody?”
+
+“The—the Cruciatus Curse,” said Goyle, very quietly.
+
+Moody looked at her, longer than he needed to, with an expression Lyra could not read, as though he had been about to say something to her and had decided against it. Then he took the second spider out of the jar and enlarged it until it was the size of a dinner plate, and said “*Crucio*.”
+
+It did not make a sound. Spiders could not. It only drew its legs up into itself and shook, and twitched, and went on shaking, and Lyra watched the bench in front of her instead and heard Crabbe breathing through her mouth beside her, and it seemed to go on for a very long time. When Moody lifted his wand, the spider lay on its back with its legs curled, quivering.
+
+“And the last,” said Moody.
+
+Parkinson put up his hand. He had obviously been waiting to impress somebody all lesson. “*Avada Kedavra*,” he said, and his voice went out at the end of it like a candle.
+
+Moody nodded, and took out the third spider.
+
+There was a flash of green light, and a rushing sound, and the spider rolled over and was dead. There was not a mark on it.
+
+“Not nice,” said Moody. “No countercurse. No blocking it. There’s only ever been one person known to have survived it, and he’s sitting in a classroom upstairs right now.”
+
+Lyra did not look at the ceiling. She thought of a boy with untidy hair and a thin white scar, and an empty classroom in May, and a careless voice saying the Dark Lord’s name as if it were just a word.
+
+“Don’t you ever let anybody tell you those three are power,” said Moody. “They’re not. They’re something dirty, spat out of the end of a wand. If you ever see anybody using one, you come and tell me.”
+
+On her way out, with the class streaming past her, the blue eye swivelled round once more and went down, quite deliberately, to the pocket of her robes. It stayed there a moment. Then it went back.
+
+Lyra walked up the stairs to Arithmancy with her hand closed round the ring in her pocket and thought about a travelling cloak with mud on its hem, and men in masks, and a family of Muggles turning slowly in the air above a laughing crowd.
+
+If you ever see anybody using one, you come and tell me.
+
+She would not. She did not even have to think about it.
