@@ -18,9 +18,13 @@ Aquí van los capítulos de la fanfic coreana original, tal como los entrega el 
 | `ko-19.md` | 히포그리프 벅빅(2) | Llegó sin saltos de línea |
 | `ko-20.md` | 세 시간 전, 입닥쳐 말포이 | Llegó sin saltos de línea |
 | `ko-21.md` | 두 시간 전, 히포그리프 벅빅(2) | Llegó sin saltos de línea |
+| `ko-22.md` | 한 시간 전부터, 현재까지 | Llegó sin saltos de línea |
+| `ko-23.md` | 퀴디치 시합, 그리핀도르 vs 후플푸프 | Llegó sin saltos de línea |
+| `ko-24.md` | 외전. 10세, 싸가지와 날라리 | Extra (primero, sobre todo punto de vista de Harry). Llegó sin saltos de línea |
+| `ko-25.md` | 외전, 10세. 번개모양 흉터 | Extra (primero, punto de vista de Harry). Llegó sin saltos de línea |
 
-**Faltan:** del 1 al 13 (ya adaptados; solo hacen falta para consultas puntuales) y del 22 en adelante.
+**Faltan:** del 1 al 13 (ya adaptados; solo hacen falta para consultas puntuales) y del 26 en adelante.
 
 **Sobre el pegado (2026-10-11):**
-- En el 17, el 18, el 19, el 20 y el 21 el título empieza por «1.». Es un resto del pegado, no la numeración real.
-- En esos cinco, los saltos de párrafo se repusieron con un script que solo inserta saltos de línea: sin espacios en blanco, el texto es idéntico al pegado. Algún corte puede no coincidir con el original. Dentro de los diálogos no se tocó nada salvo el discurso largo de Harry en el 20.
+- Del 17 al 25, el título empieza por «1.». Es un resto del pegado, no la numeración real.
+- En todos ellos, los saltos de párrafo se repusieron con un script que solo inserta saltos de línea: sin espacios en blanco, el texto es idéntico al pegado. Algún corte puede no coincidir con el original. Dentro de los diálogos no se tocó nada salvo el discurso largo de Harry en el 20.
