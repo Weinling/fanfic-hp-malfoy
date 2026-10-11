@@ -35,6 +35,8 @@ Resultado: siete coreanos se quedan en cinco capítulos y un extra reubicado. No
 
 ## Encaje con lo publicado
 
+Publicado hasta el 15 (a 11 de octubre). El 16 está escrito y sin publicar, así que todavía admite ajustes si este tramo los pide.
+
 - **Los anillos ya están sembrados en el 8:** «a velvet box of silver rings that claimed to warm when the other’s wearer was in trouble», mientras Lyra fingía aburrirse junto a la puerta. No es una ficha nueva: es una semilla que se paga. En el 8 se calientan; en el coreano cambian de color y señalan una dirección. Propuesta: que hagan las dos cosas.
 - **Lupin.** Lyra ya sabe desde el 12 que es un hombre lobo. En el 19 no lo descubre: se lo dice a la cara por primera vez. La mirada de Snape, que espera algo de ella, ya está en el 15.
 - **«Te avisé en primero»** pasa a ser la biblioteca, en octubre (7). En el 15 la palabra ya no le salía sin un Potter delante; en el 19 va a buscarla a propósito, sabiendo que se arrepentirá. Es el mejor uso posible de ese hilo.
@@ -49,11 +51,30 @@ Resultado: siete coreanos se quedan en cinco capítulos y un extra reubicado. No
   - El encantamiento animador sí es de tercero. El escudo mental ya lo notó Snape en el 11 («You have a natural—»): pago limpio.
 - **Por comprobar:** que la edad de Draco (cuatro años menos, entra dentro de dos cursos) cuadre con el capítulo 2.
 
-## Lo que hay que rehacer por contenido
+## Lo romántico: a la altura, no recortado
 
-- **El beso del 19.** El original lo hace «demasiado largo y explícito»: Harry le toca el pelo y se lame los labios. Se conservan la función (cortar la palabra y «I’ll stop you every time»), la brevedad y el efecto en Lyra. Fuera lo de lamerse los labios. En el 21, el botón que se desabrocha Potter pasa a ser «with his ears gone red».
-- **La capa** (coreano 19 y 20). Fuera el «olor cálido y descarado» y lo de olerla («tu sudor apenas huele»). Se sustituye por un chiste sin cuerpo: la capa está tibia, «You ran in it.» / «I do not run.» / «You ran.»
-- **Lupin «soltero de nacimiento».** Se rebaja a algo como que se había enfrentado a dementores y a Severus Snape, y nada le había preparado para esto.
+Indicación del autor: lo que no se puede escribir tal cual se sustituye por algo de la misma intensidad, no se quita.
+
+**Lo que hay publicado.**
+- El beso del 3 es un roce rapidísimo: «so quickly and so lightly that for a second she genuinely did not understand what it had been. Then she did». Él dice «First kiss with a Dementor? Not any more» y «Call it charity», con las orejas escarlata.
+- La última mención es el 5: «Want to kiss something?» y Lyra mirándole la boca a Potter.
+- Desde el 6 hasta el 16 no se vuelve a nombrar. El coreano 17 dice lo mismo («la otra vez solo se rozaron los labios»).
+- El beso del 19 retoma, por tanto, un hilo dormido durante catorce capítulos. Es una ventaja: el lector lo recibe como una promesa cumplida.
+
+**El beso del 19 (coreano 17).** La intensidad se mantiene y cambia de sitio: del cuerpo al significado y al contraste con el 3.
+- **Duración:** esta vez es lo bastante largo para que no haya ese segundo de no entender. Se escribe por contraste: «This time there was no second in which she did not understand.»
+- **Por qué lo hace:** para cortar la palabra. Eso no lo tenía el 3, y es lo que lo eleva.
+- **Eco:** «This one isn’t charity», o algo que lo invoque sin decirlo.
+- **Harry, alterado:** en vez de lamerse los labios, se le nota en las orejas escarlata (como en el 3) y en que necesita un momento antes de poder hablar. Le aparta un mechón (el original le toca el pelo; eso se queda) y se aparta con las manos en alto.
+- **Lyra, después:** el «bajó flotando a las mazmorras» y tocarse los labios en la cama se quedan.
+
+**La capa (coreano 19 y 20).** El original hace un espejo: en el 19 ella se pone la capa y huele a él; en el 20 él la huele y huele a ella. El espejo se queda. Se cambia de qué huele:
+- en el 19, a humo de chimenea de Gryffindor y a abrillantador de escobas, y Lyra se niega a ponerle nombre;
+- en el 20, Harry la sacude y está todavía tibia: «You ran in it.» / «Malfoys do not run.» / «It’s still warm.» Sin sudor y sin olerla de cerca.
+
+**El botón que se desabrocha Potter** (coreano 20) pasa a ser las orejas rojas, que además vuelve a enlazar con el 3.
+
+**Lupin «soltero de nacimiento».** Se rebaja a algo como que se había enfrentado a dementores y a Severus Snape, y nada le había preparado para esto.
 
 ## La poción con huellas de rata
 
@@ -64,7 +85,7 @@ Este dato del original tiene consecuencias. Lyra ve que una rata ha caído en la
 1. Fusionar el coreano 16 en el 17 (adaptado 19).
 2. Sacar el coreano 18 de su sitio y publicarlo al cerrar el arco.
 3. **Nombres de pila en el 21.** El original rompe dentro del bucle la regla «en el punto de vista de Lyra, Harry es siempre Potter»: el pasado es Potter y Malfoy, el presente, Harry y Lyra. Recomiendo seguirlo. Es el peldaño del capítulo.
-4. **Snape.** En el coreano 19 la llama «Karina». Propongo «Miss Malfoy», para que el primer «Lyra» sea de Harry.
+4. ~~Snape la llama «Miss Malfoy»~~. Retirada: Snape ya la llama «Lyra» en el 11 (cinco veces), igual que Lucius (2 y 6) y Montague (9). En el coreano 19 sigue llamándola «Lyra», por coherencia. Lo que estrena el 21 no es el nombre: es que lo diga Harry y que ella le llame «Harry».
 5. **Fecha del clímax:** la luna llena del 2 o 3 de febrero de 1994.
 6. **La coda de la señora Norris** (coreano 15) rompe el punto de vista de Lyra. Propongo mantenerla, de dos o tres líneas, porque es el gancho del capítulo.
 7. **La decisión de Navidad** (si el Señor Oscuro vuelve, desertar la primera) se mantiene tal cual. Es el obstáculo de fondo.

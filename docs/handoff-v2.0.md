@@ -18,7 +18,7 @@ Este handoff sustituye al v1.6 y a su anexo v1.7, y no necesita ninguno de los d
 | Adaptados | 1 a 16 |
 | Punto de la historia | Sábado 18 de diciembre de 1993: Lyra se va a casa por Navidad (15). El 16 vuelve a la tarde del sábado 11, en la Casa de los Gritos |
 | Siguiente | Capítulo 17 = coreano 14, Navidad en la mansión (secciones 7 y 11) |
-| Publicación | Wattpad y Webnovel. Wattpad, desde hace seis días a 6 de octubre de 2026. Los capítulos publicados no se reescriben (sección 9) |
+| Publicación | Wattpad y Webnovel, publicado hasta el 15 a 11 de octubre (el 16 está escrito, sin publicar). Wattpad, desde hace seis días a 6 de octubre de 2026. Los capítulos publicados no se reescriben (sección 9) |
 
 ### Capítulos
 
@@ -384,7 +384,7 @@ Si la sesión se carga demasiado, se avisa y se prepara un handoff nuevo.
 
 ### Críticos
 
-**Opus** lee cada capítulo como lector exigente y con el encargo v2.0, que mide la calidad y también si el capítulo funciona en Wattpad. No conoce el original ni los capítulos siguientes. **Fable** hace lecturas de conjunto; la próxima, al cerrar el arco con el 16, leyendo del 8 al 16 seguidos con el motor en la mano. Las notas se aceptan, se aceptan en parte o se rechazan, siempre con motivo; si piden cortar algo del original, se pesa la fidelidad antes. Tras cada crítica, Claude aplica los cambios y redacta la **nota para el crítico**: qué se ha cambiado, qué se mantiene a propósito y qué queda anotado, sin revelar capítulos futuros.
+**Opus** lee cada capítulo como lector exigente y con el encargo v2.0, que mide la calidad y también si el capítulo funciona en Wattpad. No conoce el original ni los capítulos siguientes. **Opus**, en otra sesión, hace también las lecturas de conjunto (antes las hacía Fable; el autor lo cambió el 11 de octubre); la próxima, al cerrar el arco con el 16, leyendo del 8 al 16 seguidos con el motor en la mano. Las notas se aceptan, se aceptan en parte o se rechazan, siempre con motivo; si piden cortar algo del original, se pesa la fidelidad antes. Tras cada crítica, Claude aplica los cambios y redacta la **nota para el crítico**: qué se ha cambiado, qué se mantiene a propósito y qué queda anotado, sin revelar capítulos futuros.
 
 ### Presencia de autor
 

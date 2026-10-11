@@ -8,8 +8,8 @@ Adaptación al inglés de una fanfic coreana de Harry Potter con un genderbend d
 
 | Ruta | Qué es | ¿Se edita? |
 |---|---|---|
-| `manuscrito/cap-NN-*.md` | Capítulos 1 a 16, versión publicada | Solo retoques invisibles (handoff §9) |
-| `borradores/` | Capítulos en curso (el 17 en adelante), guiones y fichas de capítulo | Sí |
+| `manuscrito/cap-NN-*.md` | Capítulos publicados (1 a 15) | Solo retoques invisibles (handoff §9) |
+| `borradores/` | Capítulos sin publicar (el 16, escrito y revisado; el 17 en adelante), guiones, fichas y planes | Sí |
 | `docs/handoff-v2.0.md` | Motor y reglas | Sí, al cerrar cada capítulo |
 | `docs/critico-v2.0.md` | Encargo y rúbrica del crítico | Sí |
 | `docs/guia-ilustraciones.md` | Guía para el ilustrador | Pendiente de actualizar |
@@ -39,4 +39,6 @@ Sigue la skill `metodo-equipo`. Reparto inicial:
 | Pasadas mecánicas: comillas, `⁂`, recuento de palabras, buscar tics de la lista | subagente | Haiku |
 | Ficha, guion y escritura del capítulo | sesión principal | Opus |
 | Crítica de cada capítulo con `docs/critico-v2.0.md` | subagente sin acceso al original ni a capítulos futuros | Opus |
-| Lecturas de conjunto de un arco; juicio sobre planes grandes | agente `fable-revisor` | Fable (solo lee) |
+| Lecturas de conjunto de un arco; juicio sobre planes grandes | agente `revisor` | Opus (solo lee) |
+
+Decisión del autor (2026-10-11): todas las revisiones y críticas las hace Opus, no Fable.
