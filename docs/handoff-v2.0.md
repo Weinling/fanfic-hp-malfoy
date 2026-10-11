@@ -614,9 +614,56 @@ Pegado al 14, el capítulo de Harry curaba la herida en el acto. Por eso entra d
 Plan del cierre del arco en `borradores/plan-coreano-19-25.md`. Novedades que afectan a la continuidad:
 
 - **El Patronus de Harry es un zorro**, el de Lyra también (C, se revela sin glosa).
-- **Pettigrew confiesa** que echó un neutralizador a la matalobos; Lyra lo oye y cae en la cuenta de su parte.
+- **Pettigrew confiesa** que echó un neutralizador a la matalobos; Lyra lo oye escondida. Es la confirmación de lo que ya sospecha desde el 20 (la copa, al ver al lobo) y sabe desde el 21 (no era una rata cualquiera).
 - **Dumbledore deduce el giratiempo** y le dice a Harry que no puede contárselo todo a Lyra.
 - **El Ministerio calla:** se suspende la búsqueda de Black y se retiran los dementores.
 - **Lyra y Harry, pareja en secreto** al final del 23 (los anillos, el ritual de las nueve).
 - **Siembra del Torneo:** «el año que viene, alumnos de otros colegios».
 - **Pista del origen de lo que sabe Harry** (coreano 25): ve recuerdos de Voldemort a través de la cicatriz. No se explica hasta que el original lo haga.
+
+## 13. Estado tras el capítulo 20
+
+**Escritos, sin publicar** (todos en `borradores/`; críticas en `docs/notas/`):
+
+| Capítulo | Título | Coreano | Palabras |
+|---|---|---|---|
+| 18 | *Fair Play* | 15 | ~3.200 |
+| 19 | *Shut Up, Malfoy* | 16 (parcial) + 17 | ~4.100 |
+| 20 | *Which Way to Look* | 19, sin Ron | ~4.200 |
+
+Las notas del crítico del 19 son 9/9/9/7/7/9/7/7 (empata con el 15 en cabeza). El 20 tiene la crítica aplicada (`docs/notas/cap-20-critica.md`).
+
+**Punto de la historia.** Miércoles 2 de febrero de 1994, luna llena, hacia las nueve de la noche. Black está capturado y en el castillo; Snape, convencido de que va a dar testimonio bajo Veritaserum. Pettigrew anda suelto. Potter acaba de pedirle a Lyra «Come with me» con el giratiempo en la mano.
+
+**Quién sabe qué: cambios**
+- **Lyra:**
+  - Sabe que Lupin es un hombre lobo desde el 13 de noviembre, y se lo dijo a él en el 19.
+  - Sabe que Pettigrew es la rata (por Lupin, en el 19) y lo reconoció en la orilla.
+  - Conoce el mapa y la capa.
+  - Sospecha de la poción que llevó con huellas de rata. En el 21 se vuelve certeza, y no se lo cuenta a nadie.
+- **Snape:**
+  - Sabe que Lyra estaba en la orilla con el hipogrifo, que no debía montar nadie, y no lo ha dicho.
+  - Recibió una carta falsa del Ministerio.
+- **Lupin** sabe que Lyra conoce su secreto y lo ha guardado: «Then I’m in your debt».
+
+**Libro de cuentas**
+- Potter le debe dos a Lyra y nunca le había pedido nada. «Come with me» es lo primero que le pide.
+- Lyra le debe a Snape (el 11). Le hizo el recado de la poción y luego le mintió en la orilla («I caught Sirius Black»). Es una deuda abierta y complicada.
+- Lyra con Lupin: él le debe el silencio, ella le debe la poción, y él no lo sabe.
+- Lyra con Buckbeak: en paz, menos un filete.
+
+**Fichas**
+- Los anillos de Zonko’s: Lyra tiene uno y Potter el otro, que le dio Crabbe («If you want to make it up with her, wear this»).
+  - Rojo: peligro de muerte.
+  - Rosa: con su pareja.
+  - Morado: en guardia.
+  - Parpadeo: el otro le busca.
+  - Juntos forman un corazón (el 21).
+- El pañuelo, que Lyra guardó (el 18).
+
+**Hilos pendientes:**
+- Narcissa.
+- La pluma de azúcar.
+- La pregunta de Crabbe (el 7).
+- «Tomorrow I’ll tell you everything», que se paga en el 21.
+- La culpa con Lupin.
