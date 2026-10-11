@@ -19,7 +19,7 @@ Adaptación al inglés de una fanfic coreana de Harry Potter con un genderbend d
 
 ## Reglas del repositorio
 
-- **Lo publicado no se toca.** Decisión del autor (2026-10-11): ni siquiera retoques invisibles. Las erratas y los fallos de continuidad que se encuentren en `manuscrito/` se apuntan en `docs/notas/erratas-publicado.md`, y el autor decide si corrige y cuándo (tendría que hacerlo también en Wattpad y Webnovel).
+- **Lo publicado no se toca.** Decisión del autor (2026-10-11): ni siquiera retoques invisibles. **Excepción** (2026-10-11): el 1, el 2 y el 3 se pueden revisar, solo si enganchan más, mantienen la calidad y no chocan con lo ya leído ni con los capítulos 4 a 23 y el extra *Year One*. Las versiones nuevas van en `borradores/cap-0N-…-v2.md` y sustituyen a las de `manuscrito/` cuando el autor las publique. Del 4 al 15 sigue sin tocarse. Las erratas y los fallos de continuidad que se encuentren en `manuscrito/` se apuntan en `docs/notas/erratas-publicado.md`, y el autor decide si corrige y cuándo (tendría que hacerlo también en Wattpad y Webnovel).
 - **Extensión:** el techo de 4.200 palabras es orientativo. Si recortar para llegar a él pierde más de lo que gana, no se recorta (decisión del autor, 2026-10-11).
 - **Convenciones de prosa** (handoff §2): comillas y apóstrofos tipográficos (“ ” ’) desde el primer borrador, separador de escena `⁂`, cursivas con `*…*`, Mr/Mrs sin punto.
 - **Lecturas largas** (varios capítulos, el handoff entero): encárgaselas al agente `lector` con una pregunta concreta. No cargues el manuscrito entero en la sesión principal.
