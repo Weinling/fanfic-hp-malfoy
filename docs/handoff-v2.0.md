@@ -747,4 +747,11 @@ Las notas del crítico del 19 son 9/9/9/7/7/9/7/7 (empata con el 15 en cabeza). 
   - Lyra dijo una vez el nombre, llorando, sin saberlo.
   - Dumbledore no le contó a Harry lo de la profecía. Snape le dijo que Potter le recordaba al Señor Oscuro.
   - Crabbe sabe que lloró y mintió por ella.
-- **Siguiente:** el capítulo 24 (coreano 27, la Copa Mundial).
+- **Capítulo 24, *Replay*** (coreano 27), escrito y criticado (`docs/notas/cap-24-critica.md`; manual `docs/capitulos/cap-24.md`). Fija:
+  - La pareja se saluda como conocidos en público.
+  - Lyra tiene los omniculares de Potter con dos horas de ella grabadas.
+  - Potter sabía lo del campamento y no se lo dijo («No. It isn’t»).
+  - Narcissa la vio con la mano en el bolsillo.
+  - El anillo se calentó en la chimenea.
+  - Fuera la escena de la cueva del coreano.
+- **Siguiente:** el capítulo 25 (coreano 28 y la clase de Moody del 30).
