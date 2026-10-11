@@ -8,7 +8,7 @@ Adaptación al inglés de una fanfic coreana de Harry Potter con un genderbend d
 
 | Ruta | Qué es | ¿Se edita? |
 |---|---|---|
-| `manuscrito/cap-NN-*.md` | Capítulos publicados (1 a 15) | Solo retoques invisibles (handoff §9) |
+| `manuscrito/cap-NN-*.md` | Capítulos publicados (1 a 15) | **No.** Las erratas van a `docs/notas/erratas-publicado.md` |
 | `borradores/` | Capítulos sin publicar (el 16, escrito y revisado; el 17 en adelante), guiones, fichas y planes | Sí |
 | `docs/handoff-v2.0.md` | Motor y reglas | Sí, al cerrar cada capítulo |
 | `docs/critico-v2.0.md` | Encargo y rúbrica del crítico | Sí |
@@ -19,10 +19,11 @@ Adaptación al inglés de una fanfic coreana de Harry Potter con un genderbend d
 
 ## Reglas del repositorio
 
-- **Lo publicado no se reescribe.** En `manuscrito/` solo se corrigen erratas, continuidad y canon de categoría A, sin cambiar hechos.
+- **Lo publicado no se toca.** Decisión del autor (2026-10-11): ni siquiera retoques invisibles. Las erratas y los fallos de continuidad que se encuentren en `manuscrito/` se apuntan en `docs/notas/erratas-publicado.md`, y el autor decide si corrige y cuándo (tendría que hacerlo también en Wattpad y Webnovel).
+- **Extensión:** el techo de 4.200 palabras es orientativo. Si recortar para llegar a él pierde más de lo que gana, no se recorta (decisión del autor, 2026-10-11).
 - **Convenciones de prosa** (handoff §2): comillas y apóstrofos tipográficos (“ ” ’) desde el primer borrador, separador de escena `⁂`, cursivas con `*…*`, Mr/Mrs sin punto.
 - **Lecturas largas** (varios capítulos, el handoff entero): encárgaselas al agente `lector` con una pregunta concreta. No cargues el manuscrito entero en la sesión principal.
-- **Git:** haz commits con rutas explícitas al cerrar cada paso (capítulo escrito, crítica aplicada, handoff actualizado). Haz `push` solo cuando el autor lo pida. El repositorio es privado y debe seguir siéndolo.
+- **Git:** haz commits con rutas explícitas al cerrar cada paso (capítulo escrito, crítica aplicada, handoff actualizado). Haz `push` al cerrar cada paso, sin preguntar (decisión del autor, 2026-10-11). El repositorio es privado y debe seguir siéndolo.
 - **Falta por traer:** los capítulos coreanos originales, que van en `coreano/` y los chats que el autor quiera conservar. Pídelos antes de adaptar el capítulo 17.
 
 ## Flujo de un capítulo

@@ -70,7 +70,7 @@ She sat up, slowly, and pushed her hair back off her face. Draco took a step bac
 
 “You can’t! You’re not allowed to do magic outside school. It’s the *law*. It’s the Decree for the—the Reasonable—something.”
 
-She swung her feet out of bed. “I don’t need a wand for you.”
+“Very good. Somebody’s been learning long words.” She swung her feet out of bed. “But I don’t need a wand for you.”
 
 He fought like a cornered cat. It made no difference: there were four years between them, and four years was a wall. She got him down on the rug, and he shrieked and kicked and laughed until he could not breathe, and the Cleansweep rolled away under the bed with nobody left to defend it.
 
@@ -178,7 +178,7 @@ She went out into the corridor.
 
 Crabbe said nothing more about it. She never did, and it was the most irritating thing about her.
 
-In Charms that afternoon they did Cheering Charms. Crabbe put one on Goyle at the first attempt, and Goyle laughed until she got hiccups and had to be sent for a glass of water. Then Crabbe turned to Lyra, with the face of somebody who had been waiting all day for exactly this, and did it again.
+In Charms that afternoon they did Cheering Charms. Crabbe, who was good at charms when she forgot to be nervous of them, put one on Goyle at the first attempt, and Goyle laughed until she got hiccups and had to be sent for a glass of water. Then Crabbe turned to Lyra, with the face of somebody who had been waiting all day for exactly this, and did it again.
 
 Lyra felt a faint fizz behind her ears, like the first sip of something with bubbles in it. That was all.
 
@@ -308,4 +308,4 @@ She walked to the end of the corridor without hurrying, promising herself that w
 
 There was nobody there.
 
-Every cubicle door stood open. A tap dripped into a cracked basin, and the mirror above it gave her back a girl with her mouth open, standing in an empty lavatory, entirely alone.
+Every cubicle door stood open. A tap dripped into a cracked basin. The troll had left a long dent in the far wall that nobody had ever mended, and the mirror above the basins gave her back a girl with her mouth open, standing in an empty lavatory, entirely alone.

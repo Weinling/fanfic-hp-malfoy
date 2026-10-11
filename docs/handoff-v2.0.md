@@ -148,7 +148,7 @@ Herramientas, de más sutil a más directa: lo que hace con un objeto; un detall
 
 ### Ritmo
 
-- **Extensión:** de 3.000 a 3.800 palabras; 4.200 como techo. El lector de Wattpad lee en el móvil.
+- **Extensión:** de 3.000 a 3.800 palabras; 4.200 como techo. El lector de Wattpad lee en el móvil. El techo es orientativo: si recortar pierde más de lo que gana, no se recorta (autor, 11 de octubre).
 - **Arranque en escena**, con una primera línea concreta. Nada de reflexión general sobre Lyra.
 - **Deducción a solas:** un bloque por capítulo como máximo, unas 400 palabras, y mejor si Lyra hace algo mientras piensa. La crítica lo ha señalado en los capítulos 8, 9 y 12.
 - **Escenas que se ganan su sitio:** si una escena solo transmite información, se funde con otra que tenga conflicto.
