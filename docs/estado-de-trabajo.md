@@ -28,7 +28,9 @@
 Se apunta aquí lo leído tras cada compactación, para que se pueda comprobar.
 - **Tras la última compactación (11 de octubre):** estado, handoff (§2, §4, §14 y §15; no entero), capítulo 26 entero, fichas del 25 al 27, fragmentos del 5, 14, 19 y 25. **No se leyeron todos los manuales**, como exige el protocolo. Consecuencia: en la ficha del 27, el handoff y un mensaje al autor se llamó «el beso de verdad» al del 29, cuando ya hubo dos en la boca (3 y 19, ambos en sus manuales). No llegó al texto de ningún capítulo; lo cazó el lector del 29 y está corregido.
 - **11 de octubre, después:** handoff entero y todos los manuales, enteros. Con ellos, `docs/capitulos/continuidad-transversal.md` (nuevo).
-- **Pendiente antes del 29:** el 29 abre arco (29 a 32): leer la historia entera en texto completo, en un contexto limpio (tras compactar o en sesión nueva). El crítico se reinicia para el 29.
+- **Pendiente antes del 29:** el 29 abre arco (29 a 32): leer la historia entera en texto completo, en un contexto limpio (tras compactar o en sesión nueva). El crítico se reinicia para el 29. **Hecho (abajo).**
+- **Sesión nueva del 29 (11 de octubre), en contexto limpio, todo entero y en orden:** `CLAUDE.md`; este estado; el handoff entero (`docs/handoff-v2.0.md`, las 795 líneas); todos los manuales de `docs/capitulos/` (1 a 28 y *Year One* 1 a 4), enteros; `docs/capitulos/continuidad-transversal.md`; la historia en texto completo: `manuscrito/cap-01` a `cap-15`, `borradores/cap-16` a `cap-23`, `borradores/extra-year-one-1` a `4` y `borradores/cap-24` a `cap-28`; los coreanos 32, 33 y 34 enteros; `borradores/plan-coreano-26-35.md`; `borradores/cap-29-lector.md`; `docs/notas/critico-arranque-29.md`; la ficha del 28 como modelo de formato.
+- **Crítico del 29:** lanzado (Opus) con `docs/critico-v2.0.md` y `docs/notas/critico-arranque-29.md`; está leyendo todo lo adaptado. Su informe de lectura irá a `docs/notas/critico-29-lectura-inicial.md`.
 
 ## Texto que solo existe en contexto
 
@@ -36,7 +38,7 @@ Ninguno. Todo está commiteado y subido.
 
 ## Agentes vivos
 
-- **Crítico:** el del cuarto año (lanzado el 11 de octubre con `docs/notas/critico-cuarto-ano-arranque.md`; criticó del 24 al 28) se retira. **Para el 29 se lanza uno nuevo** con `docs/notas/critico-arranque-29.md` (ya escrito): lee enteros todos los capítulos adaptados. El anterior (17 a 23, *Year One*, revisión del 1 al 3) está retirado.
+- **Crítico:** el del cuarto año (criticó del 24 al 28) está retirado. **El del 29 está lanzado** (Opus, `docs/notas/critico-arranque-29.md`) y leyendo enteros todos los capítulos adaptados. El anterior (17 a 23, *Year One*, revisión del 1 al 3) está retirado.
 - **Revisor:** es el chat paralelo del autor. Sus informes llegan a `docs/notas/revisiones/`.
 
 ## Decisiones pendientes del autor
