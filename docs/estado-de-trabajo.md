@@ -29,7 +29,7 @@ Ninguno. Todo está commiteado y subido.
 
 ## Agentes vivos
 
-- **Crítico:** el del cuarto año (lanzado el 11 de octubre con `docs/notas/critico-cuarto-ano-arranque.md`; criticó del 24 al 28) se retira. **Para el 29 se lanza uno nuevo** que lea enteros todos los capítulos adaptados; hay que poner al día el arranque con sus notas (del 24 al 28). El anterior (17 a 23, *Year One*, revisión del 1 al 3) está retirado.
+- **Crítico:** el del cuarto año (lanzado el 11 de octubre con `docs/notas/critico-cuarto-ano-arranque.md`; criticó del 24 al 28) se retira. **Para el 29 se lanza uno nuevo** con `docs/notas/critico-arranque-29.md` (ya escrito): lee enteros todos los capítulos adaptados. El anterior (17 a 23, *Year One*, revisión del 1 al 3) está retirado.
 - **Revisor:** es el chat paralelo del autor. Sus informes llegan a `docs/notas/revisiones/`.
 
 ## Decisiones pendientes del autor
