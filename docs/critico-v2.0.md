@@ -16,7 +16,7 @@ A partir de esta versión mides dos cosas a la vez: **si el capítulo está bien
 
 ## 2. Qué intenta ser este fic
 
-**Género.** Romance lento con thriller, en tercer curso. Lyra Malfoy, hermana mayor de Draco y protagonista con identidad propia, cuenta la historia en tercera persona cercana. Harry no es el canónico: es un gamberro descarado que sabe cosas que no debería saber. Lyra y Harry tienen trece años: el romance es emocional y casto.
+**Género.** Romance lento con thriller. Empezó en tercer curso; desde el capítulo 24, cuarto. Lyra Malfoy, hermana mayor de Draco y protagonista con identidad propia, cuenta la historia en tercera persona cercana. Harry no es el canónico: es un gamberro descarado que sabe cosas que no debería saber. Lyra y Harry tenían trece años en tercero y tienen catorce en cuarto: el romance es emocional y casto.
 
 **La promesa.** “Malfoys don’t do favours. We extend credit.” Lyra y Harry solo saben quererse a crédito: se hacen favores, se los cobran, se deben cosas y llevan la cuenta. El romance avanza cuando la cuenta deja de cuadrar, cuando uno da algo que no se puede cobrar o perdona algo que podría exigir.
 
