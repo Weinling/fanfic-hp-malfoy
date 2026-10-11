@@ -77,3 +77,91 @@ She followed it. Up the marble staircase, and along the first-floor corridor, pa
 She went in. The door closed behind her of its own accord, and a voice from the air beside her said, “*Colloportus*,” and then, “Hello.”
 
 “Take that thing off,” said Lyra. “I want to see your face.”
+
+⁂
+
+He pulled the cloak off. He looked tired, and his tie was crooked, and his hair was standing up at the back where he had been pushing his hand through it.
+
+“Withdraw,” said Lyra. “Tonight. Go back to Dumbledore and tell him you won’t do it.”
+
+“I did tell him.” Potter leaned back against a desk. “I told all of them. Bagman and Crouch were in there, they’re the judges. They say the Goblet’s a binding magical contract. Your name comes out, you compete. There isn’t a way out of it.”
+
+“Are you stupid, or are you only naïve? *That is why you should withdraw.*” She came across the room at him and put one finger against his chest, hard. “Can’t you feel how much somebody wants you stuck in this, with no way out? Somebody put your name in that cup. Somebody wants you in a tournament that killed so many people they had to stop holding it for two hundred years. They want you hurt. They want you *dead*. You’re a fourth-year. You haven’t learned half the magic you’d need. What do you think you are going to *do*?”
+
+She did not notice, until she had finished, that she had used very nearly her mother’s words.
+
+Potter was looking down at the finger on his chest. When he looked up, he was smiling.
+
+“You’re worried about me. That’s an honour. Lyra Malfoy, worried about me.”
+
+“Don’t you dare try to talk your way round this, Harry Potter. As if I would ever be worried about somebody like—”
+
+She stopped.
+
+It had come out on its own, the way it always did. But he was not somebody like anything. He was hers, in secret, with a ring to prove it, and there was no law that said she could not be worried about him. It was only embarrassing. It was perfectly natural, when you thought about it. It would be strange if she *weren’t*.
+
+“Of course I’m worried,” she said, and glared at him as though it were his fault, which it was. “A little. A very little. It would be odd if I weren’t.”
+
+He had not expected that. She watched him not expect it, and enjoyed it.
+
+“Dumbledore said the same thing,” he said, after a moment, more quietly. “Moody, too. That it’s a trap. Somebody wants me hurt in the Tournament, where it’ll look like an accident.”
+
+So she was not cleverer than Dumbledore and Mad-Eye Moody put together. Lyra found she minded that much less than she would have expected. If the two of them had already seen it, they would already be doing something about it.
+
+“Then that’s settled,” she said. “You go through the motions. You stand in the middle of the arena and do nothing at all, and let them give you no marks.”
+
+“About that,” said Potter. He looked at her sideways, which he hardly ever did. “If somebody’s planning to hurt me in the Tournament, they’ll have to do it *during* the Tournament. Won’t they? So they’ll have to come out where we can see them.”
+
+It took her a moment.
+
+He was going to compete. Properly. He was going to stand in the middle of it on purpose, with somebody somewhere in this castle waiting for him to do exactly that, so that whoever it was would have to show their hand.
+
+“Are you *mad*?” Her voice had gone up and she did not care. “Do you think being the Boy Who Lived means you get spare lives? You and Dumbledore, the pair of you, you’re—”
+
+“It’s the other way round.” He took hold of her shoulders. She was shaking, a little, under his hands; she could feel it, and so could he. “I’m doing it to keep me safe. And the people round me. If I pull out, do you think whoever it is gives up? They try something else. Poison in my pumpkin juice. A curse in a corridor. I’d rather have it in the Tournament, where I know when it’s coming.”
+
+First year, a man with the Dark Lord growing out of the back of his head. Second year, a diary. Third year, a hundred Dementors with their hoods turned up at him. Lyra had never once in her life had to wonder whether somebody was going to try to kill her this year, and she found that she could not imagine it, and that he could not remember anything else.
+
+She put her forehead against his chest, hard, as if she were knocking on a door.
+
+“Don’t you get hurt.” She did it again. Then she looked up. “If you get hurt, I’ll kill you.”
+
+“Then I’d better not,” said Potter. “I wouldn’t get to see your face.”
+
+He always had an answer. She took two fistfuls of his robes and pushed her forehead into the place between them and stayed there, furious. After a moment she felt his hands leave her shoulders, slowly, as if he were going to put his arms round her—
+
+There was something on his chest. A small round badge, pinned to his robes, with four letters on it: S.P.E.W.
+
+She knocked his hand away and took hold of the badge between finger and thumb.
+
+“What,” said Lyra, “is this?”
+
+“What? *Now?*”
+
+She knew she had seen it before. She went looking for where, and found it: the Gryffindor table, which she did not look at, and Granger sitting in her usual place at Potter’s elbow, with exactly this badge on her chest.
+
+“Granger,” said Lyra. “*Again*?”
+
+It was not a tender voice. It made her think, as she heard it, of the lake in January.
+
+“No—no, it’s not, it’s the Society for the Promotion of Elfish Welfare,” said Potter, very fast. “House-elves. For better conditions. Hermione started it. I’m member number two.” He brightened, as if a thought had struck him. “You could be number three. It’s two Sickles to join.”
+
+Lyra stared at him. Mercifully the name was so absurd that she was too baffled to be jealous.
+
+“It’s pointless,” she said. “House-elves are born to serve wizards. That’s what they are. Free them? The wizards don’t want it, and the elves would want it even less.”
+
+“Except Dobby.”
+
+“Except Dobby. Who is peculiar. You can’t found a society on one peculiar elf.”
+
+He looked away. “No. You’re probably right. Setting them all free would be crueller than anything. I just think—they ought to be treated a bit better. They’re not furniture. They’ve got feelings. And it’s different, the loyalty you get because there’s a contract, and the sort you get because somebody means it. I saw that this summer, when we went to find the Horcr—”
+
+He stopped.
+
+Lyra did not say anything. She did not have to. She was looking at him, and he could see what she was looking at him with.
+
+“*Horcrux*,” she said. “*This summer*?”
+
+Potter whistled two notes of something and examined the ceiling. “What did I say? I said Hog’s Head, didn’t I?”
+
+“Explain,” said Lyra. “Now.”
