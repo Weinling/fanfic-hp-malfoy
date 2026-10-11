@@ -16,6 +16,12 @@
 - **Cerrado hoy:** *Year One*, parte 4 (coreano 26), escrito, criticado y revisado, con manual (`docs/capitulos/extra-year-one-4.md`), nota (`docs/notas/extra-year-one-4-critica.md`) y handoff §15.
 - **También hoy:** coreanos 26 a 35 guardados; resumen (`borradores/resumen-coreano-26-35.md`); lectura completa; plan del arco (`borradores/plan-coreano-26-35.md`); crítico nuevo; cinco fallos de continuidad corregidos en los borradores 16 a 23.
 
+## Lecturas hechas en esta sesión (protocolo de `CLAUDE.md`)
+
+Se apunta aquí lo leído tras cada compactación, para que se pueda comprobar.
+- **Tras la última compactación (11 de octubre):** estado, handoff (§2, §4, §14 y §15; no entero), capítulo 26 entero, fichas del 25 al 27, fragmentos del 5, 14, 19 y 25. **No se leyeron todos los manuales**, como exige el protocolo. Consecuencia: en la ficha del 27, el handoff y un mensaje al autor se llamó «el beso de verdad» al del 29, cuando ya hubo dos en la boca (3 y 19, ambos en sus manuales). No llegó al texto de ningún capítulo; lo cazó el lector del 29 y está corregido.
+- **Pendiente antes del 29:** el 29 abre arco (29 a 32). Toca leer la historia entera en texto completo y todos los manuales.
+
 ## Texto que solo existe en contexto
 
 Ninguno. Todo está commiteado y subido.
