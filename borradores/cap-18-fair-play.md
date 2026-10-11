@@ -124,7 +124,7 @@ There it was. She had heard it so often in the last month that it no longer surp
 
 “So I hear.” He glanced round the stands, pleasantly, as if counting the house, and dropped a foot to let another Bludger go over his head. “I’d be lying if I said I wasn’t curious, mind.”
 
-Then she understood it, all of it, and could have screamed. It was not a Hufflepuff trick at all. It was a Slytherin one. Slytherin played together beautifully against Gryffindor, because they hated Gryffindor more than they disliked one another; against anybody else they were seven people who each believed themselves the most important person in the air. Diggory had only to hang about the most important of them, looking charming, and let the other six do the rest. Already both Beaters were off their wings, hunting him, and Flint was bellowing at them from the far end of the pitch—
+Then she understood it, all of it, and could have screamed. It was a Slytherin trick, played by a Hufflepuff. Slytherin played together beautifully against Gryffindor, because they hated Gryffindor more than they disliked one another; against anybody else they were seven people who each believed themselves the most important person in the air. Diggory had only to hang about the most important of them, looking charming, and let the other six do the rest. Already both Beaters were off their wings, hunting him, and Flint was bellowing at them from the far end of the pitch—
 
 “*Back in position!* The *Chasers*, you great trolls, mark the *Chasers*—”
 
