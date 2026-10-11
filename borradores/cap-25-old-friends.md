@@ -80,7 +80,7 @@ Her father saw something in her face that he did not like, and cleared his throa
 
 “In any case. Did you know, my treasure, that there is going to be a Triwizard Tournament at Hogwarts this year?”
 
-It was a very good change of subject, and it worked, and he kept his dignity.
+It was a very good change of subject, and it worked.
 
 ⁂
 
@@ -94,7 +94,7 @@ She did not take it out. She sat with her hands in her lap and looked down the d
 
 He had known about the Tournament as well. *Especially next year, if students come from other schools.* He had said it under a cloister in May, three months before the Minister for Magic winked at her about it, and long before her father had heard a word.
 
-Her father, who had been there, did not know who had cast the Mark. Potter, who could not have been anywhere near it, had known to send her inside.
+Her father, who had been there, did not know who had cast the Mark. Potter had known to send her inside before anything had happened at all.
 
 Lyra sat on the window seat until the light went, and did not open the drawer.
 
@@ -136,13 +136,13 @@ Lyra saw it the moment she came into the Great Hall, before the Sorting, before 
 
 Lyra said nothing at all. She cut her roast potatoes into very small pieces.
 
-*They say he went for some students in the grounds.* He had gone for three students and a convicted murderer and a girl on a hippogriff, on a February night with a full moon over the lake, because somebody had put a neutraliser in his potion; and somebody else had carried that potion up four flights of stairs, and seen a line of little prints across a blotter, and wiped the bottom of the goblet, and thought, *whoever drinks it need never know*.
+*They say he went for some students in the grounds.* He had gone for Potter and Granger and a convicted murderer, and for a girl on a hippogriff, on a February night with a full moon over the lake, because somebody had put a neutraliser in his potion; and somebody else had carried that potion up four flights of stairs, and seen a line of little prints across a blotter, and wiped the bottom of the goblet, and thought, *whoever drinks it need never know*.
 
 She looked along the staff table without meaning to. Professor Snape was looking at her. He went on looking for exactly as long as it took her to understand that he was, and then he turned and said something to Professor Sinistra.
 
 *Somebody found out at the end of term.* Lyra had a very good idea who had found out, and how long he had been waiting to.
 
-She had kept that secret for nine months. She had kept it from her father and from Snape and from every soul in Slytherin, because she owed it. And at the end of the year he had come back to his classroom grey and tired and said *thank you* to the air, and she had left a bar of chocolate she did not like outside his door and called it a receipt, and now he was gone, and there was nothing left to pay it to.
+She had kept that secret for seven months, from her father and from every soul in Slytherin, and from Snape the fact that she knew it, because she owed it. And at the end of the year he had come back to his classroom grey and tired and said *thank you* to the air, and she had left a bar of chocolate she did not like outside his door and called it a receipt, and now he was gone, and there was nothing left to pay it to.
 
 “Lyra?” said Goyle. “You’re not eating.”
 
@@ -192,7 +192,7 @@ Lyra did not put her hand up. She never did.
 
 The blue eye swivelled round and fixed on her. Then the other one did.
 
-“Ah,” said Moody. “Malfoy. Lucius Malfoy’s girl. You’d know, wouldn’t you?” He leaned on his desk. “Your father did a very beautiful Imperius, Miss Malfoy. One of the best I ever came across. Only one of his crowd that ever walked out of court, and we never did find the people he’d been working like puppets. It’s thanks to men like your father the Ministry had to start testing for it.”
+“Ah,” said Moody. “Malfoy. Lucius Malfoy’s girl. You’d know, wouldn’t you?” He leaned on his desk. “Your father did a very beautiful Imperius, Miss Malfoy. One of the best I ever came across. The best of his crowd at walking out of court, and we never did find the people he’d been working like puppets. It’s thanks to men like your father the Ministry had to start testing for it.”
 
 Somebody at the back drew in a sharp breath. Lyra kept her face perfectly still, which was the one thing in the world she was entirely sure she could do.
 
@@ -216,19 +216,9 @@ He did not need to look at her again. Lyra could feel every Slytherin in the roo
 
 “The—the Cruciatus Curse,” said Goyle, very quietly.
 
-Moody looked at her, longer than he needed to, with an expression Lyra could not read, as though he had been about to say something to her and had decided against it. Then he took the second spider out of the jar and enlarged it until it was the size of a dinner plate, and said “*Crucio*.”
+Moody looked at her, longer than he needed to, as though he had been about to say something to her and had decided against it. Then he showed them that one, on a second spider, and the last one, *Avada Kedavra*, on a third, when Parkinson put up his hand to name it and his voice gave out halfway through. The second spider shook without a sound for a very long time. The third went over in a flash of green light, with not a mark on it.
 
-It did not make a sound. Spiders could not. It only drew its legs up into itself and shook, and twitched, and went on shaking, and Lyra watched the bench in front of her instead and heard Crabbe breathing through her mouth beside her, and it seemed to go on for a very long time. When Moody lifted his wand, the spider lay on its back with its legs curled, quivering.
-
-“And the last,” said Moody.
-
-Parkinson put up his hand. He had obviously been waiting to impress somebody all lesson. “*Avada Kedavra*,” he said, and his voice gave out halfway through.
-
-Moody nodded, and took out the third spider.
-
-There was a flash of green light, and a rushing sound, and the spider rolled over and was dead. There was not a mark on it.
-
-“Not nice,” said Moody. “No countercurse. No blocking it. There’s only ever been one person known to have survived it, and he’s sitting in a classroom upstairs right now.”
+“No countercurse,” said Moody. “No blocking it. There’s only ever been one person known to have survived it, and he’s sitting in a classroom upstairs right now.”
 
 Lyra did not look at the ceiling. She thought of a boy with untidy hair and a thin white scar, and an empty classroom in May, and a careless voice saying the Dark Lord’s name as if it were just a word.
 
@@ -246,21 +236,13 @@ She would not. She did not even have to think about it.
 
 On the night of Hallowe’en, the Goblet of Fire stood on a stool in front of the staff table, where everyone could see it, and every eye in the Great Hall was on it.
 
-It had been standing in the Entrance Hall for a week behind a thin golden line on the floor that Dumbledore had drawn himself, so that nobody under seventeen could cross it, and the whole school had been to look. The Durmstrang students had come up out of the lake in a ship like a drowned galleon, in heavy furs, with Viktor Krum among them; and Draco, when Lyra wrote to tell him so, had written back for the first time since October, two whole sides, all of it about Krum and none of it about cards. The Beauxbatons girls had come out of a powder-blue carriage the size of a house, drawn by winged horses each as big as an elephant, and had shivered all through dinner in their silk. The Weasley twins had tried an Ageing Potion on the golden line and grown long white beards for their trouble. Lyra had watched it all, and enjoyed it more than she let anybody see, and had not once spoken to Potter.
+It had been standing in the Entrance Hall for a week behind a thin golden line on the floor that Dumbledore had drawn himself, so that nobody under seventeen could cross it, and the whole school had been to look. The Durmstrang students had come up out of the lake in a ship like a drowned galleon, in heavy furs, with Viktor Krum among them; and Draco, when Lyra wrote to tell him so, had written back for the first time since October, two whole sides, all of it about Krum and none of it about cards. The Beauxbatons girls had come out of a powder-blue carriage the size of a house, drawn by winged horses each as big as an elephant, and had shivered all through dinner in their silk. Lyra had watched it all, and enjoyed it more than she let anybody see, and had not once spoken to Potter. In September she had stopped putting the ring on at nine. It stayed in her pocket by day and in the drawer of her bedside table at night, and twice in October she had felt it flash against her fingers, on, off, on, which meant that the other ring was looking for her; and both times she had taken her hand out of her pocket and gone the other way.
 
 Now the Hallowe’en feast was over, and the plates were clean, and Dumbledore was on his feet, and the candles in the pumpkins had been put out, so that the only light in the Hall came from the Goblet: a great rough wooden cup, full to the brim with dancing blue-white flames.
 
 The flames turned red. A charred slip of parchment flew out of them and fluttered down into Dumbledore’s hand.
 
-“The champion for Durmstrang,” he read, “is Viktor Krum!”
-
-Nobody had expected anything else. Krum got up from the Slytherin table, where the Durmstrang students had been sitting all week, and slouched up to the front with his shoulders rounded, and went through the door behind the staff table, while the Hall clapped and Parkinson clapped loudest of all.
-
-The flames turned red again.
-
-“The champion for Beauxbatons is Fleur Delacour!”
-
-A girl rose from the Ravenclaw table like a swan getting off a lake. She had a sheet of silvery-blond hair that went most of the way to her waist, and a face that seemed to have been designed for the sole purpose of making boys walk into doors, and every boy in the Hall turned to watch her go. Lyra made a small noise through her nose. Beauxbatons could not have much talent to choose from, she thought, if it had come down to a face.
+Viktor Krum for Durmstrang, which nobody had doubted; he slouched up from the Slytherin table, where the Durmstrang students had sat all week, with Parkinson clapping loudest of all. Fleur Delacour for Beauxbatons, a girl with a sheet of silver-blond hair and a face designed for making boys walk into doors, and every boy in the Hall turned to watch her go.
 
 A third time. The Hall held its breath; this one was theirs.
 
@@ -268,7 +250,7 @@ A third time. The Hall held its breath; this one was theirs.
 
 The Hufflepuff table went off like a firework. Every one of them was on their feet, stamping and screaming, as Diggory made his way up through them, grinning, with people slapping him on the back all the way. The Slytherin sixth and seventh years booed. Montague brought his fist down on the table so hard that Goyle, who had been leaning on her elbow, slid off it.
 
-“Well, that’s Hufflepuff insufferable till Easter,” said Lyra. But she could see why. If it had to be somebody, it might as well be the one person in the castle who was good at everything and played fair while he did it.
+“Well, that’s Hufflepuff insufferable till Easter,” said Lyra. But she could see why. If it had to be somebody, it might as well be the one person in the castle who was good at everything and was held, by everybody who had never played against him, to play fair while he did it.
 
 “Excellent!” Dumbledore was beaming. “Well, we now have our three champions. I am sure I can count upon all of you, including the remaining students from Durmstrang and Beauxbatons, to give your champions every ounce of support you can muster. By cheering your champion on, you will contribute in a very real—”
 
@@ -284,6 +266,10 @@ He held it out, and looked at the name written on it, for a long moment. Then he
 
 The Hall did not erupt. There was no noise in it whatever.
 
-Lyra sat at the Slytherin table and did not move. She was thinking of a green skull hanging in the sky over a dark wood, that nobody had seen for thirteen years. Of a tournament that had been stopped two hundred years ago because the people in it kept dying. Of a fourth champion who could not exist, because there were three schools and three champions and an old man’s golden line on the floor. And of the name the fourth champion had been given: a boy of fourteen, the same age as her, who had stood in a field full of tents and told her to go back to her mother.
+Lyra looked across it at Potter.
 
-Lyra was frightened. For once in her life she did not even try to call it anything else.
+He had not moved. He was sitting at the Gryffindor table with every face in the Great Hall turning towards him, and his own face was perfectly empty: no surprise in it, and no fear, and nothing else either. She had been reading that face for three years. For the first time since May she could not tell, from looking at it, whether he had known about this too.
+
+A tournament that had been stopped because people kept dying in it. A boy of fourteen.
+
+Lyra was frightened. She did not even try to call it anything else.
