@@ -719,3 +719,9 @@ Las notas del crítico del 19 son 9/9/9/7/7/9/7/7 (empata con el 15 en cabeza). 
 - El origen de lo que sabe Harry: el coreano 25 apunta a recuerdos de Voldemort por la cicatriz.
 
 **Siguiente:** el extra *Year One* (coreanos 18, 24 y 25), de Harry en primero, con once años. Después, el cuarto año, cuando lleguen los coreanos.
+
+**Notas del revisor (lectura completa del 1 al 22), anotadas:**
+- Medio Slytherin, Parkinson incluido, oyó a Flitwick en el 17 decir que Lyra tiene «very strong natural defences of the mind» (C).
+- Lyra cursa Adivinación y Aritmancia. Nunca coincide con Granger en Adivinación.
+- La sonrisa de Harry queda retirada como motivo a partir del 23, sin glosas.
+- Decisiones en `docs/notas/revisiones/decisiones-lectura-01-a-22.md`.

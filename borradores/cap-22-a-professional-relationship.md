@@ -242,7 +242,7 @@ Lyra’s fox scrabbled at the stones with its front paws, and rolled onto its ba
 
 “Get *up!* Get up, and go and see them off!”
 
-Her fox paid no attention whatever. It rolled about on the shingle, making a small contented noise. Beside her, somebody snorted, and Lyra went red to the tips of her ears.
+Her fox paid no attention whatever. It rolled about on the shingle, making a small contented noise. Beside her, somebody snorted, and Lyra went red.
 
 It was a shocking dereliction of duty. But it seemed that even that was enough for the Dementors. With a second Patronus on the shore, they faltered, and drifted apart, and withdrew into the dark, and were gone.
 

@@ -28,6 +28,8 @@ The Malfoys had a great many friends at the Ministry, and heard sooner than most
 
 *I have also sent you a present. It is late, but you may think of it as a Christmas present. You are not to be downhearted about the Quidditch. Next time, simply crush them.*
 
+*Your mother sends her love, and reminds you that you owe her a letter.*
+
 *Your loving father*
 
 Her father had never in his life told her where to stand unless somebody had first told him where she had been standing. *A clever girl like you will already have stepped back.* Lyra thought of Snape on the shore, with his fingers at his chin, looking at the feathers on her robes. Then she read the part about the present again, and decided to be pleased about that instead.
@@ -102,8 +104,6 @@ Before he sat down at the Gryffindor table, though, he turned round, and smiled 
 
 “Practise hard, Malfoy.”
 
-*Every time I smile, I’ll think of you.*
-
 She could feel her face trying to do something and would not let it.
 
 “You’re the one who’ll need to practise,” she called back, “if you don’t want to look silly next to this broom.”
@@ -119,6 +119,14 @@ A little way down the table, Goyle had noticed something in the air. She leaned 
 “What are you on about?”
 
 Goyle stabbed a sausage with her fork and put it in her mouth. Anyway, it meant there would be no more of Lyra’s tantrums, and the two of them began to edge along the bench towards her, to find out what on earth had happened.
+
+They reached her by the end of breakfast. Goyle asked a great many questions and got no answers at all. Crabbe asked nothing. But when the bell went and they were gathering up their bags, Lyra said to her, without looking round, “You asked me once whether I was in trouble.”
+
+Crabbe stopped with her bag half on her shoulder. “In October. With the owl.”
+
+“I’m not,” said Lyra. “Not any more.”
+
+It was not quite true. There was a goblet she had not paid for. But it was truer than it had been since October, and Crabbe, who had waited four months for an answer without once asking again, looked at her and nodded, as though that would do.
 
 ⁂
 

@@ -28,7 +28,7 @@ The ring was lying where she had thrown it, among the hair ribbons and the spare
 
 She looked at it. Then she looked round the empty room, picked it up very quickly, drew the hangings all the way round her bed, and sat inside them with the ring in her palm.
 
-She could not have said why. A fortnight ago she had not been able to look at it. Now she wanted, rather badly, to see how it looked on. It was plain and a little clumsy, but it was small, and it would suit her hand; most things did. She held it over her forefinger, and then over her fourth finger, and hesitated, and in the end put it on the middle one, which meant nothing at all.
+She did not stop to ask herself why. Ten days ago she had not been able to look at it. Now she wanted, rather badly, to see how it looked on. It was plain and a little clumsy, but it was small, and it would suit her hand; most things did. She held it over her forefinger, and then over her fourth finger, and hesitated, and in the end put it on the middle one, which meant nothing at all.
 
 It shrank to fit with a small, cold squeeze. It looked wrong in the middle, too even; she would move it along one. She had her other hand on it to do so when it went red.
 
