@@ -6,7 +6,7 @@
 
 ## Ahora mismo
 
-- **Capítulo en curso:** el 25 (coreano 28 más la clase de Moody del 30). Un lector busca las referencias; luego, ficha (`borradores/cap-25-ficha-guion.md`) y escritura en `borradores/cap-25-*.md`.
+- **Capítulo en curso:** el 25, *Old Friends* (coreano 28 más la clase de Moody del 30), en `borradores/cap-25-old-friends.md`: escrito entero (unas 4.850 palabras) y commiteado. En crítica.
 - **Cerrado:** el 24, *Replay*, escrito, criticado y revisado, con manual, nota y handoff.
 - **Cerrado hoy:** *Year One*, parte 4 (coreano 26), escrito, criticado y revisado, con manual (`docs/capitulos/extra-year-one-4.md`), nota (`docs/notas/extra-year-one-4-critica.md`) y handoff §15.
 - **También hoy:** coreanos 26 a 35 guardados; resumen (`borradores/resumen-coreano-26-35.md`); lectura completa; plan del arco (`borradores/plan-coreano-26-35.md`); crítico nuevo; cinco fallos de continuidad corregidos en los borradores 16 a 23.

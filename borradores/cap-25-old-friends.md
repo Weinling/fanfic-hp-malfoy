@@ -286,4 +286,4 @@ The Hall did not erupt. There was no noise in it whatever.
 
 Lyra sat at the Slytherin table and did not move. She was thinking of a green skull hanging in the sky over a dark wood, that nobody had seen for thirteen years. Of a tournament that had been stopped two hundred years ago because the people in it kept dying. Of a fourth champion who could not exist, because there were three schools and three champions and an old man’s golden line on the floor. And of the name the fourth champion had been given: a boy of fourteen, the same age as her, who had stood in a field full of tents and told her to go back to her mother.
 
-In her pocket, under her fingers, the ring was growing warm.
+Lyra was frightened. For once in her life she did not even try to call it anything else.
