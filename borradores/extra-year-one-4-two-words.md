@@ -1,6 +1,6 @@
 # Year One, Part 4: Two Words
 
-Severus Snape did not sit down.
+On the evening in January that Harry Potter went up the Headmaster’s stairs to complain about him, Severus Snape did not sit down.
 
 The Headmaster had pointed him to a chair with the air of a man who had been expecting him for an hour and had kept the tea warm, and Snape walked past the chair and the tea and stopped in front of the desk.
 
@@ -12,7 +12,7 @@ The Headmaster had pointed him to a chair with the air of a man who had been exp
 
 “He looked me in the eye and told me that you are unfair. Not very elegantly. But I could not find anything in it to correct.”
 
-Snape had nothing to say to that. He knew what he did in his dungeon, and why, and the reasons he gave for it, which were not quite the same thing.
+Snape did not trouble to deny it.
 
 “And the rest?” he said at last. “Did you tell him the rest?”
 
@@ -26,11 +26,9 @@ There was a silence. One of the silver instruments on the shelf behind the desk 
 
 “The boy hates you, Severus. He will get in your way at every turn, and he is a wizard, however small. I should not like you to be looking at him when you ought to be looking somewhere else.” He paused. “And I know whom you suspect. Say nothing, to anybody, until you can prove it.”
 
-Snape knew that voice. Very few people did. It belonged to the man who sat on the far side of the desk from the Ministry and the Wizengamot and, once, from somebody a great deal worse, and it did not say anything twice.
-
 He ought to have bowed and gone. He did not.
 
-“The boy has changed,” he said. “His manner. All of it. He used to look at the floor. Now he says the Dark Lord’s name across my classroom as though he were reading it off a list, and he looks at me—” He stopped. “When I look at him, Headmaster, I think of the Dark Lord. I do not know how else to put it.”
+“The boy has changed,” he said. “His manner. All of it. In September he was merely insolent. Now he says the Dark Lord’s name across my classroom as though he were reading it off a list, and he looks at me—” He stopped. “When I look at him, Headmaster, I think of the Dark Lord. I do not know how else to put it.”
 
 He had expected the Headmaster to be troubled. Instead the old man looked interested, and then, unforgivably, amused.
 
@@ -38,9 +36,9 @@ He had expected the Headmaster to be troubled. Instead the old man looked intere
 
 “Don’t.”
 
-“Love,” said Dumbledore, quite unrepentant. “It sent a little boy up my stairs this week who used to be frightened of his own shadow. I do not think he will go far wrong while he has it.”
+“Love,” said Dumbledore, quite unrepentant. “It sent him up my stairs this week.”
 
-Snape looked at him for a moment longer, with the face of a man who had heard this sermon before and would hear it again, and went out without a word.
+Snape had heard this sermon before, and would hear it again. He went out without a word.
 
 ⁂
 
@@ -58,7 +56,7 @@ So the Slytherins had stopped. They went round him. They did not catch his eye i
 
 “*Potter’s coming!*” somebody sang out from the far end of the corridor, a Ravenclaw by the sound of it, and three or four voices laughed.
 
-Lyra did not turn round. Goyle did, all the way round on the bench, and so, a fraction of a second before her, had Lyra’s eyes.
+Lyra did not turn round. Goyle did, all the way round on the bench, and so, if Lyra was honest, did Lyra’s eyes.
 
 The corridor behind them was empty, apart from a suit of armour.
 
@@ -86,7 +84,7 @@ Because the name had started doing it to her too. In Slytherin they said *Potter
 
 She believed it, too. She very nearly believed it.
 
-At the start of the year it had been different. At the flying lesson she had come off her broom twenty feet up, which was not a thing she cared to think about, and Potter had thrown himself after her, and she had not minded nearly as much as she ought to have. She had been brought up to be looked at, and she knew what being looked at felt like, and she knew what he had looked like that day, reaching up for her with his hand out and his face wide open. He had been looking *up*. Even upside down and falling, she had been the one in the middle of the story.
+At the start of the year it had been different. At the flying lesson she had come off her broom twenty feet up, which was not a thing she cared to think about, and Potter had thrown himself after her, and she had not minded nearly as much as she ought to have. She had been brought up to be looked at, and she knew what being looked at felt like, and she knew what he had looked like that day, coming down out of the sky after her with his hand out and his face wide open, as though she were the only thing up there worth catching. Even falling, she had been the one in the middle of the story.
 
 Now, on the rare occasions he looked at her at all, his eyes went through her like something thin and cold, and then he let out a short breath through his nose, as if she had disappointed him again, and turned away.
 
@@ -98,7 +96,7 @@ Goyle said nothing. Crabbe said nothing, more loudly.
 
 “I am *not*—”
 
-And then, as if somebody had arranged it, Neville Longbottom came out of the library with an armful of books and went past them towards the stairs, walking in the anxious, hurried way he always walked, as if he expected the floor to give way.
+And then Neville Longbottom came out of the library with an armful of books and went past them towards the stairs, walking in the anxious, hurried way he always walked, as if he expected the floor to give way.
 
 Lyra watched him go. It had been her plan since before Christmas, after all, and she had simply not got round to it: leave Potter alone, the one person stupid enough to say the name, and go for the people round him. Potter might be awkward. Longbottom was what Longbottom had always been.
 
@@ -158,7 +156,7 @@ Hermione’s mouth fell open. She looked up and down the empty staircase as if s
 
 “You’re being *strange*. You’ve been strange for weeks.”
 
-“Strange?” Harry spread his arms, wide, as if he were showing her the whole castle. “Isn’t it stranger *here*? Everybody’s so scared of Voldemort’s name they won’t even say it, and all the people who followed him are walking about the place as if they owned it. And they call me the Boy Who Lived, and then they go on about being pure-blood at me. Does that sound normal to you?”
+“Strange?” Harry spread his arms. “Everybody’s too scared to say Voldemort’s name, and the people who followed him walk about the place like they own it. And *I’m* the strange one?”
 
 “But everything you *do* is dangerous! You know somebody wants to—Harry, somebody might really try to kill you!”
 
@@ -216,7 +214,7 @@ All three of them flinched, as neatly as if they had rehearsed it. Malfoy caught
 
 Somebody at the back laughed. Then several people did.
 
-“And respect?” Harry turned so that he was talking to all of them. “When did I tell a lie? Is it a lie that Snape was one of *his*? Everybody knows. They just don’t say it. Or is it a lie that he picks on eleven-year-olds because he can? Which bit was the lie?”
+“And respect?” Harry turned so that he was talking to all of them. “When did I tell a lie? Is it a lie that Snape was one of *his*? Everybody knows. Is it a lie that he picks on first-years? Go on. Which one?”
 
 This time the whole corridor laughed: the Gryffindors, and the Hufflepuffs who had been on their way to the library, and a knot of Ravenclaws by the window with their books held against their chests. Everybody but the Slytherins.
 
@@ -234,7 +232,7 @@ It was the worst thing she could have done. Harry knew it a second before it hap
 
 The corridor changed.
 
-Harry felt it before he understood it. He did not know the word; nobody at Privet Drive had ever needed one like it. But he could feel what it was from every face round him. The laughter went out of the place as if somebody had shut a door on it. Hermione went white. Ron, who five minutes earlier had been grinning about Crabbe’s legs, stepped in front of her with his fists clenched and his ears scarlet, and even some of the Ravenclaws by the window had gone pale with anger.
+Harry felt it before he understood it. He did not know the word; nobody at Privet Drive had ever needed one like it. But he could feel what it was from every face round him. The laughter stopped. Hermione went white. Ron, who five minutes earlier had been grinning about Crabbe’s legs, stepped in front of her with his fists clenched and his ears scarlet, and even some of the Ravenclaws by the window had gone pale with anger.
 
 So it was that sort of word.
 
@@ -274,9 +272,7 @@ Her face crumpled.
 
 He watched it go. She had been holding it all together the whole time, the hair and the voice and the chin, and now it went, and she burst into tears: not neatly, not like a girl in a book, but like a child, with her mouth open and her eyes screwed shut and great hiccupping sobs that echoed off the stone.
 
-It went straight through him.
-
-The anger went out of him as if somebody had pulled a plug. The pounding in his head went with it. And something cold and small and horrible came up in its place, and sat in his stomach.
+It went straight through him. The anger drained out of him, and the pounding in his head went with it.
 
 He looked down at his own hand. It was still round her wrist, and there were red marks coming up on her skin where his fingers had been. That would hurt. He had not thought of that. He let go of her as fast as if she had burnt him, and took a step back.
 
@@ -298,7 +294,7 @@ He went over backwards. He was not expecting it, and he had nothing left to stop
 
 ⁂
 
-After a storm, it turned out, everything went very quiet.
+Afterwards, the corridor went very quiet.
 
 Harry lay on the flagstones and looked at the ceiling. By rights the corridor ought to have been cheering. The Slytherins had run; that was how these things were scored. Nobody cheered. Tears did not seem to belong to any House, and somehow, without anybody saying a word, the whole corridor had arrived at the conclusion that the person in the wrong was the one lying on the floor. People looked at him with uncomfortable faces, and then looked away, and drifted off in twos and threes towards their own common rooms.
 
@@ -312,17 +308,17 @@ Professor McGonagall came round the corner at a speed that did not seem possible
 
 “Potter! Your head is bleeding!”
 
-“I think I had a bit too much blood in it, Professor,” said Harry. “I was letting some out. Is there much left?”
+“It’s nothing, Professor,” said Harry. He found he did not feel like being funny.
 
 McGonagall’s nostrils went thin and white.
 
-“Fighting. *Again*. I told you the last time, Potter, I told you in so many words. I have never in all my years seen a Gryffindor start so many fights in so short a time. Fifty points, and a detention, and you may thank your stars it is not worse—”
+“Fighting. *Again*. I told you the last time, Potter, I told you in so many words. I have never in all my years seen a Gryffindor start so many fights in so short a time. Twenty points, and a detention, and you may thank your stars it is not worse—”
 
 “Why only me—”
 
-“Fifty points from every student involved in this, Mr Weasley and Miss Granger *included*, and detentions all round! Hospital wing, Potter, this minute.” She turned on a tall Hufflepuff who had been edging away towards the stairs. “Mr Diggory. Who was Potter fighting?”
+“Twenty points from every student involved in this, Mr Weasley and Miss Granger *included*, and detentions all round! Hospital wing, Potter, this minute.” She turned on a tall Hufflepuff who had been edging away towards the stairs. “Mr Diggory. Who was Potter fighting?”
 
-So Malfoy would get a detention too. Harry found that he was glad, and could not have said why.
+So Malfoy would get a detention too. Harry was glad, and ashamed of how glad.
 
 He got himself up off the floor. His head had gone cold and clear, now that all the heat had gone out of it, and things were coming back to him in order. He could not quite remember, now, how he had got from Neville on the hearthrug to Malfoy against the wall. He remembered the word, and the corridor going quiet, and the name in his own mouth. Mostly, though, he remembered her face.
 
@@ -330,7 +326,7 @@ He had decided, in October, that he was going to change her. He had put his chin
 
 “I was going to change her,” Harry said, to nobody. “I made her cry.”
 
-Madam Pomfrey mended his eyebrow in about a minute, with a great deal of tutting, and in the morning there was nothing to show where it had been. That was the last anybody saw of it. The Gryffindors did not tell the story, because it was not the sort of story that made Harry look good. The Slytherins did not tell it, because it was not the sort that made Malfoy look good either. By Easter it had gone the way of the Remembrall, and nobody spoke of it at all.
+Madam Pomfrey mended his eyebrow in about a minute, with a great deal of tutting, and in the morning there was nothing to show where it had been. That was the last anybody saw of it. The Gryffindors did not tell the story, because it was not the sort of story that made Harry look good. The Slytherins did not tell it, because it was not the sort that made Malfoy look good either. Nobody repeated what he had said about Snape. Snape himself, the next time Harry came into the dungeon, did not so much as raise his eyes, and Slytherin took its lead from him. By Easter nobody spoke of any of it at all.
 
 ⁂
 
@@ -348,4 +344,4 @@ She went on sitting there. After a while Lyra put her hand out between the hangi
 
 She did not say the word again that year. The next time was the following autumn, on a Quidditch pitch, about some brooms, and that time it was Weasley who went for his wand. She went on flinching at the other one, the name, as everybody she had grown up with flinched at it. But there was a particular face that she flinched from more: a boy’s face, white and set, with blood running into one eye and the Dark Lord’s name in its mouth.
 
-She was very good, by the summer, at not thinking about it. She was so good at it that a year and a half later, when a mild man in patched robes sat in a shabby armchair and asked her whether Harry Potter had ever given her a really bad fright, it did not so much as occur to her that there might be an answer.
+She was very good, by the summer, at not thinking about it, or about the cold weeks before it. She was so good at it that, a year and a half later, when she watched that cold face turn on her father at the foot of the marble staircase, she thought she was seeing it for the first time; and when, that same September, a mild man in patched robes sat in a shabby armchair and asked her whether Harry Potter had ever given her a really bad fright, it did not so much as occur to her that there might be an answer.

@@ -737,3 +737,14 @@ Las notas del crítico del 19 son 9/9/9/7/7/9/7/7 (empata con el 15 en cabeza). 
 - La mirada de insecto de Harry es el origen del boggart del 4.
 
 **Todos los coreanos recibidos (14 a 25) están adaptados.** Lo siguiente es pedir al autor el coreano 26 en adelante (el cuarto año).
+
+## 15. Cuarto año: arranque (11 de octubre)
+
+- **Coreanos 26 a 35 recibidos.** Plan en `borradores/plan-coreano-26-35.md` (correspondencia: *Year One* 4 = 26; del 24 al 32 = coreanos 27 a 35, hasta el Baile de Navidad). Resumen por escenas en `borradores/resumen-coreano-26-35.md`.
+- **Crítico nuevo** con `docs/notas/critico-cuarto-ano-arranque.md`. Su lectura inicial corrigió cinco fallos en los borradores 16 a 23 (ver `docs/notas/cap-23-critica.md`).
+- **Extra *Year One*, parte 4, *Two Words*** (coreano 26), escrito y criticado (`docs/notas/extra-year-one-4-critica.md`; manual en `docs/capitulos/extra-year-one-4.md`). Fija:
+  - Lyra llamó «Mudblood» a Granger en primero, en un pasillo. Potter le gritó el nombre del Señor Oscuro con sangre en el ojo, ella lloró y lo enterró. La cara de ese día es la del boggart.
+  - Lyra dijo una vez el nombre, llorando, sin saberlo.
+  - Dumbledore no le contó a Harry lo de la profecía. Snape le dijo que Potter le recordaba al Señor Oscuro.
+  - Crabbe sabe que lloró y mintió por ella.
+- **Siguiente:** el capítulo 24 (coreano 27, la Copa Mundial).
