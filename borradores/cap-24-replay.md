@@ -112,7 +112,7 @@ Mr Weasley and her father greeted each other with the expressions of two men who
 
 He nodded to her. It was a perfectly civil nod, the kind one gave to somebody from school whose name one could just about remember, and then he turned back to the pitch.
 
-That was what they had agreed. Not in front of people. Not anywhere anybody could see. Lyra had agreed to it herself, under the cloister in May, with a great deal of contempt for the whole arrangement, and it was quite sensible, and she would have been extremely annoyed if he had done anything else.
+That was what they had agreed. Not in front of people. Not anywhere anybody could see. Lyra had told him under the cloister in May exactly what she thought of the arrangement, and then walked off with his ring on her finger, which came to the same thing as agreeing. It was quite sensible, and she would have been extremely annoyed if he had done anything else.
 
 She turned her head away sharply and went and sat down.
 
