@@ -115,3 +115,63 @@ It was quite safe to promise. Nobody was going to let a fourth-year without a si
 Her mother looked at her for a long time. Then she leaned over and kissed her forehead, in the place where somebody else had, a week ago, under a cloak, and Lyra kept her face perfectly still.
 
 “Write on Sundays,” said her mother, and went out.
+
+⁂
+
+The chair at the end of the staff table was empty.
+
+Lyra saw it the moment she came into the Great Hall, before the Sorting, before she had found her seat, before she had looked at the Gryffindor table, which she did not do. It was the chair where a man in patched robes had sat for a year, eating very little at the full moon and rather more the rest of the time. Nobody was in it. Nobody’s plate was laid.
+
+“Lupin’s gone,” said Parkinson, sitting down across from her with the air of a boy who had been saving it since the train. “Resigned. Over the summer.”
+
+“How do you know?” said Goyle.
+
+“My mum heard. Somebody on the Board of Governors had a letter.” He leaned in and dropped his voice, which made it carry further. “He was a *werewolf*. That’s why he was always ill. Every full moon. Somebody found out at the end of term, and they say he went for some students in the grounds. They kept it quiet, but the parents found out, and that was that.”
+
+“A werewolf,” said Goyle, with a shudder of pure delight. “Teaching *us*. Imagine. A man who turns into a monster once a month, and Dumbledore lets him loose in the staff room.”
+
+“I liked him,” said Crabbe. “He taught well.”
+
+“You would.”
+
+Lyra said nothing at all. She cut her roast potatoes into very small pieces.
+
+*They say he went for some students in the grounds.* He had gone for three students and a convicted murderer and a girl on a hippogriff, on a February night with a full moon over the lake, because somebody had put a neutraliser in his potion; and somebody else had carried that potion up four flights of stairs, and seen a line of little prints across a blotter, and wiped the bottom of the goblet, and thought, *whoever drinks it need never know*.
+
+She looked along the staff table without meaning to. Professor Snape was looking at her. He went on looking for exactly as long as it took her to understand that he was, and then he turned and said something to Professor Sinistra.
+
+*Somebody found out at the end of term.* Lyra had a very good idea who had found out, and how long he had been waiting to.
+
+She had kept that secret for nine months. She had kept it from her father and from Snape and from every soul in Slytherin, because she owed it. And at the end of the year he had come back to his classroom grey and tired and said *thank you* to the air, and she had left a bar of chocolate she did not like outside his door and called it a receipt, and now he was gone, and there was nothing left to pay it to.
+
+“Lyra?” said Goyle. “You’re not eating.”
+
+“I’m not hungry,” said Lyra, and ate a potato to prove it.
+
+⁂
+
+Then the doors banged open, and a man came in out of the storm.
+
+He was grizzled and scarred and stumping, with one wooden leg that rang on the flagstones, and a face that looked as though it had been carved out of old wood by somebody who had only heard faces described. A chunk was missing from his nose. And one of his eyes was not an eye at all. It was a great round electric-blue thing, like a marble, and it rolled in its socket, round and up and back, without blinking, and as he limped the length of the Great Hall it swivelled right round into the back of his head and looked, Lyra could have sworn, straight through the wall.
+
+“May I introduce,” said Dumbledore into the silence, “our new Defence Against the Dark Arts teacher. Professor Moody.”
+
+Nobody clapped but Dumbledore and Hagrid.
+
+“Mad-Eye Moody,” breathed somebody down the table. “The Auror. My dad says he filled half of Azkaban.”
+
+Lyra did not need to be told that. Her father had a name he used for Alastor Moody, and it was not a name he used in front of guests.
+
+She looked at the Gryffindor table then. She had not meant to.
+
+Potter was watching Moody limp up to the staff table with his elbows on the board and his chin on his fists, the way you might watch an old acquaintance come into a room. He did not look surprised. He did not look anything at all.
+
+Then Dumbledore stood up again, and told them that there would be no Inter-House Quidditch Cup this year—Montague actually moaned out loud, and somewhere in the dungeons under her feet a Firebolt went on lying in its case for nothing—because Hogwarts, this year, was to host a Triwizard Tournament.
+
+The Hall erupted. Lyra hardly heard it. Two other schools, Beauxbatons and Durmstrang, would arrive in October. A champion from each. Only students of seventeen or over could put their names forward. Dumbledore had to raise his voice over the uproar from the sixth years, and the sound of Fred and George Weasley informing the whole Gryffindor table that they would be seventeen by October if it killed them.
+
+*Especially next year. If students come from other schools.*
+
+She looked across the Hall at Potter again. He was not looking at Dumbledore. He was looking at her.
+
+It lasted perhaps a second. Then he looked away, back to the staff table, with a perfectly ordinary face; and Lyra sat at the Slytherin table with her hands in her lap, and understood that he had known she would be looking, and that he had wanted her to know that he knew.
