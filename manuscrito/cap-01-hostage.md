@@ -4,57 +4,23 @@ The night the Chamber of Secrets was closed, Harry Potter took Lyra Malfoy into 
 
 Until then, she had been having a perfectly good year.
 
-Lyra Malfoy had many virtues, and she saw no reason to be modest about any of them.
-
-She was beautiful, for a start.
-
-“Honestly, if she weren’t so pretty, somebody would have hexed her by now.”
-
-She came from one of the oldest pure-blood families in Britain, and one of the busiest.
-
-“Board of Governors, half the Ministry, the parents’ committee, and oh, look, there’s one in Slytherin as well. There can’t be more than four of them. How are they *everywhere*?”
-
-And she was clever and quick and very, very good on a broom, which was the part that seemed to upset people most.
-
-“Can somebody please do something about Snape? He marks her up in Potions, he hands Slytherin the pitch whenever they ask, and we’re meant to train where, exactly? The corridors?”
-
-Lyra took every one of these remarks as a compliment. As far as she was concerned the school had a natural order, and she sat very comfortably near the top of it. Her real smiles she saved for people who had earned them, which at present meant her mother, her father, her little brother when he was behaving, and, on particularly good mornings, her own reflection.
-
-There was, however, one flaw in the arrangement, and it wore glasses.
-
-Lyra had taken against Harry Potter before she even knew who he was. He had been standing on the stool next to hers in Madam Malkin’s the summer before first year, a scrawny boy in clothes several sizes too big for him, and she had made perfectly friendly conversation about Quidditch and Houses and the sort of people one ought not to mix with, and he had answered in mumbles, edging away along his stool as though she might be catching. Then, on the Hogwarts Express, she had found out his name, gone along to his compartment, and offered him her hand in front of the Weasley boy. He had looked at it and told her he could work out the wrong sort for himself, thanks.
-
-Nobody had ever refused Lyra Malfoy’s hand before. She had not enjoyed the novelty.
-
-In fairness, and Lyra was always fair when it cost her nothing, he wasn’t bad-looking. Without those dreadful round glasses he might even have been called handsome, which was a purely objective assessment of the kind anyone with a trained eye would make, and said absolutely nothing about her. His hair was a lost cause. The rest of him was merely wasted.
-
-What she couldn’t forgive was everything else. He had been raised by Muggles, and it showed: he wandered round the castle with his shirt untucked and his tie at half-mast, eating as though he expected somebody to take the plate away. Girls in the other Houses called this unpretentious. Lyra called it poor breeding. What nobody called him was harmless. Potter repaid grudges patiently and in full, and even the fifth-years had learned to give him a wide berth. His marks were respectable, which was entirely down to Granger, that know-it-all Mudblood, and since Granger had spent the last month lying petrified in the hospital wing, Lyra had been watching Potter’s marks with great interest.
-
-Then there was Quidditch. He had been Gryffindor Seeker since his first year, the youngest House player in a century. This year Lyra had joined the Slytherin team, also as Seeker, and her father had very kindly equipped the entire side with Nimbus Two Thousand and Ones at the same time, which had nothing whatsoever to do with anything. Granger had suggested otherwise, which was why Lyra had called her what she had called her, and Weasley had spent the rest of that afternoon belching slugs for trying to curse her over it.
-
-She did not discuss the November match. If anyone brought up the Snitch, or the few seconds in which it had apparently hovered beside her left ear while she was busy telling Potter exactly what she thought of him, Lyra changed the subject. Potter had caught it with a broken arm. People talked about that as though it were heroic rather than simply careless.
-
-And he kept ending up at the centre of everything. First the Philosopher’s Stone, and Gryffindor snatching the House Cup out from under Slytherin’s nose at the leaving feast; Lyra had bitten one of her nails almost to the quick that night, and Crabbe had pulled her hand away from her mouth before it was ruined entirely. Then the Chamber of Secrets, because of course, and half the school calling him the Heir of Slytherin until he announced over dinner that they were welcome to, provided the Slytherins started kneeling. Lyra had found herself in the absurd position of defending him, since she had no intention of kneeling to anybody.
-
-Hogwarts without him, she sometimes thought, would be very nearly perfect. Quieter. Better run. Considerably less likely to involve giant snakes.
-
-She went on thinking so right up until the night the Chamber was closed, when Potter showed her what her father had done.
-
 ⁂
 
 The news reached the dungeons a little before midnight, and it arrived the way news always arrived in the Slytherin common room: sideways, in pieces, and from somebody’s cousin.
 
-Ginny Weasley was alive. Dumbledore was back. Something enormous had been killed somewhere underneath the school, and Potter and Weasley had been involved, because naturally they had. A fifth-year came down from the entrance hall saying *basilisk*, and everybody laughed at him, and then Professor Snape appeared in the doorway with the expression of a man who had been ordered to be festive and was taking it personally. There would be a feast in the Great Hall, he informed them, now, in whatever they happened to be wearing, and nobody was to ask him a single question about it. Nobody laughed about the basilisk after that.
+Ginny Weasley was alive. Dumbledore was back. Something enormous had been killed somewhere underneath the school, and Potter and Weasley had been involved, because naturally they had. A fifth-year came down from the entrance hall saying *basilisk*, and everybody laughed at him. Panther Parkinson said Potter must have been the Heir after all. Potter had offered, over dinner, to answer to Heir of Slytherin as soon as the Slytherins started kneeling, and Lyra had spent a week in the absurd position of defending him, since she had no intention of kneeling to anybody. Then Professor Snape appeared in the doorway with the expression of a man who had been ordered to be festive and was taking it personally. There would be a feast in the Great Hall, he informed them, now, in whatever they happened to be wearing, and nobody was to ask him a single question about it. Nobody laughed about the basilisk after that.
 
 Lyra refused to go up with her hair the way it was, and took ten minutes in front of the mirror that she didn’t really have. When she came down, in her dark green dressing gown with the silver embroidery at the cuffs, she looked, if not her best, then at least deliberate. Her hands had not been entirely steady with the brush. The dungeons were always cold at night.
 
-Her father had been in an excellent mood all year. At Christmas he had written to tell her, in the careful way he wrote anything that might be read by the wrong eyes, that she should keep her head down, stay well out of whatever happened at school, and let events take their course. She had asked in her reply what events, exactly, and he had answered with three pages about her Transfiguration marks. Lyra was not stupid. She knew he despised Arthur Weasley and wanted Dumbledore gone. She had been standing right there in Flourish and Blotts last August when he picked the youngest Weasley’s battered Transfiguration book out of her cauldron, sneered at it, and dropped it back in, and she had been at school a few weeks later when the first message appeared on the wall. She hadn’t asked herself any questions about it. Questions were for people whose fathers weren’t Lucius Malfoy, and her father had spent her entire life making sure that consequences happened to other people. Whatever had gone wrong tonight could be tidied up. It always was.
+Her father had been in an excellent mood all year. At Christmas, at home, he had told her, in the careful way he said anything that might be repeated, that she should keep her head down, stay well out of whatever happened at school, and let events take their course. She had asked what events, exactly, and he had talked for the rest of dinner about her Transfiguration marks. Lyra was not stupid. She knew he despised Arthur Weasley and wanted Dumbledore gone. She had been standing right there in Flourish and Blotts last August when he picked the youngest Weasley’s battered Transfiguration book out of her cauldron, sneered at it, and dropped it back in, and she had been at school a few weeks later when the first message appeared on the wall. She hadn’t asked herself any questions about it. Questions were for people whose fathers weren’t Lucius Malfoy, and her father had spent her entire life making sure that consequences happened to other people. Whatever had gone wrong tonight could be tidied up. It always was.
 
-Crabbe and Goyle were waiting at the foot of the dormitory stairs in pyjamas that had clearly been bought with growth in mind, and they fell in behind her without being asked. The three of them had just reached the entrance hall, which was full of noise and candlelight and Hufflepuffs in nightcaps, when someone stepped out of the shadow beside the marble staircase and said, “Malfoy.”
+Crabbe and Goyle were waiting at the foot of the dormitory stairs in pyjamas that had clearly been bought with growth in mind, and they fell in behind her without being asked. The three of them had just reached the entrance hall, which was full of noise and candlelight and Hufflepuffs in nightcaps. Hogwarts without Potter, Lyra thought, not for the first time, would be very nearly perfect. Quieter. Better run. Considerably less likely to involve giant snakes.
+
+Someone stepped out of the shadow beside the marble staircase and said, “Malfoy.”
 
 It was Potter.
 
-He hadn’t changed. Everyone else in the castle was in their nightclothes, and Potter was still in his school robes, and they were filthy: streaked with something grey and slimy down one side, torn at the hem, and stiff along the right sleeve with what Lyra realised, after a moment, was dried blood. There was a fresh scratch along his jaw. His hair was worse than usual, which she would not have thought possible. He looked, in short, exactly like somebody who had spent the evening under the school killing something, and Lyra decided on the spot that she was not going to be impressed by it.
+He hadn’t changed. Everyone else in the castle was in their nightclothes, and Potter was still in his school robes, and they were filthy: streaked with something grey and slimy down one side, torn at the hem, and stiff along the right sleeve with what Lyra realised, after a moment, was dried blood. It was the arm he had broken in November, in the match she did not discuss: her first, on the Nimbus Two Thousand and One her father had very kindly bought for the whole team, which had nothing whatsoever to do with anything. The Snitch had apparently hovered beside her left ear for several seconds while she was busy telling him exactly what she thought of him, and Potter, Gryffindor Seeker since his first year and the youngest House player in a century, had caught it with a broken arm, which people talked about as though it were heroic rather than simply careless. There was a fresh scratch along his jaw. His hair was worse than usual, which she would not have thought possible. He looked, in short, exactly like somebody who had spent the evening under the school killing something, and Lyra decided on the spot that she was not going to be impressed by it. He had been raised by Muggles, and it showed, and Lyra called it poor breeding; what nobody called him was harmless. Potter repaid grudges patiently and in full, and even the fifth-years gave him a wide berth.
 
 “A word,” he said.
 
@@ -68,6 +34,8 @@ Behind her, Goyle made a confused noise. Lyra didn’t turn round. Something ins
 
 Crabbe looked at Potter, then at her. “You sure?”
 
+It was Crabbe who, the night Gryffindor snatched the House Cup out from under Slytherin’s nose at the leaving feast, had pulled Lyra’s hand away from her mouth before the nail was bitten to nothing, and had never mentioned it since.
+
 “Did I ask for a second opinion?”
 
 They went.
@@ -80,13 +48,13 @@ Potter led her down a side corridor off the entrance hall and into a classroom n
 
 She was so surprised that she did. People did not tell her to shut up. Weasley did, but Weasley didn’t count.
 
-Potter reached into his robes and dropped something on the nearest desk. It was a small black book, or what was left of one. A hole had been punched straight through the middle of it, ragged at the edges, as if something long and sharp had been driven in through the cover and out the back, and the pages round the wound were soaked with ink that seemed to have bled out of the paper rather than spilled onto it. It had dried in thick, glossy streaks. Lyra had the unpleasant impression that until very recently the book had been alive.
+Potter reached into his robes and dropped something on the nearest desk. It was a small black book, or what was left of one. A hole had been punched straight through the middle of it, ragged at the edges, as if something long and sharp had been driven in through the cover and out the back, and the pages round the wound were soaked with ink that seemed to have bled out of the paper rather than spilled onto it. Lyra had the unpleasant impression that until very recently the book had been alive.
 
 She knew it at once.
 
 Last summer, in Borgin and Burkes, her father had laid out a row of objects on the counter for Mr Borgin to make an offer on. Lyra had been bored, and had been told twice to stop poking at the withered hand in the glass case, and she had watched him take a small black book out of his inside pocket, turn it over once in his fingers, and put it back. *Not that one*, he had said, mostly to himself.
 
-“That’s Father’s,” she said, before she could stop herself. “He had it at Borgin’s—”
+“That’s Father’s,” she said. “He had it at Borgin’s—”
 
 “I know,” said Potter.
 
@@ -158,7 +126,7 @@ Lyra folded her arms, mostly so he wouldn’t see what her hands were doing.
 
 “Right. Exactly. So that’s the good version.” Potter leaned forward over the back of the chair. “The Ministry has trials. Your dad knows people, so maybe he gets a fine, or he loses his seat on the board, or at the very worst he goes to Azkaban for a bit. But if Voldemort comes back and finds out a piece of his soul got destroyed because your dad wanted to get at Mr Weasley, he’s not going to bother with a trial. He’ll just kill him.”
 
-For most of Lyra’s life, the Dark Lord had lived somewhere between history and a ghost story. Grown-ups lowered their voices when they spoke of him, if they spoke of him at all. Nobody at the Manor said out loud that her father had served him. Nobody needed to. Lyra had grown up with the sense of an enormous locked room at the heart of the house, and she had been raised, like any sensible Slytherin, to respect whatever was kept in locked rooms. It was why she had always hated the careless way Potter said the name. He tossed it about like a Chocolate Frog card, as if it were just a word.
+For most of Lyra’s life, the Dark Lord had lived somewhere between history and a ghost story. Nobody at the Manor said out loud that her father had served him. Nobody needed to. Lyra had grown up with the sense of an enormous locked room at the heart of the house, and she had been raised, like any sensible Slytherin, to respect whatever was kept in locked rooms. It was why she had always hated the careless way Potter said the name. He tossed it about like a Chocolate Frog card, as if it were just a word.
 
 She was looking at the diary now, at the ink that had bled out of it, and trying to take in that a piece of the Dark Lord had been inside. Had been in her house, in her father’s pocket, on the counter at Borgin’s while she poked at a withered hand in a glass case. And now it was dead, and the thing that had killed it was a fang, and the person who had driven the fang in was sitting backwards on a chair in front of her with blood on his sleeve, looking tired.
 
@@ -190,7 +158,7 @@ It was a short pause. Lyra had grown up at a dinner table where half of what mat
 
 “Did Dumbledore tell you?”
 
-Potter looked at her very steadily and said neither yes nor no, and Lyra understood that he had no intention of saying anything at all. It was the look her father wore when a dinner guest asked too directly about his investments. She had never seen it on a boy who couldn’t knot his own tie, and it sat on him oddly, like something handed down from someone much older. She would think about that later, she decided, when she was not standing in a freezing classroom in her dressing gown.
+Potter looked at her very steadily and said neither yes nor no, and Lyra understood that he had no intention of saying anything at all. It was the look her father wore when a dinner guest asked too directly about his investments. She had never seen it on a boy who couldn’t knot his own tie, and it sat on him oddly, like something handed down from someone much older.
 
 “The houses,” Potter said.
 
@@ -212,7 +180,7 @@ It was a perfectly ordinary shrug. But there were guest cottages on the Wiltshir
 
 She could see it far too clearly: the drawing room at the Manor full of her father’s old friends, every one of them smiling, every one of them so terribly sorry.
 
-“So your family needs to stay out of it,” Potter said. “All of you. And if they can’t...” He hesitated, and for the first time that night something in his face looked twelve. “Then you, at least.”
+“So your family needs to stay out of it,” Potter said. “All of you. And if they can’t...” He hesitated, and for the first time that night he looked twelve. “Then you, at least.”
 
 Lyra stared at him.
 
@@ -238,11 +206,13 @@ For a second Lyra genuinely didn’t understand the words.
 
 “Not your problem.”
 
+Granger, that know-it-all Mudblood, had spent the last month petrified in the hospital wing, which Lyra had found restful. Granger had once suggested that the Nimbuses had something to do with Lyra’s place on the team, which was why Lyra had called her what she had called her, and why Weasley, trying to curse her for it, had spent an afternoon belching slugs.
+
 “It is entirely my problem, I’m the hostage!”
 
 “Look,” said Potter, and rubbed his forehead just beneath the scar, as if it ached, “I’m not going to lock you in a cupboard or anything.”
 
-He said it in an odd, flat voice, like a joke that wasn’t one. Lyra had no idea what to make of that, so she ignored it.
+He said it in an odd, flat voice, like a joke that wasn’t one.
 
 “How extremely comforting. As a rule, that is what happens to hostages.”
 
@@ -250,7 +220,7 @@ He said it in an odd, flat voice, like a joke that wasn’t one. Lyra had no ide
 
 “Against what?”
 
-“Your dad. And anyone else who reckons the Malfoys ought to go back to Voldemort when he turns up.” He held her gaze. “I don’t need you to spy on anyone. I’m not asking you to nick letters out of his desk or listen at doors. You probably don’t know anything useful anyway. Your dad’s not going to tell his twelve-year-old his plans.”
+“Your dad. And anyone else who reckons the Malfoys ought to go back to Voldemort when he turns up.” He held her gaze. “I don’t need you to spy on anyone. I’m not asking you to nick letters out of his desk or listen at doors. Your dad’s not going to tell his twelve-year-old his plans.”
 
 “Excuse me?”
 
@@ -270,7 +240,7 @@ Lyra looked at him. Not five minutes ago he had spent a great deal of breath exp
 
 The classroom was very cold. Somewhere down the corridor the feast had started. She could hear it faintly through the walls, a roar of voices and the scrape of hundreds of benches, and somebody cheering. Gryffindors, probably. Probably for him.
 
-That morning the world had been simple: good families and embarrassing ones, Slytherins and everybody else, and a father who could fix anything. She had never much cared who won the war, if there was ever another one, because she had always assumed that whoever won, the Malfoys would still be standing in the middle of it. It had not occurred to her until tonight that a world might arrive in which the Malfoys were simply in the way.
+That morning the world had been simple: good families and embarrassing ones, Slytherins and everybody else, and a father who could fix anything. It had not occurred to her until tonight that a world might arrive in which the Malfoys were simply in the way.
 
 “Fine,” she said.
 
@@ -290,7 +260,11 @@ She had not been expecting that, and it wrong-footed her.
 
 He got up off the chair and held out his hand.
 
-Lyra looked at it. It was a thin, grubby hand with dried blood in the creases of the knuckles and a raw scrape across the palm, and she knew the shape of the moment, because she had been on the other side of it. Two years ago on the Hogwarts Express she had stood in a compartment doorway and held her own hand out to this exact boy, and he had looked at it and turned it down, and she had carried that around ever since like a stone in her shoe.
+Lyra looked at it. It was a thin, grubby hand with dried blood in the creases of the knuckles and a raw scrape across the palm, and she knew the shape of the moment, because she had been on the other side of it.
+
+Lyra had taken against Harry Potter before she even knew who he was. He had been standing on the stool next to hers in Madam Malkin’s the summer before first year, a scrawny boy in clothes several sizes too big for him, and she had made perfectly friendly conversation about Quidditch and Houses and the sort of people one ought not to mix with, and he had answered in mumbles, edging away along his stool as though she might be catching. Then, on the Hogwarts Express, she had found out his name, gone along to his compartment, and offered him her hand in front of the Weasley boy. He had looked at it and told her he could work out the wrong sort for himself, thanks.
+
+Nobody had ever refused Lyra Malfoy’s hand before. She had not enjoyed the novelty, and she had carried it around ever since like a stone in her shoe.
 
 Now the hand was his, and she was the one expected to take it. In the moonlight the scrape across his palm had the ugly look of a bite, and Lyra thought of a snake striking: how fast it would be, and how you would see the fangs before you ever felt them.
 
@@ -316,7 +290,7 @@ She stayed there longer than she meant to, going back over all of it: the Horcru
 
 And Potter had said, *I know.*
 
-Lyra stood with her hand on the cold brass handle and thought back to Borgin and Burkes last summer: the dusty counter, the withered hand in its case, Mr Borgin bowing and scraping, her father taking the little black book out of his pocket and putting it away again. There had been nobody else in the shop, nothing but junk and that hideous black cabinet by the door. Potter could have heard about it somehow, she supposed. Knockturn Alley was full of people who would sell anything, gossip included.
+Lyra stood with her hand on the cold brass handle and thought back to Borgin and Burkes. There had been nobody else in the shop, nothing but junk and that hideous black cabinet by the door. Potter could have heard about it somehow, she supposed. Knockturn Alley was full of people who would sell anything, gossip included.
 
 But he had also said *somewhere up north*, as carelessly as if he were remarking on the weather.
 

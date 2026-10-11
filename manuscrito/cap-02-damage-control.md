@@ -10,7 +10,7 @@ There was no version of that sentence that improved with practice. And underneat
 
 Meanwhile the Manor went on around her in its usual summer fashion, which was beautifully and a little too quietly. The gardens were at their best. The white peacocks trailed their tails across the lawns like creatures who knew exactly what they were worth, and her mother had the long drawing room opened up and the windows thrown wide, so that the whole house smelled of roses and beeswax, as it did every July.
 
-Not everything was as usual, though. The Board of Governors had voted her father off on the night of the leaving feast. Lyra had read about it on the train home, in a copy of the *Daily Prophet* that Pansy had passed across the compartment with an expression of such careful sympathy that Lyra had wanted to hex her. At dinner her father referred to the whole business as a temporary misunderstanding. In his study, when he believed nobody was listening, he used considerably shorter words.
+Not everything was as usual, though. The Board of Governors had voted her father off on the night of the leaving feast. Lyra had read about it on the train home, in a copy of the *Daily Prophet* that Daphne Greengrass had passed across the compartment with an expression of such careful sympathy that Lyra had wanted to hex her. At dinner her father referred to the whole business as a temporary misunderstanding. In his study, when he believed nobody was listening, he used considerably shorter words.
 
 And Dobby was gone. A new elf had arrived at the end of the first week, a nervous creature called Pobble who had come from some dwindling family in Kent that could no longer afford her, and who dropped things. Nobody mentioned Dobby at table. Lyra had learned long ago that the things her father did not mention were the ones that had cost him most, and he was not mentioning Dobby with tremendous energy.
 
@@ -138,7 +138,7 @@ She went up to her room, where Pobble had already lit an enormous fire, opened e
 
 The best possible outcome, clearly, was that the Dark Lord stayed exactly where he was, which was nowhere. It was a disloyal thought. She made herself finish it anyway. The Malfoys already had money, and influence, and a house older than most of the Ministry’s laws. The Dark Lord could not give them a single thing they did not already have. All he could do was take things away, and he had a reputation for doing that thoroughly. Standing with him meant staking everything they owned for the privilege of keeping it, and Lyra had been doing sums since she was five. The sum did not work.
 
-There was also the question of taste. Lyra had discovered at around the age of six that a smile could get her almost anything she wanted, and she had spent the years since refining the technique. She had no objection whatsoever to the right sort of people being in charge. She simply thought they ought to manage it charmingly. A world run on curses struck her as dreadfully crude.
+There was also the question of taste. Lyra had discovered at around the age of six that a smile could get her almost anything she wanted, and she thought the right sort of people ought to rule charmingly. A world run on curses struck her as dreadfully crude.
 
 So, then. If the Dark Lord was to stay gone, she would have to help Potter keep him that way, which was an intolerable sentence to think and there was no way round it. And if Potter failed, and the Dark Lord came back regardless, then the Malfoys would need to keep their heads down and make very sure that nobody ever learned what had happened to that diary.
 
@@ -166,13 +166,13 @@ It was not the sort of thing a twelve-year-old ought to think of. Lyra had told 
 
 “And why should I trust you?”
 
-“You don’t have to.” He had shrugged. “Up to you, Malfoy.”
+“You don’t have to.” He had shrugged. “Up to you, Malfoy. Don’t take too long, though.”
 
 It was only afterwards, halfway back up the lawn, that the obvious question had caught up with her. If he gave her the diary, what exactly would he have left to blackmail her with? She had not gone back to ask. She was not certain she wanted the answer.
 
 She had said she would think about it. She had been thinking about it ever since, and she had to admit, sitting at her desk with the fire roaring behind her in the middle of July, that Potter had been right about this too. A lie with the diary in it might keep her father alive. The truth would not. Put carefully away at the Manor for eleven years, then tucked into a schoolgirl’s cauldron out of spite, carried into Hogwarts in a satchel full of secondhand books, and destroyed there, soul and all. There was no version of that story the Dark Lord would forgive. If he ever heard it, somebody would die, and it would certainly be Father.
 
-Which meant that if that day ever came, Father would have to tell the lie himself, and tell it well, and he could hardly tell a lie he did not know he needed. Lyra put that aside for later, next to everything else she was putting aside for later. The pile was getting tall.
+If that day ever came, Father would have to tell the lie himself, and he could hardly tell a lie he did not know he needed. Lyra put that aside for later. The pile was getting tall.
 
 Lyra caught her thumbnail halfway to her teeth, an old habit from the night Gryffindor stole the House Cup, and pressed her hand flat on the desk instead.
 
