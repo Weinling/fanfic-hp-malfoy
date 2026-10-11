@@ -37,7 +37,7 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 | 10 nov. 1994 | 27 | Hurón: la lleva en brazos, primero mal y luego bien, andando. Nariz con nariz. **Beso en el hocico, el primero que decide ella**; «no cuenta» | Snape, Smith y Hufflepuff, Granger (lo deduce) | «That did not count.» |
 | 11 nov. 1994 | 28 | En público, la rama y el escreguto. Ella le dice a Weasley «I would if I could!» | Weasley | «She thinks it’s a *secret*.» |
 
-**Besos en la boca hasta ahora: dos (3 y 19).** Además: la frente (24), el hocico (27, «no cuenta»). El del 29 no es el primero: es el primero elegido por los dos, sin excusa.
+**El 30 no estrena ningún contacto nuevo** (revisor). **Besos en la boca hasta ahora: dos (3 y 19).** Además: la frente (24), el hocico (27, «no cuenta»). El del 29 no es el primero: es el primero elegido por los dos, sin excusa.
 
 **Traslados en brazos:** primero (Y1-1, rodando), el 5 (corriendo bajo la capa), el 27 (hurón, andando).
 
@@ -51,7 +51,7 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 | Hermione | Todo lo visto | Feb. 1994 | El beso del 19; el bucle (21, quiso borrarle la memoria); el hurón (27, lo deduce) |
 | Crabbe | Que están juntos | 1994 | Le dio el anillo a Potter (21); «a rather good Cupid» (23) |
 | Goyle | Sospecha | 1994 | «When did those two make it up?» (23) |
-| Moody | Todo, por el ojo | Sep. 1994 | Se lo dijo a Harry en octubre y a Lyra el 10 de noviembre (27) |
+| Moody | Todo, por el ojo | Sep. 1994 | Vio los dos anillos (el de él en la mano, el de ella en el bolsillo) y luego el aula de Halloween. Se lo dijo a Harry en octubre y a Lyra el 10 de noviembre (27) |
 | Diggory | Sospecha | May. 1994 | «more faithful than you look» (23) |
 | Narcissa | Sospecha | Ago. 1994 | La cara, el bolsillo (24); la frente «where somebody else had» (25) |
 | Lupin | Vio el beso del tren (3) | Sep. 1993 | Nada más consta |

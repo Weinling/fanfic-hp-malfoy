@@ -32,8 +32,6 @@ She opened his in History of Magic, under the desk, while Professor Binns told t
 
 Lyra read it twice. Binns had reached 1613.
 
-He had looked at what she owed him, and agreed with her about every penny of it, and then written underneath, in the same mild handwriting, that the account was still running the other way.
-
 You could not settle with a man who insisted on owing you. It was the most underhand thing anybody had ever done to her, and she sat in the back of History of Magic with the letter flat under her hand, and found that her eyes had gone hot, and that she could not have said, if Binns had asked her, what century it was.
 
 Crabbe, beside her, did not look round. She turned to a clean page and began, without a word, to take notes for both of them.
@@ -46,7 +44,7 @@ Professor Moody had pushed the desks back against the walls. That was the first 
 
 Parkinson laughed, and then stopped, because nobody else had.
 
-“The Ministry says you’re too young. Dumbledore says you need to know. I agree with Dumbledore.” The normal eye went along them. “Some of you’ll throw it off. Most of you won’t. The ones who can’t had better find out now, here, from somebody who’ll stop, than later from somebody who won’t. Parkinson. You were enjoying yourself. Out you come.”
+“Some of you’ll throw it off. Most of you won’t. Better find out now, from somebody who’ll stop, than later from somebody who won’t. Parkinson. You were enjoying yourself. Out you come.”
 
 Parkinson came out, a little less pleased with himself, into the middle of the floor. Moody raised his wand. “*Imperio*.”
 
@@ -59,8 +57,6 @@ Crabbe sang. She was put under, and stood in the middle of the floor with her ha
 “Anyone laughs,” said Lyra, quite quietly, to the Slytherins nearest, “and I will remember it.”
 
 Nobody laughed.
-
-Goyle did a handstand and could not get down from it.
 
 “Malfoy.”
 
@@ -82,7 +78,7 @@ It was much smaller than the first one, and a good deal less kind, and it sounde
 
 *And then what? What’s in it for me?*
 
-Nothing, so far as she could see. Somebody wanted something from her, and was offering nothing in return, and was being very charming about it, which was what people always did when they were offering nothing in return. Malfoys did not do favours.
+Nothing, so far as she could see. Somebody wanted something from her, and was offering nothing in return, and was being very charming about it, as people always were when they were offering nothing in return. Malfoys did not do favours.
 
 She stayed where she was.
 
@@ -104,7 +100,7 @@ The room had gone very quiet.
 
 “No,” said Moody. “I don’t suppose they did.” He jerked his head. “Go on. Next.”
 
-She went back to her place. Crabbe moved up to make room for her, and did not look at her, and pressed her shoulder very briefly against Lyra’s, and took it away again.
+She went back to her place. Crabbe moved up to make room for her, and did not look at her.
 
 ⁂
 
@@ -260,7 +256,7 @@ She had not told him what Moody said in her lesson. Moody must have. Or Potter h
 
 She squeaked. It was meant to convey that he had no business knowing that either, and that she had been perfectly entitled to offer, and that she would do it anyway, with or without Mad-Eye Moody’s blessing. Potter seemed to understand at least the last part. He looked at her for a while without saying anything, and rubbed his thumb once along the top of her head, between the good ears.
 
-“Thanks,” he said. Then, after a moment: “He knows about us. You’ll have worked that out. He’s known since the first week of term. He told me in October.” He rubbed the back of his neck. “I’d have told you. You weren’t answering.”
+“Thanks,” he said. Then, after a moment: “He knows about us. You’ll have worked that out. He’s known since the first week of term. Your ring, in your pocket. Mine, on my hand. He didn’t need a cloak for that. He told me in October.” He rubbed the back of his neck. “I’d have told you. You weren’t answering.”
 
 That was perfectly fair, and she disliked it extremely.
 
@@ -365,5 +361,3 @@ She was sitting on the grass beside him, under the beech, under his cloak, in th
 “I was a *ferret*.”
 
 “You were a very nice ferret.”
-
-She hit him. Under an Invisibility Cloak it was difficult to aim, and she did not try especially hard.

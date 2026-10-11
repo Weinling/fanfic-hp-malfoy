@@ -1,6 +1,6 @@
 # Year One, Part 4: Two Words
 
-On the evening in January that Harry Potter went up the Headmaster’s stairs to complain about him, Severus Snape did not sit down.
+A few evenings after Harry Potter went up the Headmaster’s stairs to complain about him, Severus Snape went up them himself, and did not sit down.
 
 The Headmaster had pointed him to a chair with the air of a man who had been expecting him for an hour and had kept the tea warm, and Snape walked past the chair and the tea and stopped in front of the desk.
 
@@ -17,6 +17,8 @@ Snape did not trouble to deny it.
 “And the rest?” he said at last. “Did you tell him the rest?”
 
 “No.” Dumbledore regarded him over his spectacles. “If Harry knows the rest, he did not learn it from me.”
+
+“He knows it,” said Snape. “He said as much to me. In a corridor, after dinner.”
 
 There was a silence. One of the silver instruments on the shelf behind the desk let out a thin puff of smoke and was still.
 
@@ -84,7 +86,7 @@ Because the name had started doing it to her too. In Slytherin they said *Potter
 
 She believed it, too. She very nearly believed it.
 
-At the start of the year it had been different. At the flying lesson she had come off her broom twenty feet up, which was not a thing she cared to think about, and Potter had thrown himself after her, and she had not minded nearly as much as she ought to have. She had been brought up to be looked at, and she knew what being looked at felt like, and she knew what he had looked like that day, coming down out of the sky after her with his hand out and his face wide open, as though she were the only thing up there worth catching. Even falling, she had been the one in the middle of the story.
+At the start of the year it had been different. At the flying lesson she had come off her broom at the top of an oak, which was not a thing she cared to think about, and Potter had thrown himself after her, and she had not minded nearly as much as she ought to have. She had been brought up to be looked at, and she knew what being looked at felt like, and she knew what he had looked like that day, coming down out of the sky after her with his hand out and his face wide open, as though she were the only thing up there worth catching. Even falling, she had been the one in the middle of the story.
 
 Now, on the rare occasions he looked at her at all, his eyes went through her like something thin and cold, and then he let out a short breath through his nose, as if she had disappointed him again, and turned away.
 

@@ -218,7 +218,7 @@ Snape’s face cracked. It was a very small crack, and it was gone at once; but 
 
 ⁂
 
-After that day, Snape ignored Harry. He behaved as if Harry were not in the room, and took no more points off him than off anybody else, and Harry glared at him every time he saw him, as though he were looking at the man who had killed his parents. And to give him nothing at all, Harry learned every page before every lesson. By Easter Snape could find nothing to fault in his work; it only made him angry in a quieter way.
+After that day, Snape ignored Harry. He behaved as if Harry were not in the room, and stopped looking for reasons to take points off him, and Harry glared at him every time he saw him, as though he were looking at the man who had killed his parents. And to give him nothing at all, Harry learned every page before every lesson. By Easter Snape could find nothing to fault in his work; it only made him angry in a quieter way.
 
 He had found out something very important, but he did not go back to Dumbledore. He wanted to know why Dumbledore had not told him the truth, and why, knowing it, he had given Snape a job at all.
 

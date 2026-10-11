@@ -98,7 +98,7 @@ They were very nearly her mother’s words.
 
 Potter was looking down at the finger on his chest. When he looked up, he was smiling.
 
-“You’re worried about me. That’s an honour. Lyra Malfoy, worried about me.”
+“You’re worried about me. And saying so. That’s new.”
 
 “Don’t you dare try to talk your way round this, Harry Potter. As if I would ever be worried about somebody like—”
 
@@ -174,7 +174,7 @@ Potter whistled two notes of something and examined the ceiling. “What did I s
 
 He told her.
 
-Before the World Cup, he and Sirius had gone through the house Sirius had grown up in, top to bottom. Every Black Sirius could name had been on the Dark Lord’s side except himself, who had been burnt off the tapestry for it; and the Dark Lord had trusted one of his pieces to the Malfoys, so it had seemed worth asking whether he had trusted another to the Blacks. Sirius’s younger brother had been the most devoted of the lot of them. So they had followed what was left of Regulus Black, and it had led them to the Blacks’ house-elf, an old creature called Kreacher, who had not wanted to tell them anything at all, and who had to obey Sirius, because Sirius was the last of the family.
+Before the World Cup, he and Sirius had gone through the house Sirius had grown up in, top to bottom. Every Black still on the tapestry had been on the Dark Lord’s side, and Sirius was not on it, who had been burnt off the tapestry for it; and the Dark Lord had trusted one of his pieces to the Malfoys, so it had seemed worth asking whether he had trusted another to the Blacks. Sirius’s younger brother had been the most devoted of the lot of them. So they had followed what was left of Regulus Black, and it had led them to the Blacks’ house-elf, an old creature called Kreacher, who had not wanted to tell them anything at all, and who had to obey Sirius, because Sirius was the last of the family.
 
 “It wasn’t very nice,” said Potter. “Getting it out of him. Sirius isn’t—he doesn’t like that house. Or anything in it.” He rubbed the back of his neck. “Kreacher took us to a cave. On the coast, up a cliff. Dumbledore came too.”
 
@@ -286,7 +286,7 @@ She went to the door, and unlocked it with her own wand, and looked out into the
 
 ⁂
 
-She went down the marble staircase in the dark with the badge in one pocket and the ring in the other.
+She went down the marble staircase in the dark with the badge and the ring together in one pocket.
 
 Advice was not going to be enough. She knew that perfectly well. Somebody in this castle had put Potter’s name into a cup of fire, because they wanted him dead, and Dumbledore was looking for whoever it was, and so was Mad-Eye Moody, and so was Potter, from the middle of an arena with a target painted on him. None of them would find it in Slytherin. Nobody in Slytherin would tell a Gryffindor anything, or a teacher, or an Auror who had sent half their fathers to Azkaban.
 

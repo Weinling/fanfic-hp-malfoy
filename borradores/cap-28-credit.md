@@ -168,7 +168,7 @@ His cabin was low and dark and panelled, and much too warm, with a stove in one 
 
 “Your father,” he said, “was a friend to me once, when I had very few friends. When I came out of—when I came back into the world, shall we say. A little money. A word in the right place. One does not forget.” He poured something hot out of a jug into a silver cup and pressed it into her hands. It smelt very strongly of rum. “He wished you to come to Durmstrang, you know. Did he ever tell you? Your mother would not hear of it. Too far, she said. Too cold.” He laughed. “A pity. We would have made a princess of you.”
 
-Lyra had not known that. She put it away to be looked at later, and held the silver cup, and did not drink.
+Lyra had not known that. She kept it, and did not turn it over yet, and held the silver cup, and did not drink.
 
 She had a great deal of practice at men like Karkaroff. Her father had them to dinner. She praised the ship, which was hideous, and Durmstrang, which she had never seen, and above all Viktor Krum, who was a genius, an artist, the finest Seeker of his generation; and Karkaroff purred and grew expansive, and told her how he had found the boy, and trained the boy, and how the boy would bring the Triwizard Cup home to Durmstrang as surely as the sun rose.
 

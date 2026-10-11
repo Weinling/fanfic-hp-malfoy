@@ -1,8 +1,8 @@
 # Chapter 24: Replay
 
-The ring went gold at a quarter past two on a Tuesday morning, and Lyra, who had certainly not been lying awake, sat up to look at it.
+The ring went gold at a quarter past two on a Tuesday morning, and Lyra, who had not been asleep, sat up to look at it.
 
-She drew the hangings round her bed at nine o’clock every night that summer and put it on in the dark, where nobody could see. It was certainly not because somebody had asked her to, under a cloister, in May. The slip of instructions from Zonko’s, which she had long ago learned by heart without meaning to, listed more colours than any reasonable person could want, and in July she had found out that most of them were real. Purple, *on guard*. Gold, *success; something accomplished*. Green, *safe*. Red she had not seen since February, and did not intend to see again.
+She drew the hangings round her bed at nine o’clock every night that summer and put it on in the dark, where nobody could see. It was certainly not because somebody had asked her to, under a cloister, in May. The slip of instructions from Zonko’s, which she had long ago learned by heart, listed more colours than any reasonable person could want, and in July she had found out that most of them were real. Purple, *on guard*. Gold, *success; something accomplished*. Green, *safe*. Red she had not seen since February, and did not intend to see again.
 
 It had been gold for about a minute. Then it went green, and stayed green, and Lyra lay back down on her pillow with the satisfied feeling of somebody who has read the last page of a book first.
 
@@ -12,7 +12,7 @@ He wrote, sometimes. Not often; an owl coming too often to the Manor would be no
 
 “He’s telling *me* to be careful,” said Lyra, to the canopy of her bed. The ring, at that moment, was purple.
 
-There was one more thing on the slip, and it was the thing she minded most. The rings worked both ways. Whatever hers told her about Potter, his was telling Potter about her, at that very moment, in colours, wherever he was. So when she lay down at night she was careful to think about nothing in particular: her Arithmancy, or the new broom polish, or the Quidditch World Cup, which was in a fortnight and which her father had got them into the top box for. She was certainly not going to lie there thinking about anything that might come out blue.
+There was one more thing on the slip, and it was the thing she minded most. The rings worked both ways. Whatever hers told her about Potter, his was telling Potter about her, at that very moment, in colours, wherever he was. So when she lay down at night she was careful to think about nothing in particular: her Arithmancy, or the new broom polish, or the Quidditch World Cup, which was in a fortnight and which her father had got them into the top box for. She was not going to lie there thinking about anything that might come out blue.
 
 She turned the ring round on her finger, and turned it back.
 

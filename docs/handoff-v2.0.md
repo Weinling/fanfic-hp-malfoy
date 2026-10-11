@@ -783,5 +783,11 @@ Las notas del crítico del 19 son 9/9/9/7/7/9/7/7 (empata con el 15 en cabeza). 
   - Karkaroff no metió el nombre; se le escapa que Crouch mandó a su hijo a Azkaban y algo de los Longbottom.
   - Krum: «perhaps one day we fly».
   - Moody la ve volver del barco.
+- **Informe del revisor de la tanda del 23 al 28** (`docs/notas/revisiones/tanda-23-a-28.md`; decisiones en `decisiones-tanda-23-a-28.md`). Fija, además de los arreglos:
+  - El Cáliz y las delegaciones llegan una semana antes de Halloween (B).
+  - Lyra resiste el Imperius ante Slytherin (B).
+  - La deuda de la poción con Lupin está **pagada** (26 y 27).
+  - Los escregutos nacen en noviembre (D).
+  - El 30 no estrena ningún contacto nuevo.
 - **La cuenta, rebajada** (autor, 11 de octubre): deja de ser obligatoria en cada capítulo (§3 y §8). En el arco del 29 al 32 el motor es la elección y la lealtad; el Baile se paga sin cuentas.
 - **Siguiente:** el capítulo 29 (coreano 32), interludio de Harry **(avisar)**: la reconciliación, los Horrocruxes contados a Ron y Hermione, Krum, Skeeter y el domingo: un beso elegido por los dos (no el primero: hubo en el 3 y el 19) y los dragones.

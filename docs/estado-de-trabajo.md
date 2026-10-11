@@ -6,7 +6,7 @@
 
 ## Ahora mismo
 
-- **En pausa para el revisor** (propuesta al autor, 11 de octubre): tanda recomendada, *Year One* 1 a 4 y del 23 al 28, más los cinco arreglos del 16 al 23. No se escribe el 29 hasta su informe. El informe del lector del 29 está en `borradores/cap-29-lector.md` (aviso clave: el beso del 29 no es el primero en la boca; hay dos, en el 3 y el 19). Prompt del revisor nuevo: `docs/prompt-revisor-tanda-23-28.md`.
+- **Informe del revisor recibido y aplicado** (tanda del 23 al 28 y *Year One*): arreglos en 23 a 28 y *Year One* 3 y 4; decisiones en `docs/notas/revisiones/decisiones-tanda-23-a-28.md`. **Esperando al autor** en ocho decisiones (ahí listadas) antes de la ficha del 29.
 - **Siguiente:** el 29 (coreano 32, interludio de Harry, avisar).
 - **Cerrado:** el 28, *Credit*, con manual, nota y handoff.
 - **Cerrado:** el 27, *Ferret*, con manual, nota y handoff.
@@ -35,7 +35,6 @@ Ninguno. Todo está commiteado y subido.
 ## Decisiones pendientes del autor
 
 - La pluma de azúcar: pagarla o retirarla.
-- El pago de la deuda de la poción con Lupin (propuesta: una escena sin Harry al principio del cuarto año).
 - En qué capítulo obtiene Lyra alguna pieza de lo que sabe Harry.
 - La cadencia de publicación del 16 al 19.
 - La nota de Wattpad para el 1 al 3 revisados (propuesta: «Chapters 1–3 lightly revised for continuity»).

@@ -68,7 +68,7 @@ A broom did not make a flyer. But a broom like this would let a flyer show every
 
 She was enjoying all this very much when somebody said, “Oh, is that a Firebolt?”
 
-Harry Potter came over the Hufflepuff bench and the end of the Slytherin table in two strides. Flint’s face screwed itself up at once.
+Harry Potter came over two benches and the end of the Slytherin table in two strides. Flint’s face screwed itself up at once.
 
 “Not you, Potter. You don’t touch it. You don’t *look* at it.”
 

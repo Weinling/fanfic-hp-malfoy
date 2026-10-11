@@ -178,7 +178,7 @@ It lasted perhaps a second. Then he looked away, back to the staff table, with a
 
 ⁂
 
-Professor Moody did not take a register. He stumped into the Defence classroom on the first Thursday of term, put a jar on his desk, and stood looking at the fourth-year Slytherins with one eye while the other went slowly along the rows, and then round, and then into the back of his own head, and came back with what it had found.
+Professor Moody did not take a register. He stumped into the Defence classroom on the first Thursday of lessons, put a jar on his desk, and stood looking at the fourth-year Slytherins with one eye while the other went slowly along the rows, and then round, and then into the back of his own head, and came back with what it had found.
 
 “I know your families,” he said. His voice was a low growl, like something being dragged over gravel. “Some of your mothers and fathers sat in front of the Wizengamot because of me. If I’d had a bit more evidence, a few of you wouldn’t be sitting here at all, because you wouldn’t have been born.” The normal eye went round them, slowly. “But the sins of the parents aren’t the sins of the children. Not yet, anyway.”
 
@@ -234,9 +234,15 @@ She would not. She did not even have to think about it.
 
 ⁂
 
+The first time was a Tuesday in October, on the staircase up from the library. The ring began to pulse against her fingers inside her pocket, on, off, on, warm and then cool, which meant that the other ring was looking for her; and when she turned her head it grew warm towards the corridor above, where a classroom door stood open. She knew exactly where he was. She stood on the step with her books against her chest while a ghost crossed the landing below. Then she took her hand out of her pocket and went down by the other staircase.
+
+The second time, she did not stop at all.
+
+⁂
+
 On the night of Hallowe’en, the Goblet of Fire stood on a stool in front of the staff table, where everyone could see it, and every eye in the Great Hall was on it.
 
-It had been standing in the Entrance Hall for a week behind a thin golden line on the floor that Dumbledore had drawn himself, so that nobody under seventeen could cross it, and the whole school had been to look. The Durmstrang students had come up out of the lake in a ship like a drowned galleon, in heavy furs, with Viktor Krum among them; and Draco, when Lyra wrote to tell him so, had written back for the first time since October, two whole sides, all of it about Krum and none of it about cards. The Beauxbatons girls had come out of a powder-blue carriage the size of a house, drawn by winged horses each as big as an elephant, and had shivered all through dinner in their silk. Lyra had watched it all, and enjoyed it more than she let anybody see, and had not once spoken to Potter. In September she had stopped putting the ring on at nine. It stayed in her pocket by day and in the drawer of her bedside table at night, and twice in October she had felt it flash against her fingers, on, off, on, which meant that the other ring was looking for her; and both times she had taken her hand out of her pocket and gone the other way.
+It had been standing in the Entrance Hall for a week behind a thin golden line on the floor that Dumbledore had drawn himself, so that nobody under seventeen could cross it, and the whole school had been to look. The Durmstrang students had come up out of the lake in a ship like a drowned galleon, in heavy furs, with Viktor Krum among them; and Draco, when Lyra wrote to tell him so, had written back for the first time since October, two whole sides, all of it about Krum and none of it about cards. The Beauxbatons girls had come out of a powder-blue carriage the size of a house, drawn by winged horses each as big as an elephant, and had shivered all through dinner in their silk. Lyra had watched it all, and enjoyed it more than she let anybody see, and had not once spoken to Potter. In September she had stopped putting the ring on at nine. It stayed in her pocket by day and in the drawer of her bedside table at night.
 
 Now the Hallowe’en feast was over, and the plates were clean, and Dumbledore was on his feet, and the candles in the pumpkins had been put out, so that the only light in the Hall came from the Goblet: a great rough wooden cup, full to the brim with dancing blue-white flames.
 
