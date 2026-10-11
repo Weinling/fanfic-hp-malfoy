@@ -6,7 +6,7 @@
 
 ## Ahora mismo
 
-- **En pausa para el revisor** (propuesta al autor, 11 de octubre): tanda recomendada, *Year One* 1 a 4 y del 23 al 28, más los cinco arreglos del 16 al 23. No se escribe el 29 hasta su informe. El lector del 29 está trabajando; su informe se guardará en `borradores/cap-29-lector.md`.
+- **En pausa para el revisor** (propuesta al autor, 11 de octubre): tanda recomendada, *Year One* 1 a 4 y del 23 al 28, más los cinco arreglos del 16 al 23. No se escribe el 29 hasta su informe. El informe del lector del 29 está en `borradores/cap-29-lector.md` (aviso clave: el beso del 29 no es el primero en la boca; hay dos, en el 3 y el 19). Prompt del revisor nuevo: `docs/prompt-revisor-tanda-23-28.md`.
 - **Siguiente:** el 29 (coreano 32, interludio de Harry, avisar).
 - **Cerrado:** el 28, *Credit*, con manual, nota y handoff.
 - **Cerrado:** el 27, *Ferret*, con manual, nota y handoff.
