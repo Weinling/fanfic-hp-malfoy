@@ -775,7 +775,7 @@ Las notas del crítico del 19 son 9/9/9/7/7/9/7/7 (empata con el 15 en cabeza). 
   - Moody sabe lo de la pareja desde septiembre (su ojo ve a través de capas), se lo dijo a Harry en octubre, rechaza la ayuda de Lyra («You’re Lucius Malfoy’s daughter») y sospecha que Lucius la manda o la controla.
   - Lyra apuntó a Moody por la espalda y él la convirtió en hurón; Potter, citado con Moody, la recogió.
   - Granger dedujo que el hurón era Lyra. Ron cree que Harry se presentó sin decírselo.
-  - El primer beso decidido por ella, en el hocico; «no cuenta». El de verdad queda para el 29 (coreano 32).
+  - El primer beso decidido por ella, en el hocico; «no cuenta». El siguiente en la boca (ya hubo dos, en el 3 y el 19), el primero elegido por los dos y sin excusa, queda para el 29 (coreano 32).
 - **Capítulo 28, *Credit*** (coreano 31), escrito y criticado (`docs/notas/cap-28-critica.md`; manual `docs/capitulos/cap-28.md`). Fija:
   - Los escregutos (Hagrid); Buckbeak se inclina ante Lyra; el filete sigue debido.
   - Lyra le dice a Weasley que ojalá pudiera estar con Harry como él (desbordamiento) y lo de la familia; Weasley lo sabía desde mayo («She thinks it’s a *secret*»).
@@ -783,4 +783,4 @@ Las notas del crítico del 19 son 9/9/9/7/7/9/7/7 (empata con el 15 en cabeza). 
   - Karkaroff no metió el nombre; se le escapa que Crouch mandó a su hijo a Azkaban y algo de los Longbottom.
   - Krum: «perhaps one day we fly».
   - Moody la ve volver del barco.
-- **Siguiente:** el capítulo 29 (coreano 32), interludio de Harry **(avisar)**: la reconciliación, los Horrocruxes contados a Ron y Hermione, Krum, Skeeter y el domingo: el primer beso de verdad y los dragones.
+- **Siguiente:** el capítulo 29 (coreano 32), interludio de Harry **(avisar)**: la reconciliación, los Horrocruxes contados a Ron y Hermione, Krum, Skeeter y el domingo: un beso elegido por los dos (no el primero: hubo en el 3 y el 19) y los dragones.
