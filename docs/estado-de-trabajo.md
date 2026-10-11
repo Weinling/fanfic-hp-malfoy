@@ -6,7 +6,7 @@
 
 ## Ahora mismo
 
-- **Capítulo en curso:** el 27 (resto del coreano 30: Moody y el hurón). Un lector busca las referencias; luego ficha `borradores/cap-27-ficha-guion.md` y escritura.
+- **Capítulo en curso:** el 27, *Ferret* (resto del coreano 30). Ficha cerrada; las seis escenas escritas y subidas en `borradores/cap-27-ferret.md` (~5.060 palabras). En crítica. Falta: aplicar la crítica, manual, nota, handoff.
 - **Cerrado:** el 26, *Dues*, con manual, nota y handoff.
 - **Cerrado también:** el 25, *Old Friends*, con manual, nota y handoff.
 - **Cerrado:** el 24, *Replay*, escrito, criticado y revisado, con manual, nota y handoff.

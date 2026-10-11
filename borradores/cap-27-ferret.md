@@ -62,7 +62,7 @@ Crabbe sang. She was put under, and stood in the middle of the floor with her ha
 
 Nobody laughed.
 
-Goyle did a handstand and could not get down from it. The elder Warrington cousin tried to climb the bookcase. Millicent Bulstrode recited her own date of birth backwards eleven times. Moody went down the line with his wand out and his face like a chewed boot, and told each of them, as they came out of it, exactly how far gone they had been: “Didn’t even twitch. Next.” “You felt it, didn’t you, for half a second there? Didn’t do anything about it. Next.”
+Goyle did a handstand and could not get down from it. Moody went down the line with his wand out and his face like a chewed boot, and told each of them, as they came out of it, exactly how far gone they had been: “Didn’t even twitch. Next.” “You felt it, didn’t you, for half a second there? Didn’t do anything about it. Next.”
 
 “Malfoy.”
 
@@ -202,7 +202,7 @@ Lyra knew what she looked like. She had seen her own paws. She was small, and wh
 
 She ran at his feet anyway. There was nowhere else in the whole enormous room she wanted to be.
 
-He did not kick her. He bent down and picked her up, quite without hesitating, with one hand round her middle, so that her back legs dangled and her front ones stuck out in front of her like a pair of tongs. She had never been so undignified in her life. She told him so, at the top of her voice. It came out as a long, furious squeak.
+He did not kick her. He bent down and picked her up, quite without hesitating, with one hand round her middle, so that her back legs dangled and her front ones stuck out in front of her like a pair of tongs. It was the most undignified moment of her existence, and she told him so at the top of her voice. It came out as a long, furious squeak.
 
 “Sorry,” said Potter. “Sorry—hang on.” He shifted his grip, and tucked her into the crook of his arm against his chest, with her back legs supported and her head up under his chin, and held her there firmly, the way you might carry something that mattered. Then he looked past her at the floor.
 
@@ -268,7 +268,7 @@ There were voices coming along the bank.
 
 Three of them, Hufflepuffs, fourth-years, with Zacharias Smith out in front. Every one of them had a large badge pinned to the front of their robes, glowing a soft red. *Support CEDRIC DIGGORY*, said the badges, *the REAL Hogwarts Champion!* As Lyra watched they flickered, and the letters rearranged themselves into something greener and much shorter. POTTER STINKS.
 
-One of the three was the boy she had once made cry over a Chocolate Frog card. She had told him, last spring, in a corridor, that he would make a natural ferret. She remembered it now with great clarity.
+One of the three was the boy she had once made cry over a Chocolate Frog card. She had told him, last year, in a corridor, that he would make a natural ferret. She remembered it now with great clarity.
 
 “Oh, look,” said Smith. “All on his own. That’s a shame, Potter. Mind you, you needn’t worry. Somebody’ll come running to save you. They always do, don’t they?”
 
@@ -300,7 +300,7 @@ She reached out a hand to stroke her. Lyra flattened herself along Potter’s ar
 
 “It’s shy,” said Potter.
 
-Lyra had not been shy for a single minute of her life, and she looked up at him to make sure he knew it.
+Lyra had never been shy for a single minute, and she looked up at him to make sure he knew it.
 
 “You shouldn’t wander about on your own just now,” Granger was saying. “Not with everybody like this. Not with those badges. You ought to stay with your friends, Harry.”
 
@@ -314,7 +314,7 @@ Granger’s face did something tired. “He thinks you put your name in and didn
 
 “I know you didn’t. I *know*. He’ll come round.” She looked at Weasley’s back. “He always does.”
 
-Lyra could have told them a good deal about the Weasleys, and about what came of letting yourself be brought up seven to a house with nothing in it, so that you had to sulk over the one thing in your life that nobody else had wanted first. For once in her life she could not say any of it, and found, somewhat to her own surprise, that she did not much want to.
+Lyra could have told them a good deal about the Weasleys, and what came of growing up seven to a house with nothing in it that somebody else had not had first. She could not say any of it, and found, somewhat to her surprise, that she did not much want to.
 
 “Go after him,” said Potter. “I’m all right. Honestly.” He lifted the arm with the ferret in it, a little. “I’ve got my own little haven right here.”
 
