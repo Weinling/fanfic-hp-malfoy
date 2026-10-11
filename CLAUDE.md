@@ -49,11 +49,13 @@ La sesión principal no puede apoyarse solo en el resumen de una compactación n
 
   El manual de cada capítulo nuevo se escribe al cerrarlo, en el mismo paso que el handoff.
 - **Lectura obligatoria:**
-  - **Al abrir sesión o tras compactar:**
+  - **Al abrir sesión o tras compactar** (decisión del autor, 2026-10-11: **nunca se salta**; son la fuente principal de contexto y saltárselos es escribir a ciegas):
     - el estado de trabajo;
-    - el handoff;
-    - todos los manuales;
-    - el texto completo de los dos o tres capítulos anteriores al que se va a escribir.
+    - el handoff, **entero**;
+    - **todos los manuales, enteros**;
+    - el texto completo de, como mínimo, los dos capítulos anteriores al que se va a escribir;
+    - los dos capítulos coreanos siguientes, completos, junto con las fichas y guiones ya hechos.
+  - Lo que se lee tras cada compactación se apunta en el estado de trabajo.
   - **Al empezar un arco:** la historia entera, en texto completo, no los manuales. Unas 100.000 palabras; es asumible.
   - **Antes de cerrar cada ficha:** encargar a un lector que busque en toda la historia las referencias a lo que va a tocar el capítulo (personajes, lugares, objetos, fechas).
 - **Nunca hay texto que solo exista en el contexto.** Cada escena se commitea al escribirla, y si se compacta a mitad de capítulo, el archivo y el estado de trabajo bastan para seguir.
