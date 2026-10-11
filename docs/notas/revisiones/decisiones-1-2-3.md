@@ -91,4 +91,4 @@ El autor pasó una crítica externa que comparaba el texto nuevo con el anterior
 - **«over port that summer»** en vez de «at Christmas», por la carta del 1.
 - **Se mantienen** «dark chocolate» tras el *Enervate* y la limpieza de tics.
 
-Extensión final: el 1, ~4.700 palabras; el 2, ~3.090; el 3, ~5.110. El autor aceptó la extensión a cambio del ritmo de escena.
+Extensión final: el 1, ~4.700 palabras; el 2, ~3.090; el 3, ~5.110. Quedan por encima del objetivo del revisor: se prioriza el ritmo de escena (pendiente de confirmar con el autor).
