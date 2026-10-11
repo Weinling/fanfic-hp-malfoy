@@ -58,7 +58,7 @@ So the Slytherins had stopped. They went round him. They did not catch his eye i
 
 “*Potter’s coming!*” somebody sang out from the far end of the corridor, a Ravenclaw by the sound of it, and three or four voices laughed.
 
-Lyra did not turn round. She did not move at all. But Goyle did, all the way round on the bench, and so, a fraction of a second before her, had Lyra’s eyes.
+Lyra did not turn round. Goyle did, all the way round on the bench, and so, a fraction of a second before her, had Lyra’s eyes.
 
 The corridor behind them was empty, apart from a suit of armour.
 
@@ -74,7 +74,7 @@ The corridor behind them was empty, apart from a suit of armour.
 
 “It is *not!*”
 
-That was the worst of it. The name had started doing it to her too. In Slytherin they said *Potter* now very much the way grown-ups at her father’s dinners said the other name, quietly, and only when they had to.
+Because the name had started doing it to her too. In Slytherin they said *Potter* now very much the way grown-ups at her father’s dinners said the other name, quietly, and only when they had to.
 
 “Malfoy,” said Crabbe, in the careful voice she kept for things she thought might be unwelcome, “couldn’t we just keep out of his way? Like everybody else?” She twisted the end of one plait round her finger. “My mum says you don’t argue with a wasp. You just go into another room.”
 
