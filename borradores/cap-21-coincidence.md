@@ -20,9 +20,9 @@ He came to her instead. He put the chain over her head, and before she could ask
 
 “Hold still.”
 
-Lyra shut her eyes. She could not have said why. It seemed, at the time, the only possible thing to do with them.
+Lyra shut her eyes. It seemed, at the time, the only possible thing to do with them.
 
-The room flew away backwards. There was a roaring in her ears and a lurch under her feet, and her heart went off like a drum, and she could hear nothing, nothing at all—
+The room flew away backwards. There was a roaring in her ears and a lurch under her feet, and she could hear nothing, nothing at all—
 
 “You can open your eyes now.”
 
@@ -34,7 +34,7 @@ Potter was standing a decent distance off, lifting the chain from round his neck
 
 So that was why. It took two to go, and so it took one chain round two necks. There had been no meaning in it whatever.
 
-The embarrassment arrived a step late, all at once. Lyra stood very straight and felt it climb her neck, and Potter, who had the grace not to look, explained.
+The embarrassment arrived a step late. Lyra stood very straight and felt it climb her neck, and Potter, who had the grace not to look, explained.
 
 “It’s a Time-Turner. It’s Hermione’s. One turn for every hour.” He held up the hourglass on its chain. “She’s had it since September. That’s why I’ve been with her so much. I’ve been borrowing it.”
 
@@ -46,9 +46,7 @@ The embarrassment arrived a step late, all at once. Lyra stood very straight and
 
 “She wanted to take all three. Professor McGonagall wrote to the Ministry for her specially.”
 
-“That,” said Lyra, “is *mad*.”
-
-“And the Ministry *allowed* it? An object that turns back time, for a girl who can’t choose her options?”
+“That,” said Lyra, “is *mad*. And the Ministry *allowed* it? An object that turns back time, for a girl who can’t choose her options?”
 
 “That’s why they allowed it. Because it was something that small. Anything big—anything that changes whether people live or die—it’s forbidden. Strictly.” Potter pushed the Time-Turner deep into his pocket. “And the stricter the rule, the better it feels to break it. Which is what we’re doing. We’ve come back three hours, and we’re going to save us, and Sirius.”
 
@@ -84,7 +82,7 @@ Lyra had worn that cloak all the way down to the lake, and through a battle, and
 
 “It smells of soap,” said Potter slowly, ignoring this. “Somebody’s washed it.”
 
-Lyra, who had been braced for a great deal worse, let her breath out and was furious that she had been holding it.
+Lyra, who had been braced for a great deal worse, was furious to find herself relieved.
 
 But Potter was not teasing. His face had gone set, the way it went over a difficult potion. “Malfoy, those two things should be with Professor Lupin. Where exactly were they?”
 
@@ -124,7 +122,9 @@ His voice was low, and it tickled her ear.
 
 “As you like. Right?”
 
-They went along the corridors with great care, keeping close to the walls, and as they went he told her. He and Hermione had been hunting Peter Pettigrew since the Shack. In the daytime they did their homework and went to Quidditch practice like anyone else; and then they turned the hours back and went over the castle, floor by floor, and if anybody caught them in a corridor where they had no business being, they said they were looking for Ron’s rat. Which was true. The map and the cloak had gone to Lupin. At night, while they slept, Lupin watched the map and Sirius walked the corridors under the cloak, and Crookshanks and Sirius between them had Pettigrew’s smell, so he had never dared go out. He had been shut in, getting thinner. He would not have lasted long.
+They went along the corridors with great care, keeping close to the walls, and as they went he told her. He and Hermione had been hunting Peter Pettigrew since the Shack. In the daytime they went to lessons and practice like anyone else; then they turned the hours back and went over the castle, floor by floor, and if anybody caught them where they had no business being, they said they were looking for Ron’s rat. Which was true. At night Lupin had the map and Sirius the cloak, and between them they had Pettigrew shut in. He had never once dared show himself, Harry said.
+
+Lyra thought of a line of tiny prints across Snape’s desk, and said nothing.
 
 “You’re in the library and on the pitch and halfway up the stairs, all at once,” said Lyra, half to herself. “So you *do* take it in turns.”
 
@@ -136,9 +136,9 @@ They went along the corridors with great care, keeping close to the walls, and a
 
 “Weasley went after that rat? *Alone?*”
 
-“It isn’t Ron’s fault. We never told him. How do you tell somebody the pet he’s had for twelve years is a man who sold your parents to Voldemort? With no proof?”
+“It isn’t Ron’s fault. We never told him. How do you tell somebody the pet his family’s had for twelve years is a man who sold your parents to Voldemort? With no proof?”
 
-But Lyra had seen Weasley in a corridor that very afternoon, on his knees with a wire trap and a square of treacle tart, setting it very carefully, and telling a pair of Hufflepuffs not to kill anything they caught. He had heard his friends were looking for his rat. He had been trying to help.
+But Lyra had seen Weasley in a corridor that very afternoon, on his knees with a wire trap and a square of treacle tart, setting it very carefully, and telling three Hufflepuffs not to kill anything they caught. He had heard his friends were looking for his rat. He had been trying to help.
 
 She did not say so. Harry must have felt her looking. He let out a breath.
 
@@ -148,7 +148,7 @@ She did not say so. Harry must have felt her looking. He let out a breath.
 
 “You’re right, Lyra. Now’s what matters.”
 
-“Y-yes.”
+“If you say so.”
 
 “Come on, then. Lyra.”
 
@@ -204,7 +204,7 @@ He was trying very hard not to smile. A moment longer and he might have laughed 
 
 “Lyra, she’s going the wrong way. I’m not over there.”
 
-Lyra was puzzled. She remembered it perfectly: she had come out of that door in a fury and seen Potter, quite by chance, at the far end of the corridor, just disappearing round the corner. She had gone after him. A corner, the foot of a staircase, a corridor beyond, always the back of his head going out of sight, until at last she had caught him up on the ground floor.
+Lyra was puzzled. She had seen Potter at the end of that very corridor, going round the corner, and gone after him. All the way down.
 
 “That’s impossible,” said Harry, when she told him. “I was never up here today. I’m on the ground floor about now.” And then his face changed again, and he was out from under the cloak before she could take hold of him. “It was me.”
 
@@ -320,11 +320,11 @@ Potter and Granger went white, and hurried to meet him. They came near enough to
 
 He set off for the front doors, and the others went after him. Lyra and Harry went after them, holding their breath.
 
-“Ron— Oh, *no*. I’ll fetch Professor Dumbledore!”
+“Ron— Oh, *no*,” said Granger. “I’ll fetch Professor Dumbledore!”
 
-“You can’t,” said Lupin. “He’s away tonight, on some business or other. Very lucky for Peter. Or no, not lucky. He’ll have picked his night.”
+“You can’t,” said Lupin. “He’s away tonight, on some business or other, and so is Severus; some letter from the Ministry. Very lucky for Peter. Or no, not lucky. He’ll have picked his night.”
 
-“And Snape’s at the Ministry,” said Potter. His voice had gone very quiet and cold. “And it’s a full moon. He’s chosen well. And he’s got Ron, who doesn’t know anything. He’s had us.”
+“And a full moon,” said Potter. His voice had gone very quiet and cold. “He’s chosen well. And he’s got Ron, who doesn’t know anything. He’s had us.”
 
 “He always did have a gift,” said Lupin, “for finding the moment when everybody else was weakest.” Then, unexpectedly, he smiled. “But I don’t think he knows about the potion. Tonight I’ll be the tamest wolf you ever saw. And for catching a rat, a wolf is a great deal better than a man. Sirius and I will have him before midnight.”
 
@@ -357,8 +357,6 @@ He unfolded the map. It was exactly the same as the one Lyra was holding. Two of
 “We have to put this on Lupin’s desk. The cloak as well. Because that’s what we did. These are what the us now left for you then.”
 
 Lyra nodded slowly. She was beginning to see the shape of it.
-
-Everything she had taken for luck tonight, the two of them had done: kicking away under the surface, like a duck’s feet, where nobody could see. The present she had lived through was the best that the two of them could make of it, coming back. All that was left now was to make it again.
 
 Harry turned to her, and his face was very serious.
 
@@ -402,17 +400,13 @@ She gave the password to the wall, and walked into the Slytherin common room, an
 
 Of course not. She was not there.
 
-The other Houses said it was a damp dungeon with the giant squid at the windows, and joked that seven years in it was what had turned the Dark Lord. They had never been inside. It was the stillest room in the castle, hushed like the bottom of the sea, which in a sense it was: through the high windows the weeds of the lakebed stirred in the green dark like a forest, every bit as fine as the Forbidden one. The fire’s warmth stayed and went round and round. The lamps were silver and round like moons. It would have settled anybody down.
-
-It suited people who did not care for noise and glare. People such as Lyra Malfoy, who had never once complained about where her House was, and did not intend to start.
-
-With a fresh glow of pride she went on down to the girls’ dormitories, lower still.
+The common room was as still as the bottom of the sea, which in a sense it was. Lyra had never once complained about where her House was, and with a fresh glow of pride she went on down to the girls’ dormitories, lower still.
 
 There was no lamp in the third-years’ room. With the curtains drawn it was so dark you could not see who was in it, and the weight of the lake overhead made a deep, soft sound that was very good for the nerves.
 
 Malfoy was lying face down on her bed, with her shoes on.
 
-As Lyra watched, she put two fingers to her mouth. Then she remembered herself and hit the pillow. Then, for variety, she hit it with her foot. Then she sat bolt upright, pushed back her hair, and addressed the bed-hangings.
+As Lyra watched, she put two fingers to her mouth, and then remembered herself and hit the pillow. Then she sat bolt upright, pushed back her hair, and addressed the bed-hangings.
 
 “No. Why should *I* be the one who’s rattled?”
 
@@ -420,7 +414,7 @@ And lay down again, and put her face in the pillow.
 
 Lyra remembered, with perfect clarity, thinking that it was just as well nobody could see her.
 
-She could not lift her eyes from the floor. She had very nearly turned her wand on herself when she saw the face going into the pillow the second time, Harry’s warning or no Harry’s warning. Only the thought of what it would do to the evening held her back.
+She could not lift her eyes from the floor. She had very nearly turned her wand on Malfoy when she saw the face going into the pillow the second time, Harry’s warning or no Harry’s warning. Only the thought of what it would do to the evening held her back.
 
 Lyra had seen enough. She went to the bedside table and kicked it, once, sharply.
 
@@ -452,7 +446,7 @@ She shook her head hard. She did not go about putting her nose in other people�
 
 “What?”
 
-“N-nothing. Nothing worth your attention.”
+“Nothing. Nothing worth your attention.”
 
 “Right. Finished your private business?”
 
@@ -472,7 +466,7 @@ Red was *mortal danger*. Pink was *in the company of their sweetheart*.
 
 And if that were because there had been two of him at the same moment, like the two maps—if one of him had been lying on the shore and the other had been here, in the castle, under this cloak, with—
 
-“W-wait!”
+“Wait!”
 
 Lyra grabbed his hand and tried to pull the ring off. It would not come. It had shrunk to fit him, the way hers had, and the harder she pulled the more firmly it stayed.
 
@@ -488,7 +482,7 @@ His eyes came after her and would not let go.
 
 “So that was it?”
 
-“W-w-what was?”
+“What was what?”
 
 “I did wonder. Crabbe gave me this. She said, *If you want to make it up with her, wear this*. She wouldn’t say anything else.”
 
@@ -498,12 +492,10 @@ He put the two together. Astonishingly, and of course, the clumsy little notch i
 
 “If you were wearing this,” said Harry, “no wonder you came to find me.”
 
-She had bought that ring on her first trip to Hogsmeade, when she was a little more cheerful than usual. In Zonko’s, where she had gone only because Crabbe and Goyle wanted Dungbombs, she had picked it up so as not to leave with nothing, and pushed it into a parcel between the butterbeer and the Honeydukes box. It had never been part of any plan. She had no use for it. It had lain at the bottom of her trunk until January, and then she had told Crabbe to bin it, and Crabbe had asked if she could have it instead, and gone and given half of it to Potter.
-
-So if Harry Potter happened to be wearing it, it was the result of one chance on top of another, and nothing whatever to do with what Lyra Malfoy might really have wanted.
+A box picked up in Zonko’s on a cheerful day and never worn; a trunk; a girl told to bin it, who had not. If Harry Potter happened to be wearing it, that was one chance on top of another, and nothing whatever to do with what Lyra Malfoy might really have wanted.
 
 All of this, she put into a single word.
 
 “Coincidence.”
 
-It would not have mattered how many words she used, or how she wriggled. Harry Potter did not believe a single one of them, and nor, for that matter, did she.
+“Coincidence,” Harry agreed, and put both rings in his pocket. “Come on. I’ve got a Patronus to cast.”
