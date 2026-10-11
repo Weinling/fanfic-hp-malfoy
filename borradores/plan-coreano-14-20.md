@@ -1,6 +1,6 @@
 # Plan: coreano 14 a 20
 
-Propuesta para el autor, 11 de octubre de 2026. Nada de esto está aprobado todavía.
+Propuesta para el autor, 11 de octubre de 2026. **Aprobadas por el autor el mismo día:** la fusión del coreano 16 con el 17, sacar el 18 de su sitio y los nombres de pila en el 21. El resto sigue pendiente.
 
 ## Qué trae el original
 
