@@ -58,7 +58,7 @@ Draco’s eyes went perfectly round.
 
 It took him nearly a minute, which was a long time for Draco, to fling the poster at her. He took the omnioculars with both hands, as if they might fly away, and went to the window at once to look at a peacock through them.
 
-Lyra unrolled the poster and watched Krum come out of the dive again. He really was extraordinary. She had flown against Potter for three years and she had never seen anybody do that with a broom, or with that little visible effort, as though the ground had been a suggestion. There was something not quite right about the picture, all the same. It was the face, she decided: heavy and sullen, and rather a waste of a dive like that. If it had been a different face, somebody’s with untidy hair and glasses, say, it would have been a good deal more—
+Lyra unrolled the poster and watched Krum come out of the dive again. He really was extraordinary. She had flown against Potter for two seasons and she had never seen anybody do that with a broom, or with that little visible effort, as though the ground had been a suggestion. There was something not quite right about the picture, all the same. It was the face, she decided: heavy and sullen, and rather a waste of a dive like that. If it had been a different face, somebody’s with untidy hair and glasses, say, it would have been a good deal more—
 
 “You *fancy* him!” Draco had the omnioculars trained on her from the window, and was delighted. “You do! Girls are all the same. They see somebody good at Quidditch and they go all stupid.”
 
