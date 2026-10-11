@@ -1,6 +1,6 @@
 # Capítulo 25: Old Friends (coreano 28, más la clase de Moody del 30)
 
-Borrador de ficha, 11 de octubre de 2026. Se cierra cuando vuelva el lector.
+Ficha cerrada el 11 de octubre de 2026 con el informe del lector (Lupin: se supo por un rumor de Parkinson, «my mum heard»; Flint, de curso desconocido, se sustituye por Montague; Lyra no vio la Marca).
 
 ## Ficha
 

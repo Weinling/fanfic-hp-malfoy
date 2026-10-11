@@ -754,4 +754,11 @@ Las notas del crítico del 19 son 9/9/9/7/7/9/7/7 (empata con el 15 en cabeza). 
   - Narcissa la vio con la mano en el bolsillo.
   - El anillo se calentó en la chimenea.
   - Fuera la escena de la cueva del coreano.
-- **Siguiente:** el capítulo 25 (coreano 28 y la clase de Moody del 30).
+- **Capítulo 25, *Old Friends*** (coreano 28 y clase de Moody del 30), escrito y criticado (`docs/notas/cap-25-critica.md`; manual `docs/capitulos/cap-25.md`). Fija:
+  - Lucius estuvo en el desfile y no sabe quién lanzó la Marca.
+  - Lyra sabe que Potter supo antes lo del campamento y lo del Torneo.
+  - El voto del 17 vuelve sin decisión.
+  - Lupin dimitió y Slytherin cree que era hombre lobo (rumor de Parkinson).
+  - Moody humilla a Lucius ante Lyra y su ojo ve el anillo.
+  - Lyra se apartó de Potter de septiembre a Halloween.
+- **Siguiente:** el capítulo 26 (coreano 29).
