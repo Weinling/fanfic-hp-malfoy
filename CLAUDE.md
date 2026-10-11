@@ -53,6 +53,7 @@ La sesión principal no puede apoyarse solo en el resumen de una compactación n
     - el estado de trabajo;
     - el handoff, **entero**;
     - **todos los manuales, enteros**;
+    - `docs/capitulos/continuidad-transversal.md` (hitos de la pareja, quién sabe qué y desde cuándo, estado de cada personaje, fichas y deudas), que se actualiza al cerrar cada capítulo junto con el manual;
     - el texto completo de, como mínimo, los dos capítulos anteriores al que se va a escribir;
     - el capítulo coreano que se va a adaptar y los dos siguientes (tres en total), completos, junto con las fichas y guiones ya hechos.
   - Lo que se lee tras cada compactación se apunta en el estado de trabajo.
