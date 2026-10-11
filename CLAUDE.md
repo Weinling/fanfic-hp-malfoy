@@ -26,6 +26,39 @@ Adaptación al inglés de una fanfic coreana de Harry Potter con un genderbend d
 - **Git:** haz commits con rutas explícitas al cerrar cada paso (capítulo escrito, crítica aplicada, handoff actualizado). Haz `push` al cerrar cada paso, sin preguntar (decisión del autor, 2026-10-11). El repositorio es privado y debe seguir siéndolo.
 - **Falta por traer:** los capítulos coreanos originales, que van en `coreano/` y los chats que el autor quiera conservar. Pídelos antes de adaptar el capítulo 17.
 
+## Memoria entre sesiones y compactaciones (decisión del autor, 2026-10-11)
+
+La sesión principal no puede apoyarse solo en el resumen de una compactación ni en el coreano. Tras la compactación del capítulo 20, el crítico cazó cinco choques con capítulos publicados que una lectura completa habría evitado.
+
+- **`docs/estado-de-trabajo.md`.** Se lee **lo primero** al abrir sesión o tras compactar. Dice:
+  - en qué capítulo y escena se está;
+  - qué está commiteado;
+  - qué falta;
+  - qué agentes están vivos;
+  - qué decide el autor.
+
+  Se actualiza en cada paso, en el mismo commit.
+- **`docs/capitulos/`.** Hay un manual por capítulo, con la misma plantilla:
+  - escenas y fechas;
+  - frases literales que se citan;
+  - fichas y libro de cuentas;
+  - quién sabe qué;
+  - hilos;
+  - continuidad fácil de romper;
+  - forma del final.
+
+  El manual de cada capítulo nuevo se escribe al cerrarlo, en el mismo paso que el handoff.
+- **Lectura obligatoria:**
+  - **Al abrir sesión o tras compactar:**
+    - el estado de trabajo;
+    - el handoff;
+    - todos los manuales;
+    - el texto completo de los dos o tres capítulos anteriores al que se va a escribir.
+  - **Al empezar un arco:** la historia entera, en texto completo, no los manuales. Unas 100.000 palabras; es asumible.
+  - **Antes de cerrar cada ficha:** encargar a un lector que busque en toda la historia las referencias a lo que va a tocar el capítulo (personajes, lugares, objetos, fechas).
+- **Nunca hay texto que solo exista en el contexto.** Cada escena se commitea al escribirla, y si se compacta a mitad de capítulo, el archivo y el estado de trabajo bastan para seguir.
+- **El coreano es fuente de trama, no de continuidad.** La continuidad la dan el manuscrito, los borradores y los manuales.
+
 ## Flujo de un capítulo
 
 Es el del handoff §8, con este cambio: los capítulos se escriben en `borradores/cap-NN-titulo.md`, una escena por paso, en vez de en un documento de Claude Docs. Cuando el autor publica un capítulo, el archivo pasa a `manuscrito/`.
