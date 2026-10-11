@@ -98,7 +98,7 @@ Lyra sat down on the end of the bed.
 
 “He’s *ever* so good. He can make the queen of hearts come out of your ear. Well, out of the pack, but you’d swear it was your ear.” Draco squared the cards. “Somebody sent me a letter in the autumn. It said not to play cards with him. It didn’t have a name on it or anything.” He looked up at her, scornful. “I think it was Pobble. Pobble thinks cards are wicked.”
 
-Lyra, who had disguised her handwriting for that letter with enormous care, said nothing at all.
+Lyra, who had disguised her handwriting for that letter with enormous care, said nothing.
 
 “I didn’t stop, anyway,” said Draco. “He’s *nice*.”
 
@@ -196,7 +196,7 @@ After that, of course, half the class had to try, and Lyra bore it with great di
 
 Parkinson went away.
 
-Crabbe and Goyle spent the rest of the afternoon trying to cheer her up without magic, and neither of them was any good at it at all. Somehow, by dinner, she did feel a little better.
+Crabbe and Goyle spent the rest of the afternoon trying to cheer her up without magic, and neither of them was any good at it. Somehow, by dinner, she did feel a little better.
 
 ⁂
 
@@ -266,7 +266,7 @@ Lyra put down her fork. It made rather more noise than a fork should. Then she g
 
 She did not slow down.
 
-Behind her, as she went, she heard somebody say, “Aren’t you two going after her?” and Goyle, with feeling, “Why is it always *us*? We’re people too, you know,” and Crabbe say, “Your turn, then, Panther,” and Parkinson, for once in his life, say nothing at all.
+Behind her, as she went, she heard somebody say, “Aren’t you two going after her?” and Goyle, with feeling, “Why is it always *us*? We’re people too, you know,” and Crabbe say, “Your turn, then, Panther,” and Parkinson, for once in his life, say nothing.
 
 ⁂
 

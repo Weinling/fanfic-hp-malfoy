@@ -38,7 +38,7 @@ She had not known him. That was the thing he kept coming back to. She had looked
 
 He wondered whether he could be in Slytherin too.
 
-She had said only the best people went to Slytherin. Harry did not feel like one of the best people. And there was the other thing, which Hagrid had told him in Diagon Alley and which he could not get out of his head: that You-Know-Who had been in Slytherin. It did not matter, Hagrid said, what House a person had been in. But Voldemort had killed his mother and father, and Harry did not want to be near him in any way at all, even that one.
+She had said only the best people went to Slytherin. Harry did not feel like one of the best people. And there was the other thing, which Hagrid had told him in Diagon Alley and which he could not get out of his head: that You-Know-Who had been in Slytherin. It did not matter, Hagrid said, what House a person had been in. But Voldemort had killed his mother and father, and Harry did not want to be near him in any way, even that one.
 
 “Potter, Harry!”
 
@@ -194,7 +194,7 @@ She drew back her arm to throw the glass ball as far as she could.
 
 “If you’re so clever, *catch it!*”
 
-Harry moved. It turned out that everything he had done so far had been playing; he was beside her in an instant, and had her by the wrist before she could let go. The ball dropped out of her fingers, and he caught it with his other hand, without thinking about it at all.
+Harry moved. It turned out that everything he had done so far had been playing; he was beside her in an instant, and had her by the wrist before she could let go. The ball dropped out of her fingers, and he caught it with his other hand, without thinking about it.
 
 “Got it,” he said.
 
@@ -238,7 +238,7 @@ She scrambled up, shaking, and rounded on him.
 
 But even Malfoy had to stop. Harry Potter was lying on the grass, scraped and bleeding in half a dozen places, as though a troll had sat on him.
 
-She looked down at him with a white face, and for once she was not grand at all.
+She looked down at him with a white face, and for once she was not grand.
 
 “Potter? Are you—all right?”
 
@@ -276,7 +276,7 @@ At that she clenched both her fists and shrieked at him.
 
 “Do you think I’m going to say *thank you?* If you hadn’t stuck your nose in where it wasn’t wanted, I’d never have fallen in the first place!”
 
-It was not at all what anybody had expected.
+It was not what anybody had expected.
 
 The others stared at her. They could not believe there was such a person in the world. No thanks, and no sorry; she had put the whole thing on him. The Gryffindors were frowning. Even one of the Slytherins muttered, “That’s a bit much.”
 

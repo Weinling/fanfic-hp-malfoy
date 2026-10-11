@@ -174,7 +174,7 @@ Ron came clattering down after them both, red in the face and grinning all over 
 
 “You’re not going to watch them hop about on your own, are you? That’s not fair either.”
 
-He fell in beside Harry, still grinning, and started telling him in great detail what Crabbe would look like with her legs stuck together, and Harry laughed. It was his ordinary laugh. The face he had worn a minute ago on the stairs might never have been there at all.
+He fell in beside Harry, still grinning, and started telling him in great detail what Crabbe would look like with her legs stuck together, and Harry laughed. It was his ordinary laugh. The face he had worn a minute ago on the stairs might never have been there.
 
 Behind them, after a moment, Harry heard Hermione make a small, furious noise on the landing, and come after them.
 
@@ -244,7 +244,7 @@ Harry moved first.
 
 Crabbe’s legs snapped together and she went down sideways, and her wand skittered away across the flagstones. Goyle had hers out a moment later. A jet of something hit Harry’s hand like a slap, and his wand went spinning out of it and away under the bench.
 
-Ron went for Goyle. There was a great deal of flailing; Goyle shoved him so hard he went rolling across the floor, but he had got hold of her wand on the way, and by the time the two of them were on their feet again both wands had been flung down the corridor in opposite directions, and Ron and Goyle were glaring at each other with nothing in their hands at all.
+Ron went for Goyle. There was a great deal of flailing; Goyle shoved him so hard he went rolling across the floor, but he had got hold of her wand on the way, and by the time the two of them were on their feet again both wands had been flung down the corridor in opposite directions, and Ron and Goyle were glaring at each other with nothing in their hands.
 
 Which left Malfoy.
 
@@ -328,7 +328,7 @@ He had decided, in October, that he was going to change her. He had put his chin
 
 “I was going to change her,” Harry said, to nobody. “I made her cry.”
 
-Madam Pomfrey mended his eyebrow in about a minute, with a great deal of tutting, and in the morning there was nothing to show where it had been. That was the last anybody saw of it. The Gryffindors did not tell the story, because it was not the sort of story that made Harry look good. The Slytherins did not tell it, because it was not the sort that made Malfoy look good either. Nobody repeated what he had said about Snape. Snape himself, the next time Harry came into the dungeon, did not so much as raise his eyes, and Slytherin took its lead from him. By Easter nobody spoke of any of it at all.
+Madam Pomfrey mended his eyebrow in about a minute, with a great deal of tutting, and in the morning there was nothing to show where it had been. That was the last anybody saw of it. The Gryffindors did not tell the story, because it was not the sort of story that made Harry look good. The Slytherins did not tell it, because it was not the sort that made Malfoy look good either. Nobody repeated what he had said about Snape. Snape himself, the next time Harry came into the dungeon, did not so much as raise his eyes, and Slytherin took its lead from him. By Easter nobody spoke of any of it.
 
 ⁂
 

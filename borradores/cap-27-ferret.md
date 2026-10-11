@@ -6,7 +6,7 @@ It was a school owl, brown and bored, the kind that carried half the castle’s 
 
 She put it in her bag, unopened, and finished her breakfast. Goyle was explaining to the table how a dragon might be got into a school, for the first task, if it were very small, or asleep. Crabbe was watching the bag.
 
-She had written to him nine days ago, on the first of November, on plain parchment with no crest. She had given it to a school owl with no address on it at all, because owls did not need one, and had spent the next week rather hoping it would get lost. It had taken her four drafts. The first had been three pages long. The fourth had said what had happened, in the order it had happened, and finished: *I do not expect this to settle anything. I thought you should know who carried it.*
+She had written to him nine days ago, on the first of November, on plain parchment with no crest. She had given it to a school owl with no address on it, because owls did not need one, and had spent the next week rather hoping it would get lost. It had taken her four drafts. The first had been three pages long. The fourth had said what had happened, in the order it had happened, and finished: *I do not expect this to settle anything. I thought you should know who carried it.*
 
 She opened his in History of Magic, under the desk, while Professor Binns told the back row about the goblin rebellion of 1612 in a voice like a door that would never quite finish closing.
 
@@ -168,7 +168,7 @@ Her hands had gone cold. She could feel them, the way you can feel a draught.
 
 He had his back to her. He was reaching up to the top of the cupboard, as though she were already gone.
 
-Her wand was in her hand. She had no curse in mind. She had nothing in mind at all except that she would not be talked about like that, by anybody, to the back of his head, and that he was going to turn round and *look* at her while she—
+Her wand was in her hand. She had no curse in mind. She had nothing in mind except that she would not be talked about like that, by anybody, to the back of his head, and that he was going to turn round and *look* at her while she—
 
 Moody spun on his wooden leg faster than anything that size had any right to move.
 

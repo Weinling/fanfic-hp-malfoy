@@ -70,7 +70,7 @@ There was a bang and a shower of sparks and a smell of burnt fish, and Potter ye
 
 Lyra brushed her gloves together and went back to her crate.
 
-When she looked up again, Granger was watching her across the paddock. Granger had a frog liver in one hand and an expression on her face that Lyra did not care for at all: the expression of somebody who had recently seen a ferret, and done some arithmetic, and was trying very hard not to smile. Lyra looked back at her coldly until she went pink and turned away.
+When she looked up again, Granger was watching her across the paddock. Granger had a frog liver in one hand and an expression on her face that Lyra did not care for: the expression of somebody who had recently seen a ferret, and done some arithmetic, and was trying very hard not to smile. Lyra looked back at her coldly until she went pink and turned away.
 
 At the far end of the Gryffindor line, Weasley was feeding his skrewts on his own. He had not laughed at Parkinson. He had not looked up when the tail went off. Potter went back to the Gryffindor side with his robes still smoking, and stood next to Granger, and was cheerful for the rest of the lesson in a loud, careless way that did not fool Lyra for a moment.
 
@@ -222,7 +222,7 @@ The gangplank slid away behind her into the dark as soon as her feet were on the
 
 She went up the slope towards the castle with the signed card in her pocket, and the silver cup still full on Karkaroff’s table, and turned it all over as she climbed.
 
-It had not been Karkaroff. That was one thing. Whoever had Confunded the Goblet was somebody strong enough to fool an ancient magical object that had been fooling nobody for seven hundred years, and was very probably still in this castle, and was not a vain, frightened, furious man in silver furs on a ship. That was a second thing. And the third was the one Karkaroff had wished he had not said: a man who had sent his own son to Azkaban to die, and something that had been done to the Longbottoms, which she did not understand at all, and which had made Karkaroff look at the door.
+It had not been Karkaroff. That was one thing. Whoever had Confunded the Goblet was somebody strong enough to fool an ancient magical object that had been fooling nobody for seven hundred years, and was very probably still in this castle, and was not a vain, frightened, furious man in silver furs on a ship. That was a second thing. And the third was the one Karkaroff had wished he had not said: a man who had sent his own son to Azkaban to die, and something that had been done to the Longbottoms, which she did not understand, and which had made Karkaroff look at the door.
 
 Longbottom. She thought of a round-faced boy in first year, scrabbling on the floor for the bits of a Remembrall. She did not know what any of it meant. But she knew what it was worth, and she knew exactly who to give it to; and it was not Mad-Eye Moody, who would take nothing from her. It was the boy with the cloak.
 

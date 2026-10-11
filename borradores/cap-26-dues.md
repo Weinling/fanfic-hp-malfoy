@@ -12,7 +12,7 @@ The one person who did not seem to have any of it was Potter. He looked annoyed.
 
 “No. Honestly. Hand on heart.” He did not take his elbows off the table. If anything he leaned back. He had very much the air of somebody who had been asked to go up and collect a prize he did not want, and was waiting to see whether he could get out of it by staying put.
 
-The rest of the Hall did not like that at all. The Hufflepuffs liked it least. Ten seconds ago their House had had its first champion in living memory, and now, it seemed, it was going to have to share him with Harry Potter, as Harry Potter had to have everything.
+The rest of the Hall did not like that. The Hufflepuffs liked it least. Ten seconds ago their House had had its first champion in living memory, and now, it seemed, it was going to have to share him with Harry Potter, as Harry Potter had to have everything.
 
 “Liar,” said somebody at the Hufflepuff table, not loudly, but in the kind of silence that carried. It was Zacharias Smith, a fourth-year with a long pale face that always looked as though it had just been told something it disapproved of. “He’s cheated his way over the line somehow. He’ll have got *special treatment*. Because he’s the Boy Who Lived—”
 
@@ -48,7 +48,7 @@ Dumbledore did not shout often. The Hall went quiet, although Lyra could feel th
 
 “Harry,” said Dumbledore, quite gently. “When the Goblet gives up a name, that champion is bound by a magical contract. Whatever the rights and wrongs of it, you must come with me now. Through here, please.”
 
-Potter sighed, and got up at last, and ran a hand through his hair, which made it worse. He waved to the Gryffindor table on his way, and only the Weasley twins waved back. Granger was white and anxious. Weasley was not looking at him at all. His ears were red, and he was staring at his empty plate as though it had said something.
+Potter sighed, and got up at last, and ran a hand through his hair, which made it worse. He waved to the Gryffindor table on his way, and only the Weasley twins waved back. Granger was white and anxious. Weasley was not looking at him. His ears were red, and he was staring at his empty plate as though it had said something.
 
 Potter went through the door behind the staff table, and Professor McGonagall rose before the Hall could start up again.
 
@@ -114,7 +114,7 @@ He had not expected that. She watched him not expect it, and enjoyed it.
 
 So she was not cleverer than Dumbledore and Mad-Eye Moody put together. Lyra found she minded that much less than she would have expected. If the two of them had already seen it, they would already be doing something about it.
 
-“Then that’s settled,” she said. “You go through the motions. You stand in the middle of the arena and do nothing at all, and let them give you no marks.”
+“Then that’s settled,” she said. “You go through the motions. You stand in the middle of the arena and do nothing, and let them give you no marks.”
 
 “About that,” said Potter. He looked at her sideways, which he hardly ever did. “If somebody’s planning to hurt me in the Tournament, they’ll have to do it *during* the Tournament. Won’t they? So they’ll have to come out where we can see them.”
 
@@ -174,7 +174,7 @@ Potter whistled two notes of something and examined the ceiling. “What did I s
 
 He told her.
 
-Before the World Cup, he and Sirius had gone through the house Sirius had grown up in, top to bottom. Every Black still on the tapestry had been on the Dark Lord’s side, and Sirius was not on it, who had been burnt off the tapestry for it; and the Dark Lord had trusted one of his pieces to the Malfoys, so it had seemed worth asking whether he had trusted another to the Blacks. Sirius’s younger brother had been the most devoted of the lot of them. So they had followed what was left of Regulus Black, and it had led them to the Blacks’ house-elf, an old creature called Kreacher, who had not wanted to tell them anything at all, and who had to obey Sirius, because Sirius was the last of the family.
+Before the World Cup, he and Sirius had gone through the house Sirius had grown up in, top to bottom. Every Black still on the tapestry had been on the Dark Lord’s side, and Sirius was not on it, who had been burnt off the tapestry for it; and the Dark Lord had trusted one of his pieces to the Malfoys, so it had seemed worth asking whether he had trusted another to the Blacks. Sirius’s younger brother had been the most devoted of the lot of them. So they had followed what was left of Regulus Black, and it had led them to the Blacks’ house-elf, an old creature called Kreacher, who had not wanted to tell them anything, and who had to obey Sirius, because Sirius was the last of the family.
 
 “It wasn’t very nice,” said Potter. “Getting it out of him. Sirius isn’t—he doesn’t like that house. Or anything in it.” He rubbed the back of his neck. “Kreacher took us to a cave. On the coast, up a cliff. Dumbledore came too.”
 

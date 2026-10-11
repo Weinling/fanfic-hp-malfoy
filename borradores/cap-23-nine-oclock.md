@@ -16,7 +16,7 @@ In Defence that afternoon he looked grey and tired and kind, and did not look at
 
 It paid nothing. She knew that. It was a receipt, not a payment.
 
-In Potions, Snape did not say *Faultless*. He did not say anything to her at all, that week or the next. Now and then she caught him looking at her across the dungeon, as though she were a sum he had nearly finished checking.
+In Potions, Snape did not say *Faultless*. He did not say anything to her, that week or the next. Now and then she caught him looking at her across the dungeon, as though she were a sum he had nearly finished checking.
 
 The Malfoys had a great many friends at the Ministry, and heard sooner than most. Lyra’s father wrote to her the same day.
 
@@ -120,7 +120,7 @@ A little way down the table, Goyle had noticed something in the air. She leaned 
 
 Goyle stabbed a sausage with her fork and put it in her mouth. Anyway, it meant there would be no more of Lyra’s tantrums, and the two of them began to edge along the bench towards her, to find out what on earth had happened.
 
-They reached her by the end of breakfast. Goyle asked a great many questions and got no answers at all. Crabbe asked nothing. But when the bell went and they were gathering up their bags, Lyra said to her, without looking round, “You asked me once whether I was in trouble.”
+They reached her by the end of breakfast. Goyle asked a great many questions and got no answers. Crabbe asked nothing. But when the bell went and they were gathering up their bags, Lyra said to her, without looking round, “You asked me once whether I was in trouble.”
 
 Crabbe stopped with her bag half on her shoulder. “In October. With the owl.”
 

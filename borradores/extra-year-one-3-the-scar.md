@@ -46,7 +46,7 @@ This time it was Harry’s face that went red. He clenched his fists.
 
 He said the name and waited for it to work, the way it always did.
 
-It did not work. Snape’s face did not move at all.
+It did not work. Snape’s face did not move.
 
 “Ten points from Gryffindor, Potter.” He said it without the smallest change of tone. “I fail to see what the manner of your father’s death has to do with your disrupting my lesson. What I can tell you for certain is that if you have not begun that potion within the minute, there will be no Gryffindor points left by the end of today. *Get on.*”
 
@@ -156,9 +156,9 @@ Harry shook his head. Snape bent over him, and his voice went low and nasty.
 
 Harry was frightened by his face.
 
-It was nothing like what Dumbledore had said. If that was the truth, then Snape had no reason at all to protect him.
+It was nothing like what Dumbledore had said. If that was the truth, then Snape had no reason to protect him.
 
-He wished he had thought about it a bit more before he came. Why had Dumbledore said a debt? Dumbledore did not seem the sort of person to say things that were not true. But what he had said was no help at all.
+He wished he had thought about it a bit more before he came. Why had Dumbledore said a debt? Dumbledore did not seem the sort of person to say things that were not true. But what he had said was no help.
 
 Harry was busy blaming Dumbledore in his head when Snape said:
 
@@ -208,7 +208,7 @@ Voldemort, laughing. And the man kneeling in front of him, with the news that wo
 
 For some reason, Harry remembered it.
 
-It came up in him like hate. There was no fear left at all. There was only an enemy, standing in front of him.
+It came up in him like hate. There was no fear left. There was only an enemy, standing in front of him.
 
 He looked up at Snape through the pain, and Snape looked into his eyes, and for a moment could not look away.
 
@@ -218,7 +218,7 @@ Snape’s face cracked. It was a very small crack, and it was gone at once; but 
 
 ⁂
 
-After that day, Snape ignored Harry. He behaved as if Harry were not in the room, and stopped looking for reasons to take points off him, and Harry glared at him every time he saw him, as though he were looking at the man who had killed his parents. And to give him nothing at all, Harry learned every page before every lesson. By Easter Snape could find nothing to fault in his work; it only made him angry in a quieter way.
+After that day, Snape ignored Harry. He behaved as if Harry were not in the room, and stopped looking for reasons to take points off him, and Harry glared at him every time he saw him, as though he were looking at the man who had killed his parents. And to give him nothing, Harry learned every page before every lesson. By Easter Snape could find nothing to fault in his work; it only made him angry in a quieter way.
 
 He had found out something very important, but he did not go back to Dumbledore. He wanted to know why Dumbledore had not told him the truth, and why, knowing it, he had given Snape a job at all.
 
@@ -232,7 +232,7 @@ It was an ordinary Potions lesson, and Lyra was being herself, as usual. But som
 
 “Shut up, Malfoy,” said Potter sharply.
 
-He said it in a way she had never heard from him, with no laugh behind it at all, and Lyra shut her mouth in surprise.
+He said it in a way she had never heard from him, with no laugh behind it, and Lyra shut her mouth in surprise.
 
 “Don’t you disappoint me too.”
 
@@ -258,7 +258,7 @@ Goyle was angry for her, and that gave Lyra time to pretend she did not care. Sh
 
 She was not alone in here. Lyra looked across at Snape, as she always did, for help; she was quite certain he would not let Potter get away with this.
 
-But today Snape only told them all to be quiet, and went back to his marking, and did not take her side at all.
+But today Snape only told them all to be quiet, and went back to his marking, and did not take her side.
 
 Lyra did not know what to do with that.
 

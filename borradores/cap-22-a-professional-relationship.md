@@ -154,7 +154,7 @@ Potter pushed his hair back off his forehead, roughly, with the flat of his hand
 
 “A grown man who can’t own up to his own choices, and cries about it. That’s why all you can ever do is run. Coward.”
 
-Lyra looked sideways, under the cloak, at the Harry beside her. He did not look at her. He was watching himself with no expression at all.
+Lyra looked sideways, under the cloak, at the Harry beside her. He did not look at her. He was watching himself with no expression.
 
 Pettigrew’s face quivered. But that was all it did. He was the kind of man who had swallowed his temper for so long that he could no longer even lose it properly; he only gulped.
 

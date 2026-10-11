@@ -4,7 +4,7 @@ An hour after Potter had sent her to bed, Lyra was still lying on it, face down,
 
 Every so often she put two fingers to her mouth, as though to make sure it was still there. Then she remembered what she was doing, and hit the pillow instead.
 
-It made no sense. That was what she kept coming back to. Potter did not do things that made no sense; he did things that made sense to Potter, which was not at all the same, but there was always a reason underneath, and she could not find this one. To stop her saying a word? He could have put his hand over her mouth. To make a fool of her? Nobody made a fool of anybody like that. For that long.
+It made no sense. That was what she kept coming back to. Potter did not do things that made no sense; he did things that made sense to Potter, which was not the same, but there was always a reason underneath, and she could not find this one. To stop her saying a word? He could have put his hand over her mouth. To make a fool of her? Nobody made a fool of anybody like that. For that long.
 
 She hit the pillow again with her fist and then, for variety, with her foot.
 
@@ -74,7 +74,7 @@ She went closer.
 
 It was a map. It was Hogwarts, every floor of it, drawn in fine brown ink, and all over it tiny ink footprints were moving, each with a label: *Argus Filch*, going down a staircase; *Minerva McGonagall*, in her study; *Peeves*, in a fourth-floor bathroom. In the middle of this very room stood a pair of footprints marked *Lyra Malfoy*.
 
-She picked it up, and something slid off the desk after it, soft and cool, and pooled over her hand like water. She caught it. It weighed nothing at all. When she held it up, her arm disappeared.
+She picked it up, and something slid off the desk after it, soft and cool, and pooled over her hand like water. She caught it. It weighed nothing. When she held it up, her arm disappeared.
 
 She knew what it was. She had seen it come off over Potter’s head in the snow at Hogsmeade.
 
@@ -88,7 +88,7 @@ Ordinarily she would have died sooner than run in a corridor, but nobody could s
 
 Filch glared straight through her. Lyra walked out past him at her leisure, and as the door swung to behind her she heard him mutter, “Peeves. Should’ve known.”
 
-Out on the steps, in the cold, she understood for the first time quite what Potter had been carrying about with him. A map that told you where everybody was, and every passage besides: no wonder he could turn up in Hogsmeade without a permission slip and never be seen by a single teacher. And a cloak that made you nobody at all. It explained so much of the last two years that it was very nearly insulting. It did not explain why, on the night of the Chamber, he had let her see him at all.
+Out on the steps, in the cold, she understood for the first time quite what Potter had been carrying about with him. A map that told you where everybody was, and every passage besides: no wonder he could turn up in Hogsmeade without a permission slip and never be seen by a single teacher. And a cloak that made you nobody. It explained so much of the last two years that it was very nearly insulting. It did not explain why, on the night of the Chamber, he had let her see him at all.
 
 The slip in the box had said *which way to look*. Lyra held up her hand. The ring had stopped flickering. It was a steady, bloody red now, and when she turned towards the Forbidden Forest it grew warmer on her finger, and when she turned away it cooled.
 

@@ -178,7 +178,7 @@ Malfoy knocked at Lupin’s door, and went in, and left it open, and even that w
 
 The door flew open, and Malfoy came out.
 
-There was no dignity left in her at all. She went down the corridor with her heels banging on the flagstones as if each one had done her an injury, breathing through her nose, so plainly upset that a first-year could have seen it from the other end of the castle.
+There was no dignity left in her. She went down the corridor with her heels banging on the flagstones as if each one had done her an injury, breathing through her nose, so plainly upset that a first-year could have seen it from the other end of the castle.
 
 So that was how she had looked, coming out.
 
@@ -216,7 +216,7 @@ He walked off round the corner, making a good deal more noise than he needed to.
 
 It was not a pretty sight. She went at a run, without caring what she looked like, with her hair coming loose and her robes rucked up and her eyes wide and wild, like something that had got out of a cage.
 
-And no idea at all that anybody was watching.
+And no idea that anybody was watching.
 
 Lyra could not bear another second of it. She went down the opposite staircase.
 
@@ -268,7 +268,7 @@ She saw Malfoy take another step at him. *So you take Granger.* And then, from t
 
 It had not been guilt. He had been trying not to laugh. He had been so pleased about something that he could barely keep it in.
 
-Beside her, under the cloak, Harry said nothing at all.
+Beside her, under the cloak, Harry said nothing.
 
 Then Granger raised her voice, and Malfoy reached for the word, and—
 
@@ -336,7 +336,7 @@ Beside her, Harry had gone rigid.
 
 Lyra did not answer him.
 
-Down by the lake she had seen it come for her, with no man left in its eyes at all, and she had thought of the goblet. She had thought of it then as an accident. A rat had got into a cauldron; a girl had been in a hurry; it was the sort of thing that happened. But a rat had been on Snape’s desk the very afternoon a letter came out of nowhere to send Snape to the Ministry. A rat that knew exactly whose potion that was, and exactly when nobody would be there to see.
+Down by the lake she had seen it come for her, with no man left in its eyes, and she had thought of the goblet. She had thought of it then as an accident. A rat had got into a cauldron; a girl had been in a hurry; it was the sort of thing that happened. But a rat had been on Snape’s desk the very afternoon a letter came out of nowhere to send Snape to the Ministry. A rat that knew exactly whose potion that was, and exactly when nobody would be there to see.
 
 Not any rat, then.
 

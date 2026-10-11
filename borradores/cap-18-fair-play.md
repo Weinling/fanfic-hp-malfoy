@@ -182,7 +182,7 @@ She had cried once already this year, in the Shrieking Shack, and called it rain
 
 There was a handkerchief on the step beside her.
 
-It had not been there before; she was quite sure of that. It was folded into a neat square, white, with a narrow border, and when she looked up and down the staircase there was nobody on it at all, above or below.
+It had not been there before; she was quite sure of that. It was folded into a neat square, white, with a narrow border, and when she looked up and down the staircase there was nobody on it, above or below.
 
 “Peeves,” said Lyra, “if this is you, I shall have the Bloody Baron on you by teatime.”
 

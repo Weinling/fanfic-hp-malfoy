@@ -94,7 +94,7 @@ She did not take it out. She sat with her hands in her lap and looked down the d
 
 He had known about the Tournament as well. *Especially next year, if students come from other schools.* He had said it under a cloister in May, three months before the Minister for Magic winked at her about it, and long before her father had heard a word.
 
-Her father, who had been there, did not know who had cast the Mark. Potter had known to send her inside before anything had happened at all.
+Her father, who had been there, did not know who had cast the Mark. Potter had known to send her inside before anything had happened.
 
 Lyra sat on the window seat until the light went, and did not open the drawer.
 
@@ -134,7 +134,7 @@ Lyra saw it the moment she came into the Great Hall, before the Sorting, before 
 
 “You would.”
 
-Lyra said nothing at all. She cut her roast potatoes into very small pieces.
+Lyra said nothing. She cut her roast potatoes into very small pieces.
 
 *They say he went for some students in the grounds.* He had gone for Potter and Granger and a convicted murderer, and for a girl on a hippogriff, on a February night with a full moon over the lake, because somebody had put a neutraliser in his potion; and somebody else had carried that potion up four flights of stairs, and seen a line of little prints across a blotter, and wiped the bottom of the goblet, and thought, *whoever drinks it need never know*.
 
@@ -164,7 +164,7 @@ Lyra did not need to be told that. Her father had a name he used for Alastor Moo
 
 She looked at the Gryffindor table then. She had not meant to.
 
-Potter was watching Moody limp up to the staff table with his elbows on the board and his chin on his fists, the way you might watch somebody whose name you had heard a great many times. He did not look surprised. He did not look anything at all.
+Potter was watching Moody limp up to the staff table with his elbows on the board and his chin on his fists, the way you might watch somebody whose name you had heard a great many times. He did not look surprised. He did not look anything.
 
 Then Dumbledore stood up again, and told them that there would be no Inter-House Quidditch Cup this year—Montague actually moaned out loud, and somewhere in the dungeons under her feet a Firebolt went on lying in its case for nothing—because Hogwarts, this year, was to host a Triwizard Tournament.
 
@@ -236,7 +236,7 @@ She would not. She did not even have to think about it.
 
 The first time was a Tuesday in October, on the staircase up from the library. The ring began to pulse against her fingers inside her pocket, on, off, on, warm and then cool, which meant that the other ring was looking for her; and when she turned her head it grew warm towards the corridor above, where a classroom door stood open. She knew exactly where he was. She stood on the step with her books against her chest while a ghost crossed the landing below. Then she took her hand out of her pocket and went down by the other staircase.
 
-The second time, she did not stop at all.
+The second time, she did not stop.
 
 ⁂
 
@@ -266,7 +266,7 @@ The Goblet of Fire had turned red again.
 
 Sparks were flying out of it. A long flame shot up into the air, and on the end of it, a fourth piece of parchment. Dumbledore put out his hand, almost absently, and caught it.
 
-He held it out, and looked at the name written on it, for a long moment. Then he cleared his throat, and his voice, when it came, was not loud at all.
+He held it out, and looked at the name written on it, for a long moment. Then he cleared his throat, and his voice, when it came, was not loud.
 
 “Harry Potter.”
 

@@ -64,7 +64,7 @@ Harry stopped in front of her, and to everybody’s astonishment, he smiled back
 
 Malfoy flinched as though he had thrown something at her. So did Crabbe and Goyle. All three of them took a step back.
 
-In a world where wizards believed names had power, you did not say the name of the most evil wizard who had ever lived. Harry had grown up among Muggles and had no fear of it at all; but to a pureblood girl like Malfoy it was something you did not even like to think.
+In a world where wizards believed names had power, you did not say the name of the most evil wizard who had ever lived. Harry had grown up among Muggles and had no fear of it; but to a pureblood girl like Malfoy it was something you did not even like to think.
 
 Harry did not stop there. He took another step.
 

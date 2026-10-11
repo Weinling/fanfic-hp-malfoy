@@ -158,7 +158,7 @@ So that was it. Potter had held her father’s diary over her and told her she w
 
 “That’s all it was,” she said. “That’s what he sent me away for.”
 
-“I’m sorry. I’ve spoken out of turn.” Lupin leaned forward. “Miss Malfoy, Peter is a traitor, and he will do anything at all to stay alive. He’s more dangerous than any Death Eater, because there’s nothing he won’t give up. If he knew you were involved he might well try to take you as a hostage. I expect Harry was thinking of that when—”
+“I’m sorry. I’ve spoken out of turn.” Lupin leaned forward. “Miss Malfoy, Peter is a traitor, and he will do anything to stay alive. He’s more dangerous than any Death Eater, because there’s nothing he won’t give up. If he knew you were involved he might well try to take you as a hostage. I expect Harry was thinking of that when—”
 
 “And Granger?”
 
@@ -240,7 +240,7 @@ Granger looked at her then, very briefly, the way one person who has seen a time
 
 Granger had raised her voice; Lyra had not known she could. It only made things worse. Lyra was past being made better by anything. She knew exactly what she was going to say next, and she knew she would be sorry, and she reached for it anyway.
 
-She had not said it since October. In the empty Arithmancy classroom, with no Potter anywhere near, it had not come out at all. It came now. It was the worst thing she had, and she wanted the worst thing; she wanted the pair of them to see precisely what it felt like to stand in this corridor with her hair coming down, and there was no other word in her that would show them.
+She had not said it since October. In the empty Arithmancy classroom, with no Potter anywhere near, it had not come out. It came now. It was the worst thing she had, and she wanted the worst thing; she wanted the pair of them to see precisely what it felt like to stand in this corridor with her hair coming down, and there was no other word in her that would show them.
 
 “Don’t you *dare* tell me what to—you filthy little Mud—”
 
@@ -262,7 +262,7 @@ Lyra opened her mouth. Nothing in it was a word.
 
 “Call me whatever you want,” said Potter. “Tell me not to smile. You’ve every right; I earned that one. But don’t go making yourself smaller to do it.” A strand of her hair had come down across her face when the ribbon went. He hooked it with one finger and put it back behind her ear, carefully, as if it might go off. “Every time you try, I’ll stop you.”
 
-Somewhere in there her hands had let go of his collar. She did not know what to do with them, so she did nothing with them at all.
+Somewhere in there her hands had let go of his collar. She did not know what to do with them, so she did nothing with them.
 
 “Was that—” Her voice came out small and wrong, and she made it try again. “Is that *charity* again?”
 
