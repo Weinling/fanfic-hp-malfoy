@@ -570,3 +570,34 @@ Pegado al 14, el capítulo de Harry curaba la herida en el acto. Por eso entra d
 - **Se mantiene el final** en “three hundred and sixty hours”. El 14 cierra en tristeza y el 15 en un chiste contra Lyra, con la amenaza del Manor justo antes.
 - **Se mantiene el calor** entre los dos en el papel de los onces, porque es el capítulo sin escena de la pareja.
 - **Aviso.** La copia del 16 en el proyecto difiere del documento en dos frases (“pushed himself off the wall” frente a “let out a breath”, y la frase de la carta a Narcissa). Por la regla de la sección 1, vale el documento; queda pendiente que el autor lo confirme.
+
+## 12. Estado tras el capítulo 17
+
+**Capítulo 17, *The Face for It*** (coreano 14), en `borradores/cap-17-the-face-for-it.md`. Revisado tras crítica, revisión y una segunda lectura del crítico (notas y decisiones en `docs/notas/cap-17-critica-y-revision.md`). Puntuaciones finales: emoción 8, romance 6, gancho 8, ritmo 7, calor 6, trama 8, personajes 8, prosa 7. Plan del tramo en `borradores/plan-coreano-14-20.md` (aprobado en parte: fusión del coreano 16 con el 17, el coreano 18 fuera de su sitio, nombres de pila en el 21).
+
+**Nueva numeración:** 17 = coreano 14; 18 = coreano 15; 19 = coreano 16 (parcial) + 17; 20 = coreano 19 sin la escena de Ron; 21 = coreano 20. El coreano 18 (extra de primero) pasa a historia corta al cerrar el arco. Hay una escena adelantada del 19 (el beso) en `borradores/cap-19-escena-shut-up-malfoy.md`, provisional.
+
+**Punto de la historia.** Jueves 6 de enero de 1994, noche: Lyra encuentra vacío el baño de chicas del trol. El tren volvió el domingo 2.
+
+**Quién sabe qué: cambios**
+- **Lyra** ha visto a Potter y Granger en dos sitios a la vez y oído «it isn’t a toy» y «we need the time». Lo recuerda junto al horario de Granger y lo guarda, por celos y por la palabra dada. Sabe que Draco sigue jugando a las cartas con el señor de la casita y que no le escribe desde octubre; no ha preguntado por qué. Sabe que su escudo mental rechaza el encantamiento animador (Flitwick lo dice en clase). Oyó a Weasley: Potter está «getting nowhere with Malfoy».
+- **Lucius** ha adoptado sin saberlo la tapadera: si alguien pregunta por el diario, se lo llevaron las redadas del Ministerio del verano de 1992. Le tembló la mano ante la hipótesis de que el Señor Oscuro vuelva.
+- **Draco** recibió el aviso sin firma y cree que fue Pobble. No ha dejado de jugar.
+- **Slytherin** murmura sobre Potter y Granger.
+
+**La decisión de Navidad.** Lyra no se mete. Si Potter fracasa y el Señor Oscuro vuelve, los Malfoy serán los primeros en volver con él; ella la primera de rodillas, la más leal, para que perdone al padre, «even if it meant turning on Potter». Es el obstáculo de fondo, explícito.
+
+**Libro de cuentas**
+- La tapadera era idea de Potter (lago, cap. 2). Lyra la mejoró y no le da el mérito.
+- «Extensively» y «Perfectly» quedan pagadas en ironía: por fin habló con su padre cuatro minutos y no le contó nada.
+- Lyra a Granger: la palabra dada sobre el horario sigue en pie.
+
+**Fichas.** El papel de cartas de Narcissa («for Sundays»), la posdata sin contestar. La pluma de azúcar, sin tocar en el 17. Los anillos de Zonko’s (8), pendientes del 18.
+
+**Hilos**
+- **Pagados o tocados:** la tapadera de Lucius, «Extensively», «Perfectly», Draco y las cartas, el «us» de Lucius, el escudo mental, el horario de Granger, «don’t smile in front of me» (Potter no sonríe con nadie) y Scabbers.
+- **Pendientes:** Narcissa (aplazada desde el 17), Crabbe y su pregunta del 7, y la pluma de azúcar.
+
+**Escena de los dos.** El 15, el 16 y el 17 apenas la tienen (en el 17, solo «Malfoy.» / «Potter.»). El 18 la necesita.
+
+**Reglas nuevas del autor** (también en `CLAUDE.md`): lo publicado no se toca, ni siquiera con retoques invisibles (erratas en `docs/notas/erratas-publicado.md`); el techo de 4.200 palabras es orientativo; se sube a GitHub al cerrar cada paso; todas las revisiones las hace Opus.
