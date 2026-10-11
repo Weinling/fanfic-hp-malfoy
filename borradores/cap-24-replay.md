@@ -119,3 +119,53 @@ She turned her head away sharply and went and sat down.
 It was still a perfectly horrible nod.
 
 Beside her, her mother arranged her robes, and looked at Lyra, and then, for a little longer, at the back of the row in front.
+
+⁂
+
+The Bulgarian mascots came out first, and they were veela.
+
+Lyra had read about veela. She had not been prepared for a hundred of them at once. They came gliding out onto the pitch in a long line, women who were not women, with skin that shone as if the moon were somewhere behind it and hair that moved silver-gold about their shoulders with no wind to move it, and then the music started and they began to dance. Within a minute every male in the stadium had lost his mind. In the box below, a Ministry wizard was taking off his hat and putting it on again, very quickly, as though he could not decide which suited him better. In the row in front, Ron Weasley had one leg over the rail and appeared to be getting ready to dive.
+
+Lyra looked at all of it with deep and untroubled contempt.
+
+Then she thought, *wait*, and looked at Potter.
+
+He had his omnioculars up to his eyes. He was leaning forward with both elbows on the rail, perfectly still, quite absorbed, and the corner of his mouth had gone up, and stayed up.
+
+Lyra’s face did something she was glad nobody was watching.
+
+“Lyra,” said Draco dreamily, from her other side, “when I grow up I’m going to marry a veela.”
+
+She cuffed him round the back of the head. It was not for any reason. It was simply that somebody in the family had to keep their wits about them, and the music had stopped.
+
+In the row in front, Potter made a small snorting noise into his omnioculars.
+
+The Irish mascots were leprechauns, a great cloud of them, glittering green and gold, and they rained gold coins down on the crowd until the stands rang with it. Lyra thought them every bit as vulgar as the veela. Weasley caught an armful of coins and pressed a fistful into Potter’s hand with a face of shining joy.
+
+“There you go, Harry! For the omnioculars! *Ten Galleons*—”
+
+Potter nodded without looking round and put the gold in his pocket. He still had the omnioculars up. He was still smiling. Watching the veela again, Lyra supposed, on the replay.
+
+Then the match began, and for a while even Lyra forgot about Potter.
+
+She had never seen flying like it. The Irish Chasers moved like one person in three bodies, and the ball went between them so fast she lost it twice in the first minute. They were ten goals up before the Bulgarians had worked out where they were, and twenty before long, and it went on like that, pass after pass, all afternoon. Krum alone was worth the price of the box. He went after the Irish Seeker over and over, dragging him about the sky, and once he did the Wronski Feint for real, and the Irishman went into the ground, and the whole stadium stood up.
+
+It was not enough. Ireland were a hundred and sixty points ahead when Krum caught the Snitch, and everybody in the stadium could count. He had caught it knowing that it would lose them the match by ten points. He had caught it anyway, to finish it himself, rather than go on being beaten slowly.
+
+Lyra, who had once let go of her broom in a thunderstorm rather than win a match the wrong way, found that she quite understood him, and that her fist had clenched on the rail without her permission.
+
+“Oh, *no*, I missed it!” Weasley swung round on Potter. “Harry, did you get that? Krum catching it? Give us a look—”
+
+He took the omnioculars off Potter’s neck before Potter could stop him, put them to his eyes and pressed the replay. Then he went quite still.
+
+After a moment he took them away from his face and handed them back, with an extraordinary expression.
+
+“Mate,” he said. “The *whole* match?”
+
+“Krum got the Snitch?” said Potter. “So who won?”
+
+“You really didn’t see any of it,” said Weasley, and shook his head slowly at him, as at somebody past help. “You absolute nutter.”
+
+He went off down the row to Granger. Potter scratched the back of his neck and said nothing at all.
+
+Lyra had no idea what any of that was about. She put it down to Weasley.
