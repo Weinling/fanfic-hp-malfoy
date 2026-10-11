@@ -12,13 +12,13 @@ Este handoff sustituye al v1.6 y a su anexo v1.7, y no necesita ninguno de los d
 
 | Dato | Valor |
 | --- | --- |
-| Título | Harry Potter and His Malfoy Problem |
+| Título | Never Owe a Malfoy, Potter (título de trabajo anterior: Harry Potter and His Malfoy Problem) |
 | Protagonista | Lyra Malfoy (Karina en el original) |
 | Idioma | Capítulos en inglés; informes y notas en español |
 | Adaptados | 1 a 16 |
 | Punto de la historia | Sábado 18 de diciembre de 1993: Lyra se va a casa por Navidad (15). El 16 vuelve a la tarde del sábado 11, en la Casa de los Gritos |
 | Siguiente | Capítulo 17 = coreano 14, Navidad en la mansión (secciones 7 y 11) |
-| Publicación | Wattpad, desde hace seis días a 6 de octubre de 2026. Los capítulos publicados no se reescriben (sección 9) |
+| Publicación | Wattpad y Webnovel. Wattpad, desde hace seis días a 6 de octubre de 2026. Los capítulos publicados no se reescriben (sección 9) |
 
 ### Capítulos
 
