@@ -38,13 +38,13 @@ He stumped up to the front, took the slip of parchment out of Dumbledore’s han
 
 It was perfectly logical. A few of the people round Smith might even have nodded, if Potter had stopped there.
 
-“Mind you,” said Potter, “out of uniform, I suppose you’d need to.”
+“Mind you,” said Potter, “out of uniform nobody’d know you were a student at all. They’d think somebody had let a tramp in.”
 
 Lyra did not open her eyes for the uproar that followed. She did not need to. She knew exactly what it would look like: Hufflepuff on its feet, Durmstrang and Beauxbatons on theirs, and the Slytherins happily on everybody’s side but his. Two minutes ago he had been the boy who could not possibly be in the Tournament. Now he had made enemies of four-fifths of the Hall without getting out of his chair.
 
 “*Silence!*”
 
-Dumbledore did not shout often. The Hall went quiet as if somebody had put a lid on it, although Lyra could feel the anger still going on underneath, waiting.
+Dumbledore did not shout often. The Hall went quiet, although Lyra could feel the anger still going on underneath, waiting.
 
 “Harry,” said Dumbledore, quite gently. “When the Goblet gives up a name, that champion is bound by a magical contract. Whatever the rights and wrongs of it, you must come with me now. Through here, please.”
 
@@ -68,7 +68,7 @@ Lyra stood up.
 
 “I’ve left my scarf in the Great Hall.”
 
-Lyra had not been wearing a scarf. Crabbe looked at her neck, and then at her face, and then turned back to the fire and asked Parkinson a question about Durmstrang that would keep him busy for half an hour, which was the most Crabbe thing she could possibly have done.
+Lyra had not been wearing a scarf. Crabbe looked at her neck, and then at her face, and then turned back to the fire and asked Parkinson a question about Durmstrang that would keep him busy for half an hour, which was exactly like Crabbe.
 
 At the top of the dungeon steps she turned slowly on the spot, with her hand closed round the ring in her pocket, the way she had turned on the castle steps in February, and when she faced the marble staircase it grew warm.
 
@@ -82,13 +82,19 @@ She went in. The door closed behind her of its own accord, and a voice from the 
 
 He pulled the cloak off. He looked tired, and his tie was crooked, and his hair was standing up at the back where he had been pushing his hand through it.
 
+“You walked off,” he said. “Twice. In October.”
+
+“You’d only have not answered.”
+
+He did not argue with that.
+
 “Withdraw,” said Lyra. “Tonight. Go back to Dumbledore and tell him you won’t do it.”
 
 “I did tell him.” Potter leaned back against a desk. “I told all of them. Bagman and Crouch were in there, they’re the judges. They say the Goblet’s a binding magical contract. Your name comes out, you compete. There isn’t a way out of it.”
 
 “Are you stupid, or are you only naïve? *That is why you should withdraw.*” She came across the room at him and put one finger against his chest, hard. “Can’t you feel how much somebody wants you stuck in this, with no way out? Somebody put your name in that cup. Somebody wants you in a tournament that killed so many people they had to stop holding it for two hundred years. They want you hurt. They want you *dead*. You’re a fourth-year. You haven’t learned half the magic you’d need. What do you think you are going to *do*?”
 
-She did not notice, until she had finished, that she had used very nearly her mother’s words.
+They were very nearly her mother’s words.
 
 Potter was looking down at the finger on his chest. When he looked up, he was smiling.
 
@@ -98,7 +104,7 @@ Potter was looking down at the finger on his chest. When he looked up, he was sm
 
 She stopped.
 
-It had come out on its own, the way it always did. But he was not somebody like anything. He was hers, in secret, with a ring to prove it, and there was no law that said she could not be worried about him. It was only embarrassing. It was perfectly natural, when you thought about it. It would be strange if she *weren’t*.
+He was not somebody like anything. He was hers, in secret, with a ring to prove it.
 
 “Of course I’m worried,” she said, and glared at him as though it were his fault, which it was. “A little. A very little. It would be odd if I weren’t.”
 
@@ -142,7 +148,7 @@ She knew she had seen it before. She went looking for where, and found it: the G
 
 “Granger,” said Lyra. “*Again*?”
 
-It was not a tender voice. It made her think, as she heard it, of the lake in January.
+It was not a tender voice.
 
 “No—no, it’s not, it’s the Society for the Promotion of Elfish Welfare,” said Potter, very fast. “House-elves. For better conditions. Hermione started it. I’m member number two.” He brightened, as if a thought had struck him. “You could be number three. It’s two Sickles to join.”
 
@@ -168,7 +174,7 @@ Potter whistled two notes of something and examined the ceiling. “What did I s
 
 He told her.
 
-Before the World Cup, he and Sirius had gone through the house Sirius had grown up in, top to bottom. Every Black in living memory had been on the Dark Lord’s side except Sirius, who had been burnt off the tapestry for it; and the Dark Lord had trusted one of his pieces to the Malfoys, so it had seemed worth asking whether he had trusted another to the Blacks. Sirius’s younger brother had been the most devoted of the lot of them. So they had followed what was left of Regulus Black, and it had led them to the Blacks’ house-elf, an old creature called Kreacher, who had not wanted to tell them anything at all, and who had to obey Sirius, because Sirius was the last of the family.
+Before the World Cup, he and Sirius had gone through the house Sirius had grown up in, top to bottom. Every Black Sirius could name had been on the Dark Lord’s side except himself, who had been burnt off the tapestry for it; and the Dark Lord had trusted one of his pieces to the Malfoys, so it had seemed worth asking whether he had trusted another to the Blacks. Sirius’s younger brother had been the most devoted of the lot of them. So they had followed what was left of Regulus Black, and it had led them to the Blacks’ house-elf, an old creature called Kreacher, who had not wanted to tell them anything at all, and who had to obey Sirius, because Sirius was the last of the family.
 
 “It wasn’t very nice,” said Potter. “Getting it out of him. Sirius isn’t—he doesn’t like that house. Or anything in it.” He rubbed the back of his neck. “Kreacher took us to a cave. On the coast, up a cliff. Dumbledore came too.”
 
@@ -176,9 +182,9 @@ He told her about the cave. He told it plainly, without dressing it up, and that
 
 Lyra stood there with her hands wrapped in her own sleeves. He was standing in front of her, whole, with his tie crooked. She knew that. Her palms were wet anyway.
 
-“Sirius wanted Kreacher to drink it,” said Potter. “I didn’t think that was right. So I was looking round, and at the edge of the rock there was—” He stopped for a second. “It was Regulus. What was left of him. He’d been there fifteen years.”
+“Sirius wanted Kreacher to drink it,” said Potter. “I didn’t think that was right. So I was looking round, and at the edge of the rock there was—” He stopped for a second. “It was Regulus. What was left of him. He’d been lying there fifteen years.”
 
-The elf had seen it and begun to howl. And Dumbledore had knelt down beside the creature, on the wet rock, and asked it questions very gently, until the whole thing came out. Regulus Black had found out what the Dark Lord had done to his own soul, and had turned against him. He had come to that cave to steal the thing and destroy it, and he had drunk the basin dry to get it, and had known when he had done it that he was not going to be able to get back across the lake. So he had given it to his elf, and ordered him to take it home and destroy it, and to tell nobody. And then the dead things in the water had come for him.
+The elf had seen it and begun to howl. And Dumbledore had knelt down beside the creature, on the wet rock, and asked it questions very gently, until the whole thing came out. Regulus Black had found out what the Dark Lord had done to his own soul, and had turned against him. He had come to that cave to steal the thing and destroy it, and he had drunk the basin dry to get it, and had known when he had done it that he was not going to be able to get back across the lake. So he had given it to his elf, and ordered him to take it home and destroy it, and to tell nobody, and to go. And Kreacher had gone, because he had been told to, and left his master lying on the rock.
 
 “Kreacher tried,” said Potter. “For fifteen years. On his own. He tried everything he could think of, and he couldn’t do it, and he never told a soul, because he’d been told not to. Dumbledore promised him we’d finish it for Regulus. And then he let him off the order.” He looked down at his hands. “It was a locket. We destroyed it. Dumbledore drank the stuff, in the end. He wouldn’t let anybody else.”
 
@@ -190,7 +196,7 @@ He looked almost proud, she thought, and almost sick, and was trying to be only 
 
 At a quarter past two on a Tuesday morning in August, a ring in Wiltshire had gone gold, and she had lain back on her pillow with the satisfied feeling of somebody who has read the last page of a book first. She had not read anything at all.
 
-Lyra found that she had nothing to say for a while. *He changed his mind about something, and it killed him.* Her mother had written that in a small upright hand, a year ago, from a hired owl, and told her to burn it. And her father had written, in a letter hidden inside a letter, *the most devoted of us all*. She had sat behind her bed-curtains with the two of them side by side and decided that one of her parents was lying, or wrong, or had not been told.
+Lyra stood with that for a while. *He changed his mind about something, and it killed him.* Her mother had written that in a small upright hand, a year ago, from a hired owl, and told her to burn it. And her father had written, in a letter hidden inside a letter, *the most devoted of us all*. She had sat behind her bed-curtains with the two of them side by side and decided that one of her parents was lying, or wrong, or had not been told.
 
 They had both been right.
 
@@ -214,13 +220,9 @@ Regulus Black had been fond of his elf, she supposed. All the same he would have
 
 “Two Sickles to join? How very small. I’ll give you two Galleons.” She unpinned the badge from his chest without asking, and it came away still faintly warm. “Don’t imagine I agree with a single one of Granger’s ridiculous ideas. This is—acknowledgement. My mother was a Black before she married. You can tell the elf that Lyra Malfoy, of the blood of the Blacks, acknowledges his service.”
 
-That was all an elf needed. It had never wanted payment; serving was the whole of what it was. But a thing done properly ought to be recognised by somebody with the right to recognise it. That much she could give.
-
 She turned the badge over in her fingers, and then put it in her pocket, next to the ring, and looked away.
 
 “And don’t wear that sort of thing.”
-
-If he was going to wear something, she would rather it was something that belonged to the two of them. Even a badge. Even that one.
 
 Potter made a noise somewhere between a laugh and a groan. “Why do you always *do* this when I can’t—”
 
@@ -230,9 +232,9 @@ Potter made a noise somewhere between a laugh and a groan. “Why do you always 
 
 She reached up and straightened his tie, since somebody had to, and brushed down the front of his robes where her forehead had creased them. Then she kept her hands there, flat against his chest, a moment longer than the robes required.
 
-“You knew,” she said. “In May. *Especially next year, if students come from other schools.* And at the World Cup. You told me to go back to my mother before anything had happened. You knew.”
+“You knew,” she said. “In May. *Especially next year, if students come from other schools.* And at the World Cup. You told me to go back to my mother before anything had happened. You knew.” She made herself ask the rest. “And tonight? Did you know about tonight?”
 
-He did not pretend not to understand her. That was something.
+He did not pretend not to understand her.
 
 “I can’t tell you that one,” he said.
 
@@ -244,7 +246,7 @@ She looked at him for a long time. He held it, and did not reach for a joke, and
 
 “Then I’ll tell you something,” said Lyra, “since we’re telling things.”
 
-She had not known she was going to say it until she heard herself begin. He had given her the cave, and the elf, and Regulus Black, just now, without meaning to and without asking anything back, and she had stood there with her hands in her sleeves and taken it; and there was a thing she had been carrying since February that had got heavier, not lighter, in a castle where there was no longer anybody it could be paid to.
+There was a thing she had been carrying since February that had got heavier, not lighter, in a castle where there was no longer anybody it could be paid to.
 
 “Lupin’s potion. The night of the full moon. Snape asked me to take it up to him.” She kept her eyes on his tie. “There was a line of prints across his desk. Little ones. Something had been in the cauldron and climbed out again. I saw them, Harry. I looked at them, and I thought, a rat’s been in it, and there wasn’t time to make more, and whoever drinks it need never know. So I wiped the bottom of the goblet on Snape’s blotter, and I took it up, and I watched him drink every drop.”
 
@@ -264,11 +266,11 @@ He did not say that it was all right. She had been afraid he would, and she woul
 
 “He’ll hate me.”
 
-“He won’t. He’s spent his whole life being forgiven for something that wasn’t his fault. He’s quite good at it the other way round.” Potter paused. “But you should write, anyway. It isn’t the sort of thing you put chocolate outside a door for.”
+“He won’t.” Potter paused. “But you should write, anyway. It isn’t the sort of thing you put chocolate outside a door for.”
 
 She opened her mouth to tell him that she had never put anything outside anybody’s door. Then she shut it again, because he had obviously been told, and because he was right.
 
-And she noticed something else. She went over it twice, standing there with her hands on his chest, to be sure. He had told her about the cave without meaning to, and she had told him about the goblet because she meant to; and nowhere, in the whole of it, had she done the sum. She had not set one against the other to see whether they came out square. She had simply given it to him.
+Standing there with her hands on his chest, she noticed that nowhere, in the whole of it, had she done the sum.
 
 She did not know what that was. She was not sure she liked not knowing.
 
@@ -288,8 +290,8 @@ She went down the marble staircase in the dark with the badge in one pocket and 
 
 Advice was not going to be enough. She knew that perfectly well. Somebody in this castle had put Potter’s name into a cup of fire, because they wanted him dead, and Dumbledore was looking for whoever it was, and so was Mad-Eye Moody, and so was Potter, from the middle of an arena with a target painted on him. None of them would find it in Slytherin. Nobody in Slytherin would tell a Gryffindor anything, or a teacher, or an Auror who had sent half their fathers to Azkaban.
 
-They might tell a Malfoy. They might tell Lucius Malfoy’s daughter almost anything, if she asked them the right way: never the question she wanted answered, always the one next to it.
+They might tell a Malfoy. They might tell Lucius Malfoy’s daughter almost anything, if she asked them the right way, and she had been brought up knowing the right way.
 
 Lyra reached the bottom of the dungeon steps and stood there for a moment, in the cold, with her hand round the ring.
 
-There was nobody else who could do it. So it would have to be her.
+Then she gave the password to the wall, and went in to begin.
