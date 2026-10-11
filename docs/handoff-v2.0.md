@@ -775,5 +775,5 @@ Las notas del crítico del 19 son 9/9/9/7/7/9/7/7 (empata con el 15 en cabeza). 
   - Moody sabe lo de la pareja desde septiembre (su ojo ve a través de capas), se lo dijo a Harry en octubre, rechaza la ayuda de Lyra («You’re Lucius Malfoy’s daughter») y sospecha que Lucius la manda o la controla.
   - Lyra apuntó a Moody por la espalda y él la convirtió en hurón; Potter, citado con Moody, la recogió.
   - Granger dedujo que el hurón era Lyra. Ron cree que Harry se presentó sin decírselo.
-  - El primer beso decidido por ella, en el hocico; «no cuenta». El de verdad queda para el 32.
+  - El primer beso decidido por ella, en el hocico; «no cuenta». El de verdad queda para el 29 (coreano 32).
 - **Siguiente:** el capítulo 28 (coreano 31: los escregutos, Weasley, el barco de Durmstrang).

@@ -12,7 +12,7 @@ Ficha cerrada el 11 de octubre de 2026 con el informe del lector. Cambios y rest
 - **Snape**, una línea: en el vestíbulo, el hurón «no está en la lista»; mira al animal un poco más de la cuenta.
 - **Granger** sigue siendo «Granger». La insignia de dos galeones sigue sin pagar.
 - **Ron:** Potter da la causa en una frase (cree que Harry se presentó sin decírselo).
-- **Final:** «That did not count.» El beso de verdad queda pendiente para el 32.
+- **Final:** «That did not count.» El beso de verdad queda pendiente para el 29 (coreano 32).
 
 ## Ficha
 
