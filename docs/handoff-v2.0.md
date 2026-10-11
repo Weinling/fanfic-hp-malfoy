@@ -761,4 +761,12 @@ Las notas del crítico del 19 son 9/9/9/7/7/9/7/7 (empata con el 15 en cabeza). 
   - Lupin dimitió y Slytherin cree que era hombre lobo (rumor de Parkinson).
   - Moody humilla a Lucius ante Lyra y su ojo ve el anillo.
   - Lyra se apartó de Potter de septiembre a Halloween.
-- **Siguiente:** el capítulo 26 (coreano 29).
+- **Capítulo 26, *Dues*** (coreano 29), escrito y criticado (`docs/notas/cap-26-critica.md`; manual `docs/capitulos/cap-26.md`). Fija:
+  - Harry es el cebo.
+  - El guardapelo de Regulus fue destruido en agosto (el dorado del anillo); Kreacher, liberado de la orden.
+  - Lyra sabe que sus padres tenían razón los dos.
+  - Lyra confesó la poción a Harry; él le dice que escriba a Lupin.
+  - Lyra compró la insignia S.P.E.W.
+  - Lyra decide espiar en Slytherin.
+  - Ron, distanciado de Harry.
+- **Siguiente:** el capítulo 27 (resto del coreano 30: Moody y el hurón).
