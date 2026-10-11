@@ -165,3 +165,59 @@ Lyra did not say anything. She did not have to. She was looking at him, and he c
 Potter whistled two notes of something and examined the ceiling. “What did I say? I said Hog’s Head, didn’t I?”
 
 “Explain,” said Lyra. “Now.”
+
+He told her.
+
+Before the World Cup, he and Sirius had gone through the house Sirius had grown up in, top to bottom. Every Black in living memory had been on the Dark Lord’s side except Sirius, who had been burnt off the tapestry for it; and the Dark Lord had trusted one of his pieces to the Malfoys, so it had seemed worth asking whether he had trusted another to the Blacks. Sirius’s younger brother had been the most devoted of the lot of them. So they had followed what was left of Regulus Black, and it had led them to the Blacks’ house-elf, an old creature called Kreacher, who had not wanted to tell them anything at all, and who had to obey Sirius, because Sirius was the last of the family.
+
+“It wasn’t very nice,” said Potter. “Getting it out of him. Sirius isn’t—he doesn’t like that house. Or anything in it.” He rubbed the back of his neck. “Kreacher took us to a cave. On the coast, up a cliff. Dumbledore came too.”
+
+He told her about the cave. He told it plainly, without dressing it up, and that was worse. A wall that would only open if you paid it in blood. A black lake inside, so still it did not look like water, with dead things lying under the surface, waiting, and a little boat that would only carry one wizard at a time. And in the middle of the lake, on an island of rock, a stone basin full of something that you had to drink, all of it, before the thing at the bottom would let itself be taken.
+
+Lyra stood there with her hands wrapped in her own sleeves. He was standing in front of her, whole, with his tie crooked. She knew that. Her palms were wet anyway.
+
+“Sirius wanted Kreacher to drink it,” said Potter. “I didn’t think that was right. So I was looking round, and at the edge of the rock there was—” He stopped for a second. “It was Regulus. What was left of him. He’d been there fifteen years.”
+
+The elf had seen it and begun to howl. And Dumbledore had knelt down beside the creature, on the wet rock, and asked it questions very gently, until the whole thing came out. Regulus Black had found out what the Dark Lord had done to his own soul, and had turned against him. He had come to that cave to steal the thing and destroy it, and he had drunk the basin dry to get it, and had known when he had done it that he was not going to be able to get back across the lake. So he had given it to his elf, and ordered him to take it home and destroy it, and to tell nobody. And then the dead things in the water had come for him.
+
+“Kreacher tried,” said Potter. “For fifteen years. On his own. He tried everything he could think of, and he couldn’t do it, and he never told a soul, because he’d been told not to. Dumbledore promised him we’d finish it for Regulus. And then he let him off the order.” He looked down at his hands. “It was a locket. We destroyed it. Dumbledore drank the stuff, in the end. He wouldn’t let anybody else.”
+
+He looked almost proud, she thought, and almost sick, and was trying to be only one of them.
+
+Lyra found that she had nothing to say for a while. *He changed his mind about something, and it killed him.* Her mother had written that in a small upright hand, a year ago, from a hired owl, and told her to burn it. And her father had written, in a letter hidden inside a letter, *the most devoted of us all*. She had sat behind her bed-curtains with the two of them side by side and decided that one of her parents was lying, or wrong, or had not been told.
+
+They had both been right.
+
+“My father wrote to me that he was the most devoted of all of them,” she said.
+
+“He was,” said Potter. “Right up until he wasn’t.”
+
+She looked at the badge, still pinned to his chest, and thought about an old elf alone in a dark house for fifteen years, trying to break a thing he had been ordered to break, and failing, and trying again, and telling nobody.
+
+“That isn’t loyalty from the heart,” she said. “That’s an order. An elf’s bound by what its master tells it. It doesn’t matter if the master’s been dead fifteen years. It would have gone on trying till it died.”
+
+“Is that what an ordinary witch would say?”
+
+“Naturally.”
+
+Regulus Black had been fond of his elf, she supposed. All the same he would have taken its obedience for granted, as everyone did, as he had taken for granted the air. That was what being a wizard meant. It did not mean that an elf who had done a thing like that should go unacknowledged.
+
+“Give me that,” said Lyra.
+
+“What?”
+
+“Two Sickles to join? How very small. I’ll give you two Galleons.” She unpinned the badge from his chest without asking, and it came away still faintly warm. “Don’t imagine I agree with a single one of Granger’s ridiculous ideas. This is—acknowledgement. My mother was a Black before she married. You can tell the elf that Lyra Malfoy, of the blood of the Blacks, acknowledges his service.”
+
+That was all an elf needed. It had never wanted payment; serving was the whole of what it was. But a thing done properly ought to be recognised by somebody with the right to recognise it. That much she could give.
+
+She turned the badge over in her fingers, and then put it in her pocket, next to the ring, and looked away.
+
+“And don’t wear that sort of thing.”
+
+If he was going to wear something, she would rather it was something that belonged to the two of them. Even a badge. Even that one.
+
+Potter made a noise somewhere between a laugh and a groan. “Why do you always *do* this when I can’t—”
+
+“Can’t what?”
+
+“Nothing. Forget it.”
