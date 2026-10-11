@@ -245,3 +245,125 @@ At Moody’s name something went across Snape’s face and was gone. He looked d
 “Then I suggest you return it to him,” said Snape, “before it bites you. They do.”
 
 He went on up the marble staircase without looking back. Potter waited until the black robes had gone round the corner. Then he let out a breath, and carried her out of the great oak doors into the cold bright afternoon.
+
+⁂
+
+He took her down to the lake, to the big beech on the bank above the water, where the ground was dry and nobody much came in November, and sat down with his back against the trunk and set her on his knee.
+
+“So,” said Potter. “You’re a ferret.”
+
+Lyra sat up on her hind legs and looked at him with all the contempt a ferret could manage, which turned out to be a surprising amount.
+
+“A very nice one,” said Potter. “I mean that. Your ears are good.” He held out one finger, and she considered biting it, and decided that she would rather save it for something that deserved it. “You went to see him on your own. Because of what he said in your lesson.”
+
+She had not told him what Moody said in her lesson. Moody must have. Or Potter had simply guessed, from the look of her, which was worse.
+
+“And then you offered to help, didn’t you,” said Potter. “Spy on Slytherin for him. Find out who put my name in.”
+
+She squeaked. It was meant to convey that he had no business knowing that either, and that she had been perfectly entitled to offer, and that she would do it anyway, with or without Mad-Eye Moody’s blessing. Potter seemed to understand at least the last part. He looked at her for a while without saying anything, and rubbed his thumb once along the top of her head, between the good ears.
+
+“Thanks,” he said.
+
+There were voices coming along the bank.
+
+Three of them, Hufflepuffs, fourth-years, with Zacharias Smith out in front. Every one of them had a large badge pinned to the front of their robes, glowing a soft red. *Support CEDRIC DIGGORY*, said the badges, *the REAL Hogwarts Champion!* As Lyra watched they flickered, and the letters rearranged themselves into something greener and much shorter. POTTER STINKS.
+
+One of the three was the boy she had once made cry over a Chocolate Frog card. She had told him, last spring, in a corridor, that he would make a natural ferret. She remembered it now with great clarity.
+
+“Oh, look,” said Smith. “All on his own. That’s a shame, Potter. Mind you, you needn’t worry. Somebody’ll come running to save you. They always do, don’t they?”
+
+Lyra had a great deal to say to that. She said all of it. Nobody heard a word.
+
+“And what’s that?” Smith leaned closer and peered at her. “Your pet? You should take it into the first task with you. It can die for you.”
+
+Potter stood up. He did it without hurrying, with Lyra tucked into his arm, and she felt him go very still and very pleasant, which was how she knew it was bad.
+
+“Does Diggory know you’re wearing those?” he said. “I bet he’s asked you not to. I bet he hates them. He’s a decent bloke, Cedric. Shame about his fans.”
+
+Smith went red. It was plainly true. One of the other two looked down at his own badge, as though he would have liked to take it off.
+
+“Does it bite?” said Smith, to cover it, and poked a finger at her.
+
+It did.
+
+Smith yelped and snatched his hand back and put the finger in his mouth, and the boy with the Chocolate Frog card made a noise that might have been a laugh, very quickly swallowed. Lyra settled back into the crook of Potter’s arm. She felt a good deal better.
+
+“Harry!”
+
+Granger was coming down the slope from the castle, fast, with her bag bumping against her hip, and Weasley behind her, not fast at all. The Hufflepuffs looked at the two of them, and at Potter, and decided they had somewhere else to be. Smith went last, nursing his finger and saying loudly that it was probably diseased.
+
+“What did they want? Were those the badges? I *told* them those were—oh!” Granger had seen her. Her whole face changed. “Oh, Harry, what a *sweet* ferret! Where on earth did you get it?”
+
+She reached out a hand to stroke her. Lyra flattened herself along Potter’s arm and slid round the back of his elbow, out of reach.
+
+“Oh. It doesn’t like me.”
+
+“It’s shy,” said Potter.
+
+Lyra had not been shy for a single minute of her life, and she looked up at him to make sure he knew it.
+
+“You shouldn’t wander about on your own just now,” Granger was saying. “Not with everybody like this. Not with those badges. You ought to stay with your friends, Harry.”
+
+Potter looked past her. Weasley had not stopped. He had gone on along the bank without them, with his hands in his pockets and his shoulders up round his ears, and was standing by himself at the edge of the water, a long way off, throwing stones in.
+
+“Tell him that,” said Potter.
+
+Granger’s face did something tired. “He thinks you put your name in and didn’t tell him. That’s all it is. He thinks you could have told *him*, at least.”
+
+“I didn’t put my name in.”
+
+“I know you didn’t. I *know*. He’ll come round.” She looked at Weasley’s back. “He always does.”
+
+Lyra could have told them a good deal about the Weasleys, and about what came of letting yourself be brought up seven to a house with nothing in it, so that you had to sulk over the one thing in your life that nobody else had wanted first. For once in her life she could not say any of it, and found, somewhat to her own surprise, that she did not much want to.
+
+“Go after him,” said Potter. “I’m all right. Honestly.” He lifted the arm with the ferret in it, a little. “I’ve got my own little haven right here.”
+
+Granger looked at the ferret. Then at Potter. Then, much more slowly, back at the ferret.
+
+“Harry,” she said. “Is that—”
+
+“Go after Ron.”
+
+She went. She looked back twice on her way down the bank, and the second time she was very nearly laughing.
+
+Potter sat down again under the beech. He lifted Lyra up in both hands until they were face to face, and then, very solemnly, touched the end of his nose to the end of hers.
+
+⁂
+
+“Sorry,” he said. “First time I take you out anywhere, and it’s this.”
+
+She looked at him. He had grass on his knees and leaves in his hair, and a finger that she had decided not to bite, and his face was very close and very unhappy about something it had not got round to saying. She put her front paws on his chest and pushed, quite hard, which was as near as she could come to telling him not to be ridiculous.
+
+It seemed to help. He smiled.
+
+“Can I kiss you?”
+
+Lyra squeaked. It was a clear and unambiguous no.
+
+“No?”
+
+She squeaked again.
+
+“Fair enough,” said Potter, and laughed, and did not let go of her.
+
+She sat on his chest and thought about it.
+
+She was a ferret. There was nobody on the bank, and nobody on the slope, and Granger was a small figure a long way off with her hand on Weasley’s arm. A ferret could not be entered in anybody’s accounts. Nothing a ferret did could possibly count, in any ledger she had ever heard of, which meant that it could not cost anything either, and that nobody, afterwards, need ever owe anybody for it.
+
+She shut her eyes and stretched out her nose.
+
+He kissed the very end of it. She felt it right down to the tip of her tail.
+
+Then she felt something else. It began at the end of her nose, where he had kissed her, and ran backwards all over her like pins and needles, as if every hair on her were standing up at once; and the bank went small around her, and the beech came down out of the sky to its proper size, and Potter said, “Oh—hang on—” and dragged at his bag, and there was a rush of something silvery and cool, and the world went dim and soft at the edges.
+
+She was sitting on the grass beside him, under the beech, under his cloak, in the middle of the grounds in broad daylight. She had leaves in her hair. Her robes were twisted round under her. Her knees were drawn up nearly to her chin, and her face was so hot she was surprised the cloak did not steam, and Potter, six inches away, was being very careful indeed not to laugh.
+
+“That,” said Lyra, “did not count.”
+
+“No?”
+
+“I was a *ferret*.”
+
+“You were a very nice ferret.”
+
+She hit him. Under an Invisibility Cloak it was difficult to aim, and she did not try especially hard.
