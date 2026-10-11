@@ -54,10 +54,10 @@ La sesión principal no puede apoyarse solo en el resumen de una compactación n
     - el handoff, **entero**;
     - **todos los manuales, enteros**;
     - el texto completo de, como mínimo, los dos capítulos anteriores al que se va a escribir;
-    - los dos capítulos coreanos siguientes, completos, junto con las fichas y guiones ya hechos.
+    - el capítulo coreano que se va a adaptar y los dos siguientes (tres en total), completos, junto con las fichas y guiones ya hechos.
   - Lo que se lee tras cada compactación se apunta en el estado de trabajo.
   - **Al empezar un arco:** la historia entera, en texto completo, no los manuales. Unas 100.000 palabras; es asumible.
-  - **Antes de cerrar cada ficha:** encargar a un lector que busque en toda la historia las referencias a lo que va a tocar el capítulo (personajes, lugares, objetos, fechas).
+  - **Antes de cerrar cada ficha:** la sesión principal busca ella misma en el texto (grep) cada nombre, objeto, lugar o «primera vez» que toque la ficha. El agente lector ya no es un paso fijo (decisión del autor, 2026-10-11): solo se usa para una pregunta concreta y larga.
 - **Nunca hay texto que solo exista en el contexto.** Cada escena se commitea al escribirla, y si se compacta a mitad de capítulo, el archivo y el estado de trabajo bastan para seguir.
 - **El coreano es fuente de trama, no de continuidad.** La continuidad la dan el manuscrito, los borradores y los manuales.
 
@@ -79,4 +79,4 @@ Sigue la skill `metodo-equipo`. Reparto inicial:
 
 Decisión del autor (2026-10-11): todas las revisiones y críticas las hace Opus, no Fable.
 
-**Reutilizar al crítico.** (El revisor ya no es un subagente: lo lleva el autor en otro chat. Cuando llegue un informe nuevo a `docs/notas/revisiones/`, la sesión principal lo lee, decide qué acepta y lo anota.) No se lanza uno nuevo por capítulo: se le pasa el siguiente capítulo al mismo agente, que ya conoce la historia y recuerda su crítica anterior y la nota que recibió. Se usan hasta que se les llene el contexto, sin cambiarlos por arco (decisión del autor, 2026-10-11). Solo entonces se empieza uno nuevo, con un resumen de las notas anteriores (en `docs/notas/`).
+**Reutilizar al crítico.** (El revisor ya no es un subagente: lo lleva el autor en otro chat. Cuando llegue un informe nuevo a `docs/notas/revisiones/`, la sesión principal lo lee, decide qué acepta y lo anota.) No se lanza uno nuevo por capítulo: se le pasa el siguiente capítulo al mismo agente, que ya conoce la historia y recuerda su crítica anterior y la nota que recibió. Se usan hasta que se les llene el contexto, sin cambiarlos por arco (decisión del autor, 2026-10-11). Solo entonces se empieza uno nuevo, con un resumen de las notas anteriores (en `docs/notas/`). El crítico nuevo lee **enteros todos los capítulos adaptados** (no resúmenes); no lee el coreano, los planes, las fichas ni los capítulos futuros. El del cuarto año se reinicia al usarlo para el 29 (decisión del autor, 2026-10-11).
