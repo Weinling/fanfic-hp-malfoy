@@ -221,3 +221,69 @@ Potter made a noise somewhere between a laugh and a groan. “Why do you always 
 “Can’t what?”
 
 “Nothing. Forget it.”
+
+She reached up and straightened his tie, since somebody had to, and brushed down the front of his robes where her forehead had creased them. Then she kept her hands there, flat against his chest, a moment longer than the robes required.
+
+“You knew,” she said. “In May. *Especially next year, if students come from other schools.* And at the World Cup. You told me to go back to my mother before anything had happened. You knew.”
+
+He did not pretend not to understand her. That was something.
+
+“I can’t tell you that one,” he said.
+
+“Can’t, or won’t?”
+
+“Can’t.”
+
+She looked at him for a long time. He held it, and did not reach for a joke, and did not touch his scar; and the worst of it was that she believed him. It would have been a great deal easier to be angry with somebody who would not.
+
+“Then I’ll tell you something,” said Lyra, “since we’re telling things.”
+
+She had not known she was going to say it until she heard herself begin. He had given her the cave, and the elf, and Regulus Black, just now, without meaning to and without asking anything back, and she had stood there with her hands in her sleeves and taken it; and there was a thing she had been carrying since February that had got heavier, not lighter, in a castle where there was no longer anybody it could be paid to.
+
+“Lupin’s potion. The night of the full moon. Snape asked me to take it up to him.” She kept her eyes on his tie. “There was a line of prints across his desk. Little ones. Something had been in the cauldron and climbed out again. I saw them, Harry. I looked at them, and I thought, a rat’s been in it, and there wasn’t time to make more, and whoever drinks it need never know. So I wiped the bottom of the goblet on Snape’s blotter, and I took it up, and I watched him drink every drop.”
+
+There was a silence in the empty classroom.
+
+“Pettigrew put the neutraliser in it,” said Potter at last. “You heard him say so. On the shore.”
+
+“I carried it.”
+
+“I know you did,” said Potter. “I watched you, from under the cloak. You came round the corner with it, and your little finger was sticking out.”
+
+She had not expected him to know that. She looked up.
+
+He did not say that it was all right. She had been afraid he would, and she would have had to hate him for it. He looked at her for a while, quite seriously, as he had looked at her once across a library table with the lamp between them, and he did not make it smaller than it was.
+
+“You should write to him,” he said. “Lupin. Tell him. He’d rather know.”
+
+“He’ll hate me.”
+
+“He won’t. He’s spent his whole life being forgiven for something that wasn’t his fault. He’s quite good at it the other way round.” Potter paused. “But you should write, anyway. It isn’t the sort of thing you put chocolate outside a door for.”
+
+She opened her mouth to tell him that she had never put anything outside anybody’s door. Then she shut it again, because he had obviously been told, and because he was right.
+
+And she noticed something else. She went over it twice, standing there with her hands on his chest, to be sure. He had told her about the cave without meaning to, and she had told him about the goblet because she meant to; and nowhere, in the whole of it, had she done the sum. She had not set one against the other to see whether they came out square. She had simply given it to him.
+
+She did not know what that was. She was not sure she liked not knowing.
+
+“I should go,” said Lyra, and took her hands away. “Crabbe will have the whole common room out looking for a scarf I wasn’t wearing.”
+
+“Me too. Ron’ll—” He stopped, and something went across his face and was put away. “Somebody’ll want to know what happened.”
+
+She went to the door, and unlocked it with her own wand, and looked out into the corridor. It was empty. She slipped half through the gap, and stopped.
+
+“Potter. Don’t try too hard in this Tournament. If it goes badly, give up.”
+
+“What an original pep talk,” said Potter. “I’ll bear it in mind.”
+
+⁂
+
+She went down the marble staircase in the dark with the badge in one pocket and the ring in the other.
+
+Advice was not going to be enough. She knew that perfectly well. Somebody in this castle had put Potter’s name into a cup of fire, because they wanted him dead, and Dumbledore was looking for whoever it was, and so was Mad-Eye Moody, and so was Potter, from the middle of an arena with a target painted on him. None of them would find it in Slytherin. Nobody in Slytherin would tell a Gryffindor anything, or a teacher, or an Auror who had sent half their fathers to Azkaban.
+
+They might tell a Malfoy. They might tell Lucius Malfoy’s daughter almost anything, if she asked them the right way: never the question she wanted answered, always the one next to it.
+
+Lyra reached the bottom of the dungeon steps and stood there for a moment, in the cold, with her hand round the ring.
+
+There was nobody else who could do it. So it would have to be her.
