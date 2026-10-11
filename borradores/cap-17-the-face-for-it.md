@@ -298,7 +298,7 @@ They passed almost underneath her and never looked up.
 
 They went on. She had actually turned towards the dungeon stairs when she saw where they were going.
 
-The east corridor went one way only, past two disused classrooms, to the girls’ lavatory at the end—not the haunted one upstairs; the other one, on the first floor—that nobody had used since a troll smashed it to pieces in first year.
+The east corridor went one way only, past two disused classrooms, to the girls’ lavatory at the end—not the haunted one upstairs; the other one, down here—that nobody had used since a troll smashed it to pieces in first year.
 
 She followed them.
 

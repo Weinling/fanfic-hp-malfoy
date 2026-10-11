@@ -20,11 +20,11 @@ That sounded brilliant too.
 
 ⁂
 
+At Hallowe’en, he and Ron, with a lot of luck and a bit of Hermione, knocked out a mountain troll that had got into a girls’ lavatory. After that they were famous in Gryffindor Tower, and the name that had followed him about since the Leaky Cauldron—*the Boy Who Lived*—began to follow him round the corridors as well.
+
 In his first match his broom went mad underneath him for a few minutes, bucking and rolling as if it wanted him off, and he hung on to it by one hand, fifty feet up, with the whole school watching. Then it stopped, as suddenly as it had started, and he went after the Snitch and caught it, more or less in his mouth.
 
 Gryffindor had beaten Slytherin. The rest of the school had been on the edge of their seats the whole time he was dangling, and they cheered him all the way back to the castle. Only the Slytherins were sour about it.
-
-Not long afterwards, he and Ron, with a lot of luck and a bit of Hermione, knocked out a mountain troll that had got into the girls’ lavatory on the first floor. After that they were famous in Gryffindor Tower, and the name that had followed him about since the Leaky Cauldron—*the Boy Who Lived*—began to follow him round the corridors as well.
 
 Lyra Malfoy did not like it at all.
 
@@ -114,7 +114,7 @@ She had not had one word to say back. She had turned and fled, and the fact of h
 
 That was the trouble. The name was a thing you did not say. And Lyra, and Crabbe, and Goyle had parents who had been on the Dark Lord’s side, in the old days, before he fell; to the three of them the name was harder still. They had grown up with a fear of it that was nearly a kind of reverence, and when Harry Potter said it as easily as *pass the salt*, it was like a slap.
 
-He was gone; they could not borrow his name to frighten anybody with. But they could not say it themselves, either, the way Potter did. Something in them pulled back from it, every time.
+The Dark Lord was gone; they could not borrow his name to frighten anybody with. But they could not say it themselves, either, the way Potter did. Something in them pulled back from it, every time.
 
 It was a curse you could not block. A thing only a child who knew nothing could do.
 
@@ -134,7 +134,7 @@ And there was nothing much in Gryffindor apart from Potter. A half-wit like Long
 
 “Poor little blood-traitor Weasley. Know-it-all Granger. And Longbottom, who can’t remember his own name. There’s plenty to go round. We’ll show them what happens when they make us angry.”
 
-“Oh, yes!” Goyle clapped her hands. “They’re all useless! That’s brilliant, Malfoy!”
+“Oh, yes!” Goyle bounced on her toes. “They’re all useless! That’s brilliant, Malfoy!”
 
 Lyra’s nose went up a little. She waited for more applause, and found, at the moment it ought to have come, that Crabbe was standing there with a blank look on her face.
 
@@ -184,7 +184,7 @@ She had played chess against herself. She had had her bath, and gone to bed earl
 
 Nobody knew this. Nobody would ever know it. She had thought, *What if they don’t come back tomorrow either*, and she had very nearly cried after all. Like a Malfoy, she had held it in.
 
-They had come home just before dawn, as it turned out, with an armful of sweets from Honeydukes, all for her; and she had let the sweets carry off the whole of that bad day, and had not thought about it since.
+They had come home just before dawn, as it turned out, with a box of sugared violets from her mother’s confectioner, all for her. Her mother had not taken off her travelling cloak, and her father’s wand hand was bandaged, and nobody mentioned either. Lyra let the violets carry off the whole of that bad day, and had not thought about it since.
 
 *But what if*—
 
