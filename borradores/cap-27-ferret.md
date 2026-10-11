@@ -6,7 +6,7 @@ It was a school owl, brown and bored, the kind that carried half the castle’s 
 
 She put it in her bag, unopened, and finished her breakfast. Goyle was explaining to the table how a dragon might be got into a school, for the first task, if it were very small, or asleep. Crabbe was watching the bag.
 
-She had written to him ten days ago, on the first of November, on plain parchment with no crest. She had given it to a school owl with no address on it at all, because owls did not need one, and had spent the next week rather hoping it would get lost. It had taken her four drafts. The first had been three pages long. The fourth had said what had happened, in the order it had happened, and finished: *I do not expect this to settle anything. I thought you should know who carried it.*
+She had written to him nine days ago, on the first of November, on plain parchment with no crest. She had given it to a school owl with no address on it at all, because owls did not need one, and had spent the next week rather hoping it would get lost. It had taken her four drafts. The first had been three pages long. The fourth had said what had happened, in the order it had happened, and finished: *I do not expect this to settle anything. I thought you should know who carried it.*
 
 She opened his in History of Magic, under the desk, while Professor Binns told the back row about the goblin rebellion of 1612 in a voice like a door that would never quite finish closing.
 
@@ -192,7 +192,7 @@ Somewhere far above her, Mad-Eye Moody said, “Hah,” with deep satisfaction.
 
 The door opened.
 
-“Professor Moody? You said after lunch, about the—”
+“Professor Moody? I know you said after lunch, but—”
 
 It was Potter. From down here he was mostly shoes: a pair of scuffed black school shoes, one lace undone, and a great deal of trouser going up into the gloom. The shoes had stopped just inside the door.
 
@@ -242,7 +242,7 @@ At Moody’s name Snape’s mouth went thin. He looked down at the ferret. The f
 
 “Then I suggest you return it to him,” said Snape, “before it bites you. They do.”
 
-He went on up the marble staircase without looking back. Potter waited until the black robes had gone round the corner. Then he let out a breath, and carried her out of the great oak doors into the cold bright afternoon.
+He went on up the marble staircase without looking back. Potter waited until the black robes had gone round the corner. Then he let out a breath, and carried her out of the great oak doors into the cold, bright middle of the day.
 
 ⁂
 
