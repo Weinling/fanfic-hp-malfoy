@@ -1,5 +1,7 @@
 # Year One, Part 1: The Remembrall
 
+It was a few minutes past nine.
+
 “So you’re going out with her,” said Ron. “At last. I’m amazed. Truly. Knock me down with a feather.”
 
 He did not look up from his Chocolate Frog cards. Harry, sitting on the end of his own bed with the hangings half drawn, put on his most serious face.
@@ -70,13 +72,11 @@ There was one thing Harry found out in his first few weeks at Hogwarts, and it w
 
 “Stupid Gryffindors,” she said, in the corridor outside Charms, to nobody in particular and everybody in earshot. “Always first in, without the faintest idea what they’re doing. Why do people insist on calling stupidity bravery? It only gets more people killed. Oh—unless that’s the point. Tidying the useless ones away first, to clean up the world.”
 
-“Chattering Ravenclaws,” she said, in the library. “All those almonds you eat for your brains, and your heads have gone as hollow as the shells. When you roll your eyes like that I can hear them rattling. Being clever is the only thing you’ve got to be proud of, and you aren’t even top in anything.”
-
 “Poor slow Hufflepuffs,” she said, to a table of them in the Great Hall. “I can’t even be cross with you. Even the Hat could see you were the leftovers. But you might get out of my sight before I notice you, mightn’t you? Surely even you can manage that much.”
 
 To put it less kindly, she was horrible. She said things that went into people and stayed there, and when anything annoyed her she simply got out her wand.
 
-She had a face like an angel and a temper like the other place. She was proud and overbearing and absolutely certain that she was better than everybody else. The worst of it was that she seemed to be right. She and the other children from old wizarding families had grown up knowing things that the rest of them had never heard of, and they did well in lessons because of it; and they knew a few curses that the school would never have taught them, which meant that ordinary first-years did not dare stand up to Malfoy and her friends.
+She had a face like a painted doll and a temper like the other place. She was proud and overbearing and absolutely certain that she was better than everybody else. The worst of it was that she seemed to be right. She and the other children from old wizarding families had grown up knowing things that the rest of them had never heard of, and they did well in lessons because of it; and they knew a few curses that the school would never have taught them, which meant that ordinary first-years did not dare stand up to Malfoy and her friends.
 
 *She’s worse than Dudley*, Harry thought, and was startled by it. He had not imagined there was anybody worse than Dudley in the world. Least of all one of the first people in that world who had ever told him she liked him.
 
@@ -86,9 +86,9 @@ She had a face like an angel and a temper like the other place. She was proud an
 
 Hermione said it as if it were Harry’s fault, and he found that it felt like it. It was a horrible thing, not being able to stick up for somebody you liked.
 
-Had the Hat known? Was that why it had kept him out of Slytherin?
-
 “Do you know what she said, when I turned Trevor back to his proper colour? She said she didn’t like the look of him, so what was wrong with changing him? As if she can just change anything she doesn’t like! How can anybody be so *selfish?*”
+
+Had the Hat known? Was that why it had kept him out of Slytherin?
 
 If she didn’t like something, she changed it.
 
@@ -96,7 +96,7 @@ Harry sat very still over his porridge.
 
 Why had he never thought of that?
 
-He still liked Lyra Malfoy. But lately, more and more, she frightened him a little, and if things went on like this he thought he might end up disliking her even more than Dudley. And he did not want to dislike her. When she kept her mouth shut she looked like a doll; when she smiled, like an angel. She was generous to people she approved of, and gave them things. Meeting her had made him stand up straight. It was only when she laughed while she was hurting somebody that she reminded him of Dudley, and however soppy he was about her, he could not make that all right.
+He still liked Lyra Malfoy. But if things went on like this he thought he might end up disliking her even more than Dudley, and he did not want to dislike her. She was generous to people she approved of, and gave them things. Meeting her had made him stand up straight. It was only when she laughed while she was hurting somebody that she reminded him of Dudley, and however soppy he was about her, he could not make that all right.
 
 So.
 
@@ -160,7 +160,7 @@ A few people laughed. The laughing stopped when he picked up his broom.
 
 “*No!*” said Hermione Granger. “Madam Hooch told us not to move—you’ll get us all into trouble—”
 
-“Sorry, everyone,” said Harry, grinning at them all. “Get told off for me!”
+“Sorry, everyone,” said Harry, grinning at them all. “Tell Hooch it was me!”
 
 There was a cheer behind him as he kicked off, and then he was rising, and the air was rushing through his hair and pulling at his robes, and in a few seconds he was face to face with Malfoy.
 
@@ -182,13 +182,13 @@ He only did it to reassure her. He had no idea, then, that flying with no hands 
 
 Even Malfoy shut her mouth.
 
-“Stop messing about,” said Harry. “It isn’t noble, or dignified, or anything. Don’t make yourself any sillier. Come down.”
+“Stop messing about,” said Harry. “It isn’t dignified or anything. Come down.”
 
 “Don’t you *lecture* me—!”
 
 She wheeled her broom round. Harry was in front of her before she had finished turning, still with his hands off.
 
-He could see it make her furious. He had been brought up by Muggles and had never touched a broom in his life, he said, and here he was flying circles round Lyra Malfoy with his hands in his lap.
+He could see it make her furious. He had been brought up by Muggles and had never touched a broom in his life, or so he claimed, and here he was flying circles round Lyra Malfoy with his hands in his lap.
 
 She drew back her arm to throw the glass ball as far as she could.
 
@@ -218,9 +218,7 @@ The ground was coming up very fast, and he did not care in the least. There was 
 
 Even Malfoy could not help it, falling. She flailed with her arms and legs, and forgot that she had just been fighting him, and reached out her hand to Harry Potter.
 
-Harry laughed out loud. However vile she was, however spiteful, she was only a kid, the same as him. There was no need to be frightened of her. There was no need to hate her.
-
-She had changed Harry Potter. Harry Potter could change her back.
+Harry laughed out loud. She was only a kid, the same as him.
 
 “*Grab it!*”
 
@@ -232,7 +230,7 @@ He heard her gasp. There was no time to feel anything else. He hit the ground on
 
 “Let—let *go!*”
 
-Malfoy was struggling against his chest. She must be all right, then. Harry felt all the strength go out of him at once, and let go.
+Malfoy was struggling against his chest. She must be all right, then. Harry’s arms gave up, and he let go.
 
 She scrambled up, shaking, and rounded on him.
 
@@ -240,7 +238,7 @@ She scrambled up, shaking, and rounded on him.
 
 But even Malfoy had to stop. Harry Potter was lying on the grass, scraped and bleeding in half a dozen places, as though a troll had sat on him.
 
-All the grandeur had gone out of her. She looked down at him with a white, frightened face.
+She looked down at him with a white face, and for once she was not grand at all.
 
 “Potter? Are you—all right?”
 
@@ -268,7 +266,7 @@ But he did not let it show in front of Malfoy. Crying because it hurt would not 
 
 He smiled instead. The corners of his mouth were twitching, but a smile was a smile.
 
-Malfoy looked him up and down, rather frightened, and her mouth opened slowly.
+Malfoy looked him up and down, and her mouth opened slowly.
 
 “Th…”
 
@@ -290,27 +288,29 @@ She had not said thank you. But he had heard it, quite clearly, in everything el
 
 She kept glancing at his cuts while she shouted at him. She had folded her arms, but her fingers would not keep still on her sleeves. Her mouth kept almost saying something and not saying it. She was frightened of the blood. And her hair was all over the place, and her robes were twisted round, and she had not noticed; she only stood there stamping her feet and glaring at him.
 
-Harry changed his mind about her.
-
-Perhaps the trouble was not that she said too exactly what she meant. Perhaps it was that she never did.
-
 “What are you *laughing* at?”
 
-“I think I had you a bit wrong.”
+“You.”
 
 He lifted an arm. He must have hurt his side as well, because even that made him wince, and Malfoy flinched with him.
 
 Her mouth was not honest at all. The rest of her was hopeless at lying.
 
+However vile she was, there was no need to be frightened of her, or to hate her. She had changed Harry Potter, once, on a stool in a robe shop. Harry Potter could change her in return.
+
 Harry tried not to laugh again, because it hurt, and pointed at the grass.
 
 “No. You should say sorry to Neville. You’ve broken his Remembrall.”
 
-Malfoy looked round. The glass ball he had thrown away was lying in pieces in the grass.
+Malfoy looked round. The glass ball was lying in pieces in the grass.
+
+“*You* threw it!”
+
+“You dropped it first.”
 
 “Is *that* what matters right now?”
 
-“What else? My cuts? Wow—are you worried about me?”
+“What else? My cuts? Hang on—are you worried about me?”
 
 “Don’t be *ridiculous!* I can’t stand looking at you in that state, that’s all! Go away! Go somewhere!”
 
@@ -334,7 +334,7 @@ Harry looked across the Hall at Malfoy and grinned. Malfoy turned her head away 
 
 By the end of the week the whole school knew that Harry Potter had been made the youngest House Seeker in a century, for catching a Remembrall in a fifty-foot dive. That was the story that went round, and it was a good story, and everybody told it.
 
-Nobody told the other part. The Slytherins did not want to, and the Gryffindors, after a few days, had Quidditch to talk about instead. And Malfoy, Harry noticed, never once mentioned it, and stared anybody who did into silence, until by Christmas it might as well never have happened.
+Nobody told the other part. The Slytherins did not want to. Harry asked Ron and Hermione not to, and Ron, who could not see why, told Seamus not to either, and somehow that held. And Malfoy, Harry noticed, never once mentioned it, and stared anybody who did into silence, until by the summer it might as well never have happened.
 
 He did go on flying with no hands, though. He found out quite soon that it annoyed her.
 
