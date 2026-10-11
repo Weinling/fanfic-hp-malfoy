@@ -156,7 +156,7 @@ Moody looked at her for some time with both eyes.
 
 “Because you’re Lucius Malfoy’s daughter.” He said it quite calmly, as though it were her date of birth. “I don’t tell you what I’m doing. I don’t tell you what Potter’s doing. And I don’t take anything you bring me, because I don’t know who gave it to you to bring.”
 
-Lyra had stood outside a wall like this once before, in a shack, in the dark, with Potter in front of her and his arm out to keep her back. She knew the shape of it. It was not the same wall. Potter had put her behind his to keep her safe. This one had been put up to keep her out, and the man on the other side of it was watching her through a hole.
+Lyra had stood outside a wall like this once before, in a shack, in the dark, with her pride on the floor and Potter refusing to tell her anything for her own good. She knew the shape of it. It was not the same wall. Potter had built his to keep her safe, and had hated doing it. This one had been put up to keep her out, and the man on the other side of it was watching her through a hole.
 
 “My father has nothing to do with it.”
 
@@ -188,4 +188,4 @@ The room had become enormous. That was the first thing. The desks went up and up
 
 She made a sound. It was not any sound she had ever made before.
 
-Somewhere far above her, Mad-Eye Moody gave a short bark that might have been a laugh.
+Somewhere far above her, Mad-Eye Moody said, “Hah,” with deep satisfaction.
