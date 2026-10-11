@@ -667,3 +667,55 @@ Las notas del crítico del 19 son 9/9/9/7/7/9/7/7 (empata con el 15 en cabeza). 
 - La pregunta de Crabbe (el 7).
 - «Tomorrow I’ll tell you everything», que se paga en el 21.
 - La culpa con Lupin.
+
+## 14. Estado tras el capítulo 23 (cierre del arco del tercer año)
+
+**Escritos, sin publicar**, en `borradores/`; críticas en `docs/notas/`:
+
+| Capítulo | Título | Coreano | Palabras |
+|---|---|---|---|
+| 21 | *Coincidence* | 20 + primera mitad del 21 | ~4.900 |
+| 22 | *A Professional Relationship* | resto del 21 + 22 | ~4.500 |
+| 23 | *Nine o’Clock* | 23 | ~3.850 |
+
+**Ranking del crítico:** 15 ≈ 19 > 22 ≈ 21 ≈ 12 ≈ 16 ≈ 7 ≈ 9 > 18 ≈ 17 ≈ 20 ≈ 23 > 13…
+
+**Punto de la historia.** Sábado 21 de mayo de 1994: Gryffindor gana la Copa, 370–160. Lyra y Potter quedan como **pareja en secreto**: anillos de Zonko’s y el ritual de las nueve.
+
+**Quién sabe qué**
+- **Lyra:**
+  - Conoce el giratiempo.
+  - Ha visto desde fuera el beso y la cara de Potter: no era culpa, era una risa aguantada.
+  - Sabe que su poción le costó a Lupin la transformación. No se lo ha contado a Harry.
+  - Sabe que Dumbledore no deja a Harry contárselo todo.
+  - Oyó «next year, if students come from other schools» y lo aparcó.
+- **Harry** oyó la mentira de Lyra a Snape («I caught Sirius Black») desde la capa.
+- **Dumbledore** dedujo el giratiempo y la mentira.
+- **Snape** sabe que Lyra estaba en la orilla con el hipogrifo. No dice nada y la observa.
+- **Lucius** le avisa entre líneas («already have stepped back»). Es probable que Snape le haya escrito.
+- **Crabbe** dio el anillo a Potter («If you want to make it up with her, wear this») y se considera Cupido.
+
+**Libro de cuentas**
+- **Lupin.** Lyra le dejó chocolate negro sin nota y él dio las gracias al aire. «A receipt, not a payment.» La deuda sigue abierta.
+- **Snape.** Lyra le mintió en la cara. La cuenta está abierta y él vigila.
+- **Lucius.** La Saeta de Fuego es cariño y correa a la vez.
+- **Diggory** queda en paz: «That’s from Lyra.»
+- **Harry y Lyra.** El secreto es simétrico: él no puede contárselo todo y ella tampoco se lo ha contado todo.
+
+**Fichas**
+- Los anillos y las nueve.
+- El pañuelo: Lyra lo lavó y lo guarda con el anillo. No se lo devolvió.
+- La Saeta de Fuego.
+- Los zorros plateados, de los dos.
+
+**Hilos pendientes**
+- Narcissa.
+- La pluma de azúcar.
+- La pregunta de Crabbe (el 7).
+- La confesión de la poción a Harry.
+- Pettigrew: no se sabe qué ha sido de él públicamente.
+- El juramento de Dumbledore y Sirius, que va a levantarse.
+- La pista del Torneo.
+- El origen de lo que sabe Harry: el coreano 25 apunta a recuerdos de Voldemort por la cicatriz.
+
+**Siguiente:** el extra *Year One* (coreanos 18, 24 y 25), de Harry en primero, con once años. Después, el cuarto año, cuando lleguen los coreanos.

@@ -6,7 +6,17 @@ Nobody said so in the *Daily Prophet*.
 
 The Ministry of Magic did not care to admit that it had kept the wrong man in Azkaban for twelve years. Whatever the reason, whatever oath or charm or tangle of old magic lay behind the mistake, it would hardly be improved by the news that the Ministry had then spent most of a year failing to catch him. So the Ministry said nothing at all. Instead, the Dementors were quietly withdrawn from the gates of Hogwarts, and the Aurors who had been searching for Sirius Black were called back to London, and the search for him was, in the Ministry’s own phrase, suspended pending review. A few sharp people noticed that Albus Dumbledore had been up to town twice in the same week. Most people did not notice anything.
 
+Whatever had become of Peter Pettigrew, the *Prophet* did not say.
+
 Professor Lupin missed a week of lessons after the full moon. Lyra took the long way round to Charms, so as not to pass his door.
+
+On the Monday he came back, she was up before anybody else, and went the short way after all. She left a bar of dark chocolate outside his office door: Honeydukes’ best, in gold paper. She did not leave a note. She had never liked dark chocolate; it tasted of medicine. It was the only thing she could think of that he would understand and nobody else would.
+
+In Defence that afternoon he looked grey and tired and kind, and did not look at her once. Only at the end, while they were packing up, he said to the room in general, quite mildly, “Thank you,” and went on stacking his books.
+
+It paid nothing. She knew that. It was a receipt, not a payment.
+
+In Potions, Snape did not say *Faultless*. He did not say anything to her at all, that week or the next. Now and then she caught him looking at her across the dungeon, as though she were a sum he had nearly finished checking.
 
 The Malfoys had a great many friends at the Ministry, and heard sooner than most. Lyra’s father wrote to her the same day.
 
@@ -20,11 +30,13 @@ The Malfoys had a great many friends at the Ministry, and heard sooner than most
 
 *Your loving father*
 
+Her father had never in his life told her where to stand unless somebody had first told him where she had been standing. *A clever girl like you will already have stepped back.* Lyra thought of Snape on the shore, with his fingers at his chin, looking at the feathers on her robes. Then she read the part about the present again, and decided to be pleased about that instead.
+
 The present came by six owls, and it was a broom.
 
 It was a Firebolt. The international standard; the broom the Irish national side had ordered, every one of them, for the World Cup. Nought to a hundred and fifty miles an hour in ten seconds, an unbreakable braking charm, and a price you had to write and ask for, because they did not print it. Even for a Malfoy it was not a small thing. Her father had bought the whole team Nimbus Two Thousand and Ones only last year; this one broom must have cost more than all of them together.
 
-He had seen her at Christmas, then, moping about the house, and put it down to Cedric Diggory.
+He had seen her moping about the house at Christmas, heard about Hufflepuff in January, and put the two together.
 
 *It was Harry Potter and Sirius Black,* thought Lyra, turning the handle in the light. *And that’s all been settled since.*
 
@@ -40,7 +52,7 @@ The Slytherins came first, one after another, as though they were being pulled o
 
 Panther Parkinson snatched his hand back and went on gazing at it.
 
-“We’ll walk Ravenclaw with this,” he said dreamily. “Chang’s only on a Comet Two-Sixty.”
+“We’ll walk Ravenclaw with this,” he said dreamily. “Chang’s on a *Comet*.”
 
 “Lyra. Can I touch it?”
 
@@ -48,7 +60,7 @@ Ordinarily she would not have dreamed of it. But it was a particularly good morn
 
 “Wipe your hands first! All of you! And don’t knock it! You—you’ve just had your hand in the gravy, don’t you *dare* come near it with that—”
 
-Every time somebody sighed over the Firebolt, Lyra’s shoulders went up a little further.
+Every time somebody sighed over the Firebolt, Lyra grew a little taller.
 
 A broom did not make a flyer. But a broom like this would let a flyer show every last thing she could do. Somebody would say, no doubt, that the Malfoys had bought her a place at the top; and Lyra would laugh in their face. Money was a kind of talent as well, and she had it.
 
@@ -72,13 +84,11 @@ She liked nothing better than showing an enemy what she had. Flint knew that, an
 
 Naturally he was impressed. Anybody would be, seeing a Firebolt for the first time; you showed a work of art its due respect, rival or no rival.
 
-Lyra was, at that moment, the most confident person in the Great Hall. She tipped her head back.
+Lyra was, at that moment, the most confident person in the Great Hall.
 
 “What a shame I didn’t have it when we played. I’d have flattened you, and you wouldn’t even have had the weather to blame.”
 
 “I always thought your Nimbus was a bit ordinary for you,” said Potter. “Everybody’s got one. But this—” He nodded at it. “This is about right.”
-
-Even Harry Potter admitted it. Well, he was a Quidditch player; he could hardly help being envious.
 
 So many pleasant things had happened lately that Lyra was quite carried away. She gave him her most generous smile.
 
@@ -94,7 +104,7 @@ Before he sat down at the Gryffindor table, though, he turned round, and smiled 
 
 *Every time I smile, I’ll think of you.*
 
-Lyra knew exactly what he was thinking about. She could feel her face trying to do something and would not let it.
+She could feel her face trying to do something and would not let it.
 
 “You’re the one who’ll need to practise,” she called back, “if you don’t want to look silly next to this broom.”
 
@@ -118,7 +128,7 @@ In fact Slytherin very nearly lost it. Ravenclaw had come with a plan, and pract
 
 Lyra had been waiting for her team to make up the points. She stopped waiting.
 
-Ravenclaw had one weakness, and everybody knew it. They had climbed to the top of the table by drilling and by clever plays, but the Seeker, the one position that mattered most, was their weakest. Cho Chang was a fourth-year on a Comet Two-Sixty, and she had not caught the Snitch once all season. Lyra went past her on the Firebolt as though she were standing still, and took the Snitch out of the air under the Ravenclaw hoops.
+Ravenclaw had one weakness, and everybody knew it. They had a reputation for drilling and clever plays, but the Seeker, the one position that mattered most, was their weakest. Cho Chang was a fourth-year on an old broom, and she had not caught the Snitch once all season. Lyra went past her on the Firebolt as though she were standing still, and took the Snitch out of the air under the Ravenclaw hoops.
 
 Afterwards Chang sat on the grass with her face in her knees and cried, and some of the Ravenclaws stood round patting her shoulders, without much conviction.
 
@@ -126,7 +136,7 @@ It was hard on her, really. Chang was not a bad Seeker, for a fourth-year on a C
 
 “It was only that it was me,” said Lyra, to nobody in particular.
 
-The score was nothing to boast about. But a team, as far as Lyra was concerned, was mostly there to set her off to advantage, and she had snatched the match back out of the fire on her own. She came down off the Firebolt into a roar of green and silver with her shoulders right up round her ears, and did not let it show, much.
+The score was nothing to boast about. But a team, as far as Lyra was concerned, was mostly there to set her off to advantage, and she had snatched the match back out of the fire on her own. She came down off the Firebolt into a roar of green and silver, and did not let it show, much.
 
 She thought that, just then, she could have cast a Patronus without anybody holding her hand.
 
@@ -178,7 +188,7 @@ Afterwards they said it was the best match anybody could remember, and the stran
 
 Hufflepuff had only one way to win, and everyone knew it: Diggory had to catch the Snitch. So the Hufflepuff Beaters stayed with Diggory to protect him, and nobody much was minding the Quaffle. And Potter, who was a very good Seeker, turned out to be a fair Chaser and a fair Beater and a fair Keeper as well. He never touched the Quaffle himself. But he went into the middle of the Hufflepuff side and opened holes in it, and once, when it suited him, he got in the way of a pass with his chest and pretended it had been an accident.
 
-By the time Diggory changed tactics, Gryffindor were nearly a hundred and fifty up. After that it was a brawl, all over the sky, for another hour; and then the gap reached a hundred and sixty, and Potter, as if he had been waiting for exactly that number, went straight up through the middle of everything and caught the Snitch.
+By the time Diggory changed tactics, Gryffindor were nearly a hundred and fifty up. After that it was a brawl, all over the sky, for another hour; and Hufflepuff clawed it back to sixty, and Potter, as if he had been waiting for exactly that number, went straight up through the middle of everything and caught the Snitch.
 
 “*GRYFFINDOR WIN THE CUP!* Three hundred and seventy to a hundred and sixty! *Gryffindor win the Cup!*”
 
@@ -204,7 +214,7 @@ Potter held out his hand. Diggory took it, and began to pull himself up—
 
 Diggory sat down hard on the grass.
 
-It was a dreadful insult to the losing side, or it would have been, if it had not been so completely childish. People stood about with their mouths open. Lyra, coming down the steps of the stand, was close enough to hear what Potter said, bending down to him.
+It was a dreadful insult to the losing side, or it would have been, if it had not been so completely childish. People stood about with their mouths open. Goyle, who had been hanging over the barrier, told her afterwards what Potter had said, bending down to him.
 
 “That’s from Lyra. What were you doing with your hand on her arm?”
 
@@ -234,7 +244,7 @@ Lyra stopped dead.
 
 As a matter of plain fact, it was true. There had never been anything said between them that you could have called binding. If somebody asked whether they were going out, the honest answer was nearer *no* than *yes*.
 
-And yet she felt wronged, and oddly winded, as though somebody had shut a door in her face. It was the feeling of a person who has been let down by a hope, and has no one to blame for the hope but herself. Nobody had made her any promises. Nobody had put anything into words, or made any sort of contract.
+And yet she felt wronged, and oddly winded, as though somebody had shut a door in her face. Nobody had made her any promises. Nobody had put anything into words, or made any sort of contract.
 
 But there had been the forest. There had been the brooms, and *only in front of me*. There had been a silver fox on the shingle, made out of the two of them. Was that not plainer than anything anybody could say?
 
@@ -264,7 +274,7 @@ She did not look at him. He was breathing hard.
 
 “I’m doing something a bit dangerous. You know roughly what. It’s to do with stopping him coming back.”
 
-The *everything* Dumbledore had talked about. The thing so large that Dementors and an escape from Azkaban were only an incident in it. Harry Potter was in the middle of something that might change the world, and Lyra knew it, and had respected it enough to walk away from Dumbledore without asking.
+The *everything* Dumbledore had talked about. The thing so large that Dementors and an escape from Azkaban were only an incident in it. Harry Potter was in the middle of something that might change the world, and Lyra knew it, and had respected it enough to walk away from Dumbledore without asking. She had an everything of her own, the size of a rat’s footprint.
 
 “So?”
 
@@ -272,11 +282,11 @@ The *everything* Dumbledore had talked about. The thing so large that Dementors 
 
 Other schools? Lyra filed that away to be wondered about later; she had better things to do with it just now. Because it was the same thing again. *It’s dangerous, so I’ll keep you at a distance.* A coward’s excuse, dressed up as caring about you, to push you away.
 
-Something in her went quite cold. She was sick of this. Lyra Malfoy was not a girl who got turned down. She would sooner die than be put aside the same way twice. She drew breath to tell Harry Potter precisely what she thought of a boy who believed he could move her about like a piece on a board—
+She was sick of this. Lyra Malfoy was not a girl who got turned down. She would sooner die than be put aside the same way twice. She drew breath to tell Harry Potter precisely what she thought of a boy who believed he could move her about like furniture—
 
 And a small ring swallowed it all.
 
-“But every night at nine o’clock,” said Potter, and held up his hand, with the other ring on it, “I’m going to put this on and smile. I’ll keep my hand under the blankets and keep looking at it. I don’t think I’ll be able to help smiling, even if I try.”
+“But every night at nine o’clock,” said Potter, and held up his hand, with the other ring on it, “I’m going to put this on and smile. I’ll lie there after lights out and keep looking at it. I don’t think I’ll be able to help smiling, even if I try.”
 
 In the silence he took her hand. The ring opened its mouth, very carefully, and closed over the fourth finger of her left hand, and shrank to fit.
 
