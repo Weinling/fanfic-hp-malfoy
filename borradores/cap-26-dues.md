@@ -48,10 +48,30 @@ Dumbledore did not shout often. The Hall went quiet as if somebody had put a lid
 
 “Harry,” said Dumbledore, quite gently. “When the Goblet gives up a name, that champion is bound by a magical contract. Whatever the rights and wrongs of it, you must come with me now. Through here, please.”
 
-Potter sighed, and got up at last, and ran a hand through his hair, which made it worse. He waved to the Gryffindor table on his way, and only the Weasley twins waved back. Granger was white and anxious. Weasley was not looking at him at all; his face had gone stiff and closed, like a door with somebody holding it shut from the other side.
+Potter sighed, and got up at last, and ran a hand through his hair, which made it worse. He waved to the Gryffindor table on his way, and only the Weasley twins waved back. Granger was white and anxious. Weasley was not looking at him at all. His ears were red, and he was staring at his empty plate as though it had said something.
 
 Potter went through the door behind the staff table, and Professor McGonagall rose before the Hall could start up again.
 
 “Champions’ business will be announced in due course! Everybody else, *bed*!”
 
 Lyra got up with the rest of Slytherin. She went down the dungeon steps with Crabbe on one side and Goyle on the other and Parkinson behind them, explaining to everybody that Potter had obviously bribed somebody, and she said nothing to any of them.
+
+⁂
+
+Halfway down the dungeon steps, the ring in her pocket began to flash.
+
+She felt it before she knew what it was: a pulse against her fingers, on, off, on, warm and then cool and then warm again. The other ring was looking for her. It had done this twice in October, and both times she had taken her hand out of her pocket and gone the other way, because she had sat on a window seat in August with a green ring shut in a drawer and decided that there were things she was no longer going to ask Potter, since he would only not answer them.
+
+“Lyra?” Crabbe had stopped two steps below. “Coming?”
+
+“I’ve left my scarf in the Hall,” said Lyra. “Go on. I’ll catch you up.”
+
+She was not wearing a scarf. Crabbe looked at her neck, and then at her face, and then went on down the stairs without a word, taking Goyle and Parkinson with her, which was the most Crabbe thing she could possibly have done.
+
+Lyra went back up. At the top of the steps she turned slowly on the spot, with her hand closed round the ring in her pocket, the way she had turned on the castle steps in February, and when she faced the marble staircase it grew warm.
+
+She followed it. Up the marble staircase, and along the first-floor corridor, past the portraits settling down for the night, until it was so warm against her palm that it was almost hot; and there was a classroom door standing an inch ajar that had certainly been shut when she passed it that morning.
+
+She went in. The door closed behind her of its own accord, and a voice from the air beside her said, “*Colloportus*,” and then, “Hello.”
+
+“Take that thing off,” said Lyra. “I want to see your face.”
