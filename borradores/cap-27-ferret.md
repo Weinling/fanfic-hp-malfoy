@@ -189,3 +189,59 @@ The room had become enormous. That was the first thing. The desks went up and up
 She made a sound. It was not any sound she had ever made before.
 
 Somewhere far above her, Mad-Eye Moody said, “Hah,” with deep satisfaction.
+
+⁂
+
+The door opened.
+
+“Professor Moody? You said after lunch, about the—”
+
+It was Potter. From down here he was mostly shoes: a pair of scuffed black school shoes, one lace undone, and a great deal of trouser going up into the gloom. The shoes had stopped just inside the door.
+
+Lyra knew what she looked like. She had seen her own paws. She was small, and white, and furred, and she had a tail, and the last small furred animal Potter had had anything to do with had spent twelve years asleep on Weasley’s bed and then sold his parents to the Dark Lord. If she went near him he might very well kick her across the room, and nobody could blame him.
+
+She ran at his feet anyway. There was nowhere else in the whole enormous room she wanted to be.
+
+He did not kick her. He bent down and picked her up, quite without hesitating, with one hand round her middle, so that her back legs dangled and her front ones stuck out in front of her like a pair of tongs. She had never been so undignified in her life. She told him so, at the top of her voice. It came out as a long, furious squeak.
+
+“Sorry,” said Potter. “Sorry—hang on.” He shifted his grip, and tucked her into the crook of his arm against his chest, with her back legs supported and her head up under his chin, and held her there firmly, the way you might carry something that mattered. Then he looked past her at the floor.
+
+Her wand was lying there, where it had fallen. He had seen that wand pointed at him a great many times. He looked at it, and at Moody, and at her, and she felt him work it out through his chest.
+
+“Is this—”
+
+“Your girl pointed her wand at my back,” said Moody. He had gone back to the cupboard. “So now she’s a ferret. Wears off inside the hour. Do her good.”
+
+“That’s a bit much, sir.” Potter bent, carefully, without letting go of her, and picked the wand up and put it in his own pocket. “She’s fourteen.”
+
+“And her father’s Lucius Malfoy. I told her, and I’ll tell you.” The magical eye swivelled round to fix on Potter. “Careful, Potter. Don’t trust anybody with a great deal to lose. That sort’ll put a knife in your back the minute it’s turned.”
+
+Potter considered this. Lyra could feel him considering it, a slow rise and fall under her paws.
+
+“If Lyra wants to make holes in me,” he said, “I can spare a couple.”
+
+Moody looked at him for a moment, with both eyes. Then he snorted.
+
+“And sir,” said Potter. “I know Dumbledore told you to leave Professor Snape alone. I still think you’d do better watching him than her.”
+
+“The one who looks harmless,” said Moody, “is the one you watch. Never mind the ones who look like trouble. I don’t change my methods for Dumbledore, or Snape, or you.” He jerked his head at the door. “Tomorrow, Potter, same time. Go on. Take your ferret.”
+
+Potter took his ferret.
+
+The last time he had carried her anywhere, he had run with her under a cloak, blind, and stumbled on the stairs, and caught himself on the wall with his shoulder rather than let go. This time he walked. Down the corridor, and down the marble staircase, one hand cupped round her back and the other under her, as though he had all afternoon. Lyra lay along his forearm and could hear his heart going, much too fast for a boy who was only walking.
+
+In the Entrance Hall a tall black shape came up the dungeon steps and stopped.
+
+“Potter.”
+
+“Professor.”
+
+“The list of animals permitted at this school,” said Snape, “is an owl, a cat or a toad. I do not recall a ferret.”
+
+“It’s on loan, sir. From Professor Moody.”
+
+At Moody’s name something went across Snape’s face and was gone. He looked down at the ferret. The ferret looked back at him. It went on a little longer than Lyra liked. She had been looked at by Professor Snape for three years, and she knew this look; it was the one he gave a potion that had come out the right colour for what he suspected were the wrong reasons.
+
+“Then I suggest you return it to him,” said Snape, “before it bites you. They do.”
+
+He went on up the marble staircase without looking back. Potter waited until the black robes had gone round the corner. Then he let out a breath, and carried her out of the great oak doors into the cold bright afternoon.
