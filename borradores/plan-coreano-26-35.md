@@ -12,7 +12,7 @@
 | 26 | 29 | La noche del 31: «retírate»; el cebo; «si te haces daño, te mato»; la insignia de la P.E.D.D.O.; se le escapa el verano (la cueva, Regulus, Kreacher). Lyra paga la poción | Lyra |
 | 27 | Resto del 30 | Lyra va a pedir cuentas a Moody: sabe lo suyo y sospecha de ella. El hurón. Potter se la lleva en brazos; los de Hufflepuff y sus chapas; un beso de hurón, casto | Lyra |
 | 28 | 31 | Los escregutos; Lyra le canta las cuarenta a Weasley («She thinks that’s a secret?»); el barco de Durmstrang: Karkaroff, el hijo de Crouch, Krum | Lyra |
-| 29 | 32 | Interludio de Harry: la reconciliación con Ron y Hermione, los Horrocruxes contados, Skeeter, los celos de Krum y el domingo: los dragones | Harry **(avisar)** |
+| 29 | 32 | Desde Lyra (decisión del autor; era interludio de Harry): la reconciliación con Ron y Hermione, los Horrocruxes contados, Skeeter, los celos de Krum y el domingo: los dragones | Lyra |
 | 30 | 33 | La primera prueba: Lyra en la tienda bajo la capa; la pluma de azúcar; la Saeta de Fuego de Potter | Lyra |
 | 31 | 34 | Las parejas del Baile; Skeeter y el «triángulo»; Lyra anuncia a Krum; Potter sospecha de Moody | Lyra, con coda de Harry **(avisar)** |
 | 32 | 35 | El Baile: Krum con Granger, el plan de Potter; la herida en el brazo; «no voy a pedirte perdón»; la declaración pública | Lyra |
