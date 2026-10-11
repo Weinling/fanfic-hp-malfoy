@@ -20,7 +20,7 @@ She opened his in History of Magic, under the desk, while Professor Binns told t
 
 *You will have heard by now why I left. It is true, and the decision was mine. Nobody was bitten, and that was luck, and I do not care to rely on luck where children are concerned. I did not leave because of you. Please do not add that to anything.*
 
-*I had the chocolate, by the way. I wondered.*
+*I had the chocolate, by the way, in case you wondered.*
 
 *You need not write again. I should like it if you did.*
 
@@ -32,9 +32,7 @@ She opened his in History of Magic, under the desk, while Professor Binns told t
 
 Lyra read it twice. Binns had reached 1613.
 
-She had sent that letter as a payment. She had known exactly what it was when she gave it to the owl: the last and largest instalment on a debt that had been sitting in her chest since February, and the most expensive thing she had ever had to write down. She had expected, at best, a receipt. At worst, nothing at all, which would have been fair.
-
-Instead he had looked at what she owed him, and agreed with her about every penny of it, and then written underneath, in the same mild handwriting, that the account was still running the other way.
+He had looked at what she owed him, and agreed with her about every penny of it, and then written underneath, in the same mild handwriting, that the account was still running the other way.
 
 You could not settle with a man who insisted on owing you. It was the most underhand thing anybody had ever done to her, and she sat in the back of History of Magic with the letter flat under her hand, and found that her eyes had gone hot, and that she could not have said, if Binns had asked her, what century it was.
 
@@ -42,7 +40,7 @@ Crabbe, beside her, did not look round. She turned to a clean page and began, wi
 
 ⁂
 
-Professor Moody had pushed the desks back against the walls. That was the first thing anybody saw, coming into Defence that afternoon: a bare stretch of floor in the middle of the room, and Moody standing at the far end of it with his wand out, and the magical eye going round and round like a thing looking for a way out.
+Professor Moody had pushed the desks back against the walls. That was the first thing anybody saw, coming into Defence that morning, the last lesson before lunch: a bare stretch of floor in the middle of the room, and Moody standing at the far end of it with his wand out, and the magical eye going round and round like a thing looking for a way out.
 
 “Imperius Curse,” he said, when they were all inside and the door had shut itself. “I told you what it does. Now I’m going to show you what it feels like.”
 
@@ -52,7 +50,7 @@ Parkinson laughed, and then stopped, because nobody else had.
 
 Parkinson came out, a little less pleased with himself, into the middle of the floor. Moody raised his wand. “*Imperio*.”
 
-A slow, stupid peacefulness spread over Parkinson’s face, as if somebody had wiped it clean. Then he crouched down, and put his hands on the floor between his feet, and began to hop across the room like a frog: four great solemn hops, with his cheeks puffed out, until he hit the wall.
+A slow, stupid peacefulness spread over Parkinson’s face. Then he crouched down, and put his hands on the floor between his feet, and began to hop across the room like a frog: four great solemn hops, with his cheeks puffed out, until he hit the wall.
 
 Nobody laughed this time. Moody lifted the curse, and Parkinson came back to himself crouched against the skirting board, and looked up at them, and went the colour of a beetroot.
 
@@ -62,7 +60,7 @@ Crabbe sang. She was put under, and stood in the middle of the floor with her ha
 
 Nobody laughed.
 
-Goyle did a handstand and could not get down from it. Moody went down the line with his wand out and his face like a chewed boot, and told each of them, as they came out of it, exactly how far gone they had been: “Didn’t even twitch. Next.” “You felt it, didn’t you, for half a second there? Didn’t do anything about it. Next.”
+Goyle did a handstand and could not get down from it.
 
 “Malfoy.”
 
@@ -100,7 +98,7 @@ The magical eye had stopped going round. It was looking at her, and so was the o
 
 “Strong,” said Moody. “That’s very strong, for fourteen. Most grown wizards can’t do that, first time.” He tilted his head. “Who taught you that, Miss Malfoy? Your father? He’d know how it’s done. From the other end.”
 
-There was a silence in the room that she could feel on the back of her neck.
+The room had gone very quiet.
 
 “Nobody taught me, sir,” said Lyra.
 
@@ -110,7 +108,7 @@ She went back to her place. Crabbe moved up to make room for her, and did not lo
 
 ⁂
 
-She sent Crabbe and Goyle on to the Great Hall without her. Crabbe looked at the classroom door, and then at Lyra, and went without arguing, towing Goyle by the sleeve.
+When the bell went for lunch, she sent Crabbe and Goyle on to the Great Hall without her. Crabbe looked at the classroom door, and then at Lyra, and went without arguing, towing Goyle by the sleeve.
 
 Moody was putting the desks back. He did it with his wand, without turning round, so that they slid in from the walls one after another and settled into their rows with small wooden knocks, like an orchestra sitting down.
 
@@ -122,7 +120,7 @@ Lyra shut the door behind her.
 
 “Thought you lot liked that. Snape’s always on about who your families are, I hear.” The desks went on knocking into place. “No? All right. What else?”
 
-She had prepared for this on the way down the corridor, and she gave it to him exactly as prepared. She had a perfect right, she said, as a Slytherin and a member of her House team, to ask what was being done about the Tournament. A fourth-year had been entered in it, by cheating, when the rest of them were not allowed so much as to try; and since he was the fourth-year in question, and they all knew what he was like—
+She had a perfect right, she said, as a Slytherin, to ask what was being done about a fourth-year who had cheated his way into the Tournament, when they all knew what he was like—
 
 “Oh, give over,” said Moody.
 
@@ -156,15 +154,15 @@ Moody looked at her for some time with both eyes.
 
 “Because you’re Lucius Malfoy’s daughter.” He said it quite calmly, as though it were her date of birth. “I don’t tell you what I’m doing. I don’t tell you what Potter’s doing. And I don’t take anything you bring me, because I don’t know who gave it to you to bring.”
 
-Lyra had stood outside a wall like this once before, in a shack, in the dark, with her pride on the floor and Potter refusing to tell her anything for her own good. She knew the shape of it. It was not the same wall. Potter had built his to keep her safe, and had hated doing it. This one had been put up to keep her out, and the man on the other side of it was watching her through a hole.
+Lyra had stood outside a wall like this once before, in a shack, in the dark, with her pride on the floor and Potter refusing to tell her anything for her own good. She knew the shape of it. It was not the same wall, and the man on the other side of this one was watching her through a hole.
 
 “My father has nothing to do with it.”
 
-“Your father,” said Moody, “did a very beautiful Imperius. I told you. We never did find the people he’d been working, not all of them. Some of them are walking about to this day and don’t know it.” The magical eye rolled down and up again. “And here’s his girl, come out of nowhere into Harry Potter’s pocket, the year somebody wants Harry Potter dead. You see how it looks.”
+“Your father,” said Moody, “had people on strings once, and some of them are walking about to this day and don’t know it.” The magical eye rolled down and up again. “And here’s his girl, come out of nowhere into Harry Potter’s pocket, the year somebody wants Harry Potter dead. You see how it looks.”
 
 “That has nothing to do with—”
 
-“Maybe he asked you to,” said Moody. “Nicely. Daddy’s little helper. Maybe he didn’t ask. Maybe he put it on you, and you don’t know.” He leaned forward. “You threw mine off very prettily this afternoon. Very prettily indeed, for his daughter. I keep asking myself where a girl learns that.”
+“Maybe he asked you to,” said Moody. “Nicely. Daddy’s little helper. Maybe he didn’t ask. Maybe he put it on you, and you don’t know.” He leaned forward. “You threw mine off very prettily just now. Very prettily indeed, for his daughter. I keep asking myself where a girl learns that.”
 
 Her hands had gone cold. She could feel them, the way you can feel a draught.
 
@@ -220,7 +218,7 @@ Potter considered this. Lyra could feel him considering it, a slow rise and fall
 
 “If Lyra wants to make holes in me,” he said, “I can spare a couple.”
 
-Moody looked at him for a moment, with both eyes. Then he snorted.
+Moody looked at him for a moment. Then he snorted.
 
 “And sir,” said Potter. “I know Dumbledore told you to leave Professor Snape alone. I still think you’d do better watching him than her.”
 
@@ -228,7 +226,7 @@ Moody looked at him for a moment, with both eyes. Then he snorted.
 
 Potter took his ferret.
 
-The last time he had carried her anywhere, he had run with her under a cloak, blind, and stumbled on the stairs, and caught himself on the wall with his shoulder rather than let go. This time he walked. Down the corridor, and down the marble staircase, one hand cupped round her back and the other under her, as though he had all afternoon. Lyra lay along his forearm and could hear his heart going, much too fast for a boy who was only walking.
+The day of the hippogriff he had run with her under a cloak, blind, and stumbled on the stairs, and caught himself on the wall with his shoulder rather than let go. This time he walked. Down the corridor, and down the marble staircase, one hand cupped round her back and the other under her, as though he had all afternoon. Lyra lay along his forearm and could hear his heart going, much too fast for a boy who was only walking.
 
 In the Entrance Hall a tall black shape came up the dungeon steps and stopped.
 
@@ -240,7 +238,7 @@ In the Entrance Hall a tall black shape came up the dungeon steps and stopped.
 
 “It’s on loan, sir. From Professor Moody.”
 
-At Moody’s name something went across Snape’s face and was gone. He looked down at the ferret. The ferret looked back at him. It went on a little longer than Lyra liked. She had been looked at by Professor Snape for three years, and she knew this look; it was the one he gave a potion that had come out the right colour for what he suspected were the wrong reasons.
+At Moody’s name Snape’s mouth went thin. He looked down at the ferret. The ferret looked back at him. It went on a little longer than Lyra liked. She had been looked at by Professor Snape for three years, and she knew this look; it was the one he gave a potion that had come out the right colour for what he suspected were the wrong reasons.
 
 “Then I suggest you return it to him,” said Snape, “before it bites you. They do.”
 
@@ -262,7 +260,9 @@ She had not told him what Moody said in her lesson. Moody must have. Or Potter h
 
 She squeaked. It was meant to convey that he had no business knowing that either, and that she had been perfectly entitled to offer, and that she would do it anyway, with or without Mad-Eye Moody’s blessing. Potter seemed to understand at least the last part. He looked at her for a while without saying anything, and rubbed his thumb once along the top of her head, between the good ears.
 
-“Thanks,” he said.
+“Thanks,” he said. Then, after a moment: “He knows about us. You’ll have worked that out. He’s known since the first week of term. He told me in October.” He rubbed the back of his neck. “I’d have told you. You weren’t answering.”
+
+That was perfectly fair, and she disliked it extremely.
 
 There were voices coming along the bank.
 
@@ -302,13 +302,13 @@ She reached out a hand to stroke her. Lyra flattened herself along Potter’s ar
 
 Lyra had never been shy for a single minute, and she looked up at him to make sure he knew it.
 
-“You shouldn’t wander about on your own just now,” Granger was saying. “Not with everybody like this. Not with those badges. You ought to stay with your friends, Harry.”
+“You shouldn’t be on your own, Harry,” Granger was saying. “Not with those badges about. You ought to stay with your friends.”
 
 Potter looked past her. Weasley had not stopped. He had gone on along the bank without them, with his hands in his pockets and his shoulders up round his ears, and was standing by himself at the edge of the water, a long way off, throwing stones in.
 
 “Tell him that,” said Potter.
 
-Granger’s face did something tired. “He thinks you put your name in and didn’t tell him. That’s all it is. He thinks you could have told *him*, at least.”
+Granger sighed. “He thinks you put your name in and didn’t tell him. That’s all it is. He thinks you could have told *him*, at least.”
 
 “I didn’t put my name in.”
 
@@ -316,7 +316,7 @@ Granger’s face did something tired. “He thinks you put your name in and didn
 
 Lyra could have told them a good deal about the Weasleys, and what came of growing up seven to a house with nothing in it that somebody else had not had first. She could not say any of it, and found, somewhat to her surprise, that she did not much want to.
 
-“Go after him,” said Potter. “I’m all right. Honestly.” He lifted the arm with the ferret in it, a little. “I’ve got my own little haven right here.”
+“Go after him,” said Potter. “I’m all right. Honestly.” He lifted the arm with the ferret in it, a little. “I’m not on my own. I’ve got her.”
 
 Granger looked at the ferret. Then at Potter. Then, much more slowly, back at the ferret.
 
@@ -332,7 +332,7 @@ Potter sat down again under the beech. He lifted Lyra up in both hands until the
 
 “Sorry,” he said. “First time I take you out anywhere, and it’s this.”
 
-She looked at him. He had grass on his knees and leaves in his hair, and a finger that she had decided not to bite, and his face was very close and very unhappy about something it had not got round to saying. She put her front paws on his chest and pushed, quite hard, which was as near as she could come to telling him not to be ridiculous.
+She looked at him. He had grass on his knees and leaves in his hair, and a finger that she had decided not to bite, and his face was very close and still unhappy about Moody. She put her front paws on his chest and pushed, quite hard, which was as near as she could come to telling him not to be ridiculous.
 
 It seemed to help. He smiled.
 
@@ -342,7 +342,7 @@ Lyra squeaked. It was a clear and unambiguous no.
 
 “No?”
 
-She squeaked again.
+She showed him her teeth.
 
 “Fair enough,” said Potter, and laughed, and did not let go of her.
 
