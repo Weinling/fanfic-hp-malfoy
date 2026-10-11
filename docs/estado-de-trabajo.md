@@ -6,15 +6,9 @@
 
 ## Ahora mismo
 
-- **Capítulo en curso:** *Year One*, parte 4, *Two Words* (coreano 26), en `borradores/extra-year-one-4-two-words.md`. Escrito entero (unas 4.750 palabras) y commiteado. Ficha en `borradores/extra-year-one-4-ficha-guion.md`.
-- **En marcha:** el crítico del cuarto año lo está criticando. Al volver la crítica: aplicar, escribir la nota en `docs/notas/extra-year-one-4-critica.md`, el manual `docs/capitulos/extra-year-one-4.md` y una línea en el handoff.
-- **Hecho hoy:**
-  - Coreanos 26 a 35 guardados.
-  - Resumen por escenas en `borradores/resumen-coreano-26-35.md`.
-  - Lectura completa de la historia.
-  - Plan del arco en `borradores/plan-coreano-26-35.md`, con decisiones marcadas (avisar).
-  - Crítico nuevo con su arranque. Su lectura inicial cazó cinco fallos de continuidad en los borradores 16 a 23, ya corregidos (anotados en `docs/notas/cap-23-critica.md`).
-- **Lo siguiente:** el capítulo 24 (coreano 27, la Copa Mundial), con su ficha y un lector antes de cerrarla.
+- **Capítulo en curso:** el 24 (coreano 27, la Copa Mundial). Ficha en borrador en `borradores/cap-24-ficha-guion.md`. Un lector está buscando las referencias; al volver, cerrar la ficha y escribir escena a escena en `borradores/cap-24-replay.md`.
+- **Cerrado hoy:** *Year One*, parte 4 (coreano 26), escrito, criticado y revisado, con manual (`docs/capitulos/extra-year-one-4.md`), nota (`docs/notas/extra-year-one-4-critica.md`) y handoff §15.
+- **También hoy:** coreanos 26 a 35 guardados; resumen (`borradores/resumen-coreano-26-35.md`); lectura completa; plan del arco (`borradores/plan-coreano-26-35.md`); crítico nuevo; cinco fallos de continuidad corregidos en los borradores 16 a 23.
 
 ## Texto que solo existe en contexto
 
