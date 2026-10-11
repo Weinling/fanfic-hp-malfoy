@@ -2,13 +2,13 @@
 
 The ring went gold at a quarter past two on a Tuesday morning, and Lyra, who had certainly not been lying awake, sat up to look at it.
 
-She had drawn the hangings round her bed at midnight, as she did every night that summer, and put it on in the dark, where nobody could see. It was not a thing she did for any particular reason. The slip of instructions from Zonko’s, which she had long ago learned by heart without meaning to, listed more colours than any reasonable person could want, and in July she had found out that most of them were real. Purple, *on guard*. Gold, *success; something accomplished*. Green, *safe*. Red she had not seen since February, and did not intend to see again.
+She drew the hangings round her bed at nine o’clock every night that summer and put it on in the dark, where nobody could see. It was not a thing she did for any particular reason, and certainly not because somebody had asked her to, under a cloister, in May. The slip of instructions from Zonko’s, which she had long ago learned by heart without meaning to, listed more colours than any reasonable person could want, and in July she had found out that most of them were real. Purple, *on guard*. Gold, *success; something accomplished*. Green, *safe*. Red she had not seen since February, and did not intend to see again.
 
 It had been gold for about a minute. Then it went green, and stayed green, and Lyra lay back down on her pillow with the satisfied feeling of somebody who has read the last page of a book first.
 
 She had no idea what Potter did with his holidays. She was not, in the least, curious. It was simply that a boy whose ring went purple at four in the morning and gold at a quarter past two was plainly not spending the summer weeding his aunt’s garden, and it was very rude of him not to say what he *was* doing, considering that she had not asked.
 
-He wrote, sometimes. Not often; an owl going too often to the Manor would be noticed, and anything that came to her by the family owl went by way of her father’s study window first. Potter’s letters came by birds she had never seen before, a different one every time, and they were signed *D. Dursley*, which was so ugly a name that it could only belong to a real person. They said very little. They told her it was hot. They told her to look after herself. Once, at the bottom, there was a line she read twice and then put inside the cover of a book she did not intend to lend to anybody.
+He wrote, sometimes. Not often; an owl coming too often to the Manor would be noticed, and anything she sent by the family owl went by way of her father’s study window first. Potter’s letters came by birds she had never seen before, a different one every time, and they were signed *D. Dursley*, which was so ugly a name that it could only belong to a real person. They said very little. They told her it was hot. They told her to look after herself. Once, at the bottom, there was a line she read twice and then put inside the cover of a book she did not intend to lend to anybody.
 
 “He’s telling *me* to be careful,” said Lyra, to the canopy of her bed. The ring, at that moment, was purple.
 
@@ -94,7 +94,7 @@ Draco, who had decided that this was a deliberate insult to anybody who would no
 
 Lyra hardly heard any of it.
 
-*Especially next year. If students come from other schools.* Potter had said it to her under a cloister in May, out of breath, with a ring in his hand, and she had been too angry at the time to ask what on earth he meant by it. She had put it away to be wondered about later. Now the Minister for Magic was winking at her about something special at Hogwarts that he mustn’t say, and he was the Minister, and it was his business to know. Potter was fourteen, and it was not.
+*Especially next year. If students come from other schools.* Potter had said it to her at the end of term, out of breath, with a ring in his hand, and she had been too angry at the time to ask what on earth he meant by it. She had put it away to be wondered about later. Now the Minister for Magic was winking at her about something special at Hogwarts that he mustn’t say, and he was the Minister, and it was his business to know. Potter was fourteen, and it was not.
 
 She had no time to go on with that, because they had reached the top box.
 
@@ -112,7 +112,7 @@ Mr Weasley and her father greeted each other with the expressions of two men who
 
 He nodded to her. It was a perfectly civil nod, the kind one gave to somebody from school whose name one could just about remember, and then he turned back to the pitch.
 
-That was what they had agreed. Not in front of people. Not anywhere anybody could see. Lyra had told him under the cloister in May exactly what she thought of the arrangement, and then walked off with his ring on her finger, which came to the same thing as agreeing. It was quite sensible, and she would have been extremely annoyed if he had done anything else.
+That was what they had agreed. Not in front of people. Not anywhere anybody could see. Lyra had told him at the time exactly what she thought of the arrangement, and then walked off with his ring on her finger, which came to the same thing as agreeing. It was quite sensible, and she would have been extremely annoyed if he had done anything else.
 
 She turned her head away sharply and went and sat down.
 
@@ -169,3 +169,145 @@ After a moment he took them away from his face and handed them back, with an ext
 He went off down the row to Granger. Potter scratched the back of his neck and said nothing at all.
 
 Lyra had no idea what any of that was about. She put it down to Weasley.
+
+⁂
+
+Her father did not come back to the tent with them.
+
+He saw them inside, the three of them, with its four rooms and its chandelier and Pobble’s supper laid out on a table that had certainly never been near a field before, and then he put on his travelling cloak, which was not the cloak he had worn to the match.
+
+“Stay in the campsite,” he said. “All of you. I have some old friends to see.” He kissed Narcissa’s cheek, and Lyra’s forehead, and ruffled Draco’s hair, and went out, and the tent flap fell shut behind him.
+
+Her mother looked at the flap for a moment after it had stopped moving. Then she turned back to the table and asked Draco whether he wanted the chicken or the salmon.
+
+Draco wanted to talk. He wanted to talk about Krum, and the Wronski Feint, and the Irish Chasers, and Krum again, and he was so full of the match that it seemed to be leaking out of him at the edges; and since Lyra was the only other person in the tent who had ever been on a broom, it was mostly leaking at her. She answered the first twenty questions. She answered the next twenty in fewer words. By the fiftieth she was answering in single syllables, and Draco, who had found some inexhaustible new supply of breath, did not appear to have noticed.
+
+“He sounds,” said her mother, “like a mandrake that has just been pulled up. Go out and get some air, darling. I’ll see to him.”
+
+“Thank you, Mother. I was beginning to think somebody ought to put a sock in him.”
+
+“Don’t go far. We may be leaving early.”
+
+Outside, this end of the campsite was keeping up appearances. It was where the Ministry put people who mattered, and while there were fireworks going up over the far fields and somebody a long way off was singing the Irish anthem very badly, here the tents had striped awnings and the celebrating was being done with dignity. An old wizard in a velvet hat was explaining the match to two people who had also seen it. Some witches in a great deal of jewellery were drinking mead and shrieking, but witches like that shrieked everywhere.
+
+Lyra walked a little way along the path between the tents, out of the light from her own, and took the ring out of her pocket, and put it on.
+
+It went pink.
+
+*In the company of their sweetheart.*
+
+Lyra looked at it. It went on being pink. She looked up at the fireworks, and then back down at the ring, and it was still pink, and her mood, which had been improving, stopped improving.
+
+So that was where Potter had got to. With his sweetheart. Somewhere in this campsite, while Lyra stood here in the dark holding a ring she had put on for no particular reason, Potter was with somebody, and the ring had the effrontery to tell her so. One of the veela, presumably. They had been very much his sort of thing, to judge by the omnioculars.
+
+It had done this once before, she remembered. In February, on the night of the full moon, it had gone red and then pink and then red again, back and forth, as if it could not decide, and she had not understood why until afterwards: that there had been two of Potter that night, one lying on the shore, and one in the castle, in the same moment, under a cloak, standing beside—
+
+Lyra stopped walking.
+
+Pink. *In the company of.*
+
+“Harry?” she said, to the air.
+
+“Long time,” said the air, very close to her ear, and something cool and silvery fell over her head and shoulders, and the world went on exactly as it had been, except that now there was Potter standing in it, an inch away, grinning.
+
+It was very peculiar. A minute ago she had had a great deal to say to him, all of it sharp. Now that he was actually there she found that the sharp things had gone somewhere and what was left was a ridiculous urge to walk forward into him, forehead first, and stay there. Her pride caught it just in time. Lyra Malfoy did not do that sort of thing, and she was certainly not going to be the first to do it. She folded her arms.
+
+“Idiot. You took your time.”
+
+“Sorry. Did I keep you waiting?”
+
+“How did you even find my tent?”
+
+“Followed you under this. I couldn’t exactly come in, so I’ve been out here.” He considered. “For a bit.”
+
+It occurred to Lyra that the one who had been kept waiting was not, strictly speaking, her.
+
+“Draco,” she said, “is a great deal of work. It took some time to get away.”
+
+“Your brother? He’s loud, isn’t he.”
+
+“He hasn’t stopped since the Snitch.”
+
+Potter’s arm came round her shoulders. She knocked it away with the back of her hand.
+
+She was very glad to see him. That was neither here nor there. There was a matter to be settled first, and she had not forgotten, for one second, a boy at a rail with his omnioculars glued to his face, smiling.
+
+“You enjoyed the World Cup very much, I thought.”
+
+“It was all right,” said Potter cautiously.
+
+“You couldn’t take your eyes off the veela. Were they really so very wonderful?”
+
+“The what?”
+
+“Don’t pretend. The Bulgarian mascots. The *magical creatures* with the silver hair who make men stupid.” She leaned on *magical creatures* as hard as it would go.
+
+Potter looked honestly baffled. “I don’t know much about magical creatures,” he said. “I know one with platinum hair who makes men stupid, though. What a coincidence. She’s standing right here.”
+
+“Do you really imagine you can get out of it like that?”
+
+And then she saw them, hanging from his wrist by their strap: the omnioculars. With replay.
+
+She had them off him before he could move. She held them up and found the dial and turned it back, and back, to the beginning of the match.
+
+“I will not be lied to,” she informed him, with her eye to the lenses. “If you think you can talk your way round me with a lot of pretty—”
+
+She stopped.
+
+Only one setting had been on all afternoon. It was the one that followed a single player round the pitch, whatever happened, and kept them in the middle of the picture.
+
+It had not been following a player.
+
+There was Lyra Malfoy with her arms folded, glaring at the back of somebody’s head. There was Lyra Malfoy cuffing her little brother round the ear, and sighing, and smoothing her robes. There was Lyra Malfoy leaning forward when the match began, with her lips parted and her eyes very bright, and Lyra Malfoy half out of her seat when Krum did the Feint, and Lyra Malfoy with her fist clenched on the rail as Krum caught the Snitch. Two hours of it. Every second.
+
+They had been made for watching Quidditch at the World Cup, the greatest match of the age, with half the wizarding world in the stands. He had watched her.
+
+The heat started at her collar and went all the way up. Potter, who had obviously been waiting for exactly this, grinned.
+
+“Accusing people without any evidence,” he said. “That’s not very fair, Malfoy. There are laws about that, you know. False accusation.”
+
+This time, when his arm came round her shoulders, she did not knock it away. She did not seem to have anything left to knock it away with. She was too busy being in the wrong.
+
+“I don’t think I can let that go,” said Potter, low, drawing her in. “I think I’m owed something.”
+
+She found that she was standing inside his arms.
+
+“You—you did that on purpose. You let me think—you were *setting me up*—”
+
+“Me? Lyra Malfoy, playing into my hands from the start? That’s a bit far-fetched, isn’t it?”
+
+She did not believe a word of it. It made no difference whatever. He had sat through the World Cup final and not watched it. He had watched her instead, for two hours, and she was embarrassed about that and so pleased about it that she could not tell the two apart, and she had not seen him since May.
+
+“I’m still a bit hurt, though,” said Potter. “Being suspected like that.”
+
+His hand came up, slowly. She shut her eyes and turned her face away, which was as far as she could manage.
+
+“Lyra?” Her mother’s voice, from the door of the tent. “Your father’s sent word, we— Now where has she got to?”
+
+Lyra’s eyes flew open.
+
+“Shame,” murmured Potter.
+
+She was out of his arms in an instant, smoothing her robes, putting her hair back. Under a cloak, of course, but even so. *Here*, of all places, a few yards from her mother.
+
+“Too many people,” said Potter, in the voice of somebody who had been given a reasonable answer and did not care for it. “All right.” He put his hand on her hair, very briefly, and leaned in, and kissed her forehead.
+
+Then the cloak slid off her shoulders and he was gone inside it, a ripple in the dark between two tents.
+
+“See you at school,” said the ripple.
+
+Lyra stood on the path, perfectly visible, with her face burning and the ring on her finger shining pink.
+
+She put her hand in her pocket just as her mother came round the corner of the tent.
+
+Her mother stopped. She looked at Lyra’s face for some time in the light from the awning. Then her eyes went down, to the pocket, and stayed there a moment longer, and came back up.
+
+“There you are,” said Narcissa Malfoy. “We’re going home. Your father will follow.”
+
+⁂
+
+They went back by the Ministry fireplace, the three of them, with Draco protesting all the way that it was not fair and nobody else was going to bed.
+
+Lyra was the last into the grate. As she stepped in, with the Floo powder in her hand, she heard the noise from the far fields change. There was still shouting, but it was not singing any more, and it was not cheering, and somewhere under it a great many people had begun to run.
+
+Her mother did not look round.
