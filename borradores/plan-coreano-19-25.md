@@ -51,3 +51,25 @@
 
 - El abrazo bajo la capa, escondidos del hombre lobo: es miedo, no romance. Se escribe así.
 - Lo que se adapta del 21: la capa lavada «porque olía a Sirius» sustituye cualquier comentario sobre el olor de Lyra. El «qué pervertido» del original se queda en Lyra negándose a pensar en olores.
+
+## *Year One*: estructura y restricciones (decidido tras el capítulo 23)
+
+Un agente lector reunió todas las referencias de primer curso en los capítulos 1 a 23. *Year One* va en **tres partes** (extras), después del 23. Cada una adapta un coreano:
+
+| Parte | Coreano | Contenido | Punto de vista |
+|---|---|---|---|
+| 1. *The Remembrall* | 18 (+ el marco del 24) | Marco en el presente: Ron, «take the ring off if you’re trying to hide it». La Selección (Harry pide Slytherin por ella, aunque le rechazó la mano en el tren), la clase de vuelo, el Recordador, la caída y «Do you think I’m going to say thank you?», y los tres Recordadores para Neville | Harry |
+| 2. *Nobody Asked You for Christmas* | 24 | Buscador, el partido, el trol (de pasada), «nobody invites you for Christmas», Harry nombra a Voldemort y sonríe. Lyra planea vengarse; Crabbe se apiada de él; el día que sus padres no volvieron a casa (Dobby, la mesa larga) | Harry, luego Lyra |
+| 3. *The Scar* | 25 | Pociones, Dumbledore (la deuda de vida), Snape (la broma de James), Quirrell, la cicatriz y el recuerdo de Voldemort (Snape de rodillas: «Spare her»). «You killed my parents.» Snape le ignora desde entonces. «His followers are still walking about.» Lyra se siente desechada | Harry, luego Lyra |
+
+**Restricciones del lector (no contradecir):**
+1. **El tren.** Fue la primera vez que Harry se plantó ante alguien: le rechazó la mano («work out the wrong sort for himself»). Ella no le reconoció como el chico de Madam Malkin’s y lo había olvidado. Hasta la clase de vuelo, Harry la evita y la mira; no es tímido.
+2. **El primer «catch».** El 5 dice «not the first time Potter had caught her… She had spent the best part of a year making sure nobody remembered the first time». La caída de la clase de vuelo es esa primera vez. Hay que contar cómo lo enterró Lyra: la historia del colegio fue el Recordador y el Buscador más joven del siglo. Nadie contó lo de Malfoy; Slytherin no quería y Gryffindor se cansó. El de noviembre de 1992 (el 9) es la segunda vez.
+3. **Snape.** Se ensañó con Harry desde la primera clase, Harry estudió por rabia y en Pascua ya no le encontraba fallos (el 6). Encaja con el 25: la poción casi terminada, y Snape ignorándole desde la visión.
+4. **Lyra no juega al Quidditch en primero.** Gryffindor no gana la Copa de Quidditch ese año. La Copa de las Casas se la llevan en el banquete y Lyra se muerde la uña (el 1).
+5. **No hay «Mudblood» en primero.** La primera vez es en segundo.
+6. **Crabbe:** trenzas y cara redonda; se sentó junto a Lyra en la Selección. **Goyle** contó la leyenda de la sala. **Parkinson** vomitó en el tren.
+7. **Nombres:** nadie usa el nombre de pila del otro hasta 1994. En el punto de vista de Harry, ella es «Malfoy».
+8. **El elfo del Manor es Dobby.** El diario sigue en el cajón. Draco tiene 7 años.
+9. **La anomalía.** Lo que ve Harry por la cicatriz se cuenta como en el original («for some reason, Harry remembered it»), sin explicarlo.
+10. **Edad:** once años (A).
