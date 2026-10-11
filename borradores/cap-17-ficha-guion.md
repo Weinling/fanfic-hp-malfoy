@@ -23,12 +23,12 @@ Ficha y guion. El autor pidió escribir el capítulo de un tirón, así que el g
   - El horario de Granger (15): lo recuerda y lo descarta por celos.
 - **Peaje del thriller:** la decisión de desertar, el miedo de Lucius y el señor de la casita enseñando trampas a Draco.
 - **Canon:**
-  - (B) La poción agudizadora (de tercero), con bilis de armadillo, sustituye a la poción confundidora del coreano.
-  - La escoba de Draco es una Cleansweep Seven (el coreano dice Cleansweep 10, que no existe).
+  - (B) La poción agudizadora (en el canon, de cuarto, en *El cáliz de fuego*), con bilis de armadillo, sustituye a la poción confundidora del coreano.
+  - (C) La escoba de Draco es una Cleansweep Ten, como en el coreano: no existe en el canon, pero la Eleven sale en 1995, así que una Ten en 1993 es coherente.
   - (A) «Habré aprobado los TIMOs» pasa a «estaré con los TIMOs»: en septiembre de 1995 Lyra empieza quinto.
   - Encantamiento animador de tercero (canon).
-  - Redadas del Ministerio en 1992 (canon de *La cámara secreta*).
-- **Fechas:** viernes 24 de diciembre de 1993 (Nochebuena) y sábado 25. Vuelta: jueves 13 de enero de 1994, con Pociones doble, Encantamientos por la tarde y cena.
+  - Redadas del Ministerio en 1992 (canon de *La cámara secreta*). El texto dice «the year before last» para no fijar la fecha (C).
+- **Fechas:** viernes 24 de diciembre de 1993 (Nochebuena) y sábado 25. Vuelta: el tren regresa el domingo 2 de enero (quince días desde el 18 de diciembre, cap. 15); el jueves 6 de enero de 1994 hay Pociones doble, Encantamientos por la tarde y cena.
 
 ## Guion
 

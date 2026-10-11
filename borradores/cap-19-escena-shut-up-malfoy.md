@@ -14,7 +14,7 @@ Granger saw her first. Then Potter turned round.
 
 “Malfoy?”
 
-“You.” She had no breath left, and did not wait for any. “A *rat*. All of it — the rain, and the Shack, and *hands off, Malfoy* — that was about a rat? You sent me away so you could go round the castle looking for *Pettigrew*?”
+“You.” She had no breath left, and did not wait for any. “A *rat*. All of it—the rain, and the Shack, and *hands off, Malfoy*—that was about a rat? You sent me away so you could go round the castle looking for *Pettigrew*?”
 
 His eyes went wide behind his glasses. “Who told you that?”
 
@@ -40,11 +40,11 @@ Her voice cracked on *pocket*. She heard it crack, and went on regardless, becau
 
 “Is that what you think? That I said yes because you *made* me?”
 
-Of course he had made her. He had put the diary on a desk in an empty classroom in May with a hole punched through it and told her she was his hostage, and there had not been a great deal of room for argument. But she had been the one to put out her hand. She had stood there in her dressing gown and thought it through, properly, the way she had been brought up to: that the Dark Lord had better stay dead, for her father’s sake, for all their sakes. And under that, somewhere she had never let anybody look and did not look now, she had known that she would rather have Potter alive than —
+Of course he had made her. He had put the diary on a desk in an empty classroom in May with a hole punched through it and told her she was his hostage, and there had not been a great deal of room for argument. But she had been the one to put out her hand. She had stood there in her dressing gown and thought it through, properly, the way she had been brought up to: that the Dark Lord had better stay dead, for her father’s sake, for all their sakes. And under that, somewhere she had never let anybody look and did not look now, she had known that she would rather have Potter alive than—
 
 She did not let herself finish. She took hold of his collar instead, with both hands.
 
-“Don’t flatter yourself,” she said into his face. “Nobody made me do anything. I went over the accounts myself — mine, my reckoning, my decision — and I came out on your side. And you treat it as if it were nothing. As if I were something you could put down somewhere safe and come back for later. As if I weren’t even worth *telling*.”
+“Don’t flatter yourself,” she said into his face. “Nobody made me do anything. I went over the accounts myself—mine, my reckoning, my decision—and I came out on your side. And you treat it as if it were nothing. As if I were something you could put down somewhere safe and come back for later. As if I weren’t even worth *telling*.”
 
 He owed her. He had said so himself, in the library: *that’s two I owe you*. And in all the weeks since, he had never once asked her for anything back. That was the worst of it, and she had only just understood it, with his collar in her fists. Malfoys did not do favours. They extended credit, and you only extended credit to people you meant to deal with again. Potter never asked her for anything because Potter did not think she had anything he needed.
 
@@ -52,11 +52,11 @@ He did not answer. For once in his life he looked as if he had nothing ready, an
 
 Granger had been watching all of this with an expression Lyra could only call rapt. She looked as though she would rather do almost anything than get involved. She sighed, and got involved.
 
-“Malfoy, calm down. You’re — you’re really upset.” She did not quite meet Lyra’s eyes. “There are things we couldn’t tell anybody. I’ve got something that helps Harry, and it’s a secret, so —”
+“Malfoy, calm down. You’re—you’re really upset.” She did not quite meet Lyra’s eyes. “There are things we couldn’t tell anybody. I’ve got something that helps Harry, and it’s a secret, so—”
 
 “I didn’t ask about your *secret*.”
 
-Granger looked at her then, very briefly, the way one person who has seen a timetable looks at another, and went gamely on. “You have to try and understand what he’s — he’s got so much on, and it’s been really hard for him, and —”
+Granger looked at her then, very briefly, the way one person who has seen a timetable looks at another, and went gamely on. “You have to try and understand what he’s—he’s got so much on, and it’s been really hard for him, and—”
 
 “Oh, and *you* understand him. Naturally.” It came out of her like something with teeth. “You were both brought up by Muggles. You’ve so much in common.”
 
@@ -66,7 +66,7 @@ Granger had raised her voice; Lyra had not known she could. It only made things 
 
 She had not said it since October. In the empty Arithmancy classroom, with no Potter anywhere near, it had not come out at all. It came now. It was the worst thing she had, and she wanted the worst thing; she wanted the pair of them to see precisely what it felt like to stand in this corridor with her hair coming down, and there was no other word in her that would show them.
 
-“Don’t you *dare* tell me what to — you filthy little Mud —”
+“Don’t you *dare* tell me what to—you filthy little Mud—”
 
 “Shut up, Malfoy.”
 
@@ -84,13 +84,13 @@ When he drew back, it was only a little way. His ears had gone scarlet, exactly 
 
 Lyra opened her mouth. Nothing in it was a word.
 
-“Wh — that — you —”
+“Wh—that—you—”
 
 “Call me whatever you want,” said Potter. “Tell me not to smile. You’ve every right; I earned that one. Hurt me, if you like, and I’ll stand there and take it. But don’t go making yourself smaller to do it.” A strand of her hair had come down across her face when the ribbon went. He hooked it with one finger and put it back behind her ear, carefully, as if it might go off. “Every time you try, I’ll stop you.”
 
 Somewhere in there her hands had let go of his collar. She did not know what to do with them, so she did nothing with them at all.
 
-“Was that —” Her voice came out small and wrong, and she made it try again. “Is that *charity* again?”
+“Was that—” Her voice came out small and wrong, and she made it try again. “Is that *charity* again?”
 
 “No,” said Potter.
 
@@ -100,7 +100,7 @@ He stepped back and showed her both his hands, open, as you might show somebody 
 
 “I got you wrong,” he said. “I thought you were the one person in this school who always said exactly what she meant.” He was quiet for a second. “You never do, do you. Not about anything that counts.”
 
-He did not smile. She had told him not to, in the rain, and he was still doing as he was told. She could see what it was costing him, at the corners of his mouth, and that was worse — far worse — than if he had grinned at her outright.
+He did not smile. She had told him not to, in the rain, and he was still doing as he was told. She could see what it was costing him, at the corners of his mouth, and that was worse—far worse—than if he had grinned at her outright.
 
 “Go to bed, Malfoy,” he said, quite gently. “Tomorrow I’ll tell you everything.”
 

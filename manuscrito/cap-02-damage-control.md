@@ -10,7 +10,7 @@ There was no version of that sentence that improved with practice. And underneat
 
 Meanwhile the Manor went on around her in its usual summer fashion, which was beautifully and a little too quietly. The gardens were at their best. The white peacocks trailed their tails across the lawns like creatures who knew exactly what they were worth, and her mother had the long drawing room opened up and the windows thrown wide, so that the whole house smelled of roses and beeswax, as it did every July.
 
-Not everything was as usual, though. The Board of Governors had voted her father off on the night of the leaving feast. Lyra had read about it on the train home, in a copy of the *Daily Prophet* that Pansy had passed across the compartment with an expression of such careful sympathy that Lyra had wanted to hex her. At dinner her father referred to the whole business as a temporary misunderstanding. In his study, when he believed nobody was listening, he used considerably shorter words.
+Not everything was as usual, though. The Board of Governors had voted her father off on the night of the leaving feast. Lyra had read about it on the train home, in a copy of the *Daily Prophet* that Daphne Greengrass had passed across the compartment with an expression of such careful sympathy that Lyra had wanted to hex her. At dinner her father referred to the whole business as a temporary misunderstanding. In his study, when he believed nobody was listening, he used considerably shorter words.
 
 And Dobby was gone. A new elf had arrived at the end of the first week, a nervous creature called Pobble who had come from some dwindling family in Kent that could no longer afford her, and who dropped things. Nobody mentioned Dobby at table. Lyra had learned long ago that the things her father did not mention were the ones that had cost him most, and he was not mentioning Dobby with tremendous energy.
 
@@ -166,7 +166,7 @@ It was not the sort of thing a twelve-year-old ought to think of. Lyra had told 
 
 “And why should I trust you?”
 
-“You don’t have to.” He had shrugged. “Up to you, Malfoy.”
+“You don’t have to.” He had shrugged. “Up to you, Malfoy. Don’t take too long, though.”
 
 It was only afterwards, halfway back up the lawn, that the obvious question had caught up with her. If he gave her the diary, what exactly would he have left to blackmail her with? She had not gone back to ask. She was not certain she wanted the answer.
 
