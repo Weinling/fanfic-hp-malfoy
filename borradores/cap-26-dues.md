@@ -268,7 +268,7 @@ She did not know what that was. She was not sure she liked not knowing.
 
 “I should go,” said Lyra, and took her hands away. “Crabbe will have the whole common room out looking for a scarf I wasn’t wearing.”
 
-“Me too. Ron’ll—” He stopped, and something went across his face and was put away. “Somebody’ll want to know what happened.”
+“Me too. Ron’ll—” He stopped. Lyra thought of Weasley in the Great Hall, staring at his empty plate. “Somebody’ll want to know what happened,” said Potter.
 
 She went to the door, and unlocked it with her own wand, and looked out into the corridor. It was empty. She slipped half through the gap, and stopped.
 
