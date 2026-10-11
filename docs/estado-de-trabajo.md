@@ -6,7 +6,7 @@
 
 ## Ahora mismo
 
-- **Capítulo en curso:** el 24 (coreano 27, la Copa Mundial). Ficha en borrador en `borradores/cap-24-ficha-guion.md`. Un lector está buscando las referencias; al volver, cerrar la ficha y escribir escena a escena en `borradores/cap-24-replay.md`.
+- **Capítulo en curso:** el 24 (coreano 27), *Replay*, en `borradores/cap-24-replay.md`: escrito entero (unas 4.450 palabras) y commiteado. Ficha cerrada con el informe del lector. En crítica. Al volver: aplicar, nota en `docs/notas/cap-24-critica.md`, manual `docs/capitulos/cap-24.md` y handoff.
 - **Cerrado hoy:** *Year One*, parte 4 (coreano 26), escrito, criticado y revisado, con manual (`docs/capitulos/extra-year-one-4.md`), nota (`docs/notas/extra-year-one-4-critica.md`) y handoff §15.
 - **También hoy:** coreanos 26 a 35 guardados; resumen (`borradores/resumen-coreano-26-35.md`); lectura completa; plan del arco (`borradores/plan-coreano-26-35.md`); crítico nuevo; cinco fallos de continuidad corregidos en los borradores 16 a 23.
 

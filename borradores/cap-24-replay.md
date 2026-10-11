@@ -56,7 +56,7 @@ Draco’s eyes went perfectly round.
 
 “That’s *cheating*.”
 
-It took him nearly a minute, which was a long time for Draco, to fling the poster at her. He took the omnioculars with both hands, as if they might fly away, and went to the window at once to look at a peacock through them.
+It took him nearly a minute, a long time for Draco, to fling the poster at her. He took the omnioculars with both hands, as if they might fly away, and went to the window at once to look at a peacock through them.
 
 Lyra unrolled the poster and watched Krum come out of the dive again. He really was extraordinary. She had flown against Potter for two seasons and she had never seen anybody do that with a broom, or with that little visible effort, as though the ground had been a suggestion. There was something not quite right about the picture, all the same. It was the face, she decided: heavy and sullen, and rather a waste of a dive like that. If it had been a different face, somebody’s with untidy hair and glasses, say, it would have been a good deal more—
 
@@ -174,7 +174,7 @@ Lyra had no idea what any of that was about. She put it down to Weasley.
 
 Her father did not come back to the tent with them.
 
-He saw them inside, the three of them, with its four rooms and its chandelier and Pobble’s supper laid out on a table that had certainly never been near a field before, and then he put on his travelling cloak, which was not the cloak he had worn to the match.
+He saw the three of them inside the tent, which had four rooms and a chandelier and Pobble’s supper laid out on a table that had certainly never been near a field before, and then he put on his travelling cloak, which was not the cloak he had worn to the match.
 
 “Stay in the campsite,” he said. “All of you. I have some old friends to see.” He kissed Narcissa’s cheek, and Lyra’s forehead, and ruffled Draco’s hair, and went out, and the tent flap fell shut behind him.
 
@@ -280,7 +280,7 @@ She did not believe a word of it. It made no difference whatever. He had sat thr
 
 “I’m still a bit hurt, though,” said Potter. “Being suspected like that.”
 
-His hand came up, slowly. She shut her eyes and turned her face away, which was as far as she could manage.
+His hand came up, slowly. She shut her eyes and turned her face away. It was as far as she could manage.
 
 “Lyra?” Her mother’s voice, from the door of the tent. “Your father’s sent word, we— Now where has she got to?”
 
