@@ -606,5 +606,17 @@ Pegado al 14, el capítulo de Harry curaba la herida en el acto. Por eso entra d
 
 - **Harry oyó en la escalera** «It’s only me» y «Thank you, then», y sabe que Lyra guardó el pañuelo. Sabe, por tanto, que ella cree que lo suyo es unilateral. Pesa en el 19 (el beso, «you never say what you mean») y en el 21 (el anillo rosa).
 - **La coda de la señora Norris se mantiene** (decisión 6 del plan), aunque rompa el punto de vista. Lleva una pista física: la zapatilla de Potter.
-- **La Saeta de Fuego, como en el canon.** Propuesta de calendario, pendiente de que el autor la confirme: llegó en Navidad sin remitente (Sirius); McGonagall se la quedó para revisarla; Harry entrena con una escoba del colegio hasta que se la devuelvan, como muy pronto después del clímax de febrero. Lyra, snob de las escobas, se fijaría en ella.
+- ~~La Saeta de Fuego, como en el canon.~~ **Corregido tras leer el coreano 23:** la Saeta de Fuego es de **Lyra** (regalo de Lucius). Harry vuela con escobas del colegio y gana la final por táctica. Ver `borradores/plan-coreano-19-25.md`.
 - **El revisor pasa a un chat paralelo del autor**, que revisa por tandas de capítulos (prompt en `docs/prompt-revisor.md`; informes en `docs/notas/revisiones/`). El crítico ciego sigue en la sesión principal, capítulo a capítulo.
+
+### Coreanos 22 a 25 (recibidos el 11 de octubre)
+
+Plan del cierre del arco en `borradores/plan-coreano-19-25.md`. Novedades que afectan a la continuidad:
+
+- **El Patronus de Harry es un zorro**, el de Lyra también (C, se revela sin glosa).
+- **Pettigrew confiesa** que echó un neutralizador a la matalobos; Lyra lo oye y cae en la cuenta de su parte.
+- **Dumbledore deduce el giratiempo** y le dice a Harry que no puede contárselo todo a Lyra.
+- **El Ministerio calla:** se suspende la búsqueda de Black y se retiran los dementores.
+- **Lyra y Harry, pareja en secreto** al final del 23 (los anillos, el ritual de las nueve).
+- **Siembra del Torneo:** «el año que viene, alumnos de otros colegios».
+- **Pista del origen de lo que sabe Harry** (coreano 25): ve recuerdos de Voldemort a través de la cicatriz. No se explica hasta que el original lo haga.
