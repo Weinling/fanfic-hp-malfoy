@@ -133,3 +133,113 @@ She turned and went in through the great doors without waiting for an answer.
 Behind her, she heard him say, to nobody, or possibly to the gravel, in a voice of honest wonder:
 
 “She thinks it’s a *secret*.”
+
+⁂
+
+Her father’s owl came on Sunday morning, a great tawny eagle owl that the whole Slytherin table recognised, and that ate nobody’s toast. It held out its leg to her as though it were doing her a kindness.
+
+She had written to him on Monday. It had been a very good letter. It had said that she was well, and working hard, and keeping well clear of the Tournament, as she had promised Mother; that Draco had written her two whole sides about Viktor Krum; that Krum ate at the Slytherin table every day and she had not yet found a way to ask him for an autograph that would not make her look like a first-year; and that she supposed, since Father knew everybody, that he would not happen to know the Headmaster of Durmstrang?
+
+*My treasure*, her father had written back, in his long, beautiful hand, *how like you to think of your brother. Igor Karkaroff and I are old friends. I enclose a few lines for him, which you will deliver yourself; he will be delighted to see you, and I think you will find him generous. There is no need to trouble Severus with any of this. Or anybody else.*
+
+The enclosure was sealed with the Malfoy crest, in green wax. It was thick. A few lines did not run to three sheets of parchment.
+
+Lyra turned it over in her fingers, under the table, and did not break the seal.
+
+Her father was using her to carry something. She was using him to open a door. She thought that probably only one of them knew what the other was doing, and that it was her; but she had been Lucius Malfoy’s daughter for fourteen years, and she knew better than to be certain.
+
+*I don’t take anything you bring me*, Moody had said, *because I don’t know who gave it to you to bring.*
+
+Well. She knew now. And she was going to carry it anyway.
+
+⁂
+
+The Durmstrang ship lay at anchor out in the lake, black against the black water, with a few dim lights burning behind its portholes like the windows of a house where everybody had gone to bed. Lyra went down to the shore after dinner, in her best cloak, with her father’s letter in one pocket and a square of good card for the autograph in the other, and stood at the edge of the water and did not quite know how one knocked on a ship.
+
+In the end she simply said, clearly, “Lyra Malfoy, for Professor Karkaroff,” to the dark.
+
+Something creaked out on the lake. A long wooden gangplank came sliding across the surface of the water towards her, quite dry, as if the lake had been told to keep its hands to itself, and settled its end on the shingle at her feet.
+
+Karkaroff was waiting at the top of it. He was tall and thin, in furs of a rich silvery colour, with short white hair and a little goatee that finished in a curl, and a smile that showed a great many yellowish teeth and did not, she noticed, go anywhere near his eyes.
+
+“Lucius’s daughter!” He held out both hands to her as though she were a long-lost niece. “And the very image of him. Come in, come in, out of the cold.”
+
+His cabin was low and dark and panelled, and much too warm, with a stove in one corner and a great many furs thrown over everything. He read her father’s letter standing by the lamp, all three sheets of it, and when he had finished he folded it very small and put it inside his coat, and his smile had become a little fixed.
+
+“Your father,” he said, “was a friend to me once, when I had very few friends. When I came out of—when I came back into the world, shall we say. A little money. A word in the right place. One does not forget.” He poured something hot out of a jug into a silver cup and pressed it into her hands. It smelt very strongly of rum. “He wished you to come to Durmstrang, you know. Did he ever tell you? Your mother would not hear of it. Too far, she said. Too cold.” He laughed. “A pity. We would have made a princess of you.”
+
+Lyra had not known that. She put it away to be looked at later, and held the silver cup, and did not drink.
+
+She had a great deal of practice at men like Karkaroff. Her father had them to dinner. She praised the ship, which was hideous, and Durmstrang, which she had never seen, and above all Viktor Krum, who was a genius, an artist, the finest Seeker of his generation; and Karkaroff purred and grew expansive, and told her how he had found the boy, and trained the boy, and how the boy would bring the Triwizard Cup home to Durmstrang as surely as the sun rose.
+
+“If it had been a fair contest,” said Lyra, with a small sigh. “It’s such a pity about the Goblet.”
+
+His face changed so fast that she nearly spilt the rum.
+
+“*Pity*? It is an outrage! Two champions! Two, for Hogwarts! And what does Dumbledore do? He shrugs, he smiles, he says the Goblet has spoken!” Karkaroff struck the table with the flat of his hand. “Behind everybody’s back. As always. That man has done nothing to my face in thirty years.”
+
+Lyra watched him rage. She had been brought up among people who lied for a living, and she had watched her father lie to the Minister for Magic across a dinner table without a hair out of place, and she knew what it looked like. This did not look like that. Karkaroff was not pretending. He did not know who had put Potter’s name in that cup, and he was furious that somebody had, and the fury was entirely real.
+
+So it had not been him.
+
+“But surely,” she said, “it might not have been the Headmaster at all. The Ministry brought the Goblet, didn’t they? Somebody there—”
+
+“Who? Bagman?” Karkaroff snorted. “Ludo Bagman could not confuse a goblin, let alone that cup. And Crouch—” He shook his head. “Barty Crouch would cut out his own tongue before he bent a rule. A man who sent his own son to Azkaban. His own son, to die there. And when they did for the Longbottoms, he—”
+
+He stopped. He glanced, for no reason Lyra could see, at the door. Then he smiled at her again, with all his yellow teeth.
+
+“Forgive me. These are not stories for a young lady.”
+
+Lyra smiled back, and did not ask. Her father had taught her that too: that the surest way to lose a thing a man had let slip was to bend down and pick it up in front of him. She looked into her cup instead, and said something admiring about the panelling.
+
+There was a knock, and the door opened, and Viktor Krum came in, stooping under the lintel.
+
+He was even more round-shouldered close to than he was across the Great Hall, with heavy black brows and a curved nose like a bird of prey’s, and he looked at her without much interest, as though she were one more thing Karkaroff had found to show him.
+
+“Viktor! Come, come. This is Lyra Malfoy, the daughter of a very dear friend of mine.”
+
+“Lyra Mal-foy,” said Krum, carefully, as if he were putting the syllables down one at a time on a table.
+
+She asked him for the autograph for her brother. He signed it without enthusiasm, with Karkaroff’s quill, in two alphabets, one of which she could not read. He did not look up while he did it.
+
+“She flies a Firebolt, Viktor!” said Karkaroff. “Lucius bought it for her. A Firebolt!”
+
+That made him look up.
+
+“A Firebolt,” said Krum. For the first time he looked at her properly: not at her face, she noticed, but at her hands, and her shoulders, the way a Seeker looked at another Seeker. “You fly Seeker?”
+
+“Yes.”
+
+He considered this. “Then perhaps one day we fly,” he said, and nodded to her, and that was apparently all.
+
+“There!” said Karkaroff, delighted. “What a pair you would make!”
+
+Lyra smiled her mother’s smile, the one that meant precisely nothing, and thought that Viktor Krum was undoubtedly a genius on a broom, and on a broom only. On the ground he was a hunched, heavy, silent young man with a nose like a hook. Potter, on the ground, was—
+
+She stopped that thought where it was, sharply, as one stops a dog at a door, and stood up to go.
+
+⁂
+
+The gangplank slid away behind her into the dark as soon as her feet were on the shingle, and the lights in the portholes went out one by one.
+
+She went up the slope towards the castle with the signed card in her pocket, and the silver cup still full on Karkaroff’s table, and turned it all over as she climbed.
+
+It had not been Karkaroff. That was one thing. Whoever had Confunded the Goblet was somebody strong enough to fool an ancient magical object that had been fooling nobody for seven hundred years, and was very probably still in this castle, and was not a vain, frightened, furious man in silver furs on a ship. That was a second thing. And the third was the one Karkaroff had wished he had not said: a man who had sent his own son to Azkaban to die, and something that had been done to the Longbottoms, which she did not understand at all, and which had made Karkaroff look at the door.
+
+Longbottom. She thought of a round-faced boy in first year, scrabbling on the floor for the bits of a Remembrall. She did not know what any of it meant. But she knew what it was worth, and she knew exactly who to give it to; and it was not Mad-Eye Moody, who would take nothing from her. It was the boy with the cloak.
+
+There was somebody standing on the path.
+
+She saw the staff first, and then the shape leaning on it, and then the eye: a faint blue gleam in the dark, turning, and coming to rest on her.
+
+“Evening, Miss Malfoy,” said Moody. “Igor keeping well?”
+
+Lyra stopped. She did not go round him, and she did not look away. She stood on the path in front of him with her chin level and her hands at her sides, and faced him, as he had told her to.
+
+“He doesn’t care for you very much, Professor.”
+
+“No,” said Moody. “He wouldn’t.” He looked at her a moment longer. Then he turned, and went stumping off along the bank in the dark, without another word, his wooden leg going *clunk* on the frozen path, until she could not hear it any more.
+
+Lyra stood where he had left her. She knew exactly what he had seen: Lucius Malfoy’s daughter, coming back in the dark from an old Death Eater’s ship, with her father’s letter delivered and her pockets full of whatever had been given her to bring.
+
+She had gone in by the front door, under her own name, exactly as he had told her to. It had not made the slightest difference.
