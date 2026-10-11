@@ -27,7 +27,7 @@ Ficha y guion. El autor pidió escribir el capítulo de un tirón, así que el g
   - (C) La escoba de Draco es una Cleansweep Ten, como en el coreano: no existe en el canon, pero la Eleven sale en 1995, así que una Ten en 1993 es coherente.
   - (A) «Habré aprobado los TIMOs» pasa a «estaré con los TIMOs»: en septiembre de 1995 Lyra empieza quinto.
   - Encantamiento animador de tercero (canon).
-  - Redadas del Ministerio en 1992 (canon de *La cámara secreta*). El texto dice «the year before last» para no fijar la fecha (C).
+  - Redadas del Ministerio en 1992 (canon de *La cámara secreta*). El texto dice «the summer before last», que desde diciembre de 1993 es el verano de 1992.
 - **Fechas:** viernes 24 de diciembre de 1993 (Nochebuena) y sábado 25. Vuelta: el tren regresa el domingo 2 de enero (quince días desde el 18 de diciembre, cap. 15); el jueves 6 de enero de 1994 hay Pociones doble, Encantamientos por la tarde y cena.
 
 ## Guion

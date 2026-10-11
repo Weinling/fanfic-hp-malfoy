@@ -58,3 +58,19 @@ Lo que no tocar, según el crítico: la tapadera de las redadas, Draco y las car
 - «You only knew it harder».
 
 **Queda para más adelante:** Narcissa.
+
+## Segunda lectura del crítico (versión revisada)
+
+Emoción 8, romance 6, gancho 8, ritmo 7, calor 6, trama 8, personajes 8, prosa 7.
+
+Ranking: 15 > 12 ≈ 16 ≈ 7 ≈ 9 > 17 > 13 > 14 > 10 > 11 ≈ 4 > 5 ≈ 8 > 1 > 2 > 6 > 3.
+
+**Aplicado tras la segunda lectura:**
+- Lyra recuerda que la coartada era idea de Potter junto al lago, y no le da el mérito.
+- El diálogo del giratiempo se oye al pasar por detrás del banco de Gryffindor, no desde la mesa de Slytherin.
+- Se quitan la metáfora de las cuerdas, una negación del comedor, la explicación final de Encantamientos, «entirely alone», el «goes out of… all at once», «By the time she had worked that out» y dos reacciones corporales de catálogo.
+- «The summer before last»: el revisor se equivocó con «the year before last».
+
+**Queda así a propósito:**
+- El romance y el calor se quedan en 6: el coreano 14 es un capítulo de distancia, y forzar una escena entre los dos lo traicionaría.
+- «Mudblood» en la cabeza de Lyra, como remate de su excusa. Es coherente con el §5 del handoff: lo piensa aunque no lo diga. El autor decide si la regresión debe costarle algo.
