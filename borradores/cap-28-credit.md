@@ -16,7 +16,7 @@ There were about a hundred of them. They were open at the top, and from inside t
 
 Lyra looked into the crate.
 
-The skrewts looked like deformed, shell-less lobsters, horribly pale and slimy, with legs sticking out in very odd places and no visible heads. Some of them had stings. Some of them had little sucking things on their bellies, which she did not care to think about. Every so often one of them gave off a spurt of sparks from its back end with a small *phut*, and shot forward several inches, and landed on another one.
+The skrewts looked like deformed, shell-less lobsters, horribly pale and slimy, with legs sticking out in very odd places and no visible heads. Some of them had stings. Some of them had little sucking things on their bellies that she did not care to think about. Every so often one of them gave off a spurt of sparks from its back end with a small *phut*, and shot forward several inches, and landed on another one.
 
 “And what,” said Lyra, “are they *for*?”
 
@@ -194,7 +194,7 @@ Lyra smiled back, and did not ask. Her father had taught her that too: that the 
 
 There was a knock, and the door opened, and Viktor Krum came in, stooping under the lintel.
 
-He was even more round-shouldered close to than he was across the Great Hall, with heavy black brows and a curved nose like a bird of prey’s, and he looked at her without much interest, as though she were one more thing Karkaroff had found to show him.
+He was even more round-shouldered close to than he was across the Great Hall, with heavy black brows and a nose curved like a bird of prey’s, and he looked at her without much interest, as though she were one more thing Karkaroff had found to show him.
 
 “Viktor! Come, come. This is Lyra Malfoy, the daughter of a very dear friend of mine.”
 
@@ -216,7 +216,7 @@ He considered this. “Then perhaps one day we fly,” he said, and nodded to he
 
 Lyra smiled her mother’s smile, the one that meant precisely nothing, and thought that Viktor Krum was undoubtedly a genius on a broom, and on a broom only. On the ground he was a hunched, heavy, silent young man with a nose like a hook. Potter, on the ground, was—
 
-She stopped that thought where it was, sharply, as one stops a dog at a door, and stood up to go.
+She stopped that thought where it was, sharply, and stood up to go.
 
 ⁂
 
