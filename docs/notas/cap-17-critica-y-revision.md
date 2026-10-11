@@ -40,7 +40,7 @@ Lo que no tocar, según el crítico: la tapadera de las redadas, Draco y las car
 | «Perfectly» (7), atrasado | Revisor | **Aceptada.** Una línea tras el temblor de la licorera. |
 | Salto de punto de vista con Parkinson | Revisor | **Aceptada.** |
 | La mirada de Narcissa al abrir los regalos; Potter en Encantamientos | Revisor | **Aplazadas** por extensión. Narcissa queda pendiente para el 18 o el siguiente capítulo en casa. |
-| «Pansy» en el cap. 2; «Don’t take too long» no está en el cap. 2 | Revisor y lector | **Aceptadas** como retoques invisibles en `manuscrito/cap-02` (A, continuidad). **El autor tiene que replicarlos en Wattpad y Webnovel.** |
+| «Pansy» en el cap. 2; «Don’t take too long» no está en el cap. 2 | Revisor y lector | Se aplicaron y **se deshicieron** por decisión del autor (lo publicado no se toca). Anotadas en `docs/notas/erratas-publicado.md`. |
 
 ## Nota para el crítico
 
