@@ -1,6 +1,18 @@
 # Capítulo 27: Ferret (resto del coreano 30)
 
-Borrador de ficha, 11 de octubre de 2026. Se cierra con el informe del lector.
+Ficha cerrada el 11 de octubre de 2026 con el informe del lector. Cambios y restricciones:
+
+- **Sin mapa.** El mapa mostraría a Moody con otro nombre (canon: Crouch hijo) y adelantaría la sospecha de Potter (31). Potter llega porque Moody le había citado a esa hora por lo del Torneo (son aliados: «Moody, too», 26), y reconoce a Lyra por la varita de espino tirada en el suelo.
+- **La clase es solo de Slytherin**, como en el 25. El jueves 10 de noviembre de 1994.
+- **La regla de la espalda** la introduce Moody ahora. No se glosa el precedente de Neville (*Year One* 4).
+- **Lupin** nunca le había escrito; la llama «Miss Malfoy». Ella le escribió sin dirección, con un búho del colegio. Él no la absuelve: «That is not nothing. Neither is it the whole of it.» Y se declara todavía en deuda con ella (19), que es lo único que Lyra no puede cobrar.
+- **El Imperius:** lo que la salva es su propio libro de cuentas: una segunda voz pregunta qué saca ella. La pulla de Moody: «Your father teach you that?»
+- **El aula:** Lyra deja de fingir y le ofrece a Moody lo que puede averiguar en Slytherin. Él lo rechaza: «You’re Lucius Malfoy’s daughter.» El muro del 14, ahora vigilándola.
+- **El traslado** rima con el del 5 sin repetirlo: entonces corría con ella a ciegas bajo la capa; ahora la coge mal, ella chilla, la coge bien, y va andando.
+- **Snape**, una línea: en el vestíbulo, el hurón «no está en la lista»; mira al animal un poco más de la cuenta.
+- **Granger** sigue siendo «Granger». La insignia de dos galeones sigue sin pagar.
+- **Ron:** Potter da la causa en una frase (cree que Harry se presentó sin decírselo).
+- **Final:** «That did not count.» El beso de verdad queda pendiente para el 32.
 
 ## Ficha
 
