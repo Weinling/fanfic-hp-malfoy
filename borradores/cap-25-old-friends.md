@@ -164,7 +164,7 @@ Lyra did not need to be told that. Her father had a name he used for Alastor Moo
 
 She looked at the Gryffindor table then. She had not meant to.
 
-Potter was watching Moody limp up to the staff table with his elbows on the board and his chin on his fists, the way you might watch an old acquaintance come into a room. He did not look surprised. He did not look anything at all.
+Potter was watching Moody limp up to the staff table with his elbows on the board and his chin on his fists, the way you might watch somebody whose name you had heard a great many times. He did not look surprised. He did not look anything at all.
 
 Then Dumbledore stood up again, and told them that there would be no Inter-House Quidditch Cup this year—Montague actually moaned out loud, and somewhere in the dungeons under her feet a Firebolt went on lying in its case for nothing—because Hogwarts, this year, was to host a Triwizard Tournament.
 
@@ -242,7 +242,7 @@ The second time, she did not stop at all.
 
 On the night of Hallowe’en, the Goblet of Fire stood on a stool in front of the staff table, where everyone could see it, and every eye in the Great Hall was on it.
 
-It had been standing in the Entrance Hall for a week behind a thin golden line on the floor that Dumbledore had drawn himself, so that nobody under seventeen could cross it, and the whole school had been to look. The Durmstrang students had come up out of the lake in a ship like a drowned galleon, in heavy furs, with Viktor Krum among them; and Draco, when Lyra wrote to tell him so, had written back for the first time since October, two whole sides, all of it about Krum and none of it about cards. The Beauxbatons girls had come out of a powder-blue carriage the size of a house, drawn by winged horses each as big as an elephant, and had shivered all through dinner in their silk. Lyra had watched it all, and enjoyed it more than she let anybody see, and had not once spoken to Potter. In September she had stopped putting the ring on at nine. It stayed in her pocket by day and in the drawer of her bedside table at night.
+It had been standing in the Entrance Hall for a week behind a thin golden line on the floor that Dumbledore had drawn himself, so that nobody under seventeen could cross it, and the whole school had been to look. The Durmstrang students had come up out of the lake in a ship like a drowned galleon, in heavy furs, with Viktor Krum among them; and Draco, when Lyra wrote to tell him so, had written back by return, two whole sides, all of it about Krum and none of it about cards. The Beauxbatons girls had come out of a powder-blue carriage the size of a house, drawn by winged horses each as big as an elephant, and had shivered all through dinner in their silk. Lyra had watched it all, and enjoyed it more than she let anybody see, and had not once spoken to Potter. In September she had stopped putting the ring on at nine. It stayed in her pocket by day and in the drawer of her bedside table at night.
 
 Now the Hallowe’en feast was over, and the plates were clean, and Dumbledore was on his feet, and the candles in the pumpkins had been put out, so that the only light in the Hall came from the Goblet: a great rough wooden cup, full to the brim with dancing blue-white flames.
 

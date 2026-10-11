@@ -6,7 +6,7 @@
 
 ## Ahora mismo
 
-- **Informe del revisor recibido y aplicado** (tanda del 23 al 28 y *Year One*): arreglos en 23 a 28 y *Year One* 3 y 4; decisiones en `docs/notas/revisiones/decisiones-tanda-23-a-28.md`. **Esperando al autor** en ocho decisiones (ahí listadas) antes de la ficha del 29.
+- **Informe del revisor recibido y aplicado** (tanda del 23 al 28 y *Year One*): arreglos en 23 a 28 y *Year One* 3 y 4; decisiones en `docs/notas/revisiones/decisiones-tanda-23-a-28.md`. El autor aceptó las ocho recomendaciones (aplicadas). **Siguiente:** el 29, desde Lyra, tras la lectura completa en contexto limpio.
 - **Siguiente:** el 29 (coreano 32, interludio de Harry, avisar).
 - **Cerrado:** el 28, *Credit*, con manual, nota y handoff.
 - **Cerrado:** el 27, *Ferret*, con manual, nota y handoff.

@@ -124,13 +124,13 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 
 | Ficha | Dónde está | Última vez | Nota |
 |---|---|---|---|
-| La pluma de azúcar | Bolsillo de Lyra desde Halloween de 1993 | 18 | **Hilo atrasado** (más de tres capítulos). El plan la paga en el 30, en la tienda |
+| La pluma de azúcar | Bolsillo de Lyra desde Halloween de 1993 | 18 | **Hilo atrasado.** Una mención en el 29; se paga en el 30, en la tienda (autor) |
 | El calentador de botón | Harry, junto a la varita | 16 | Lyra no sabe que lo recuperó |
 | El pañuelo (18) | Lyra; lavado y planchado | 23 | Sabe que es de Potter; no se lo ha devuelto |
 | La posdata de Narcissa | Libro de Aritmancia, tras las tablas | 17 | Sin respuesta |
 | El papel de los onces | El mismo libro | 15 | — |
 | Los anillos | Lyra, en el bolsillo de día; Harry, el suyo | 28 | Colores: rojo (peligro de muerte), rosa (con su pareja), morado (en guardia), dorado (éxito), verde (a salvo), azul (solo insinuado en el 24: «anything that might come out blue»; el plan dice «te echa de menos»), azul oscuro (dormido, sin nombrar en el texto). Parpadeo: el otro le busca. Se calienta hacia el otro |
-| Los omniculares de Potter | Lyra; en la Manor, bajo la almohada (25) | 25 | Dos horas de ella grabadas |
+| Los omniculares de Potter | Lyra; en la Manor, bajo la almohada (25) | 25 | Dos horas de ella grabadas. **No son ficha** (autor): no vuelven como tal |
 | La insignia S.P.E.W. | Bolsillo de Lyra | 26 | Los dos galeones: prometidos, no consta que se pagaran |
 | La carta de Lupin | Bolsa de Lyra | 27 | Sin contestar |
 | La Saeta de Fuego | En su estuche, en las mazmorras | 28 | Sin Quidditch este curso |
@@ -148,6 +148,6 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 - **Lyra → Granger:** el insulto del 7, sin disculpa. Lo de los onces y el horario quedó «square» (15).
 - **Lyra → Buckbeak:** un filete.
 - **Lyra → Crabbe:** respuesta a medias (23); el anillo.
-- **Lucius ↔ Lyra:** la Saeta (cariño y correa); la carta a Karkaroff (la usa).
+- **Lucius ↔ Lyra:** la Saeta (cariño y correa); la carta lacrada a Karkaroff (la usa; Lyra no la abrió).
 - **Karkaroff → Lucius:** dinero, un puesto, una palabra.
 - **Sirius → Lyra:** un muslo de pollo y una tableta de chocolate (cómico).

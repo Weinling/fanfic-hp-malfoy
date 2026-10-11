@@ -33,13 +33,13 @@ Sesión principal, 11 de octubre de 2026. Informe: `tanda-23-a-28.md`.
 - **Regla de conjunto:** el 30 no estrena ningún contacto nuevo.
 - **Para el 29 (coreano 32):** lo que Dumbledore rastrea ahora es la copa de Hufflepuff; el guardapelo ya está destruido.
 
-## Pendiente del autor
+## Decidido por el autor (11 de octubre): sí a todas las recomendaciones
 
-1. El año de silencio de Draco (25:239): ¿descuido o señal?
-2. La carta de tres pliegos de Lucius a Karkaroff (28): ¿se paga o se encoge?
-3. La espada de la cueva: ¿existe, y cuándo la ve el lector?
-4. Qué sabe Harry de Moody (25:167).
-5. El 29 desde Lyra o desde Harry.
-6. La pluma de azúcar: pagarla en el 30, con una mención en el 29, o retirarla.
-7. Los omniculares: ¿ficha que vuelve o prueba que se olvida? (con la insignia, el arco tendría dos fichas nuevas).
-8. La cadencia de publicación de *Year One* y el 24.
+1. **Draco:** era un descuido. 25: «had written back by return». El hilo de la casita sigue como estaba.
+2. **La carta de Lucius a Karkaroff:** se encoge. Fuera los tres pliegos; queda una carta lacrada que Lyra no abre.
+3. **La espada:** no se toca; el lector la verá cuando el coreano la use.
+4. **Harry y Moody:** no sabe nada seguro. 25: «the way you might watch somebody whose name you had heard a great many times». La sospecha llega en el 31.
+5. **El 29, desde Lyra.** La coda del 31, desde Harry, corta y única excepción del arco.
+6. **La pluma de azúcar:** una mención en el 29 y el pago en el 30, en la tienda.
+7. **Los omniculares:** no son ficha; la ficha del arco es la insignia.
+8. **La publicación** la lleva el autor.

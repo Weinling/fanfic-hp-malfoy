@@ -789,5 +789,6 @@ Las notas del crítico del 19 son 9/9/9/7/7/9/7/7 (empata con el 15 en cabeza). 
   - La deuda de la poción con Lupin está **pagada** (26 y 27).
   - Los escregutos nacen en noviembre (D).
   - El 30 no estrena ningún contacto nuevo.
+  - Decisiones del autor: el 29, desde Lyra (la coda del 31, desde Harry, corta y única); Harry no sabe nada seguro de Moody hasta el 31; Draco contestó «by return» (no hubo año de silencio); la carta de Lucius a Karkaroff, encogida (lacrada, sin abrir, sin tamaño); la espada, cuando el coreano la use; la pluma de azúcar, mencionada en el 29 y pagada en el 30; los omniculares no son ficha (la del arco es la insignia).
 - **La cuenta, rebajada** (autor, 11 de octubre): deja de ser obligatoria en cada capítulo (§3 y §8). En el arco del 29 al 32 el motor es la elección y la lealtad; el Baile se paga sin cuentas.
-- **Siguiente:** el capítulo 29 (coreano 32), interludio de Harry **(avisar)**: la reconciliación, los Horrocruxes contados a Ron y Hermione, Krum, Skeeter y el domingo: un beso elegido por los dos (no el primero: hubo en el 3 y el 19) y los dragones.
+- **Siguiente:** el capítulo 29 (coreano 32), **desde Lyra** (decisión del autor): la reconciliación, los Horrocruxes contados a Ron y Hermione, Krum, Skeeter y el domingo: un beso elegido por los dos (no el primero: hubo en el 3 y el 19) y los dragones.

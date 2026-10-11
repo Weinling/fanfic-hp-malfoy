@@ -142,7 +142,7 @@ She had written to him on Monday. It had been a very good letter. It had said th
 
 *My treasure*, her father had written back, in his long, beautiful hand, *how like you to think of your brother. Igor Karkaroff and I are old friends. I enclose a few lines for him, which you will deliver yourself; he will be delighted to see you, and I think you will find him generous. There is no need to trouble Severus with any of this. Or anybody else.*
 
-The enclosure was sealed with the Malfoy crest, in green wax. It was thick. A few lines did not run to three sheets of parchment.
+The enclosure was sealed with the Malfoy crest, in green wax.
 
 Lyra turned it over in her fingers, under the table, and did not break the seal.
 
@@ -164,7 +164,7 @@ Karkaroff was waiting at the top of it. He was tall and thin, in furs of a rich 
 
 “Lucius’s daughter!” He held out both hands to her as though she were a long-lost niece. “And the very image of him. Come in, come in, out of the cold.”
 
-His cabin was low and dark and panelled, and much too warm, with a stove in one corner and a great many furs thrown over everything. He read her father’s letter standing by the lamp, all three sheets of it, and when he had finished he folded it very small and put it inside his coat, and his smile had become a little fixed.
+His cabin was low and dark and panelled, and much too warm, with a stove in one corner and a great many furs thrown over everything. He read her father’s letter standing by the lamp, and when he had finished he folded it very small and put it inside his coat, and his smile had become a little fixed.
 
 “Your father,” he said, “was a friend to me once, when I had very few friends. When I came out of—when I came back into the world, shall we say. A little money. A word in the right place. One does not forget.” He poured something hot out of a jug into a silver cup and pressed it into her hands. It smelt very strongly of rum. “He wished you to come to Durmstrang, you know. Did he ever tell you? Your mother would not hear of it. Too far, she said. Too cold.” He laughed. “A pity. We would have made a princess of you.”
 
