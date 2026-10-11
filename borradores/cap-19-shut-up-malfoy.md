@@ -272,7 +272,7 @@ He did not dress it up, and he did not turn it into a joke. She had been waiting
 
 He stepped back and showed her both his hands, open, as you might show somebody you were not carrying a wand.
 
-“I got you wrong,” he said. “I thought it was only the little things you lied about.” He was quiet for a second. “You never do, do you. Not about anything that counts.”
+“I got you wrong,” he said. “I thought it was only the little things you lied about.” He was quiet for a second. “You never say what you mean, do you. Not about anything that counts.”
 
 He did not smile. She had told him not to, in the rain, and he was still doing as he was told. She could see what it was costing him, at the corners of his mouth, and that was worse—far worse—than if he had grinned at her outright.
 

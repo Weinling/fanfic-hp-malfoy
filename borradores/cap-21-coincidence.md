@@ -370,7 +370,7 @@ On the fourth finger of his right hand was a ring exactly like hers. Plain silve
 
 *Bin them*, she had said. And then, *Do as you like.* Evidently Crabbe had.
 
-Of course Lyra had suspected. She had worked it out on the front steps, three hours from now. All the same, it had been done without asking her, and Crabbe was going to hear about it.
+Of course Lyra had suspected. She had worked it out on the front steps, later that same night. All the same, it had been done without asking her, and Crabbe was going to hear about it.
 
 “Well,” said Lyra. “That is.”
 

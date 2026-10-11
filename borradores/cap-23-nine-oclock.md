@@ -152,7 +152,7 @@ She thought that, just then, she could have cast a Patronus without anybody hold
 
 The Cup came down to the last match of the season: Gryffindor against Hufflepuff.
 
-The arithmetic was horrible. Slytherin had won two and lost one, and Ravenclaw had lost all three. Hufflepuff had won two. Gryffindor had won one and lost one, and had lost it by two hundred and forty points. If Gryffindor won by more than two hundred, the Cup went to Gryffindor. If Gryffindor won by less, it went to Slytherin. If Hufflepuff won, it went to Hufflepuff.
+The arithmetic was horrible. Slytherin had won two and lost one, and Ravenclaw had lost all three. Hufflepuff had won two. Gryffindor had won one and lost one, and had lost it by two hundred and forty points. If Gryffindor won by more than two hundred, the Cup went to Gryffindor. If Gryffindor won by two hundred or less, it went to Slytherin. If Hufflepuff won, it went to Hufflepuff.
 
 So Slytherin found itself in the absurd position of having to cheer for Gryffindor, but only up to a point, and then cheer for Hufflepuff instead. Somebody in the sixth year solved the problem by charming two hundred little banners, scarlet on one side and yellow on the other, and handing them round the Slytherin stand. You waved the red side for as long as it was safe, and turned it over the moment Gryffindor looked like winning by too much.
 
@@ -162,7 +162,7 @@ Crabbe and Goyle looked at each other, and held a long, silent conference about 
 
 Down on the grass, the two Seekers stood side by side.
 
-Potter was on a school broom, one of the old Cleansweeps from the shed, with its bristles thin and its handle mended. Lyra had heard Wood had nearly wept about it. Diggory held out his hand with his best smile.
+Potter was on a school broom, one of the old Cleansweeps from the shed, with its bristles thin and its paint worn off. Lyra had heard Wood had nearly wept about it. Diggory held out his hand with his best smile.
 
 “All right, Harry? Good luck. Best man wins.”
 

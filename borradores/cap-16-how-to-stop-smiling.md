@@ -34,7 +34,7 @@ Harry let out a breath. “Right. We’re busy. If he gave one to the Malfoys, h
 
 “The Blacks.” Sirius rubbed a hand down his face. “I’m not much use to you there. I walked out at sixteen and they burnt me off the tapestry. My brother might have known. But he’s been gone for years.”
 
-Harry thought of Malfoy writing to her mother, and wondered what her mother had written back, and said nothing about it.
+Harry thought of Malfoy writing to her mother, and wondered whether that had really been all her mother had written back, and said nothing about it.
 
 “That’s plenty to be going on with. Before any of it, though—”
 

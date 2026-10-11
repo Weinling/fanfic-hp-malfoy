@@ -38,3 +38,13 @@ Ranking del crítico: … 18 ≈ 17 ≈ 20 ≈ **23** > 13… Balance del arco 1
     - Fuera «went quite cold».
     - «like furniture», en vez de «a piece on a board».
     - Dos negaciones románticas menos.
+
+## Continuidad cazada por el crítico del cuarto año (11 de octubre)
+
+En su lectura inicial, el crítico nuevo encontró cinco fallos en los borradores del 16 al 23. Están corregidos:
+
+1. **17:** la tapadera fue idea de Potter «by the lake in June» (decía July; el lago es la última semana del curso, cap. 2).
+2. **19:** «You never say what you mean, do you. Not about anything that counts.» El arreglo por *Year One* se había quedado a medias («You never do»), lo que daba el sentido contrario.
+3. **16:** Harry se pregunta «whether that had really been all her mother had written back». En el 7, Lyra ya le había recitado la carta y le mintió sobre la posdata.
+4. **21:** «on the front steps, later that same night» (decía «three hours from now», y dentro del bucle es menos).
+5. **23:** la Cleansweep de Harry tiene «its paint worn off» (el mango remendado era de una Shooting Star, cap. 22), y la regla de la Copa dice «by two hundred or less», que es lo que da «ten points fewer».

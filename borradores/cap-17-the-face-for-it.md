@@ -46,7 +46,7 @@ Her father looked at her as if she were a letter that had come in a hand he did 
 
 “The Ministry,” he said. “Arthur Weasley’s little crusade.” He turned his glass by the stem. “Do you know, that is very nearly elegant.”
 
-It had been Potter’s idea, by the lake in July. She had only changed whose people did the breaking in, and she did not see why he should have the credit.
+It had been Potter’s idea, by the lake in June. She had only changed whose people did the breaking in, and she did not see why he should have the credit.
 
 “It isn’t anything. It was only a silly question.”
 
