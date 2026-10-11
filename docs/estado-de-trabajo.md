@@ -6,15 +6,22 @@
 
 ## Ahora mismo
 
-- **Informe del revisor recibido y aplicado** (tanda del 23 al 28 y *Year One*): arreglos en 23 a 28 y *Year One* 3 y 4; decisiones en `docs/notas/revisiones/decisiones-tanda-23-a-28.md`. El autor aceptó las ocho recomendaciones (aplicadas). **Siguiente:** el 29, desde Lyra, tras la lectura completa en contexto limpio.
-- **Siguiente:** el 29 (coreano 32, interludio de Harry, avisar).
-- **Cerrado:** el 28, *Credit*, con manual, nota y handoff.
-- **Cerrado:** el 27, *Ferret*, con manual, nota y handoff.
-- **Cerrado:** el 26, *Dues*, con manual, nota y handoff.
-- **Cerrado también:** el 25, *Old Friends*, con manual, nota y handoff.
-- **Cerrado:** el 24, *Replay*, escrito, criticado y revisado, con manual, nota y handoff.
-- **Cerrado hoy:** *Year One*, parte 4 (coreano 26), escrito, criticado y revisado, con manual (`docs/capitulos/extra-year-one-4.md`), nota (`docs/notas/extra-year-one-4-critica.md`) y handoff §15.
-- **También hoy:** coreanos 26 a 35 guardados; resumen (`borradores/resumen-coreano-26-35.md`); lectura completa; plan del arco (`borradores/plan-coreano-26-35.md`); crítico nuevo; cinco fallos de continuidad corregidos en los borradores 16 a 23.
+- **Próximo paso: el capítulo 29** (coreano 32), **desde Lyra** (decisión del autor). Lo empieza una sesión principal nueva. Orden:
+  1. Lecturas: este estado, el handoff entero, todos los manuales, `docs/capitulos/continuidad-transversal.md`, la historia entera en texto completo (abre arco: del 29 al 32) y los coreanos 32, 33 y 34. Apuntarlo abajo.
+  2. Lanzar el crítico nuevo (Opus) con `docs/notas/critico-arranque-29.md`.
+  3. Ficha y guion `borradores/cap-29-ficha-guion.md`, buscando con grep cada «primera vez», nombre y objeto. Hay un informe de lector ya hecho: `borradores/cap-29-lector.md` (ojo: se escribió pensando en un 29 desde Harry).
+  4. Escribir `borradores/cap-29-*.md` escena a escena, con commit y push de cada una.
+- **Para el 29, ya decidido:**
+  - **Desde Lyra:** la reconciliación de Ron y Harry se ve desde fuera. Los Horrocruxes contados a Ron y Hermione, en una línea de Harry. Skeeter, en el *Profeta* del 30.
+  - **La escena de los dos:** el domingo bajo la capa. Lyra le da lo de Karkaroff (no fue él; Crouch y su hijo; los Longbottom) y los dragones. Un beso largo y torpe, de pie, casto; no es el primero en la boca (hubo en el 3 y el 19), sino el primero elegido por los dos.
+  - **Harry no sabe nada seguro de Moody** (la sospecha llega en el 31) y no explica el origen de lo que sabe.
+  - **Lo que rastrea Dumbledore** es la copa de Hufflepuff; el guardapelo ya está destruido.
+  - **La pluma de azúcar:** se menciona una vez (se paga en el 30).
+  - **Krum:** le miró las manos, no la cara; nada de celos de catálogo.
+  - **La cuenta,** solo si la escena la pide (handoff §3).
+  - **Theodore Nott y Blaise Zabini** (parejas de Crabbe y Goyle en el Baile): una línea en el 29 o el 31.
+  - **El mapa:** fijar en el 29 o el 30 que Harry se lo prestó a Moody.
+- **Cerrados:** *Year One* 4 y del 24 al 28, con manual, nota y handoff. Revisados por el revisor (`docs/notas/revisiones/tanda-23-a-28.md`), con arreglos y decisiones aplicados (`decisiones-tanda-23-a-28.md`).
 
 ## Lecturas hechas en esta sesión (protocolo de `CLAUDE.md`)
 
@@ -34,7 +41,5 @@ Ninguno. Todo está commiteado y subido.
 
 ## Decisiones pendientes del autor
 
-- La pluma de azúcar: pagarla o retirarla.
 - En qué capítulo obtiene Lyra alguna pieza de lo que sabe Harry.
-- La cadencia de publicación del 16 al 19.
-- La nota de Wattpad para el 1 al 3 revisados (propuesta: «Chapters 1–3 lightly revised for continuity»).
+- La publicación la lleva el autor (consejos: titular los extras «Year One, Part N»; en Webnovel la numeración automática se adelanta cuatro respecto a la interna).
