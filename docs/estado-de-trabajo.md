@@ -6,7 +6,8 @@
 
 ## Ahora mismo
 
-- **Capítulo en curso:** el 28, *Credit* (coreano 31). Ficha cerrada; las cinco escenas escritas y subidas en `borradores/cap-28-credit.md` (~3.960 palabras). En crítica. Falta: aplicar la crítica, manual, nota, handoff.
+- **Capítulo en curso:** el 29 (coreano 32, interludio de Harry). Un lector busca las referencias; luego ficha `borradores/cap-29-ficha-guion.md` y escritura.
+- **Cerrado:** el 28, *Credit*, con manual, nota y handoff.
 - **Cerrado:** el 27, *Ferret*, con manual, nota y handoff.
 - **Cerrado:** el 26, *Dues*, con manual, nota y handoff.
 - **Cerrado también:** el 25, *Old Friends*, con manual, nota y handoff.
