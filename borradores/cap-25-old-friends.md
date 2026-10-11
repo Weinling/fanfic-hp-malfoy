@@ -112,7 +112,7 @@ It was quite safe to promise. Nobody was going to let a fourth-year without a si
 
 “I promise,” said Lyra.
 
-Her mother looked at her for a long time. Then she leaned over and kissed her forehead, in the place where somebody else had, a week ago, under a cloak, and Lyra kept her face perfectly still.
+Her mother looked at her for a long time. Then she leaned over and kissed her forehead, in the place where somebody else had, a week ago, under a cloak, and Lyra let her.
 
 “Write on Sundays,” said her mother, and went out.
 
@@ -222,7 +222,7 @@ It did not make a sound. Spiders could not. It only drew its legs up into itself
 
 “And the last,” said Moody.
 
-Parkinson put up his hand. He had obviously been waiting to impress somebody all lesson. “*Avada Kedavra*,” he said, and his voice went out at the end of it like a candle.
+Parkinson put up his hand. He had obviously been waiting to impress somebody all lesson. “*Avada Kedavra*,” he said, and his voice gave out halfway through.
 
 Moody nodded, and took out the third spider.
 
@@ -241,3 +241,49 @@ Lyra walked up the stairs to Arithmancy with her hand closed round the ring in h
 If you ever see anybody using one, you come and tell me.
 
 She would not. She did not even have to think about it.
+
+⁂
+
+On the night of Hallowe’en, the Goblet of Fire stood on a stool in front of the staff table, where everyone could see it, and every eye in the Great Hall was on it.
+
+It had been standing in the Entrance Hall for a week behind a thin golden line on the floor that Dumbledore had drawn himself, so that nobody under seventeen could cross it, and the whole school had been to look. The Durmstrang students had come up out of the lake in a ship like a drowned galleon, in heavy furs, with Viktor Krum among them; and Draco, when Lyra wrote to tell him so, had written back for the first time since October, two whole sides, all of it about Krum and none of it about cards. The Beauxbatons girls had come out of a powder-blue carriage the size of a house, drawn by winged horses each as big as an elephant, and had shivered all through dinner in their silk. The Weasley twins had tried an Ageing Potion on the golden line and grown long white beards for their trouble. Lyra had watched it all, and enjoyed it more than she let anybody see, and had not once spoken to Potter.
+
+Now the Hallowe’en feast was over, and the plates were clean, and Dumbledore was on his feet, and the candles in the pumpkins had been put out, so that the only light in the Hall came from the Goblet: a great rough wooden cup, full to the brim with dancing blue-white flames.
+
+The flames turned red. A charred slip of parchment flew out of them and fluttered down into Dumbledore’s hand.
+
+“The champion for Durmstrang,” he read, “is Viktor Krum!”
+
+Nobody had expected anything else. Krum got up from the Slytherin table, where the Durmstrang students had been sitting all week, and slouched up to the front with his shoulders rounded, and went through the door behind the staff table, while the Hall clapped and Parkinson clapped loudest of all.
+
+The flames turned red again.
+
+“The champion for Beauxbatons is Fleur Delacour!”
+
+A girl rose from the Ravenclaw table like a swan getting off a lake. She had a sheet of silvery-blond hair that went most of the way to her waist, and a face that seemed to have been designed for the sole purpose of making boys walk into doors, and every boy in the Hall turned to watch her go. Lyra made a small noise through her nose. Beauxbatons could not have much talent to choose from, she thought, if it had come down to a face.
+
+A third time. The Hall held its breath; this one was theirs.
+
+“The Hogwarts champion,” called Dumbledore, “is Cedric Diggory!”
+
+The Hufflepuff table went off like a firework. Every one of them was on their feet, stamping and screaming, as Diggory made his way up through them, grinning, with people slapping him on the back all the way. The Slytherin sixth and seventh years booed. Montague brought his fist down on the table so hard that Goyle, who had been leaning on her elbow, slid off it.
+
+“Well, that’s Hufflepuff insufferable till Easter,” said Lyra. But she could see why. If it had to be somebody, it might as well be the one person in the castle who was good at everything and played fair while he did it.
+
+“Excellent!” Dumbledore was beaming. “Well, we now have our three champions. I am sure I can count upon all of you, including the remaining students from Durmstrang and Beauxbatons, to give your champions every ounce of support you can muster. By cheering your champion on, you will contribute in a very real—”
+
+He stopped.
+
+The Goblet of Fire had turned red again.
+
+Sparks were flying out of it. A long flame shot up into the air, and on the end of it, a fourth piece of parchment. Dumbledore put out his hand, almost absently, and caught it.
+
+He held it out, and looked at the name written on it, for a long moment. Then he cleared his throat, and his voice, when it came, was not loud at all.
+
+“Harry Potter.”
+
+The Hall did not erupt. There was no noise in it whatever.
+
+Lyra sat at the Slytherin table and did not move. She was thinking of a green skull hanging in the sky over a dark wood, that nobody had seen for thirteen years. Of a tournament that had been stopped two hundred years ago because the people in it kept dying. Of a fourth champion who could not exist, because there were three schools and three champions and an old man’s golden line on the floor. And of the name the fourth champion had been given: a boy of fourteen, the same age as her, who had stood in a field full of tents and told her to go back to her mother.
+
+In her pocket, under her fingers, the ring was growing warm.
