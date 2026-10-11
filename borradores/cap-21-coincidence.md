@@ -234,7 +234,7 @@ Harry made a small noise and put his hand over his mouth.
 
 Malfoy came down the last flight a moment later. Her ribbon was gone, and her hair was all over the place. She stood at the bottom with her chest heaving, looking about, and then she saw something at the far end of the corridor, under the tall windows, and set off towards it.
 
-Potter was there, in the thin orange light off the lake, with Granger. The two of them had their heads together.
+Potter was there, in the torchlight, with Granger. The two of them had their heads together.
 
 The moment before the worst.
 

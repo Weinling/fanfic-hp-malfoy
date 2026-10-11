@@ -184,7 +184,7 @@ Buckbeak ruffled his feathers and looked away, as though it had been nothing to 
 
 She raised her wand again and went among the people on the stones.
 
-Potter, Granger, Weasley, and Sirius Black, all four of them out cold. Black was in a terrible state, torn all over with the marks of claws; he must have fought the thing for some time. A little apart from the others lay a short, balding man in filthy clothes, face down, with his hands curled under his chin.
+Potter, Granger, Weasley trussed up in ropes, and Sirius Black, all four of them out cold. Black was in a terrible state, torn all over with the marks of claws; he must have fought the thing a long while. A little apart from the others lay a short, balding man in filthy clothes, face down, with his hands curled under his chin.
 
 Lyra looked at him, and her skin crawled. She had never seen him before in her life, and she knew exactly who he was. Twelve years. One finger. A wire trap in a corridor with a square of treacle tart inside it.
 

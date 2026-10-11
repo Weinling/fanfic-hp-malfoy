@@ -182,7 +182,7 @@ He was there and gone in a second, round the corner. Lyra went after him at once
 
 Her ribbon had come off somewhere on the second landing. She did not go back for it.
 
-Potter was at the far end of the ground-floor corridor, under the tall windows, with Granger. The light off the lake had gone thin and orange, and the two of them stood in it with their heads together, exactly as they had stood in the window bay before the holidays, and Lyra was halfway down the flagstones before it occurred to her that he did not look like somebody who had just run down four flights of stairs. He looked like somebody who had been standing at a window for ten minutes, talking.
+Potter was at the far end of the ground-floor corridor, under the tall windows, with Granger. The tall windows had gone black, and the torches were lit, and the two of them stood in the light of one with their heads together, exactly as they had stood in the window bay before the holidays, and Lyra was halfway down the flagstones before it occurred to her that he did not look like somebody who had just run down four flights of stairs. He looked like somebody who had been standing at a window for ten minutes, talking.
 
 She did not stop to wonder about it.
 
