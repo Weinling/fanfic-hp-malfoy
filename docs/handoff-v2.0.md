@@ -725,3 +725,15 @@ Las notas del crítico del 19 son 9/9/9/7/7/9/7/7 (empata con el 15 en cabeza). 
 - Lyra cursa Adivinación y Aritmancia. Nunca coincide con Granger en Adivinación.
 - La sonrisa de Harry queda retirada como motivo a partir del 23, sin glosas.
 - Decisiones en `docs/notas/revisiones/decisiones-lectura-01-a-22.md`.
+
+**Extra *Year One*, escrito** (`borradores/extra-year-one-1…3`, crítica en `docs/notas/extra-year-one-critica.md`). Tres partes desde el punto de vista de Harry, con escenas de Lyra. Lo que fijan:
+- Harry pidió Slytherin al Sombrero por ella.
+- En la clase de vuelo la recoge por primera vez. Es «the first time» del 5, enterrada con ayuda de Harry, que pidió silencio.
+- El vuelo sin manos empezó como cortesía.
+- Usa el nombre de Voldemort, sonriendo, como arma.
+- Crabbe se apiadó de él.
+- El día en que los padres de Lyra no volvieron (ella tenía ocho años): vuelven al amanecer, la madre con la capa de viaje y el padre con la mano de la varita vendada.
+- Por la cicatriz, Harry ve a Snape de rodillas ante Voldemort con la profecía («spare her»): «You killed my mum and dad». Snape le ignora desde entonces y Harry desconfía de Dumbledore.
+- La mirada de insecto de Harry es el origen del boggart del 4.
+
+**Todos los coreanos recibidos (14 a 25) están adaptados.** Lo siguiente es pedir al autor el coreano 26 en adelante (el cuarto año).
