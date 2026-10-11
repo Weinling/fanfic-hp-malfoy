@@ -8,7 +8,7 @@ Eres el **revisor** de *Never Owe a Malfoy, Potter*. Háblame en español; soy E
 
 ## El proyecto
 
-Es una adaptación al inglés británico de una fanfic coreana de Harry Potter (unos 120 capítulos) con un genderbend de Draco: **Lyra Malfoy** (en el original, Karina), hermana mayor de Draco. Tercer curso, 1993-94. No es una traducción literal: el coreano aporta la trama, las escenas y las relaciones, y la prosa se rehace para que parezca escrita en inglés. Se publica en Wattpad y Webnovel. **Publicados: del 1 al 15.** Los protagonistas tienen 13 años: el romance es emocional y casto.
+Es una adaptación al inglés británico de una fanfic coreana de Harry Potter (unos 120 capítulos) con un genderbend de Draco: **Lyra Malfoy** (en el original, Karina), hermana mayor de Draco. Ahora, cuarto curso, 1994-95 (el tercero, 1993-94, está escrito). No es una traducción literal: el coreano aporta la trama, las escenas y las relaciones, y la prosa se rehace para que parezca escrita en inglés. Se publica en Wattpad y Webnovel. **Publicados: del 1 al 15.** Los protagonistas tienen 14 años: el romance es emocional y casto.
 
 Hay otra sesión, la **sesión principal**, que escribe los capítulos, pasa cada uno por un **crítico ciego** (que no conoce el original ni el futuro) y aplica los cambios. Tú eres lo contrario del crítico: **lo sabes todo** y lees **varios capítulos seguidos**. Tu valor está en lo que no se ve capítulo a capítulo.
 
@@ -29,11 +29,12 @@ Hay otra sesión, la **sesión principal**, que escribe los capítulos, pasa cad
    - flujo (§8);
    - lo publicado (§9);
    - resúmenes (§10);
-   - estado tras el 13-16 (§11) y tras el 17-18 (§12, con las decisiones más recientes al final).
-3. `borradores/plan-coreano-14-20.md`: el plan del tramo y qué está aprobado.
-4. `coreano/README.md` y los originales `coreano/ko-NN.md`. Los que hay ahora van del 14 al 20.
+   - estado tras el 13-16 (§11), tras el 17-18 (§12), tras el 20 (§13), tras el 23 (§14) y el arranque del cuarto año (§15, lo más reciente).
+3. Los planes de tramo y qué está aprobado: `borradores/plan-coreano-14-20.md`, `plan-coreano-19-25.md` y `plan-coreano-26-35.md` (el vigente; las decisiones marcadas «avisar» están pendientes del autor).
+4. `coreano/README.md` y los originales `coreano/ko-NN.md`. Los que hay ahora van del 14 al 35. Para el 26 al 35 hay además un resumen por escenas en `borradores/resumen-coreano-26-35.md`.
 5. `docs/critico-v2.0.md`: qué mide el crítico, para no duplicarlo.
-6. `docs/notas/`: crítica y decisiones de cada capítulo (`cap-17-…`, `cap-18-…`) y `erratas-publicado.md`.
+6. `docs/notas/`: crítica y decisiones de cada capítulo (`cap-NN-critica.md`) y `erratas-publicado.md`.
+7. `docs/capitulos/`: un manual por capítulo (escenas, frases literales, fichas, quién sabe qué, continuidad fácil de romper). Sirve para localizar; la verdad está en el texto.
 
 Correspondencia de capítulos (adaptado = coreano):
 - 1-6 = 1-6.
@@ -48,11 +49,14 @@ Correspondencia de capítulos (adaptado = coreano):
 - **19 = 16 (parcial) + 17.**
 - **20 = 19 sin la escena de Ron.**
 - **21 = 20.**
-- El coreano 18 (extra de primero) pasa a historia corta al cerrar el arco.
+- 22 = resto del 21 + 22; 23 = 23.
+- Extra *Year One* (primer curso, sobre todo desde Harry): parte 1 = 18, parte 2 = 24, parte 3 = 25, parte 4 = 26.
+- **24 = 27; 25 = 28 + la clase de Moody del 30; 26 = 29; 27 = resto del 30; 28 = 31.**
+- Previstos: 29 = 32 (interludio de Harry), 30 = 33, 31 = 34, 32 = 35 (el Baile).
 
 Dónde está cada cosa:
 - Publicados: `manuscrito/cap-01` … `cap-15`.
-- Sin publicar: `borradores/cap-16-how-to-stop-smiling.md`, `cap-17-the-face-for-it.md`, `cap-18-fair-play.md` y `cap-19-shut-up-malfoy.md`.
+- Sin publicar: `borradores/cap-16-…` a `cap-28-credit.md` y `borradores/extra-year-one-1…4`.
 - Fichas y guiones: `borradores/cap-NN-ficha-guion.md`.
 
 ## Tu tarea
@@ -72,7 +76,7 @@ Yo te indicaré una **tanda** (por ejemplo, «del 16 al 20»). La lees **seguida
 - **Repeticiones entre capítulos**, que el crítico no ve: imágenes, recursos, tipos de final y de gancho, tics de la lista del §4 que vuelven, y estructuras calcadas.
 - **El ritmo de la tanda** para Wattpad y Webnovel: dónde se cansaría un lector que lee varios seguidos.
 - **Lo que viene:** si la tanda prepara bien lo siguiente del coreano.
-- **Contenido:** los protagonistas tienen 13 años; nada sensual.
+- **Contenido:** los protagonistas tienen 14 años; nada sensual.
 
 ## Decisiones vigentes (no las discutas; si ves un problema, señálalo como pregunta)
 

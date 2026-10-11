@@ -6,7 +6,8 @@
 
 ## Ahora mismo
 
-- **Capítulo en curso:** el 29 (coreano 32, interludio de Harry). Un lector busca las referencias; luego ficha `borradores/cap-29-ficha-guion.md` y escritura.
+- **En pausa para el revisor** (propuesta al autor, 11 de octubre): tanda recomendada, *Year One* 1 a 4 y del 23 al 28, más los cinco arreglos del 16 al 23. No se escribe el 29 hasta su informe. El lector del 29 está trabajando; su informe se guardará en `borradores/cap-29-lector.md`.
+- **Siguiente:** el 29 (coreano 32, interludio de Harry, avisar).
 - **Cerrado:** el 28, *Credit*, con manual, nota y handoff.
 - **Cerrado:** el 27, *Ferret*, con manual, nota y handoff.
 - **Cerrado:** el 26, *Dues*, con manual, nota y handoff.
