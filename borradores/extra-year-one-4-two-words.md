@@ -150,7 +150,7 @@ Harry tipped his head back towards the portrait hole, behind which Neville was p
 
 “She’ll go to *Snape!* You don’t know what he’ll do!”
 
-“Snape.” Harry’s face went cold all at once, as though somebody had opened a window behind it. “I’d quite like to know that myself. Whether he’d get rid of me while he was pretending to give me a detention.”
+“Snape.” Harry’s face went cold, as though somebody had opened a window behind it. “I’d quite like to know that myself. Whether he’d get rid of me while he was pretending to give me a detention.”
 
 “*Harry!*”
 
@@ -162,7 +162,7 @@ Hermione’s mouth fell open. She looked up and down the empty staircase as if s
 
 “But everything you *do* is dangerous! You know somebody wants to—Harry, somebody might really try to kill you!”
 
-“I know,” said Harry. “I’m rather hoping they will. Then I’ll know.” He smiled at her, and it was not a nice thing to look at, and he did not seem to know it. “Who’s who.”
+“I know,” said Harry. “I’m rather hoping they will. Then I’ll know.” He smiled at her as he said it, and did not seem to know what his face was doing. “Who’s who.”
 
 Hermione let go of his shoulder.
 
@@ -176,4 +176,4 @@ Ron came clattering down after them both, red in the face and grinning all over 
 
 He fell in beside Harry, still grinning, and started telling him in great detail what Crabbe would look like with her legs stuck together, and Harry laughed. It was his ordinary laugh. The face he had worn a minute ago on the stairs might never have been there at all.
 
-Hermione stood on the landing for a moment, watching the pair of them go. Then she made a small, furious noise, and went after them.
+Behind them, after a moment, Harry heard Hermione make a small, furious noise on the landing, and come after them.
