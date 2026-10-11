@@ -88,7 +88,11 @@ Lyra had seen them, and had assumed they were there for some tiresome official. 
 
 The arrest itself did not surprise her in the least. Potter had spent two years committing every offence the school rules had a name for and several they did not, and he always turned up to Transfiguration the next morning looking faintly pleased with himself. What interested her was the rest of it. If the Ministry simply wanted a wizarding boy out of a Muggle police station, anybody with a decent Memory Charm could have gone round and done it in a quarter of an hour. Nobody sent Aurors for that. Aurors were sent when somebody at the Ministry was worried.
 
-Monday’s *Daily Prophet* had carried yet another piece on Sirius Black, who had escaped from Azkaban at the end of July. Black had killed thirteen people with a single curse, twelve Muggles and one wizard, in the middle of a street in broad daylight, and then he had stood among the bodies and laughed. He was the first prisoner in history to get out of Azkaban. Nobody knew how, and nobody knew where he was going.
+“Maybe he nicked something,” offered Crabbe.
+
+“I have no doubt he’s committed a crime, Crabbe. That isn’t the interesting part.”
+
+Monday’s *Daily Prophet* had carried yet another piece on Sirius Black, the fifth or sixth since he had escaped from Azkaban at the end of July. Lyra had read it over breakfast while her father read the financial pages and pretended not to be reading over her shoulder. Black had killed thirteen people with a single curse, twelve Muggles and one wizard, in the middle of a street in broad daylight, and then he had stood among the bodies and laughed. He was the first prisoner in history to get out of Azkaban. Nobody knew how, and nobody knew where he was going.
 
 And the Ministry had sent Aurors for Potter.
 
@@ -130,9 +134,15 @@ Whatever else one thought of him, there was no better source on Potter’s crime
 
 “What on earth did you do,” she said, “to get arrested by Muggles?”
 
-“Oh, that.” He seemed pleased she had asked. “My Aunt Marge came to stay. She’s horrible about my mum and dad, and I couldn’t hex her, so on the last night, while she was asleep in the armchair with her mouth open, I tipped in all my popping candy and most of a bottle of Coke. She woke up fizzing and thought she was going to explode, and rang the police.” He grinned. “Better than magic, honestly. I’ll get you some one day.”
+“Oh, that.” He seemed pleased she had asked. “There’s this woman, Aunt Marge. My uncle’s sister. She’s horrible. She’s horrible to me, and she’s horrible about my mum and dad, and she came to stay for a week, and by the last night I’d had enough of her. I wanted to hex her into next Tuesday, but you can’t do magic outside school, and I didn’t fancy getting expelled over Aunt Marge. So I didn’t. After dinner she fell asleep in the armchair with her mouth open, snoring, the way she does, and I got every packet of popping candy I’d been saving up and tipped the lot in, and then most of a bottle of Coke after it.”
 
-Lyra felt a small, disgraceful flicker of curiosity about popping candy, whatever it was, and put her foot on it.
+Lyra waited for the part where something happened.
+
+“What is popping candy?”
+
+“Muggle sweets. It’s like sherbet, except it goes off in your mouth like tiny fireworks. And there’s this story every Muggle kid knows, that if you have it with Coke your stomach explodes.” His grin widened. “It doesn’t. But Aunt Marge knows the story as well. She woke up fizzing and choking and absolutely certain she was about to go off like a bomb, and she was screaming that I’d poisoned her, and she rang the police. They took me down the station in the back of a panda car.” He seemed to consider this the best part. “Better than magic, honestly. I’ll get you some one day.”
+
+Lyra felt a small, disgraceful flicker of curiosity about popping candy, and put her foot on it.
 
 “And then the Ministry turned up,” Potter went on. “Half of Magical Law Enforcement. Got me out of the police station before anyone could take my fingerprints.”
 
@@ -150,9 +160,9 @@ Knowledge was power. Lyra felt the truth of it now, settling in her chest like a
 
 Lyra watched him do it and felt something she had not expected to feel for Harry Potter, which was pity.
 
-She knew what her father knew, or at least the parts he had let slip over port at Christmas. Sirius Black had been the Potters’ best friend, and he had sold them to the Dark Lord anyway. Her father had seemed to find that the only admirable thing about him. Black was also, though nobody at the Manor ever said so, her mother’s cousin. His name had been burnt off the family tapestry long before Lyra was born, and her mother had a way of leaving the room whenever the *Prophet* printed his face. Lyra thought of that long look on the platform and wondered, for the first time, whether it had been about her at all.
+She knew what her father knew, or at least the parts he had let slip over port that summer. Sirius Black had been the Potters’ best friend, and he had sold them to the Dark Lord anyway. Her father had seemed to find that the only admirable thing about him. Black was also, though nobody at the Manor ever said so, her mother’s cousin. His name had been burnt off the family tapestry long before Lyra was born, and her mother had a way of leaving the room whenever the *Prophet* printed his face. Lyra thought of that long look on the platform and wondered, for the first time, whether it had been about her at all.
 
-And now Black was out, and the only Potter left was sitting in her compartment eating her sweets, with no idea that the man who had killed his parents was very probably coming to finish the job. If Black managed it, the boy keeping her family’s secret would be gone, and the sum Lyra had worked out at her desk in July would stop adding up.
+And now Black was out, and the only Potter left was sitting in her compartment eating her sweets, with no idea that the man who had killed his parents was very probably coming to finish the job. If Black managed it, the boy keeping her family’s secret would be gone, and the sum Lyra had worked out at her desk in July would stop adding up. She had no patience with stupidity. But even she could see there was something unbearable about a boy who nearly died every year and still walked about as though the world were a large and entertaining playground.
 
 “Honestly, Potter,” she said, “you don’t know anything at all, do you? You’re so calm about it you could almost be happy.” She said it kindly, by her own standards. “If I were you, I’d find out a great deal more about Sirius Black. Understand what he wants, and you’ll know where he’s going.”
 
@@ -174,7 +184,7 @@ Lyra turned her head. It felt as if it needed oiling.
 
 “POTTER!”
 
-It was always like this. He came through a room like weather, dragged everyone in it along at his own pace, and was gone before anybody could get a hand on him, and she had fallen for it *again*. She had given him advice, real advice, and he had patted her on the head for it.
+It was always like this. He came through a room the way he flew, dragged everyone in it along at his own pace, and was gone before anybody could get a hand on him, and she had fallen for it *again*. Her hair was in ruins. Her tea was cold. She had given him advice, real advice, and he had patted her on the head for it.
 
 “Hooligan,” she said. “Lout. Yob. Guttersnipe.”
 
@@ -188,9 +198,11 @@ It was always like this. He came through a room like weather, dragged everyone i
 
 ⁂
 
-She had just got the last pin back in when the train began to slow, far too early for Hogsmeade. Outside there was nothing but rain and dark moorland. The brakes shrieked, doors slid open all along the corridor, and the lamps went out.
+She had just got the last pin back in when the train began to slow.
 
-The cold seemed to come from somewhere inside the compartment itself, as though the air had been emptied of something Lyra had never noticed it contained until it was gone. The rain on the glass froze into crooked white lines. And underneath the cold came something worse, a slow grey certainty that nothing had ever been pleasant and nothing ever would be again.
+It was far too early for Hogsmeade. The rain that had been following them since Peterborough was lashing the windows, and outside there was nothing but dark moorland and darker sky. The carriage gave a shudder, the brakes shrieked, and all along the corridor doors slid open and voices rose, asking each other what was going on. Then the lamps went out.
+
+The cold came a moment later. It did not come through the window or under the door. It seemed to come from somewhere inside the compartment itself, as though the air had been emptied of something Lyra had never noticed it contained until it was gone. The rain on the glass began to freeze into crooked white lines. Her breath smoked. And underneath the cold came something worse, a slow grey feeling that seeped into her like water into a boot, the certainty that nothing had ever been pleasant and nothing ever would be again.
 
 Crabbe gave a small, strangled whimper. Goyle had both hands pressed to her mouth.
 

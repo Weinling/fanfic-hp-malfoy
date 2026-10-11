@@ -57,3 +57,38 @@ Queda unas 140 palabras por encima del objetivo de 4.000, por las líneas trasla
   - «hold a candle to Honeydukes», que chocaba con el 8;
   - «spent an entire term getting even with Snape», que ningún capítulo posterior cita.
 - **El objetivo de 4.300 no se alcanza.** Por debajo de unas 4.600 se perderían la rana, el santo de escayola y «like weather». El crítico está de acuerdo.
+
+## Segunda vuelta: crítica externa (11 de octubre de 2026)
+
+El autor pasó una crítica externa que comparaba el texto nuevo con el anterior. Para el 2 y el 3, su «anterior» no coincide del todo con el repositorio: es un borrador más antiguo, como el que hay en `fuentes/` y en el handoff v1.5, quizá el de Wattpad. Aun así, los argumentos valen igual.
+
+**El 1 vuelve a la estructura original.** El argumento decisivo: los injertos partían la escena justo en los golpes («Malfoy» / «A word», «Not your problem» / «It is entirely my problem», «You sure?» / «Did I ask…», y el tren entero en el apretón). El original siembra antes y paga limpio en el clímax. Además, conserva la primera chispa del ship («handsome… purely objective assessment»), la voz de Lyra antes de romperla y «the Malfoys would still be standing in the middle of it». Ajustes sobre el original:
+- Fuera «She went on thinking so right up until…», que repetía la primera frase.
+- «took ten minutes she didn’t really have in front of the mirror».
+- Panther Parkinson aparece en la sala común («so hard that he fell off the arm of his chair»), para que el «him» de capítulos posteriores no parezca errata.
+- Crabbe y Goyle llevan «nightdresses»: el lector sabe desde el 1 que son chicas.
+- La carta de Navidad se queda: cuadra con el canon. La errata se resuelve en el 3.
+
+**El 2 es el texto actual más lo que el crítico prefería del anterior:**
+- El párrafo del gusto entero.
+- «Which meant… and tell it well… next to everything else she was putting aside for later».
+- «a long, level look», y la segunda mención queda en «Of her mother, and that long look across the breakfast table» (antes se repetía «who knew everything worth knowing»).
+- «the habit Crabbe had caught her at the night Gryffindor stole the House Cup», en vez de «an old habit from».
+- Tras «She was not certain she wanted the answer», el apunte del ship: «A boy who handed you the only thing he had on you was either a fool or something she did not have a word for, and Potter, whatever else he was, was not a fool.»
+- Se mantienen Daphne Greengrass y «Don’t take too long, though».
+
+**El 3, híbrido.**
+- **El andén, tal cual:** el guardia entero, «entertainingly flustered» y la preparación y el remate de los Ravenclaw.
+- **Del tren a los dementores se recupera el original:**
+  - «Maybe he nicked something»;
+  - el padre leyendo el *Prophet* por encima del hombro;
+  - Marge entera («Lyra waited for the part where something happened», el «panda car»);
+  - «a large and entertaining playground»;
+  - «Her hair was in ruins. Her tea was cold.»;
+  - la llegada lenta del dementor.
+- **Se mantienen fuera:** el intercambio de los muggles de Londres, el párrafo de las represalias (repetía el 1) y «hold a candle to Honeydukes», que chocaba con el 8.
+- **«He came through a room the way he flew»,** en vez de «like weather».
+- **«over port that summer»** en vez de «at Christmas», por la carta del 1.
+- **Se mantienen** «dark chocolate» tras el *Enervate* y la limpieza de tics.
+
+Extensión final: el 1, ~4.700 palabras; el 2, ~3.090; el 3, ~5.110. El autor aceptó la extensión a cambio del ritmo de escena.

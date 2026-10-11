@@ -28,7 +28,7 @@ Draco, at least, was entirely himself. He was not yet old enough for Hogwarts, w
 
 “Then Father can tell you about the basilisk.”
 
-Her mother, who knew everything worth knowing, had looked at her across the breakfast table on the first morning for slightly longer than usual, and then asked her nothing at all. Lyra was grateful for that, and uneasy about it, in roughly equal measure.
+Her mother, who knew everything worth knowing, had given her a long, level look across the breakfast table on the first morning, and then asked her nothing at all. Lyra was grateful for that, and uneasy about it, in roughly equal measure.
 
 The trouble was that Potter had told her to say it in person, and on any other subject Lyra would sooner have eaten her own wand than follow Potter’s instructions. On this one, infuriatingly, he had a point. Letters could be opened. Owls could be followed. Whatever she had to tell her father, it had to be said in a room with the door shut.
 
@@ -138,7 +138,7 @@ She went up to her room, where Pobble had already lit an enormous fire, opened e
 
 The best possible outcome, clearly, was that the Dark Lord stayed exactly where he was, which was nowhere. It was a disloyal thought. She made herself finish it anyway. The Malfoys already had money, and influence, and a house older than most of the Ministry’s laws. The Dark Lord could not give them a single thing they did not already have. All he could do was take things away, and he had a reputation for doing that thoroughly. Standing with him meant staking everything they owned for the privilege of keeping it, and Lyra had been doing sums since she was five. The sum did not work.
 
-There was also the question of taste. Lyra had discovered at around the age of six that a smile could get her almost anything she wanted, and she thought the right sort of people ought to rule charmingly. A world run on curses struck her as dreadfully crude.
+There was also the question of taste. Lyra had discovered at around the age of six that a smile could get her almost anything she wanted, and she had spent the years since refining the technique. She had no objection whatsoever to the right sort of people being in charge. She simply thought they ought to manage it charmingly. A world run on curses struck her as dreadfully crude.
 
 So, then. If the Dark Lord was to stay gone, she would have to help Potter keep him that way, which was an intolerable sentence to think and there was no way round it. And if Potter failed, and the Dark Lord came back regardless, then the Malfoys would need to keep their heads down and make very sure that nobody ever learned what had happened to that diary.
 
@@ -168,15 +168,15 @@ It was not the sort of thing a twelve-year-old ought to think of. Lyra had told 
 
 “You don’t have to.” He had shrugged. “Up to you, Malfoy. Don’t take too long, though.”
 
-It was only afterwards, halfway back up the lawn, that the obvious question had caught up with her. If he gave her the diary, what exactly would he have left to blackmail her with? She had not gone back to ask. She was not certain she wanted the answer.
+It was only afterwards, halfway back up the lawn, that the obvious question had caught up with her. If he gave her the diary, what exactly would he have left to blackmail her with? She had not gone back to ask. She was not certain she wanted the answer. A boy who handed you the only thing he had on you was either a fool or something she did not have a word for, and Potter, whatever else he was, was not a fool.
 
 She had said she would think about it. She had been thinking about it ever since, and she had to admit, sitting at her desk with the fire roaring behind her in the middle of July, that Potter had been right about this too. A lie with the diary in it might keep her father alive. The truth would not. Put carefully away at the Manor for eleven years, then tucked into a schoolgirl’s cauldron out of spite, carried into Hogwarts in a satchel full of secondhand books, and destroyed there, soul and all. There was no version of that story the Dark Lord would forgive. If he ever heard it, somebody would die, and it would certainly be Father.
 
-If that day ever came, Father would have to tell the lie himself, and he could hardly tell a lie he did not know he needed. Lyra put that aside for later. The pile was getting tall.
+Which meant that if that day ever came, Father would have to tell the lie himself, and tell it well, and he could hardly tell a lie he did not know he needed. Lyra put that aside for later, next to everything else she was putting aside for later. The pile was getting tall.
 
-Lyra caught her thumbnail halfway to her teeth, an old habit from the night Gryffindor stole the House Cup, and pressed her hand flat on the desk instead.
+Lyra caught her thumbnail halfway to her teeth, the habit Crabbe had caught her at the night Gryffindor stole the House Cup, and pressed her hand flat on the desk instead.
 
-She thought of her father, who called her his treasure and meant it. Of her mother, who knew everything worth knowing and had looked at her across the breakfast table for a moment too long. Of Draco, who had asked her that morning whether basilisks could be tamed and, if so, whether she would get him one for his birthday. People called them bigots and blood purists and worse. Lyra supposed they were right about that, and she could not have cared less. They were hers.
+She thought of her father, who called her his treasure and meant it. Of her mother, and that long look across the breakfast table. Of Draco, who had asked her that morning whether basilisks could be tamed and, if so, whether she would get him one for his birthday. People called them bigots and blood purists and worse. Lyra supposed they were right about that, and she could not have cared less. They were hers.
 
 Somebody was going to have to keep the Malfoys alive.
 
