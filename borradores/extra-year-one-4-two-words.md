@@ -177,3 +177,121 @@ Ron came clattering down after them both, red in the face and grinning all over 
 He fell in beside Harry, still grinning, and started telling him in great detail what Crabbe would look like with her legs stuck together, and Harry laughed. It was his ordinary laugh. The face he had worn a minute ago on the stairs might never have been there at all.
 
 Behind them, after a moment, Harry heard Hermione make a small, furious noise on the landing, and come after them.
+
+⁂
+
+They were still outside the library, the three of them, on the bench under the window, and they had seen him coming from the end of the corridor.
+
+“You wanted me, Malfoy?”
+
+Harry smiled as he said it. It was a good smile, and he knew it was; he had been practising since the summer, on the instructions of somebody who had told him in a robe shop to smile like he meant it. He meant this one. He meant it the way you mean a punch.
+
+“You didn’t put the Leg-Locker on Neville for nothing,” he said. “Obviously. It was a message for me. You’d hardly waste a whole evening on something that childish otherwise.”
+
+He watched it land. In a second and a half he had turned her into a girl who jinxed people’s legs in corridors for want of anything better to do, and she knew it, and so did the people beginning to drift over from the library doors to see what was happening.
+
+Malfoy’s mouth went thin.
+
+“Harry Potter,” she said.
+
+“That’s right. The famous one.” He said it loudly, for the corridor. “Is that it? You went to all that trouble to say my name? Were you going to confess something?”
+
+“Don’t be absurd. I wouldn’t. Not now, and not ever.”
+
+She put up a hand and swept her hair back over her shoulder.
+
+It was a very small thing to do. Harry, who had spent five months watching her across classrooms when he was supposed to be doing something else, knew exactly what it was for. The hair went back, pale and bright, and for a moment every eye in the corridor went with it, and he saw her feel them go, and stand up straighter because of it. Chin up. Shoulders back. She had done the same thing to him once, with her own two hands.
+
+“I’m warning you, Potter,” said Malfoy. “That’s quite enough of your cheek.”
+
+“Cheek? What cheek?”
+
+“This, to begin with. But not only this.” There were twenty people round them now, and more coming, and she raised her voice to reach the back of them. “You pick fights with older students. You talk in Potions. You show the professors no respect at all. If you don’t learn your place, you’ll find things get very awkward. For you, and for everybody round you.” Her hand had gone to her wand. “Longbottom was a warning.”
+
+Harry took a step towards her.
+
+All three of them flinched, as neatly as if they had rehearsed it. Malfoy caught herself at once and turned it into something else, a shake of the head, but he had seen it, and so had the people at the front.
+
+“Sorry, Malfoy, I’m confused,” he said, and he did look confused, honestly and openly, as though he truly wanted her to help him with it. “*I* pick fights? You mean those two third-years who waited for a first-year behind the greenhouses and lost? I’d keep quiet about that, if I were them. I’d be too embarrassed to come down to breakfast.”
+
+Somebody at the back laughed. Then several people did.
+
+“And respect?” Harry turned so that he was talking to all of them. “When did I tell a lie? Is it a lie that Snape was one of *his*? Everybody knows. They just don’t say it. Or is it a lie that he picks on eleven-year-olds because he can? Which bit was the lie?”
+
+This time the whole corridor laughed: the Gryffindors, and the Hufflepuffs who had been on their way to the library, and a knot of Ravenclaws by the window with their books held against their chests. Everybody but the Slytherins.
+
+It had taken him less than a minute. Crabbe and Goyle had both gone quiet, and Malfoy was biting her lip.
+
+“Stop it! Both of you!” Hermione had pushed her way to the front. She looked at the crowd and then at Harry, and pulled at his sleeve. “Harry, that isn’t what we came for. We came to get an apology for Neville!”
+
+“Did we?” muttered Ron, and stopped when Hermione looked at him.
+
+“You’re going too far as well, Harry, you know you are. But *you*—” she rounded on Malfoy, “—you can’t just go round jinxing people because you feel like it! You owe Neville an apology!”
+
+It was the worst thing she could have done. Harry knew it a second before it happened. Malfoy had just been made a fool of in front of half the school; she was not going to apologise to anybody, and certainly not because some girl with frizzy hair had stepped out of the crowd and told her to.
+
+“Nobody asked *you* to stick your nose in!” Malfoy’s voice went high and shrill. “Get out of it, you filthy little *Mudblood*!”
+
+The corridor changed.
+
+Harry felt it before he understood it. He did not know the word; nobody at Privet Drive had ever needed one like it. But he could feel what it was from every face round him. The laughter went out of the place as if somebody had shut a door on it. Hermione went white. Ron, who five minutes earlier had been grinning about Crabbe’s legs, stepped in front of her with his fists clenched and his ears scarlet, and even some of the Ravenclaws by the window had gone pale with anger.
+
+So it was that sort of word.
+
+Harry moved first.
+
+“*Locomotor Mortis!*”
+
+Crabbe’s legs snapped together and she went down sideways, and her wand skittered away across the flagstones. Goyle had hers out a moment later. A jet of something hit Harry’s hand like a slap, and his wand went spinning out of it and away under the bench.
+
+Ron went for Goyle. There was a great deal of flailing; Goyle shoved him so hard he went rolling across the floor, but he had got hold of her wand on the way, and by the time the two of them were on their feet again both wands had been flung down the corridor in opposite directions, and Ron and Goyle were glaring at each other with nothing in their hands at all.
+
+Which left Malfoy.
+
+Harry walked towards her. She had her wand up, and her hand was shaking.
+
+“*Flipendo!*”
+
+It hit him on the side of the head. The corridor tipped. He took one step to the side to stop himself falling and kept going, and was on her before she could say anything else. He got her wand out of her fingers and threw it as far as he could, and took hold of her wrist, and put her back against the wall.
+
+She hit the stone with a thump. “*Ow!*”
+
+“Watch your mouth, Malfoy.”
+
+“Let—go of me!”
+
+“You’re frightened of his *name*,” said Harry, “and you’ll say *that*? If you’re going to be frightened of words, be frightened of that one!”
+
+“I’ll say it as often as I *like!*” She was frightened; he could see it all over her. She said it anyway, straight into his face. “*Mudblood!*”
+
+“*Voldemort!*”
+
+People flinched all round them, as if he had thrown something. Something was running down into Harry’s left eye, warm and wet. The jinx had split his eyebrow open. Half of the corridor had gone red, and he did not care; he could still see her.
+
+“He tried to kill me,” said Harry, “and he couldn’t do it. He couldn’t even manage a baby, and then he disappeared. That’s what you’re frightened of? So frightened you can’t even say his name?” He leaned closer. “That isn’t frightened, Malfoy. That’s pretend. Do you want to know what being frightened is *really*—”
+
+Her face crumpled.
+
+He watched it go. She had been holding it all together the whole time, the hair and the voice and the chin, and now it went all at once, and she burst into tears: not neatly, not the way girls cried in books, but the way a child cries, with her mouth open and her eyes screwed shut and great hiccupping sobs that echoed off the stone.
+
+It went straight through him.
+
+The anger went out of him as if somebody had pulled a plug. The pounding in his head went with it. And something cold and small and horrible came up in its place, and sat in his stomach.
+
+He looked down at his own hand. It was still round her wrist, and there were red marks coming up on her skin where his fingers had been. That would hurt. He had not thought of that. He let go of her as fast as if she had burnt him, and took a step back.
+
+“Wh—why are you *crying*?”
+
+“I hate it,” sobbed Malfoy. She did not seem to know she was talking. “I *hate* it—Vol-Voldemort, and the—that word—all of it—I hate all of it—”
+
+Harry stared at her. She had said the name. He did not think she knew.
+
+“—and I hate *you*—”
+
+It was the most childish thing he had ever heard anybody say. It hit him harder than the jinx had. He actually stepped back from it, as though she had pushed him.
+
+Behind him, Crabbe got her legs apart. It had only been a first-year’s jinx, and it had given out. She came across the flagstones like a small round cannonball and hit Harry square in the chest with both hands.
+
+“*Get off her!*”
+
+He went over backwards. He was not expecting it, and he had nothing left to stop himself with; he sat down hard on the floor with his head ringing. By the time he had sorted out which way was up, Crabbe had Malfoy by one arm and Goyle had her by the other, and the three of them were going away down the corridor as fast as they could go, with Malfoy still sobbing between them.
