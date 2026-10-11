@@ -236,7 +236,7 @@ Lyra was walking across the grass towards him by then.
 
 Not to congratulate him, naturally. Gryffindor had won the Cup by ten points; this was a moment for Slytherin to be bitter in. She was only going because he looked a disgrace, and he might as well have a handkerchief, and she might as well tell him while she was at it that next year she would not be handing him the Cup on a plate.
 
-It was in her pocket. She had washed it herself in the end, with a charm, and pressed it, and kept it in the drawer with the ring. She had known since a February night whose it must have been. There had only ever been one person in the castle who could stand on a staircase without being seen.
+It was in her pocket. She had washed it herself in the end, with a charm, and pressed it, and kept it in the drawer where the ring used to be. She had known since a February night whose it must have been. There had only ever been one person in the castle who could stand on a staircase without being seen.
 
 She was turning it over in her fingers as she came up behind them, and so it happened that she heard.
 

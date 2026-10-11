@@ -32,11 +32,11 @@
 - Lyra, en su POV: perdió a su rival; echa de menos a ese Potter.
 
 ## Quién sabe qué (al final)
-- Harry: Snape traicionó a sus padres (llevó la profecía) y luego se arrepintió («spare her»); desconfía de Dumbledore. Todo, desde primero; lo sabe a los once.
+- Harry: Snape traicionó a sus padres (llevó la profecía) y luego se arrepintió («spare her»); desconfía de Dumbledore. Lo sabe desde los once.
 - Snape: Harry sabe algo («His face cracked»).
-- Dumbledore: no sabe lo que Harry vio (ignora el pasillo).
-- Lyra: sólo ve el cambio, no la causa.
-- Hermione: no sabe.
+- Dumbledore: el texto no dice que sepa lo que Harry vio.
+- Lyra: solo ve el cambio, no la causa.
+- Hermione y Ron: no se menciona que lo sepan.
 
 ## Hilos
 Abiertos: el origen de lo que sabe Harry (visiones por la cicatriz); Snape y la profecía; Dumbledore y la confianza de Harry. Cerrados: el vuelco de Harry en primero; por qué Snape lo ignora.
@@ -45,7 +45,7 @@ Abiertos: el origen de lo que sabe Harry (visiones por la cicatriz); Snape y la 
 Snape, Dumbledore, Quirrell (turbante, tartamudea), Hermione, Neville (receptor de insultos), Goyle (indignada por Lyra), Lyra en Pociones.
 
 ## Continuidad fácil de romper
-- Snape ignora a Harry «desde ese día» (aprieta cada vez más a Lyra al final de primero). Cuidado con los capítulos publicados.
+- Snape ignora a Harry «desde ese día» y no le quita más puntos que a otros; cuidado con lo que muestren los capítulos publicados de Pociones.
 - La visión en el pasillo es durante la primera vez que Snape habla de la deuda; Harry tiene once.
 - Cierre: «more than two years on» (1994). Hay una sonrisa y un anillo: el motivo de la sonrisa estaba «retirado» a partir del 23 por decisión de revisión; el cierre lo usa con glosa («He had promised»).
 - Harry usa «Voldemort» como arma delante de Snape: eso no funciona con él.

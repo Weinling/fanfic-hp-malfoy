@@ -28,7 +28,7 @@ The room flew away backwards. There was a roaring in her ears and a lurch under 
 
 His voice, oddly, came through perfectly clearly. Lyra opened one eye.
 
-Potter was standing a decent distance off, lifting the chain from round his neck with a perfectly ordinary face, and folding the hourglass away into his fist. The fire had gone out. Through the little window the sky had turned from black to a deep, early-evening blue.
+Potter was standing a decent distance off, lifting the chain from round his neck with a perfectly ordinary face, and folding the hourglass away into his fist. The fire was out and the grate was cold, as though nobody had lit it yet that evening, and somewhere far off the castle was going in to dinner.
 
 “We’ve gone back,” he said. “Three hours.”
 

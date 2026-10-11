@@ -31,13 +31,13 @@
 ## Libro de cuentas
 - Potter le debe dos a Lyra (lo dice ella); «never once asked me for anything» → se paga en el 20 («Come with me»).
 - Lupin: «Then I'm in your debt» (por el silencio desde el 13 de noviembre).
-- Lyra con Snape: debe haberle hecho el recado «She owed him»; y le falla al cumplirlo bien.
+- Lyra con Snape: le hace el recado porque se lo debe («She owed him»), pero lo cumple mal: ve las huellas de rata y entrega la poción sin rehacerla.
 - Palabra «Mud—»: no dicha; Potter la detiene. No se pronuncia en todo el capítulo.
 
 ## Quién sabe qué (al final)
 - Lyra: Lupin = hombre lobo (sabido); Pettigrew = Scabbers; P y G cazan a la rata; Lupin y Black amigos; que Granger «helps Harry» con algo secreto.
 - Lupin: Lyra le debe y le calló; que Lyra ya sabe lo de Pettigrew (por su culpa).
-- Potter y Granger: Lyra sabe que cazan a la rata (pero no del giratiempo).
+- Lyra no sabe aún del giratiempo (ve que Granger «has something that helps Harry»).
 - Snape: no sabe de la poción manchada.
 
 ## Hilos

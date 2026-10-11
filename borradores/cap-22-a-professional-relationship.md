@@ -352,7 +352,7 @@ It was the smallest pause. It was enough.
 
 For once, Harry looked taken aback. “How did you know?”
 
-“Severus and I came back at much the same time. We had each had a letter calling us urgently to the Ministry, and the Ministry, when we arrived, had sent for neither of us. Peter’s doing, I imagine. And yet by the time we hurried back, the two of you had finished the whole business and caught him. I know how very able you both are. But I saw no reason to rule out a Time-Turner.”
+“Severus and I came back at much the same time. We had each had a letter calling us to the Ministry this evening, and the Ministry, when we arrived, had sent for neither of us. Peter’s doing, I imagine. And yet by the time we hurried back, the two of you had finished the whole business and caught him. I know how very able you both are. But I saw no reason to rule out a Time-Turner.”
 
 He raised his wand. Ropes uncoiled out of the air towards the broom and wound themselves round Pettigrew, round and round; and then they opened, very like two snakes opening their jaws, and closed over him again. If he woke up, and became a rat, they would swallow the rat.
 

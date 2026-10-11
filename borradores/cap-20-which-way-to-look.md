@@ -210,7 +210,7 @@ Somebody was coming along the shore out of the dark. Lyra swung her wand round, 
 
 Snape looked at the hippogriff, and then at the grey feathers stuck to the front of her robes, and said nothing about either of them. That was worse than anything he could have said.
 
-“Somebody sent me a letter. The Ministry required me urgently, it said.” He spoke very quietly. “The Ministry had never heard of it. When I find out who—” He stopped, and lifted his wand, and his face changed again, into an expression she had never once seen on it: plain, unguarded pleasure. “But this, I think, makes up for a good deal. Well done, Lyra.”
+“Somebody sent me a letter. The Ministry required me this evening, it said.” He spoke very quietly. “The Ministry had never heard of it. When I find out who—” He stopped, and lifted his wand, and his face changed again, into an expression she had never once seen on it: plain, unguarded pleasure. “But this, I think, makes up for a good deal. Well done, Lyra.”
 
 He walked towards Sirius Black, slowly, the way one walks towards something one has wanted for a very long time.
 

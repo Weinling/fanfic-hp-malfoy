@@ -22,7 +22,7 @@
 
 ## Fichas (objetos y motivos)
 - **Cleansweeps viejas** del cobertizo escolar; Harry no tiene escoba propia utilizable (la suya, destrozada).
-- **Capa:** la usan otra vez; Harry la dobla al salir de la torre.
+- **Capa:** la usan otra vez; Harry la dobla al bajar los escalones de la entrada y la saca de nuevo en la orilla.
 - **Mapa:** Harry lo saca para localizar a Dumbledore.
 - **Giratiempo:** Dumbledore lo identifica.
 - **Dos zorros plateados:** el de Harry, majestuoso; el de Lyra, juguetón y apegado al de él.
@@ -39,7 +39,7 @@
 ## Quién sabe qué (al final)
 - Lyra: Pettigrew confesó el sabotaje; Dumbledore sabe el giratiempo; hay algo más que no le cuentan.
 - Dumbledore: giratiempo; Lyra detuvo a Snape; Lyra y Harry son "good friends". No se sabe si se enteró de la poción.
-- Harry: ve la reacción de Lyra al «neutraliser» (no lo dice).
+- Harry: no miró a Lyra cuando Pettigrew confesó el neutralizador (el texto lo subraya); no sabe que ella limpió el cáliz.
 - Snape y Black: no saben del bucle; Pettigrew ya no está en la orilla.
 - Ron: sabe que Scabbers era Pettigrew.
 
@@ -51,7 +51,7 @@ Pettigrew (cobarde, rata), Ron (grita), Black, Granger (cae herida), Dumbledore 
 
 ## Continuidad fácil de romper
 - El bucle se cierra a las nueve; Harry y Lyra salen del cobertizo con la oscuridad cerrada.
-- Harry usa «Lyra» sin falta; Lyra evita «Harry».
+- En el bucle ambos se llaman por el nombre de pila («Harry.», «Lyra.»).
 - Zorros plateados (los dos Patronus).
 - Dementores: más de cien, luego cientos.
 - Tensión de horas: en el 20 Lyra sale «nearly curfew» y llega a la orilla; aquí a las nueve ya está todo cerrado.

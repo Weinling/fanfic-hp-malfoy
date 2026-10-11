@@ -50,7 +50,7 @@
 Abiertos: confesión de la poción a Harry; Lupin; Snape; Narcissa y carta (Lucius la recuerda); la pluma de azúcar (no aparece); la pista del Torneo; juramento de Dumbledore y Sirius; Pettigrew, destino público; el origen de lo que sabe Harry. Cerrados: Diggory; los anillos puestos; sonrisa de Harry (retirada como motivo).
 
 ## Secundarios
-Flint (guardián de la Firebolt), Parkinson (Panther), Ravenclaw (Chang), Hooch, Wood (se lamenta de la Cleansweep), Weasley twins, Diggory, Goyle y Crabbe, Lupin, Snape, Lucius.
+Flint (guardián de la Firebolt), Parkinson (Panther), Chang, Wood, los gemelos, Diggory, Goyle y Crabbe, Lupin, Snape, Lucius.
 
 ## Continuidad fácil de romper
 - Final 370–160; Gryffindor vence por 210; Slytherin pierde la Copa por diez puntos.

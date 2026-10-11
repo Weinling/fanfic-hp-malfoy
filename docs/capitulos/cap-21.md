@@ -1,5 +1,5 @@
 # Capítulo 21: «Coincidence»
-- **Archivo:** `borradores/cap-21-coincidence.md` · **Palabras:** ~4.870 · **Punto de vista:** Lyra. En el bucle, la narración llama «Harry» y «Lyra» a los dos que vuelven atrás, y «Potter» y «Malfoy» a sus yoes de antes · **Fecha(s) en la historia:** miércoles 2 de febrero de 1994; el giratiempo los lleva tres horas atrás, al atardecer (cielo «early-evening blue»), y recorren de nuevo la tarde-noche del 19 · **Estado:** sin publicar · **Coreano fuente:** 20 + primera mitad del 21 (hasta «Coincidence»)
+- **Archivo:** `borradores/cap-21-coincidence.md` · **Palabras:** ~4.870 · **Punto de vista:** Lyra. En el bucle, la narración llama «Harry» y «Lyra» a los dos que vuelven atrás, y «Potter» y «Malfoy» a sus yoes de antes · **Fecha(s) en la historia:** miércoles 2 de febrero de 1994; el giratiempo los lleva tres horas atrás, al atardecer (cielo «castillo yendo a cenar (el cuarto, con la chimenea apagada)»), y recorren de nuevo la tarde-noche del 19 · **Estado:** sin publicar · **Coreano fuente:** 20 + primera mitad del 21 (hasta «Coincidence»)
 
 ## Escenas
 1. **El cuarto lateral.** Lyra hace esperar a Harry «casi un minuto». Él le pasa la cadena del giratiempo por la cabeza y se mete en el mismo lazo. Tres vueltas atrás. Le explica: es de Hermione, se lo han dado por McGonagall para Aritmancia, Adivinación y Estudios Muggles, todas a las nueve del lunes. «Because you begged» / «Right. I'll remember.»
@@ -12,19 +12,18 @@
 8. **La pregunta del anillo.** El anillo de Harry parpadea; Lyra entiende lo del rojo y el rosa («two of him at the same moment») y tira de él para quitárselo. Harry comprende, se lo quita, dice que Crabbe se lo dio («If you want to make it up with her, wear this»). Saca el de Lyra de su bolsillo, junta los dos: el muescón de cada uno encaja y forman un corazón. «Coincidence.» / «Coincidence.» Se guarda los dos anillos. «I've got a Patronus to cast.»
 
 ## Frases literales importantes
-- «Because you begged» / «Right. I'll remember.» (ll. 53-55)
+- «I came because you begged.» / «Right. I'll remember.» (ll. 53-55)
 - «The earlier me is Potter, and the earlier you is Malfoy. I'm Harry, and you're Lyra.» (l. 99)
 - «So you *do* take it in turns.» (l. 129)
 - «That wasn't Lyra. That was Malfoy.» (l. 231); «That is Malfoy. Remember that.» (l. 241)
 - «It had not been guilt. He had been trying not to laugh.» (l. 269)
 - «You said tomorrow.» / «I was early.» (ll. 287-289)
 - «Something was wrong with the potion.» (l. 335)
-- «Not any rat, then.» (l. 341)
 - «Coincidence.» (l. 499)
 
 ## Fichas (objetos y motivos)
 - **Giratiempo:** dedal de reloj de arena, anillo de oro giratorio, cadena larga; una vuelta por hora; hacen falta «two of us under one chain». Granger lo tiene desde septiembre.
-- **Capa:** huele a jabón (Harry la lava en el pasado inmediato); el bucle (Lyra la coge, Harry la deja) es un paradoja cerrada. Dos mapas, uno en el bolsillo de Lupin (que roba Harry), otro con Lyra.
+- **Capa:** huele a jabón (Harry la lava en el pasado inmediato); el bucle (Lyra la coge, Harry la deja) es una paradoja cerrada. Dos mapas, uno en el bolsillo de Lupin (que roba Harry), otro con Lyra.
 - **Anillos:** Harry lleva el suyo en el anular derecho; Lyra ve rosa al probarse el suyo. Los dos juntos forman un corazón (la muesca no era mal acabado). Harry se queda con ambos al final.
 - **Poción de Lupin:** la certeza de que la manipuló Pettigrew.
 - Lazo perdido de Malfoy en el rellano (visto desde fuera).
@@ -33,8 +32,7 @@
 - «Tomorrow I'll tell you everything» → se paga esa misma noche (tres horas antes).
 - Lyra le dice a Harry «I came because you begged»; él: «I'll remember» (queda anotado).
 - Lyra le debe una confesión (la poción) y la aplaza: «I should tell him… not today».
-- Granger sabe del beso; Lyra renuncia a borrarle la memoria por consejo de Harry.
-- Crabbe: «was going to hear about it».
+- Granger sabe del beso; Lyra renuncia a borrarle la memoria por consejo de Harry. Crabbe «was going to hear about it».
 
 ## Quién sabe qué (al final)
 - Lyra: el giratiempo; la caza de Pettigrew; que Pettigrew sabotea la poción a propósito; que el beso era un gesto aguantado de risa; que Harry se ha puesto el anillo por Crabbe.
@@ -46,7 +44,7 @@
 Abiertos: la confesión de la poción; Pettigrew libre; el Patronus de Harry; el corazón de los anillos; Crabbe como celestina; el parpadeo de los anillos (resuelto). Cerrados: «Tomorrow I'll tell you everything»; por qué P y G están en todas partes; Lyra descubre la risa.
 
 ## Secundarios
-Lupin (corre con el mapa, optimista); Granger (media, suspira, ve el beso); Weasley (ausente, lo mencionan, entra por la trampa); Snape y Dumbledore (ausentes, la carta falsa).
+Lupin (corre con el mapa, optimista); Granger (ve el beso, media); Weasley (ausente: Pettigrew se lo lleva); Snape y Dumbledore (ausentes por la carta).
 
 ## Continuidad fácil de romper
 - Nombres: Harry/Lyra (los del bucle) vs Potter/Malfoy (los de antes). Solo en el bucle.

@@ -51,7 +51,7 @@ Greengrass y Bulstrode (común), Filch (desvía, «Peeves»), Buckbeak (lleva y 
 - Es el mismo miércoles que el 19; la luna sale al final del 19. Lyra dice «two hours ago in Lupin's office».
 - El hombre lobo ataca a Lyra pero no la muerde. Buckbeak lo hiere.
 - La capa y el mapa: los coge del despacho de Lupin con la puerta entornada. Potter no los lleva consigo en este momento (los tiene Lyra).
-- Lyra jura que su Nimbus está «locked in the changing rooms».
+- Su escoba (el Nimbus) está bajo llave en los vestuarios, al otro lado del campo.
 - El anillo va en el dedo medio.
 - Pettigrew desaparece sin que Snape lo sepa.
 
