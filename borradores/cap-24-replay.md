@@ -75,3 +75,47 @@ Lyra sat for a moment after he had gone. The gentleman in the east cottage still
 Then she reached into the bag again and took out the other pair of omnioculars: the real ones, Irish team issue, with the gold leaf on the dials. The pair she had given Draco had cost ten Galleons in Diagon Alley, and he would never know the difference, and he was perfectly happy, and so was she.
 
 “When,” she said to the empty room, “is that child going to grow up?”
+
+⁂
+
+The Malfoys did not queue.
+
+The Ministry had connected a handful of private fireplaces to the stadium for the use of important persons, and the Minister for Magic had invited Lucius Malfoy to use one, so they stepped out of the Manor’s drawing-room grate and into a panelled anteroom somewhere under the stands without so much as a smut on their robes. Lyra had heard that other people had walked for miles over wet fields at dawn, with a Portkey that looked like an old boot. She was sorry for them, in a general way.
+
+Cornelius Fudge was waiting at the top of the stairs, in a bowler hat and a state of great excitement. He shook her father’s hand for a long time, and kissed her mother’s, and then turned his beaming face on Lyra and Draco.
+
+“And these are the children! At Hogwarts, aren’t you? Both of you?”
+
+“Lyra is,” said her mother. “Draco goes next year.”
+
+“Well, well.” Fudge winked at Lyra, enormously. “Lucky things. You’re in for something rather special this year, you know. Very special indeed. But I mustn’t say.”
+
+Draco, who had decided that this was a deliberate insult to anybody who would not be at Hogwarts until next year, glared at the Minister for Magic with such concentrated loathing that Fudge spent the next three flights of stairs trying to win him round with talk of Bulgarian Chasers.
+
+Lyra hardly heard any of it.
+
+*Especially next year. If students come from other schools.* Potter had said it to her under a cloister in May, out of breath, with a ring in his hand, and she had been too angry at the time to ask what on earth he meant by it. She had put it away to be wondered about later. Now the Minister for Magic was winking at her about something special at Hogwarts that he mustn’t say, and he was the Minister, and it was his business to know. Potter was fourteen, and it was not.
+
+She had no time to go on with that, because they had reached the top box.
+
+It was a small, beautifully placed box at the very top of the stands, exactly halfway between the goals, with two rows of purple and gilt chairs; and the front row was full of Weasleys.
+
+Lyra stopped in the doorway.
+
+There were a great many of them, in a row, red-headed and shabby, and Granger at the end in a jumper, and in the middle of them all, with his elbows on the rail and a pair of ordinary brass omnioculars round his neck, was Potter.
+
+She had brought the good omnioculars, the gold ones, for the express purpose of finding him somewhere in the cheap seats on the far side of the stadium. He was sitting one row in front of her.
+
+“Arthur,” said Fudge, with great heartiness. “You’ll know Lucius, of course. He’s made a most generous donation to St Mungo’s. I asked him along myself.”
+
+Mr Weasley and her father greeted each other with the expressions of two men who had each been handed something unpleasant to hold. Her father led his family past the Weasleys to their seats, and as Lyra went by, Potter looked round.
+
+He nodded to her. It was a perfectly civil nod, the kind one gave to somebody from school whose name one could just about remember, and then he turned back to the pitch.
+
+That was what they had agreed. Not in front of people. Not anywhere anybody could see. Lyra had agreed to it herself, under the cloister in May, with a great deal of contempt for the whole arrangement, and it was quite sensible, and she would have been extremely annoyed if he had done anything else.
+
+She turned her head away sharply and went and sat down.
+
+It was still a perfectly horrible nod.
+
+Beside her, her mother arranged her robes, and looked at Lyra, and then, for a little longer, at the back of the row in front.
