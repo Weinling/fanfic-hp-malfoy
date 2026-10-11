@@ -10,7 +10,8 @@
 - **Lo último hecho:** coreanos 26 a 35 recibidos (una tanda, 11 de octubre), guardados en `coreano/` con saltos de línea repuestos y commiteados. El autor dice que no hace falta adaptarlos todos de golpe: «solo hasta donde se considere».
 - **En marcha:**
   - Un lector está escribiendo `borradores/resumen-coreano-26-35.md` (resumen detallado por escenas). Si se compacta antes de que termine, comprobar si el archivo existe; si no, relanzarlo.
-  - La sesión principal lee la historia entera (inicio de arco).
+  - Lectura completa de la historia (inicio de arco): hecha el 11 de octubre.
+  - Crítico nuevo (Opus) lanzado: lee su arranque (`docs/notas/critico-cuarto-ano-arranque.md`) y los capítulos 1 a 3, 13 a 23 y *Year One*. Todavía no ha criticado nada. Si se compacta, retomarlo con SendMessage (el identificador está en el contexto de la sesión; si se ha perdido, lanzar otro con el mismo arranque).
 - **Lo siguiente:**
   1. Escribir `borradores/plan-coreano-26-35.md`: estructura del arco, correspondencia coreano → adaptado (el 26 es la cuarta parte de *Year One*), choques ya vistos y decisiones para el autor.
   2. Empezar un crítico nuevo (Opus) con un resumen de las notas de crítica anteriores.
@@ -27,7 +28,7 @@ Ninguno. Todo está commiteado y subido.
 
 ## Agentes vivos
 
-- **Crítico:** el de los capítulos 17 a 23 y la revisión del 1 al 3 está retirado, con el contexto lleno. Para el cuarto año hay que empezar uno nuevo con un resumen de `docs/notas/cap-*-critica*.md` y `docs/notas/extra-year-one-critica.md`.
+- **Crítico:** uno nuevo para el cuarto año, lanzado el 11 de octubre con `docs/notas/critico-cuarto-ano-arranque.md`. El anterior (17 a 23, *Year One*, revisión del 1 al 3) está retirado.
 - **Revisor:** es el chat paralelo del autor. Sus informes llegan a `docs/notas/revisiones/`.
 
 ## Decisiones pendientes del autor
