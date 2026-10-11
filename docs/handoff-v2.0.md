@@ -601,3 +601,10 @@ Pegado al 14, el capítulo de Harry curaba la herida en el acto. Por eso entra d
 **Escena de los dos.** El 15, el 16 y el 17 apenas la tienen (en el 17, solo «Malfoy.» / «Potter.»). El 18 la necesita.
 
 **Reglas nuevas del autor** (también en `CLAUDE.md`): lo publicado no se toca, ni siquiera con retoques invisibles (erratas en `docs/notas/erratas-publicado.md`); el techo de 4.200 palabras es orientativo; se sube a GitHub al cerrar cada paso; todas las revisiones las hace Opus.
+
+### Decisiones del autor tras el capítulo 18 (11 de octubre)
+
+- **Harry oyó en la escalera** «It’s only me» y «Thank you, then», y sabe que Lyra guardó el pañuelo. Sabe, por tanto, que ella cree que lo suyo es unilateral. Pesa en el 19 (el beso, «you never say what you mean») y en el 21 (el anillo rosa).
+- **La coda de la señora Norris se mantiene** (decisión 6 del plan), aunque rompa el punto de vista. Lleva una pista física: la zapatilla de Potter.
+- **La Saeta de Fuego, como en el canon.** Propuesta de calendario, pendiente de que el autor la confirme: llegó en Navidad sin remitente (Sirius); McGonagall se la quedó para revisarla; Harry entrena con una escoba del colegio hasta que se la devuelvan, como muy pronto después del clímax de febrero. Lyra, snob de las escobas, se fijaría en ella.
+- **El revisor pasa a un chat paralelo del autor**, que revisa por tandas de capítulos (prompt en `docs/prompt-revisor.md`; informes en `docs/notas/revisiones/`). El crítico ciego sigue en la sesión principal, capítulo a capítulo.

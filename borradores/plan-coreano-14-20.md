@@ -87,7 +87,7 @@ Este dato del original tiene consecuencias. Lyra ve que una rata ha caído en la
 3. **Nombres de pila en el 21.** El original rompe dentro del bucle la regla «en el punto de vista de Lyra, Harry es siempre Potter»: el pasado es Potter y Malfoy, el presente, Harry y Lyra. Recomiendo seguirlo. Es el peldaño del capítulo.
 4. ~~Snape la llama «Miss Malfoy»~~. Retirada: Snape ya la llama «Lyra» en el 11 (cinco veces), igual que Lucius (2 y 6) y Montague (9). En el coreano 19 sigue llamándola «Lyra», por coherencia. Lo que estrena el 21 no es el nombre: es que lo diga Harry y que ella le llame «Harry».
 5. **Fecha del clímax:** la luna llena del 2 o 3 de febrero de 1994.
-6. **La coda de la señora Norris** (coreano 15) rompe el punto de vista de Lyra. Propongo mantenerla, de dos o tres líneas, porque es el gancho del capítulo.
+6. **La coda de la señora Norris** (coreano 15) rompe el punto de vista de Lyra. **Aprobada por el autor:** se mantiene.
 7. **La decisión de Navidad** (si el Señor Oscuro vuelve, desertar la primera) se mantiene tal cual. Es el obstáculo de fondo.
 
 ## Siguiente

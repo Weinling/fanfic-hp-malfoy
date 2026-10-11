@@ -40,8 +40,8 @@ Sigue la skill `metodo-equipo`. Reparto inicial:
 | Pasadas mecánicas: comillas, `⁂`, recuento de palabras, buscar tics de la lista | subagente | Haiku |
 | Ficha, guion y escritura del capítulo | sesión principal | Opus |
 | Crítica de cada capítulo con `docs/critico-v2.0.md` | subagente sin acceso al original ni a capítulos futuros | Opus |
-| Lecturas de conjunto de un arco; juicio sobre planes grandes | agente `revisor` | Opus (solo lee) |
+| Revisión informada por tandas de capítulos (fidelidad, continuidad, canon, motor a lo largo de varios capítulos) | **chat paralelo que maneja el autor** (prompt en `docs/prompt-revisor.md`; informes en `docs/notas/revisiones/`) | Opus |
 
 Decisión del autor (2026-10-11): todas las revisiones y críticas las hace Opus, no Fable.
 
-**Reutilizar al crítico y al revisor.** No se lanza uno nuevo por capítulo: se le pasa el siguiente capítulo al mismo agente, que ya conoce la historia y recuerda su crítica anterior y la nota que recibió. Se usan hasta que se les llene el contexto, sin cambiarlos por arco (decisión del autor, 2026-10-11). Solo entonces se empieza uno nuevo, con un resumen de las notas anteriores (en `docs/notas/`).
+**Reutilizar al crítico.** (El revisor ya no es un subagente: lo lleva el autor en otro chat. Cuando llegue un informe nuevo a `docs/notas/revisiones/`, la sesión principal lo lee, decide qué acepta y lo anota.) No se lanza uno nuevo por capítulo: se le pasa el siguiente capítulo al mismo agente, que ya conoce la historia y recuerda su crítica anterior y la nota que recibió. Se usan hasta que se les llene el contexto, sin cambiarlos por arco (decisión del autor, 2026-10-11). Solo entonces se empieza uno nuevo, con un resumen de las notas anteriores (en `docs/notas/`).
