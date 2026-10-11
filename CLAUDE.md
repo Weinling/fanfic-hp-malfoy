@@ -43,3 +43,5 @@ Sigue la skill `metodo-equipo`. Reparto inicial:
 | Lecturas de conjunto de un arco; juicio sobre planes grandes | agente `revisor` | Opus (solo lee) |
 
 Decisión del autor (2026-10-11): todas las revisiones y críticas las hace Opus, no Fable.
+
+**Reutilizar al crítico y al revisor.** No se lanza uno nuevo por capítulo: se le pasa el siguiente capítulo al mismo agente, que ya conoce la historia y recuerda su crítica anterior y la nota que recibió. Se empieza uno nuevo solo al cambiar de arco o si su contexto se llena; en ese caso, se le pasa un resumen de las notas anteriores (en `docs/notas/`).
