@@ -90,7 +90,7 @@ She stayed where she was.
 
 *Get up—*
 
-“No,” said Lyra aloud, and the lovely emptiness tore across like wet paper, and she was standing in the middle of a cold classroom with all of Slytherin looking at her, and her heart going very fast, and the letter and the badge and the ring and the cup of fire all back where they belonged, heavier than before.
+“No,” said Lyra aloud, and the lovely emptiness tore across like wet paper, and she was standing in the middle of a cold classroom with all of Slytherin looking at her, and her heart going very fast, and everything she had been carrying back where it belonged, heavier than before.
 
 Moody lowered his wand.
 
@@ -107,3 +107,85 @@ There was a silence in the room that she could feel on the back of her neck.
 “No,” said Moody. “I don’t suppose they did.” He jerked his head. “Go on. Next.”
 
 She went back to her place. Crabbe moved up to make room for her, and did not look at her, and pressed her shoulder very briefly against Lyra’s, and took it away again.
+
+⁂
+
+She sent Crabbe and Goyle on to the Great Hall without her. Crabbe looked at the classroom door, and then at Lyra, and went without arguing, towing Goyle by the sleeve.
+
+Moody was putting the desks back. He did it with his wand, without turning round, so that they slid in from the walls one after another and settled into their rows with small wooden knocks, like an orchestra sitting down.
+
+“Come to tell me something about your father?” he said to the blackboard.
+
+Lyra shut the door behind her.
+
+“I’ve come to ask you to stop using my family as teaching material, Professor. Twice now. In front of the whole class.”
+
+“Thought you lot liked that. Snape’s always on about who your families are, I hear.” The desks went on knocking into place. “No? All right. What else?”
+
+She had prepared for this on the way down the corridor, and she gave it to him exactly as prepared. She had a perfect right, she said, as a Slytherin and a member of her House team, to ask what was being done about the Tournament. A fourth-year had been entered in it, by cheating, when the rest of them were not allowed so much as to try; and since he was the fourth-year in question, and they all knew what he was like—
+
+“Oh, give over,” said Moody.
+
+He turned round. The magical eye went straight to the pocket of her robes, the way it had in September, and rested there.
+
+“Worried about your boyfriend?”
+
+For a moment Lyra did not think anything at all.
+
+“Hallowe’en night,” said Moody. “First-floor classroom, the one with the bad window. Locking Charm on the door. Potter’s got a good cloak. I’ve got a good eye.” He tapped the side of it with a fingernail. “It doesn’t stop at doors, girl. It doesn’t stop at cloaks, either. I’ve been watching the pair of you since the first night of term.”
+
+There were a number of things she might have said. She went through them very fast, and threw them all away, because every one of them was a lie and he would see straight through it, the way he saw through doors.
+
+“And?” said Lyra.
+
+“And nothing. Keep it quiet. You’re doing all right so far.” He limped to his desk and lowered himself into the chair behind it, with the wooden leg stuck out in front of him. “A sweetheart’s the first thing a Dark wizard goes for. Easiest lever there is. You keep it so nobody knows it’s there, and nobody can pull it.”
+
+He sounded almost approving. She had not expected that, and did not trust it.
+
+“Then you know whose side I’m on,” she said.
+
+“Do I?”
+
+“I could help.” She had not meant to say it like that, but it was said now, and she went on. “Somebody put his name in that cup. Whoever it was, the people who’d know about it aren’t going to tell you. They’ll never tell an Auror anything. They might tell me. I’m in Slytherin, and I’m a Malfoy, and nobody in my House would think twice about saying things in front of me. I could find out.”
+
+Moody looked at her for some time with both eyes.
+
+“No,” he said.
+
+“Why not?”
+
+“Because you’re Lucius Malfoy’s daughter.” He said it quite calmly, as though it were her date of birth. “I don’t tell you what I’m doing. I don’t tell you what Potter’s doing. And I don’t take anything you bring me, because I don’t know who gave it to you to bring.”
+
+Lyra had stood outside a wall like this once before, in a shack, in the dark, with Potter in front of her and his arm out to keep her back. She knew the shape of it. It was not the same wall. Potter had put her behind his to keep her safe. This one had been put up to keep her out, and the man on the other side of it was watching her through a hole.
+
+“My father has nothing to do with it.”
+
+“Your father,” said Moody, “did a very beautiful Imperius. I told you. We never did find the people he’d been working, not all of them. Some of them are walking about to this day and don’t know it.” The magical eye rolled down and up again. “And here’s his girl, come out of nowhere into Harry Potter’s pocket, the year somebody wants Harry Potter dead. You see how it looks.”
+
+“That has nothing to do with—”
+
+“Maybe he asked you to,” said Moody. “Nicely. Daddy’s little helper. Maybe he didn’t ask. Maybe he put it on you, and you don’t know.” He leaned forward. “You threw mine off very prettily this afternoon. Very prettily indeed, for his daughter. I keep asking myself where a girl learns that.”
+
+Her hands had gone cold. She could feel them, the way you can feel a draught.
+
+“Take that back,” said Lyra.
+
+“Can’t, I’m afraid.” He got up, and came round the desk, and stumped past her towards the cupboard in the corner, close enough that she could smell the hip flask on him. “It’s my job to think it, and yours to put up with it. The people we’re up against do worse than suspect a child. If you’re what you say you are, it’ll do you no harm. Constant vigilance, Miss Malfoy.”
+
+He had his back to her. He was reaching up to the top of the cupboard, as though she were already gone.
+
+Her wand was in her hand. She had no curse in mind. She had nothing in mind at all except that she would not be talked about like that, by anybody, to the back of his head, and that he was going to turn round and *look* at her while she—
+
+Moody spun on his wooden leg faster than anything that size had any right to move.
+
+“*Never*—”
+
+There was a crack, and a white light, and the floor came up at her with a great rush, and went on coming.
+
+“—point a wand at a man’s *back*! That’s a coward’s trick, girl! You want a duel, you bow, and you face him!”
+
+The room had become enormous. That was the first thing. The desks went up and up into a dimness overhead, and the legs of them were like the trunks of trees, and the floor was very close, and smelt overwhelmingly of chalk and old floor polish and Moody’s boot. She tried to get up, and could not find where up was. Something was wrong with her hands. She looked down at them, and they were small and white and furred, and had claws on the ends.
+
+She made a sound. It was not any sound she had ever made before.
+
+Somewhere far above her, Mad-Eye Moody gave a short bark that might have been a laugh.
