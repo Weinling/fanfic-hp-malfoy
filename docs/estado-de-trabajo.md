@@ -23,7 +23,7 @@
 - **Próximo paso: el capítulo 31** (coreano 34): las parejas del Baile, Skeeter y el «triángulo», Lyra anuncia a Krum, Potter sospecha de Moody (Lyra, con coda de Harry). Antes de la ficha, el protocolo de `CLAUDE.md`:
   - estado, handoff entero, todos los manuales y la continuidad transversal;
   - el texto completo del 29 y del 30;
-  - los coreanos 34, 35 y 36;
+  - los coreanos 34, 35 y 36 (**el 36 no está en `coreano/`: pedírselo al autor**);
   - `docs/notas/arco-29-32-lectura.md`.
 - **Para el 31, ya avisado:**
   - **No es pago romántico** (crítico): el 26, el 27, el 29 y el 30 lo fueron. El próximo beso no se vende como otro «primero».
