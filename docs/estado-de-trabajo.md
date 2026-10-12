@@ -27,6 +27,10 @@
   - Moody tiene el mapa.
 - **Cerrados:** *Year One* 4 y del 24 al 29, con manual, nota y handoff. Del 23 al 28, revisados además por el revisor (`docs/notas/revisiones/tanda-23-a-28.md`).
 
+## Si se compacta (arco del 29 al 32)
+
+Seguir `docs/notas/arco-29-32-lectura.md` §1: el protocolo de `CLAUDE.md` más ese archivo; sin releer la historia entera; grep y lectura dirigida en texto completo según su §4; ante una duda de continuidad, preguntar al crítico (vivo, no se compacta con la sesión principal y lo ha leído todo).
+
 ## Lecturas hechas en esta sesión (protocolo de `CLAUDE.md`)
 
 Se apunta aquí lo leído tras cada compactación, para que se pueda comprobar.
