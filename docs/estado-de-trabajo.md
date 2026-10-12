@@ -13,6 +13,7 @@
   - manual (`docs/capitulos/cap-29.md`);
   - continuidad transversal;
   - handoff (§15).
+- **Ficha y guion del 30 escritos** (`borradores/cap-30-ficha-guion.md`), a la espera de que el autor los apruebe (tres preguntas al final).
 - **Próximo paso: el capítulo 30** (coreano 33), la primera prueba, el jueves 24 de noviembre, desde Lyra. Antes de la ficha, el protocolo de `CLAUDE.md`:
   - estado, handoff entero, todos los manuales y la continuidad transversal;
   - el texto completo del 28 y del 29;
