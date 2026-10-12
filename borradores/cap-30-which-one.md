@@ -16,7 +16,7 @@ Crabbe’s face went through astonishment and arrived at delight. “*Really?*�
 
 “Hush. It’s a secret. I can’t explain how I know.”
 
-“Dragons,” breathed Crabbe. Then her face changed again. “But—won’t the champions get hurt?”
+“Dragons,” breathed Crabbe, rather more loudly than Lyra would have liked. A little way down the table, Parkinson’s spoon stopped on its way to his mouth, and then went on. Crabbe’s face changed again. “But—won’t the champions get hurt?”
 
 Lyra had spent four days not thinking about that, with some success. She thought about it now. A dragon’s hide turned spells the way a roof turned rain. It took half a dozen grown wizards to bring one down, and you could go for the eyes, the library said, if you wanted it angrier. And the Horntail had a tail. She had looked at the picture until Madam Pince came round with the snuffer: a tail like a mace, studded with bronze spikes, and a note underneath in small print about its reach.
 
@@ -46,13 +46,13 @@ It was an interview with the youngest Triwizard champion, and something had gone
 
 And further down: *Love, too, has found the sleek-haired bachelor Professor Snape at Hogwarts. His close friend Colin Creevey says that he is rarely seen without one Hermione Granger, a stunningly pretty Muggle-born girl who, like Professor Snape, is one of the top students in the school.*
 
-Lyra breathed in through her nose, and held it.
+Lyra laid the paper flat on the table.
 
 It was the funniest thing she had ever read. But Professor Snape had marked her up for three years, and had once looked at a set of grey feathers on the front of her robes and said nothing about them, and he was sitting at the staff table at this moment with a copy of the same paper beside his plate. Lyra Malfoy did not laugh. She held her breath until her eyes watered, and folded the paper along its creases, and handed it back.
 
 “Disgraceful,” she said. “Somebody ought to write to the editor.”
 
-Up at the staff table, Professor McGonagall had her napkin pressed to her mouth and her shoulders were going. Professor Snape was not reading his paper. He was looking down the length of the Hall at the Gryffindor table, at Potter, with the face of a man choosing between poisons.
+Up at the staff table, Professor McGonagall had gone behind her goblet, and her shoulders were going. Professor Snape was not reading his paper. He was looking down the length of the Hall at the Gryffindor table, at Potter, with the face of a man choosing between poisons.
 
 Somebody had Confunded that reporter’s quill. Lyra could think of exactly one person in the castle who would do such a thing to Rita Skeeter and to Professor Snape in a single stroke, and he was sitting at the Gryffindor table eating eggs with every appearance of peace.
 
@@ -78,7 +78,7 @@ Lyra stopped in the corridor.
 
 “Very well,” she said to the doors.
 
-Four days she had spent not thinking about Horntails. She had not asked him for a speech. She had not even asked him for a word. One look would have done, and she was not going to stand about in a corridor waiting for it like a parlourmaid hoping for a tip—
+She had not asked him for a speech. She had not even asked him for a word. One look would have done, and she was not going to stand about in a corridor waiting for it like a parlourmaid hoping for a tip—
 
 She was already walking, fast, towards the dungeon stairs, when feet came running behind her. Then Potter was beside her, out of breath, and something cool and slippery was being bundled into her arms.
 
@@ -90,9 +90,9 @@ She looked down at it. Then she stuffed it into her bag, quickly, before anybody
 
 ⁂
 
-Crabbe had told everybody.
+Parkinson had told everybody.
 
-By the time the school was packed into the stands round the enclosure, the word was going along the Slytherin benches like a draught, and when the first dragon was led out, roaring, at the far end, and the Hufflepuffs screamed, the whole of Slytherin House looked at it with the bored, knowing faces of an audience that has read the end of the play. Parkinson was explaining to a third-year that he had always rather expected dragons. Crabbe, beside Lyra, sat with her hands folded in her lap, looking like a girl who had never told anybody anything in her life.
+By the time the school was packed into the stands round the enclosure, the word was going along the Slytherin benches like a draught, and when the first dragon was led out, roaring, at the far end, and the Hufflepuffs screamed, the whole of Slytherin House looked at it with the bored, knowing faces of an audience that has read the end of the play. Parkinson was explaining to a third-year that he had always rather expected dragons. Crabbe, beside Lyra, sat with her hands folded in her lap, looking, for once with perfect justice, like a girl who had never told anybody anything in her life.
 
 The champions’ tent stood at the edge of the enclosure, a great striped thing with its flap tied back. Mad-Eye Moody stood outside it, leaning on his staff, with the blue eye going round and round.
 
@@ -102,9 +102,9 @@ Crabbe moved along the bench into the space she had left, without a word, and fo
 
 Under the cloak, behind the stand, the world went quiet. Lyra walked down the slope with her heart going, and stopped a few yards from the tent, and from Moody.
 
-The blue eye went round. Once it went past her, and on, and did not stop. Perhaps it had not seen her. Perhaps it had seen her and did not care. She did not wait to find out which. The tent flap moved, and Cedric Diggory came out of it, grey to the lips, with his wand in his hand, and she slipped in through the gap behind him before it fell shut.
+The blue eye went round. Once it went past her, and on, and did not stop. Perhaps it had not seen her. Perhaps it had seen her and did not care. She did not wait to find out which. The tent flap moved, and Cedric Diggory came out of it, looking sick, with his wand in his hand, and she slipped in through the gap behind him before it fell shut.
 
-It was dim inside and smelt of canvas and crushed grass. Viktor Krum was sitting hunched on a stool with his elbows on his knees, staring at the ground between his feet as though it owed him money. Fleur Delacour was walking round and round in a tight circle, pale, with her silver hair tied back. A fat glossy beetle was blundering about against the canvas near the roof, and nobody minded it.
+It was dim inside and smelt of canvas and crushed grass. Viktor Krum was sitting hunched on a stool with his elbows on his knees, staring at the ground between his feet like a man reading a letter with bad news in it. Fleur Delacour was walking round and round in a tight circle, pale, with her silver hair tied back. A fat glossy beetle was blundering about against the canvas near the roof, and nobody minded it.
 
 Potter was on a bench at the back. He was sitting quite upright, with both hands gripping the edge of the bench on either side of him, and his knuckles had gone white.
 
@@ -194,21 +194,21 @@ Potter stood up. Lyra stood up with him.
 
 She was invisible. He could not see her face; nobody in the world could see her face. That was the whole point of the cloak, and she had never in her life been so grateful to a piece of cloth. She put her hands on his arms, and stood up on her toes, and kissed him.
 
-It lasted a second. There was the cloak between them, cool and thin, and his mouth on the other side of it; and his eyes, which she could see and which could not see hers, gone perfectly round.
+It lasted a second. There was the cloak between them, cool and thin, and his mouth on the other side of it; and his eyes, which she could see and which could not see hers, gone wide.
 
 Then she let go, and stepped back. She meant to go straight out.
 
-She did not go. Potter was standing alone in the middle of the tent with nobody in front of him at all, and for a moment he did not move. Then he put the back of his hand against his mouth, hard, as though there were something there he had to keep in, and the colour came up out of his collar and went on coming, and he began to laugh. He made no sound doing it. It shook his shoulders and would not stop, and he looked at the empty air where she had been, and then a little to the left of it, and then to the right, like somebody who has no idea which way to look and no hope of finding out.
+She did not go. Potter was standing alone in the middle of the tent with nobody in front of him at all, and for a moment he did not move. Then he put the back of his hand against his mouth, hard, as though there were something there he had to keep in, and the colour came up into his face and went on coming, and he began to laugh. He made no sound doing it. It shook his shoulders and would not stop, and he looked at the empty air where she had been, and then a little to the left of it, and then to the right, like somebody who has no idea which way to look and no hope of finding out.
 
 “Lyra—” he said, to nobody.
 
-She had seen him angry, and smug, and frightened on the floor of a train. She had seen him cold enough to stop a library. She had never once seen him like this. Nobody had. She had done it in a second, with a cloak in the way, and she stood a yard off and could not move for looking.
+She had seen him angry, and smug, and frightened on the floor of a train. She had seen him cold enough to stop a library. She had never once seen him like this. She had done it in a second, with a cloak in the way, and she stood a yard off and could not move for looking.
 
 “*Harry Potter!*”
 
 He took his hand away from his mouth. The laugh went, mostly. The smile did not; he could not get it off his face. He picked up his wand from the bench and walked out of the tent with it still there, towards a Hungarian Horntail, grinning like a fool.
 
-The fear came back all at once, so hard it took her breath. She had sent him out to a dragon with *that* on his face.
+The fear came back so hard it took her breath. She had sent him out to a dragon with *that* on his face.
 
 Lyra ran. Something fat and droning went past her ear on the way out, and she did not stop for it.
 
@@ -236,19 +236,21 @@ Parkinson had turned round on his bench to stare at her. So had half the row in 
 
 “Did you lend him yours?” said Goyle.
 
-“No,” said Lyra.
+“No,” said Lyra, and for a moment was not sure of it.
+
+Potter went up. He did not go for the dragon. He took the Firebolt round the enclosure in a long, low, lazy lap, past every stand in turn, so that everybody could have a good look at the broom, and the stands went mad. He came round past Slytherin at exactly the height of the top row, and for a second he was ten yards off and looking straight at her, and the light was on the handle.
+
+Lyra knew the registration number on her own broom as she knew her own birthday. This was not it; and the gold of the numbers was as bright as the day they were painted on, where no glove had ever rubbed them.
+
+She looked back at him with the whole weight of nine hundred years of Malfoys. *Get on with it.*
+
+He grinned, and peeled away.
 
 *No need*, he had said. In the Great Hall, in the spring, with half Slytherin round her new broom, when she had offered to let him have a go on it if he asked her very nicely. *Very kind. But no need.*
 
 He had gone and bought one. Of all the brooms in the world, with all the money his father had left him, he had gone and bought the same one as hers.
 
-She could not decide whether it was the stupidest thing she had ever heard of or the vainest, and the corners of her mouth, without consulting her, had begun to go up.
-
-Potter went up too. He did not go for the dragon. He took the Firebolt round the enclosure in a long, low, lazy lap, past every stand in turn, so that everybody could have a good look at the broom, and the stands went mad. He came round past Slytherin at exactly the height of the top row, and for a second he was ten yards off and looking straight at her.
-
-She looked back at him with the whole weight of nine hundred years of Malfoys. *Get on with it.*
-
-He grinned, and peeled away.
+She could not decide whether it was the stupidest thing she had ever heard of or the vainest, and she felt her mouth begin to go up.
 
 What came after happened too fast for most of the school, and not nearly fast enough for Lyra. He went up high, and the Horntail rose on its hind legs to follow him with its head, and its jaws opened. He dived, and it reared, and the fire went over him by a yard. He went into the dive again, lower, and the tail came round to meet him.
 
@@ -260,7 +262,7 @@ The stands came down. The noise was enormous: screaming, and stamping, and Bagma
 
 Lyra did not clap. She had forgotten how. She stood with one hand pressed flat against her ribs and watched the dark patch on his shoulder go up into the sky with the golden egg, and it came to her, quite simply, that she did not care in the least whether he had won.
 
-He had come back. She had told him at Hallowe’en what she would do to him if he got hurt, and he had gone and got hurt, and she did not want to kill him at all. Last Christmas, on the end of her bed at the Manor, she had sworn to be first on her knees if the Dark Lord ever came back, even if it meant turning on Potter. Standing in the Slytherin stand with her hand against her ribs, she could not have turned on anything.
+Last Christmas, on the end of her bed at the Manor, she had sworn to be first on her knees if the Dark Lord ever came back, even if it meant turning on Potter. Standing there now, she could not have turned on anything.
 
 ⁂
 
