@@ -265,3 +265,23 @@ Granger, then. Granger knew now, and Weasley, all of it: the diary and the numbe
 “You knew first,” said Potter.
 
 He lifted the cloak off her shoulders, and she was standing by the broom shed in the sunshine on her own, and a ripple went away across the grass towards the castle.
+
+⁂
+
+She went to the library after dinner, because a person who meant to sit in a stand on Thursday and watch somebody walk out to meet a dragon ought at least to know what one was; and Granger was there before her.
+
+She was at a table by the window, behind a wall of books: *Dragon Species of Great Britain and Ireland*, and *From Egg to Inferno*, and something called *Men Who Love Dragons Too Much*. So he had told her already. It had taken him less than three hours. Lyra had expected that, and it went in a little all the same.
+
+Two tables further along sat Viktor Krum, on his own, with a book open in front of him at a page he was not reading. He was looking over the top of it at Granger. He was not looking at her hands.
+
+*She is Potter’s?*
+
+*Good.*
+
+Lyra stood quite still among the shelves and very nearly laughed out loud in Madam Pince’s library, which would have been the end of her.
+
+Then she went and pulled out the chair opposite Granger and sat down in it without asking. Granger looked up, saw who it was, and looked down again. Neither of them said a word.
+
+After a minute, Granger took the top book off her pile, opened it, found a place, and pushed it across the table without lifting her eyes from her own.
+
+“Page three hundred and twelve,” she said. “Horntails.”
