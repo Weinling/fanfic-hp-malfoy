@@ -2,7 +2,7 @@
 
 Weasley was waiting at the foot of the marble staircase on Monday morning with his ears the colour of the Gryffindor banners, and he was plainly not waiting for breakfast.
 
-Lyra saw him from the top of the dungeon steps. She had come up early with Crabbe, Goyle having got as far as one stocking and told them to go on without her, and she stopped where she was. One did not walk into the middle of a thing like that. Besides, the dungeon steps were in shadow and the Entrance Hall was not.
+Lyra saw him from the top of the dungeon steps. She had come up early with Crabbe, Goyle having got as far as one stocking and told them to go on without her, and she stopped where she was, in the shadow at the top of the steps.
 
 Potter came down the marble staircase with Granger. He was talking, and Granger was answering him over an armful of books, and then he saw who was standing at the bottom and stopped talking, and came down the last few steps more slowly.
 
@@ -18,9 +18,9 @@ Gryffindors, Lyra reflected, did everything in public. They apologised in Entran
 
 Over Weasley’s shoulder, Granger opened her wet eyes and saw her.
 
-It lasted a moment. Granger looked straight across the Hall to the dungeon steps, to where Lyra stood in the shadow with Crabbe, and there was something in her face that Lyra did not care for at all. It was not quite gratitude; Granger had learned better than to offer Lyra that. It was knowing. Weasley had told them where he had got it from. Of course he had. Weasley could not have kept a secret in a locked trunk.
+It lasted a moment. Granger looked straight across the Hall to the dungeon steps, to where Lyra stood in the shadow with Crabbe, and there was something in her face that Lyra did not care for at all. Granger had learned better than to offer her gratitude; this was worse. She knew. Weasley had told them, then. Of course he had. Weasley could not have kept a secret in a locked trunk.
 
-Lyra examined the ceiling.
+Lyra became interested in the banister.
 
 “That was you,” said Crabbe, beside her.
 
@@ -42,7 +42,7 @@ She began that evening, with a chessboard.
 
 The Durmstrang students had been eating at the Slytherin table for three weeks, and in all that time nobody at it had found out anything about them except that they were large, and always hungry, and talked among themselves in a language with a great many more consonants than it needed. Lyra borrowed Montague’s chessboard after dinner, set it up at the end of the table, and began a game against herself. Within ten minutes two Durmstrang seventh-years were standing at her shoulder, unable to bear what she was doing with the black pieces. Within twenty she was losing to both of them, carefully, a piece at a time, and they were talking.
 
-A girl alone at a chessboard with two foreign boys looked like what it was, so on Tuesday there were three boards, and Theodore Nott and Blaise Zabini had been told they were needed to make up the numbers. Nott, who in four years had addressed perhaps ten words to Crabbe, said eleven that evening, all of them about her knight. Zabini lost to Goyle three times running and did not appear to mind.
+A girl alone at a chessboard with two foreign boys looked like what it was, so on Tuesday there were three boards, with Theodore Nott and Blaise Zabini told off to make up the numbers. Nott said eleven words to Crabbe that evening, all of them about her knight, and Zabini lost to Goyle three times and did not mind.
 
 The Durmstrang boys knew less than she had hoped. Their headmaster had them studying, they said, in the evenings, in his cabin. One of them pulled a face about it, and the other kicked him under the table and said they were not supposed to say what. Lyra put her queen where it would be taken, and said she quite understood.
 
@@ -50,11 +50,11 @@ The Beauxbatons girls were easier. They were cold, all the time, and miserable a
 
 “The giant,” said one of them, and shuddered elegantly.
 
-Lyra said that she believed Professor Hagrid was very fond of animals, and kept the rest. A headmistress did not go walking in a Scottish November for her health. And a man who had a hundred Blast-Ended Skrewts in boxes and did not know what they ate was exactly the man somebody would put in charge of something large and dangerous, and just the man who would want to show it to a lady.
+Lyra said that she believed Professor Hagrid was very fond of animals, and kept the rest. A man with a hundred Skrewts he did not know how to feed was exactly the man to be put in charge of something large and dangerous, and to want to show it to a lady.
 
 On Tuesday afternoon, Viktor Krum stopped beside her at the end of lunch.
 
-“Perhaps one day we fly,” he said, as though resuming a conversation they had broken off a minute ago instead of nine days. “Today?”
+“Perhaps one day we fly,” he said, as though resuming a conversation they had broken off a minute ago instead of two days. “Today?”
 
 The Firebolt had not been out of its case since September. Lyra fetched it.
 
@@ -62,17 +62,13 @@ The pitch was bare. There was no Cup this year and no reason for anybody to be t
 
 Lyra had flown a great many brooms. She had never flown anything like that one.
 
-The Firebolt did what you meant a moment before you meant it. Krum’s broom did what you meant and something of its own besides. It pulled to the left. It turned on a Knut, and kept turning if you let it, and twice in the first minute it very nearly had her off. Then she found out what it wanted, and gave it that, and after that they got on. She had not been off the ground since the spring. She took the black broom up until the castle was a toy and the lake a dish of pewter, and stayed there, with nobody near enough to speak to her, and let the wind have her hair.
+The Firebolt did what you meant a moment before you meant it. Krum’s broom did what you meant and something of its own besides. It pulled to the left. It turned on a Knut, and kept turning if you let it, and twice in the first minute it very nearly had her off. Then she found out what it wanted, and gave it that, and after that they got on. She took the black broom up until the castle was a toy and the lake a dish of pewter, and stayed there, with nobody near enough to speak to her, and let the wind have her hair.
 
 Krum flew the Firebolt below her the whole time, and watched.
 
-When they came down he did not look at her face. He looked at her hands.
-
 “On the turn, you hold too tight,” he said. “Is fine. You fly like Bulgarian.”
 
-Lyra took it as the compliment it plainly was, and asked, as they walked back across the grass, whether his headmaster was not very busy just now, with the first task so close.
-
-“Professor Karkaroff says, we wait.” Krum shrugged. He did not know, then; or did not care to know, which in Krum came to the same thing. She had decided on the ship that he was a genius on a broom and nowhere else, and nothing that afternoon changed her mind.
+Lyra took it as the compliment it plainly was.
 
 At the edge of the pitch he handed her back the Firebolt, and stopped.
 
@@ -86,7 +82,7 @@ Krum considered that.
 
 “Good,” he said, and took his black broom, and went off down the slope towards the lake without another word; and Lyra stood at the edge of the pitch with the Firebolt over her shoulder and no idea at all what was good about it.
 
-That night, with a Durmstrang boy halfway through explaining a Bulgarian opening to her, the ring began to pulse in her pocket: warm, and then cool, and then warm. He was looking for her. Lyra moved a bishop, and lost it, and did not get up.
+That night, with a Durmstrang boy halfway through explaining a Bulgarian opening to her, the ring began to pulse in her pocket: warm, and then cool, and then warm. He was looking for her. Lyra kept her hand on it under the table until it stopped. Then she moved a bishop, and lost it, and did not get up.
 
 ⁂
 
@@ -98,7 +94,7 @@ Zacharias Smith, it appeared, had found a market outside his own House. Parkinso
 
 She had. It was in her pocket, where it had been since Hallowe’en, beside a ring she no longer put on at nine and a sugar quill that had gone from one set of robes to the next for more than a year. None of the three was any business of Parkinson’s. He looked at her pocket, and at her face, and put his badges away.
 
-They were brewing antidotes. Snape came down the Slytherin bench halfway through, looked into Lyra’s cauldron for some time, and said, “Adequate,” and moved on. He had not said *Faultless* since the spring. Lyra had stopped waiting for it, more or less.
+They were brewing antidotes. Snape came down the Slytherin bench halfway through, looked into Lyra’s cauldron for some time, and said, “Adequate,” and moved on. He had not said *Faultless* since February. Lyra had stopped waiting for it, more or less.
 
 Across the dungeon, Potter was sitting with Weasley again, and Weasley was saying something out of the side of his mouth that kept making Potter laugh into his sleeve. It was a perfectly ordinary laugh. Lyra had not heard it for a fortnight, and she put more powdered bezoar into her antidote than it wanted, and had to fix it.
 
@@ -148,7 +144,7 @@ Lyra read that twice, and put the letter away under the others.
 
 At half past eleven a Durmstrang boy brought a note down the Slytherin table. Professor Karkaroff would be honoured if Lucius’s daughter would take luncheon on the ship.
 
-He had been up half the night. She saw it as soon as she sat down, in his eyes, and in the way he kept laughing at nothing, like a man who has won at cards and may not tell anybody how much. He held out through the soup. Over the fish he called her *one of us*, twice, the way her father had once written it to her inside a letter; and somewhere between the fish and the pudding the whole of it came out of him, and Lyra let it, and admired him for it, and ate the pudding. She had been brought up at tables like that one. She knew how to sit at them and what to say, and how to make a man like Igor Karkaroff feel that he was among his own. He was.
+He had been up half the night. She saw it as soon as she sat down, in his eyes, and in the way he kept laughing at nothing, like a man who has won at cards and may not tell anybody how much. He held out through the soup. Over the fish he called her *one of us*, twice, the way her father had once written it to her inside a letter; and somewhere between the fish and the pudding the whole of it came out of him, with a wink to finish: *Your father will enjoy hearing what is waiting for the Potter boy.* Lyra let it, and admired him for it, and ate the pudding. She had been brought up at tables like that one. She knew how to sit at them and what to say, and how to make a man like Igor Karkaroff feel that he was among his own. He was.
 
 Then she carried every word of it off the ship, and up the slope, to Harry Potter, as fast as she could run.
 
@@ -192,9 +188,9 @@ Lyra stared at him.
 
 “Doesn’t it?”
 
-“It means everything you have. Every friend, every favour, every door you can get your foot in. Why do you suppose Madame Maxime and Karkaroff brought their whole top years with them? To sit in the stands and wave? It’s your castle. It’s your ground. You’ve got two champions to their one, and you heard them scream about it, and they are going to do *anything* to win this, and you—” another step, “—you are going to walk out on Thursday and wait to find out what is going to set you on fire. I told you not to try too hard. I didn’t tell you to go in knowing *nothing*!”
+“It means everything you have. Every friend, every favour, every door you can get your foot in. It’s your castle. It’s your ground. You’ve got two champions to their one, and you heard them scream about it, and they are going to do *anything* to win this, and you—” another step, “—you are going to walk out on Thursday and wait to find out what is going to set you on fire. I told you not to try too hard. I didn’t tell you to go in knowing *nothing*!”
 
-She had come right up to him. Behind her, a knot of second-years was coming along the path round the end of the greenhouses. Potter looked at them over her shoulder, and then something silvery and cool came down over both of them at once, and the second-years went by a yard off, arguing about Exploding Snap, and saw nobody.
+She had come right up to him. Behind her, a knot of second-years was coming along the path round the end of the greenhouses. Potter looked at them over her shoulder, and then the cloak came down over both of them at once, and the second-years went by a yard off, arguing about Exploding Snap, and saw nobody.
 
 It was very close under the cloak, and dim, and quiet. Somewhere up in the castle there was an eye that could see through this as if it were a windowpane. Let it.
 
@@ -212,7 +208,7 @@ Potter did not ask her what had been done to the Longbottoms. He did not ask any
 
 “Where else would I find them?”
 
-He let out a long breath, like somebody setting down a thing he had carried up a great many stairs. She had no idea what it was, and no time to wonder.
+He let out a long breath. She had no idea why, and no time to wonder.
 
 “And that isn’t the half of it. The first task—”
 
@@ -228,9 +224,9 @@ The last time he had asked her that, she had been a ferret, and had shown him he
 
 “Yes,” said Lyra.
 
-It was the shortest thing she had ever said to him. Nothing came after it. She had always had something to put after things.
+It was the shortest thing she had ever said to him. She had always had something to put after things.
 
-They both leaned the same way, and their noses met, and she said, “Other way,” exactly as she might have said it to an elf with a tray, and he laughed, and she felt him laugh; and then it was the other way, and it was not funny in the least. It went on. His hands were on her shoulders, and hers had hold of his sleeves, and the cloak slid off one of her shoulders and she pulled it back up without stopping. Down on the lake somebody from Durmstrang dived off the ship and came up shouting about the cold, and climbed out, and by the sound of it dived in again.
+They both leaned the same way, and their noses met, and she said, “Other way,” exactly as she might have said it to an elf with a tray, and he laughed, and she felt him laugh; and then it was the other way, and it was not funny in the least. His hands were on her shoulders, and hers had hold of his sleeves, and the cloak slid off one of her shoulders and she pulled it back up without stopping. Down on the lake somebody from Durmstrang dived off the ship and came up shouting about the cold, and climbed out, and by the sound of it dived in again.
 
 When it stopped, she spoke first, before he could.
 
@@ -252,19 +248,19 @@ Potter heard all of it. When she ran out of breath he said, “Dragons,” quite
 
 He stopped.
 
-She did not want it owed. She wanted him to have it.
+She wanted him to have it.
 
 He looked at her for a moment longer under the cloak. Then he said he had to go, Ron and Hermione were waiting, and he would have to tell them. At the edge of the cloak, with one hand on it, he stopped.
 
 “I told them. On Monday. About the Horcruxes. Dumbledore said I could, if there was anybody I trusted.”
 
-Granger, then. Granger knew now, and Weasley, all of it: the diary and the number and the cave. It came up in Lyra quick and sharp, before she could do anything about it.
+Granger, then. Granger knew now, and Weasley, all of it: the diary and the number and the cave. It came up in Lyra quick and sharp, before she could do anything about it. Under it came something colder: her father’s diary, in a Weasley’s head; the brother of the girl whose cauldron it had gone into. She let the first thing answer.
 
 “How lovely for them.”
 
 “You knew first,” said Potter.
 
-He lifted the cloak off her shoulders, and she was standing by the broom shed in the sunshine on her own, and a ripple went away across the grass towards the castle.
+He lifted the cloak off her shoulders, and she was standing by the broom shed in the sunshine on her own, and a line of flattened grass went away towards the castle, one step at a time.
 
 ⁂
 
@@ -278,7 +274,7 @@ Two tables further along sat Viktor Krum, on his own, with a book open in front 
 
 *Good.*
 
-Lyra stood quite still among the shelves and very nearly laughed out loud in Madam Pince’s library, which would have been the end of her.
+Lyra stood among the shelves and very nearly laughed out loud in Madam Pince’s library, which would have been the end of her.
 
 Then she went and pulled out the chair opposite Granger and sat down in it without asking. Granger looked up, saw who it was, and looked down again. Neither of them said a word.
 
