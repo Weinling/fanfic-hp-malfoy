@@ -61,3 +61,29 @@ She took the paper back off Goyle, found the paragraph about Granger, and read i
 She looked across the Hall at Potter for some time, coldly.
 
 Potter, who had borne the whole weight of Professor Snape’s regard without turning a hair, looked up, met her eye, and shivered.
+
+⁂
+
+Lessons stopped at noon. The champions would be sent for after lunch, which left lunch.
+
+Lyra did not eat it. She stood outside the doors of the Great Hall with her back to the wall and her bag over her arm, as though she were waiting for somebody of no particular importance, and when people going in looked at her, she looked back until they stopped.
+
+The Gryffindors came along the corridor in a crowd, the way they went everywhere, with Potter in the middle of it: Weasley talking at one ear and Granger at the other, and a second-year walking backwards in front of him asking whether he was scared.
+
+Lyra pushed herself off the wall as they came level, put her hair back over her shoulder, and walked past him the other way, as anybody leaving the Hall might, near enough that he could not possibly miss her.
+
+He did not look at her. He went on through the doors in the middle of the crowd, and they swung shut behind him.
+
+Lyra stopped in the corridor.
+
+“Very well,” she said to the doors.
+
+Four days she had spent not thinking about Horntails. She had not asked him for a speech. She had not even asked him for a word. One look would have done, and she was not going to stand about in a corridor waiting for it like a parlourmaid hoping for a tip—
+
+She was already walking, fast, towards the dungeon stairs, when feet came running behind her. Then Potter was beside her, out of breath, and something cool and slippery was being bundled into her arms.
+
+“Wear this,” he said, “and come and find me.”
+
+Then he was gone again, back through the doors of the Great Hall before she had got her mouth open, and Lyra was standing in the corridor holding a great armful of nothing, which slid about against her robes as though it would rather be somewhere else.
+
+She looked down at it. Then she stuffed it into her bag, very quickly, before anybody came by and saw a girl standing in a corridor holding air.
