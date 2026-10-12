@@ -6,7 +6,7 @@ She had asked in the dormitory, with one stocking on, and on the stairs, and in 
 
 “You do know, though. Don’t you.”
 
-The whole of the Great Hall wanted to know. The school had been up since six in the giddy, unsettled way of a school that has been told something tremendous will happen after lunch and nothing else, and every table was guessing. Lyra had heard sphinxes, and a maze, and a Hufflepuff whose cousin was quite certain it would be Inferi.
+The Great Hall wanted to know. The school had been up since six in the giddy, unsettled way of a school that has been told something tremendous will happen after lunch and nothing else, and every table was guessing. Lyra had heard sphinxes, and a maze, and a Hufflepuff whose cousin was quite certain it would be Inferi.
 
 She considered. Krum would know by now; Karkaroff was hardly going to keep it from his own champion. The Delacour girl would know. The task was in five hours, and one more person knowing was not going to make a dragon any hotter.
 
@@ -60,7 +60,7 @@ She took the paper back off Goyle, found the paragraph about Granger, and read i
 
 She looked across the Hall at Potter for some time, coldly.
 
-Potter, who had borne the whole weight of Professor Snape’s regard without turning a hair, looked up, met her eye, and shivered.
+Potter, who had borne Professor Snape’s regard without turning a hair, looked up, met her eye, and shivered.
 
 ⁂
 
@@ -86,7 +86,7 @@ She was already walking, fast, towards the dungeon stairs, when feet came runnin
 
 Then he was gone again, back through the doors of the Great Hall before she had got her mouth open, and Lyra was standing in the corridor holding a great armful of nothing, which slid about against her robes as though it would rather be somewhere else.
 
-She looked down at it. Then she stuffed it into her bag, very quickly, before anybody came by and saw a girl standing in a corridor holding air.
+She looked down at it. Then she stuffed it into her bag, quickly, before anybody came by and saw a girl standing in a corridor holding air.
 
 ⁂
 
@@ -100,11 +100,11 @@ At the judges’ table, Ludo Bagman had got to his feet with a purple megaphone 
 
 Crabbe moved along the bench into the space she had left, without a word, and folded her hands again.
 
-Under the cloak, behind the stand, the world went very quiet. Lyra walked down the slope with her heart going, and stopped a few yards from the tent, and from Moody.
+Under the cloak, behind the stand, the world went quiet. Lyra walked down the slope with her heart going, and stopped a few yards from the tent, and from Moody.
 
 The blue eye went round. Once it went past her, and on, and did not stop. Perhaps it had not seen her. Perhaps it had seen her and did not care. She did not wait to find out which. The tent flap moved, and Cedric Diggory came out of it, grey to the lips, with his wand in his hand, and she slipped in through the gap behind him before it fell shut.
 
-It was dim inside and smelt of canvas and crushed grass. Viktor Krum was sitting hunched on a stool with his elbows on his knees, staring at the ground between his feet as though it owed him money. Fleur Delacour was walking round and round in a tight circle, very pale, with her silver hair tied back. A fat glossy beetle was blundering about against the canvas near the roof, and nobody minded it.
+It was dim inside and smelt of canvas and crushed grass. Viktor Krum was sitting hunched on a stool with his elbows on his knees, staring at the ground between his feet as though it owed him money. Fleur Delacour was walking round and round in a tight circle, pale, with her silver hair tied back. A fat glossy beetle was blundering about against the canvas near the roof, and nobody minded it.
 
 Potter was on a bench at the back. He was sitting quite upright, with both hands gripping the edge of the bench on either side of him, and his knuckles had gone white.
 
@@ -112,7 +112,7 @@ Lyra went round Fleur, carefully, and sat down beside him, and laid her hand ove
 
 He did not turn his head.
 
-“You took your time,” he said, very low.
+“You took your time,” he said, under his breath.
 
 Out in the enclosure something roared, and the crowd made a noise like a wave going over, and Bagman’s voice came through the canvas: “—oh, *nasty*! Nasty, nasty—”
 
@@ -130,9 +130,9 @@ Out in the enclosure something roared, and the crowd made a noise like a wave go
 
 Lyra thought of the school shed, and the Shooting Stars with their twigs every which way, and a Cleansweep with a crack in the handle mended with Spellotape, and a black dragon with a tail like a mace, and went cold to the ends of her fingers.
 
-Outside, the crowd went up all at once in a roar, and then a long cheer. Diggory had got his egg. A whistle went. Fleur stopped walking, and stood very straight for a moment with her eyes shut, and went out.
+Outside, the crowd went up all at once in a roar, and then a long cheer. Diggory had got his egg. A whistle went. Fleur stopped walking, and stood straight for a moment with her eyes shut, and went out.
 
-Under Lyra’s hand, Potter’s let go of the bench. It turned over and took hold of hers instead, hard. His forehead was damp. He was not looking at her, since he could not see her, but he had turned his face very slightly towards where she was.
+Under Lyra’s hand, Potter’s let go of the bench. It turned over and took hold of hers instead, hard. His forehead was damp. He was not looking at her, since he could not see her, but he had turned his face a little towards where she was.
 
 “It’s a dragon, Lyra,” he said.
 
@@ -146,7 +146,7 @@ It was only that. He said it quite quietly, the way you might say *it’s rainin
 
 “You’ll kill me. I know.”
 
-The roars went on for a long time. Then cheering again, and Bagman shouting about singed skirts, and the whistle. Krum got up off his stool without a word to anybody and went out, ducking under the flap; and then there were only the two of them in the tent, and the beetle.
+The roars went on and on. Then cheering again, and Bagman shouting about singed skirts, and the whistle. Krum got up off his stool without a word to anybody and went out, ducking under the flap; and then there were only the two of them in the tent, and the beetle.
 
 Potter let out a long breath. When he spoke again it was nearer his ordinary voice.
 
@@ -184,7 +184,7 @@ He looked down at the paper, where the Honeydukes crest had worn nearly away.
 
 “…Which one?” said Potter.
 
-Lyra did not answer, and he did not ask again. He looked at the sugar quill for a long time, and then he put it away, carefully, in the pocket where he kept his wand, as though it might break.
+Lyra did not answer, and he did not ask again. He looked at the sugar quill for a long time, and then he put it away, carefully, in the pocket where he kept his wand.
 
 “*Harry Potter!*”
 
@@ -226,7 +226,7 @@ He raised his wand.
 
 His voice carried all the way round the stands. Lyra sat quite rigid. There was no Firebolt in the castle to summon except hers, in its case in the dungeons, where she had put it back on Tuesday evening with every twig brushed straight—
 
-Something came streaking out over the edge of the Forest from the direction of the castle, low and very fast, and it was a broom, and it was a Firebolt, and it stopped dead in the air beside him as though it had been waiting all its life to be asked.
+Something came streaking out over the edge of the Forest from the direction of the castle, low and fast, and it was a broom, and it was a Firebolt, and it stopped dead in the air beside him as though it had been waiting all its life to be asked.
 
 The Slytherin stand drew a single breath.
 
@@ -238,7 +238,7 @@ Parkinson had turned round on his bench to stare at her. So had half the row in 
 
 “No,” said Lyra.
 
-*No need*, he had said. In the Great Hall, in the spring, with the whole of Slytherin round her new broom, when she had offered to let him have a go on it if he asked her very nicely. *Very kind. But no need.*
+*No need*, he had said. In the Great Hall, in the spring, with half Slytherin round her new broom, when she had offered to let him have a go on it if he asked her very nicely. *Very kind. But no need.*
 
 He had gone and bought one. Of all the brooms in the world, with all the money his father had left him, he had gone and bought the same one as hers.
 
@@ -266,9 +266,9 @@ He had come back. She had told him at Hallowe’en what she would do to him if h
 
 By dinner the whole castle knew the marks. Potter and Krum were joint first; Delacour and Diggory were a point apart behind them, and Delacour was said to be furious about it in French.
 
-In the Slytherin common room the argument about the Firebolt went on all evening. Parkinson held that Potter had stolen it. Montague held that Dumbledore had bought it for him out of school funds, which was worse. One of the Warrington cousins put it about that it was Lyra’s, lent for a bet, until Lyra looked at him. She let the rest of them argue. She sat in her chair by the fire with her Arithmancy open on her knee and her face perfectly composed, and did not tell any of them that somewhere above their heads, in a tower, Potter was very probably eating a sugar quill a year and three weeks old.
+In the Slytherin common room the argument about the Firebolt went on all evening. Parkinson held that Potter had stolen it. Montague held that Dumbledore had bought it for him out of school funds, which was worse. One of the Warrington cousins put it about that it was Lyra’s, lent for a bet, until Lyra looked at him. She let the rest of them argue. She sat in her chair by the fire with her Arithmancy open on her knee and her face perfectly composed, and did not tell any of them that somewhere above their heads, in a tower, Potter was probably eating a sugar quill a year and three weeks old.
 
-Then a prefect came in and pinned a new notice to the board by the door, and the whole common room got up to read it.
+Then a prefect came in and pinned a new notice to the board by the door, and everybody got up to read it.
 
 > *THE YULE BALL*
 >
