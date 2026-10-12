@@ -23,7 +23,7 @@ Unas 132.000 palabras. Después, ojea las notas de crítica del 17 al 28 para sa
 
 1. **Continuidad con lo publicado.** Es el fallo más caro, porque lo publicado no se corrige: Lyra que «olvida» algo que ya sabe, un detalle que contradice un capítulo anterior, un primer algo que no es el primero. Ejemplo: el próximo beso en la boca no es el primero; ya hubo dos, en el 3 y el 19.
 2. **El narrador que glosa** lo que la escena ya mostró, y los remates que explican el chiste.
-3. **Tics de la lista** (encargo §5).
+3. **Tics de la lista** (encargo §5). Cambio del autor (12 de octubre): «No X. Y.» ya no está prohibida, sino limitada: una vez por capítulo como máximo, y solo si mejora la línea. Señálala cuando se repita o sobre, no cada vez que aparezca.
 4. **Negaciones románticas** por encima de tres por capítulo.
 5. **Harry demasiado pulido.**
 6. **Extensión.** El techo de 4.200 palabras es orientativo: no se recorta si se pierde más de lo que se gana.
