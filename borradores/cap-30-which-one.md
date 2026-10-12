@@ -211,3 +211,53 @@ He took his hand away from his mouth. The laugh went, mostly. The smile did not;
 The fear came back all at once, so hard it took her breath. She had sent him out to a dragon with *that* on his face.
 
 Lyra ran. Something fat and droning went past her ear on the way out, and she did not stop for it.
+
+⁂
+
+Crabbe moved along the bench without a word, and Lyra sat down in her own place with the cloak bundled into her bag on her knees. She could feel her face. Nobody looked at it. Everybody was looking at the enclosure.
+
+The Horntail was black, and scaled like a lizard, and much larger than the picture. It crouched over its clutch of eggs with its wings half open and its yellow eyes on the boy in the middle of the grass, and its tail went to and fro behind it, scoring long furrows in the ground with every swing: a great black whip of a tail, studded down its length with bronze spikes. Among the grey eggs under its belly, one shone gold.
+
+Potter walked out to the middle of the enclosure on his own. If he was still grinning, she was too far off to see it, and was glad.
+
+He raised his wand.
+
+“*Accio Firebolt!*”
+
+His voice carried all the way round the stands. Lyra sat quite rigid. There was no Firebolt in the castle to summon except hers, in its case in the dungeons, where she had put it back on Tuesday evening with every twig brushed straight—
+
+Something came streaking out over the edge of the Forest from the direction of the castle, low and very fast, and it was a broom, and it was a Firebolt, and it stopped dead in the air beside him as though it had been waiting all its life to be asked.
+
+The Slytherin stand drew a single breath.
+
+“That’s— isn’t that *Malfoy’s*?”
+
+Parkinson had turned round on his bench to stare at her. So had half the row in front.
+
+“Did you lend him yours?” said Crabbe.
+
+“No,” said Lyra.
+
+*No need*, he had said. In the Great Hall, in the spring, with the whole of Slytherin round her new broom, when she had offered to let him have a go on it if he asked her very nicely. *Very kind. But no need.*
+
+He had gone and bought one. Of all the brooms in the world, with all the money his father had left him, he had gone and bought the same one as hers.
+
+She could not decide whether it was the stupidest thing she had ever heard of or the vainest, and the corners of her mouth, without consulting her, had begun to go up.
+
+Potter went up too. He did not go for the dragon. He took the Firebolt round the enclosure in a long, low, lazy lap, past every stand in turn, so that everybody could have a good look at the broom, and the stands went mad. He came round past Slytherin at exactly the height of the top row, and for a second he was ten yards off and looking straight at her.
+
+She looked back at him with the whole weight of nine hundred years of Malfoys. *Get on with it.*
+
+He grinned, and peeled away.
+
+What came after happened too fast for most of the school, and not nearly fast enough for Lyra. He went up high, and the Horntail rose on its hind legs to follow him with its head, and its jaws opened. He dived, and it reared, and the fire went over him by a yard. He went into the dive again, lower, and the tail came round to meet him.
+
+She saw the spike catch his shoulder. She saw his robes tear, and something dark come out through the tear, and she was on her feet with the bag sliding off her knees, and could not afterwards remember getting up.
+
+He did not fall. He rolled out of it, and came round again, and the Horntail spread its wings wide to come up after him and left, for one second, its belly and its eggs uncovered; and in that second Potter went in underneath, low, flat along the Firebolt, and came out the other side with the golden egg under his good arm, and was away, up over the stands, into the sky.
+
+The stands came down. The noise was enormous: screaming, and stamping, and Bagman bellowing through his megaphone that he had never seen anything like it. In the Slytherin stand even Parkinson was on his feet.
+
+Lyra did not clap. She had forgotten how. She stood with one hand pressed flat against her ribs and watched the dark patch on his shoulder go up into the sky with the golden egg, and it came to her, quite simply, that she did not care in the least whether he had won.
+
+He had come back. She had told him at Hallowe’en what she would do to him if he got hurt, and he had gone and got hurt, and she did not want to kill him at all. Last Christmas, on the end of her bed at the Manor, she had sworn to be first on her knees if the Dark Lord ever came back, even if it meant turning on Potter. Standing in the Slytherin stand with her hand against her ribs, she could not have turned on anything.

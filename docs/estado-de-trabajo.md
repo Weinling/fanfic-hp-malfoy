@@ -13,7 +13,7 @@
   - manual (`docs/capitulos/cap-29.md`);
   - continuidad transversal;
   - handoff (§15).
-- **Capítulo 30, *Which One***: ficha aprobada (`borradores/cap-30-ficha-guion.md`; hay beso de despedida a través de la capa, Harry deshecho, el Baile como gancho y la herida). Escribiendo en `borradores/cap-30-which-one.md`. **Escritas: 1 (el desayuno), 2 (la comida), 3 (la tienda).**
+- **Capítulo 30, *Which One***: ficha aprobada (`borradores/cap-30-ficha-guion.md`; hay beso de despedida a través de la capa, Harry deshecho, el Baile como gancho y la herida). Escribiendo en `borradores/cap-30-which-one.md`. **Escritas: 1 (el desayuno), 2 (la comida), 3 (la tienda), 4 (el dragón).**
 - **Próximo paso: el capítulo 30** (coreano 33), la primera prueba, el jueves 24 de noviembre, desde Lyra. Antes de la ficha, el protocolo de `CLAUDE.md`:
   - estado, handoff entero, todos los manuales y la continuidad transversal;
   - el texto completo del 28 y del 29;
