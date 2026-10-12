@@ -96,3 +96,49 @@ Es el capítulo en el que Lyra elige: se lleva lo que oye en la mesa de un mort�
 Con los arreglos 1 y 3, el 29 discute el primer grupo.
 
 Pásame el siguiente.
+
+---
+
+# Revisión aplicada (sesión principal, 12 de octubre de 2026)
+
+Se aceptan todas las notas, con estos matices.
+
+## Arreglos
+
+**Graves**
+1. **El diario.** Ahora, tras los celos, viene algo más frío: «her father’s diary, in a Weasley’s head; the brother of the girl whose cauldron it had gone into. She let the first thing answer.»
+2. **Krum:** «instead of two days».
+
+**Medios**
+3. **Karkaroff tiene motivo.** Se despide con un guiño: «*Your father will enjoy hearing what is waiting for the Potter boy.*» El «He was.» que viene después se queda igual.
+4. **El anillo cobra algo.** «Lyra kept her hand on it under the table until it stopped.» El recurso se mantiene porque es el precio de su decisión de la escena 1.
+5. **Recortes**, de unas 4.470 a unas 4.300 palabras:
+   - Nott y Zabini, en una frase (siguen los dos).
+   - La mitad del razonamiento sobre Hagrid.
+   - «When they came down… hands», la pregunta por Karkaroff y el párrafo del genio.
+   - La pregunta retórica del discurso.
+   - «One did not walk into the middle…» en la apertura.
+
+**Menores y de prosa**
+- «since February» para el «Faultless». Se quita «not off the ground since the spring».
+- «Weasley had told them, then».
+- La fórmula «No X. Y.» se rehace: «Granger had learned better than to offer her gratitude; this was worse. She knew.»
+- Fuera «It went on», «Nothing came after it.», «She did not want it owed.» y el suspiro de las escaleras.
+- La capa entra como «the cloak» y sale como «a line of flattened grass… one step at a time».
+- «Lyra became interested in the banister». Fuera el «quite still».
+
+## Se mantiene a propósito
+
+- El techo de 4.200 es orientativo. Las 4.300 se quedan, porque bajar más quitaría el vuelo o la biblioteca.
+- La frase del señor de la casita, sin comentario de Lyra.
+- La coda de la biblioteca como final.
+
+## Nota para el crítico (sin revelar lo que viene)
+
+Hemos aplicado los dos graves, los dos medios y casi toda la prosa.
+
+- Lyra siente ahora el diario en la cabeza de un Weasley y deja que conteste otra cosa.
+- Karkaroff le cuenta lo de los dragones con un guiño a su padre: cree que Lucius disfrutará sabiendo qué espera a Potter.
+- El anillo le cuesta algo: tiene la mano encima hasta que deja de latir.
+- Krum ya no le mira las manos en el vuelo. En la biblioteca, «He was not looking at her hands» se queda.
+- Tomamos nota del aviso de racha: tres pagos románticos de cuatro.
