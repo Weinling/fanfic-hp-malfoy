@@ -791,4 +791,19 @@ Las notas del crítico del 19 son 9/9/9/7/7/9/7/7 (empata con el 15 en cabeza). 
   - El 30 no estrena ningún contacto nuevo.
   - Decisiones del autor: el 29, desde Lyra (la coda del 31, desde Harry, corta y única); Harry no sabe nada seguro de Moody hasta el 31; Draco contestó «by return» (no hubo año de silencio); la carta de Lucius a Karkaroff, encogida (lacrada, sin abrir, sin tamaño); la espada, cuando el coreano la use; la pluma de azúcar, mencionada en el 29 y pagada en el 30; los omniculares no son ficha (la del arco es la insignia).
 - **La cuenta, rebajada** (autor, 11 de octubre): deja de ser obligatoria en cada capítulo (§3 y §8). En el arco del 29 al 32 el motor es la elección y la lealtad; el Baile se paga sin cuentas.
-- **Siguiente:** el capítulo 29 (coreano 32), **desde Lyra** (decisión del autor): la reconciliación, los Horrocruxes contados a Ron y Hermione, Krum, Skeeter y el domingo: un beso elegido por los dos (no el primero: hubo en el 3 y el 19) y los dragones.
+- **Capítulo 29, *Every Ounce*** (coreano 32, desde Lyra), escrito y criticado (`docs/notas/cap-29-critica.md`; manual `docs/capitulos/cap-29.md`). Nota del crítico: 8, 9, 8, 7, 9, 8, 8, 7; con los arreglos «discute el primer grupo». Fija:
+  - Ron se reconcilia con Harry el lunes 14 de noviembre, al pie de la escalera. Granger sabe que fue cosa de Lyra.
+  - Harry contó lo de los Horrocruxes a Ron y Hermione el 14, con permiso de Dumbledore («if there was anybody I trusted»). A Lyra: «You knew first».
+  - Lyra, sin que nadie se lo pida, trabaja Durmstrang (ajedrez, con Nott y Zabini de relleno) y Beauxbatons (Maxime pasea de noche con Hagrid).
+  - Krum vuela con ella: ella su escoba de Sofía (C, sin nombre), él la Saeta. Krum pregunta si Granger es de Potter; «She is not Potter’s anything»; «Good». Semilla del Baile.
+  - La nota y la respuesta: *Prior engagement. Sunday, two o’clock.* Colin se lleva a Potter de Pociones a la pesa de varitas (miércoles 16). Snape: «Adequate».
+  - Draco cita al señor de la casita: «a man who shows you his best trick has not got another one».
+  - Karkaroff le cuenta los dragones en el barco creyendo que sirven a Lucius contra Potter. Lyra se los lleva a Potter.
+  - **Moody tiene el mapa** desde poco después del Cáliz («Not names»).
+  - Harry no pregunta qué les pasó a los Longbottom: Lyra ve que lo sabe y no le pide explicaciones.
+  - **Tercer beso en la boca, el primero elegido por los dos:** «Can I kiss you?» / «Yes.» / «That one counted.» Casto, de pie, bajo la capa.
+  - La cuenta, un solo momento: «I owe you for—» / «Don’t.»
+  - El diario «in a Weasley’s head» le pesa a Lyra.
+  - Coda: Granger y Lyra estudian dragones juntas sin hablar; Krum mira a Granger.
+  - Aviso del crítico: el 26, el 27 y el 29 son pagos románticos. **El 30 no debe serlo.**
+- **Siguiente:** el capítulo 30 (coreano 33), la primera prueba, jueves 24 de noviembre. Están decididos: la pluma de azúcar se paga en la tienda; la Saeta de Fuego de Potter; Skeeter en el *Profeta*; ningún contacto nuevo; el beso a través de la capa del coreano, a revisar contra la racha.
