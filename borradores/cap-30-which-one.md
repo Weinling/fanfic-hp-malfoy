@@ -87,3 +87,127 @@ She was already walking, fast, towards the dungeon stairs, when feet came runnin
 Then he was gone again, back through the doors of the Great Hall before she had got her mouth open, and Lyra was standing in the corridor holding a great armful of nothing, which slid about against her robes as though it would rather be somewhere else.
 
 She looked down at it. Then she stuffed it into her bag, very quickly, before anybody came by and saw a girl standing in a corridor holding air.
+
+⁂
+
+Crabbe had told everybody.
+
+By the time the school was packed into the stands round the enclosure, the word was going along the Slytherin benches like a draught, and when the first dragon was led out, roaring, at the far end, and the Hufflepuffs screamed, the whole of Slytherin House looked at it with the bored, knowing faces of an audience that has read the end of the play. Parkinson was explaining to a third-year that he had always rather expected dragons. Crabbe, beside Lyra, sat with her hands folded in her lap, looking like a girl who had never told anybody anything in her life.
+
+The champions’ tent stood at the edge of the enclosure, a great striped thing with its flap tied back. Mad-Eye Moody stood outside it, leaning on his staff, with the blue eye going round and round.
+
+At the judges’ table, Ludo Bagman had got to his feet with a purple megaphone and was explaining the rules: a nest, and a clutch of eggs, and among them one egg of gold. While every face in the stands was turned towards him, Lyra stood up.
+
+Crabbe moved along the bench into the space she had left, without a word, and folded her hands again.
+
+Under the cloak, behind the stand, the world went very quiet. Lyra walked down the slope with her heart going, and stopped a few yards from the tent, and from Moody.
+
+The blue eye went round. Once it went past her, and on, and did not stop. Perhaps it had not seen her. Perhaps it had seen her and did not care. She did not wait to find out which. The tent flap moved, and Cedric Diggory came out of it, grey to the lips, with his wand in his hand, and she slipped in through the gap behind him before it fell shut.
+
+It was dim inside and smelt of canvas and crushed grass. Viktor Krum was sitting hunched on a stool with his elbows on his knees, staring at the ground between his feet as though it owed him money. Fleur Delacour was walking round and round in a tight circle, very pale, with her silver hair tied back. A fat glossy beetle was blundering about against the canvas near the roof, and nobody minded it.
+
+Potter was on a bench at the back. He was sitting quite upright, with both hands gripping the edge of the bench on either side of him, and his knuckles had gone white.
+
+Lyra went round Fleur, carefully, and sat down beside him, and laid her hand over his.
+
+He did not turn his head.
+
+“You took your time,” he said, very low.
+
+Out in the enclosure something roared, and the crowd made a noise like a wave going over, and Bagman’s voice came through the canvas: “—oh, *nasty*! Nasty, nasty—”
+
+“Have you got a plan?” whispered Lyra.
+
+“Yes.”
+
+“Is it a sensible one?”
+
+“It’s a broom.”
+
+“You haven’t *got* a broom.”
+
+“Ah,” said Potter.
+
+Lyra thought of the school shed, and the Shooting Stars with their twigs every which way, and a Cleansweep with a crack in the handle mended with Spellotape, and a black dragon with a tail like a mace, and went cold to the ends of her fingers.
+
+Outside, the crowd went up all at once in a roar, and then a long cheer. Diggory had got his egg. A whistle went. Fleur stopped walking, and stood very straight for a moment with her eyes shut, and went out.
+
+Under Lyra’s hand, Potter’s let go of the bench. It turned over and took hold of hers instead, hard. His forehead was damp. He was not looking at her, since he could not see her, but he had turned his face very slightly towards where she was.
+
+“It’s a dragon, Lyra,” he said.
+
+It was only that. He said it quite quietly, the way you might say *it’s raining*, and she understood that it was the most frightened thing she had ever heard him say.
+
+“I know what it is,” she said. “I told you what it is.”
+
+“Yeah. Thanks for that.”
+
+“If you get hurt—”
+
+“You’ll kill me. I know.”
+
+The roars went on for a long time. Then cheering again, and Bagman shouting about singed skirts, and the whistle. Krum got up off his stool without a word to anybody and went out, ducking under the flap; and then there were only the two of them in the tent, and the beetle.
+
+Potter let out a long breath. When he spoke again it was nearer his ordinary voice.
+
+“About this morning. The paper. I didn’t say any of that, about Hermione.”
+
+“I know. Professor Snape did.”
+
+He made a noise that was nearly a laugh. “I’m a model of good behaviour. You’ll see.”
+
+“Prove it.”
+
+“I will.” He tipped his head back against the canvas. Then he shut his eyes, and turned his face up towards where she was, quite shamelessly, and waited. “Do I get anything? For luck?”
+
+Lyra looked at him for a moment, with his eyes shut and his face tipped up, waiting, as though there were not a dragon anywhere in Scotland.
+
+Then she put her hand in her pocket.
+
+“You get this,” she said, and pressed it into his palm.
+
+He opened his eyes and looked at it. It was a sugar quill in a twist of Honeydukes paper, gone soft at the folds and grey at the edges, and a little bent in the middle where it had been sat on, once, at a Quidditch match.
+
+“What’s this?”
+
+“A sugar quill. You eat it afterwards. If you’ve been sensible.”
+
+He turned it over in his fingers. “It’s bent.”
+
+“It’s been in a pocket.”
+
+“How long?”
+
+“Since Hallowe’en.”
+
+He looked down at the paper, where the Honeydukes crest had worn nearly away.
+
+“…Which one?” said Potter.
+
+Lyra did not answer, and he did not ask again. He looked at the sugar quill for a long time, and then he put it away, carefully, in the pocket where he kept his wand, as though it might break.
+
+“*Harry Potter!*”
+
+Bagman’s voice, through the megaphone, from outside.
+
+Potter stood up. Lyra stood up with him.
+
+She was invisible. He could not see her face; nobody in the world could see her face. That was the whole point of the cloak, and she had never in her life been so grateful to a piece of cloth. She put her hands on his arms, and stood up on her toes, and kissed him.
+
+It lasted a second. There was the cloak between them, cool and thin, and his mouth on the other side of it; and his eyes, which she could see and which could not see hers, gone perfectly round.
+
+Then she let go, and stepped back. She meant to go straight out.
+
+She did not go. Potter was standing alone in the middle of the tent with nobody in front of him at all, and for a moment he did not move. Then he put the back of his hand against his mouth, hard, as though there were something there he had to keep in, and the colour came up out of his collar and went on coming, and he began to laugh. He made no sound doing it. It shook his shoulders and would not stop, and he looked at the empty air where she had been, and then a little to the left of it, and then to the right, like somebody who has no idea which way to look and no hope of finding out.
+
+“Lyra—” he said, to nobody.
+
+She had seen him angry, and smug, and frightened on the floor of a train. She had seen him cold enough to stop a library. She had never once seen him like this. Nobody had. She had done it in a second, with a cloak in the way, and she stood a yard off and could not move for looking.
+
+“*Harry Potter!*”
+
+He took his hand away from his mouth. The laugh went, mostly. The smile did not; he could not get it off his face. He picked up his wand from the bench and walked out of the tent with it still there, towards a Hungarian Horntail, grinning like a fool.
+
+The fear came back all at once, so hard it took her breath. She had sent him out to a dragon with *that* on his face.
+
+Lyra ran. Something fat and droning went past her ear on the way out, and she did not stop for it.
