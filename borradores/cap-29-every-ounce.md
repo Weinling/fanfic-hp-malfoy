@@ -87,3 +87,51 @@ Krum considered that.
 “Good,” he said, and took his black broom, and went off down the slope towards the lake without another word; and Lyra stood at the edge of the pitch with the Firebolt over her shoulder and no idea at all what was good about it.
 
 That night, with a Durmstrang boy halfway through explaining a Bulgarian opening to her, the ring began to pulse in her pocket: warm, and then cool, and then warm. He was looking for her. Lyra moved a bishop, and lost it, and did not get up.
+
+⁂
+
+Double Potions on Wednesday was with the Gryffindors, and half the Slytherin side of the dungeon came down to it wearing badges.
+
+Zacharias Smith, it appeared, had found a market outside his own House. Parkinson had bought three. He leaned across the bench and offered Lyra one, pressing it with his thumb so that SUPPORT CEDRIC DIGGORY slid away into POTTER STINKS and back again.
+
+“I have a badge, Panther.”
+
+She had. It was in her pocket, where it had been since Hallowe’en, beside a ring she no longer put on at nine and a sugar quill that had gone from one set of robes to the next for more than a year. None of the three was any business of Parkinson’s. He looked at her pocket, and at her face, and put his badges away.
+
+They were brewing antidotes. Snape came down the Slytherin bench halfway through, looked into Lyra’s cauldron for some time, and said, “Adequate,” and moved on. He had not said *Faultless* since the spring. Lyra had stopped waiting for it, more or less.
+
+Across the dungeon, Potter was sitting with Weasley again, and Weasley was saying something out of the side of his mouth that kept making Potter laugh into his sleeve. It was a perfectly ordinary laugh. Lyra had not heard it for a fortnight, and she put more powdered bezoar into her antidote than it wanted, and had to fix it.
+
+At the end of the lesson they took their flasks up to Snape’s desk to be marked. Potter went up early. His way there took him past the end of the Slytherin bench, and as he passed, a scrap of folded parchment came to rest against Lyra’s mortar, so neatly that Crabbe, on her left, did not look up from her cauldron.
+
+This time Lyra saw him do it, and he knew she had.
+
+*Seven. The broom shed.*
+
+There was no signature. There was only one broom shed he could mean. She had been in it once, at the beginning of the longest evening of her life, among a lot of Shooting Stars with their twigs going every way at once.
+
+At seven o’clock tonight she had a chessboard and two Durmstrang seventh-years, one of whom had begun, last night, to look like a boy with something on the tip of his tongue. And she was not going to the broom shed with three crumbs.
+
+She tore a corner off her parchment and wrote on it, and folded it, and on her way up with her own flask she laid it on the end of the Gryffindor bench, beside his elbow, without looking at him.
+
+*Prior engagement. Sunday, two o’clock.*
+
+He took it the way he took Snitches, without appearing to look. By the time she had handed her flask to Snape and turned round, he had it open under the bench.
+
+He read it twice. Then he folded it very small and put it in his pocket and sat for a moment with his hand flat on the pocket, looking at nothing, and Weasley glanced at him and stopped talking. Then Potter pushed back his stool. He was going to come across the dungeon at the bell, she saw; he was going to walk her out of the door and down the corridor and under that cloak, in front of Snape and Parkinson and every badge in the room, and argue with her there.
+
+The dungeon door opened.
+
+It was a small boy with mousy hair and a camera round his neck, and he went straight up to Snape’s desk, beaming, as though he had been sent with good news.
+
+“Please, sir, I’m to take Harry Potter upstairs. All the champions, sir. Mr Bagman says it’s the weighing of the wands, and he’s to bring his things.”
+
+Snape looked across the dungeon at Potter, who was standing behind his stool with one hand still on his pocket, and Lyra watched him enjoy it.
+
+“Potter has finished his potion,” said Snape. “By all means. Take him.”
+
+Potter picked up his bag. The small boy chattered at him all the way to the door, and at the door Potter looked back once, over the top of the boy’s head, across the whole length of the dungeon; and then he was gone, and the door shut.
+
+Lyra went back to her bench and scoured her cauldron until she could see her face in it.
+
+Sunday. Four days. She meant to have the whole of it by then.
