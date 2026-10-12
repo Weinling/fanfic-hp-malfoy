@@ -50,7 +50,7 @@ The Beauxbatons girls were easier. They were cold, all the time, and miserable a
 
 “The giant,” said one of them, and shuddered elegantly.
 
-Lyra said that she believed Professor Hagrid was very fond of animals, and kept the rest. A headmistress did not go walking in a Scottish November for her health. And a man who had a hundred Blast-Ended Skrewts in boxes and did not know what they ate was exactly the man somebody would put in charge of something large and dangerous, and exactly the man who would want to show it to a lady.
+Lyra said that she believed Professor Hagrid was very fond of animals, and kept the rest. A headmistress did not go walking in a Scottish November for her health. And a man who had a hundred Blast-Ended Skrewts in boxes and did not know what they ate was exactly the man somebody would put in charge of something large and dangerous, and just the man who would want to show it to a lady.
 
 On Tuesday afternoon, Viktor Krum stopped beside her at the end of lunch.
 
@@ -122,7 +122,7 @@ He read it twice. Then he folded it very small and put it in his pocket and sat 
 
 The dungeon door opened.
 
-It was a small boy with mousy hair and a camera round his neck, and he went straight up to Snape’s desk, beaming, as though he had been sent with good news.
+It was a small boy with mousy hair and a camera round his neck, and he went straight up to Snape’s desk, beaming like somebody sent with good news.
 
 “Please, sir, I’m to take Harry Potter upstairs. All the champions, sir. Mr Bagman says it’s the weighing of the wands, and he’s to bring his things.”
 
@@ -148,7 +148,7 @@ Lyra read that twice, and put the letter away under the others.
 
 At half past eleven a Durmstrang boy brought a note down the Slytherin table. Professor Karkaroff would be honoured if Lucius’s daughter would take luncheon on the ship.
 
-He had been up half the night. She saw it as soon as she sat down, in his eyes, and in the way he kept laughing at nothing, like a man who has won at cards and may not tell anybody how much. He held out through the soup. Over the fish he called her *one of us*, twice, in exactly the way her father had once written it to her inside a letter; and somewhere between the fish and the pudding the whole of it came out of him, and Lyra let it, and admired him for it, and ate the pudding. She had been brought up at tables like that one. She knew how to sit at them and what to say, and how to make a man like Igor Karkaroff feel that he was among his own. He was.
+He had been up half the night. She saw it as soon as she sat down, in his eyes, and in the way he kept laughing at nothing, like a man who has won at cards and may not tell anybody how much. He held out through the soup. Over the fish he called her *one of us*, twice, the way her father had once written it to her inside a letter; and somewhere between the fish and the pudding the whole of it came out of him, and Lyra let it, and admired him for it, and ate the pudding. She had been brought up at tables like that one. She knew how to sit at them and what to say, and how to make a man like Igor Karkaroff feel that he was among his own. He was.
 
 Then she carried every word of it off the ship, and up the slope, to Harry Potter, as fast as she could run.
 
@@ -242,7 +242,7 @@ She had no idea what she had been saying. She had to go back for it, the way one
 
 “Dragons,” said Lyra.
 
-Then the whole of it, at once, in one breath, like a dispatch from a battle. Madame Maxime had gone into the Forest at midnight on Hagrid’s arm, in her best, and Karkaroff had followed them through the trees. There was a clearing. There were four of them, in pens, with wizards to hold them: one for each champion. They were mothers, sitting on nests; they had been brought with their eggs, which Karkaroff said made them worse. One was Welsh, and one Swedish, and one Chinese, and one was a Hungarian Horntail, which Karkaroff said was the worst of the lot, and he had said it as though he were recommending a wine.
+Then the whole of it, at once, in one breath, like a dispatch from a battle. Madame Maxime had gone into the Forest at midnight on Hagrid’s arm, in her best, and Karkaroff had followed them through the trees. There was a clearing. There were four of them, in pens, with wizards to hold them: one for each champion. They were mothers, sitting on nests; they had been brought with their eggs, and Karkaroff said that made them worse. One was Welsh, and one Swedish, and one Chinese, and one was a Hungarian Horntail, which Karkaroff said was the worst of the lot, and he had said it as though he were recommending a wine.
 
 Potter heard all of it. When she ran out of breath he said, “Dragons,” quite quietly, and nothing else; and she could not have told from his face whether it was news, and she did not try.
 
