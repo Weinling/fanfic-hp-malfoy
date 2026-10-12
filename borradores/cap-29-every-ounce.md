@@ -35,3 +35,55 @@ Because she had something for him too. She had been carrying it since last night
 She buttered a piece of toast, and looked at it, and arrived at a decision.
 
 Three crumbs off a man’s table were not worth the risk of handing them over. Her father had never in his life gone into a room holding half a hand, and nor would she. There was a first task in ten days that nobody in the castle was supposed to know anything about. Somebody did. Somebody always did. And by the time she got Potter on his own, she meant to have the whole of it.
+
+⁂
+
+She began that evening, with a chessboard.
+
+The Durmstrang students had been eating at the Slytherin table for three weeks, and in all that time nobody at it had found out anything about them except that they were large, and always hungry, and talked among themselves in a language with a great many more consonants than it needed. Lyra borrowed Montague’s chessboard after dinner, set it up at the end of the table, and began a game against herself. Within ten minutes two Durmstrang seventh-years were standing at her shoulder, unable to bear what she was doing with the black pieces. Within twenty she was losing to both of them, carefully, a piece at a time, and they were talking.
+
+A girl alone at a chessboard with two foreign boys looked like what it was, so on Tuesday there were three boards, and Theodore Nott and Blaise Zabini had been told they were needed to make up the numbers. Nott, who in four years had addressed perhaps ten words to Crabbe, said eleven that evening, all of them about her knight. Zabini lost to Goyle three times running and did not appear to mind.
+
+The Durmstrang boys knew less than she had hoped. Their headmaster had them studying, they said, in the evenings, in his cabin. One of them pulled a face about it, and the other kicked him under the table and said they were not supposed to say what. Lyra put her queen where it would be taken, and said she quite understood.
+
+The Beauxbatons girls were easier. They were cold, all the time, and miserable about it, and dying to complain to somebody who would understand what it was to be sent to Scotland in November in silk; and Lyra’s French was very good. She sat with three of them in the library on Monday and Tuesday, comparing charms for keeping hair smooth in damp weather, and learned that their headmistress went out walking at night. In the grounds. With the *garde-chasse*.
+
+“The giant,” said one of them, and shuddered elegantly.
+
+Lyra said that she believed Professor Hagrid was very fond of animals, and kept the rest. A headmistress did not go walking in a Scottish November for her health. And a man who had a hundred Blast-Ended Skrewts in boxes and did not know what they ate was exactly the man somebody would put in charge of something large and dangerous, and exactly the man who would want to show it to a lady.
+
+On Tuesday afternoon, Viktor Krum stopped beside her at the end of lunch.
+
+“Perhaps one day we fly,” he said, as though resuming a conversation they had broken off a minute ago instead of nine days. “Today?”
+
+The Firebolt had not been out of its case since September. Lyra fetched it.
+
+The pitch was bare. There was no Cup this year and no reason for anybody to be there, and the stands stood round it empty, with the wind going through them. Krum took the Firebolt from her as a jeweller takes a stone, and turned it over, and ran his thumb along the handle; and then he held out his own. It was black and plain, with no name on it anywhere. A man in Sofia had made it, he said. That man made brooms only for him.
+
+Lyra had flown a great many brooms. She had never flown anything like that one.
+
+The Firebolt did what you meant a moment before you meant it. Krum’s broom did what you meant and something of its own besides. It pulled to the left. It turned on a Knut, and kept turning if you let it, and twice in the first minute it very nearly had her off. Then she found out what it wanted, and gave it that, and after that they got on. She had not been off the ground since the spring. She took the black broom up until the castle was a toy and the lake a dish of pewter, and stayed there, with nobody near enough to speak to her, and let the wind have her hair.
+
+Krum flew the Firebolt below her the whole time, and watched.
+
+When they came down he did not look at her face. He looked at her hands.
+
+“On the turn, you hold too tight,” he said. “Is fine. You fly like Bulgarian.”
+
+Lyra took it as the compliment it plainly was, and asked, as they walked back across the grass, whether his headmaster was not very busy just now, with the first task so close.
+
+“Professor Karkaroff says, we wait.” Krum shrugged. He did not know, then; or did not care to know, which in Krum came to the same thing. She had decided on the ship that he was a genius on a broom and nowhere else, and nothing that afternoon changed her mind.
+
+At the edge of the pitch he handed her back the Firebolt, and stopped.
+
+“The girl in the library,” he said. “With the hair.” He made a gesture round his own head that took in a great deal of hair. “She is Potter’s?”
+
+“She is not Potter’s anything,” said Lyra.
+
+It came out much too fast.
+
+Krum considered that.
+
+“Good,” he said, and took his black broom, and went off down the slope towards the lake without another word; and Lyra stood at the edge of the pitch with the Firebolt over her shoulder and no idea at all what was good about it.
+
+That night, with a Durmstrang boy halfway through explaining a Bulgarian opening to her, the ring began to pulse in her pocket: warm, and then cool, and then warm. He was looking for her. Lyra moved a bishop, and lost it, and did not get up.

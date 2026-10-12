@@ -6,7 +6,7 @@
 
 ## Ahora mismo
 
-- **Capítulo 29, *Every Ounce***: ficha aprobada por el autor («sí a todo»: coda de la biblioteca, la frase del señor de la casita, el mapa a Moody aquí, sin Hogsmeade, sin la copa). Escribiendo en `borradores/cap-29-every-ounce.md`, escena a escena. **Escrita: 1 (la escalera).**
+- **Capítulo 29, *Every Ounce***: ficha aprobada por el autor («sí a todo»: coda de la biblioteca, la frase del señor de la casita, el mapa a Moody aquí, sin Hogsmeade, sin la copa). Escribiendo en `borradores/cap-29-every-ounce.md`, escena a escena. **Escritas: 1 (la escalera), 2 (ajedrez y Krum).**
 - **Próximo paso: el capítulo 29** (coreano 32), **desde Lyra** (decisión del autor). Lo empieza una sesión principal nueva. Orden:
   1. Lecturas: este estado, el handoff entero, todos los manuales, `docs/capitulos/continuidad-transversal.md`, la historia entera en texto completo (abre arco: del 29 al 32) y los coreanos 32, 33 y 34. Apuntarlo abajo.
   2. Lanzar el crítico nuevo (Opus) con `docs/notas/critico-arranque-29.md`.
