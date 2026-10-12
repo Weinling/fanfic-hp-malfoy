@@ -1,6 +1,6 @@
 # Continuidad transversal
 
-Hecho el 11 de octubre de 2026 a partir de todos los manuales y del handoff, tras el capítulo 28. Recoge lo que está repartido por los manuales y se escapa con facilidad: los hitos de la pareja, quién sabe qué y desde cuándo, cómo está cada personaje, las fichas vivas y las deudas abiertas.
+Hecho el 11 de octubre de 2026 a partir de todos los manuales y del handoff, tras el capítulo 28. Actualizado tras el 29 (12 de octubre). Recoge lo que está repartido por los manuales y se escapa con facilidad: los hitos de la pareja, quién sabe qué y desde cuándo, cómo está cada personaje, las fichas vivas y las deudas abiertas.
 
 **Se actualiza al cerrar cada capítulo**, en el mismo paso que el manual. Si algo de aquí choca con el texto, manda el texto; corrige este archivo.
 
@@ -36,8 +36,9 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 | 31 oct. 1994 | 26 | El aula: «If you get hurt, I’ll kill you»; la frente contra su pecho; le arregla la corbata; las dos confesiones (el verano, la poción) | Moody (lo vio) | «Then I’d better not. I wouldn’t get to see your face.» |
 | 10 nov. 1994 | 27 | Hurón: la lleva en brazos, primero mal y luego bien, andando. Nariz con nariz. **Beso en el hocico, el primero que decide ella**; «no cuenta» | Snape, Smith y Hufflepuff, Granger (lo deduce) | «That did not count.» |
 | 11 nov. 1994 | 28 | En público, la rama y el escreguto. Ella le dice a Weasley «I would if I could!» | Weasley | «She thinks it’s a *secret*.» |
+| 20 nov. 1994 | 29 | Bajo la capa, de día, junto al cobertizo de escobas del colegio: **tercer beso en la boca, el primero elegido por los dos** («Can I kiss you?» / «Yes.»). Largo, torpe, de pie. Ella le da lo de Karkaroff y los dragones y no deja que se lo deba («Don’t») | Nadie (el ojo de Moody podría) | «That one counted.» / «You knew first.» |
 
-**El 30 no estrena ningún contacto nuevo** (revisor). **Besos en la boca hasta ahora: dos (3 y 19).** Además: la frente (24), el hocico (27, «no cuenta»). El del 29 no es el primero: es el primero elegido por los dos, sin excusa.
+**El 30 no estrena ningún contacto nuevo** (revisor). **Besos en la boca hasta ahora: tres (3, 19 y 29).** Además: la frente (24), el hocico (27, «no cuenta»). El del 29 es el primero elegido por los dos, sin excusa: él lo pide y ella dice «Yes».
 
 **Traslados en brazos:** primero (Y1-1, rodando), el 5 (corriendo bajo la capa), el 27 (hurón, andando).
 
@@ -66,7 +67,7 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 - **Sirius:** el plan entero (16).
 - **Dumbledore:** estuvo en la cueva y bebió (26). «You cannot tell her everything» (22).
 - **Kreacher:** su parte; liberado de la orden.
-- **Ron y Hermione: no saben nada** hasta el 29.
+- **Ron y Hermione:** Harry se lo contó el lunes 14 de noviembre de 1994, con permiso de Dumbledore («if there was anybody I trusted»): los Horrocruxes, el diario incluido (29). Lyra lo sabe, y lo supo antes que ellos («You knew first»). Le inquieta que el diario de su padre esté «in a Weasley’s head».
 - **Lucius:** cree que el diario era un encargo del Señor Tenebroso, destruido (2). Usa la tapadera de las redadas (17) sin saber que la necesita.
 - **Dónde está el diario:** Harry se lo dio a Dumbledore (handoff §6); en el 13 Lyra no sabe si lo tiene Potter o Dumbledore.
 
@@ -94,15 +95,16 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 - **El horario de Granger** (15): Lyra lo vio y calla.
 - **La noche de 1992 (Y1-4):** Crabbe sabe que lloró; Lyra lo enterró.
 - **Lucius y la Marca** (25): Lyra sabe que su padre estaba en el desfile y no sabe quién la lanzó.
-- **Karkaroff** (28): Lyra sabe que él no metió el nombre, que Crouch mandó a su hijo a Azkaban «to die» y que algo pasó con los Longbottom; que Lucius quería mandarla a Durmstrang. **Aún no se lo ha dicho a Harry.**
-- **Moody** sospecha que Lucius la manda o la controla (27) y la vio volver del barco (28).
+- **Karkaroff** (28): Lyra sabe que él no metió el nombre, que Crouch mandó a su hijo a Azkaban «to die» y que algo pasó con los Longbottom; que Lucius quería mandarla a Durmstrang. Se lo dijo a Harry el domingo 20 (29). Él no preguntó qué les pasó a los Longbottom, y Lyra se dio cuenta de que no lo necesitaba.
+- **Los dragones de la primera prueba** (29): Karkaroff los vio siguiendo a Madame Maxime y a Hagrid la noche del sábado 19. Se lo contó a Lyra en el barco, creyendo que serviría a Lucius contra Potter. Lyra se lo dio a Harry, y Harry a Ron y Hermione esa tarde. Son cuatro (galés, sueco, chino y un Horntail húngaro), hembras con nido. Lyra no sabe lo del huevo de oro.
+- **Moody** sospecha que Lucius la manda o la controla (27) y la vio volver del barco (28). **Tiene el mapa de Harry** desde poco después de Halloween («Not names», 29); Lyra lo sabe y no le gusta.
 
-## 4. Cómo está cada uno (al final del 28)
+## 4. Cómo está cada uno (al final del 29)
 
-- **Lyra.** Cuarto, catorce años. Pareja en secreto, con el anillo en el bolsillo (ya no se lo pone a las nueve desde septiembre). Ha dado sin apuntar por primera vez (26). Espía para Potter en Slytherin por su cuenta; Moody la rechaza y la vigila. Se desbordó con Weasley (28). Su prejuicio se agrieta: no ha dicho «Mudblood» en voz alta desde el 7 (casi en el 19; en el 15 no le sale); calla lo de los Weasley (27) y luego defiende a su familia (28). El voto del 17 sigue abierto.
+- **Lyra.** Cuarto, catorce años. Pareja en secreto, con el anillo en el bolsillo (ya no se lo pone a las nueve desde septiembre). Ha dado sin apuntar por primera vez (26). Espía para Potter en Slytherin por su cuenta; Moody la rechaza y la vigila. Se desbordó con Weasley (28). Le sacó a Karkaroff los dragones para Potter, delante de un viejo amigo de su padre que la llamó «one of us» (29): es la primera vez que usa a los suyos contra ellos por él. Rechaza que Potter le deba nada («Don’t»). Su prejuicio se agrieta: no ha dicho «Mudblood» en voz alta desde el 7 (casi en el 19; en el 15 no le sale); calla lo de los Weasley (27) y luego defiende a su familia (28). El voto del 17 sigue abierto.
 - **Harry.** Campeón y cebo. Aliado de Moody, con citas. No puede contarle el Torneo («Can’t»). Distanciado de Ron. No tiene escoba propia. Lleva el calentador del 13 y Lyra no lo sabe.
-- **Ron.** Cree que Harry se presentó sin decírselo. Sabe lo de la pareja desde mayo. Lyra le ha dicho que Harry «se juega la vida».
-- **Hermione.** Leal a Harry; la P.E.D.D.O.; ha deducido lo del hurón. Lyra la llama «Granger».
+- **Ron.** Reconciliado con Harry el lunes 14 (29), al pie de la escalera de mármol. Sabe lo de la pareja desde mayo y los Horrocruxes desde el 14. Lyra le dijo que Harry «se juega la vida».
+- **Hermione.** Leal a Harry; la P.E.D.D.O.; ha deducido lo del hurón. Sabe que fue Lyra quien hizo entrar en razón a Ron (29). El domingo 20 por la noche le pasó a Lyra un libro de dragones en la biblioteca, sin decir nada. Krum la mira. Lyra la llama «Granger».
 - **Crabbe (Vanessa).** La testigo: cubre sin preguntar y toma apuntes por las dos. Cantó bajo el Imperius (27). Su pregunta del 7 está contestada a medias (23).
 - **Goyle (Greer).** Golosa y leal; hizo el pino bajo el Imperius.
 - **Parkinson (Panther).** Chico; rumores; rana bajo el Imperius; humillado por el escreguto (28).
@@ -116,7 +118,8 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 - **Sirius.** Libre de la caza, no exonerado en público. Estuvo en la cueva.
 - **Hagrid y Buckbeak.** Buckbeak está atado tras la cabaña, se inclina ante Lyra, y ella le debe un filete. Hagrid y Lyra no se hablan desde tercero.
 - **Diggory.** Campeón; en paz con Lyra (23); sospecha lo de la pareja.
-- **Krum.** Dieciocho años. Se sienta con Slytherin. «Perhaps one day we fly» (28).
+- **Krum.** Dieciocho años. Se sienta con Slytherin. Voló con Lyra el martes 15 (29): ella su escoba negra de Sofía, él la Saeta («You fly like Bulgarian»). Le preguntó si Granger era de Potter; ella dijo «She is not Potter’s anything», y él: «Good». La mira a ella en la biblioteca.
+- **Theodore Nott y Blaise Zabini.** Slytherin de cuarto, sembrados en el 29 (ajedrez con Durmstrang): Nott le habla a Crabbe de su caballo; Zabini pierde con Goyle.
 - **Karkaroff.** Debe favores a Lucius. Odia a Moody.
 - **Smith.** Antagonista de Harry; las chapas; le mordió el hurón.
 
@@ -124,7 +127,7 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 
 | Ficha | Dónde está | Última vez | Nota |
 |---|---|---|---|
-| La pluma de azúcar | Bolsillo de Lyra desde Halloween de 1993 | 18 | **Hilo atrasado.** Una mención en el 29; se paga en el 30, en la tienda (autor) |
+| La pluma de azúcar | Bolsillo de Lyra desde Halloween de 1993 | 29 | Mencionada en el 29 («more than a year»); se paga en el 30, en la tienda (autor) |
 | El calentador de botón | Harry, junto a la varita | 16 | Lyra no sabe que lo recuperó |
 | El pañuelo (18) | Lyra; lavado y planchado | 23 | Sabe que es de Potter; no se lo ha devuelto |
 | La posdata de Narcissa | Libro de Aritmancia, tras las tablas | 17 | Sin respuesta |
@@ -132,15 +135,16 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 | Los anillos | Lyra, en el bolsillo de día; Harry, el suyo | 28 | Colores: rojo (peligro de muerte), rosa (con su pareja), morado (en guardia), dorado (éxito), verde (a salvo), azul (solo insinuado en el 24: «anything that might come out blue»; el plan dice «te echa de menos»), azul oscuro (dormido, sin nombrar en el texto). Parpadeo: el otro le busca. Se calienta hacia el otro |
 | Los omniculares de Potter | Lyra; en la Manor, bajo la almohada (25) | 25 | Dos horas de ella grabadas. **No son ficha** (autor): no vuelven como tal |
 | La insignia S.P.E.W. | Bolsillo de Lyra | 26 | Los dos galeones: prometidos, no consta que se pagaran |
-| La carta de Lupin | Bolsa de Lyra | 27 | Sin contestar |
-| La Saeta de Fuego | En su estuche, en las mazmorras | 28 | Sin Quidditch este curso |
-| La capa y el mapa | Harry | 27 | Moody ve a través de la capa |
+| La carta de Lupin | Bolsa de Lyra | 29 | Sin contestar: la respuesta está empezada («*Dear Professor Lupin*») |
+| La Saeta de Fuego | En su estuche, en las mazmorras | 29 | Sin Quidditch este curso. Salió el martes 15 para volar con Krum |
+| La capa | Harry | 29 | Moody ve a través de ella |
+| El mapa | **Moody**, prestado por Harry tras el Cáliz | 29 | «Not names» |
 | El diario | Dumbledore (o Harry) | 14 | «Not ever» |
 | La tarjeta de Krum | Lyra, para Draco | 28 | — |
 
 ## 6. Deudas abiertas
 
-- **Harry → Lyra:** «You held on» (12), sin gastar. Lo del Torneo («Can’t»). Lo de Moody (no se lo dijo: «You weren’t answering»).
+- **Harry → Lyra:** «You held on» (12), sin gastar. Lo del Torneo («Can’t»). Lo de Moody (no se lo dijo: «You weren’t answering»). Lo de Karkaroff y los dragones (29), que Lyra no deja apuntar («Don’t»).
 - **Lyra → Harry:** 1992 (nunca reconocida). La capa, el pañuelo. «Put it on my account» (24).
 - **Lyra ↔ Lupin:** pagada con la verdad (27); él dice que sigue en deuda con ella.
 - **Lyra → Snape:** la mentira de la orilla; cuenta abierta y vigilada.
