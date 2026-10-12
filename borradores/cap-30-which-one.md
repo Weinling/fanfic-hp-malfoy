@@ -234,7 +234,7 @@ The Slytherin stand drew a single breath.
 
 Parkinson had turned round on his bench to stare at her. So had half the row in front.
 
-“Did you lend him yours?” said Crabbe.
+“Did you lend him yours?” said Goyle.
 
 “No,” said Lyra.
 
@@ -261,3 +261,29 @@ The stands came down. The noise was enormous: screaming, and stamping, and Bagma
 Lyra did not clap. She had forgotten how. She stood with one hand pressed flat against her ribs and watched the dark patch on his shoulder go up into the sky with the golden egg, and it came to her, quite simply, that she did not care in the least whether he had won.
 
 He had come back. She had told him at Hallowe’en what she would do to him if he got hurt, and he had gone and got hurt, and she did not want to kill him at all. Last Christmas, on the end of her bed at the Manor, she had sworn to be first on her knees if the Dark Lord ever came back, even if it meant turning on Potter. Standing in the Slytherin stand with her hand against her ribs, she could not have turned on anything.
+
+⁂
+
+By dinner the whole castle knew the marks. Potter and Krum were joint first; Delacour and Diggory were a point apart behind them, and Delacour was said to be furious about it in French.
+
+In the Slytherin common room the argument about the Firebolt went on all evening. Parkinson held that Potter had stolen it. Montague held that Dumbledore had bought it for him out of school funds, which was worse. One of the Warrington cousins put it about that it was Lyra’s, lent for a bet, until Lyra looked at him. She let the rest of them argue. She sat in her chair by the fire with her Arithmancy open on her knee and her face perfectly composed, and did not tell any of them that somewhere above their heads, in a tower, Potter was very probably eating a sugar quill a year and three weeks old.
+
+Then a prefect came in and pinned a new notice to the board by the door, and the whole common room got up to read it.
+
+> *THE YULE BALL*
+>
+> *Christmas Day, at eight o’clock, in the Great Hall.*
+>
+> *Open to the fourth year and above. Younger students may attend if invited by an older student.*
+>
+> *Dress robes will be worn.*
+>
+> *The champions and their partners will open the dancing.*
+
+Lyra read it twice.
+
+All round her, the fourth-year girls had begun, very casually, to look about the room, and the fourth-year boys had begun to look at the floor. Somebody at the back said *dress robes* in tones of despair.
+
+*The champions and their partners.* In the middle of the Great Hall, on Christmas night, in front of the whole school and Durmstrang and Beauxbatons and anybody from the *Daily Prophet* who cared to come: Potter, with somebody on his arm, opening the dancing. *It’s better, for now, if nobody can see it*, he had said under the cloister in May. *Officially.*
+
+She was still looking at the last line when, behind her, Panther Parkinson cleared his throat.
