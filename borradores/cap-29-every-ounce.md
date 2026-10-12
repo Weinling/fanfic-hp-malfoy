@@ -135,3 +135,133 @@ Potter picked up his bag. The small boy chattered at him all the way to the door
 Lyra went back to her bench and scoured her cauldron until she could see her face in it.
 
 Sunday. Four days. She meant to have the whole of it by then.
+
+⁂
+
+On Sunday morning she wrote to her mother, as she did every Sunday: two pages about Arithmancy and the weather and what the Beauxbatons girls did to their hair, and nothing whatever about anything. She did not ask about Durmstrang. Her mother had once, apparently, said no to a whole country on Lyra’s behalf and never mentioned it, and Lyra could not find a way of putting the question that did not sound like an accusation, or else like thanks. The postscript behind the tables of values went unanswered for another week. Under the letter to her mother lay a sheet that said *Dear Professor Lupin*, and nothing after it.
+
+Draco had written by return about the autograph: two whole sides, all of it Krum, until the very bottom.
+
+*The gentleman says Krum shows his feint too often. He says a man who shows you his best trick has not got another one.*
+
+Lyra read that twice, and put the letter away under the others.
+
+At half past eleven a Durmstrang boy brought a note down the Slytherin table. Professor Karkaroff would be honoured if Lucius’s daughter would take luncheon on the ship.
+
+He had been up half the night. She saw it as soon as she sat down, in his eyes, and in the way he kept laughing at nothing, like a man who has won at cards and may not tell anybody how much. He held out through the soup. Over the fish he called her *one of us*, twice, in exactly the way her father had once written it to her inside a letter; and somewhere between the fish and the pudding the whole of it came out of him, and Lyra let it, and admired him for it, and ate the pudding. She had been brought up at tables like that one. She knew how to sit at them and what to say, and how to make a man like Igor Karkaroff feel that he was among his own. He was.
+
+Then she carried every word of it off the ship, and up the slope, to Harry Potter, as fast as she could run.
+
+It was nearly half past two when she reached the broom shed. Potter was there. He was not under the cloak. He was leaning against the side of the shed in the thin sunshine, in plain view of the lawn and of half the school, which was out on it, it being Sunday and dry; down on the lake, the Durmstrang boys were diving off the ship.
+
+“You might have looked at your map,” said Lyra, getting her breath, “and seen me coming.”
+
+“Haven’t got it. Moody borrowed it, after the Goblet. He wants to see who’s moving about at night.”
+
+“He can see through walls.”
+
+“Not names.”
+
+Lyra did not like it. She could not have said why, except that she did not like Moody, and that a man who could see through walls and now had every name in the castle as well seemed to her to have a great deal more than anybody needed. She pushed her hair back off her face. She was pink from running and very pleased with herself, and she was waiting for him to ask.
+
+He did not ask. He was looking at the lake.
+
+“You’ve been busy,” he said.
+
+“One of us has to be.”
+
+“Ron saw you on the pitch on Tuesday. From the tower. On Krum’s broom.”
+
+“It pulls to the left,” said Lyra. “Did you get my note?”
+
+“I got it.” He did not look round. “Prior engagement.”
+
+He said it as though it tasted of something. Lyra had run all the way up from the lake, and had been charming to a Death Eater through three courses, and she was in no mood to be spoken to in that voice by a boy who had spent the week doing—what, exactly?
+
+“And what have *you* been doing? To get ready?”
+
+“For Thursday?” Potter shrugged. “Nothing. You can’t. Nobody knows what it is till the day.”
+
+Lyra stared at him.
+
+“Nobody knows— Potter. Did you listen to a single word Dumbledore said at Hallowe’en?”
+
+“Er.”
+
+“*I am sure I can count upon all of you to give your champions every ounce of support you can muster.*” She came a step nearer. “Every ounce. It does not mean *cheering*.”
+
+“Doesn’t it?”
+
+“It means everything you have. Every friend, every favour, every door you can get your foot in. Why do you suppose Madame Maxime and Karkaroff brought their whole top years with them? To sit in the stands and wave? It’s your castle. It’s your ground. You’ve got two champions to their one, and you heard them scream about it, and they are going to do *anything* to win this, and you—” another step, “—you are going to walk out on Thursday and wait to find out what is going to set you on fire. I told you not to try too hard. I didn’t tell you to go in knowing *nothing*!”
+
+She had come right up to him. Behind her, a knot of second-years was coming along the path round the end of the greenhouses. Potter looked at them over her shoulder, and then something silvery and cool came down over both of them at once, and the second-years went by a yard off, arguing about Exploding Snap, and saw nobody.
+
+It was very close under the cloak, and dim, and quiet. Somewhere up in the castle there was an eye that could see through this as if it were a windowpane. Let it.
+
+“Do you know,” said Lyra, low, “what I have been doing all week?”
+
+“Krum,” said Potter.
+
+“*Karkaroff*.”
+
+She told him. That it had not been Karkaroff: she had watched him rage about the Goblet, and she knew what lying looked like, and that had not been it. That he had said Barty Crouch would cut out his own tongue before he bent a rule; a man who had sent his own son to Azkaban, to die there. And then, *and when they did for the Longbottoms*—and had stopped, and looked at the door.
+
+Potter did not ask her what had been done to the Longbottoms. He did not ask anything. He stood under the cloak a few inches from her and was quiet for long enough that she understood he had no need to ask; and she put that with all the other things he knew and did not say, and for once she did not ask him either.
+
+“All week,” he said at last. “The chess. Ron said you were at your table every night with half of Durmstrang.”
+
+“Where else would I find them?”
+
+He let out a long breath, like somebody setting down a thing he had carried up a great many stairs. She had no idea what it was, and no time to wonder.
+
+“And that isn’t the half of it. The first task—”
+
+“Lyra.”
+
+“What?”
+
+“Can I kiss you?”
+
+She stopped.
+
+The last time he had asked her that, she had been a ferret, and had shown him her teeth. There had always been a reason, every time before. A Dementor. A word he would not let her finish. A tail. There was no reason now. Nobody needed stopping, and nothing was going to wear off, and if she said yes, then she would simply have said it.
+
+“Yes,” said Lyra.
+
+It was the shortest thing she had ever said to him. Nothing came after it. She had always had something to put after things.
+
+They both leaned the same way, and their noses met, and she said, “Other way,” exactly as she might have said it to an elf with a tray, and he laughed, and she felt him laugh; and then it was the other way, and it was not funny in the least. It went on. His hands were on her shoulders, and hers had hold of his sleeves, and the cloak slid off one of her shoulders and she pulled it back up without stopping. Down on the lake somebody from Durmstrang dived off the ship and came up shouting about the cold, and climbed out, and by the sound of it dived in again.
+
+When it stopped, she spoke first, before he could.
+
+“That one counted.”
+
+He did not say anything clever. For a moment he did not say anything. Then: “You were saying. The first task.”
+
+She had no idea what she had been saying. She had to go back for it, the way one goes back up a staircase for a dropped glove.
+
+“Dragons,” said Lyra.
+
+Then the whole of it, at once, in one breath, like a dispatch from a battle. Madame Maxime had gone into the Forest at midnight on Hagrid’s arm, in her best, and Karkaroff had followed them through the trees. There was a clearing. There were four of them, in pens, with wizards to hold them: one for each champion. They were mothers, sitting on nests; they had been brought with their eggs, which Karkaroff said made them worse. One was Welsh, and one Swedish, and one Chinese, and one was a Hungarian Horntail, which Karkaroff said was the worst of the lot, and he had said it as though he were recommending a wine.
+
+Potter heard all of it. When she ran out of breath he said, “Dragons,” quite quietly, and nothing else; and she could not have told from his face whether it was news, and she did not try.
+
+“Lyra. That’s— I owe you for—”
+
+“Don’t.”
+
+He stopped.
+
+She did not want it owed. She wanted him to have it.
+
+He looked at her for a moment longer under the cloak. Then he said he had to go, Ron and Hermione were waiting, and he would have to tell them. At the edge of the cloak, with one hand on it, he stopped.
+
+“I told them. On Monday. About the Horcruxes. Dumbledore said I could, if there was anybody I trusted.”
+
+Granger, then. Granger knew now, and Weasley, all of it: the diary and the number and the cave. It came up in Lyra quick and sharp, before she could do anything about it.
+
+“How lovely for them.”
+
+“You knew first,” said Potter.
+
+He lifted the cloak off her shoulders, and she was standing by the broom shed in the sunshine on her own, and a ripple went away across the grass towards the castle.
