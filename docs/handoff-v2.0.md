@@ -806,4 +806,16 @@ Las notas del crítico del 19 son 9/9/9/7/7/9/7/7 (empata con el 15 en cabeza). 
   - El diario «in a Weasley’s head» le pesa a Lyra.
   - Coda: Granger y Lyra estudian dragones juntas sin hablar; Krum mira a Granger.
   - Aviso del crítico: el 26, el 27 y el 29 son pagos románticos. **El 30 no debe serlo.**
-- **Siguiente:** el capítulo 30 (coreano 33), la primera prueba, jueves 24 de noviembre. Están decididos: la pluma de azúcar se paga en la tienda; la Saeta de Fuego de Potter; Skeeter en el *Profeta*; ningún contacto nuevo; el beso a través de la capa del coreano, a revisar contra la racha.
+- **Capítulo 30, *Which One*** (coreano 33, desde Lyra), escrito y criticado (`docs/notas/cap-30-critica.md`; manual `docs/capitulos/cap-30.md`). Nota del crítico: 9, 8, 8, 8, 9, 7, 7, 7; con los dos arreglos graves, al grupo del 29. Fija:
+  - Lyra le dice «Dragons» a Crabbe en el desayuno; **Parkinson lo oye y lo difunde** (Crabbe no). Crabbe: «You’re not even pretending any more. Are you?»
+  - El *Profeta*: «the sleek-haired bachelor Professor Snape». Harry confundió la pluma; Lyra lo deduce y no se ríe por lealtad a Snape. Harry tiembla bajo su mirada.
+  - En la comida, Harry le da la capa: «Wear this, and come and find me.» La capa se queda en la bolsa de Lyra.
+  - La tienda: Moody fuera, el ojo pasa por ella sin pararse; el escarabajo dentro. «It’s a broom.» / «You haven’t *got* a broom.» / «Ah.» «It’s a dragon, Lyra.»
+  - **La pluma de azúcar, entregada:** «You eat it afterwards. If you’ve been sensible.» / «Since Hallowe’en.» / «…Which one?» Va en el bolsillo de la varita.
+  - **Cuarto beso en la boca, el primero que empieza ella** (autor, 12 de octubre): a través de la capa, un segundo, de despedida. Harry se queda deshecho (la mano contra la boca, rojo, risa muda, «Lyra—» a nadie) y sale sonriendo hacia el dragón: «She had sent him out to a dragon with *that* on his face.»
+  - **La Saeta de Potter** es suya: Lyra lo sabe por el número de matrícula y recuerda el «No need» del 23. «Nine hundred years of Malfoys. *Get on with it.*»
+  - La púa en el hombro; el huevo bajo el brazo bueno. Potter y Krum, primeros empatados.
+  - El voto del 17, como emoción, no como decisión: «she could not have turned on anything».
+  - El aviso del Baile («*The champions and their partners will open the dancing.*») contra el «*Officially*» del 23. Final: Parkinson carraspea detrás de ella.
+  - Aviso del crítico: el 26, el 27, el 29 y el 30 tienen pago romántico. **El 31 no lo tendrá**, y el próximo beso no se vende como otro «primero».
+- **Siguiente:** el capítulo 31 (coreano 34): las parejas del Baile; Skeeter y el «triángulo»; Lyra anuncia a Krum; Potter sospecha de Moody (Lyra, con coda de Harry). Empieza donde acaba el 30: Parkinson carraspeando. La capa sigue en la bolsa de Lyra; la herida del hombro y el escarabajo, abiertos.

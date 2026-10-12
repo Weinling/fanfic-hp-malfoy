@@ -35,6 +35,7 @@
 - **El olvido colectivo** («nadie lo contó»): *Year One* 1 y 4. Gastado.
 - **«For the first time since May»:** 25.
 - **Finales:** del 24 al 28, cuatro frases cortas en negativa. El 29 acaba en diálogo. No volver a la negativa corta en el 30.
+- **Del 30:** la mano contra la boca y el color subiendo por la cara de Harry (la reacción al beso; no repetir); «It’s a dragon, Lyra» dicho como quien dice que llueve (el tic de Harry diciendo cosas graves en tono trivial: no repetir); «the whole weight of nine hundred years of Malfoys»; el eco del 4 («She had seen him angry, and smug…»), ya usado dos veces; la pluma de azúcar, cerrada.
 - **«No X. Y.»:** limitada a una por capítulo y solo si mejora la línea (autor, 12 de octubre).
 
 ## 3. La voz y el motor en este arco
@@ -44,7 +45,7 @@
 - **El misterio de Harry** se lleva como confianza. Lyra ha empezado a no pedirle explicaciones (los Longbottom, 29) y a guardar lo que ve. Harry no explica el origen.
 - **Harry, desde Lyra:** «Potter» en la narración, «Lyra» en privado. No es un galán: en el 29 estaba celoso, mal preparado y equivocado sobre ella.
 - **Testigos:** Crabbe, una intervención por capítulo. Granger, cada vez más cerca de Lyra sin palabras (15, 28, 29).
-- **Racha:** el 26, el 27 y el 29 son pagos románticos. El 30 no.
+- **Racha:** el 26, el 27, el 29 y el 30 tienen pago romántico (el 30, por decisión del autor: el beso de despedida). **El 31 no.**
 
 ## 4. Dónde releer en texto completo, según lo que toque la escena
 

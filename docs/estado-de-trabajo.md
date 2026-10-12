@@ -13,20 +13,24 @@
   - manual (`docs/capitulos/cap-29.md`);
   - continuidad transversal;
   - handoff (§15).
-- **Capítulo 30, *Which One***: ficha aprobada (`borradores/cap-30-ficha-guion.md`; hay beso de despedida a través de la capa, Harry deshecho, el Baile como gancho y la herida). Escribiendo en `borradores/cap-30-which-one.md`. **Escritas: 1 (el desayuno), 2 (la comida), 3 (la tienda), 4 (el dragón), 5 (el tablón). Borrador completo, pasada de tics hecha, crítica recibida y aplicada (`docs/notas/cap-30-critica.md`; ~3.910 palabras). Falta: manual, continuidad transversal, handoff.**
-- **Próximo paso: el capítulo 30** (coreano 33), la primera prueba, el jueves 24 de noviembre, desde Lyra. Antes de la ficha, el protocolo de `CLAUDE.md`:
+- **Capítulo 30, *Which One*** (coreano 33), **cerrado**: `borradores/cap-30-which-one.md` (~3.910 palabras). Lo que está hecho:
+  - ficha aprobada por el autor (`borradores/cap-30-ficha-guion.md`), con el beso a través de la capa y la reacción de Harry que pidió el autor;
+  - escritura escena a escena y pasada de tics;
+  - crítica y arreglos (`docs/notas/cap-30-critica.md`, con la nota para el crítico al final);
+  - manual (`docs/capitulos/cap-30.md`);
+  - continuidad transversal;
+  - handoff (§15).
+- **Próximo paso: el capítulo 31** (coreano 34): las parejas del Baile, Skeeter y el «triángulo», Lyra anuncia a Krum, Potter sospecha de Moody (Lyra, con coda de Harry). Antes de la ficha, el protocolo de `CLAUDE.md`:
   - estado, handoff entero, todos los manuales y la continuidad transversal;
-  - el texto completo del 28 y del 29;
-  - los coreanos 33, 34 y 35.
-- **Para el 30, ya decidido o avisado:**
-  - La pluma de azúcar se paga en la tienda, antes del dragón, sin precio.
-  - La Saeta de Fuego de Potter: se la compró en verano para tener la misma que ella, y Lyra se entera en la prueba.
-  - Skeeter, en el *Profeta*.
-  - En la tienda, Lyra se sienta a su lado bajo la capa y le coge la mano (plan, punto 9). Ningún contacto nuevo.
-  - **El 30 no debe ser un pago romántico más:** lo pide el crítico, porque el 26, el 27 y el 29 lo fueron. El beso a través de la capa del coreano hay que pesarlo contra eso.
-  - Lyra sabe las cuatro razas de dragón, pero no lo del huevo de oro.
-  - Moody tiene el mapa.
-- **Cerrados:** *Year One* 4 y del 24 al 29, con manual, nota y handoff. Del 23 al 28, revisados además por el revisor (`docs/notas/revisiones/tanda-23-a-28.md`).
+  - el texto completo del 29 y del 30;
+  - los coreanos 34, 35 y 36;
+  - `docs/notas/arco-29-32-lectura.md`.
+- **Para el 31, ya avisado:**
+  - **No es pago romántico** (crítico): el 26, el 27, el 29 y el 30 lo fueron. El próximo beso no se vende como otro «primero».
+  - Empieza con Parkinson carraspeando detrás de Lyra ante el aviso del Baile.
+  - La capa de Harry está en la bolsa de Lyra; la herida del hombro, el escarabajo y el ojo de Moody, abiertos.
+  - Lyra sabe que la Saeta de Potter es suya y que él confundió la pluma de Skeeter.
+- **Cerrados:** *Year One* 4 y del 24 al 30, con manual, nota y handoff. Del 23 al 28, revisados además por el revisor (`docs/notas/revisiones/tanda-23-a-28.md`).
 
 ## Si se compacta (arco del 29 al 32)
 
@@ -47,7 +51,7 @@ Ninguno. Todo está commiteado y subido.
 
 ## Agentes vivos
 
-- **Crítico:** el del cuarto año (criticó del 24 al 28) está retirado. **El del 29 está vivo** (Opus, arrancado con `docs/notas/critico-arranque-29.md`): leyó entero todo lo adaptado, criticó el 29 y espera el 30. Se le reutiliza hasta que se le llene el contexto (`CLAUDE.md`). El anterior (17 a 23, *Year One*, revisión del 1 al 3) está retirado.
+- **Crítico:** el del cuarto año (criticó del 24 al 28) está retirado. **El del 29 está vivo** (Opus, arrancado con `docs/notas/critico-arranque-29.md`): leyó entero todo lo adaptado, criticó el 29 y el 30, y espera el 31. Se le reutiliza hasta que se le llene el contexto (`CLAUDE.md`). El anterior (17 a 23, *Year One*, revisión del 1 al 3) está retirado.
 - **Revisor:** es el chat paralelo del autor. Sus informes llegan a `docs/notas/revisiones/`.
 
 ## Decisiones pendientes del autor
