@@ -122,3 +122,27 @@ Es el capítulo con más anécdota del coreano por línea. Sospechas fuertes:
 - [orig, probable] Weasley y la trampa para ratas, la foto de Egipto, «Attached»; la poción de Snape con huellas de rata; Lupin («You’re a werewolf, sir», los Merodeadores, Pettigrew rata); el enfrentamiento en el pasillo («So you take *Granger*»), la palabra que no termina y **el beso** («Shut up, Malfoy»), «Tomorrow I’ll tell you everything».
 - [nuestro] «I went over the accounts myself… and I came out on your side», «You owe me two… never once asked me for anything», «Say anything you like to me. Not that», «Is that *charity* again?» / «No», «You never say what you mean».
 - **Sin publicar.** Comprobar contra `coreano/ko-16.md` y `ko-17.md`.
+
+## 20. Which Way to Look (coreano 19 sin Ron; sin publicar)
+
+- [orig, probable] Casi todo, en orden: tumbada en la cama, el cajón que golpea, el anillo rojo y luego rosa, Greengrass y el toque de queda, el mapa y la capa en el despacho de Lupin, Filch («Peeves. Should’ve known»), el destello plateado, Buckbeak y la reverencia («a very handsome, very well-mannered gentleman»), el lobo, la orilla, *Periculum*, Snape, «I caught Sirius Black», el Veritaserum, Pettigrew que desaparece; «Malfoy. Come with me», el Patronus y el recuerdo feliz.
+- [nuestro] La culpa de la poción (la huella de rata en el escritorio), «There’ll be prime steak in it», «She had had her wand in her hand and him at her feet, and she had gone to Potter».
+- **Sin publicar. Riesgo alto de calco**: el ritmo y los chistes (Lyra regañando al hipogrifo, el «Your father’s daughter» de Snape) tienen voz de webnovel traducida.
+
+## 21. Coincidence (coreano 20 + primera mitad del 21; sin publicar)
+
+- [orig, probable] El giratiempo con la cadena alrededor de los dos cuellos, olfatear la capa («It smells of soap»), los nombres («The earlier me is Potter… I’m Harry, and you’re Lyra»; «D-do as you like»), verse a sí misma con el cáliz, Harry que hace de señuelo, mirar el beso desde fuera («Don’t look!» / «It’s important to watch»), «You said tomorrow» / «I was early», «Granger saw… *Obliv*—», Lupin y el mapa birlado del bolsillo, el cajón que ella misma golpea, los anillos que forman un corazón, «Coincidence».
+- [nuestro] «That wasn’t Lyra. That was Malfoy», la certeza de la poción («Not any rat, then»), el corte de Weasley con la trampa.
+- **Sin publicar. Riesgo muy alto de calco**: es la comedia romántica del original casi escena a escena, con sus remates.
+
+## 22. A Professional Relationship (resto del coreano 21 + 22; sin publicar)
+
+- [orig, probable] Las Cleansweep del cobertizo, «Can I smile in front of you?» / «Only in front of me» / «Every time I smile, I’ll think of you»; Pettigrew en la orilla con Ron («Have him for your packed lunch!», «I *was* Scabbers»), la confesión del neutralizador, «Is that why you sold my parents?», «Coward»; los zorros de los dos y el de Lyra que se tumba panza arriba; Buckbeak y el lobo vistos desde fuera; atar a Pettigrew; Dumbledore («Peter. At last», «You have used a Time-Turner»), **«Miss Malfoy, please, sir. It’s a professional relationship»** [título y pantallazo], «You cannot tell her everything».
+- [nuestro] El peso de la poción oída en voz alta, «She had not told him everything either».
+- **Sin publicar. Riesgo muy alto.**
+
+## 23. Nine o’Clock (coreano 23; sin publicar)
+
+- [orig, probable] El Ministerio calla; la Saeta de Fuego de Lucius y el revuelo en el Gran Comedor («If you ask me very nicely…» / «No need»); Crabbe Cupido; el partido contra Ravenclaw y Chang llorando; la aritmética de la Copa y las banderitas de dos colores; Potter y Diggory paseando antes del partido, el partido táctico, la mano que suelta («That’s from Lyra»); «I’m not going out with Lyra»; el claustro, «Officially», «next year, if students come from other schools», **el anillo de las nueve** [pantallazo], «A boy who comes with as much luggage as you do».
+- [nuestro] El chocolate negro en la puerta de Lupin («A receipt, not a payment»), el pañuelo devuelto en pensamiento, la respuesta a Crabbe («I’m not. Not any more»).
+- **Sin publicar. Riesgo alto.** El narrador hace aquí lo que el handoff prohíbe para el original («Lyra Malfoy was not a girl who got turned down», «She would sooner die than be put aside the same way twice»): es la voz de la oficial, no la nuestra.
