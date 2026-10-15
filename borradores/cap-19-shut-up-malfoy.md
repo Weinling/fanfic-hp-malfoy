@@ -4,67 +4,67 @@
 
 There were three of them, Hufflepuff third-years, crouched in a row against the wall like children round a rabbit hole, and they had plainly been waiting four days for exactly this. One of them was a boy she had once made cry in first year over a Chocolate Frog card, and he looked as if he had been saving it up ever since.
 
-It was the best thing that had happened to their House in living memory, and Lyra could hardly blame them for it. That did not mean she had to listen. She walked straight into the middle of them, and they got up rather quickly and backed against the wall, three of them against one of her.
+It was the best thing that had happened to their House in living memory, and Lyra could hardly blame them for it. That did not mean she had to listen. She stopped in front of them and waited, and one by one they got up off their heels and found the wall behind them.
 
-“How sweet,” she said. “One win in a hundred years, and you’re making it last. Half of it was Diggory being clever, and none of it was you.” She looked past them at the thing on the flagstones: a little wire trap with a square of treacle tart in it, just big enough for one rat. “And this is how you celebrate. Herding vermin in corridors. You could always become Animagi and turn into ferrets, you know. You’d be naturals.”
+“Do go on,” she said. “It’s a very good song. It has one word in it, and you’ve learned it.” She looked past them at the thing on the flagstones: a little wire trap with a square of treacle tart in it, just big enough for one rat. “Diggory won that match. You three were in the stand, eating toffee. And this is how you celebrate? Crouching in a corridor, chasing vermin? Have you thought about ferrets? You’d make natural ones. You’ve got the crouch already.”
 
-“It isn’t ours!” said the boy. “We were only watching—”
+“It’s not ours!” said the boy. “Somebody just left it—”
 
-Behind them, something grey shot out from the skirting board where they had cornered it, past the trap and past Lyra’s shoe and away down the corridor. One of the Hufflepuffs made a small disappointed noise.
+Behind them, something grey shot out from the skirting board where they had cornered it, past the trap and past Lyra’s shoe and away down the corridor. All three Hufflepuffs said “*Aw*.”
 
-“Oi! Don’t touch that!”
+“Hey! That’s *mine*—”
 
 Weasley came pounding round the corner, red in the face, and skidded to a halt when he saw who it was.
 
-“That’s my trap. If you’ve—oh, brilliant, it’s Malfoy. What are *you* doing here?”
+“Don’t touch it, it’s set. Was there a— Oh, *great*. Malfoy.”
 
-“Weasley. Is this yours? It’s very like your house. Small, and full of things nobody else wants.”
+“Weasley. Did you make this yourself? It looks it.”
 
-“Our house is massive, actually. It’s my room that’s small.” He was already on his knees by the trap. “Was there a rat? Did you lot let it out? What colour was it?”
+“My dad showed me, actually. He’s good with Muggle stuff.” He was already on his knees by the trap. “Was there a rat? Did you lot see it? Which way?”
 
 The Hufflepuffs looked at one another, and at Lyra, and said nothing useful. Lyra sighed.
 
-“A dirty sort of grey-brown. It went that way. I didn’t see its face. Rats don’t have faces.”
+“Grey. Or brown. Rat-coloured. It went that way, extremely fast. I didn’t stop it to ask its name.”
 
-“They do! Scabbers is all skinny, and he’s got a toe missing on one of his front feet—”
+“Did it have all its toes? Scabbers is all skinny, and he’s got a toe missing on one of his front feet—”
 
-“Nobody in the world looks at a rat’s feet but you, Weasley.”
+“I did not count its *toes*, Weasley.”
 
-“It matters! If it’s Scabbers, then Harry and Hermione—” He stopped, and scratched his head. “Never mind.” He turned to the Hufflepuffs. “Thanks. If you see a brown rat, tell me, will you? And don’t break the trap. And if there’s one in it, don’t *kill* it.”
+“Well, it matters! If it’s Scabbers, then Harry and Hermione—” He stopped, and scratched his head. “Never mind.” He turned to the Hufflepuffs. “Cheers. Look, if you see a brown rat, come and find me, will you? Gryffindor table. And leave the trap alone. And if there’s ever one in it, don’t *kill* it.”
 
 The Hufflepuffs said they would, and fled. Weasley set the trap again, very carefully.
 
-“I thought your rat was dead,” said Lyra. “I heard Granger’s cat had it for lunch.”
+“I thought your rat was dead,” said Lyra. “The whole school heard you say so. At length.”
 
-“So did I. He’s ancient, he can’t look after himself without me. Only Harry and Hermione keep saying he’s alive, and they’ve been looking for him for weeks.” He sat back on his heels. “They really believe it. So I can hardly sit about, can I?”
+“Yeah, well. I thought so too.” He sat back on his heels. “He’s old, he’s never been any good on his own. Only Harry and Hermione won’t have it. They’ve been out looking for him every day for weeks, and they *mean* it. I can’t just sit in the common room while they do that, can I?”
 
 So that was what Potter and Granger did together every afternoon, round corners and up staircases and into lavatories nobody used. They were looking for Weasley’s *rat*.
 
-“The pair of them go round the castle hand in hand, hunting for a rat?”
+“Every day. For a *rat*.”
 
-“Not hand in hand. Just hunting.” He dug in his pocket and brought out a square of newsprint gone soft with folding: the photograph from the *Daily Prophet* in the summer, the whole Weasley family waving in front of a pyramid, and on the shoulder of the youngest boy an old rat, asleep. “Ugly, lazy, useless. He was Percy’s before he was mine. But I’ve had him two years, and he’s family. They’re only looking because of me.”
+“For *my* rat.” He dug in his pocket and brought out a square of newsprint gone soft with folding: the photograph from the *Daily Prophet* in the summer, the whole Weasley family waving in front of a pyramid, and on the shoulder of the youngest boy an old rat, asleep. “Look at him. He’s not much. Sleeps all day, bites if you wake him. He was Percy’s first. But he’s ours, and they know that, and that’s why they’re looking.”
 
-“It would be kinder to buy you an owl and tell you the rat had been eaten.”
+“A new owl would be cheaper than all this. Somebody ought to tell your parents.”
 
-“I *like* him. You have something two or three years and see if you don’t.”
+“Wouldn’t be *him*, though, would it?”
 
-“I should never keep anything for two years, Weasley, and certainly not anything handed down. If it were a rat, I should throw it away.”
+“It would be an owl. With all its toes.”
 
 She waited for him to go red. He only shrugged.
 
-“Fair enough. I wanted Percy to drop dead when I got him. Miss him now, though. That’s real, that is.”
+“Suppose. I hated him when Percy handed him on. Thought it was the worst present anyone ever got. And now I go round setting traps for him.” He looked at the photograph. “Funny, that.”
 
-It was very deflating. Two years of Potter’s company had taught Weasley to let an insult go past him as though it were weather. She could have called him a blood traitor, and he would only have made a face.
+It was very deflating. Weasley had spent two and a half years with Potter, and it seemed to have worn something smooth in him; insults went off him like rain off a slate. She could have called him a blood traitor, and he would only have made a face.
 
 “How dull you’ve become,” said Lyra, and turned to go.
 
-“You could stop being foul and make it up with Harry,” Weasley called after her. “He looks rotten lately.”
+“You could try being less foul and making it up with Harry,” Weasley called after her. “He’s looked like death all week.”
 
-Rotten. Lyra walked on. Potter had pushed away the hand she held out to him, and used her own brother to do it, and gone off with Granger after a rat; and *he* looked rotten.
+Like death. Lyra walked on. Potter had pushed away the hand she held out to him, and used her own brother to do it, and gone off with Granger after a rat; and *he* looked like death.
 
-She had fought Potter since the first week of first year, in corridors and in the Great Hall and in every lesson they shared. Ask anybody at Hogwarts to name a pair of enemies and they would say *Potter and Malfoy* before they had finished hearing the question. And then the diary, and everything since, and somewhere along the way it had stopped being that, and she still could not have said where.
+She and Potter had been at war since they were eleven, and the whole school had watched it: hexes in corridors, points lost in Potions, a Snitch caught with a broken arm. Then a diary on a classroom desk, and everything after, and somewhere in all of it the war had turned into something she could not have drawn a map of. She did not know where the border had moved. She only knew she was on the wrong side of it.
 
-Attached, Weasley would have called it.
+Weasley had a word for that, she supposed, about rats.
 
 “Attached,” said Lyra, under her breath. “Honestly.”
 
@@ -72,19 +72,19 @@ A witch in a ruff, in a portrait by the stairs, said “*Ha*,” and went back t
 
 ⁂
 
-Snape had asked her on Monday, after Potions, in the voice he kept for things that were not quite orders. He would be at the Ministry on Wednesday evening, on business. On his desk there would be a potion for Professor Lupin, who was unwell at this time of the month and must have it before moonrise without fail. Would she take it up to him?
+Snape had asked her on Monday, after Potions, in the voice he kept for things that were not quite orders. He had business at the Ministry on Wednesday and would not be back till late. Professor Lupin was unwell, as he was unwell every month at about this time, and there was a draught he must have before moonrise. It would be ready on the desk. Would she see that he got it?
 
 It was the first thing Snape had asked of her since November. She owed him, and she knew it, and she had said yes before he finished.
 
-His office was full of jars. Lyra went between the shelves without touching anything, to the desk, where a small cauldron sat over a low flame with an enchanted ladle turning in it by itself, and a pewter goblet stood ready beside it. The potion was done; it was putting up slow, smoky bubbles and smelled appalling.
+Snape’s office was cold, and smelled of the things in the jars. Lyra went between the shelves without touching anything, to the desk, where a small cauldron sat over a low flame and a pewter goblet stood ready beside it. The potion was done. It gave off a thin, bluish smoke and a smell like boiled stockings.
 
-She was ladling it into the goblet when she saw the marks.
+She was filling the goblet when she saw the marks.
 
-A little of it had slopped over the rim at some point and dried on the desk in a greyish smear, and across the smear, and away from it towards the edge of the desk, went a line of tiny prints. Something had climbed up, fallen in, and scrambled out again.
+There was a dried grey splash on the desk beside the cauldron, where some had boiled over, and printed in it, then going away from it towards the edge of the desk, were tiny feet. They went up the side of the cauldron, and then they came down it again, damp and in a hurry.
 
-A rat. There were a great many cats in this castle, and evidently none of them was doing anything about the rats.
+A rat. It would be, in this castle, this week.
 
-Lyra looked at the goblet, and at the window, where the light was already going. There was no time to make another, even if she had known how, and Snape would not be back until tomorrow. Whoever drank it need never know. She put the lid on, wiped the bottom of the goblet on Snape’s blotter, and went.
+Lyra looked at the goblet, and at the window, where the light was already going. She could not have brewed another if she had had all night, and she did not have all night; she had until moonrise. A rat could not have drunk much. Nobody need ever know it had been there. She put the lid on, wiped the bottom of the goblet on Snape’s blotter, and went.
 
 ⁂
 
