@@ -6,13 +6,13 @@ There were three of them, Hufflepuff third-years, crouched in a row against the 
 
 It was the best thing that had happened to their House in living memory, and Lyra could hardly blame them for it. That did not mean she had to listen. She stopped in front of them and waited, and one by one they got up off their heels and found the wall behind them.
 
-“Do go on,” she said. “It’s a very good song. It has one word in it, and you’ve learned it.” She looked past them at the thing on the flagstones: a little wire trap with a square of treacle tart in it, just big enough for one rat. “Diggory won that match. You three were in the stand, eating toffee. And this is how you celebrate? Crouching in a corridor, chasing vermin? Have you thought about ferrets? You’d make natural ones. You’ve got the crouch already.”
+“Do go on,” she said. “It’s a very good song. It has one number in it, and you’ve learned it.” She looked past them at the thing on the flagstones: a little wire trap with a square of treacle tart in it, just big enough for one rat. “Diggory won that match. You three were in the stand, eating toffee. And this is how you celebrate? Crouching in a corridor, chasing vermin? Have you thought about ferrets? You’d make natural ones. You’ve got the crouch already.”
 
 “It’s not ours!” said the boy. “Somebody just left it—”
 
 Behind them, something grey shot out from the skirting board where they had cornered it, past the trap and past Lyra’s shoe and away down the corridor. All three Hufflepuffs said “*Aw*.”
 
-“Hey! That’s *mine*—”
+“Oi! That’s *mine*—”
 
 Weasley came pounding round the corner, red in the face, and skidded to a halt when he saw who it was.
 
@@ -44,7 +44,7 @@ So that was what Potter and Granger did together every afternoon, round corners 
 
 “For *my* rat.” He dug in his pocket and brought out a square of newsprint gone soft with folding: the photograph from the *Daily Prophet* in the summer, the whole Weasley family waving in front of a pyramid, and on the shoulder of the youngest boy an old rat, asleep. “Look at him. He’s not much. Sleeps all day, bites if you wake him. He was Percy’s first. But he’s ours, and they know that, and that’s why they’re looking.”
 
-“A new owl would be cheaper than all this. Somebody ought to tell your parents.”
+“A new owl would be cheaper than all this. Even your family could run to an owl.”
 
 “Wouldn’t be *him*, though, would it?”
 
@@ -62,9 +62,9 @@ It was very deflating. Weasley had spent two and a half years with Potter, and i
 
 Like death. Lyra walked on. Potter had pushed away the hand she held out to him, and used her own brother to do it, and gone off with Granger after a rat; and *he* looked like death.
 
-She and Potter had been at war since they were eleven, and the whole school had watched it: hexes in corridors, points lost in Potions, a Snitch caught with a broken arm. Then a diary on a classroom desk, and everything after, and somewhere in all of it the war had turned into something she could not have drawn a map of. She did not know where the border had moved. She only knew she was on the wrong side of it.
+She and Potter had been at war since the first week of first year, and the whole school had watched it: hexes in corridors, points lost in Potions, a Snitch caught with a broken arm. Then a diary on a classroom desk, and everything after, and somewhere in all of it the war had turned into something she could not have drawn a map of. She did not know where the border had moved. She only knew she was on the wrong side of it.
 
-Weasley had a word for that, she supposed, about rats.
+There was a word for it. Weasley would have used it about his rat.
 
 “Attached,” said Lyra, under her breath. “Honestly.”
 
@@ -80,7 +80,7 @@ Snape’s office was cold, and smelled of the things in the jars. Lyra went betw
 
 She was filling the goblet when she saw the marks.
 
-There was a dried grey splash on the desk beside the cauldron, where some had boiled over, and printed in it, then going away from it towards the edge of the desk, were tiny feet. They went up the side of the cauldron, and then they came down it again, damp and in a hurry.
+There was a dried grey splash on the desk beside the cauldron, where some had boiled over, and across it went a line of tiny prints, off towards the edge of the desk. They went up the side of the cauldron, and then they came down it again, damp and in a hurry.
 
 A rat. It would be, in this castle, this week.
 

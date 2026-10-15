@@ -28,7 +28,7 @@ Crabbe and Goyle, who knew rather more about it than Parkinson did, were kinder,
 
 “He and Granger are hunting for a rat,” said Crabbe. “Somebody saw them looking under a suit of armour.”
 
-Lyra turned a page.
+Lyra did not look up.
 
 “If Potter wants to spend his evenings under the armour, he is very welcome to them. Could we possibly talk about something that matters? Quidditch, for instance.”
 
@@ -60,7 +60,7 @@ Crabbe turned the box over in her hands.
 
 Crabbe went out with the box at a brisk trot, towards the common room. Lyra read the same paragraph three times and gave it up. When she looked up again, one ring was lying on the end of her bed, on the green coverlet, where Crabbe had been sitting.
 
-Crabbe had taken one and left one. Lyra could not imagine what she meant by it, and was not going to ask.
+Crabbe had taken one and left one, which was the most pointless thing Lyra had ever seen anybody do with a pair. She was not going to ask.
 
 She picked it up—it was cold, and plain, and weighed almost nothing—and dropped it into the drawer of her bedside table, and shut the drawer harder than it needed.
 
@@ -148,7 +148,7 @@ Her hands tightened on the broom handle.
 
 She hit him. She swung the Nimbus round and drove it into his broom side-on with everything it had, and Diggory grunted and went spinning away across the sky, head over heels, and the crowd roared, and somewhere below Madam Hooch’s whistle was going like a kettle.
 
-Nobody had ever heard her say what she thought of Potter, because she had never said it. She had not even said it to herself.
+She had never told a soul what she thought of Potter. She had hardly told herself.
 
 “*Don’t you dare*,” she shouted after him, “*tell me what I feel!*”
 

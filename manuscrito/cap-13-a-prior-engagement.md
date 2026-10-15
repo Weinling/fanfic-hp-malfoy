@@ -60,7 +60,7 @@ Rules, as far as Lyra had ever been able to tell, were things that happened to o
 
 He knew that Black had betrayed his parents; he had said so himself, in Hogsmeade, “one rat of a traitor”. What he could not know was how it had been done, because that had been said in a dungeon office with a charm on the door: a secret that needed only one person to keep it and one to give it away, and a father who had been offered Dumbledore and had chosen his friend instead. Lyra thought of a voice across a library table saying *It’s the only way I get to hear her*, and looked harder at the fire.
 
-Somebody ought to draw him a map before he went. That was all. Anybody would have done as much, and Lyra was not in the habit of doing more for Potter than anybody would.
+Somebody ought to draw him a map before he went. That was the whole of it. Where Potter was concerned, Lyra did the bare minimum, and was rather proud of it.
 
 She would not give it to him for nothing, naturally. There was the diary. As far as she knew it was still in Potter’s keeping, or, worse, Dumbledore’s: a little black book that could put her father in Azkaban and her mother after him, lying in somebody else’s drawer. If she could get it back into a Malfoy one, the information would have paid for itself twice over.
 
@@ -106,7 +106,7 @@ She came back with a tankard of butterbeer and a roast chicken leg wrapped in pa
 
 “Don’t look at me like that,” she told it. “I asked for a butterbeer. The chicken was their idea.” She unwrapped it and put it down on a flat stone by the fence. “I certainly shan’t be eating it. Malfoys do not eat with their fingers in a lane.”
 
-The dog looked at the chicken, and then at her, with the air of somebody far too hungry to argue with a liar. Then it put its nose to the paper and had the meat off the bone in about four bites, and she stood by the fence with the butterbeer warming her hands and watched it. The peacocks at home ate as though everything had been poisoned and they were only being polite. This one ate as though it had been poisoned already and meant to enjoy what was left. It was, she had to admit, a pleasure to watch.
+The dog looked at the chicken, and then at her, with the air of somebody far too hungry to argue with a liar. Then it put its nose to the paper and had the meat off the bone in about four bites, and she stood by the fence with the butterbeer warming her hands and watched it. The peacocks at home ate as though everything had been poisoned and they were only being polite. This one ate as though it had been poisoned already and meant to enjoy what was left. It was, she had to admit, a pleasure to watch. She thought, idly, that she might get a dog. Father would hate it.
 
 “Here, look. It’s the Grim!”
 
@@ -152,7 +152,11 @@ So that was how she had walked the length of Hogsmeade on Hallowe’en without o
 
 “That Shack has been screaming for years, and it has never once thrown mud. Ghosts haven’t the aim.” She looked him up and down. “And ghosts don’t sound pleased with themselves.”
 
-“Here,” said Potter, sounding more pleased than ever. “Before you start.”
+“Nobody else will ever know it was me.”
+
+“I shall.”
+
+“That’ll do, then,” said Potter, sounding more pleased than ever. “Here. Before you start.”
 
 He held out his hand. In it was a round brass button about the size of a Sickle, with a little clip on the back, and when she took it, it was warm. It was a button warmer from Zonko’s: you clipped it to your coat and it kept the whole of you warm, and at least once a winter somebody in the castle set their scarf on fire with one. She turned it over, as a matter of form, to look for the price. Then she clipped it to her collar. Heat came out of it at once, gently, and spread down through her shoulders into her arms and all the way to her frozen fingers, and Lyra was obliged to take a long and careful interest in the view.
 
@@ -178,7 +182,7 @@ He rubbed the back of his neck, and looked at the snow, and then he sighed.
 
 “How very grand.”
 
-“It ran late. And by the time it was over you’d turned up and started feeding him, and I couldn’t get a word in.” He glanced along the fence, to where the dog had settled again beside its stone. “The two of you looked like you had a lot to talk about. It seemed rude to interrupt.”
+“It went wrong. We missed each other, and then you turned up and started feeding him, and I couldn’t get a word in.” He glanced along the fence, to where the dog had settled again beside its stone. “The two of you looked like you had a lot to talk about. It seemed rude to interrupt.”
 
 Some small, careful part of her noted that people did not usually keep appointments with dogs, and put the note away to read later, because the rest of her had stopped at *prior engagement*.
 
@@ -214,7 +218,7 @@ He looked round at the dog again. Then he sighed, and pushed his hair back off h
 
 “Malfoy,” he said. “I know about Sirius Black. Better than you, from the sound of it.”
 
-He had not raised his voice. He had only taken everything else out of it. The warmer went on working at her collar, uselessly. Lyra had seen a face like that once before, in a wardrobe in the staff room, under a hood. There had been a smile on that one, and there was none on this, and she did not find that it helped.
+He had not raised his voice. He had only taken everything else out of it. The warmer went on working at her collar, uselessly. She had seen it a third time, too, in a wardrobe in the staff room, under a hood. There had been a smile on that one, and there was none on this, and she did not find that it helped.
 
 But the diary had her mother and father in it. Potter would not use it, probably. Dumbledore would not, probably. Probably was not good enough. She had not come all this way to be sent home by a face.
 

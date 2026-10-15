@@ -1,5 +1,7 @@
 <!-- Informe del lector para el capítulo 29, 11 de octubre de 2026. Guardado tal cual para que no exista solo en contexto. -->
 
+> **Aviso (15 de octubre de 2026):** las citas del 13 al 19 de este informe son anteriores al cotejo con la traducción oficial y varias ya no existen. Compruébalas en el texto (ver `docs/notas/cotejo-oficial/caps-13-19.md`).
+
 # Informe del lector para el capítulo 29 (interludio de Harry, 13–20 nov 1994)
 
 **Qué he leído.** Texto completo de 16, 19 (escenas clave), 24 a 28, *Year One* 1 a 4 y los pasajes pertinentes de 1, 3, 6, 14, 17 a 23. Los demás, con grep y lectura dirigida. Todo lo que cito lo he verificado en el texto, no en los manuales.

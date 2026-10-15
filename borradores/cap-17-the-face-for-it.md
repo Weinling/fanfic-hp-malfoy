@@ -64,7 +64,7 @@ Lyra put a hand over her eyes.
 
 “Draco. Out. Knock. Come in again.”
 
-“I did knock,” said Draco, who had not. “Anyway, it’s nearly eleven. Mother says you’ve been asleep so long you’ll have grown roots.”
+“I did knock,” said Draco, who had not. “Anyway, it’s nearly eleven. Mother says you’ve been asleep so long you’ll have grown roots. *Bears* get up earlier than you.”
 
 She sat up, slowly, and pushed her hair back off her face. Draco took a step back towards the door.
 
@@ -212,7 +212,7 @@ Dinner was already going badly at the Gryffindor end by the time Lyra sat down.
 
 “You don’t *know* that!”
 
-Lyra had put the whole width of the Slytherin table between herself and the Gryffindors, and the back of her head besides. It made no difference whatever. Weasley had a voice that carried through stone.
+Lyra had sat down with her back to the Gryffindors and two other Houses in the way. It made no difference whatever. Weasley had a voice that carried through stone.
 
 Down the Slytherin table, heads were turning.
 

@@ -12,7 +12,7 @@ Continuo, sin ⁂.
 ## Frases literales importantes
 - “Steady, Malfoy.” / “Whatever they’ve told you about him, it isn’t true. He’s not a murderer. He never was.”
 - “Narcissa’s girl. I should have seen it. You’ve got her nose.” (l. 35)
-- “If I’d known it was Sirius Black under all that fur, I’d have kept my chicken!” / “And if I’d known who was buying, I’d have gone hungry.”
+- “If I’d known it was Sirius Black under all that fur, I’d have eaten the chicken myself, in the lane, with my fingers!” / “And if I’d known who was buying, I’d have gone hungry.”
 - “A real dog would have been sick on that chocolate… You didn’t so much as hiccup.” / “Twelve years of Azkaban food. You’ll have to do better than Honeydukes.”
 - “Aha. It was for me.” / “Don’t flatter yourself!” (l. 51-53)
 - “Because the charm hides the house. Not the person keeping it.” (l. 97)

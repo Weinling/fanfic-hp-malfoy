@@ -30,7 +30,7 @@ Black spoke first. His voice was hoarse and rusty, as though it had not been use
 
 Lyra’s shoulders went up at the name. Malfoys did not say it, and were not, as a rule, obliged to hear it said across a room.
 
-“If I’d known it was Sirius Black under all that fur,” she said, “I’d have kept my chicken!”
+“If I’d known it was Sirius Black under all that fur,” she said, “I’d have eaten the chicken myself, in the lane, with my fingers!”
 
 “And if I’d known who was buying,” said Black, “I’d have gone hungry.” His eyes narrowed. “Narcissa’s girl. I should have seen it. You’ve got her nose.”
 
@@ -136,7 +136,7 @@ She kept that too.
 
 He meant it kindly, which was worse. She felt the heat start at the back of her neck and climb, and there was no stopping it. Meanwhile the whole term was rearranging itself behind her eyes, piece by piece, into a shape she did not care for: a boy walking out of the castle with no form; *Just missed him*, on Hallowe’en; a dog he had told her about on the train, that would be hungry, which she had taken for a joke.
 
-“Hogsmeade,” she said. “On Hallowe’en. That was him. You went to meet him.”
+“Hogsmeade,” she said. “On Hallowe’en. That was him. You went looking for him.”
 
 “Mm. Can’t exactly have him round for tea in Gryffindor Tower.”
 

@@ -10,17 +10,17 @@ On the broken chair, Sirius shifted. He had the look of a man who could see that
 
 “Bit of a risk, though, isn’t it? I’m not saying anything against her, Harry. But that’s Lucius Malfoy’s girl, and the Malfoys have always— She’ll be home for Christmas in a week, and if she sits down to dinner and mentions what she saw today—”
 
-“Sirius.” Harry did not turn round. “I didn’t tell her any of that thinking she’d keep it to herself. I told her what she could shout off the Astronomy Tower and not hurt anybody.”
+“Sirius.” Harry did not turn round. “I didn’t tell her any of that thinking she’d keep it to herself. I told her what wouldn’t matter if she shouted it off the Astronomy Tower. By the time anybody listened, you’d be gone.”
 
 There was a silence behind him. When Sirius spoke again his voice had gone very quiet.
 
-“That’s fair. I picked the wrong man once, didn’t I. Picked him because it was easy.”
+“That’s fair. I picked the wrong man once, didn’t I. Picked him because he was the last man anyone would look at.”
 
 Harry had not meant it like that. Or perhaps he had, a little. “That was twelve years ago. We’ve got enough to do with this year.”
 
 He turned round. He had got his face in order by then; he was good at that, these days.
 
-“Quirrell showed us he wasn’t dead. That was first year, with his face on the back of somebody’s head. The diary showed us how. That was Lucius, last year, slipping it into Ginny’s cauldron to make trouble for her dad.” He counted it off on his fingers, as though it were a list of homework. “Horcruxes. More than one. Some of them handed out to his followers to mind. He could have come back by now if he’d wanted to, and he hasn’t, so he’s waiting for something.” He shrugged. “Lucius Malfoy sold his own master out to win an argument with Arthur Weasley. Without that diary we’d still be guessing.”
+“First year, Quirrell, with Voldemort’s face on the back of his head. That showed us he wasn’t dead. The diary showed us how. That was Lucius, last year, slipping it into Ginny’s cauldron to make trouble for her dad.” He counted it off on his fingers, as though it were a list of homework. “Horcruxes. More than one. Some of them handed out to his followers to mind. He could have come back by now if he’d wanted to, and he hasn’t, so he’s waiting for something.” He shrugged. “Lucius Malfoy sold his own master out to win an argument with Arthur Weasley. Without that diary we’d still be guessing.”
 
 “Then let them sink,” said Sirius. “If the Malfoys bring the roof down on their own heads, I don’t see why we should—”
 
@@ -44,7 +44,7 @@ Harry thought of Malfoy writing to her mother, and wondered whether that had rea
 
 “Of course he has.”
 
-“He’s been planning this since before I could walk.”
+“He’s had twelve years.”
 
 There was more to it than that, and Harry did not say it, to Sirius or to anybody. So that was the plan, and it was a good one, and every piece of it was where it was meant to be. Harry looked at the door, which was still open, and at the rain coming in, and could not think why the room should feel so much bigger than it had an hour ago.
 
@@ -54,7 +54,7 @@ There was more to it than that, and Harry did not say it, to Sirius or to anybod
 
 “How do you stop smiling?”
 
-Sirius looked at him. Harry knew what he must look like; he could feel it from the inside. There was nothing on his face for Sirius to answer.
+Sirius looked at him. Harry knew what he must look like; he could feel it from the inside. He looked like somebody who had already found out.
 
 “You don’t,” said Sirius gently, after a while. “James never could. You’ve got his grin. It comes with the face.”
 
@@ -124,7 +124,7 @@ A tall, fair woman had appeared in the shop doorway, as cool and lovely as the g
 
 “Coming, Mother!” The girl let go of his face and looked him over, as if checking her work. “There. You’ll want to practise that. Practise it all month, and by September you might be fit to be seen with.”
 
-Seen with. In September. At Hogwarts, then, where he was going too; where he would be going for seven years. Harry had never in his life had anything to look forward to that lasted longer than a birthday.
+Seen with. In September. At Hogwarts, then, where he was going too; where he would be going for seven years. Harry had never in his life had anything to look forward to that lasted longer than an afternoon.
 
 “If I get better,” he said. “At being a wizard. Will that— would you think I was all right?”
 
