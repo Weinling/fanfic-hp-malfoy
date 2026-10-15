@@ -3,27 +3,29 @@
 
 ## Escenas
 Continuo, sin ⁂.
-1. **Zarzas, detrás de la Casa.** Lyra saca la varita a medias y alarga la mano hacia Potter (“Potter, get *away* from—”). Él se la coge entre las dos suyas (“Steady, Malfoy... He isn’t an enemy. And he isn’t a murderer”) y ella deja de temblar. Retira la mano.
+1. **Zarzas, detrás de la Casa.** Lyra saca la varita a medias y alarga la mano hacia Potter (“Potter, get *away* from—”). Él se la coge entre las dos suyas (“Steady, Malfoy… Whatever they’ve told you about him, it isn’t true. He’s not a murderer. He never was.”) y ella deja de temblar. Retira la mano.
 2. **Dentro.** Empieza a llover. Potter abre las tablas del fondo con una palabra. Muebles arañados, empapelado en tiras, una gotera en una esquina. Potter pone una silla boca arriba para Black y un cajón para Lyra, en extremos opuestos. Black habla (“Harry. The Malfoys have been Voldemort’s most devoted followers...”). Black y Lyra se gruñen (“Narcissa’s girl... You’ve got her nose”). Ella sabe dos cosas de Regulus que él no.
 3. **El chocolate.** Lyra dice que lo miró después: el chocolate es venenoso para los perros. Potter descubre de qué hablan: “You don’t eat dark chocolate... Aha. It was for me.” / “Don’t flatter yourself!” / “It was— not *exactly*.” Potter: “If it was Sirius who ate it, I’ll let it go.” Black le mira como si viera a otro (James).
 4. **La verdad.** Potter pregunta cuánto sabe; ella dice “Secret Keeper”. Potter adivina: “Snape?” (ella no confirma). Potter cuenta: Sirius rechazó ser guardián, fue el señuelo; el guardián real lo eligieron Dumbledore y Sirius entre los dos; el guardián real vendió a los Potter. Dumbledore y Sirius se ataron con un juramento para no poder señalar al guardián. Lyra deduce: “Because the charm hides the house. Not the person keeping it.” Llega sola a “Pettigrew” (no está muerto: voló la calle). Prueba el juramento: “Who was your Secret Keeper, Mr Black?” y Black se queda vacío “like a man painted on a wall”. Pregunta por qué Dumbledore calló; Potter: “Same binding.” / “He’s Dumbledore.” Lyra guarda dos cosas: los doce años de Azkaban sin que Dumbledore haga nada, y que “Dumbledore told me” no explica Northumberland.
-5. **“Hands off”.** “I lose.” / “I wasn’t trying to win.” Lyra liga los hechos (Hogsmeade sin permiso, “Just missed him”, el perro del tren). “I thought it was nice. That you worried.” / “I’ve never lied to you, Malfoy.” (ella piensa en el prefacio del *Monster Book of Monsters*). Potter, con sonrisa paciente: “Hands off, Malfoy.” Ella pide “Tell me”. Él: “Your family could get hurt. Think about your family, Malfoy... Would you be all right if something happened to Draco?” Black le mira distinto. Ella llora; la lluvia es la excusa. Dice: “From now on... Don’t smile in front of me.” La sonrisa de él se apaga (“about eleven years old”). Tira el calentador, que rueda y cae entre dos tablas. Sale. Cierra: “Outside, it really was raining.”
+5. **“Hands off”.** “Very well. You win.” / “I wasn’t playing.” Lyra liga los hechos (Hogsmeade sin permiso, “Just missed him”, el perro del tren). “I thought it was nice. That you worried.” / “I’ve never lied to you, Malfoy.” (ella piensa en el prefacio del *Monster Book of Monsters*). Potter, con la sonrisa paciente que se le pone a un hermano pequeño que quiere ir también: “Hands off, Malfoy.” Ella pide “Tell me”. Él: “It isn’t just you who gets hurt if you stay. It’s your family… Draco hasn’t done a thing to anybody. Would you be all right if something happened to Draco?” Ella piensa que en mayo la hizo su rehén y no se le ocurrió que una rehén pudiera tener un hermano. Black le mira distinto. Ella llora; la lluvia es la excusa. Dice: “From now on... Don’t smile in front of me.” La sonrisa de él se apaga (“about eleven years old”). Tira el calentador, que rueda y cae entre dos tablas. Sale. Cierra: “Outside, it really was raining.”
 
 ## Frases literales importantes
-- “Steady, Malfoy.” / “Trust me. He isn’t an enemy. And he isn’t a murderer.” (l. 9-13)
+- “Steady, Malfoy.” / “Whatever they’ve told you about him, it isn’t true. He’s not a murderer. He never was.”
 - “Narcissa’s girl. I should have seen it. You’ve got her nose.” (l. 35)
-- “If I had known that dog was Sirius Black, I wouldn’t have thrown it a chicken bone!” / “...I wouldn’t have eaten it.” (l. 33-35)
+- “If I’d known it was Sirius Black under all that fur, I’d have kept my chicken!” / “And if I’d known who was buying, I’d have gone hungry.”
+- “A real dog would have been sick on that chocolate… You didn’t so much as hiccup.” / “Twelve years of Azkaban food. You’ll have to do better than Honeydukes.”
 - “Aha. It was for me.” / “Don’t flatter yourself!” (l. 51-53)
 - “Because the charm hides the house. Not the person keeping it.” (l. 97)
 - “Who was your Secret Keeper, Mr Black?” (l. 117)
-- “Fine. I admit it. I lose.” / “I wasn’t trying to win.” (l. 137-139)
+- “Very well. You win.” / “I wasn’t playing.”
 - “I didn’t laugh. I thought it was nice. That you worried.” (l. 155)
 - “I’ve never lied to you, Malfoy.” (l. 159)
 - “Hands off, Malfoy.” (l. 167)
-- “You stop here. Whatever comes next, you don’t need to be in it. It’s better if you aren’t. For both of us.” (l. 187)
+- “You stop here. Whatever comes next, it doesn’t need you in it. You’re safer out of it, and so am I.”
 - “Would you be all right if something happened to Draco?” (l. 197)
 - “Don’t smile in front of me.” (l. 215)
-- “Outside, it really was raining.” (l. 223)
+- “Outside, it really was raining.”
+- Los números de línea de esta lista ya no valen: el capítulo se retocó en el cotejo con la oficial (15 de octubre de 2026).
 
 ## Fichas (objetos y motivos)
 - **Calentador de botón:** lo arranca del cuello y lo lanza; rueda y cae entre dos tablas del suelo (recuperable; en el 16 lo recoge Harry).
