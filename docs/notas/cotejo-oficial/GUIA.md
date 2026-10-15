@@ -52,6 +52,8 @@ Los capítulos que siguen en `borradores/` aunque estén publicados (del 16 al 2
 3. **Revisar 7, 12 y 15** (nuestros) solo si un retoque de otro capítulo cambia algo que citan.
 4. El 31 sigue en espera hasta terminar.
 
+**Del coreano 17 en adelante no hace falta la oficial** (autor, 15 de octubre). Los originales coreanos del 14 al 35 están en `coreano/`, y la oficial es una traducción fiel suya: el cotejo se hace leyendo el coreano frente a nuestro texto, réplica a réplica. `cotejo.py` no sirve aquí (son idiomas distintos); `comparar.py` sigue dando el parecido con lo publicado. Si el autor pasa alguna oficial más, se guarda y se usa el script como antes.
+
 ## 4. Herramientas y referencias
 
 - **Commit 888ff27** («Capítulo 1: el manuscrito pasa a ser el texto publicado»): es el texto publicado antes de cualquier retoque, para todos los capítulos (el 1 ya con el arranque recortado que se publicó). Contra él se compara todo. La etiqueta `antes-del-cotejo` solo existe en local, porque el proxy no deja subir etiquetas; si falta, se usa el hash: `git tag antes-del-cotejo 888ff27`.
