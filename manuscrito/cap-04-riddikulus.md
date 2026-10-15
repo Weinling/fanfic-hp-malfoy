@@ -142,7 +142,7 @@ Last year. The Chamber, and the writing on the wall, and Potter hissing at a sna
 
 “Miss Malfoy,” said Lupin gently, “do you know anything about Harry and You-Know-Who?”
 
-She knew a good deal more than he did, she suspected. She knew about the diary. And she had worked out the rest for herself, sitting on her window seat in August with the light on in the east cottage: one of seven lives gone, which left six, hidden somewhere. A boy who knew that number, and who had asked her about her family’s houses, including the one up north that no register in the country had ever recorded, was not asking out of idle curiosity. Potter was looking for the others.
+She knew a good deal more than he did, she suspected. She knew about the diary. And she had worked out the rest for herself, sitting on her window seat in August with the light on in the east cottage: one piece of seven gone, which left six, hidden somewhere. A boy who knew that number, and who had asked her about her family’s houses, including the one up north that no register in the country had ever recorded, was not asking out of idle curiosity. Potter was looking for the others.
 
 She was nearly sure of it. She had not told a soul. And she was certainly not going to start with a man in patched robes whom she had known for a little over a week, who knew her name without being told it and who would, for all she knew, be in Dumbledore’s office within the hour repeating every word. Whatever she knew, it was the only thing standing between her family and the worst kind of trouble. She was not going to hand it to anybody she could not be sure of.
 

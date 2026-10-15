@@ -35,3 +35,23 @@ Madam Malkin’s y el tren (se paga en el 16), Dobby y el calcetín, Borgin’s 
 ## Coste estimado
 
 Unas 15 intervenciones en un capítulo de 4.700 palabras, en torno a un 8 % del texto, sin cambiar hechos. Lo más delicado es la apertura (11–19), porque es lo que lee todo lector nuevo.
+
+## Aplicado (15 de octubre de 2026)
+
+Base: el texto **publicado** que pasó el autor (el arranque recortado de `borradores/cap-01-recorte.md` más el resto). `manuscrito/cap-01-hostage.md` no coincidía con él y se ha igualado antes de retocar (commit aparte).
+
+- **Apertura:** la única cita ajena que quedaba («How are they everywhere?») pasa a «They’re like dry rot, the Malfoys. You find them in the walls». Las gafas se cambian por «Somebody who had never heard him open his mouth». La teoría de las notas pasa a ser Granger («the theory was Granger»). La uña: Crabbe le coge la muñeca y le baja la mano a la mesa; sigue cuadrando con el 2.
+- **«Shut up for a minute and listen»** → «Malfoy. Stop talking for one minute».
+- **«You and your dad are in a lot of trouble»** → «has done something very stupid, and you’re going to have to help him live through it».
+- **El argumento**, reordenado. Fuera «Think, you idiot» y «the worst the Ministry could do». Ahora va: la Ministry es lo fácil → confesar lo de la Cámara sería mejor → Voldemort no hace juicios → Lyra saca el Wizengamot → «And none of them are going to be in the room».
+- **«One of his seven lives»** → «a seventh of his insurance». Lyra salta igual en «A *seventh*», y la palabra vuelve cuando Harry la llama «Insurance» («she did not care for the company»). En el 4, «one of seven lives gone» pasa a «one piece of seven gone».
+- **«Your family needs to keep its head down»** → «So your family wants to go very quiet». «Your family needs to stay out of it» → «So you lot stay out of it». **«Then you, at least» se queda.**
+- **«This is blackmail, Malfoy. Just so you know»** → «I’m blackmailing you, by the way. In case that wasn’t clear».
+- **Los cuchillos y tenedores** → «there won’t be a teaspoon left at the Manor with your name on it». «Your family’s finished» → «that’s the end of the Malfoys».
+- **Fuera «You probably don’t know anything useful anyway».**
+- **«Whoever won, the Malfoys would still be standing»** → «Wars… were things that happened to other families, and the Malfoys sent flowers afterwards».
+- **«I’ll be on your side»** → «Whatever *it* is».
+- **«Smarter than I thought… the nicest thing»** → «I thought there’d be hexes» / «The night is young».
+- **La serpiente** → la sangre de los nudillos como tinta, un contrato ya firmado que espera su nombre.
+
+El script ya solo encuentra coincidencias de nombres y fórmulas neutras («the Chamber of Secrets», «Board of Governors»).
