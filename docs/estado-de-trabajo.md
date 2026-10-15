@@ -20,8 +20,17 @@
     - 15 de octubre, tras compactar: oficiales 11 a 16 en `referencia/oficial-en/`; el 13, 14, 16, 17, 18 y la primera mitad del 19 retocados (`docs/notas/cotejo-oficial/caps-13-19.md`), con manuales, handoff y continuidad ajustados. Lectura hecha tras compactar: estado, guía, handoff entero, todos los manuales, continuidad transversal, el 11 al 19 enteros y las oficiales 11 a 16. Un subagente mapeó los ecos del 13 al 19 en el 20 y siguientes (`ecos-13-19.md`);
     - preparado para compactar: referencia 888ff27 (lo publicado sin retocar; la etiqueta `antes-del-cotejo` es solo local), `herramientas/comparar.py` (antes/después y parecido con la oficial, por capítulo) y **`docs/notas/cotejo-oficial/GUIA.md`** (reglas, correspondencia, orden, método y lectura al retomar).
     - 15 de octubre, más tarde: el resto del 19, el 20 y el 21, cotejados con el coreano (no hace falta la oficial: `coreano/` tiene del 14 al 35). Notas en `caps-19-21.md`. El autor va a publicar pronto el 21 en Wattpad y aún no ha subido ningún retoque.
-  - **Siguiente (punto exacto para retomar):** leer `GUIA.md` §6. Seguir con el coreano por este orden:
-    1. publicados: 22, 23, *Year One* 1 y 2;
+  - 15 de octubre, al final: aplicados los arreglos de la revisión editorial del 19 al 22 (`revision-19-21.md`). **El autor subió el 21 a Wattpad con la versión vieja**, antes de los retoques; puede actualizarlo. Todavía no ha subido ningún retoque a ninguna plataforma.
+  - **Condición del autor para subir los retoques** (15 de octubre): solo si las revisiones confirman que del 1 al 23 y *Year One* 1 y 2:
+    - mantienen la calidad de la historia;
+    - no chocan entre sí;
+    - no estropean la experiencia de quien ya los leyó.
+
+    Publicado: en Wattpad, del 1 al 21; en Webnovel, del 1 al 23 más *Year One* 1 y 2 (las entregas 24 y 25 de Webnovel).
+  - **Siguiente (punto exacto para retomar, en este orden):** leer `GUIA.md` §6 y §8.
+    1. Cotejar con el coreano lo que falta de lo publicado: el 22 (resto del coreano 21 y el 22), el 23 (coreano 23), *Year One* 1 (coreano 18) y *Year One* 2 (coreano 24). En cada uno, mapear los ecos y hacer la revisión editorial antes y después con Opus, como del 13 al 21.
+    2. Revisión de conjunto de todo lo publicado (`GUIA.md` §8), con un veredicto para el autor: qué subir, en qué orden y con qué nota.
+    3. Lo no publicado, con más libertad (autor: «más creativos o fuertes»): *Year One* 3 y 4 y del 24 al 30, manteniendo lo que fija la continuidad y lo que necesita el 31.
     2. no publicados, con más libertad: *Year One* 3 y 4, del 24 al 30.
 
     El 31 queda en espera mientras tanto.

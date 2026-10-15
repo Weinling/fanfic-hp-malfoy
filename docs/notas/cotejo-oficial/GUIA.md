@@ -47,8 +47,8 @@ Los capítulos que siguen en `borradores/` aunque estén publicados (del 16 al 2
 
 ## 3. Orden de trabajo
 
-1. **Publicados, con la oficial que vaya pasando el autor:** ~~13, 14, 16, 17, 18~~ (hechos), el resto del 19, *Year One* 1, 20, 21, 22, 23 y *Year One* 2.
-2. **No publicados, con más libertad** (se puede reconstruir una escena, no solo retocar la superficie): *Year One* 3 y 4, y del 24 al 30.
+1. **Publicados:** ~~del 1 al 11, el 13, 14 y del 16 al 21~~ (hechos); faltan el 22, el 23 y *Year One* 1 y 2 (con el coreano). Después, la revisión de conjunto (§8).
+2. **No publicados, con más libertad** (autor, 15 de octubre: «más creativos o fuertes»; se pueden reconstruir escenas, no solo la superficie): *Year One* 3 y 4, y del 24 al 30. Hay que mantener lo que fijan los manuales, la continuidad transversal y el plan del 31.
 3. **Revisar 7, 12 y 15** (nuestros) solo si un retoque de otro capítulo cambia algo que citan.
 4. El 31 sigue en espera hasta terminar.
 
@@ -105,6 +105,24 @@ Hay que cumplir el protocolo de `CLAUDE.md`; para este trabajo, en concreto:
    - su texto entero y la oficial entera;
    - el manual de los capítulos que lo citan;
    - el coreano si está en `coreano/` y la oficial no ha llegado.
+
+## 8. Antes de que el autor suba nada: revisión de conjunto
+
+El autor solo subirá los retoques si se confirma que lo publicado (del 1 al 23 y *Year One* 1 y 2) cumple tres condiciones: mantiene la calidad, no choca entre sí y no estropea la experiencia de quien ya lo leyó. Pasos:
+
+1. **Cada capítulo**, antes y después:
+   - el mapa de ecos (subagente Sonnet), como `ecos-13-19.md`;
+   - la revisión editorial (subagente Opus), como `revision-13-19.md` y `revision-19-21.md`.
+
+   Del 1 al 11 no se hizo revisión editorial: falta.
+2. **Lectura de conjunto** del 1 al 23 y *Year One* 1 y 2 ya retocados, en orden, por un subagente Opus sin acceso a `coreano/` ni a `referencia/`. Busca:
+   - choques de hechos y de citas entre capítulos;
+   - regresiones de tono o de pantallazo;
+   - si un lector que relea notaría otra historia.
+3. **Informe al autor**, en `docs/notas/cotejo-oficial/veredicto-publicado.md`, con:
+   - el veredicto, capítulo a capítulo;
+   - el orden de subida: los que citan a otros, después o a la vez (el 21 cita el 20 nuevo; el 22 cita el 20 nuevo);
+   - la lista de pantallazos que cambian, para la nota de Ash.
 
 ## 7. Avisos
 
