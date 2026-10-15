@@ -96,7 +96,7 @@ Lyra came in, and left the door open behind her.
 
 There was an old sheet of parchment spread on his desk, covered in fine lines like the plan of a building, and his eyes kept going back to it while he took the goblet from her. He lifted the lid and drank, and grimaced.
 
-“Vile. One of these days somebody will invent a version that tastes of anything else, and I shall marry them.” He set the goblet down half empty. “Tell Professor Snape I’m grateful. He’ll hate that.”
+“Vile. One of these days somebody will invent a version that tastes of anything else, and I shall marry them.” He drank again. “Tell Professor Snape I’m grateful. He’ll hate that.”
 
 Lyra watched him drink it, all of it, and thought of the line of little prints on Snape’s desk, and said nothing.
 
@@ -126,7 +126,7 @@ For a second he looked almost young. “Then I’m in your debt, Miss Malfoy,”
 
 She was polite to him because he was a teacher, and because she had decided some time ago that she rather approved of him. The open door was for the rest of it.
 
-“Does the Board know? About the staff?”
+“Do the governors know?”
 
 He smiled, a little wryly, as though he knew exactly whose daughter was asking, and what her father had been until the summer. “The Headmaster knows. He took the view that a man with a potion and a locked door once a month is no great danger to anybody. It helps to have a Potions master on the premises, of course.”
 
@@ -144,7 +144,7 @@ He smiled, a little wryly, as though he knew exactly whose daughter was asking, 
 
 The trap in the corridor that afternoon, and the square of treacle tart. *He’s got a toe missing on one of his front feet.* And the other thing, the thing everybody knew, that had been in all the papers: that of Peter Pettigrew, when Black had finished with him, they had found one finger.
 
-Twelve years in a cage on a Weasley’s bedside table, being fed crusts. Lyra would have taken Azkaban. But then Lyra had never been a man who was afraid of what was waiting for him outside the cage—
+Twelve years in a cage on a Weasley’s bedside table, being fed crusts. Lyra would have taken Azkaban. But then Lyra had never been afraid of what might be waiting outside the cage—
 
 “Pettigrew,” she said. “It’s Weasley’s rat. That’s what Potter’s been hunting. Not a pet at all. Pettigrew.”
 
@@ -154,7 +154,7 @@ Something else about rats tugged at her, from earlier that evening, small and gr
 
 “No,” said Lyra. “He hadn’t.”
 
-She sat quite still. A rat. The diary on the table in May, *our hostage*; the Shack, and the rain; her brother’s name in Potter’s mouth, to make sure she went. And at the bottom of all of it, a rat in a wire trap with a square of treacle tart.
+She stood quite still. A rat. The diary on the desk in May, *our hostage*; the Shack, and the rain; her brother’s name in Potter’s mouth, to make sure she went. And at the bottom of all of it, a rat in a wire trap with a square of treacle tart.
 
 “A rat,” she said. “He sent me home for a rat.”
 
@@ -174,7 +174,7 @@ But she was already at the door. She heard him say “Miss Malfoy—” behind h
 
 ⁂
 
-She walked. She did not know where; anywhere that was away. All term she had been bringing him things, like a cat bringing mice to a door: Snape’s office, her father’s letter, the Fidelius, carried up three flights of stairs. Poor things, most of them. But hers. And all term he had stood in the doorway and let her, and when at last she held out her hand he had looked at it as if she had offered him a dead mouse—
+She walked. She did not know where; anywhere that was away. Since September she had been bringing him things, like a cat bringing mice to a door: Snape’s office, her father’s letter, the Fidelius, carried up three flights of stairs. Poor things, most of them. But hers. And all that time he had stood in the doorway and let her, and when at last she held out her hand he had looked at it as if she had offered him a dead mouse—
 
 At the far end of the corridor, Potter went past.
 
@@ -210,7 +210,7 @@ He shut it so fast she heard his teeth meet. Something happened at one corner of
 
 She took another step.
 
-“And what is she, a mascot? Is Granger’s neck less breakable than mine? Or is it that she’s *clean*—no father, no diary, nothing in your pocket with her name on it—so you can *trust* her? Is that it? She’s here because she wants to be, and I’m only here because you’ve got my father’s diary in your pocket?”
+“And what is she, a mascot? Is Granger’s neck less breakable than mine? Or is it that she’s *clean*—no father, no diary, nothing with her name on it—so you can *trust* her? Is that it? She’s here because she wants to be, and I’m only here because you’ve got my father’s diary in your pocket?”
 
 Her voice cracked on *pocket*. She heard it crack, and went on regardless, because if she stopped now she would never start again.
 
@@ -220,7 +220,7 @@ It had been the diary, to begin with. He had put it on a desk in an empty classr
 
 She did not let herself finish. She took hold of his collar instead, with both hands.
 
-“Don’t flatter yourself,” she said into his face. “Nobody makes a Malfoy do anything. I chose. I sat in that classroom and did the sums and came down on your side, and I have never once gone back on it, and you put it on a shelf. As if I were something you could leave somewhere safe and come back for when you had time. As if I weren’t even worth *telling*. You owe me two. You said so yourself. And you have never once asked me for anything. Not *once*.”
+“Don’t flatter yourself,” she said into his face. “Nobody makes a Malfoy do anything. I chose. I stood in that classroom and did the sums and came down on your side, and I have not gone back on it since, and you put it on a shelf. As if I were something you could leave somewhere safe and come back for when you had time. As if I weren’t even worth *telling*. You owe me two. You said so yourself. And you have never once asked me for anything. Not *once*.”
 
 Malfoys did not do favours. They extended credit, and only to people they meant to deal with again.
 

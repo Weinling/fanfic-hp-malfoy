@@ -12,7 +12,7 @@ Lyra had last seen a chain like that round Granger’s neck, tucked well down in
 
 “I beg your pardon?”
 
-“It only works if you’re inside the chain.”
+“You’ll see.”
 
 He came to her instead. He put the chain over her head, and before she could ask what he thought he was doing he had let it out to its full length and was ducking his own head into the loop beside hers, so that the two of them stood inside one gold chain with barely an inch between his collar and her nose.
 
@@ -22,13 +22,13 @@ He came to her instead. He put the chain over her head, and before she could ask
 
 Lyra shut her eyes. It seemed, at the time, the only possible thing to do with them.
 
-The room came unspooled. Shapes and colours went streaming past her the wrong way, and her ears filled with a rushing like water going down a very large drain—
+The room came unspooled. Even through her eyelids she could feel it go, light and dark streaming past her the wrong way, and her ears filled with a rushing like water going down a very large drain—
 
 “You can look now.”
 
 Lyra opened one eye.
 
-Potter had already stepped out of the chain and was winding it round his fingers as though nothing whatever had happened. The fire was out and the grate was cold, as though nobody had lit it yet that evening, and somewhere far off the castle was going in to dinner.
+Potter had already ducked out of the chain and was winding it round his fingers as though nothing whatever had happened. The fire was out and the grate was cold, as though nobody had lit it yet that evening, and somewhere far off the castle was going in to dinner.
 
 “Three hours,” he said. “Give or take.”
 
@@ -82,15 +82,15 @@ Lyra had worn that cloak all the way down to the lake, and through a battle, and
 
 “Only the things I lend to Sirius.”
 
-“It smells of soap,” said Potter slowly, ignoring this. “Somebody’s washed it.”
+“It smells of soap,” said Potter slowly. “Somebody’s washed it.”
 
 Lyra, who had been braced for a great deal worse, was furious to find herself relieved.
 
 But Potter was not teasing. His face had gone set, the way it went over a difficult potion. “Malfoy. Where exactly were they?”
 
-“On his desk. Spread out, the pair of them, as neat as a place setting. When somebody leaves a thing out like that, they mean it to be taken.” It was as near as a Malfoy came to explaining why she had walked off with somebody else’s property.
+“On his desk. The map open in the middle, and that underneath it, as neat as a place setting. When somebody leaves a thing out like that, they mean it to be taken.” It was as near as a Malfoy came to explaining why she had walked off with somebody else’s property.
 
-“Then that was us,” said Potter slowly.
+“Then that was us,” said Potter.
 
 “*Us?*”
 
@@ -114,7 +114,7 @@ He said it slowly, trying it for size. Lyra turned her face sharply away.
 
 “Good,” said Harry, and swung the cloak round both of them.
 
-It was not a large cloak. She had to stand right up against him to fit, and standing there she discovered, with real annoyance, that he had grown while she was not looking. Last year there had been nothing between them to speak of; now the top of her head came to somewhere about his ear, and he could have read her parting like a page. She stood up straighter, which did nothing whatever.
+It was not a large cloak. She had to stand right up against him to fit, and standing there she discovered, with real annoyance, that he had grown while she was not looking. Last year there had been nothing between them to speak of; now the top of her head came to somewhere about his ear, and he could have read her parting like a page. She stood up straighter, which did no good at all.
 
 When he spoke, it was straight into her hair.
 
@@ -138,7 +138,7 @@ Lyra thought of a line of tiny prints across Snape’s desk, and said nothing.
 
 “Weasley went after that rat? *Alone?*”
 
-“Don’t. That’s on us. We never told him. What was I meant to say? *Your rat’s a murderer, mate, and he got my mum and dad killed, and no, I can’t prove it*?”
+“Don’t. That’s our fault. We never told him. What was I meant to say? *Your rat’s a murderer, mate, and he got my mum and dad killed, and no, I can’t prove it*?”
 
 But Lyra had seen Weasley in a corridor that very afternoon, on his knees with a wire trap and a square of treacle tart, setting it very carefully, and telling three Hufflepuffs not to kill anything they caught. He had heard his friends were looking for his rat. He had been trying to help.
 
@@ -164,7 +164,7 @@ The two of them stopped dead and watched her come.
 
 Lyra had seen herself in a great many mirrors and two portraits, and neither had prepared her for this: her own self, walking about, with no idea it was being looked at. She was not interested. She watched every step.
 
-The hair, the robes, the carriage. The hand that held the goblet, with the little finger very slightly lifted. Her shoulders, she would have said, could come back half an inch. Otherwise there was nothing whatever to be done to it.
+The hair, the robes, the carriage. The hand that held the goblet, with the little finger very slightly lifted. Her shoulders, she would have said, could come back half an inch. Otherwise it was faultless.
 
 *Well*, thought Lyra. *Somebody in this school knows how to walk down a corridor.*
 
@@ -172,9 +172,9 @@ Malfoy knocked at Lupin’s door, and went in, and left it open, and even that w
 
 “That’s where I told him I knew what he was,” whispered Lyra.
 
-“Course you did.” Harry sounded almost proud of her, and then annoyed with himself about it. “That essay. I knew the minute Snape set it that somebody would get there. I was counting on everybody being too lazy to write it. And everybody was, except Hermione.”
+“Course you did.” Harry sounded almost proud of her, and then annoyed with himself about it. “That essay. I knew the minute Snape set it that somebody would get there. I was counting on everybody being too lazy to write it. And everybody was, except Hermione. And a girl at the back of the library, on a Saturday.”
 
-“I wrote it,” said Lyra stiffly. “In the library, on a Saturday, without anybody’s help. And then I was distracted. By a dog.”
+“Without anybody’s help,” said Lyra stiffly. “And then I was distracted. By a dog.”
 
 “Right.”
 
@@ -216,7 +216,7 @@ His mouth was doing something at the corners that he plainly did not trust. Then
 
 He walked off round the corner, making a good deal more noise than he needed to. A moment later Malfoy, who had stopped in the middle of the corridor with her head turning this way and that, saw something at the end of it, and was off after him at once.
 
-Lyra had not known she could run like that. She went at it with her hair coming down and her robes rucked up round her knees and her eyes enormous, careless of everything, a girl Lyra would have crossed the corridor to avoid.
+It was not a sight Lyra would have paid to see. She went at it with her hair coming down and her robes rucked up round her knees and her eyes enormous, careless of everything, a girl Lyra would have crossed the corridor to avoid.
 
 And not the faintest idea that anybody was watching.
 
@@ -238,7 +238,7 @@ Malfoy came down the last flight a moment later. Her ribbon was gone, and her ha
 
 Potter was there, in the torchlight, with Granger. The two of them had their heads together.
 
-Lyra knew what came next. She had been there.
+Twenty yards, and then the worst minute of her life.
 
 “That,” said Lyra in a low, terrible voice, “is Malfoy. Remember that.”
 
@@ -248,7 +248,7 @@ Malfoy reached them and started to shout.
 
 It all came out of her, everything from the last two months: the rain and the Shack and the rat, the hurt and the unfairness and the—Lyra made herself think the word—jealousy, all of it at once and at the top of her voice, half hanging off Potter’s collar. Lyra listened to it from twenty yards off and understood, for the first time, why her mother never raised her voice in the house. Thank Merlin the corridor was empty. One more witness and she would have had to change schools.
 
-Potter looked away, at Granger, for help. Granger sighed the sigh of somebody who could see no way out of it, and came forward.
+Potter looked away, at Granger, for help. Granger put it off as long as a decent person could, and then cleared her throat.
 
 “Here it comes,” Harry murmured.
 
@@ -260,7 +260,7 @@ Lyra flinched. It was her own past; she knew exactly what came next.
 
 “Don’t *look!*”
 
-“Strictly speaking,” said Harry, not hurrying, “I ought to. We’re meant to make sure it all goes the same.” A pause. “And I’m a bit hazy on the details. Dementors, you know. I may need to see it again. From quite close up.”
+“Strictly speaking,” said Harry, not hurrying, “I ought to. We’re meant to make sure it all goes the same.” A pause. “And I’m a bit hazy on the details. Dementors, you know. I think they had some of the good bits. I may need to see it again. From quite close up.”
 
 “You *liar*!”
 
@@ -284,7 +284,7 @@ Lyra turned round and put her back to the whole thing.
 
 “Don’t speak to me,” she said, “for some time.”
 
-Harry shrugged against her shoulder and was silent. Over hers, she supposed, he watched Malfoy flee the corridor with her face on fire; and Granger, with both hands still over her mouth, looking from Potter to the stairs and back; and Potter tugging at his collar as though the corridor had got very warm. *Go to bed, Malfoy. Tomorrow I’ll tell you everything.*
+Harry shrugged against her shoulder and was silent. Over hers, she supposed, he watched Malfoy flee the corridor with her face on fire; and Granger, her hands down from her mouth at last, looking from Potter to the stairs and back; and Potter tugging at his collar as though the corridor had got very warm. *Go to bed, Malfoy. Tomorrow I’ll tell you everything.*
 
 “You said tomorrow,” said Lyra, into the cloak.
 
@@ -300,7 +300,7 @@ A long while later, she spoke again, in a voice like a tomb.
 
 “*All* of it. Me. You. *That*.” She had her wand out. “Somebody will have to see to Granger. *Obliv*—”
 
-“No, you don’t.” Harry took hold of her wrist, quite gently, and brought it down again. “You’d only make a mess of it, and then you’d have Hermione after you for the rest of your life. She’d find out. She always finds out.”
+“No, you don’t.” Harry took hold of her wrist, quite gently, and brought it down again. “You’d only make a mess of it, and Hermione would never forgive you. She’d find out. She always finds out.”
 
 Her hand was shaking in his. She could not tell, herself, how much of that was shame.
 
@@ -338,7 +338,7 @@ Beside her, Harry had gone rigid.
 
 Lyra did not answer him.
 
-Down by the lake she had seen it come for her, with no man left in its eyes, and she had thought of the goblet. She had thought of it then as an accident. A rat had got into a cauldron; a girl had been in a hurry; it was the sort of thing that happened. But a rat had been on Snape’s desk the very afternoon a letter came out of nowhere to send Snape to the Ministry. A rat that knew exactly whose potion that was, and exactly when nobody would be there to see.
+Down by the lake she had seen it come for her, with no man left in its eyes, and she had thought of the goblet. She had thought of it then as an accident. A rat had got into a cauldron; a girl had been in a hurry; it was the sort of thing that happened. But a rat had been on Snape’s desk the very afternoon a letter out of nowhere had sent Snape to the Ministry. A rat that knew exactly whose potion that was, and exactly when nobody would be there to see.
 
 Not any rat, then.
 
@@ -352,7 +352,7 @@ For an instant, an arm hung in the corridor with no one attached to it. Then the
 
 “So that’s how,” said Harry softly, watching himself go.
 
-He unfolded the map. It was exactly the same as the one Lyra was holding, to the last footprint, and neither of them seemed in the least troubled to be there twice. Lyra was beginning to know how they felt.
+He unfolded the map. It was exactly the same as the one Lyra was holding, to the last footprint, and neither of them seemed in the least troubled to be there twice. Lyra wished she could say the same.
 
 “This goes on Lupin’s desk, for you to find,” said Harry. “With the cloak. We have to leave you the things that got you to us.”
 
@@ -394,13 +394,13 @@ She marched off towards the dungeons, and Harry, after a moment, followed.
 
 ⁂
 
-They parted at the top of the dungeon stairs. The girls’ dormitories would have thrown him out on his ear, charm or no cloak; and the other cloak would be in Lupin’s office, Harry said, because a dog could not wear one. He was plainly sorry to leave it to her. Lyra gave him her map, so that he would not walk into anybody, and kept the cloak.
+They parted at the top of the dungeon stairs. The girls’ dormitories would have thrown him out on his ear, cloak or no cloak; and the other cloak would be in Lupin’s office, Harry said, because a dog could not wear one. He was plainly sorry to leave it to her. Lyra gave him her map, so that he would not walk into anybody, and kept the cloak.
 
 She gave the password to the wall, and walked into the Slytherin common room, and nobody looked up.
 
 Of course not. She was not there.
 
-The common room was green and silent, with the lake leaning on its windows, and Lyra crossed it unseen and felt for it what she always felt: that the other Houses lived in towers because they had no taste. She went on down to the girls’ dormitories, lower still.
+The common room was green and silent, with the lake leaning on its windows, and Lyra crossed it unseen and felt for it what she always felt: that people who lived in towers did so because they had no taste. She went on down to the girls’ dormitories, lower still.
 
 The third-years’ room was dark, as it always was with the hangings drawn, and full of the slow sound the lake made against the stone.
 
@@ -460,7 +460,7 @@ And Lyra thought, unwillingly, of the first time she had put it on, behind her o
 
 Red was *mortal danger*. Pink was *in the company of their sweetheart*.
 
-Unless it could. Unless there had been two of him at that moment, like the two maps—one lying on the shore, and the other here, in the castle, under this cloak, with—
+Unless it could. Unless there had been two of him at that moment, like the two maps—one lying on the shore, and the other here, in the castle, under this cloak, or near enough, with—
 
 “Give me that!”
 

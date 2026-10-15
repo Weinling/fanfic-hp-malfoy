@@ -12,7 +12,7 @@ Then she sat up very straight and pushed her hair out of her face.
 
 “No,” she told the bed-hangings. “Why should *I* be the one who’s rattled?”
 
-Her mother had once sat through an entire dinner with the Minister for Magic’s soup in her lap and talked about roses. Somewhere in this castle Potter was very likely out with Granger, hunting his rat and not giving it a second thought, and here was that woman’s daughter, lying on her bed like a girl in one of Goyle’s magazines. It had been one kiss. Two, if you counted the train, and she did not intend to.
+Her mother had once sat through an entire dinner with the Minister for Magic’s soup in her lap and talked about roses. Somewhere in this castle Potter was very likely out with Granger, hunting his rat and not giving it a second thought, and here was her daughter, lying on her bed like a girl in one of Goyle’s magazines. It had been one kiss. Two, if you counted the train, and she did not intend to.
 
 She lay down again and put her face in the pillow.
 
@@ -44,7 +44,7 @@ Pink.
 
 Everything in her went still and cold, like a room when somebody opens a door onto snow. She stood in the middle of the dormitory with one arm in her cloak and stared at her own hand, and the ring flickered—red, then pink, then red again—as though it could not make up its mind, and went on doing it.
 
-Possibly it was broken; Zonko’s sold nothing that worked properly. Possibly somebody was in mortal danger and with his sweetheart at the same time, which was exactly the sort of thing that would happen to Potter. It did not matter which.
+Possibly it was broken; Zonko’s sold nothing that worked properly. Possibly whoever had the other one was in mortal danger and with their sweetheart at the same time, which seemed a great deal to fit into one evening. It did not matter which.
 
 Whatever colour it was, it was a reason to go.
 
@@ -80,7 +80,7 @@ She knew what it was. She had seen it come off over Potter’s head in the snow 
 
 So he had left it here, with Lupin, for safe keeping. It smelled of soap and nothing else, as though somebody had washed it that very afternoon. Lyra decided she had not noticed that, put the cloak on, and looked at the map. *Argus Filch* was shuffling towards the Entrance Hall to lock the front doors.
 
-She ran, which she had not done indoors since she was seven, and found it was quite easy when nobody could see your face doing it. She reached the Entrance Hall just ahead of Filch, slipped past him while he was sorting through his keys, and hauled one of the great doors open. The hinges groaned.
+She ran. Before tonight she had not run indoors since she was seven, and it was a great deal easier when nobody could see her face doing it. She reached the Entrance Hall just ahead of Filch, slipped past him while he was sorting through his keys, and hauled one of the great doors open. The hinges groaned.
 
 “Oi! Who’s that? Who’s at my door?”
 
@@ -92,7 +92,7 @@ The slip in the box had said *which way to look*. Lyra held up her hand. The rin
 
 Crabbe was in the common room at this moment, doing her Charms homework with her tongue between her teeth. So Crabbe had given the other ring to somebody; and there was only one person Lyra could think of who would be out past the forest tonight, in mortal danger, with nobody knowing. She would deal with Crabbe later.
 
-Then, beyond the trees, something went up like a silver lamp turned all the way up at once, and the light of it ran out over the water and was gone.
+Then, beyond the trees, a light went up, white for an instant and then, unmistakably, silver, and it ran out over the water and was gone.
 
 It was in exactly the direction the ring was pointing.
 
@@ -122,11 +122,11 @@ Buckbeak looked at her a moment longer. Then he got to his feet, unfolded his wi
 
 Lyra laughed out loud.
 
-“Well. Your manners are better than half my House’s. For a—”
+“Well. I take back what I said about you in September. Your manners are better than half my House’s. For a—”
 
 Buckbeak snorted, and the snort had a sharp edge on it.
 
-“For a *gentleman*,” said Lyra hastily. “Obviously. I meant for a gentleman,” and she went and untied the rope.
+“For a *gentleman*,” said Lyra hastily. “A very handsome one. Obviously,” and she went and untied the rope.
 
 *Never again to be ridden by anyone*, the Committee had said. She had asked for that herself.
 
@@ -166,7 +166,7 @@ It came at her.
 
 “*Ex—Expelliarmus!*”
 
-Her hand was shaking. The spell went off into the dark somewhere to the left. The creature came on, faster, and Lyra heard a girl scream, and found it was her, and went down with her arms over her head—
+Her hand was shaking. The spell went off into the dark somewhere to the left. The creature came on, faster, and Lyra heard a girl scream, and it was her, and went down with her arms over her head—
 
 There was a crack of wings, and a shriek, and a howl of pain that was nothing like hers.
 
@@ -204,7 +204,7 @@ Somebody was coming along the shore out of the dark. Lyra swung her wand round, 
 
 Snape looked at the hippogriff, and then at the grey feathers stuck to the front of her robes, and said nothing about either of them. That was worse than anything he could have said.
 
-“I was summoned to the Ministry this evening. By letter.” He spoke very quietly. “I waited an hour in an empty corridor before anybody would admit to having sent it. Nobody had.” He stopped, and lifted his wand, and his face changed again, into an expression she had never once seen on it: plain, unguarded pleasure. “But I see the evening has not been wasted after all.”
+“I was summoned to the Ministry this evening. By letter.” He spoke very quietly. “I waited an hour in an empty corridor to be told that nobody had sent it.” He stopped, and lifted his wand, and his face changed again, into an expression she had never once seen on it: plain, unguarded pleasure. “But I see the evening has not been wasted after all.”
 
 He walked towards Sirius Black, slowly, the way one walks towards something one has wanted for a very long time.
 

@@ -1,6 +1,6 @@
 <!-- Informe del lector para el capítulo 29, 11 de octubre de 2026. Guardado tal cual para que no exista solo en contexto. -->
 
-> **Aviso (15 de octubre de 2026):** las citas del 13 al 19 de este informe son anteriores al cotejo con la traducción oficial y varias ya no existen. Compruébalas en el texto (ver `docs/notas/cotejo-oficial/caps-13-19.md`).
+> **Aviso (15 de octubre de 2026):** las citas del 13 al 21 de este informe son anteriores al cotejo con la traducción oficial y el original y varias ya no existen. Compruébalas en el texto (ver `docs/notas/cotejo-oficial/caps-13-19.md` y `caps-19-21.md`).
 
 # Informe del lector para el capítulo 29 (interludio de Harry, 13–20 nov 1994)
 
