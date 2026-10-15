@@ -228,6 +228,6 @@ The dog took it out of the air and it was gone in one swallow, and then it stood
 
 She looked at it a little longer. Then she bent and laid the rest of the slab, paper and all, on a flat stone at the side of the path, and stepped back.
 
-She was halfway back up the lawn, with the lit windows of the castle ahead of her, when it came back to her: Potter, on the train in September, unwrapping a Chocolate Frog that nobody had offered him. *If you see a big black dog, throw it something to eat. It’ll be hungry.* She had taken it for one of his jokes. She stopped on the wet grass and looked back.
+She was halfway back up the lawn, with the lit windows of the castle ahead of her, when it came back to her: Potter, on the train in September, unwrapping a Chocolate Frog that nobody had offered him. *If a big black dog turns up, be nice to it. Feed it something. It’ll be starving.* She had taken it for one of his jokes. She stopped on the wet grass and looked back.
 
 The dog had not touched the chocolate. It was standing over it at the edge of the water, a black shape against the mist, with its head up, and it was watching her.

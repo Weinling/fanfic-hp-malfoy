@@ -42,7 +42,7 @@ Lyra knew the name. She knew it the way she knew most of the names on her mother
 
 “I certainly did not.”
 
-“On the train.” Potter put on a voice that was high and clipped and nothing whatsoever like hers. “*If I were you, I’d find out a great deal more about Sirius Black. Understand what he wants, and you’ll know where he’s going.*”
+“On the train.” Potter put on a voice that was high and clipped and nothing whatsoever like hers. “*If I were you, I’d make it my business to know Sirius Black better than he knows himself. Find out what he wants, and you’ll know where he’s going.*”
 
 Lyra was gratified that he had remembered it word for word, and so outraged by the voice that the two feelings cancelled out and left her with nothing to say for a moment.
 

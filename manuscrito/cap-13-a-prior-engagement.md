@@ -102,7 +102,7 @@ That was when she saw the dog.
 
 It came out of the brambles further along the fence, black and enormous and thin enough to count the ribs through its coat, and she knew it at once, since there could not be two dogs that shape in Scotland. It was the one from the lake.
 
-*If you see a big black dog, throw it something to eat.* Potter had said that on the train in September. Lyra had filed it at the time under Potter’s nonsense, feeding strays and calling it foresight, and since the lake she had been trying, without much success, to leave it there.
+*If a big black dog turns up, feed it something.* Potter had said that on the train in September. Lyra had filed it at the time under Potter’s nonsense, feeding strays and calling it foresight, and since the lake she had been trying, without much success, to leave it there.
 
 “What are *you* doing all the way out here?”
 

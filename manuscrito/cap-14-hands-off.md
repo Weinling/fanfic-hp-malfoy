@@ -138,7 +138,7 @@ She kept that too.
 
 “I wasn’t trying to win.”
 
-He meant it kindly. She felt the heat start at the back of her neck and climb, and there was nothing to be done about it. And now everything Potter had done that term began to drop into place, one piece after another. Hogsmeade without a form. *Just missed him*, on Hallowe’en. A big black dog that would be hungry.
+He meant it kindly. She felt the heat start at the back of her neck and climb, and there was nothing to be done about it. And now everything Potter had done that term began to drop into place, one piece after another. Hogsmeade without a form. *Just missed him*, on Hallowe’en. A big black dog that would be starving.
 
 “That’s why you went to Hogsmeade,” she said. “To find him.”
 
