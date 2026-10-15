@@ -6,6 +6,13 @@
 
 ## Ahora mismo
 
+- **Nuevo frente (15 de octubre): cotejo con la traducción inglesa oficial.** El autor ha descubierto que el original coreano tiene versión inglesa oficial y quiere que el fic deje de parafrasearlo tan de cerca, sin tocar la historia. Ya hecho:
+  - el prólogo oficial está en `referencia/oficial-en/`;
+  - `herramientas/cotejo.py` busca frases compartidas;
+  - el diagnóstico del 1, línea a línea, está en `docs/notas/cotejo-oficial/cap-01.md`;
+  - la lectura completa de los 34 capítulos, con sospechas y anclas, está en `docs/notas/cotejo-oficial/lectura-completa.md`.
+
+  Pendiente de que decida el autor: qué está publicado exactamente (choca con la regla «lo publicado no se toca»), hasta dónde se reescribe y en qué orden. El 31 queda en espera mientras tanto.
 - **Capítulo 29, *Every Ounce*** (coreano 32), **cerrado**: `borradores/cap-29-every-ounce.md` (~4.300 palabras). Lo que está hecho:
   - ficha aprobada por el autor;
   - escritura escena a escena;
