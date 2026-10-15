@@ -84,7 +84,7 @@ After that she talked, and Harry listened. She talked about Quidditch, and which
 
 “Then it suits you,” said Harry, because it seemed true.
 
-She beamed. Nobody had ever looked at Harry like that in his life, as though he had handed her something. “You’ll do,” she announced. “Even if you don’t know anything.”
+She beamed. Nobody had ever looked at Harry like that in his life, as though he had handed her something. “I like you,” she announced. “You’ll do. Even if you don’t know anything.”
 
 She told him about families, and how there were good ones, and old ones, and then there was the wrong sort, and one learned to tell them apart. Harry, who had been the wrong sort every day of his life at number four Privet Drive, did not say anything to that. She asked about his parents, and he told her they were dead, and that he lived with his aunt and uncle, who were Muggles, and that he had not known about any of this until yesterday.
 

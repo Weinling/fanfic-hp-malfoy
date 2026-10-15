@@ -84,7 +84,7 @@ There was a dried grey splash on the desk beside the cauldron, where some had bo
 
 A rat. It would be, in this castle, this week.
 
-Lyra looked at the goblet, and at the window, where the light was already going. She could not have brewed another if she had had all night, and she did not have all night; she had until moonrise. A rat could not have drunk much. Nobody need ever know it had been there. She put the lid on, wiped the bottom of the goblet on Snape’s blotter, and went.
+Lyra looked at the goblet, and at the window, where the light was already going. She could not have brewed another if she had had all night, and she did not have all night; she had until moonrise. A rat could not have drunk much. Whoever drank it need never know. She put the lid on, wiped the bottom of the goblet on Snape’s blotter, and went.
 
 ⁂
 

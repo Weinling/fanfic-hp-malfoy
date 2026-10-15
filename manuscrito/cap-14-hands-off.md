@@ -124,7 +124,7 @@ Lyra looked away first.
 
 “He found a way. It took him years.” Potter shrugged. “I was the one thing the charm was hiding, you see. Whatever was inside it, I was inside it too, so I was the only person he was allowed to tell. Even then it was more like a riddle than telling.”
 
-Years, to find a way round, to tell a boy. And in all those years no way round, long or short, to get an innocent man out of Azkaban. Lyra did not say so. She put it away somewhere safe, with the other things she knew about Albus Dumbledore, for later.
+Years, to find a way round, to tell a boy. And in twelve years no way round, long or short, to get an innocent man out of Azkaban. Lyra did not say so. She put it away somewhere safe, with the other things she knew about Albus Dumbledore, for later.
 
 There was something else to put with it. *Dumbledore told me.* There it was at last, the answer she had not asked for in the library, handed over for nothing. It accounted for the dog, and the charm, and Pettigrew. It did not account for a house in Northumberland that was on no map and in no register, that her father had never named to a living soul, and that Potter had brought up in May without so much as blinking. Dumbledore might know a great many things. She did not see how he could know that.
 

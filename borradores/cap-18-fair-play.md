@@ -50,13 +50,13 @@ Lyra knew perfectly well what it said. *Worn by two, each ring will warm when th
 
 “Shall I put them back?” said Crabbe.
 
-“Give them to Millicent.” Lyra turned a page she had not read. “I only bought them to see whether they worked, and I’ve never got round to finding out. It hardly matters. One can’t wear a pair of rings on one’s own.”
+“Bin them. Or give them to Millicent.” Lyra turned a page she had not read. “I only bought them to see whether they worked, and I’ve never got round to finding out. It hardly matters. One can’t wear a pair of rings on one’s own.”
 
 Crabbe turned the box over in her hands.
 
 “Can I keep them, then? If you don’t want them.”
 
-“Keep what you like.”
+“Do as you like.”
 
 Crabbe went out with the box at a brisk trot, towards the common room. Lyra read the same paragraph three times and gave it up. When she looked up again, one ring was lying on the end of her bed, on the green coverlet, where Crabbe had been sitting.
 

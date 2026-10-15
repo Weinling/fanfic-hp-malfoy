@@ -86,7 +86,7 @@ It was a very good change of subject, and it worked.
 
 She went up to her room afterwards and sat on the window seat for a long time.
 
-There had been a Mark in the sky. Thirteen years nobody had seen it, and now somebody had, over a field full of tents, and the men in masks who had been her father’s friends had looked up at it and run. Lyra had sat in this very room at Christmas and worked out, as carefully as she had ever worked out anything, what she would do if that day ever came. She remembered every word. *The first to go back to him. On her knees before any of the others. The most loyal servant he had ever had. Whatever it took. Even if it meant turning on Potter.*
+There had been a Mark in the sky. Thirteen years nobody had seen it, and now somebody had, over a field full of tents, and the men in masks who had been her father’s friends had looked up at it and run. Lyra had sat in this very room at Christmas and worked out, as carefully as she had ever worked out anything, what she would do if that day ever came. She remembered every word. *At his feet before the others had found their masks. At the front of them, on her knees. So useful, for so long, that one lost diary would be a thing he could afford to overlook. Whatever that took. Even if it meant turning on Potter.*
 
 In the drawer of her bedside table there was a ring that had been green since five o’clock in the morning.
 
