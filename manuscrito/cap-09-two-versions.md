@@ -4,13 +4,13 @@
 
 He said it to the whole team, standing in a ring on the frozen grass of the pitch with their brooms over their shoulders and their breath smoking, but he was looking at Lyra, which she considered only correct.
 
-She was not in a good temper. She had not been in a good temper since a quarter to four, when she had stood in front of the dormitory mirror and scraped her hair back off her face and tied it at the nape of her neck with a length of plain black ribbon, as tight as it would go, and then wound the tail into a knot and pinned it, because a tail could whip about in a wind and a knot could not. It was the only sensible way to wear it on a broom. It pulled at her scalp, it made her look like a governess, and it would stay that way until the end of practice, when she meant to take it down and wash it and put on enough Sleekeazy’s to make up for the insult. There were days when Lyra Malfoy looked in the mirror and was satisfied, and on those days she was charming to everyone. This was not one of those days. Crabbe and Goyle had seen her come down the dormitory stairs and found urgent business in the library.
+She was not in a good temper. She had not been in a good temper since a quarter to four, when she had stood in front of the dormitory mirror and scraped her hair back off her face and tied it at the nape of her neck with a length of plain black ribbon, as tight as it would go, and then wound the tail into a knot and pinned it, because a tail could whip about in a wind and a knot could not. It was the only sensible way to wear it on a broom. It pulled at her scalp, it made her look like a governess, and it would stay that way until the end of practice, when she meant to take it down and wash it and put on enough Sleekeazy’s to make up for the insult. Lyra’s temper had a great deal to do with her hair, and she knew it, and did not consider it a weakness, any more than a barometer is weak for minding the weather. Crabbe and Goyle had seen her come down the dormitory stairs and found urgent business in the library.
 
-Still, a sharp temper was no bad thing in a Seeker. She had noticed that she saw better when she was slightly annoyed.
+Still, a bad temper had its uses on a broom. Lyra flew best slightly cross; it gave her eyes something to do.
 
-“Their brooms are rubbish,” Flint went on. “Cleansweeps, most of them, and the Fives are older than I am. The only decent broom they’ve got is Potter’s, and that’s a Two Thousand. We’re on the Two Thousand and Ones, every one of us.” He did not look at Lyra when he said that, which was tactful of him, and also unnecessary. People said her father had bought her a place on the team, and every time they said it Lyra laughed, because it was such a stupid thing to say. Her father had bought the team seven brooms. Nobody could buy you the eyes to see a Snitch from the far end of a pitch in a crosswind, or the nerve to dive at it, and anybody who thought otherwise was welcome to borrow her broom and try. Money was simply one of the things she was good at, like balance and nerve and quick hands. It would have been absurd not to use it.
+“They’re flying antiques,” Flint went on. “Cleansweeps held together with Spellotape, and a couple of Comets older than I am. Potter’s got a Two Thousand, which is a broom. We’ve got seven Two Thousand and Ones, which are better ones.” He did not look at Lyra when he said that, which was tactful of him, and also unnecessary. People said her father had bought her a place on the team, and every time they said it Lyra laughed, because it was such a stupid thing to say. Her father had bought the team seven brooms. He had not bought the girl on top of one of them, and nobody could buy you the eyes to see a Snitch from the far end of a pitch in a crosswind, or the nerve to dive at it; anybody who thought otherwise was welcome to borrow her broom and try.
 
-“Wood’s desperate,” said Flint. “Seventh year. Last chance to win the Cup before he leaves, and he hasn’t won it once. He’ll want to keep Potter in one piece for the rest of the season, so he won’t risk him early. Which means—” he turned to Lyra properly, “—you are going to catch that Snitch before Potter does. That’s all I need from you. Leave the rest to us.”
+“Wood’s leaving in June without a Cup,” said Flint, “and he knows it, and he’d sell his own grandmother to change it. Which means he’ll have Potter wrapped in cotton wool all season. He won’t let him take a risk this early. Which means—” he turned to Lyra properly, “—you are going to beat Potter to that Snitch. That’s all I need from you. Leave the rest to us.”
 
 “Naturally,” said Lyra. “It’s what I’m for.”
 
@@ -22,21 +22,21 @@ There was a short pause, in which several members of the Slytherin team found so
 
 “Someone ought to do something about him before the match,” said Warrington, “that’s what I think.”
 
-“Montague tried that last year,” said Derrick. “They found him upside down in a barrel of Flobberworms behind the greenhouses. He still won’t say how.”
+“Montague tried that last year,” said Derrick. “He came down to breakfast the next morning dyed red and gold from the neck up. He still won’t say how.”
 
 “You don’t go poking a Doxy nest,” said Bole, who had once poked a Doxy nest.
 
-“And Lyra,” said Montague, as though he had been waiting for an opening and this was it, “no offence, but you are a bit off your game against him. Everyone says so.”
+“And Lyra,” said Montague, as though he had been waiting for an opening and this was it, “no offence, but he does get to you. Last year you were shouting at him with the Snitch in your ear.”
 
 The pitch went quiet.
 
-“A bit what?” said Lyra.
+“I beg your pardon?” said Lyra.
 
-Montague looked at the others for help and found that none of them were available. “Just— he gets under your skin. Last year—”
+Montague looked at the others for help and found that none of them were available. “Just— he gets under your skin, that’s all. Everyone says—”
 
-“Last year,” said Lyra, “Potter caught the Snitch because he threw himself off his broom for it, and broke his arm doing it, which is not a strategy, it is a medical condition. If you are all quite certain I’m going to lose, you can say so now, and Marcus can find a Seeker you have more faith in. I’m sure there’s a second-year somewhere who can stay on a broom.” She tightened her grip on the Nimbus. “I am going to beat him. I am going to beat him if I have to break my own arm to do it.”
+“Last year,” said Lyra, “Potter caught the Snitch by falling off his broom with it, which is not a strategy, it is a medical condition. If you are all quite certain I’m going to lose, you can say so now, and Marcus can find a Seeker you have more faith in. I’m sure there’s a second-year somewhere who can stay on a broom.” She tightened her grip on the Nimbus. “I am going to beat him this year if I have to fall off mine.”
 
-“Please don’t break your arm,” said Flint, with feeling. “I couldn’t look your father in the face.”
+“Please don’t fall off anything,” said Flint, with feeling. “Your father would have me stuffed.”
 
 She kicked off before he had finished the sentence.
 
@@ -52,15 +52,15 @@ It had been a cold day then, too, but bright, with a hard blue sky and a wind co
 
 It was her first match. She had been on the team for six weeks, and for six weeks the whole school had been telling itself that she was there because of the brooms, and she had gone up into the air that morning meaning to make every one of them eat it. Her hair had been loose. She had always worn it loose. It was the colour her mother’s had been at her age and it went most of the way down her back, and she had seen no reason whatsoever why a Malfoy should fly a match looking like somebody’s governess. It streamed out behind her when she flew, pale as a banner, and she had known perfectly well that the whole stand could see it.
 
-She had been better than him that day. She could admit that now, because it was true and because it no longer did her any good. The Nimbus Two Thousand and One was a fraction quicker off the mark than his Two Thousand, and a fraction steadier in a crosswind, and it was not much, but between two brooms of the same make a fraction was everything. When the Snitch showed itself at last, low over the Gryffindor end, she had seen it first. She was sure of that. She had been ahead of him all the way down the pitch, close enough to hear his broom over the wind, and she had been shouting at him, because she was twelve and winning and wanted him to know it.
+She had been better than him that day. She could admit that now, because it was true and because it no longer did her any good. Her broom was the newer model by a year, and a year of broomcraft did not buy you much: a hair’s breadth off the mark, a little less shudder in a crosswind. Against Potter, a hair’s breadth was a mile. When the Snitch showed itself at last, low over the Gryffindor end, she had seen it first. She was sure of that. She had been ahead of him all the way down the pitch, close enough to hear his broom over the wind, and she had been shouting at him, because she was twelve and winning and wanted him to know it.
 
-And then the Snitch had gone up, sharp and sudden, past her left ear, and her own hair had come round across her face in the wind like a curtain, and the gold was gone.
+And then the Snitch had gone up, sharp and sudden, past her left ear, and the wind had taken her hair and wrapped it over her eyes like a blindfold somebody had tied in a hurry, and the gold was gone.
 
 She had not been able to see anything. One moment there was the Snitch and the pitch and the sky, and the next there was only pale hair, whipping across her eyes and into her mouth, and she had flung up a hand to clear it and lost a hand from the broom doing it. The Nimbus had gone off line. She had felt it go and not known which way, and by the time she got the hair out of her eyes the Slytherin stand was coming at her, timber and bunting and screaming faces, very close and very fast, and she had understood quite calmly that she was going to hit it and that there was nothing at all she could do.
 
 Something had taken hold of the back of her robes and pulled.
 
-It was a hard, ugly, wrenching pull, and it hauled her round so sharply that her teeth clacked together, and the stand went past a yard from her shoulder instead of through it. She had looked round. Potter was right beside her, much too close, leaning half off his broom with one hand knotted in her robes and the other closed tight round something that fluttered. He had already caught it. He had caught it a second before, and then reached out with the only hand he had left, and a boy could not hold on to a person and a Snitch and a broom with two hands, and he had not tried to. He had let go of the broom.
+It was a hard, ugly, wrenching pull, and it hauled her round so sharply that her teeth clacked together, and the stand went past a yard from her shoulder instead of through it. She had looked round. Potter was right beside her, much too close, leaning half off his broom with one hand knotted in her robes and the other closed tight round something that fluttered. He had already caught it. He had caught it a second before, which left him one hand for the broom and none for her, and he had made his choice so quickly that she never saw him make it. He had let go of the broom.
 
 She had watched him fall. It was not very far, fifteen feet perhaps, but he had come down on his arm, with the whole of his weight on it, and even over the noise of the crowd she had heard it break.
 
@@ -86,9 +86,9 @@ Twenty-two days. Lyra took the letter from its leg, stroked its head once, which
 
 > *My dear Lyra,*
 >
-> *I have just read in the* Prophet *that Sirius Black has been inside the castle. One hardly knows whether to laugh or to write to the Minister. Dementors at the gates and a mass murderer in the corridors; I confess I can no longer tell whether Dumbledore is running a school or a prison, and a poor example of either. You may be sure I shall be making my views known to the Board. In the meantime you are not to be anxious. Slytherin is well placed and well guarded, and Professor Snape is more than equal to his duties.*
+> *I have just read in the* Prophet *that Sirius Black has been inside the castle. Dumbledore keeps Dementors on his gates and lets a murderer in by the side door; I have given up trying to decide whether he means to run a school or a menagerie. The Board will hear from me, for what the Board is worth these days. You are not to fret. The dungeons were built by people who knew a great deal about keeping others out, and Severus knows more.*
 >
-> *As to the matter you raised in your letter, I am afraid I know very little.    Forgive me for being of so little help.*
+> *As to your question, I find I have very little to tell you.    You must forgive an old man his ignorance.*
 >
 > *Take care of yourself. Your mother sends her love.*
 >
@@ -106,17 +106,17 @@ She took out her wand and touched its tip to the blank.
 
 The parchment gave a soft crack, like a seal breaking, and split along its own thickness the way a pastry leaf splits, into two thin layers that lifted apart at the edge. Between them, in her father’s hand but very much smaller, was a second letter.
 
-> *You asked whether Sirius Black is a danger to us. You asked honestly, so I shall answer honestly: we do not know.*
+> *You asked whether Sirius Black is a danger to us. It is a fair question, and it deserves a better answer than the one I have, which is that nobody knows.*
 >
-> *Black fought against the Dark Lord in the early days. He was the Potters’ closest friend. When it came out that he had betrayed them, we were as astonished as anyone. For a time some of us believed he had laid a trap. The Dark Lord fell, after all, within hours of going to the Potters’ house, and it would hardly be the first time a man had pretended to change sides in order to do harm. But one cannot be sure even of that. The Dark Lord had a great many people in a great many places, and not all of them were known to the rest of us.*
+> *In the early days Black was on the other side, and loudly; he and James Potter were the sort of young men who duel in corridors and call it principle. When we heard that he had handed the Potters over, nobody I know believed it for a week. Some of us decided afterwards that it had been a trap. The Dark Lord went to that house and did not come back, and one is entitled to wonder who arranged the invitation. I cannot tell you that it is true. The Dark Lord kept his own counsel, and his own people, and there were names on his list that the rest of us never saw.*
 >
-> *His brother Regulus, the true heir of the Black family, was among the most devoted of the Dark Lord’s followers. The most devoted of us all, some would have said. It is said the brothers were not on bad terms. It is possible, then, that Sirius was the Dark Lord’s man all along.*
+> *His younger brother Regulus, who should have had the family after him, was the most devoted of us all. The two were not, I am told, on such bad terms as Sirius liked people to think. Make of that what you will. I have made several things of it over the years, and none of them has kept.*
 >
-> *I tell you all this so that you will understand that I know nothing, and neither, I suspect, does anyone else. Since nothing can be certain, you will not approach him under any circumstances. Watch, if you must, and keep your distance. Whichever side he is on, he can have no business with you. It seems plain enough that it is the Potter boy he wants.*
+> *So you see that I know nothing, and I suspect nobody does. That being so, you will keep well away from him. Look, if you must; you always do. But whatever he is, he has no quarrel with you. It seems plain enough that it is the Potter boy he wants.*
 >
-> *Severus may know more than I do. But I should very much prefer that you put the whole matter out of your mind. There is nothing in it that will do you any good.*
+> *Severus may know more than I do. I would far rather you left it alone. Nothing good was ever found at the bottom of the Black family.*
 
-She read it twice. Then she pointed her wand at it and said, “*Incendio*,” and the whole letter went up at once in a single soft rush of flame, the outer layer and the inner, and was gone before it had properly caught, leaving nothing on the counterpane but a scorch the size of a coin. It had been made to burn. Her father thought of everything.
+She read it twice. Then she pointed her wand at it and said, “*Incendio*,” and the whole letter went up at once in a single soft rush of flame, the outer layer and the inner, eagerly, as if it had been waiting to be asked, and left nothing on the counterpane but a scorch the size of a coin. Her father thought of everything.
 
 Almost everything.
 

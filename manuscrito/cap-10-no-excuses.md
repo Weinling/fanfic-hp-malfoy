@@ -92,7 +92,7 @@ The pitch below them had gone dark, and it took her a moment to understand that 
 
 “Dementors?” she said, aloud, to nobody.
 
-*Dementors at the gates*, her father had written, *and a mass murderer in the corridors*. Nobody had said anything about Dementors on the pitch.
+*Dementors on his gates*, her father had written, *and a murderer in by the side door*. Nobody had said anything about Dementors on the pitch.
 
 Ahead of her, Potter lurched.
 
