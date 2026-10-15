@@ -146,3 +146,27 @@ Es el capítulo con más anécdota del coreano por línea. Sospechas fuertes:
 - [orig, probable] El Ministerio calla; la Saeta de Fuego de Lucius y el revuelo en el Gran Comedor («If you ask me very nicely…» / «No need»); Crabbe Cupido; el partido contra Ravenclaw y Chang llorando; la aritmética de la Copa y las banderitas de dos colores; Potter y Diggory paseando antes del partido, el partido táctico, la mano que suelta («That’s from Lyra»); «I’m not going out with Lyra»; el claustro, «Officially», «next year, if students come from other schools», **el anillo de las nueve** [pantallazo], «A boy who comes with as much luggage as you do».
 - [nuestro] El chocolate negro en la puerta de Lupin («A receipt, not a payment»), el pañuelo devuelto en pensamiento, la respuesta a Crabbe («I’m not. Not any more»).
 - **Sin publicar. Riesgo alto.** El narrador hace aquí lo que el handoff prohíbe para el original («Lyra Malfoy was not a girl who got turned down», «She would sooner die than be put aside the same way twice»): es la voz de la oficial, no la nuestra.
+
+## Year One 1. The Remembrall (coreano 18; desde Harry; sin publicar)
+
+- [orig, probable] El marco con Ron («So you’re going out with her… Knock me down with a feather»), el Sombrero que le ofrece Slytherin «for one girl» y le manda a Gryffindor («fight for it»), los desplantes de Malfoy a Gryffindor y Hufflepuff, «If she didn’t like something, she changed it» → «*If I don’t like something, I can change it*», la clase de vuelo y la Recordadora, **«Keep your dignity, Malfoy. Don’t make me any more disappointed in you»**, «Just like a magpie», el vuelo sin manos, la caída, «Th…» / «Do you think I’m going to say *thank you?*», tres Recordadoras anónimas.
+- [nuestro] La bisagra con el 16 y el 1 (Madam Malkin’s, el tren, «She had not known him»), el silencio pedido por Harry que entierra la escena (es la «first time» del 5).
+- **Sin publicar. Riesgo alto.**
+
+## Year One 2. Nobody Asked You for Christmas (coreano 24; sin publicar)
+
+- [orig, probable] Wood y la Snitch, el árbol de Hagrid, «Some people have nobody who wants them at Christmas», «Can’t be helped. My mum and dad died stopping Voldemort… Or do you hate me? For getting rid of Voldemort?», «You just answer back straight, and smile first»; el plan de Lyra contra los que rodean a Potter; Crabbe con trenzas («Isn’t it a bit sad?»); **el día en que los padres no volvieron** (desayuno sola, Dobby, los violetas, la mano vendada).
+- [nuestro] Poco: la conexión de los violetas con la confitera de Narcissa, «The arrow was already off the string».
+- **Sin publicar. Riesgo alto.**
+
+## Year One 3. The Scar (coreano 25; sin publicar)
+
+- [orig, probable] La clase de Snape (sangre de dragón, ojo de pez globo) y la burla de Malfoy a Granger, «Do you *fancy* Granger, Potter?», «You are very like your father», «Talent, magic, looks, money… it’s all power», Dumbledore («He has a debt to pay»), Snape y la broma de James, Quirrell que pasa, **la visión por la cicatriz** (Snape de rodillas, «spare her»), «You killed my mum and dad»; el Potter frío en Pociones («the people who followed him are all still walking about»).
+- [nuestro] El cierre con el anillo a las nueve, «It had taken him a long time to get back from that».
+- **Sin publicar. Riesgo alto.**
+
+## Year One 4. Two Words (coreano 26; sin publicar)
+
+- [orig, probable] Snape en el despacho de Dumbledore («When I look at him, Headmaster, I think of the Dark Lord» / «Love»), el «*Potter’s coming!*», la maldición de piernas a Neville, Hermione en la escalera («I’m rather hoping they will. Then I’ll know who’s who»), el enfrentamiento ante la biblioteca, **«Mudblood!» / «Voldemort!»**, el llanto, «I hate it… and I hate *you*», Crabbe que embiste, McGonagall y Diggory.
+- [nuestro] La mano entre las cortinas con Crabbe («I didn’t cry» / «No. You didn’t»), el párrafo final que ata el boggart del 4, la cara del 6 y la pregunta de Lupin.
+- **Sin publicar. Riesgo alto.**
