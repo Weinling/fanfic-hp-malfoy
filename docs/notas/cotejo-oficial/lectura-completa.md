@@ -87,3 +87,38 @@ Es el capítulo con más anécdota del coreano por línea. Sospechas fuertes:
 - [orig, probable] Tres horas mirando el fuego; Crabbe y Goyle con lo de la cita, «You’re going to ask him out?», «mortal enemies… a matter of public record», el diario compartido que suelta Goyle, el Muffliato; el señuelo con el gorro; «Shrieking Shack» al oído y la señal de OK; el perro, la mantequilla de cerveza y el muslo de pollo; los chicos con el palo, los gritos de la Casa y el barro; el calentador de botón de Zonko’s; «I had a prior engagement» / «Not compared to a date with you» / «Not you as well!»; la oferta (Black a cambio del diario), la cara fría, «You don’t know anything», «don’t bring up the diary again. Not ever»; «I’ve got something on her»; la transformación; «This is Sirius Black. Mass murderer. My mortal enemy. And my godfather.» [pantallazo].
 - [nuestro] Los dos motivos de Lyra, «Only I thought you might just tell him», la pluma de azúcar en el bolsillo, «I told you not to take too long», ya no poder preguntar cómo sabe (gastó la pregunta), la teoría del informante que se cae.
 - **Riesgo alto.** Es casi todo el coreano 11 en orden, con varias réplicas que suenan a traducción directa (las bromas de Crabbe y Goyle, «prior engagement», el cierre). El título del capítulo sale de una réplica del original.
+
+## 14. Hands Off (coreano 12)
+
+- [orig, probable] Potter le coge la mano entre las dos suyas, «Trust me… He isn’t an enemy. And he isn’t a murderer»; dentro de la Casa; Black y la hija de Narcissa; la broma del chocolate («Aha. It was for me» / «Don’t flatter yourself!» / «If it was Sirius who ate it, I’ll let it go»); Sirius rechazó ser guardián; Pettigrew; «Dumbledore told me»; «I lose» / «I wasn’t trying to win»; «I thought it was nice. That you worried» / «I’ve never lied to you»; **«Hands off, Malfoy»**, la amenaza con Draco, «There’s no room for you in this», el llanto que es lluvia, **«Don’t smile in front of me»** [pantallazo], el calentador entre las tablas.
+- [nuestro] El juramento de Sirius y Dumbledore (decisión B: el original lo dejaba en el aire), la prueba del juramento («Who was your Secret Keeper, Mr Black?»), la Northumberland que no cuadra, guardarle a Dumbledore los doce años, el prefacio del libro como contraejemplo, «eleven years old».
+- **Riesgo alto.** Es el capítulo mejor puntuado en emoción, y su columna, con los dos pantallazos y el título, viene del coreano 12. Cambiar réplicas aquí cuesta más que en ningún otro sitio, porque los lectores las citan.
+
+## 15. Show Your Working (original, extra)
+
+- [nuestro] Entero: la Pepperup, el ventanal, la Aritmancia de los nombres, los dos onces, «Another control?» / «Entirely random», «Then I didn’t see it twice» / «That’s what makes it square» / «I wasn’t counting» / «Somebody has to», las trescientas sesenta horas. Lo único del coreano es la semilla del giratiempo (el horario).
+- **Riesgo bajo.**
+
+## 16. How to Stop Smiling (coreano 13 + final del 12; desde Harry; sin publicar)
+
+- [orig, probable] El marco con Sirius: «I told her because I thought it’d be all right even if she didn’t», el plan (Lestrange, Black, Flint), «How do you stop smiling?»; el recuerdo de Madam Malkin’s: la muñeca, «Then it suits you», «I rather like you», la escoba que «sweeps better», «I don’t like you», «Stop apologising», hombros atrás, barbilla arriba, sonríe; la reverencia; Hagrid y los helados.
+- [nuestro] «Not on her. Not on the boy», los pavos reales rosas (en vez de la ventana de Neville), la bisagra con el 1 y el 3, «Magic», el calentador recuperado («It was still warm»), Lupin como gancho.
+- **Sin publicar: se puede tocar libremente.** Riesgo medio: la escena de Madam Malkin’s tiene muchas réplicas del original, y es la que más se recordaría.
+
+## 17. The Face for It (coreano 14; sin publicar)
+
+- [orig, probable] La Navidad con Draco (la Cleansweep, la pelea de cosquillas, «Bears do»), las cartas del señor de la casita («the hands for it now»), la decisión de no meterse y arrodillarse ante el Señor Oscuro si vuelve; la poción de Potter («It sharpened yours, sir», «treacle-tart flavour»); el encantamiento animador que no funciona; Scabbers y Weasley («He was *family*!», «getting nowhere with Malfoy»), «I need to borrow it again» / «We need the time»; Potter y Granger en dos sitios; el baño del trol vacío.
+- [nuestro] La conversación con Lucius y la tapadera de las redadas («very nearly elegant»), «Extensively» pagado en ironía, «Malfoy.» / «Potter.», el «only one not smiling».
+- **Sin publicar.** Comprobar contra `coreano/ko-14.md`.
+
+## 18. Fair Play (coreano 15; sin publicar)
+
+- [orig, probable] La vuelta a la Lyra de primero, Parkinson («never anything in it with Potter»), los anillos de Zonko’s que Crabbe se lleva, el partido con Diggory marcándola («I’m marking *you*»), «Maybe it’s only you», el choque, la derrota 270–30, el pañuelo en la escalera, la coda de la señora Norris.
+- [nuestro] «There is a difference between a favour I do and a liberty you take», «It’s only me», «Thank you, then» (ancla de Harry: lo oyó).
+- **Sin publicar.** Comprobar contra `coreano/ko-15.md`.
+
+## 19. Shut Up, Malfoy (coreano 16 parcial + 17; sin publicar)
+
+- [orig, probable] Weasley y la trampa para ratas, la foto de Egipto, «Attached»; la poción de Snape con huellas de rata; Lupin («You’re a werewolf, sir», los Merodeadores, Pettigrew rata); el enfrentamiento en el pasillo («So you take *Granger*»), la palabra que no termina y **el beso** («Shut up, Malfoy»), «Tomorrow I’ll tell you everything».
+- [nuestro] «I went over the accounts myself… and I came out on your side», «You owe me two… never once asked me for anything», «Say anything you like to me. Not that», «Is that *charity* again?» / «No», «You never say what you mean».
+- **Sin publicar.** Comprobar contra `coreano/ko-16.md` y `ko-17.md`.
