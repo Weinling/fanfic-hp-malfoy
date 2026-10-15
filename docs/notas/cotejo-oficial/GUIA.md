@@ -21,13 +21,13 @@
 | — | 7 (nuestro) | sí | — |
 | 7 a 10 | 8 a 11 | sí | sí (`ko-07` a `ko-10`) |
 | — | 12 (nuestro) | sí | — |
-| 11 | 13 | sí | **falta** |
-| 12 | 14 y el final del 16 | sí | **falta** |
+| 11 | 13 | sí | sí (hecho) |
+| 12 | 14 y el final del 16 | sí | sí (hecho) |
 | — | 15 (nuestro) | sí | — |
-| 13 | 16 | sí | **falta** |
-| 14 | 17 | sí | **falta** (coreano en `coreano/`) |
-| 15 | 18 | sí | **falta** (coreano) |
-| 16 (parcial) y 17 | 19 | sí | **falta** (coreano) |
+| 13 | 16 | sí | sí (hecho) |
+| 14 | 17 | sí | sí (hecho) |
+| 15 | 18 | sí | sí (hecho) |
+| 16 (parcial) y 17 | 19 | sí | el 16 sí (hecho, primera mitad del 19); el 17 **falta** |
 | 18 | *Year One* 1 | Webnovel | **falta** (coreano) |
 | 19 | 20 | sí | **falta** (coreano) |
 | 20 y la primera mitad del 21 | 21 | sí | **falta** (coreano) |
@@ -47,7 +47,7 @@ Los capítulos que siguen en `borradores/` aunque estén publicados (del 16 al 2
 
 ## 3. Orden de trabajo
 
-1. **Publicados, con la oficial que vaya pasando el autor:** 13, 14, 16, 17, 18, 19, *Year One* 1, 20, 21, 22, 23 y *Year One* 2. El 16 necesita la oficial 12 y la 13.
+1. **Publicados, con la oficial que vaya pasando el autor:** ~~13, 14, 16, 17, 18~~ (hechos), el resto del 19, *Year One* 1, 20, 21, 22, 23 y *Year One* 2.
 2. **No publicados, con más libertad** (se puede reconstruir una escena, no solo retocar la superficie): *Year One* 3 y 4, y del 24 al 30.
 3. **Revisar 7, 12 y 15** (nuestros) solo si un retoque de otro capítulo cambia algo que citan.
 4. El 31 sigue en espera hasta terminar.
@@ -110,4 +110,4 @@ Hay que cumplir el protocolo de `CLAUDE.md`; para este trabajo, en concreto:
 - **Documentos históricos:** las notas de revisión (`docs/notas/revisiones/`), las del crítico (`docs/critico-v2.0.md`, `docs/notas/critico-*`) y `borradores/cap-29-lector.md` citan frases antiguas. Se dejan como están; no se corrigen.
 - **El crítico del 29** está vivo y conoce el texto antiguo. Si se le pasa el 31, hay que avisarle de que del 1 al 11 (y lo que siga) hay frases retocadas, y darle la tabla de anclas.
 - `referencia/oficial-en/ko-03.md` está cortado a mitad de escena (acaba en «and said carefully,»). El 3 se cotejó con lo que hay; si el autor pasa el resto, conviene repasar el final del 3.
-- **Pendiente de pedir al autor:** la oficial de los coreanos 11 al 33. Lo urgente es del 11 al 24, que cubre lo publicado.
+- **Pendiente de pedir al autor:** la oficial de los coreanos 17 al 33. Lo urgente es del 17 al 24, que cubre lo publicado.

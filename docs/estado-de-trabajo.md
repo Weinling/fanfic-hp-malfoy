@@ -17,9 +17,10 @@
     - el 1, sobre el texto publicado, con el arranque recortado (`docs/notas/cotejo-oficial/cap-01.md`);
     - del 2 al 11 contra los coreanos 2 a 10 (`docs/notas/cotejo-oficial/caps-02-11.md`), con las citas ajustadas en el 4, 7, 10, 11, 13 y 14.
     - manuales del 1 al 13 y handoff con las citas nuevas;
+    - 15 de octubre, tras compactar: oficiales 11 a 16 en `referencia/oficial-en/`; el 13, 14, 16, 17, 18 y la primera mitad del 19 retocados (`docs/notas/cotejo-oficial/caps-13-19.md`), con manuales, handoff y continuidad ajustados. Lectura hecha tras compactar: estado, guía, handoff entero, todos los manuales, continuidad transversal, el 11 al 19 enteros y las oficiales 11 a 16. Un subagente mapeó los ecos del 13 al 19 en el 20 y siguientes (`ecos-13-19.md`);
     - preparado para compactar: referencia 888ff27 (lo publicado sin retocar; la etiqueta `antes-del-cotejo` es solo local), `herramientas/comparar.py` (antes/después y parecido con la oficial, por capítulo) y **`docs/notas/cotejo-oficial/GUIA.md`** (reglas, correspondencia, orden, método y lectura al retomar).
-  - **Siguiente (punto exacto para retomar):** leer `GUIA.md` §6. Esperar a que el autor pegue la oficial de los coreanos 11 en adelante, guardarla en `referencia/oficial-en/ko-NN.md` y retocar por este orden:
-    1. publicados: 13, 14, 16, 17, 18, 19, *Year One* 1, 20, 21, 22, 23, *Year One* 2;
+  - **Siguiente (punto exacto para retomar):** leer `GUIA.md` §6. Esperar a que el autor pegue la oficial de los coreanos 17 en adelante, guardarla en `referencia/oficial-en/ko-NN.md` y retocar por este orden:
+    1. publicados: el resto del 19 (coreano 17), *Year One* 1, 20, 21, 22, 23, *Year One* 2;
     2. no publicados, con más libertad: *Year One* 3 y 4, del 24 al 30.
 
     El 31 queda en espera mientras tanto.
