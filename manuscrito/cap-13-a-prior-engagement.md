@@ -64,7 +64,7 @@ There was a pause.
 
 Lyra had no doubt of that at all. Potter had never once been stopped from doing a thing he had decided to do: not in first year, not in second, not on Hallowe’en with every teacher in the castle on the hunt and a murderer loose in it. He walked straight at things with nothing but his wand and a grin, and sooner or later the thing at the end of one of those walks was going to be Sirius Black.
 
-He knew that Black had betrayed his parents; he had said so himself, in Hogsmeade, “one cowardly traitor”. What he could not know was how it had been done, because that had been said in a dungeon office with a charm on the door: a secret that needed only one person to keep it and one to give it away, and a father who had been offered Dumbledore and had chosen his friend instead. Lyra thought of a voice across a library table saying *It’s the only way I get to hear her*, and looked harder at the fire.
+He knew that Black had betrayed his parents; he had said so himself, in Hogsmeade, “one rat of a traitor”. What he could not know was how it had been done, because that had been said in a dungeon office with a charm on the door: a secret that needed only one person to keep it and one to give it away, and a father who had been offered Dumbledore and had chosen his friend instead. Lyra thought of a voice across a library table saying *It’s the only way I get to hear her*, and looked harder at the fire.
 
 It was the least she could do. Lyra made a point of never doing more than the least where Potter was concerned.
 

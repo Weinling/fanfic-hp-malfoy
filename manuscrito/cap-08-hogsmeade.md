@@ -32,67 +32,67 @@ She left the hall before he did and walked slowly along the corridor towards the
 
 “I’m waiting for Crabbe and Goyle. We’re going into Hogsmeade.” She turned, and let him see her face, which was all sympathy. “And you, Potter? Not coming?”
 
-“Sadly,” said Potter, in the voice of a man at a funeral, “I haven’t got permission.”
+“Alas,” said Potter, in the voice of a man reading his own obituary. “No permission.”
 
 “What a shame.”
 
-“My aunt and uncle wouldn’t sign the form. After the business with Aunt Marge.” He shook his head at the injustice of it. “So I had a go at signing it myself, and the form spat the ink back out at me. Right in the eye. I didn’t know parchment could do that. I didn’t know it could *aim*.”
+“My aunt and uncle wouldn’t sign the form. After the business with Aunt Marge.” He shook his head at the injustice of it. “So I did Uncle Vernon’s signature myself. It’s a good one, I’ve had practice. And the form folded itself up into a little paper bird and flew off to McGonagall.”
 
-“How very sad for you,” said Lyra. “Why don’t you ask your friends to bring you back some sweets?”
+“How very sad for you,” said Lyra. “Shall I bring you back a sugar mouse? Something to suck on in your tower while you mope?”
 
-“No need,” said Potter, and shrugged. “I’ll get my own.”
+“Don’t trouble yourself,” said Potter, and shrugged. “I’ll pick my own.”
 
 “You just said—”
 
-She stopped. He had not said he couldn’t go. He had said he hadn’t got permission, which was a different sentence entirely, and the difference between the two was exactly the sort of thing her father’s solicitors were paid for.
+She stopped. He had not said he couldn’t go. He had said he had no permission, which was a different sentence entirely, and the difference between the two was exactly the sort of thing her father’s solicitors were paid for.
 
 “You’re going anyway,” she said.
 
-Potter clapped, slowly, three times. “Got it in one.”
+Potter pointed at her, delighted, like a quizmaster. “And the prize goes to the girl in green.”
 
-“Are you mad?”
+“You’re mad.”
 
-“No more than usual.”
+“That’s been said.”
 
-“So yes. Filch is checking every name at the door, Potter, he’s got a list—”
+“By people with *sense*. Filch is at the door with a list, Potter—”
 
-“Malfoy. If I was scared of Filch, do you think I’d have got round half the places I’ve been after midnight?”
+“Filch has been trying to catch me since I was eleven. He’s got further with Mrs Norris.”
 
 “This is not a midnight stroll to the kitchens!” Her voice had gone up, and she brought it down again, because there were second-years on the stairs. “Sirius Black is looking for you. Do you understand that? You, specifically. And you want to go and wander about a village outside the grounds?”
 
-“Malfoy, I’ve had a bloke with Voldemort growing out of the back of his head trying to kill me, and a snake that could do it just by looking at me.” Lyra flinched at the name, as she always did, and was too angry to care whether he saw. “I’m not going to hide in a tower from one cowardly traitor.”
+“Malfoy, in two years I’ve had a teacher with Voldemort on the back of his head and a snake the size of a train. They both had a go. I’m still here.” Lyra flinched at the name, as she always did, and was too angry to care whether he saw. “I’m not going to sit in a tower and be frightened of one rat of a traitor.”
 
-“Black is different!” She had not meant to say it so loudly. “Those other things had something else they wanted, and you just got in the way. Black wants *you*. That’s the whole point of him. He’s out of Azkaban to kill you, you idiot, and you’re walking out of the front gate to make it easier for him!”
+“This isn’t a monster in a cellar!” She had not meant to say it so loudly. “Monsters want whatever monsters want, and you happen to be standing there. Black has spent twelve years thinking about *you*. He’s out of Azkaban to kill you, you idiot, and you’re walking out of the front gate to make it easier for him!”
 
 Potter blinked at her. Then his face changed, very slowly, into something delighted.
 
-“Are you worried about me?”
+“You’re worried about me.”
 
 “I’m worried about my afternoon. I’ve been looking forward to it for a fortnight, and you are about to ruin it by getting yourself murdered in the same village.”
 
-“Thanks,” said Potter. “Honestly. But it’s not as if this place is safe either.” He looked past her for a moment, along the corridor towards the windows, and something went over his face that was not delighted at all, something cool and quite far away. “Big old castle like this. You could never find a rat in here if it didn’t want finding.”
+“Ta,” said Potter. “Honestly. But it’s not exactly safe in here, is it?” He looked past her for a moment, along the corridor towards the windows, and something went over his face that was not delighted at all, something cool and quite far away. “Old castle. Hundreds of holes in the walls. Things can live in a place like this for years, and nobody ever sees them.”
 
 “Hogwarts has the strongest protective enchantments in Britain. It has Dementors on every gate.”
 
-“Azkaban’s got Dementors on every door,” said Potter. “How did that go?”
+“Azkaban’s got Dementors on every door,” said Potter. “Ask Black how that went.”
 
 She opened her mouth to tell him exactly how stupid that was, and then saw Crabbe and Goyle coming along the corridor in their cloaks and shut it again.
 
-“See you later, then,” said Potter, and lifted a hand, and was gone round the corner towards the Gryffindor stairs before she could answer.
+“Sugar mouse,” said Potter. “Pink, if they’ve got one.” He lifted a hand, and was gone round the corner towards the Gryffindor stairs before she could answer.
 
-“Do as you like!” Lyra said to the empty corridor.
+“Get yourself *killed*, then!” Lyra said to the empty corridor.
 
 Crabbe and Goyle arrived and looked at her face and then at each other. “Is Potter going to Hogsmeade?” said Crabbe. “Without his form?”
 
 “Should we tell somebody?” said Goyle. “A teacher?”
 
-“What are we, first-years? Running off to tell tales the moment somebody breaks a rule?” Lyra pulled on her gloves, one finger at a time. “Let him. It’s nothing to do with us.”
+“I am not,” said Lyra, “a *prefect*.” She pulled on her gloves, one finger at a time. “Let him. It’s nothing to do with us.”
 
 She had tried to stop Potter doing things before. Two years of it had taught her that it could not be done, and that the only reward for trying was to look foolish while he did it anyway. And there was another consideration, which she turned over as they went down the stairs towards the entrance hall. If Black really meant to get into the castle, he would have been working out how ever since July. A man who had walked out of Azkaban past a hundred Dementors would hardly be put off by a few charms on the gates. Whereas a boy nobody knew was in Hogsmeade, keeping out of sight in a crowded village full of witches and wizards, might very well be safer than a boy everyone knew was sitting on his own in an empty tower.
 
 It was a perfectly sensible piece of reasoning, and she did not care at all for the shape of it, so she put it away and informed Crabbe and Goyle that if either of them mentioned that hooligan again before supper, she would leave them in the Shrieking Shack.
 
-Filch was at the great doors with his list and his lamp-eyed cat, checking every name against it twice, with the slow suspicion of a man who believed that every child in the school was smuggling something. He looked up at Lyra as she bore down on him, and whatever he saw in her face made him find her name on the list a great deal faster than he had found anybody else’s.
+Filch was at the great doors with his list and his lamp-eyed cat, checking every name against it twice, with the slow suspicion of a man who believed that every child in the school was smuggling something. He looked up as Lyra bore down on him, and found her name on the list with a speed that surprised them both.
 
 ⁂
 
@@ -106,17 +106,17 @@ Weasley and Granger were over by the window, filling an enormous paper bag from 
 
 The Three Broomsticks was the second surprise. It was hot and crowded and very loud, full of farmers and clerks on their afternoon off, exactly as she had been told, and she liked it at once, which was not at all what she had been told. Madam Rosmerta, who ran it, had a great many curls and a laugh that carried across the room, and she brought them three foaming tankards of butterbeer without being asked twice. Lyra had been warned that butterbeer was a children’s drink. It was hot and sweet and tasted of butterscotch and something warmer underneath, and it went down to the very ends of her fingers and toes, and she had finished the first tankard before Goyle had finished telling them about the sugar quills.
 
-She would have liked a second. She could hardly carry one about the village all afternoon. So she did the only reasonable thing, which was to buy two bottles from the bar, take them down to the post office, and have an owl fly them up to the castle addressed to herself. The postmistress looked at her as though she were mad. Lyra paid her twice the rate and did not explain. It was extravagant, certainly, but she had never understood what money was for if not for not having to carry things.
+She would have liked a second, and a Malfoy did not walk down a high street with a bottle in her hand. So she did the only reasonable thing, which was to buy two bottles from the bar, take them down to the post office, and have an owl fly them up to the castle addressed to herself. The postmistress looked at her as though she were mad. Lyra paid her twice the rate and did not explain. It was extravagant, certainly, but she had never understood what money was for if not for not having to carry things.
 
 Zonko’s Joke Shop was as stupid as she had expected, full of Dungbombs and Hiccough Sweets and Nose-Biting Teacups, a velvet box of silver rings that claimed to warm when the other’s wearer was in trouble, and a crowd of fourth-years buying things to throw at each other. Lyra stood by the door looking bored while Crabbe and Goyle went through the Dungbombs. In her experience Zonko’s sold nothing that worked properly.
 
-She looked for him, as well. She did not mean to. But she caught herself doing it in Honeydukes, and again in the Three Broomsticks, and again outside the post office, where she stood on the step for a good minute while Goyle bought stamps, and watched the crowd going up and down the high street for an untidy dark head without a hat. There were dozens of untidy dark heads. None of them was his. By the middle of the afternoon she had looked into every shop on the street and both of the side lanes, and she had not seen so much as a glimpse of him, and she began to feel, absurdly, as though she ought to be cross about it.
+She looked for him, as well. She did not mean to. But she caught herself doing it in Honeydukes, and again in the Three Broomsticks, and again outside the post office, where she stood on the step for a good minute while Goyle bought stamps, and watched the crowd going up and down the high street for an untidy dark head without a hat. There were dozens of untidy dark heads. None of them was his. By the middle of the afternoon she had looked into every shop on the street and both of the side lanes, and had not found him anywhere, and she began to feel, absurdly, as though she ought to be cross about it.
 
 Either he had lost his nerve and stayed in the tower like a sensible person, which she did not for one moment believe, or he was keeping out of sight, which was what she had told herself he ought to do. It was strange how little better that made her feel.
 
 The light went early, as it did at the end of October. The bell in the little church tower rang the hour and shopkeepers began to put their heads out of their doors to remind the students that it was time to walk back up to the castle. Lyra counted her money on the walk back up the lane, and stopped in the lane, and counted it again.
 
-She had spent three Galleons. It was not the sum that troubled her; she had spent more than that on a hair ribbon. It was that she had spent it a Sickle at a time, in a village, on sweets and butterbeer and a quill she had not wanted, without once noticing, like any ordinary girl on an ordinary weekend, and that she had enjoyed it.
+She had spent two Galleons and a handful of silver. It was not the sum that troubled her; she had spent more than that on a hair ribbon. It was that she had spent it a Knut here and a Sickle there, in a village, on sweets and butterbeer and a quill she had not wanted, without once noticing, like any ordinary girl on an ordinary weekend, and that she had enjoyed it.
 
 She put the purse away and said nothing about it to anybody.
 
@@ -124,7 +124,7 @@ She put the purse away and said nothing about it to anybody.
 
 The Great Hall had been done up for the feast while they were out. Hundreds of hollowed pumpkins floated under the enchanted ceiling with candles burning inside them, grinning down at the tables, and live bats swooped in clouds between the beams, and the ceiling itself had been made to match the weather outside, so that above it all the clouds were going by fast and dark and ragged with a half moon behind them. The food was extraordinary even by Hogwarts standards. Crabbe and Goyle, who had eaten their way down the entire high street, still found room for seconds.
 
-Her parcels came in with the pudding. The school owls brought them down in a long flapping procession, the two bottles of butterbeer, a large box from Honeydukes she had sent up to save carrying it, and a bag of Dungbombs that Crabbe had not been able to resist and had then not dared to carry past Filch. Several people at the Slytherin table looked impressed. Lyra unwrapped the butterbeer without seeming to notice them.
+Her parcels came in with the pudding. The school owls brought them down in a long flapping procession, a large box from Honeydukes she had sent up to save carrying it, the butterbeer, and a bag of Dungbombs that Crabbe had not been able to resist and had then not dared to carry past Filch. Several people at the Slytherin table looked impressed. Lyra unwrapped the butterbeer without seeming to notice them.
 
 And she looked, from under her lashes, at the Gryffindor table.
 
@@ -134,7 +134,7 @@ Something in her chest that had been clenched since breakfast let go, which was 
 
 Well. He had got away with it. That was the end of the matter.
 
-Back in the common room afterwards, she found the first- and second-years sitting in a gloomy cluster by the fire, the way children sit who have spent all day hearing about a treat they are not old enough for. Lyra put the Honeydukes box down in the middle of them and told them to share it properly or she would know. They fell on it as if they had not just eaten a feast, and one of the second-years told her she was the best Slytherin in the history of the school, and Lyra said that was very probably true, and sat down in her chair by the fire with a great sense of having been gracious.
+Back in the common room afterwards, she found the younger ones sitting in a gloomy cluster by the fire, the way children sit who have spent all day hearing about a treat they are not old enough for. Lyra put the Honeydukes box down in the middle of them and told them to share it properly or she would know. They fell on it as if they had not just eaten a feast, and one of the second-years told her she was the best Slytherin in the history of the school, and Lyra said that was very probably true, and sat down in her chair by the fire with a great sense of having been gracious.
 
 She found that she could not manage the butterbeer after all. She had eaten too much. She put a Preserving Charm on both bottles, which she was rather proud of being able to do, and set them on the mantelpiece for another day, and listened to Parkinson telling the fourth-years about a Fanged Frisbee he had nearly bought.
 
