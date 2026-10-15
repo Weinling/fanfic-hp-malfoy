@@ -31,9 +31,10 @@
     1. Cotejar con el coreano lo que falta de lo publicado: el 22 (resto del coreano 21 y el 22), el 23 (coreano 23), *Year One* 1 (coreano 18) y *Year One* 2 (coreano 24). En cada uno, mapear los ecos y hacer la revisión editorial antes y después con Opus, como del 13 al 21.
     2. Revisión de conjunto de todo lo publicado (`GUIA.md` §8), con un veredicto para el autor: qué subir, en qué orden y con qué nota.
     3. Lo no publicado, con más libertad (autor: «más creativos o fuertes»): *Year One* 3 y 4 y del 24 al 30, manteniendo lo que fija la continuidad y lo que necesita el 31.
-    2. no publicados, con más libertad: *Year One* 3 y 4, del 24 al 30.
 
     El 31 queda en espera mientras tanto.
+  - **15 de octubre, tras la compactación del cotejo:** el autor trae una crítica y revisión de lo hecho en el cotejo, con consejos, y pide que la revise alguien que lo haya leído todo: lo publicado sin revisar (888ff27), lo revisado y los capítulos futuros. Su ruta (`/tmp/claude-0/.../ef4eaf25-…/scratchpad/prompt-never-owe-revision.md`) es de otra sesión y no se puede leer desde esta: se le ha pedido que la pegue. **Antes de seguir con el 22 hay que valorar esa crítica.**
+  - Lectura hecha tras esta compactación: el estado, `GUIA.md`, `caps-02-11.md`, `caps-13-19.md` y `caps-19-21.md`, el handoff entero, todos los manuales (del 1 al 30 y *Year One* 1 a 4) y la continuidad transversal.
 - **Capítulo 29, *Every Ounce*** (coreano 32), **cerrado**: `borradores/cap-29-every-ounce.md` (~4.300 palabras). Lo que está hecho:
   - ficha aprobada por el autor;
   - escritura escena a escena;
