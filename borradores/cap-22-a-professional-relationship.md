@@ -308,7 +308,7 @@ Malfoy was coming across the stones. Harry and Lyra moved back carefully, out of
 
 Then Snape came along the shore out of the dark, and they watched that too.
 
-Lyra had thought it would be bad, hearing it from the outside. It was worse. Every word she had said came across the shingle at her small and clear and a little too high. *I caught Sirius Black.* The truth only doesn’t matter when there’s no way to find it out. *And that is what I’ve decided should happen.*
+Lyra had thought it would be bad, hearing it from the outside. It was worse. Every word she had said came across the shingle at her small and clear and a little too high. *I caught Sirius Black.* The truth only stops mattering when nobody can get at it. *And that is my decision.*
 
 Under the cloak, Harry’s hand found hers again, and held on to it, hard.
 

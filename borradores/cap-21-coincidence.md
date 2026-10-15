@@ -420,7 +420,7 @@ Lyra had seen enough. She went to the bedside table and kicked it, once, sharply
 
 The drawer knocked. Malfoy froze with the pillow in her arms. After a moment she put out a hand and opened the drawer, and took out the ring, and spoke to it in a voice Lyra had not known she had.
 
-“Oh, what. Did something knock you?”
+“What. Have *you* got something to say?”
 
 Then she looked round the empty room, very quickly, and began to draw the hangings round her bed—
 

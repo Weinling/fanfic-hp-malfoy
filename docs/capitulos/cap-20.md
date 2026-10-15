@@ -2,23 +2,24 @@
 - **Archivo:** `borradores/cap-20-which-way-to-look.md` · **Palabras:** ~4.185 · **Punto de vista:** Lyra · **Fecha(s) en la historia:** miércoles 2 de febrero de 1994, luna llena; del antes del toque de queda (hacia las 8 y media o 9) a bien entrada la noche (el «Come with me» es el momento que el 21 retoma) · **Estado:** sin publicar · **Coreano fuente:** 19, sin la escena de Ron
 
 ## Escenas
-1. **Dormitorio de Slytherin, una hora tras el beso.** Lyra, boca abajo, se golpea la almohada. Se dice «Why should *I* be the one who's rattled?». El cajón de la mesilla golpea solo: el anillo brilla. Cierra las cortinas del dosel, se lo prueba (índice, anular, y al final el dedo medio); se encoge a su medida y se pone **rojo** («the other wearer is in mortal danger»), luego **rosa** («in the company of their sweetheart»), y parpadea entre ambos. «Whatever colour it was, it was a reason to go.»
-2. **Sala común y despacho de Lupin.** Greengrass le avisa del toque de queda. Lyra recuerda el pergamino de Lupin; el despacho está abierto y vacío. Toma el **Mapa** (muestra pies con nombres, «Lyra Malfoy» en el centro) y la **capa** (huele a jabón), supone que Potter las dejó con Lupin. Cruza el vestíbulo bajo la capa; Filch dice «Peeves. Should've known». Fuera, el anillo da la dirección: más caliente hacia el Bosque. Ve un destello plateado. Piensa en Crabbe y el otro anillo.
+1. **Dormitorio de Slytherin, una hora tras el beso.** Lyra, boca abajo, se golpea la almohada. Se dice «Why should *I* be the one who's rattled?». El cajón de la mesilla golpea solo: el anillo brilla. Cierra las cortinas del dosel, se lo prueba dedo a dedo, como un guante, y lo deja en el medio; se encoge a su medida y se pone **rojo** («the other wearer is in mortal danger»), luego **rosa** («in the company of their sweetheart»), y parpadea entre ambos. «Whatever colour it was, it was a reason to go.»
+2. **Sala común y despacho de Lupin.** Greengrass le avisa del toque de queda. Lyra recuerda el pergamino de Lupin; el despacho está abierto y vacío. Toma el **Mapa** (muestra pies con nombres, «Lyra Malfoy» en el centro) y la **capa** (huele a jabón), supone que Potter las dejó con Lupin. Cruza el vestíbulo bajo la capa; Filch le dice a la señora Norris que sería Peeves; siempre es Peeves. Fuera, el anillo da la dirección: más caliente hacia el Bosque. Ve un destello plateado. Piensa en Crabbe y el otro anillo.
 3. **La cabaña de Hagrid.** Buckbeak, atado en el jardín trasero desde el Comité. Reverencia profunda de Lyra, silencio; ella dice «Please. There isn't time»; él se inclina. Lyra ríe, pide perdón por septiembre, y lo monta (prohibido «to be ridden by anyone», que ella misma pidió). Vuelan hasta la orilla del lago.
-4. **La orilla.** Cuatro cuerpos inconscientes (Potter, Granger, Weasley atado, Black desgarrado) y Pettigrew boca abajo. Un hombre lobo (Lupin) se levanta. Lyra reconoce el cráneo del trabajo de Snape y entiende que la **poción con huellas de rata** falló. Ataca, falla con *Expelliarmus*; Buckbeak lo espanta. «There'll be prime steak in it when we get back.» Lanza chispas rojas con *Periculum*.
+4. **La orilla.** Cuatro cuerpos inconscientes (Potter, Granger, Weasley atado, Black desgarrado) y Pettigrew boca abajo. Un hombre lobo (Lupin) se levanta. Lyra reconoce el cráneo del trabajo de Snape y entiende que la **poción con huellas de rata** falló. Ataca, falla con *Expelliarmus*; Buckbeak lo espanta. «There’ll be steak in it… The best I can find.» (le da las gracias). Lanza chispas rojas con *Periculum*.
 5. **Snape en la orilla.** Llega, engañado por una carta falsa del Ministerio. Ve a Black y quiere entregarlo a los dementores. Lyra: «Wait, sir. I caught Sirius Black.» Argumenta Veritaserum ante el Ministro; Snape acepta («Your father's daughter»). Los cuerpos de P, G y W flotan; atan a Black. Ella ve algo antiguo entre los dos. Al borde del bosque, Pettigrew ha desaparecido; no lo dice. Vuelve junto a Potter flotante.
-6. **El castillo y el cuarto lateral.** Dumbledore llega y le pide esperar en un cuarto. Entra Potter con arañazos, barro y el **giratiempo** colgando de una cadena dorada. «Malfoy. Come with me.» Ella dice que debería acostarse. «I'm going to face the Dementors… you need a happy memory… So come with me. So I can cast it.» Ella sabe que dirá que sí. **Final suspendido.**
+6. **El castillo y el cuarto lateral.** Dumbledore llega y le pide esperar en un cuarto. Entra Potter con arañazos, barro y el **giratiempo** colgando de una cadena dorada. «Malfoy. Come with me.» Ella le dice que estaba inconsciente hace una hora. «There are going to be Dementors… a Patronus has to have something happy to run on… So come with me. So I can cast it.» Ella sabe que dirá que sí. **Final suspendido.**
 
 ## Frases literales importantes
 - «Whatever colour it was, it was a reason to go.» (l. 49)
 - Mensajes del anillo: «Red: the other wearer is in mortal danger»; «Pink: the other wearer is in the company of their sweetheart» (ll. 39-43); morado = *On guard* (l. 151).
 - «Never again to be ridden by anyone» (l. 133)
 - «Wait. Sir. I caught Sirius Black.» (l. 223)
-- «The truth only doesn't matter when there's no way to find it out.» (l. 233)
+- «The truth only stops mattering when nobody can get at it.» / «And that is my decision.» (citadas en el 22)
 - «Your father's daughter.» (Snape, l. 239)
 - «She was becoming very good at saying nothing.» (l. 251)
 - «She had had her wand in her hand and him at her feet, and she had gone to Potter.» (l. 253)
 - «Malfoy. Come with me.» / «So come with me. So I can cast it.» (ll. 273, 287)
+- Los números de línea de esta lista ya no valen: el capítulo se retocó en el cotejo con el original (15 de octubre de 2026).
 
 ## Fichas (objetos y motivos)
 - **Anillos de Zonko's:** Lyra tiene el suyo (rojo, rosa, parpadeo, morado). Se lo pone en el dedo medio y se ajusta solo. El otro lo lleva Potter (se deduce que se lo dio Crabbe).

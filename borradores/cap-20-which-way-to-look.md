@@ -6,13 +6,13 @@ Every so often she put two fingers to her mouth, as though to make sure it was s
 
 It made no sense. That was what she kept coming back to. Potter did not do things that made no sense; he did things that made sense to Potter, which was not the same, but there was always a reason underneath, and she could not find this one. To stop her saying a word? He could have put his hand over her mouth. To make a fool of her? Nobody made a fool of anybody like that. For that long.
 
-She hit the pillow again with her fist and then, for variety, with her foot.
+She punched the pillow, and then, when that did not help, kicked the bedpost, which hurt.
 
 Then she sat up very straight and pushed her hair out of her face.
 
 “No,” she told the bed-hangings. “Why should *I* be the one who’s rattled?”
 
-A Malfoy did not lose her composure, anywhere, for anyone. Potter was very likely off with Granger this minute, hunting his rat without a care in the world, while Lyra lay about on her bed like a girl in one of Goyle’s magazines. It was absurd. It had been one kiss. Two, if you counted the train, and she did not intend to.
+Her mother had once sat through an entire dinner with the Minister for Magic’s soup in her lap and talked about roses. Somewhere in this castle Potter was very likely out with Granger, hunting his rat and not giving it a second thought, and here was that woman’s daughter, lying on her bed like a girl in one of Goyle’s magazines. It had been one kiss. Two, if you counted the train, and she did not intend to.
 
 She lay down again and put her face in the pillow.
 
@@ -22,15 +22,15 @@ The drawer of her bedside table knocked, once, sharply, as if something inside i
 
 Lyra lay with the pillow in her arms and listened. The dormitory was empty; she could hear Greengrass and Bulstrode through the ceiling, in the common room, arguing about Divination. Nothing else. She put out a hand and opened the drawer.
 
-The ring was lying where she had thrown it, among the hair ribbons and the spare quills, and it was glowing.
+The ring was lying where she had dropped it, among the hair ribbons and the spare quills, and it was glowing.
 
-“Oh, what,” said Lyra. “Did something knock you?”
+“What,” said Lyra to it. “Have *you* got something to say?”
 
 She looked at it. Then she looked round the empty room, picked it up very quickly, drew the hangings all the way round her bed, and sat inside them with the ring in her palm.
 
-She did not stop to ask herself why. Ten days ago she had not been able to look at it. Now she wanted, rather badly, to see how it looked on. It was plain and a little clumsy, but it was small, and it would suit her hand; most things did. She held it over her forefinger, and then over her fourth finger, and hesitated, and in the end put it on the middle one, which meant nothing at all.
+Ten days in a drawer had not improved it. It was plain and a little clumsy, the sort of thing one bought in Zonko’s when one was not paying attention. She held it up to the gap in the hangings. Then, since there was nobody to see, she tried it against her hand, finger by finger, the way one tries on gloves, and put it on the middle one, which was the one finger that meant nothing whatever.
 
-It shrank to fit with a small, cold squeeze. It looked wrong in the middle, too even; she would move it along one. She had her other hand on it to do so when it went red.
+It shrank to fit with a small, cold squeeze. She had just decided it looked absurd there, and was reaching to take it off, when it went red.
 
 It went a deep, hot, bloody red, and the metal against her skin went warm, and then warmer, like a stone that has lain all day in the sun.
 
@@ -42,25 +42,25 @@ Pink.
 
 *Pink: the other wearer is in the company of their sweetheart.*
 
-It was like having a bucket of lake water tipped over her head. She stood in the middle of the dormitory with one arm in her cloak and stared at her own hand, and the ring flickered—red, then pink, then red again—as though it could not make up its mind, and went on doing it.
+Everything in her went still and cold, like a room when somebody opens a door onto snow. She stood in the middle of the dormitory with one arm in her cloak and stared at her own hand, and the ring flickered—red, then pink, then red again—as though it could not make up its mind, and went on doing it.
 
-She had no idea what it meant. Possibly the thing was broken; Zonko’s sold nothing that worked properly. But she was quite sure of one thing.
+Possibly it was broken; Zonko’s sold nothing that worked properly. Possibly somebody was in mortal danger and with his sweetheart at the same time, which was exactly the sort of thing that would happen to Potter. It did not matter which.
 
 Whatever colour it was, it was a reason to go.
 
 ⁂
 
-“Lyra? Where are you going?”
+“You’re not going *out*?”
 
 Daphne Greengrass looked up from the hearthrug as Lyra came through the common room with her cloak on.
 
-“Out.”
+“I’ve left something in the library.”
 
-“It’s nearly curfew!”
+“The library’s *shut*. It’s ten to curfew.”
 
 Lyra stopped with her hand on the stone door.
 
-Greengrass was right, and that was the trouble. Potter had his ways of being anywhere he liked after dark; Lyra had none. In half an hour the corridors would be full of prefects, and Filch, and Filch’s cat, and she could hardly stroll past the lot of them and out of the front doors with her wand drawn.
+It was a fair point, and it was the whole difficulty. Potter, it seemed, could be anywhere he liked after dark. Lyra had prefects to think of, and Filch, and Filch’s cat, and the plain fact that a girl walking out of the front doors at curfew with her wand drawn was a girl who would be remembered.
 
 But two hours ago, in Professor Lupin’s office, there had been a sheet of parchment on the desk, covered in fine lines like the plan of a building, and he had kept glancing at it all the while he talked to her, as a person glances at a clock. If it was a plan of the castle, it would at least show her the back ways. And Lupin, with Snape’s potion inside him, would be nothing worse tonight than a sick man asleep by his own fire.
 
@@ -80,31 +80,29 @@ She knew what it was. She had seen it come off over Potter’s head in the snow 
 
 So he had left it here, with Lupin, for safe keeping. It smelled of soap and nothing else, as though somebody had washed it that very afternoon. Lyra decided she had not noticed that, put the cloak on, and looked at the map. *Argus Filch* was shuffling towards the Entrance Hall to lock the front doors.
 
-She ran.
+She ran, which she had not done indoors since she was seven, and found it was quite easy when nobody could see your face doing it. She reached the Entrance Hall just ahead of Filch, slipped past him while he was sorting through his keys, and hauled one of the great doors open. The hinges groaned.
 
-Ordinarily she would have died sooner than run in a corridor, but nobody could see her now. She reached the Entrance Hall just ahead of Filch, slipped past him while he was sorting through his keys, and hauled one of the great doors open. The hinges groaned.
+“Oi! Who’s that? Who’s at my door?”
 
-“Who’s that? Who’s there? Curfew in ten minutes and some little—”
+Filch glared straight through her. Lyra walked out past him at her leisure, and as the door swung to behind her she heard him inform Mrs Norris, very bitterly, that it would be Peeves. It was always Peeves.
 
-Filch glared straight through her. Lyra walked out past him at her leisure, and as the door swung to behind her she heard him mutter, “Peeves. Should’ve known.”
-
-Out on the steps, in the cold, she understood for the first time quite what Potter had been carrying about with him. A map that told you where everybody was, and every passage besides: no wonder he could turn up in Hogsmeade without a permission slip and never be seen by a single teacher. And a cloak that made you nobody. It explained so much of the last two years that it was very nearly insulting. It did not explain why, on the night of the Chamber, he had let her see him at all.
+Out on the steps, in the cold, she stood with the map in one hand and the cloak hanging round her like weather, and two years of puzzles fell quietly into place. Hogsmeade without a form. Hallowe’en. The Shack. Potter turning up wherever he was least wanted and never once being caught at it. She had credited him with a great deal of low cunning, and it turned out he had simply had better equipment. It did not explain why, on the night of the Chamber, he had let her see him at all.
 
 The slip in the box had said *which way to look*. Lyra held up her hand. The ring had stopped flickering. It was a steady, bloody red now, and when she turned towards the Forbidden Forest it grew warmer on her finger, and when she turned away it cooled.
 
 Crabbe was in the common room at this moment, doing her Charms homework with her tongue between her teeth. So Crabbe had given the other ring to somebody; and there was only one person Lyra could think of who would be out past the forest tonight, in mortal danger, with nobody knowing. She would deal with Crabbe later.
 
-Then, beyond the trees, there was a flash of white light—silver, rather, like a firework gone off sideways—and a ripple of it spread out across the dark and was gone.
+Then, beyond the trees, something went up like a silver lamp turned all the way up at once, and the light of it ran out over the water and was gone.
 
 It was in exactly the direction the ring was pointing.
 
-There was no more time to lose. If anything, there was not enough. Lyra started towards the forest and stopped. The forest at night was roots and stones and things that bit. Even with *Lumos* it would take her an age to get through it on foot, and her broom was locked in the changing rooms on the other side of the pitch.
+Lyra had taken four steps towards the forest before her head caught up with her feet. On foot? In the dark? Through *that*? She would arrive in time for the funerals. Her broom was locked in the changing rooms on the other side of the pitch, which tonight might as well have been France.
 
 Then she saw Hagrid’s hut.
 
 ⁂
 
-The hippogriff had been confined since the Committee came, at the end of September. He could not be turned loose with the others, so Hagrid kept him tethered in the garden behind the hut and walked him in the evenings, and he was there now, lying in the frost at the end of a long rope, looking entirely unbothered about it.
+The hippogriff had not been allowed to run with the others since the Committee came, at the end of September. He lived on a long rope in the garden behind the hut now, and Hagrid walked him in the evenings, and he was there tonight, lying in the frost at the end of his rope with the air of a duke under house arrest who had never once considered himself disgraced.
 
 Lyra shoved the cloak and the map down inside her robes and went round the back of the hut.
 
@@ -116,49 +114,49 @@ The great head turned. The orange eyes found her. She took a breath, took hold o
 
 When she straightened up, Buckbeak was looking at her down the length of his beak with no expression whatsoever.
 
-All that, to a farm animal, and that was the face it gave her. For a second she was so angry she could have hexed him. Then she looked at her hand, at the red ring, and swallowed it.
+Lyra Malfoy had curtsied to that, and that had not been impressed. It was an entirely new experience and she disliked it very much. She would have told him so, at length, if the ring on her finger had not been burning red.
 
-“Please,” she said. “There isn’t time.”
+“Please,” said Lyra, which was not a word she used to animals. “I’m in a hurry.”
 
-Buckbeak looked at her a moment longer. Then he got to his feet, unfolded his wings a little way, bent one scaly knee and lowered his head, slowly and with great ceremony, exactly like a courtier in a portrait.
+Buckbeak looked at her a moment longer. Then he got to his feet, unfolded his wings a little way, bent one scaly knee and lowered his head, as gravely as an ambassador accepting an apology.
 
 Lyra laughed out loud.
 
-“I take back everything I said about you in September. You’re a very well-mannered animal, for a—”
+“Well. Your manners are better than half my House’s. For a—”
 
 Buckbeak snorted, and the snort had a sharp edge on it.
 
-“For a very handsome, very well-mannered gentleman,” said Lyra hastily, “and I was joking,” and she went and untied the rope.
+“For a *gentleman*,” said Lyra hastily. “Obviously. I meant for a gentleman,” and she went and untied the rope.
 
 *Never again to be ridden by anyone*, the Committee had said. She had asked for that herself.
 
 It took her two tries to get up. Then the wings went out on either side of her, wider than she had imagined, and the ground fell away.
 
-It was nothing like a broom. Every beat of the wings threw her up and dropped her down again, and she had to lie flat along his neck and hold on to the feathers with both hands. But she was not crawling through the forest on her knees, and that was enough. Below her the trees were only a texture in the dark. She found the shore of the lake, where the light had been, and pointed.
+A broom went where you pointed it. A hippogriff went where he pleased, and every stroke of those wings came up through his back and into her teeth. She lay flat along his neck with her fists in his feathers and her eyes streaming, and did not mind in the least, because below her the forest she would have been stumbling through went by in one long black rush. She found the shore of the lake, where the light had been, and pointed.
 
 “There!”
 
-Buckbeak went towards it as though he had understood every word.
+Buckbeak tipped one wing and went, without being asked twice.
 
-The moon was enormous, but under the trees it was as black as a cellar, and if he came down too soon she would never see the branches. Hippogriffs, they said, could see in the dark. She held on and trusted him. When the shore came close she pressed gently on his back, and he began to come down, and landed on the shingle at the water’s edge, and Lyra slid off him in a heap.
+The moon was full and enormous over the water. When the shore was under them she leaned her weight forward, which was a guess, and it turned out to be the right one: he dropped, and his feet struck the shingle at the water’s edge, and Lyra came off him in a heap.
 
 “*Lumos*.”
 
 The light went out over the shore. There were people lying on the stones, several of them, very still, and one of them was just getting up.
 
-“Potter?” Lyra called. “Are you all right?”
+“Potter?” Lyra called. “Potter, is that you?”
 
-The ring changed colour. Purple. *On guard*. That was a long way better than mortal danger. Whatever it was, it seemed to be over, or else it had stopped the moment she arrived; and she went towards the figure with her wand raised, feeling a great deal steadier.
+The ring changed colour. Purple. *On guard*. After *mortal danger* it sounded almost restful. She went towards the figure with her wand up and her heart coming down out of her throat.
 
-“So much for not needing my help. Look at you all, lying about in the mud like a lot of—”
+“I thought I wasn’t *needed*. If this is how you all manage without me—”
 
 Something growled.
 
 Lyra stopped where she was.
 
-The figure that had got up was not a person. It was thin, so thin that the bones of its spine stood up under the fur, with long forelegs and long claws, and a head that was shaped like a wolf’s and was not a wolf’s, because the muzzle was too short and the eyes were too nearly human. She had copied a skull very like that one off Snape’s blackboard, in November, and labelled it in her neatest hand.
+The figure that had got up was not a person. It was a long, starved shape with its spine standing up under the fur like a row of knuckles, and claws on its forefeet, and a head that a careless person might have called a wolf’s. Lyra had not been careless. She had copied that skull off Snape’s blackboard in November, the snout a shade too short, the eyes a shade too far forward, and labelled it in her neatest hand.
 
-Over its shoulder, the full moon lay on the surface of the lake.
+Behind it, on the black water, the full moon lay perfectly still.
 
 “Professor,” said Lyra, in a voice that did not sound like hers. “Professor Lupin?”
 
@@ -168,19 +166,15 @@ It came at her.
 
 “*Ex—Expelliarmus!*”
 
-Her hand was shaking. The spell went wide. The creature came on, faster, and Lyra heard herself scream and threw her arms over her head and crouched—
+Her hand was shaking. The spell went off into the dark somewhere to the left. The creature came on, faster, and Lyra heard a girl scream, and found it was her, and went down with her arms over her head—
 
 There was a crack of wings, and a shriek, and a howl of pain that was nothing like hers.
 
 She looked up. Buckbeak had reared over her with his forelegs raised and his wings spread, and he struck again as she watched, and the werewolf yelped and backed away; and when the wings beat once more, it turned and fled into the trees.
 
-Lyra stayed crouched on the shingle for a moment. Then she got up and brushed down her robes.
+Lyra uncurled. Buckbeak was standing over her with his wings half open, looking into the trees where the thing had gone, as though inviting it to come back and try again.
 
-“You helped me,” she said.
-
-Buckbeak ruffled his feathers and looked away, as though it had been nothing to speak of.
-
-“Well,” said Lyra. “Very creditable. I commend you. There’ll be prime steak in it when we get back.”
+“Well,” said Lyra, and got up, and found her knees were not entirely to be relied on. She brushed down her robes, because it gave her hands something to do. “That was very— That was most— Thank you.” He did not seem to require anything further. “There’ll be steak in it,” she told him. “When we get back. The best I can find.”
 
 She raised her wand again and went among the people on the stones.
 
@@ -192,7 +186,7 @@ She looked away from him and went to Potter.
 
 “Potter? Potter. Are you alive?”
 
-He did not stir. She knelt and held a finger under his nose, which was undignified and necessary, and felt his breath on it, faint and even. Alive, then. But he was not waking up, and nor were any of the others, and she could not get four people back to the castle on one hippogriff.
+He did not stir. She knelt and held a finger under his nose, which was undignified and necessary, and felt his breath on it, faint and even. Alive, then. But he was not waking up, and nor were any of the others, and there were four of them and one hippogriff, who had already done a great deal more than could be asked of him.
 
 She stood up and pointed her wand at the sky.
 
@@ -210,39 +204,39 @@ Somebody was coming along the shore out of the dark. Lyra swung her wand round, 
 
 Snape looked at the hippogriff, and then at the grey feathers stuck to the front of her robes, and said nothing about either of them. That was worse than anything he could have said.
 
-“Somebody sent me a letter. The Ministry required me this evening, it said.” He spoke very quietly. “The Ministry had never heard of it. When I find out who—” He stopped, and lifted his wand, and his face changed again, into an expression she had never once seen on it: plain, unguarded pleasure. “But this, I think, makes up for a good deal. Well done, Lyra.”
+“I was summoned to the Ministry this evening. By letter.” He spoke very quietly. “I waited an hour in an empty corridor before anybody would admit to having sent it. Nobody had.” He stopped, and lifted his wand, and his face changed again, into an expression she had never once seen on it: plain, unguarded pleasure. “But I see the evening has not been wasted after all.”
 
 He walked towards Sirius Black, slowly, the way one walks towards something one has wanted for a very long time.
 
-“Sirius Black,” said Snape. “The Dementors will be delighted. I shall hand him over myself. They can give him the Kiss here on the shore, and save the Ministry the trouble of a cell.”
+“There are a hundred Dementors at the gates of this school,” said Snape softly, “and they have been hungry for a very long time. I think we need not trouble the Ministry for a cell.”
 
 Lyra’s mouth went dry.
 
-Black was Potter’s. Lyra had sat across from him in the Shrieking Shack and heard the truth from his own mouth, and she had taken Potter’s side, whatever Potter thought of it. But Snape did not know that. Snape had been a Death Eater, and he thought she was on his side, and nothing she could tell him about Peter Pettigrew would move him an inch; it would only tell him things about her that she could not afford for him to know.
+Black was Potter’s. She had sat across from him in the Shrieking Shack and heard the truth from his own mouth, and she had taken Potter’s side, whatever Potter thought of it. But she could hardly say so to a man who had once worn a mask, and who still thought, as far as she knew, that she had been brought up to wear one too. She could not tell him about a rat without telling him how she came to know about rats. Whatever she said now would have to be something Professor Snape wanted to hear.
 
 “Wait,” she said. “Sir. I caught Sirius Black.”
 
 Snape turned his head. “I beg your pardon?”
 
-“I found them first. I called you. If anybody has the right to decide what happens to him, it’s me.”
+“I found him. I sent up the sparks. I should like some say in what becomes of him, sir. I think I’ve earned that.”
 
 Snape looked at her for a long moment. Then he shook his head, slowly, and spoke to her quite gently, as he had spoken to her once in his office.
 
 “Lyra. Did I not tell you? What a man meant matters a great deal less than people like to believe. What matters is what came of it. Black is a traitor, whichever way you turn him.”
 
-“The truth only doesn’t matter when there’s no way to find it out,” said Lyra. “There is now. You’ve got Sirius Black alive, with the whole of it inside his head, and you want to give him to a Dementor before anyone’s asked him a single question? Take him up to the castle. Use Veritaserum. Find out.”
+“The truth only stops mattering when nobody can get at it,” said Lyra. “Somebody can, now. You’ve got Sirius Black alive, with the whole of it inside his head, and you want to give him to a Dementor before anyone’s asked him a single question? Take him up to the castle. Use Veritaserum. Find out.”
 
 Snape’s fingers went to his chin. She watched him turn it over, and she saw the moment he found what was in it for him: Sirius Black under Veritaserum in front of the Minister for Magic, confessing every word, and the man who had brought him in standing at his elbow. The Dementors would have him in the end either way. This way, everybody would watch.
 
-“And that is what I’ve decided should happen,” said Lyra, in the voice her father used on shopkeepers. “So please, sir. Bring them up to the castle.”
+“And that is my decision,” said Lyra, in the voice her father used on shopkeepers. “So if you would, sir. The castle.”
 
-“You have decided.” Snape looked down at her, and for a second she thought she had gone too far. Then one corner of his mouth moved, very slightly. “Your father’s daughter. Very well. There is no hurry, after all. The Dementors will keep.”
+“Your decision.” Snape looked down at her, and for a second she thought she had gone too far. Then one corner of his mouth moved, very slightly. “Your father’s daughter. Very well. There is no hurry, after all. The Dementors will keep.”
 
 He raised his wand, and Potter and Granger and Weasley rose off the shingle and hung in the air; and at a second flick, ropes came out of nowhere and bound Black from his shoulders to his knees, and pulled tight, and went on pulling, until they bit. Snape watched them do it. It was very hard to read anything in his face, but she could read that.
 
-There was something between those two, something old. Lyra would have liked very much to know what. She did not ask; she had things of her own to hide just then.
+Whatever lay between those two was older than she was, and she would have given a good deal to know it. Tonight she did not ask. She had hippogriff feathers down her front and a dead man’s name in her head, and she was in no position to ask anybody about their secrets.
 
-“Come,” said Snape. “Keep behind me.”
+“Stay close,” said Snape.
 
 At the edge of the trees she looked back.
 
@@ -252,15 +246,15 @@ Lyra opened her mouth, and shut it again. She could hardly tell Snape that Peter
 
 She had had her wand in her hand and him at her feet, and she had gone to Potter.
 
-On the way back through the forest, by chance or not, Potter floated along at her elbow, laid out flat in the air with one arm hanging down. She had thought that saving somebody’s life would make her feel a good deal more superior than this. It did not. He looked like something carried out of a house after a fire.
+On the way back through the forest, by chance or not, Potter floated along at her elbow, laid out flat in the air with one arm hanging down and his fingers trailing through the bracken. Lyra had pictured, once or twice, the day she saved Potter’s life. In the picture he had been awake for it.
 
-She walked beside him with her mouth shut all the way up to the castle.
+She walked the rest of the way with her hand an inch from that trailing arm, and did not touch it.
 
 ⁂
 
-The castle went mad.
+By the time they reached the Entrance Hall, the castle had woken up.
 
-Three students unconscious; Sirius Black, roped and floating, delivered to the Entrance Hall like a parcel; Professor Snape, and Lyra Malfoy at his heels. Professor Dumbledore came back from wherever he had been, in a great hurry, and Snape told him what had happened in the worst possible light for Black, and Dumbledore listened to all of it and then looked at Lyra over the top of his spectacles—the long, light look he had not given her on the muddy pitch in November—and asked her, very courteously, if she would mind waiting a little while in a side room.
+Three students out cold, floating in a row; Sirius Black, trussed and towed like a parcel nobody had signed for; Professor Snape with the face of a man arriving at his own coronation, and Lyra Malfoy at his heels with feathers on her robes. Professor Dumbledore came back from wherever he had been, in a great hurry, and Snape told him what had happened in the worst possible light for Black, and Dumbledore listened to all of it and then looked at Lyra over the top of his spectacles—the long, light look he had not given her on the muddy pitch in November—and asked her, very courteously, if she would mind waiting a little while in a side room.
 
 She did not know what he wanted. She went.
 
@@ -272,18 +266,16 @@ It was Potter. He had scratches all down one side of his face and mud on his kne
 
 “Malfoy,” he said. “Come with me.”
 
-“What?” She looked him up and down. An hour ago he had been laid out on the shore like a corpse, and now here he was giving orders. “You ought to be lying down. Go and eat some chocolate and go to sleep. I’m not going anywhere with somebody who can barely stand.”
+“What?” She looked him up and down. “You were *unconscious*. An hour ago. I walked next to you. You ought to be in the hospital wing being given chocolate by the pound, not wandering about giving people orders.”
 
-“I can’t. I’ve got to go now.” He took a step into the room. “With you.”
+“No time. It has to be now.” He took a step into the room. “With you.”
 
-It made no sense whatever. On any other night she would have told him so.
+On any other night she would have laughed at him. But he had said *with you*, and he was looking at her as he had never looked at her before, not even in the Shack: like somebody who had already been where he was asking her to go, and come back.
 
-But *with you* made her want to hear the next part. And he looked more serious than she had ever seen him look, more serious than in the Shack, as though he had already been somewhere and come back.
+“There are going to be Dementors,” said Potter, as calmly as if he had read it on a timetable. “A lot of them. The only thing that stops them is a Patronus, and a Patronus has to have something happy to run on.”
 
-“I’m going to face the Dementors,” said Potter, quite calmly, the way you might mention something that had already happened. “There’s only one thing that works on them. A Patronus. And for that, you need a happy memory.”
-
-Lyra had heard of it. She had read about it. She had never seen anybody her age do it, except once: in November, in the storm, high over the pitch, a small silver creature tearing away across the sky, with her hand knotted in his robes and his hand over hers. She felt a small, mean prick of envy, and opened her mouth to ask what any of this had to do with her—
+Lyra knew what a Patronus was. She had read about them in a book on one of her father’s high shelves, and once, in November, she had seen one: high over the pitch, in the storm, a small silver creature tearing away across the sky, with her hand knotted in his robes and his hand over hers. She opened her mouth to ask what that had to do with her—
 
 “So come with me,” said Potter. “So I can cast it.”
 
-She would make him wait for it, of course. She would look him up and down and consider him, and make a great many remarks, and at last agree, as though she were doing him an enormous favour; she could feel all of that lining up already. But however long she made him wait, and whatever she said while she did it, there had never been any question about the answer. It had been settled the moment he said *with you*.
+She would make him wait for it, naturally. She would raise her eyebrows at the scratches on his face, and say something about Gryffindors and their sense of occasion, and agree at last as though she were doing him the greatest favour of his life. She could feel all of it lining up in her already, word by word. None of it would make the slightest difference, and they both knew it. He had said *with you*.
