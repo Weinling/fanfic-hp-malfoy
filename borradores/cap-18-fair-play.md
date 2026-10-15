@@ -2,37 +2,37 @@
 
 For the next fortnight Potter seemed to be in two places at once, and Lyra kept seeing him in both.
 
-He was on the pitch in the mornings with the Gryffindor team, on a school broom that Lyra would not have lent to a first-year, and in the library in the afternoons with his nose in a book he could not possibly be reading, and in between, every single day, he and Granger went off somewhere together, as regularly as a lesson. Twice Lyra had happened to be going the same way, purely by chance, and both times she had looked away for no longer than it took to blink, and when she looked back the corridor had been empty. Nobody could Apparate inside Hogwarts. Everybody knew that; it was in *Hogwarts: A History*, which Granger had presumably learned by heart. Lyra had gone along the wall afterwards, tapping stones and feeling a fool, and found no secret passage anywhere. There was a simpler explanation, silvery and folded, and she had seen it come off over his head in the snow at Hogsmeade. She declined to have it.
+He was on the pitch in the mornings with the Gryffindor team, on a school broom that Lyra would not have lent to a first-year, and in the library in the afternoons with his nose in a book he could not possibly be reading, and in between, every single day, he and Granger went off somewhere together, as regularly as a lesson. Twice Lyra had happened to be going the same way, purely by chance, and both times she had stopped to do up a shoe that did not need it, and straightened, and found the corridor empty. Nobody could Apparate inside Hogwarts; it was in *Hogwarts: A History*, which Granger had presumably learned by heart. Lyra had gone along the wall afterwards, tapping stones with her wand and feeling a fool, and the wall had stayed a wall. There was a simpler explanation, silvery and folded, and she had seen it come off over his head in the snow at Hogsmeade. She declined to have it.
 
 She could not ask anybody about it. To ask was to admit that she had been following him, and she would sooner have eaten a Flobberworm. So she did not ask, and the not-asking sat in her chest all fortnight, because whatever it was, it was about *Potter*, and Potter had made it perfectly plain what he thought of her being in his business.
 
-So she stopped. She took everything she could not name and packed it away tightly, as one packs away winter clothes at the end of March, and sat on the lid; and then she went back to being the Lyra Malfoy everybody had known in first year, because that one had never had any trouble at all.
+So she stopped. She took everything she could not name and packed it away tightly, as one packs away winter clothes at the end of March, and sat on the lid. There had been a Lyra Malfoy in first year, the one everybody had known, before the train and the hippogriff and the Shack, and that one had never once had trouble sleeping. Lyra put her back on like a good coat.
 
-“Do you practise standing in doorways,” she said to the knot of Hufflepuffs blocking the entrance to the Great Hall on Monday morning, “or does it come naturally to your House?”
+“Excuse me,” she said to the knot of Hufflepuffs blocking the entrance to the Great Hall on Monday morning. “Some of us have had breakfast before. We know where it is.”
 
-The Hufflepuffs turned round, indignant, saw who it was, and went in very quickly without a word. Lyra swept past them and down the Slytherin table, and somebody near the end actually clapped.
+The Hufflepuffs turned round, opened their mouths, saw who it was, and shut them again. Lyra swept between them and down the Slytherin table, and somebody near the end actually clapped.
 
 “*There* she is,” said Montague.
 
-“Somebody has to say something to them,” said Lyra, sitting down. “They go about in herds.”
+“If you don’t tell them,” said Lyra, sitting down, “they stand there till lunch.”
 
-It was very restful. Nobody at the Slytherin table knew quite what had happened to her since September, when she had started laughing at things and forgetting to be cutting, and nobody had liked to ask; but they knew this Lyra, and they settled round her with something like relief. A few of them, she suspected, rather missed the other one. None of them was brave enough to say so.
+It was very restful. Nobody at the Slytherin table knew quite what had happened to her since September, when she had started laughing at things and forgetting to be cutting, and nobody had liked to ask; but they knew this Lyra, and they settled round her as people settle into a chair they have had for years. If anybody preferred the other one, they kept it to themselves, which was the most sensible thing she had seen a Slytherin do all term.
 
 Parkinson had no such difficulty.
 
-“Told you,” he was telling anybody who would listen, for the third day running. “Didn’t I tell you? There was never anything in it with Potter. Never.”
+“Told you,” he was telling anybody who would listen, for the third day running. “Didn’t I say? Never anything in it with Potter. *Never*.”
 
 Crabbe and Goyle, who knew rather more about it than Parkinson did, were kinder, which was worse.
 
-“Don’t mind him, Malfoy,” said Goyle. “That thug was always going to land himself in it sooner or later.”
+“You’re better off,” said Goyle, buttering a crumpet with great firmness. “He’s a menace. Everybody says.”
 
-“They say he and Granger go round looking for a rat,” said Crabbe. “Under things.”
+“He and Granger are hunting for a rat,” said Crabbe. “Somebody saw them looking under a suit of armour.”
 
-Lyra shut her book with a snap.
+Lyra turned a page.
 
-“Are we going to talk about Gryffindors all through breakfast? Because I can think of nothing duller. Gryffindors doing something pointless is hardly news.”
+“If Potter wants to spend his evenings under the armour, he is very welcome to them. Could we possibly talk about something that matters? Quidditch, for instance.”
 
-“Oh—no, course not,” said Goyle hastily. “Did you hear about Derrick? He says Hufflepuff have been practising every single night since we beat Gryffindor. He says they’re *terrified*.” She considered. “And Diggory’s their captain. He’s ever so good-looking. For a Hufflepuff, I mean.”
+“Oh—Quidditch, yes,” said Goyle, relieved. “Derrick says Hufflepuff have practised every night since November. He says you can hear Diggory shouting from the owlery.” She considered. “He’s got a nice face, Diggory. For a Hufflepuff.”
 
 Lyra let them talk. It was easier than listening to Parkinson.
 
@@ -48,23 +48,19 @@ Crabbe took it off her and opened it. Two silver rings sat in the slot inside, p
 
 Lyra knew perfectly well what it said. *Worn by two, each ring will warm when the other’s wearer is in trouble, and show by its colour how they fare, and which way to look.* She had read it in Zonko’s in October, standing by the door looking bored, while Crabbe tried to choose between two sorts of Dungbomb; and then, while Crabbe was paying, she had gone back and bought the box, and pushed it into the parcel she was sending up by owl, between the two bottles of butterbeer and the Honeydukes box, and had not looked at it since, or counted it with the rest of what she had spent that day. She could not think now what she had been expecting. She would never have given one to anybody. She had known that in the shop.
 
-“What do you want doing with these, Malfoy?” said Crabbe.
+“Shall I put them back?” said Crabbe.
 
-“Bin them.” Lyra turned a page she had not read. “I only bought them to see if they worked. They come in twos, and there are three of us. There’s no point.”
-
-“Bin them? Really?”
-
-“It isn’t as if there’s anybody else to give one to.”
+“Give them to Millicent.” Lyra turned a page she had not read. “I only bought them to see whether they worked, and I’ve never got round to finding out. It hardly matters. One can’t wear a pair of rings on one’s own.”
 
 Crabbe turned the box over in her hands.
 
-“Can I have them, then?”
+“Can I keep them, then? If you don’t want them.”
 
-“Do as you like.”
+“Keep what you like.”
 
 Crabbe went out with the box at a brisk trot, towards the common room. Lyra read the same paragraph three times and gave it up. When she looked up again, one ring was lying on the end of her bed, on the green coverlet, where Crabbe had been sitting.
 
-Crabbe had taken one. Only one. Lyra could not imagine what anybody wanted with half a pair.
+Crabbe had taken one and left one. Lyra could not imagine what she meant by it, and was not going to ask.
 
 She picked it up—it was cold, and plain, and weighed almost nothing—and dropped it into the drawer of her bedside table, and shut the drawer harder than it needed.
 
@@ -78,31 +74,31 @@ Hufflepuff were supposed to be the easiest side in the school. They had Diggory,
 
 Flint and Diggory shook. Then Diggory, instead of going back to his team, came across the frosty grass to Lyra and held out his hand to her as well, with a pleasant, open smile that made a number of girls in the stands say *ooh*.
 
-“Malfoy. First time we’ve played each other, isn’t it? Good game.”
+“Malfoy. I’ve been looking forward to this.”
 
 Lyra looked at the hand, and then shook it, briefly, with her glove on.
 
-“Do try,” she said.
+“How nice for you,” she said.
 
 He went on smiling. Behind her she could feel the Slytherin team bristle like a hedge.
 
-Madam Hooch blew her whistle, and fourteen players went up into the white sky.
+The whistle went, and fourteen players went up into the white sky.
 
 Lyra climbed high and wide, as she always did, and began the long slow circuit of the pitch with her eyes narrowed against the glare, looking for gold. She had gone perhaps a third of the way round when she became aware that Diggory was flying beside her, a broom’s length off her left shoulder, at exactly her height and exactly her speed, as though somebody had tied them together.
 
 She dropped twenty feet. So did he. She swung away towards the Hufflepuff goals and came back hard, and he was there when she came back.
 
-“Get out of my way.”
+“Is there something you want?”
 
-“Sorry,” said Diggory, and sounded as if he meant it. “Can’t, I’m afraid. You lot beat Gryffindor by such a lot, you see. We’ve got to make up the points somehow.”
+“Sorry,” said Diggory, and sounded as if he meant it. “It’s nothing personal. Well. It’s a bit personal.”
 
-“By marking the other Seeker? If you want to win, Diggory, I’d go and find the Snitch before we’re a hundred and fifty up.”
+“The Snitch is generally found by looking for it, Diggory, not by looking at me.”
 
-“Oh, I’m not marking the Seeker,” said Diggory. “I’m marking *you*. Whoops—”
+“Oh, I’m not looking for the Snitch yet,” said Diggory. “I’m looking at *you*. Whoops—”
 
 A Bludger came at him hard. Derrick had seen him, and seen what he was doing, and taken it personally. Diggory rolled under it so neatly that it might have been rehearsed, and was back at Lyra’s shoulder before it had finished going past.
 
-She would never have said so aloud, but he was very good. She feinted twice and he fell for neither; she dived and he dived with her, and pulled out a foot lower, and smiled at her as he came up. And all the while the Bludgers kept coming at him, from Derrick and then from Bole and then from Derrick again, because the Slytherin Beaters had decided that anybody bothering Lyra Malfoy was fair game, and Diggory slid round every one of them.
+She would never have said so aloud, but he was very good. She feinted twice and he did not so much as twitch; she dived and he dived with her, and pulled out a foot lower, and smiled at her as he came up. And all the while the Bludgers kept coming at him, from Derrick and then from Bole and then from Derrick again, because the Slytherin Beaters had decided that anybody bothering Lyra Malfoy was fair game, and Diggory went through them as if he had been given the times in advance.
 
 Madam Hooch’s whistle shrieked.
 
@@ -112,19 +108,19 @@ Bole had given up on the Bludger and gone for Diggory with his broom. Hufflepuff
 
 Diggory shrugged at her.
 
-“Everybody wants to knock the pest off the princess,” he said. “Can’t blame them. Does wonders for their concentration, though.”
+“Everybody wants to knock the pest off the princess,” he said. “You can’t blame them. Mind you, it isn’t doing much for their aim.”
 
 “You’re *using* me—”
 
-“Heard you fell out with Potter?”
+“Is it true about you and Potter? That it’s off?”
 
 There it was. She had heard it so often in the last month that it no longer surprised her; it simply arrived, like the post.
 
-“Potter and I fell out on the day we met,” said Lyra. “It’s hardly news.”
+“There was never anything to be off,” said Lyra. “We’ve loathed each other since we were eleven. Ask anybody.”
 
-“So I hear.” He glanced round the stands, pleasantly, as if counting the house, and dropped a foot to let another Bludger go over his head. “I’d be lying if I said I wasn’t curious, mind.”
+“I did. They all said something different.” He glanced round the stands, pleasantly, as if counting the house, and dropped a foot to let another Bludger go over his head. “Makes a person wonder.”
 
-Then she understood it, all of it, and could have screamed. It was a Slytherin trick, played by a Hufflepuff. Slytherin played together beautifully against Gryffindor, because they hated Gryffindor more than they disliked one another; against anybody else they were seven people who each believed themselves the most important person in the air. Diggory had only to hang about the most important of them, looking charming, and let the other six do the rest. Already both Beaters were off their wings, hunting him, and Flint was bellowing at them from the far end of the pitch—
+Then she understood it, all of it, and could have screamed. It was a Slytherin trick, played by a Hufflepuff. Lyra knew her own House. Give it Gryffindor to hate and it would fly like one animal; give it anybody else and it remembered that every one of its seven players had been brought up to think himself the only one who mattered. Diggory had only to hang about the one they would all look at, being charming, and let the other six do the rest. Already both Beaters were off their wings, hunting him, and Flint was bellowing at them from the far end of the pitch—
 
 “*Back in position!* The *Chasers*, you great trolls, mark the *Chasers*—”
 
@@ -138,21 +134,21 @@ She looked down at the hand on her arm.
 
 “Hands off, Diggory.”
 
-“You nearly came off.”
+“That was going to take your head off.”
 
-“I would sooner come off than be held by you. And a Bludger like that would never have unseated me.” She shook him off, hard. “Don’t touch me.”
+“Then it would have been my head.” She shook him off, hard. “Nobody asked you.”
 
-Diggory drew back, still friendly. “Touchy. You held on to Potter well enough last match.”
+Diggory drew back, still friendly. “Funny. Didn’t look like anybody asked you, either, last match. Up there with Potter.”
 
 Her hands tightened on the broom handle.
 
 “There is a difference,” said Lyra, “between a favour I do and a liberty you take.”
 
-“I suppose there is.” He tilted his head. “Still, you reached for him first. Didn’t you? Everyone’s heard.” And then, quite gently, as if he were sorry about it: “Maybe Potter doesn’t feel a thing. Maybe it’s only you.”
+“I suppose there is.” He tilted his head. “Only the whole school’s heard which of you grabbed which. And Potter’s been going round with Granger ever since.” And then, quite gently, as if he were sorry about it: “Maybe Potter doesn’t feel a thing. Maybe it’s only you.”
 
 She hit him. She swung the Nimbus round and drove it into his broom side-on with everything it had, and Diggory grunted and went spinning away across the sky, head over heels, and the crowd roared, and somewhere below Madam Hooch’s whistle was going like a kettle.
 
-She had never told a living soul what she thought of Potter. She had barely told herself.
+Nobody had ever heard her say what she thought of Potter, because she had never said it. She had not even said it to herself.
 
 “*Don’t you dare*,” she shouted after him, “*tell me what I feel!*”
 
@@ -172,15 +168,15 @@ She saw it a second too late: a wink of gold, low down by the Hufflepuff stand, 
 
 It was the worst beating Slytherin had taken in living memory, and the whole school had watched it.
 
-Lyra shook off Flint, who wanted to shout, and Montague, who wanted to explain, and Crabbe and Goyle, who wanted to put their arms round her, and went up into the castle by the back way, alone. She climbed until the noise was gone. Then she sat down on a step halfway up a staircase nobody used, in her Quidditch robes, with her broom across her knees. It was not a dignified thing to do, and she did it anyway.
+Lyra shook off Flint, who wanted to shout, and Montague, who wanted to explain, and Crabbe and Goyle, who wanted to put their arms round her, and went up into the castle by the back way, alone. She climbed until the noise was gone. Then she sat down on a step halfway up a staircase nobody used, in her Quidditch robes, with her broom across her knees, like a stable boy waiting to be sent for.
 
-It was all mixed up together and she could not get it apart: Potter and Granger vanishing round corners, and Diggory’s pleasant voice, and the stands booing, and the Snitch a yard away, and *maybe it’s only you*. She had been pushed about like a counter on a board in front of the entire school, and the thing she had been pushed with was Potter; and if one Hufflepuff could do it, then anybody could, and now they would all know exactly where to push.
+It was the being *moved* she could not stand. She had been slid about the sky like a counter on a board, in front of the entire school, and the hand that had moved her was a Hufflepuff’s, and the thing he had moved her with was Potter. If one Hufflepuff had found the handle, anybody could; and after today they would all know exactly where it was.
 
 Her eyes were stinging. She shut them.
 
 She had cried once already this year, in the Shrieking Shack, and called it rain; the hippogriff did not count. She was not going to do it twice, and certainly not over Quidditch. She sat with her eyes shut and her jaw set and breathed, in and out, slowly, until the stinging in her nose went down. It took about a minute. Then she opened her eyes.
 
-There was a handkerchief on the step beside her.
+There was a handkerchief lying on the stone next to her.
 
 It had not been there before; she was quite sure of that. It was folded into a neat square, white, with a narrow border, and when she looked up and down the staircase there was nobody on it, above or below.
 
@@ -188,7 +184,7 @@ It had not been there before; she was quite sure of that. It was folded into a n
 
 Nothing answered. Far off, the last of the crowd was still coming in through the front doors.
 
-She picked the handkerchief up. It was warm, as if somebody had been holding it until a moment ago. There was a story—Goyle had told it in first year, at length—about a room somewhere in the castle that gave you whatever you most needed, if you needed it badly enough. Lyra had not needed a handkerchief. She had not cried.
+She picked the handkerchief up. It was warm, as if somebody had been holding it until a moment ago. There was a story—Goyle had told it in first year, at length—about a room somewhere in the castle that gave you whatever you most needed, if you needed it badly enough. If that was so, the room had made a mistake. Lyra had needed a great many things that afternoon. A handkerchief was not among them.
 
 There was one person in the castle who could stand on a staircase without being seen, and he had handed her a handkerchief once before, in the hospital wing, with her face full of blood. But he had made it perfectly plain in December what she was to him, and he would have spent the match in the Gryffindor stand, cheering Hufflepuff on with everybody else.
 
@@ -202,7 +198,7 @@ Perhaps Diggory was right. Perhaps all of it had been in her head, the train and
 
 Her voice came back to her off the stone, very small. She was glad there was nobody to hear it.
 
-She smoothed the handkerchief out on her knee. It was old-fashioned and very soft. It would do, she decided, for a Malfoy’s handkerchief. Just. She did not know whose it was, and it came to her, sitting there, that she would never be able to pay it back, because there was nobody she was prepared to send the bill to.
+She smoothed the handkerchief out on her knee. It was old-fashioned and very soft, the sort somebody’s grandmother might have hemmed, and it had been washed so many times that it had given up being anything but kind. She did not know whose it was, and it came to her, sitting there, that she would never be able to pay it back, because there was nobody she was prepared to send the bill to.
 
 It did not trouble her nearly as much as it ought to have.
 
@@ -212,10 +208,10 @@ Then she folded the handkerchief small and put it in her pocket, next to the sug
 
 ⁂
 
-A little while after she had gone, Mrs Norris came along the landing at the top of the stairs.
+The staircase stayed empty for some minutes. Then Mrs Norris came down it from the landing above, on her own business, the way she went everywhere.
 
-She stopped halfway down. She sat, and wrapped her tail round her feet, and stared with her lamp-like eyes at a particular stretch of empty step, a little below where Lyra had been sitting.
+She stopped halfway. She sat, and wrapped her tail round her feet, and stared with her lamp-like eyes at a particular stretch of empty step, a little below where Lyra had been sitting.
 
-Mrs Norris could see perfectly well that the step was not empty, and she did not care in the least. When it said, very quietly, in a voice that shook with rage, “*Cedric Diggory*—”, and something slipped, and for a moment there was a scuffed trainer on the stone where no foot had been, she only blinked.
+Mrs Norris could see perfectly well that the step was not empty, and it was not her concern. When it said, very quietly, in a voice that shook with rage, “*Cedric Diggory*—”, and something slipped, and for a moment there was a scuffed trainer on the stone where no foot had been, she only blinked.
 
-She flicked her tail, turned round, and went back the way she had come.
+She flicked her tail, stepped round it, and went on down, as if there were nothing on that staircase worth reporting to anybody.
