@@ -170,3 +170,62 @@ Es el capítulo con más anécdota del coreano por línea. Sospechas fuertes:
 - [orig, probable] Snape en el despacho de Dumbledore («When I look at him, Headmaster, I think of the Dark Lord» / «Love»), el «*Potter’s coming!*», la maldición de piernas a Neville, Hermione en la escalera («I’m rather hoping they will. Then I’ll know who’s who»), el enfrentamiento ante la biblioteca, **«Mudblood!» / «Voldemort!»**, el llanto, «I hate it… and I hate *you*», Crabbe que embiste, McGonagall y Diggory.
 - [nuestro] La mano entre las cortinas con Crabbe («I didn’t cry» / «No. You didn’t»), el párrafo final que ata el boggart del 4, la cara del 6 y la pregunta de Lupin.
 - **Sin publicar. Riesgo alto.**
+
+## 24. Replay (coreano 27; sin publicar)
+
+- [orig, probable] Los colores de los anillos en verano; Draco y el póster de Krum, el cambio por los omniculares (con el doble fondo de los baratos); el palco con los Weasley y el saludo de conocidos; las veela («I know one with platinum hair who makes men stupid»); Krum coge la Snitch perdiendo; **los omniculares que la han grabado a ella dos horas** [pantallazo], «These are evidence. I’m keeping them»; la capa, Narcissa que llama.
+- [nuestro] Las cartas firmadas «D. Dursley», Lucius que se cambia de capa («old friends»), «Go back to your mum», Narcissa mirando el bolsillo, la cueva quitada del punto de vista.
+- **Sin publicar. Riesgo medio.**
+
+## 25. Old Friends (coreano 28 + clase de Moody del 30; sin publicar)
+
+- [orig, probable] La Marca en el *Profeta*; Lucius confiesa a medias («a demonstration… a protest», «That was not intended»); Narcissa y la promesa de no entrar en el Torneo; Lupin se ha ido (rumor de Parkinson); Moody entra en el Gran Comedor; la clase de las Imperdonables con la pulla sobre Lucius; el Cáliz.
+- [nuestro] La mudanza al alba con barro en la capa (eco del día de los ocho años), la culpa por Lupin en el banquete, el anillo que deja de ponerse.
+- **Sin publicar. Riesgo medio**, y en parte es canon (la clase de Moody y el Cáliz se parecen a Rowling más que al coreano).
+
+## 26. Dues (coreano 29; sin publicar)
+
+- [orig, probable] Potter que no se levanta, Zacharias Smith, «I’ve got the money my dad left me… The only thing I’m short of is time», Moody y el Confundus; «Withdraw», el cebo, «If you get hurt, I’ll kill you» / «Then I’d better not. I wouldn’t get to see your face»; la insignia («Granger. *Again*?»), el desliz de los Horrocruxes, la cueva contada, «Lyra Malfoy, of the blood of the Blacks, acknowledges his service».
+- [nuestro] Las dos versiones de Regulus resueltas («They had both been right»), la confesión de la poción y «You should write to him», «nowhere… had she done the sum».
+- **Sin publicar. Riesgo alto** en la primera mitad (la réplica de Potter a Smith y la del disfraz son del original).
+
+## 27. Ferret (resto del coreano 30; sin publicar)
+
+- [orig, probable] El Imperius en clase, Moody sabe lo de la pareja y sospecha de ella («Because you’re Lucius Malfoy’s daughter»), la varita a la espalda y el hurón, Potter que la recoge, Snape y la lista de mascotas, los de Hufflepuff y las chapas, el mordisco, Granger que lo adivina, **el beso en el hocico** («That did not count» / «I was a *ferret*»).
+- [nuestro] La carta de Lupin entera, la voz que pregunta «What’s in it for me?» (el Imperius resistido por la cuenta), «A ferret could not be entered in anybody’s accounts».
+- **Sin publicar. Riesgo alto** en el hurón.
+
+## 28. Credit (coreano 31; sin publicar)
+
+- [orig, probable] Los escregutos («And what are they *for*?»), Potter acercándole uno a Parkinson y a ella, la rama que hace estallar la cola; Weasley en la puerta y el desbordamiento («I *would* if I *could*!», «A mother who *knits*»), «She thinks it’s a *secret*»; el barco de Durmstrang, Karkaroff (Crouch y su hijo, los Longbottom), Krum («perhaps one day we fly»).
+- [nuestro] La carta sellada de Lucius que no abre, Buckbeak que le hace la reverencia y el filete que le debe, Moody en el camino.
+- **Sin publicar. Riesgo medio.**
+
+## 29. Every Ounce (coreano 32; sin publicar)
+
+- [orig, probable] La reconciliación en la escalera, Krum y su escoba, «She is Potter’s?» / «Good», Colin que se lleva a Potter, los dragones y Maxime, «Can I kiss you?» / «Yes».
+- [nuestro] El ajedrez con Durmstrang y el francés con Beauxbatons, la nota «*Prior engagement. Sunday, two o’clock*» (eco del 13), «Every ounce» como lección de Lucius, «That one counted», «I owe you for—» / «Don’t», «You knew first», la página 312.
+- **Sin publicar. Riesgo medio-bajo.** Es de los que mejor mezclan.
+
+## 30. Which One (coreano 33; sin publicar)
+
+- [orig, probable] Crabbe y los dragones, el *Profeta* con la pluma confundida («the sleek-haired bachelor Professor Snape»), la capa en la comida («Wear this, and come and find me»), la tienda, «It’s a broom» / «You haven’t *got* a broom», *Accio Firebolt*, la Saeta de Potter.
+- [nuestro] **La pluma de azúcar** («Since Hallowe’en» / «…Which one?»), el beso a través de la capa y Harry deshecho (petición del autor), la matrícula y «No need», «she could not have turned on anything», el aviso del Baile contra «Officially».
+- **Sin publicar. Riesgo medio-bajo.**
+
+---
+
+# Conclusiones de la lectura
+
+**1. Hay dos fics trenzados.** Uno es el nuestro: la cuenta («We extend credit»), la verdad de 1992 y el pelo atado, la posdata de Narcissa, Draco y el señor de la casita, la palanca de Snape, la culpa de la poción, Granger y los onces, la pluma de azúcar. Los capítulos 7, 12 y 15 son enteros de esa capa, y son de los mejor puntuados. El otro es el coreano: casi todas las escenas de comedia y casi todos los pantallazos. Esos lo cargan.
+
+**2. La cercanía al original no es uniforme.**
+- **Más cerca, en voz y en estructura:** del 20 al 23 y los cuatro *Year One*. Siguen el coreano escena a escena y conservan su narrador («Lyra Malfoy was not a girl who got turned down»).
+- **Columna del coreano, con mucha carne nuestra encima:** del 3 al 6, el 13, el 14 y del 16 al 19.
+- **Lo que mejor mezcla:** del 24 al 30 y del 8 al 11.
+
+**3. Los pantallazos son el nudo.** Muchas de las frases que los lectores citan salen del original: «Call it charity», «Hands off, Malfoy», «Don’t smile in front of me», «It’s a professional relationship», «Every time I smile, I’ll think of you», «This is Sirius Black… And my godfather», el anillo de las nueve, los omniculares. Tres títulos salen de réplicas del original (13, 14, 22). No se pueden cambiar sin que se note, y la mayoría se citan en capítulos posteriores.
+
+**4. Qué se puede tocar depende de lo publicado.** Es lo primero que hay que fijar: lo publicado se retoca en la superficie y lo no publicado se puede reconstruir.
+
+**5. Falta material para cotejar.** El repositorio tiene el coreano 14 a 35, que cubre del 17 al 30 y los *Year One*. No tiene el coreano 1 a 13 (capítulos 1 a 16). Para esos, la única referencia es la oficial inglesa, y solo hay el prólogo.
