@@ -62,29 +62,29 @@ Draco came in on Christmas morning without knocking, which was the first thing w
 
 Lyra put a hand over her eyes.
 
-“Draco. A gentleman knocks before he comes into a lady’s room. I’ve told you.”
+“Draco. Out. Knock. Come in again.”
 
-“You’re not a lady. Ladies don’t sleep till eleven on Christmas. *Bears* do.”
+“I did knock,” said Draco, who had not. “Anyway, it’s nearly eleven. Mother says you’ve been asleep so long you’ll have grown roots.”
 
 She sat up, slowly, and pushed her hair back off her face. Draco took a step back towards the door.
 
-“You horrible little creature,” said Lyra pleasantly. “Shall I put a Tickling Charm on you, to help you remember your manners?”
+“You horrible little creature,” said Lyra pleasantly. “Come here and say that.”
 
-“You can’t! You’re not allowed to do magic outside school. It’s the *law*. It’s the Decree for the—the Reasonable—something.”
+“You can’t do anything. You haven’t got your wand out. And you’re not *allowed*, not at home, it’s—”
 
-“Very good. Somebody’s been learning long words.” She swung her feet out of bed. “But I don’t need a wand for you.”
+“Who said anything about a wand?” She swung her feet out of bed.
 
-He fought like a cornered cat. It made no difference: there were four years between them, and four years was a wall. She got him down on the rug, and he shrieked and kicked and laughed until he could not breathe, and the Cleansweep rolled away under the bed with nobody left to defend it.
+He fought like a cornered cat. It made no difference: she had four years and most of a head on him, and she knew exactly where he was ticklish, because she had been finding out since he was in a cot. She got him down on the rug, and he shrieked and kicked and laughed until he could not breathe, and the Cleansweep rolled away under the bed with nobody left to defend it.
 
 When she let him go he lay on his back on the rug, scarlet and streaming.
 
-“When I go to Hogwarts,” he panted, “the first thing I’m going to learn is the Tickling Charm. And I’ll do it on you every day.”
+“When I’m at Hogwarts,” he panted, “I’m going to find out all your secrets. And then I’ll *tell* everybody.”
 
-“That’s two years away. I’ll be in my O.W.L. year by then.”
+“That’s two years away. I shall have much better ones by then.”
 
-“I don’t care. I’m going to be Seeker in my first week, and get top marks in everything, and pass my N.E.W.T.s, and then I’ll be better than you.”
+“I’ll find those out too.”
 
-“How lovely. First-years aren’t allowed on House teams, and nobody sits N.E.W.T.s till seventh year, but do try.”
+“I should like to see you try.”
 
 Draco stuck out his tongue. Then he sat up, put a hand in his pyjama pocket, took out a pack of cards and shuffled them.
 
@@ -104,7 +104,7 @@ Lyra, who had disguised her handwriting for that letter with enormous care, said
 
 He had not written to her since October, not once, not even to boast. Lyra did not ask him why. She was afraid he would tell her.
 
-Draco bounced to his feet. “Mother says you’re to come down and do presents. She’s got you writing paper again, I saw.” At the door he turned round, to make sure of the last word. “And don’t bother dressing up. You look the same either way.”
+Draco bounced to his feet. “Mother says you’re to come down and do presents. She’s got you writing paper again, I saw.” At the door he turned round, to make sure of the last word. “And don’t do your hair. It takes *hours* and it never looks any different.”
 
 “Draco Lucius Malfoy—”
 
@@ -120,7 +120,7 @@ Her brother was nine, and he did not know anything. He did not know what had bee
 
 Let him do it alone, if he was so clever. Let him and Granger and Dumbledore save the world between them, and see how far they got.
 
-And if they didn’t—if Potter failed, and the Dark Lord came back after all—then the Malfoys would be the first to go back to him, and she would see to that herself. She would be on her knees before any of the others. She would be the most loyal servant he had ever had, so loyal that he would have to forgive her father the diary, and she would keep it up for as long as it took. Whatever it took. Even if it meant turning on Potter.
+And if they failed—if the Dark Lord came back after all—she would not wait to be sent for. She knew how that went: the ones who hung back were the ones who had to explain themselves afterwards. The Malfoys would be at his feet before the others had found their masks, and she would be at the front of them, on her knees, and she would make herself so useful, for so long, that one lost diary would be a thing he could afford to overlook. Whatever that took. Even if it meant turning on Potter.
 
 She sat there a little longer, making quite sure she meant it. Then she got up and went down to do presents.
 
@@ -146,13 +146,13 @@ Most of the Gryffindors laughed outright. A good few of the Slytherins could not
 
 When Snape spoke again his voice had gone very soft, which in Snape was the same as shouting.
 
-“Twenty points from Gryffindor. And if there is not a Wit-Sharpening Potion on my desk by the end of this lesson, Potter, it will be a hundred, and a detention with it. Since you find the work so easy.”
+“Ten points from Gryffindor for the potion, Potter, and ten for the wit. You have until the bell to make what I asked for. If you have not, you may come back and make it every evening until you can.”
 
-“Better get this out of the cauldron, then,” said Potter cheerfully, to the room at large. “Seems a waste. Anyone want some? I did it treacle-tart flavour.”
+“Shame,” said Potter cheerfully, ladling the yellow stuff into a beaker and holding it up to the room. “It’s for Monday mornings. Two sips and you stop minding what anyone thinks of you. Anybody?”
 
-On Lyra’s left, Crabbe began to get up, with a sidelong look at Lyra that made it quite plain who she meant it for.
+On Lyra’s left, Crabbe’s hand went up, with a sidelong look at Lyra that made it quite plain who she wanted the beaker for.
 
-Goyle caught her by the back of her robes and sat her down again without a word, and gave her a look, and then gave Lyra a quick look as well, to see whether she had noticed. Lyra had not noticed. She tipped in the armadillo bile a little at a time, as the book said, stirred five times anticlockwise, and did not hear a thing.
+Goyle pulled it down again by the sleeve without a word, and gave her a look, and then gave Lyra a quick look as well, to see whether she had noticed. Lyra had not noticed. She weighed her ginger root against the book a second time, to the grain, and did not hear a thing.
 
 When Snape came round to her bench, he looked into her cauldron for a long time.
 
@@ -162,7 +162,7 @@ He went on looking at her afterwards, though, as he had since November: as thoug
 
 She asked to go early, bottled a sample and went. Potter was at the end of the bench by the door, and she had to pass him to get out. She had made up her mind not to look at him, and she looked anyway.
 
-He was in the middle of a knot of Gryffindors: Weasley, and Thomas, and Finnigan, and Lavender Brown leaning over from the next bench. They were all talking at once and laughing about the treacle tart, and Finnigan was doing Snape’s voice. Potter sat in the middle of it, stirring a cauldron that was slowly going from yellow to the correct dull brown, and he was the only one of them who was not smiling.
+He was in the middle of a knot of Gryffindors: Weasley, and Thomas, and Finnigan, and Lavender Brown leaning over from the next bench. They were all talking at once and passing the beaker round under the bench, and Finnigan was doing Snape’s voice. Potter sat in the middle of it, stirring a cauldron that was slowly going from yellow to the correct dull brown, and he was the only one of them who was not smiling.
 
 He looked up as she came level with him, and for a second she thought he was going to say something more than her name.
 
@@ -180,7 +180,7 @@ She went out into the corridor.
 
 Crabbe said nothing more about it. She never did, and it was the most irritating thing about her.
 
-In Charms that afternoon they did Cheering Charms. Crabbe, who was good at charms when she forgot to be nervous of them, put one on Goyle at the first attempt, and Goyle laughed until she got hiccups and had to be sent for a glass of water. Then Crabbe turned to Lyra, with the face of somebody who had been waiting all day for exactly this, and did it again.
+In Charms that afternoon they did Cheering Charms. Crabbe, who was good at charms when she forgot to be nervous of them, put one on Goyle at the first attempt, and Goyle went round the room for ten minutes telling people she loved them, the window included. Then Crabbe turned to Lyra, with the face of somebody who had been waiting all day for exactly this, and did it again.
 
 Lyra felt a faint fizz behind her ears, like the first sip of something with bubbles in it. That was all.
 
@@ -190,71 +190,71 @@ Crabbe went pink and put her hand up. Professor Flitwick came bustling over, cli
 
 Lyra thought of Snape’s office, and the small cold tick at the back of her head, like a fingernail against a wineglass, and Snape saying *You have a natural—* and stopping.
 
-After that, of course, half the class had to try, and Lyra bore it with great dignity until Parkinson came up for the fifth time.
+After that, of course, half the class had to have a go, and Lyra bore it with great dignity until Parkinson came back for seconds.
 
 “Panther,” she said, “if you point that thing at me once more, I shall snap it in two and send you the pieces by owl.”
 
 Parkinson went away.
 
-Crabbe and Goyle spent the rest of the afternoon trying to cheer her up without magic, and neither of them was any good at it. Somehow, by dinner, she did feel a little better.
+Crabbe and Goyle tried for the rest of the afternoon without wands: Goyle with a Chocoball she had been saving since Christmas, Crabbe with the news that Millicent had fallen asleep in History of Magic and been marked present by a ghost. Neither of them was any good at it, which helped more than either of them could have known.
 
 ⁂
 
-The Great Hall was as loud as it always was, and louder at the Gryffindor end, where somebody was very nearly shouting.
+Dinner was already going badly at the Gryffindor end by the time Lyra sat down.
 
-“That *bloody* cat killed Scabbers!”
+“—*ate* him, Hermione! That great ginger *thing* ate him!”
 
 “Ron—”
 
 “You saw the sheets, Harry! Blood all over them, and ginger hairs, and he’s *gone*. That cat’s been after him since September—” Weasley made a horrible chomping gesture.
 
-“Mate,” said Potter, “I honestly think he’s alive.”
+“He’s not dead, Ron,” said Potter.
 
-“How can you possibly *know* that?”
+“You don’t *know* that!”
 
-Lyra had sat down with her back to the Gryffindor table on purpose, and it made no difference whatever. Weasley had a voice that carried through stone.
+Lyra had put the whole width of the Slytherin table between herself and the Gryffindors, and the back of her head besides. It made no difference whatever. Weasley had a voice that carried through stone.
 
 Down the Slytherin table, heads were turning.
 
-“Weasley’s rat’s dead. The cat had it.”
+“Weasley’s rat’s gone.”
 
-“That old thing? If an owl had eaten it, they’d have called it natural causes.”
+“Gone? It was about a hundred. It probably just lay down.”
 
-Lyra could not find it in her to feel anything much. At the Manor it would have been a plaything for the owls.
+Lyra could not find it in her to mind. Rats at the Manor did not get names. They got Pobble, with a broom.
 
-“Fine, take her side,” Weasley was saying. “Everyone else is.”
+“Go on, then, stick up for the cat.”
 
-“I’m not taking her side. I just think you’re making an awful lot of fuss over a—”
+“I’m not sticking up for anybody. It’s a rat, Ron. It was old when Percy had it.”
 
 “He was *family*!”
 
-“If you ever hear yourself say that again,” said Potter, quite seriously, “you’ll never live it down.”
+“Say that a bit louder,” said Potter. “I don’t think Fred and George heard.”
 
-“Oh, go on, laugh! You can go off with Hermione and make some new friends, can’t you, seeing as you’re getting nowhere with Malfoy—”
+“Oh, that’s *funny*, is it? Fine. Go off with Hermione, then, the pair of you, seeing as you’re getting nowhere with Malfoy—”
 
 Lyra’s fork stopped halfway to her mouth, and stayed there.
 
 For a moment the Slytherin end was quiet too.
 
-“I saw Potter and Granger in the library earlier,” somebody said. “Just the two of them.”
+“Potter and Granger had a table to themselves in the library this afternoon,” somebody said. “Very cosy.”
 
-“What, already?”
+“Since when?”
 
-“I thought Potter was—”
+“Since whatever it was with—”
 
-“Did something happen at Christmas? Because Lyra—”
+“Lyra, was there a—”
 
 Lyra looked down the table. Daphne Greengrass, who had been speaking, found something of enormous interest in her mashed potato and stayed there.
 
 Lyra cut her chicken. *Getting nowhere with Malfoy.* And now it was Granger, was it? Granger, who wasn’t counting. Well. The three of them had lived in one another’s pockets since first year; it was hardly surprising if two of them had finally noticed. It was nothing to do with her. Potter had made quite sure of that.
 
-“Ron’s being completely irrational,” said Granger at the Gryffindor end, in the voice of somebody who has said it several times already. “There isn’t any *evidence* Crookshanks did anything. Anybody who stopped and thought about it rationally, like Harry—”
+“He won’t even *look* at the evidence,” Granger was saying at the Gryffindor end, in the voice of somebody who has said it several times already. “There isn’t a scrap of it. Harry at least is being sensible—”
 
-“Hermione,” said Potter. “I didn’t take your side because I think Crookshanks didn’t do it.”
+“Hermione,” said Potter. “I’m not on your side because I think Crookshanks is innocent.”
 
 It meant something. Granger understood what, and Lyra did not; and on either side of her Crabbe and Goyle went very quiet, and stole a glance at her, and then another at her plate.
 
-The chicken had come apart under her fork into long pale threads. She went on cutting it.
+She had cut her chicken into small, exact squares, as though somebody were going to mark them. She went on cutting.
 
 Lyra put down her fork. It made rather more noise than a fork should. Then she got up and walked out of the Hall, not quickly, and her way to the doors took her behind the Gryffindor bench.
 
@@ -266,7 +266,7 @@ Lyra put down her fork. It made rather more noise than a fork should. Then she g
 
 She did not slow down.
 
-Behind her, as she went, she heard somebody say, “Aren’t you two going after her?” and Goyle, with feeling, “Why is it always *us*? We’re people too, you know,” and Crabbe say, “Your turn, then, Panther,” and Parkinson, for once in his life, say nothing.
+Behind her, as she went, she heard somebody say, “Well, *go* on, then,” and Goyle answer, with feeling, “We went last time. *And* the time before,” and Crabbe say, “Your turn, Panther,” and Parkinson, for once in his life, say nothing.
 
 ⁂
 
@@ -280,7 +280,7 @@ Then she ran: up the stairs two at a time, round the turn and up the second flig
 
 She stood there getting her breath back.
 
-She had only just left the Great Hall, and when she left it they had been sitting at the Gryffindor table, not nearly finished. There was no way in the world they could have got ahead of her and halfway up the stairs.
+Thirty seconds ago they had been behind her, at the Gryffindor table, with their plates still full. Nobody could have got from there to here without passing her, and she had been in the way the whole time.
 
 Then she remembered. *It isn’t a toy, Harry.* Granger slipping into Arithmancy on the bell, out of breath, a minute after Lyra had heard her footsteps going off the other way. A timetable that had come tumbling out of a split bag in December, with Arithmancy and Muggle Studies both at nine o’clock on a Monday morning, in Granger’s neat hand, as if that were a perfectly reasonable thing for a timetable to say.
 
@@ -288,13 +288,13 @@ Lyra looked at that for a moment. Then she put it away, where she had promised G
 
 She went back down.
 
-On the last landing she stopped in the shadow of a pillar and looked down into the Hall; and out of the Great Hall, just finished, came Potter and Granger. His face, her hair: there was no mistaking either. They were walking side by side towards the east corridor and talking in low voices.
+On the last landing she stopped in the shadow of a pillar and looked down into the Hall; and out of the Great Hall came Potter and Granger, exactly as if they had just got up from dinner, which by every law Lyra knew, they had. Potter was still chewing. They were walking side by side towards the east corridor and talking in low voices.
 
 They passed almost underneath her and never looked up.
 
-“—shouldn’t use it for just anything, that’s all I’m saying—”
+“—it’s meant for *lessons*, Harry, that’s the whole—”
 
-“Who uses it for just anything more than you do?”
+“Says the girl who used it to finish a Runes essay.”
 
 They went on. She had actually turned towards the dungeon stairs when she saw where they were going.
 
@@ -302,11 +302,11 @@ The east corridor went one way only, past two disused classrooms, to the girls�
 
 She followed them.
 
-She stopped at the corner. They had gone on into the dead end, and she could not go any further without being seen; and the thought of Potter turning round and finding Lyra Malfoy creeping after him like a jealous scullery maid was so mortifying that she nearly went back to the dungeons there and then. But if she went back now, she would not sleep for a week.
+She stopped at the corner. They had gone on into the dead end, and she could not go any further without being seen; and the thought of Potter turning round and finding Lyra Malfoy creeping after him like a jealous scullery maid was so mortifying that she nearly went back to the dungeons there and then. But if she went back now she would spend the night inventing what had been behind that door, and everything she invented would be worse.
 
-She looked about for a reason. One came quite readily. This was a public service. Somebody had to protect the Mudblood from Potter, who was plainly a menace, and if nobody else in this school could be bothered it might as well be her. Besides, now that she thought about it, she did rather need the lavatory, and it was a girls’ lavatory, so there could be nothing strange about her going into it.
+She looked about for a reason, and found one lying ready, as reasons generally were. It was a girls’ lavatory. She was a girl. There was no rule in the castle, and no law in the country, that could stop a girl walking into one whenever she liked, and if Potter happened to be in it with a Mudblood that was his lookout, not hers.
 
-She walked to the end of the corridor without hurrying, promising herself that whatever she found behind that door she would not be surprised, and she would not mind, and she threw it open.
+She walked to the end of the corridor without hurrying, arranging her face for whatever was behind the door, and threw it open.
 
 There was nobody there.
 
