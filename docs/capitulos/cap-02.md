@@ -11,8 +11,8 @@
 - “It took Lyra eleven days to knock on her father’s study door.” (l. 3)
 - “Potter keeps asking me about it.” (l. 49): primera mentira importante a su padre (l. 51)
 - “It was an object the Dark Lord entrusted to me… he would come for it himself on the day he returned.” (l. 61)
-- “It was a diary, darling. Anyone would think he’d left me his heart to look after.” (l. 85)
-- “families like ours don’t last by being kind, Lyra. You’ll need to learn to be a little colder.” (l. 93)
+- “It was a diary, darling. You’d think from the fuss that he’d left me a piece of himself to mind.”
+- “families like ours don’t last by being kind, Lyra. Kindness is a thing we can afford to show. It is not a thing we can afford to have.” (el 6 lo cita como “we can’t afford to be kind”)
 - “There isn’t so much as a ghost left to testify.” (l. 101)
 - “Potter had told her to tell him. Potter did not know her father.” (l. 133)
 - “I want to know what I get out of this.” (l. 149); “As quiet as I can.” (l. 151); “you can have it back, if you want.” (l. 155)

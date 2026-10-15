@@ -13,7 +13,7 @@
 - “Lyra had always maintained, loudly, that Potter’s marks were Granger’s doing. It was harder to maintain at a range of eighteen inches.” (l. 107)
 - “It’d be brilliant if you called it off… But if they do sentence it, I’m not going to complain.” (l. 149); “Hobby?” (l. 159)
 - “That will be all, Potter… You may go.” (l. 191)
-- “Shame… I was really looking forward to the teeth.” (l. 197)
+- “Shame… I’d bought a toothbrush.”
 - “I don’t need a postponement, Marcus… I need a Snitch.” (l. 219)
 - “The Malfoy girl who had the gamekeeper’s pet put down because it scratched her. I’d much rather they remembered that I was gracious about it.” (l. 247)
 - “I hear… that it was the Potter boy who carried you up to the hospital wing.” (l. 259)

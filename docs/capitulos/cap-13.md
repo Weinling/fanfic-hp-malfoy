@@ -14,7 +14,7 @@
 - “Father used it a great deal.” (l. 51)
 - “Only I thought you might just tell him.” (l. 77)
 - “She’ll do anything if you tell her she looks like you.” (l. 83) / “That would be very kind.” (l. 85)
-- “*If you see a big black dog, throw it something to eat.*” (l. 105)
+- “*If a big black dog turns up, feed it something.*”
 - “Come out, Potter.” (l. 149)
 - “A shred of taste after all.” (l. 169)
 - “I had a prior engagement.” (l. 187); “Not compared to a date with you.” (l. 197)

@@ -4,7 +4,7 @@
 ## Escenas
 Una sola escena continua (sin ⁂), el partido Slytherin–Gryffindor.
 1. **Antes del partido.** Tormenta, viento, truenos. Lyra, con el pelo atado con dos cintas y muchas horquillas, quiere ganar “perfectly plain to everyone, and to one person in particular”. Parkinson lleva una pancarta MALFOY que la lluvia convierte en MAIFOY. En el palco: Dumbledore, McGonagall, Snape; el asiento de Lupin está vacío (“unwell since Friday”). Madam Hooch alinea; Potter se adelanta y le tiende la mano (los buscadores no tienen por qué).
-2. **Apretón de manos.** Ella la acepta para no parecer nerviosa; la de él está fría y mojada. “No excuses about the weather afterwards”; él mira hacia las puertas del colegio y dice “Weather’s rotten. I’ll make it quick”.
+2. **Apretón de manos.** Ella la acepta para no parecer nerviosa; la de él está fría y mojada. “No excuses afterwards… When I win, it will be because I won”; él mira hacia las puertas del colegio y dice “Rotten weather. I’ll be it quick”.
 3. **Primera mitad del juego.** Las Nimbus 2001 llevan un encantamiento contra el viento; los Gryffindor, con Cleansweeps, van a la deriva. Slytherin sube de diez en diez (“Eighty up”).
 4. **Tiempo muerto.** Flint ordena marcar a Potter para dejarle sin Snitch y ganar por puntos; Lyra se niega (“I’m the Seeker... I catch Snitches”). Razón no dicha: si gana por una marca de escobas pagadas por su padre, dirán que ganó el dinero. Ve a Granger lanzarle *Impervius* a las gafas de Potter.
 5. **Persecución.** Ve la Snitch junto a la bota izquierda de Potter; finta con un picado falso hacia el centro y sube; vuelan sobre las gradas hacia la tormenta. Potter va por delante.
@@ -13,7 +13,7 @@ Una sola escena continua (sin ⁂), el partido Slytherin–Gryffindor.
 
 ## Frases literales importantes
 - “Captains, shake hands.” / “Seekers did not have to shake hands.” (l. 15-19)
-- “No excuses about the weather afterwards, Potter... I am going to beat you into the mud today, and I shall want the credit for it.” (l. 23) / “Weather’s rotten. I’ll make it quick.” (l. 25) / “Who said anything about you finishing it?” (l. 27)
+- “No excuses afterwards, Potter. Not the rain, not the wind, not your glasses. When I win, it will be because I won.” / “Rotten weather. I’ll be quick.” / “*You’ll* be quick? How sweet of you to think you’ll get the chance.”
 - “I’m the Seeker, Marcus. I catch Snitches. I don’t follow other people round the sky waiting for them to find one.” (l. 53)
 - “Dementors?” (l. 93); “I’m not running!” (l. 109)
 - “It was an ugly, graceless way to keep hold of a person.” (l. 123)

@@ -4,26 +4,26 @@
 ## Escenas
 1. **King’s Cross, entre los andenes nueve y diez.** Lyra espera en el lado muggle a Crabbe y Goyle (Narcissa ya cruzó a buscar a Mrs Parkinson). Un guardia la acosa; cuando el carrito de Crabbe le da en la rodilla, Lyra le apoya la varita en el segundo botón y le promete verrugas en las plantas de los pies “They’ll start tonight”. No hace magia (es menor): es un farol. Cruzan el muro. Crabbe: “Warts!”
 2. **Andén y vagón.** Narcissa, junto al tercer vagón, la besa y la mira largo: “Write on Sundays.” Lyra no ha contado el diario ni preguntado por la casita: “a great deal of not asking going on”. Echa a dos Ravenclaw de sexto del último compartimento con un “I’d rather hoped to sit here today”. Té de la cesta de Pobble. Goyle cuenta que arrestaron a Potter los “Muggle Aurors”.
-3. **Potter irrumpe.** Se sienta junto a Lyra, roba una Rana de Chocolate (le sale Dumbledore) y la suelta sobre Crabbe; mientras ellas la buscan le dice en voz baja: “Good summer? Talk to your dad?” Lyra: “Extensively.” Él asiente: “Good.” Cuenta lo de tía Marge (caramelos que explotan con Coca-Cola, la policía, los Aurores). Lyra deduce que lo vigilan por Black y le aconseja informarse sobre él. Potter le revuelve el pelo: “If you see a big black dog, throw it something to eat. It’ll be hungry.”
+3. **Potter irrumpe.** Se sienta junto a Lyra, roba una Rana de Chocolate (le sale Dumbledore) y la suelta sobre Crabbe; mientras ellas la buscan le dice en voz baja: “Good summer? Talk to your dad?” Lyra: “Extensively.” Él asiente: “Good.” Cuenta lo de tía Marge (caramelos que explotan con Coca-Cola, la policía, los Aurores). Lyra deduce que lo vigilan por Black y le aconseja informarse sobre él. Potter le revuelve el pelo: “If a big black dog turns up, be nice to it. Feed it something. It’ll be starving.”
 4. **Dementor.** El tren se detiene, se apagan las luces, entra el frío. Lyra, tiesa, calma a Crabbe y Goyle con tono de “burst pipes” (“They’re not looking for us”). Se oye gritar a Potter; corre cuatro puertas más allá: Potter inconsciente, Weasley y Granger, el profesor Lupin con la varita. Ofrece té a Weasley (“If you ask me nicely”); él: “Thanks… This once.”
 5. **Enervate y beso.** Lupin se presenta; Lyra sujeta los hombros de Potter. Él despierta (“What’s *Malfoy* doing here?”) y pregunta “Who was screaming?”; ella: “Nobody was screaming, Potter. Except you.” Lyra le provoca con el primer beso con un Dementor. Potter se arrodilla, le roza la boca y dice “First kiss with a Dementor?… Not any more… Call it charity.” Lyra grita *Obliviate!* sin varita. Lupin parte una tableta de chocolate negro: “With the Dementors, I mean.”
 
 ## Frases literales importantes
 - “You’re being rude, Muggle… Warts. On the soles of your feet. They’ll start tonight.” (l. 41-45)
 - “Good summer? Talk to your dad?” (l. 119) / “Extensively.” (l. 123) / “Good.” (l. 127)
-- “If I were you, I’d find out a great deal more about Sirius Black. Understand what he wants, and you’ll know where he’s going.” (l. 167)
-- “I know a lot more than you do, miss… Don’t you worry about me. If you see a big black dog, throw it something to eat. It’ll be hungry.” (l. 175)
+- “If I were you, I’d make it my business to know Sirius Black better than he knows himself. Find out what he wants, and you’ll know where he’s going.” (el 7 lo cita literal)
+- “Don’t fret about me, miss… I’m better informed than I look. Oh, and if a big black dog turns up, be nice to it. Feed it something. It’ll be starving.” (citada en 11, 13 y 14)
 - “Who was screaming?” (l. 287) / “Nobody was screaming, Potter. Except you.” (l. 289)
 - “Careful, or your first kiss will be with a Dementor.” (l. 295)
-- “First kiss with a Dementor?… Not any more.” (l. 309)
-- “Even I’m not sad enough to get my first one off a Dementor… Call it charity. For somebody who might not be around all that long.” (l. 315)
+- Lyra: “…your first kiss will be with something that hasn’t got a face.” / Potter: “First kiss with no face?… Not any more.”
+- “Couldn’t let that happen to anybody… Call it charity. From somebody with a murderer after him.”
 - “...that was my *first*, you absolute— you *animal*—” (l. 319)
 - “Eat that… Both of you. It helps… With the Dementors, I mean.” (l. 331)
 
 ## Fichas (objetos y motivos)
 - **La Rana de Chocolate:** Potter la roba y la suelta; cae sobre Crabbe, la recoge Goyle. Carta: Dumbledore.
 - **El chocolate negro de Lupin:** “enormous slab of dark chocolate”, partido en dos. Lyra no lo soporta (ver 11-14).
-- **El perro negro:** “throw it something to eat” (se cobra en 11).
+- **El perro negro:** “Feed it something. It’ll be starving” (se cobra en 11).
 - **El pelo:** Potter lo revuelve; veinte minutos de peluquería de su madre y una elfa; Lyra lo recompone con un último alfiler.
 
 ## Libro de cuentas
