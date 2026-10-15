@@ -1,72 +1,66 @@
 # Chapter 13: A Prior Engagement
 
-“Dithering,” Lyra announced, getting to her feet, “does not suit me.”
+The fire in the Slytherin common room had burnt down to a heap of red by the time Lyra stood up.
 
-She had been sitting in the best armchair in the Slytherin common room for most of the evening, with two fingers pressed to the spot between her eyebrows and the fire burning down in front of her. She had reached her conclusion in the first ten minutes and spent the next three hours making sure of it. Whether to tell Potter, or not to tell him. Every way she turned it she came out at the same place, and every time she got there she went back to the beginning to check. It was not a habit she approved of in other people.
+“Enough,” she announced. “I have been sensible for three hours, and it is doing nothing for my complexion.”
 
-“I’m going to settle it,” she said. “Tomorrow, in Hogsmeade. I shall find Potter and have it out with him.”
+She had been in the best armchair since supper, with two fingers pressed to the spot between her eyebrows, watching the logs go to ash. She had reached her conclusion in the first ten minutes and spent the rest of the evening making sure of it. Whether to tell Potter, or not to tell him. Every way she turned it she came out at the same place, and every time she got there she went back to the beginning to check. It was not a habit she approved of in other people.
 
-Crabbe and Goyle, who were playing Exploding Snap on the hearthrug, looked up at the same moment with the same expression: that of two people watching something they had seen coming from a long way off finally arrive.
+“Tomorrow,” she said. “Hogsmeade. I shall find Potter and settle the matter.”
 
-“So you’ve decided,” said Crabbe.
+Crabbe and Goyle were on the hearthrug with a game of Exploding Snap between them, and neither of them looked surprised. Crabbe laid down a card. Goyle watched it smoulder.
 
-“You’re going to ask him out?” said Goyle. “You? Yourself?”
+“Is it a date?” said Goyle.
 
 Lyra, who had been halfway to a dignified exit, stopped dead.
 
-“I am going to do no such— Who said that? Who is spreading that ridiculous—”
+“It is a *negotiation*.”
 
-Crabbe considered. “Er. Technically, us.”
+“That’s what my mum calls dates,” said Crabbe.
 
-“You of all people know perfectly well that Potter and I are mortal enemies. It is a matter of public record.”
+“Your mother,” said Lyra, “also thinks Gilderoy Lockhart has a lovely smile.” She sat down on the arm of the chair, which put her above them, which helped. “Potter and I have loathed each other since we were eleven. Ask anybody. Ask *him*.”
 
-Crabbe and Goyle looked at each other. There was a short conference, conducted entirely with the eyebrows, at the end of which they both nodded in a way that agreed to nothing at all.
+“Only,” said Goyle, “you’ve been sitting there since supper doing that with your fingers.” She did it, very badly. “And what you’ve come up with is a trip to the village with Harry Potter.”
 
-“Only you did spend three hours with your fingers on your forehead, staring at the fire,” said Crabbe reasonably.
+“It is serious. That is why it took three hours. Serious things do.” Lyra regarded them both with great patience. “I know it’s hard, at thirteen. Two people stand in the same corridor and you can hear the wedding bells. You’ll grow out of it.”
 
-“And if what you came up with after three hours is meeting Potter in Hogsmeade—” said Goyle.
+“She’s thirteen,” Goyle said to Crabbe, not very quietly.
 
-“It is a serious matter. That is why it took three hours.” Lyra sat down on the arm of the chair and regarded them both with great kindness. “I suppose you can’t help it, at your age. Give you two facts and you’ll make a romance out of them. I’m afraid I haven’t time for that sort of thing. Unlike some people.”
+“Leave it,” said Crabbe.
 
-Goyle turned to Crabbe and said, not very quietly, “Can we stop now?”
-
-“Bit longer,” said Crabbe.
-
-“Well, if it’s so important,” said Goyle, “why can’t you tell him here?”
+“Then why the village?” said Goyle. “Why not tell him in the castle?”
 
 “Because the castle is all ears. Portraits, ghosts, prefects.” Lyra looked into the fire. “And because when Potter hears it, he is going to do something stupid, and I would rather be there when he does.”
 
 She thought she had said it rather well, to the middle distance. Goyle lasted about a second and a half.
 
-“If you want a secret romance,” said Goyle, “keep a diary together, and stop rubbing our noses in—”
+“Why don’t you just write to each other?” said Goyle. “Get a little diary, the pair of you, and pass it back and forth at night, and stop rubbing our noses in—”
 
-Crabbe clapped a hand over her mouth, too late. The word lay on the hearthrug among the cards, and for a moment Lyra did not see the common room at all, but a small black book on a classroom desk with a hole punched through the middle of it.
+Crabbe kicked her ankle, too late. The word lay on the hearthrug among the cards, and for a moment Lyra did not see the common room at all, but a small black book on a classroom desk with a hole punched through the middle of it.
 
-Then she gathered herself, smiled as though Goyle had said nothing at all, and took out her wand.
+Then she gathered herself, smiled as though Goyle had said nothing worth hearing, and took out her wand.
 
 “*Muffliato.*”
 
 “What’s that?”
 
-“It stops anybody else hearing. Father used it a great deal.” She leaned forward until her hair fell round her face and hid her mouth, because people could read lips across a room, and Crabbe and Goyle put their heads in close with an eagerness that did them no credit.
+“It keeps a conversation where you put it. Father uses it whenever anybody from the Ministry comes to dinner.” She turned so that her back was to the room, because there were people in Slytherin who could read lips and would, and Crabbe and Goyle put their heads in close with an eagerness that did them no credit.
 
 “I have,” said Lyra, very low, “a piece of information that Potter needs. About Sirius Black.”
 
-There was a pause.
+Goyle’s mouth made a small round shape and stayed that way. Crabbe put her cards down face up, which in Exploding Snap was asking for trouble, and did not seem to notice when they began to fizz.
 
-“Oh,” said Goyle. “That actually is important.”
+“I am going to use it to negotiate,” said Lyra. “What it is, is my business.”
 
-“I *said* it was important! I have been saying so all evening!” Lyra stamped, which was difficult to do with dignity from the arm of a chair. Her friends had been getting very cheeky lately, and she could not think where they had learned it. “Anyway. I am going to use it to negotiate. What it is, is my business.”
+“He’s not allowed in Hogsmeade,” said Goyle. “He hasn’t got a form.”
 
-“But he can’t go to Hogsmeade,” said Crabbe. “He hasn’t got a form.”
+“Potter is not allowed in a great many places.”
 
-“He’ll go.”
-
-Lyra had no doubt of that at all. Potter had never once been stopped from doing a thing he had decided to do: not in first year, not in second, not on Hallowe’en with every teacher in the castle on the hunt and a murderer loose in it. He walked straight at things with nothing but his wand and a grin, and sooner or later the thing at the end of one of those walks was going to be Sirius Black.
+Rules, as far as Lyra had ever been able to tell, were things that happened to other people while Potter was somewhere else. He had been out of bounds in first year and out of bounds in second, and on Hallowe’en he had been out of bounds in the whole of Hogsmeade with a murderer loose, and come back to the feast to boast about it with his mouth full. Sooner or later one of the places he was not allowed would have Sirius Black in it, and Potter would go anyway.
 
 He knew that Black had betrayed his parents; he had said so himself, in Hogsmeade, “one rat of a traitor”. What he could not know was how it had been done, because that had been said in a dungeon office with a charm on the door: a secret that needed only one person to keep it and one to give it away, and a father who had been offered Dumbledore and had chosen his friend instead. Lyra thought of a voice across a library table saying *It’s the only way I get to hear her*, and looked harder at the fire.
 
-It was the least she could do. Lyra made a point of never doing more than the least where Potter was concerned.
+Somebody ought to draw him a map before he went. That was all. Anybody would have done as much, and Lyra was not in the habit of doing more for Potter than anybody would.
 
 She would not give it to him for nothing, naturally. There was the diary. As far as she knew it was still in Potter’s keeping, or, worse, Dumbledore’s: a little black book that could put her father in Azkaban and her mother after him, lying in somebody else’s drawer. If she could get it back into a Malfoy one, the information would have paid for itself twice over.
 
@@ -88,47 +82,47 @@ She meant it, which surprised all three of them.
 
 ⁂
 
-It was bitterly cold on Saturday, the last Hogsmeade weekend before Christmas, and nobody thought anything of a girl in a fur hat with her collar turned up to her nose. At the corner by Gladrags, Crabbe and Goyle swung left with Daphne Greengrass between them, Daphne’s own fur hat pulled well down, and Lyra turned right into a side street and kept walking.
+Snow had come in the night, not much of it, a thin grey crust on the roofs of Hogsmeade that the wind kept trying to take back. It was the last Hogsmeade weekend before Christmas, every head in the village was in a hat, and nobody looked twice at one more in fur with a collar turned up to its nose. At the corner by Gladrags, Crabbe and Goyle swung left with Daphne Greengrass between them, Daphne’s own fur hat pulled well down over her ears, and Lyra turned right into a side street and kept walking.
 
-She had made no arrangement with Potter. She had simply passed him in the crush by the doors of the Entrance Hall that morning and said “Shrieking Shack” to the air a foot to the left of his ear, and walked on. When she glanced back he had been looking somewhere else entirely, with one hand raised by his shoulder and his finger and thumb joined in a neat little circle.
+She had made no arrangement with Potter. She had simply passed him in the crush by the doors of the Entrance Hall that morning and said “Shrieking Shack” to the air a foot to the left of his ear, and walked on. When she glanced back he was looking somewhere else entirely, but his hand had come up by his shoulder with the finger and thumb joined in a neat little circle.
 
-They had not said a time. That meant she had to be there first.
+Nobody had named a time. Without one, the only way not to be kept waiting was to get there before him, and it was not until she was standing at the fence that she saw this also made her the one who waited.
 
-The Shrieking Shack stood at the top of its slope behind a broken fence, with its boarded windows and its garden gone to bramble, looking every bit as haunted as everyone said and a good deal colder. Lyra stood at the fence with her hands in her pockets and waited. The wind came down off the hills and went straight through her cloak, her jumper and most of her. Two Hufflepuffs went by on the path below, and one of them said, “On your own, are you?” and they both sniggered, and she had to stand there and let them, because the whole point of a fur hat was that nobody knew who was under it. She thought instead about the person who was keeping her waiting, and composed what she would say to him.
+The Shrieking Shack stood at the top of its slope behind a broken fence, with its boarded windows and its garden gone to bramble, looking every bit as haunted as everyone said and a good deal colder. Lyra stood at the fence with her hands in her pockets. The wind came down off the hills and went straight through her cloak, her jumper and most of her. Two Hufflepuffs went by on the path below, and one of them called up, “Been stood up, have you?” and they both sniggered, and she had to stand there and let them, because the whole point of a fur hat was that nobody knew who was under it. She passed the time choosing which of Potter’s faults to begin with. There was a great deal of choice.
 
 In her pocket, her fingers found something long and thin in a twist of paper: the sugar quill she had bought in Honeydukes on Hallowe’en. It had moved from robe to robe with her for six weeks. She left it where it was.
 
 That was when she saw the dog.
 
-It came out of the brambles further along the fence, black and enormous and thin enough to count the ribs through its coat, and she knew it at once, since there could not be two dogs that shape in Scotland. It was the one from the lake.
+It came out of the brambles further along the fence, black and enormous, with snow on its back and every rib showing through its coat, and she would have known that ribcage anywhere. It was the one from the lake.
 
 *If a big black dog turns up, feed it something.* Potter had said that on the train in September. Lyra had filed it at the time under Potter’s nonsense, feeding strays and calling it foresight, and since the lake she had been trying, without much success, to leave it there.
 
-“What are *you* doing all the way out here?”
+“You,” said Lyra. “Do you follow me about, or is it the chocolate?”
 
-The dog looked at her. She had fed it the better part of a slab of chocolate five weeks ago, and it looked as though nobody had fed it anything since the summer. Lyra looked back at it severely. Then she turned round and walked down to the Three Broomsticks.
+The dog looked at her. She had fed it the better part of a slab five weeks ago, and it did not look as though anybody had fed it since. Lyra looked back at it severely. Then she turned round and walked down to the Three Broomsticks.
 
 She came back with a tankard of butterbeer and a roast chicken leg wrapped in paper, and found the dog sitting exactly where she had left it.
 
-“I was cold,” she informed it. “Butterbeer is very warming. The chicken merely happened to be there.” She unwrapped it and put it down on a flat stone by the fence. “Eat it or don’t. Some of us were brought up not to gnaw drumsticks in the street.”
+“Don’t look at me like that,” she told it. “I asked for a butterbeer. The chicken was their idea.” She unwrapped it and put it down on a flat stone by the fence. “I certainly shan’t be eating it. Malfoys do not eat with their fingers in a lane.”
 
-The dog gave her a look. Lyra had heard people say that dogs had expressions and had always assumed they meant their own dogs; this one’s was quite plainly asking whether she had heard herself. Then it put its nose to the paper and ate the chicken in about four bites, and she stood by the fence with the butterbeer warming her hands and watched it, because there was nothing else to watch. It was not a bad way to pass the time. She thought, idly, that she might get a dog. Father would hate it.
+The dog looked at the chicken, and then at her, with the air of somebody far too hungry to argue with a liar. Then it put its nose to the paper and had the meat off the bone in about four bites, and she stood by the fence with the butterbeer warming her hands and watched it. The peacocks at home ate as though everything had been poisoned and they were only being polite. This one ate as though it had been poisoned already and meant to enjoy what was left. It was, she had to admit, a pleasure to watch.
 
-“Oi! Look at that!”
+“Here, look. It’s the Grim!”
 
 A knot of boys was coming up the lane in Ravenclaw and Hufflepuff scarves, fourth-years by the size of them, loud with the cold.
 
-“Is it a stray?”
+“Grim’s not that skinny.”
 
-“It’s eating *chicken*. It eats better than we do!”
+“It’s got a chicken leg. Where’s a stray get a chicken leg? Here, boy—”
 
-Lyra knew that sort of voice. One of them had pulled a long stick out of the hedge, and they were spreading out like boys who had found something that could not fight back with a wand. They would poke it. The dog would run, or it would bite, and either way it would be very tedious.
+Lyra knew that sort of voice. One of them had pulled a long stick out of the hedge, and they were spreading out the way boys did when they had found something that could not answer back with a wand. In a minute somebody would poke it, and it would either bolt or bite, and she could not decide which would be more tiresome.
 
-It was nothing to do with her. A Malfoy did not make a scene in a public lane over a stray. She sipped her butterbeer and watched.
+It was nothing to do with her. Malfoys did not brawl in lanes over other people’s strays, or over anybody’s. She drank some of her butterbeer and kept her eyes on the stick.
 
-“Go on, then. Is it nice?” The stick prodded at the bone. The dog’s lip came up off its teeth, and a growl came out of it so low that Lyra felt it through the fence rail.
+“Go on, then. Give us a bit.” The stick prodded at the bone. The dog’s lip came up off its teeth, and a growl came out of it so low that Lyra felt it through the fence rail.
 
-“Ooh. What’re you going to do about it? We could hang you upside down, you know—”
+“Ooh, *scary*. Want to know what a Stinging Hex feels like, do you? Bet you—”
 
 It was going on too long. In a minute somebody would draw a wand, and then there would be a commotion, and people would come, and Lyra could not be found standing at the top of the lane in somebody else’s hat. She put her tankard down on the post. She took one step forward—
 
@@ -136,71 +130,67 @@ The Shrieking Shack screamed.
 
 It was a dreadful noise, high and cracked and long, like something being pulled very slowly through a mangle, and it came from behind the boarded windows. The boys froze.
 
-“What was—”
+“Did you—”
 
-“It’s the *ghosts*—”
+“It does that. My brother says it does that—”
 
-“It’s broad daylight, it can’t be—”
+“Not in the *daytime* it doesn’t—”
 
-The second scream was worse, and it had a gurgle at the end. Then something came whistling out of nowhere and burst all over the nearest boy’s face, and the one beside him got the same down his front, and Lyra realised it was mud: cold, wet and very accurate. The boys ran. They ran fast, with their hands over their heads, skidding on the frozen ruts, and Lyra folded her arms and watched them go with deep satisfaction.
+The second scream was worse, and it had a gurgle at the end. Then something came whistling out of nowhere and burst all over the nearest boy’s face, and the one beside him got the same down his front, and Lyra realised it was mud: half frozen, gritty and very well aimed. The boys ran. They ran fast, with their hands over their heads, skidding on the frozen ruts, and Lyra folded her arms and watched them go with deep satisfaction.
 
-Very close to her left ear, something went *eeeeeee*, quite softly.
+Very close to her left ear, somebody said *boo*, quite softly.
 
-“That’ll do,” said Lyra. “Come out, Potter.”
+“You can stop that,” said Lyra. “I know it’s you, Potter.”
 
 “Oh, come *on*.”
 
-The air beside her shrugged, and there he was, pulling a silvery cloak off over his head, with his hair on end and his forehead bare and the most enormous grin.
+The air beside her shrugged, and there he was, pulling a silvery cloak off over his head, with his hair on end and the grin of a boy who had got away with something and was planning to get away with more.
 
 So that was how she had walked the length of Hogsmeade on Hallowe’en without once laying eyes on him.
 
 “How did you know?”
 
-“Nobody else in Britain has a voice that irritating. Making that racket in public, in front of half the school. I should have been too ashamed to show my face.”
+“That Shack has been screaming for years, and it has never once thrown mud. Ghosts haven’t the aim.” She looked him up and down. “And ghosts don’t sound pleased with themselves.”
 
-“Why? Nobody knows it was me.”
+“Here,” said Potter, sounding more pleased than ever. “Before you start.”
 
-“I know.”
+He held out his hand. In it was a round brass button about the size of a Sickle, with a little clip on the back, and when she took it, it was warm. It was a button warmer from Zonko’s: you clipped it to your coat and it kept the whole of you warm, and at least once a winter somebody in the castle set their scarf on fire with one. She turned it over, as a matter of form, to look for the price. Then she clipped it to her collar. Heat came out of it at once, gently, and spread down through her shoulders into her arms and all the way to her frozen fingers, and Lyra was obliged to take a long and careful interest in the view.
 
-“Well, then.” He looked pleased about something. “I might as well show you this.”
+“Brass,” she said at last. “Well. I suppose it’s the thought.”
 
-He held out his hand. In it was a round brass button about the size of a Sickle, with a little clip on the back, and when she took it, it was warm. It was a button warmer from Zonko’s: you clipped it to your coat and it kept the whole of you warm, and at least once a winter somebody in the castle set their scarf on fire with one. She clipped it to her collar. Heat came out of it at once, gently, and spread down through her shoulders into her arms and all the way to her frozen fingers, and Lyra turned her face into her collar so that he would not see what it did to her expression.
+“Do you know how hard it is to pay for something when nobody can see you? I left the Sickles on the counter and the witch at the till screamed louder than the Shack.”
 
-“Well,” she said, into the wool. “A shred of taste after all.”
-
-“You’ve no idea what it’s like, buying things in Zonko’s under an Invisibility Cloak. I had to wait for the witch at the till to look the other way.”
-
-“You might have spent the time getting here earlier. Do you know how long I’ve been standing—”
+“That must have taken you ages. While I was standing out here, turning into—”
 
 She stopped.
 
-He had had time to go to Zonko’s. He had had time to stand in a shop and wait for the witch at the till. And the Shack had screamed at precisely the moment she put down her tankard. He had been close enough to watch her do it.
+He had had time to go to Zonko’s. He had had time to stand in a shop and frighten the witch at the till. And the Shack had screamed at precisely the moment she put down her tankard. He had been close enough to watch her do it.
 
 “You were here,” said Lyra. “You were here all along. You stood there under that thing and watched me freeze.”
 
-“Ah,” said Potter. “Now, don’t get the wrong idea—”
+“Ah,” said Potter. “Right. I can explain that.”
 
-“Then give me the right one, and quickly. I shall deal with your manners afterwards.”
+“I’m sure you can. Begin, and I shall decide afterwards what to do with you.”
 
-He rubbed the back of his neck and smiled in an awkward sort of way, and then he sighed.
+He rubbed the back of his neck, and looked at the snow, and then he sighed.
 
 “I had a prior engagement.”
 
-“Oh, did you.”
+“How very grand.”
 
-“And it went a bit wrong, and we missed each other, and then you turned up and got the black dog instead of me.” He glanced along the fence, to where the dog had settled again beside its stone. “The two of you seemed to be getting on so well. I couldn’t find a way in.”
+“It ran late. And by the time it was over you’d turned up and started feeding him, and I couldn’t get a word in.” He glanced along the fence, to where the dog had settled again beside its stone. “The two of you looked like you had a lot to talk about. It seemed rude to interrupt.”
 
-It was an odd way to talk about a dog. Some part of her noticed, and set it aside, because the rest of her was entirely occupied with *prior engagement*.
+Some small, careful part of her noted that people did not usually keep appointments with dogs, and put the note away to read later, because the rest of her had stopped at *prior engagement*.
 
 “A prior engagement,” she repeated. “With whom?”
 
-“Doesn’t matter.” Potter grinned. “Not compared to a date with you.”
+“Nobody you need to be jealous of.” Potter grinned. “I came for the date.”
 
-“Not you as well!” Lyra’s voice went up, alarmingly. “Is that all anybody in this school can think about? Is there something in the water?” She took hold of the warmer to tear it off and throw it at him, and found she could not quite make her fingers do it. She let go of it again and glared at him instead, which was safer. “This is a serious matter. I have information for you. About Sirius Black.”
+“*Not you as well!*” Lyra’s voice went up, alarmingly. “Is that all anybody in this school can think about? Is it something they put in the pumpkin juice?” Her hand went to the warmer at her collar, to have it off and give it back to him, and stayed there being warm. She glared at him instead, which was safer. “I did not stand in the snow for an hour to be *teased*. I have something to tell you. About Sirius Black.”
 
-Potter made a small noise at the back of his throat and turned it, not very convincingly, into a cough. He looked round, briefly, at the dog. The dog was cracking the last of the chicken bone and watching the pair of them.
+Potter made a small noise at the back of his throat and turned it, not very convincingly, into a cough. His eyes went to the dog and came back. The dog was cracking the last of the chicken bone and watching the pair of them.
 
-Trying to look as though he did not care, Lyra thought, and making a very poor job of it. She drew herself up. She had stood a long time in the cold for this.
+He was pretending not to care, Lyra thought, and doing it very badly. She drew herself up. She had stood a long time in the cold for this.
 
 “You know he betrayed your parents,” she said. “Everybody knows that. But I don’t suppose anybody has told you *how*. Or why it had to be him, of all people. Or who else offered.”
 
@@ -208,47 +198,47 @@ Trying to look as though he did not care, Lyra thought, and making a very poor j
 
 “Wouldn’t you like to know.”
 
-“Wow,” said Potter. “I’m dying to know.”
+“Go on, then,” said Potter, in the voice of a man being sold a raffle ticket. “Astonish me.”
 
-“I could tell you.” She let it sit a moment, the way her father did when he named a price. “On one condition. Give me back the diary.”
+“It will cost you.” She let it sit a moment, the way her father did when he named a price. “The diary.”
 
-“What?”
+Potter stopped coughing.
 
-Potter stopped coughing. The face he turned on her then was one she had seen twice before: once in September, turned on her father, and once in October, over a library table, turned on her. Lyra’s hand closed round the sugar quill in her pocket, and she stood her ground.
+The face he turned on her then was one she had seen twice before: once in September, turned on her father, and once in October, over a library table, turned on her. Lyra’s hand closed round the sugar quill in her pocket, and she stood her ground.
 
 “Yes. The diary. You offered it to me yourself, by the lake, in June. I’m only asking for what you were going to give me anyway.”
 
 “I told you not to take too long,” said Potter.
 
-Potter looked round at the dog again. Then he sighed, and pushed his hair back off his forehead, and his fingers brushed the scar on the way and stayed there; and Lyra, who had been watching Potter for more than two years and had learned that one only last month, knew exactly what it meant.
+He looked round at the dog again. Then he sighed, and pushed his hair back off his forehead, and his fingers brushed the scar on the way and stayed there; and Lyra, who had been watching Potter for more than two years and had learned that one only last month, knew exactly what it meant.
 
 “Malfoy,” he said. “I know about Sirius Black. Better than you, from the sound of it.”
 
-His voice had dropped by about ten degrees. The warmer was still at her collar, still working, and it made no difference at all. The Dementors, Lyra thought, had never once frightened her as much as this.
+He had not raised his voice. He had only taken everything else out of it. The warmer went on working at her collar, uselessly. Lyra had seen a face like that once before, in a wardrobe in the staff room, under a hood. There had been a smile on that one, and there was none on this, and she did not find that it helped.
 
-But the diary had her mother and father in it. Potter would not use it, probably. Dumbledore would not, probably. Probably was not good enough. This was the moment, and she was not going to let it go because a boy had looked at her coldly.
+But the diary had her mother and father in it. Potter would not use it, probably. Dumbledore would not, probably. Probably was not good enough. She had not come all this way to be sent home by a face.
 
-“I know enough!” she said. “And you’ll want to hear it, I promise you. If you want to know what really—”
+“You don’t know all of it,” she said. “You can’t. Some of it was told to me in a room with a charm on the door, and if you want to hear what really—”
 
-“No,” said Potter. “Not at all. You don’t know anything.”
+“I don’t,” said Potter. “You don’t know anything.”
 
-He said it flatly, without any heat, and that was the worst of it. She had sat across a great many tables from people bluffing, and this was not that. Potter did not want what she had brought him. He did not need it. Very possibly he never had. And she could not even ask him how he knew. She had spent that a month ago, across a library table, on something else.
+He said it flatly, without any heat, and that was the worst of it. Lyra had sat at her father’s elbow through a great many dinners and watched a great many men pretend not to want a thing, and she knew how that looked. This did not look like that. Potter did not want what she had brought him. He did not need it. Very possibly he never had. And she could not even ask him how he knew. She had spent that a month ago, across a library table, on something else.
 
-Lyra flinched, and hated that she had.
+Something in her face must have given, because his changed a little.
 
-“It’s good of you to take an interest,” he said. “Honestly. But this is—”
+“Thanks for thinking of me,” he said. “I mean it. But this isn’t—”
 
 He stopped, and looked at her for a while, and something that was not cold came and sat underneath the cold without changing it.
 
-“No,” he said. “You’ve come this far. Better you know.” Then, in the same flat voice: “I’ll show you what you don’t know. This once. And after this, you don’t bring up the diary again. Not ever.”
+“Oh, what’s the use,” he said. “You’re here now.” Then, in the same flat voice: “You can see for yourself. Once. And then the diary’s finished, Malfoy. You don’t ask me for it again. Not ever.”
 
 Her heel had found the fence post behind her. She had backed all the way into it.
 
 Potter looked down the lane, one way and then the other, for long enough that she looked too. It was empty; the boys had taken the last of the noise with them. Then he jerked his head at the gap in the fence and went through it, round the side of the Shack and into the brambles at the back, where nobody on the path could see, and after a moment Lyra followed, because she was not going to be left standing in the lane with her mouth open. The dog came last.
 
-“Sirius,” Potter said to it. “I’ve been wanting to meet you. Sorry about this. You’ll have to come out.”
+“Sirius,” Potter said to it. “Sorry. I’d have liked to do this some other way. You’ll have to show her.”
 
-The dog did not come. It looked at Potter, and then at Lyra, for a long time, and its lip lifted off its teeth as it had for the boys with the stick. Then it barked, twice, short and flat, and it sounded, absurdly, like *no*.
+The dog did not move. It looked at Potter, and then at Lyra, for a long time, and its lip lifted off its teeth as it had for the boys with the stick. Then it barked, twice, short and flat, and it sounded, absurdly, like *no*.
 
 Lyra stared at Potter, who was arguing with a stray, and opened her mouth to tell him so.
 
@@ -258,12 +248,12 @@ Lyra stared at Potter, who was arguing with a stray, and opened her mouth to tel
 
 She was still looking at Potter when the dog sat back on its haunches, and kept on going.
 
-It rose. It came up off its forepaws onto its hind legs like a thing on a string, and dragged one foreleg down over its face, and in the time it took to do it the snout drew in, and the black coat ran up into hair, long and matted, and the forelegs were arms in rags. There was a man standing in the brambles where the dog had been. A tall man, as thin as the dog had been, with a beard and a filthy coat and a face that Lyra had looked at on the front of the *Daily Prophet* all summer, across the marmalade. With a bath and a barber it might once have been a handsome face. Now it was the face of a man who had spent twelve years in Azkaban.
+It rose. It came up off its forepaws onto its hind legs like a thing on a string, and dragged one foreleg down over its face, and in the time it took to do it the snout drew in, and the black coat ran up into hair, long and matted, and the forelegs were arms in rags. There was a man standing in the brambles where the dog had been. A tall man, as thin as the dog had been, with a beard and a filthy coat and a face that Lyra had looked at on the front of the *Daily Prophet* all summer, across the marmalade. Even in the *Prophet* it had looked like something fine that had been left out in the weather. In the brambles, with snow in its beard, it looked like twelve years of Azkaban.
 
 An Animagus.
 
 A dog did not need anybody to let it in. Snape’s theory and her own careful deductions went down together, and a month of watching Professor Lupin across the Defence classroom with them, and a month of Professor Snape watching her across the Potions dungeon as though he were waiting for something. Lyra stood in the brambles with the warmer still going at her collar and could not feel it.
 
-Potter held out a hand towards the man, as easily as if he were introducing someone at a party.
+Potter turned to the man with the air of a host who has kept the best guest till last.
 
-“This is Sirius Black,” he said. “Mass murderer. My mortal enemy.” He smiled at her. “And my godfather.”
+“This is Sirius Black,” he said. “Mass murderer. The man who sold my mum and dad.” He smiled at her. “And my godfather.”

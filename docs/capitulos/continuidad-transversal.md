@@ -23,7 +23,7 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 | Oct. 1993 | 7 | La lechucería: el crédito. En la biblioteca él le pone el límite del «Mudblood» | Granger (biblioteca) | «We extend credit.» |
 | 6 nov. 1993 | 10 | En el aire ella le agarra la túnica; él pone la mano sobre la suya; el Patronus | Nadie bajo las nubes | «Look, Potter! Look, I caught—» |
 | 13 nov. 1993 | 12 | «Who did you hear?» / «My mum.» / «Mine’s a stand.» | Nadie | «Thanks for asking.» |
-| 11 dic. 1993 | 13 | El calentador de botón; «a prior engagement» | Sirius (perro) | «Not compared to a date with you.» |
+| 11 dic. 1993 | 13 | El calentador de botón; «a prior engagement» | Sirius (perro) | «I came for the date.» |
 | 11 dic. 1993 | 14 | **Él le coge la mano entre las dos suyas** (peldaño nuevo). Luego «Hands off»; ella llora; «Don’t smile in front of me»; tira el calentador | Sirius | «Don’t smile in front of me.» |
 | Ene. 1994 | 18 | El pañuelo en la escalera, de él, invisible. Ella dice «It’s only me» | La señora Norris | «Thank you, then.» |
 | 2 feb. 1994 | 19 | **Segundo beso en la boca, largo**, para callarle «Mud—» | Granger, con las manos en la boca | «Shut up, Malfoy.» / «Is that *charity* again?» / «No.» |
