@@ -12,7 +12,11 @@
   - el diagnóstico del 1, línea a línea, está en `docs/notas/cotejo-oficial/cap-01.md`;
   - la lectura completa de los 34 capítulos, con sospechas y anclas, está en `docs/notas/cotejo-oficial/lectura-completa.md`.
 
-  Pendiente de que decida el autor: qué está publicado exactamente (choca con la regla «lo publicado no se toca»), hasta dónde se reescribe y en qué orden. El 31 queda en espera mientras tanto.
+  - **Decidido por el autor:** se retoca lo publicado; lo que es trama, solo un poco. Publicado: Wattpad del 1 al 21; Webnovel del 1 al 23 más *Year One* 1 y 2. Los cambios se anuncian con una nota de Ash.
+  - **Hecho:**
+    - el 1, sobre el texto publicado, con el arranque recortado (`docs/notas/cotejo-oficial/cap-01.md`);
+    - del 2 al 11 contra los coreanos 2 a 10 (`docs/notas/cotejo-oficial/caps-02-11.md`), con las citas ajustadas en el 4, 7, 10, 11, 13 y 14.
+  - **Siguiente:** cuando el autor pase la oficial de los coreanos 11 en adelante, seguir con el 13, 14 y 16 y luego del 17 en adelante. El 31 queda en espera mientras tanto.
 - **Capítulo 29, *Every Ounce*** (coreano 32), **cerrado**: `borradores/cap-29-every-ounce.md` (~4.300 palabras). Lo que está hecho:
   - ficha aprobada por el autor;
   - escritura escena a escena;
