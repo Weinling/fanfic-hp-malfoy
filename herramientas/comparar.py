@@ -3,10 +3,10 @@
 Uso:
   python3 -I herramientas/comparar.py              # todos los capítulos
   python3 -I herramientas/comparar.py 1 2 yo1      # solo esos
-  python3 -I herramientas/comparar.py --base REV   # otra referencia (por defecto, la etiqueta antes-del-cotejo)
+  python3 -I herramientas/comparar.py --base REV   # otra referencia (por defecto, 888ff27: lo publicado antes del cotejo)
 
 Por capítulo da:
-  - parecido con la versión anterior (difflib, 0 a 1) y palabras cambiadas;
+  - parecido con la versión de referencia (difflib, 0 a 1) y palabras cambiadas;
   - tramos compartidos con la oficial (de 6 palabras o más, y palabras que cubren), antes y después.
 La oficial se busca en referencia/oficial-en/ según MAPA; si falta, esas columnas salen con «—».
 """
@@ -73,7 +73,7 @@ def solape(oficial, nuestro):
 
 
 def main(args):
-    base = "antes-del-cotejo"
+    base = "888ff27"  # lo publicado antes del cotejo (etiqueta local antes-del-cotejo, si existe)
     if "--base" in args:
         i = args.index("--base"); base = args[i + 1]; del args[i:i + 2]
     claves = [a.lower() for a in args] or ORDEN

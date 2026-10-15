@@ -54,10 +54,10 @@ Los capítulos que siguen en `borradores/` aunque estén publicados (del 16 al 2
 
 ## 4. Herramientas y referencias
 
-- **Etiqueta `antes-del-cotejo`** (commit 888ff27): es el texto publicado antes de cualquier retoque, para todos los capítulos (el 1 ya con el arranque recortado que se publicó). Contra ella se compara todo.
+- **Commit 888ff27** («Capítulo 1: el manuscrito pasa a ser el texto publicado»): es el texto publicado antes de cualquier retoque, para todos los capítulos (el 1 ya con el arranque recortado que se publicó). Contra él se compara todo. La etiqueta `antes-del-cotejo` solo existe en local, porque el proxy no deja subir etiquetas; si falta, se usa el hash: `git tag antes-del-cotejo 888ff27`.
 - **`python3 -I herramientas/cotejo.py OFICIAL CAPITULO [n=4]`** lista los tramos de palabras compartidos, de más largo a más corto. Normaliza Carina/Lyra a «malfoy» y «dad» a «father». Para buscar calcos claros, usa `n=6`; para pulir, `n=4` o `5`.
 - **`python3 -I herramientas/comparar.py [caps…] [--base REV]`** da, por capítulo:
-  - el parecido con la versión de `antes-del-cotejo` (difflib, de 0 a 1);
+  - el parecido con la versión de 888ff27 (difflib, de 0 a 1);
   - las palabras cambiadas;
   - los tramos de 6 o más palabras compartidos con la oficial, antes y ahora.
 
