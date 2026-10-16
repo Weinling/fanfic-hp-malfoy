@@ -1,46 +1,26 @@
 # Chapter 3: Uninvited
 
-Lyra Malfoy spent the last quarter of an hour of her summer holidays leaning against a brick pillar between platforms nine and ten, which was not how she had planned to spend it.
+“You were rude to my friends,” said Lyra Malfoy.
 
-The plan had been simple. Her mother had gone through the barrier ten minutes earlier to find Mrs Parkinson and hear, at length, about Mrs Parkinson’s new drawing room, and Lyra had elected to stay on the Muggle side and wait for Crabbe and Goyle. Anyone could simply turn up on Platform Nine and Three-Quarters. It took a particular kind of girl to make an entrance, and an entrance required a retinue, even when the retinue in question had apparently never learned to read a clock.
+The guard looked down. The tip of a wand was resting very precisely against the second brass button of his uniform, and at the other end of it was a thirteen-year-old girl in a camel coat, looking up at him with an expression she had learned from the portrait of her great-grandmother on the first landing at home. It had stopped house-elves at thirty paces.
 
-So she waited, with her trunk and her eagle owl on a trolley beside her, her shoulders resting lightly against the brick and one foot tapping. Her mother had chosen her Muggle clothes and Lyra had rejected two of the three options on principle, and she was aware, in the pleasant background way one is aware of good weather, that people were looking at her as they went past. People generally did. It was one of the few things about King’s Cross that felt normal.
+It had been a trying quarter of an hour.
 
-The guard was less pleasant. He had been hovering at the edge of her vision for some minutes, a stout man in a navy uniform with a peaked cap and a clipboard he did not appear to need, and eventually he made up his mind and came over.
+Her mother had gone through the barrier ten minutes earlier to find Mrs Parkinson and hear, at length, about Mrs Parkinson’s new drawing room, and Lyra had elected to stay on the Muggle side and wait for Crabbe and Goyle. Anyone could simply turn up on Platform Nine and Three-Quarters. It took a particular kind of girl to make an entrance, and an entrance required a retinue, even when the retinue in question had apparently never learned to read a clock.
 
-“All right there, young lady? Lost your mum and dad?”
+So she had waited, with her trunk and her eagle owl on a trolley beside her and her shoulders resting lightly against a brick pillar between platforms nine and ten. People had looked at her as they went past. People generally did. It was one of the few things about King’s Cross that felt normal.
 
-Lyra looked at him. It was a look she had learned from the portrait of her great-grandmother on the first landing, and it had stopped house-elves at thirty paces.
+The guard had not been normal. He had hovered at the edge of her vision for some minutes, a stout man with a peaked cap and a clipboard he did not appear to need, and then come over to ask whether she had lost her mum and dad, and to tell her that the Leeds train was going in four minutes, and that there was nothing else off this platform for half an hour, and that a station was no place for a girl on her own, there were all sorts about these days. Lyra had clicked her tongue and gone back to tapping her foot. She had found that with Muggles it was best not to encourage them.
 
-“I’m waiting for my friends.”
-
-“Only you don’t want to be stood there, see. You’ll have a trolley over your toes.” He consulted the clipboard, as if she might be on it. “Where are you off to, then? The Leeds train’s going in four minutes.”
-
-“I’m not getting on the Leeds train.”
-
-“Well, there’s nothing else off this platform for half an hour, so if you’re—”
-
-Lyra clicked her tongue, and went back to tapping her foot. She had found that with Muggles it was best not to encourage them.
-
-He did not take the hint. He told her that a station was no place for a girl on her own and that there were all sorts about these days, and he was drawing breath for more when Lyra finally saw two familiar figures shoving a trolley through the crowd at a dangerous speed.
-
-“Malfoy! Sorry, sorry, are we late?” Goyle was out of breath and had lost a hair ribbon somewhere on the Euston Road. “Mum made us come through the Leaky Cauldron and then she couldn’t work out which way was north.”
-
-Lyra pushed herself off the pillar. “You’re not late,” she said, having been there a quarter of an hour. “But if we stand about here, somebody else will have the last compartment, and I shall have to be gracious about it.”
-
-“We could just turf out whoever’s in it,” said Crabbe, pink from the run.
-
-“Turf them out? Crabbe. We are not *Gryffindors*.”
-
-Crabbe swung their trolley round to follow her and the corner of it clipped the guard’s knee. He hopped back, swearing, and rounded on her.
+Then Crabbe and Goyle had come shoving their trolley through the crowd at a dangerous speed, Goyle out of breath and short of a hair ribbon (“Mum made us come through the Leaky Cauldron and then she couldn’t work out which way was north”), and the corner of the trolley had clipped the guard’s knee, and he had hopped back and rounded on them.
 
 “Oi! Watch where you’re going with that, you clumsy great—”
 
-He got no further, because Lyra had drawn her wand and placed its tip very precisely against the second brass button of his uniform.
+And that had been quite enough.
 
-“You were rude to my friends,” she said. “I don’t mind it for myself, I’m used to being envied. But they’re *mine*.”
+“I don’t mind it for myself,” Lyra went on, pleasantly. “I’m used to being envied. But they’re *mine*.”
 
-The guard looked down at the stick pressed to his chest. His mouth opened and nothing came out of it.
+The guard’s mouth opened and nothing came out of it.
 
 Lyra considered him, at her leisure, as one considers a menu. “Warts, I think. On the soles of your feet. Starting tonight.”
 
@@ -59,6 +39,10 @@ Crabbe was shaking with suppressed laughter. “Warts!”
 Her mother was waiting by the third carriage, having escaped Mrs Parkinson, and kissed her goodbye on both cheeks. Then she held Lyra by the shoulders and looked at her, the long, considering look she had been giving her across the breakfast table all summer, and said only, “Write on Sundays.” Lyra promised she would. She had not told her mother about the diary. She had not asked about the east cottage either, where the light had come on four more times before the end of August without anybody at breakfast ever mentioning a guest. Between the two of them there was a great deal of not asking going on, and Lyra did not want to find out on a crowded platform which of them was better at it.
 
 The compartment she wanted was the last one in the last carriage, and when they reached it there were two sixth-year Ravenclaws already inside with their feet up.
+
+“We could just turf them out,” said Crabbe, pink from the run.
+
+“Turf them out? Crabbe. We are not *Gryffindors*.”
 
 “Oh,” said Lyra, to nobody in particular, pausing in the doorway. “Someone’s here already. I’d rather hoped to sit here today.”
 
@@ -258,17 +242,19 @@ Which left her alone in the compartment with an unconscious Potter and the shabb
 
 “Yes. And you’re the new Defence Against the Dark Arts teacher.”
 
-He looked mildly surprised, and then mildly amused. “I am. Though not officially until tomorrow, so until then you may call me anything you like. Remus Lupin.” He straightened Potter out on the floor and drew his wand again. “I’m going to bring him round with *Enervate*. Would you hold his shoulders down for me? People sometimes come up rather suddenly, and I’d prefer he didn’t crack his head on the seat.”
+He looked mildly surprised, and then mildly amused. “I am. Though not officially until tomorrow, so until then you may call me anything you like. Remus Lupin.” He straightened Potter out on the floor and drew his wand again. “I’m going to bring him round with *Enervate*. People sometimes come up rather suddenly—”
 
-“With my *hands*? He’s been on the floor.”
+“And crack their heads on the seat,” said Lyra. “Yes. Somebody will have to hold him, I suppose.” She looked at the floor, and at her new robes, and at the floor again. “He’s been on the *floor*.”
 
 “The floor,” said Professor Lupin gently, “is where he is.”
 
 There seemed to be no answer to that.
 
-Lyra accepted the blow to her dignity, knelt on the dusty floor of a stranger’s compartment in her new robes, and pressed both hands down on Potter’s shoulders. His jumper smelled aggressively of some Muggle washing powder, the flowery kind that seemed to be shouting about how clean it was. Professor Lupin moved round to Potter’s head.
+Lyra accepted the blow to her dignity, knelt on the dusty floor of a stranger’s compartment, and pressed both hands down on Potter’s shoulders. His jumper smelled aggressively of some Muggle washing powder, the flowery kind that seemed to be shouting about how clean it was. Professor Lupin moved round to Potter’s head.
 
 It was strange, seeing Potter with his mouth shut. With his eyes closed and his face still, he looked like one of the marble boys on old tombs, folded hands and all. It seemed monstrously unfair. The moment he opened either his eyes or his mouth, there was not a bigger villain in the whole of Hogwarts.
+
+She had seen him with his mouth shut once before, before Hogwarts, in Madam Malkin’s: a skinny, silent boy on the next stool in clothes much too big for him, who hadn’t known what Quidditch was and had answered all her questions as if they might bite him. She had forgotten all about him before she reached the corner. Looking down at him now, she thought she might have preferred him that way. He had been almost sweet, in those days, when he still said nothing.
 
 “*Enervate.*”
 
@@ -294,9 +280,7 @@ He looked at her for a moment as though she had answered in a foreign language. 
 
 “Dear me, Potter.” Lyra leaned back. “All that swagger, and one Dementor puts you on the floor?” She let that sit for a moment, because it deserved to. “They’re obviously smitten. You aren’t even a convict, and they came all this way to kiss you. I’d watch that, if I were you. Keep this up and your first kiss will be with something that hasn’t got a face.”
 
-Potter’s face screwed itself up. Lyra looked down at him from the seat and enjoyed every second of it.
-
-It had been so long since she had seen him like this. The last time had been before Hogwarts, in Madam Malkin’s, when he had been a skinny, silent boy on the next stool in clothes much too big for him, who hadn’t known what Quidditch was and had answered all her questions as if they might bite him. She had forgotten all about him before she reached the corner. Looking back, she thought she might have preferred him that way. He had been almost sweet, in those days, when he still said nothing.
+Potter’s face screwed itself up. Lyra looked down at him from the seat and enjoyed every second of it. It had been so long since she had seen him like this.
 
 She was opening her mouth to say something even more cutting when Potter moved.
 
