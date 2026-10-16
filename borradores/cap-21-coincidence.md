@@ -1,34 +1,20 @@
 # Chapter 21: Coincidence
 
-In the end she made him wait nearly a full minute. She had planned on longer.
+The fire was out.
 
-“Fine,” said Lyra. “But I want it understood that I think you’ve been hit on the head.”
-
-“Understood.” Potter shut the door behind him. Then he opened his hand, and the thing on the chain turned over on his palm and caught the firelight: a tiny hourglass, no bigger than a thimble, with glittering sand inside it, set in a gold ring that spun on its own axis.
-
-Lyra had last seen a chain like that round Granger’s neck, tucked well down inside her collar.
-
-“Closer.”
-
-“I beg your pardon?”
-
-“You’ll see.”
-
-He came to her instead. He put the chain over her head, and before she could ask what he thought he was doing he had let it out to its full length and was ducking his own head into the loop beside hers, so that the two of them stood inside one gold chain with barely an inch between his collar and her nose.
-
-“What—”
-
-“Hold still.”
-
-Lyra shut her eyes. It seemed, at the time, the only possible thing to do with them.
-
-The room came unspooled. Even through her eyelids she could feel it go, light and dark streaming past her the wrong way, and her ears filled with a rushing like water going down a very large drain—
+Lyra could tell that much with her eyes shut. The warmth had gone off her face, and the grate, which a moment ago had been roaring, was ticking quietly to itself as though nobody had lit it yet that evening. Somewhere far off, the castle was going in to dinner.
 
 “You can look now.”
 
-Lyra opened one eye.
+She opened one eye.
 
-Potter had already ducked out of the chain and was winding it round his fingers as though nothing whatever had happened. The fire was out and the grate was cold, as though nobody had lit it yet that evening, and somewhere far off the castle was going in to dinner.
+She had made him wait nearly a full minute, before. She had planned on longer. “Fine,” she had said in the end, “but I want it understood that I think you’ve been hit on the head,” and Potter had shut the door and opened his hand, and the thing on the chain had turned over on his palm and caught the firelight: a tiny hourglass, no bigger than a thimble, set in a gold ring that spun on its own axis. She had last seen a chain like that round Granger’s neck. He had put it over her head, and ducked his own into the loop beside hers, so that the two of them stood inside one gold chain with barely an inch between his collar and her nose; and Lyra had shut her eyes, because it seemed, at the time, the only possible thing to do with them.
+
+That was not the only thing she had seen on his palm. On the fourth finger of the hand that held the chain there had been a ring: plain silver, a little clumsy, the twin of the one on her own hand. The last time she had seen it, it had been going out of the dormitory in a green velvet box, at a brisk trot, in Crabbe’s fist.
+
+So that was how her ring had known which way to look. Lyra had put her own hand behind her back at once, and kept it there, and said nothing at all.
+
+Potter had already ducked out of the chain and was winding it round his fingers as though nothing whatever had happened.
 
 “Three hours,” he said. “Give or take.”
 
@@ -206,13 +192,15 @@ His mouth was doing something at the corners that he plainly did not trust. Then
 
 “Lyra. She’s going the wrong way. I’m nowhere near there.”
 
-“Of course you are. I saw you. You went round that corner, and down the stairs, and I went after you all the way—”
+“You are. I saw you. You went round that corner, and down the stairs, and I went after you all the way—”
 
-“I didn’t. I’ve not been up here all day. I’m downstairs about now, with Hermione.” And then his face changed again, and he was out from under the cloak before she could take hold of him. “That was me. That *will* be me.”
+She stopped. He had not been up here all day; he had told her so himself, under this cloak, living every afternoon twice. And at the bottom of those stairs, under the tall windows, he had not looked like somebody who had just run down four flights. *How many of you are there, Potter?*
 
-“Harry! Where are you—”
+“That wasn’t you,” said Lyra. “That *will* be you. Go on, Harry. Round that corner, and make a noise about it, and don’t let her catch you up.”
 
-“Somebody’s got to lead her down. Take the other stairs. Wait at the bottom!”
+He stared at her for half a second. Then he was out from under the cloak.
+
+“Take the other stairs,” he said over his shoulder. “Wait at the bottom!”
 
 He walked off round the corner, making a good deal more noise than he needed to. A moment later Malfoy, who had stopped in the middle of the corridor with her head turning this way and that, saw something at the end of it, and was off after him at once.
 
@@ -362,19 +350,15 @@ Harry turned to her, and his face was very serious.
 
 “One more thing. Nobody knew where we were tonight. Not Dumbledore, not anybody. How did *you*?”
 
-Lyra took a sharp breath. Her eyes went, slowly, to his hands.
+Lyra took a sharp breath. She had been waiting for that question since the common room.
 
-She had not looked at his hands, all night. She had been looking at his face.
+She had not looked at his hands all night, on purpose. She looked now. On the fourth finger of his right hand was a ring exactly like hers. Plain silver, a little clumsy. The other one of the pair she had told Crabbe to bin.
 
-On the fourth finger of his right hand was a ring exactly like hers. Plain silver, a little clumsy. The other one of the pair she had told Crabbe to bin.
-
-*Bin them*, she had said. And then, *Do as you like.* Evidently Crabbe had.
-
-Of course Lyra had suspected. She had worked it out on the front steps, later that same night. All the same, it had been done without asking her, and Crabbe was going to hear about it.
+*Bin them*, she had said. And then, *Do as you like.* Evidently Crabbe had. It had been done without asking her, and Crabbe was going to hear about it.
 
 “Well,” said Lyra. “That is.”
 
-She had taken her own off on the castle steps and put it in her pocket before anybody could see. In her pocket now, her fingers found it. She slipped the tip of her fourth finger into it, only a little, only for a second, watching his ring out of the corner of her eye with a perfectly blank face.
+She had taken her own off in the common room, with her hand behind her back, and put it in her pocket before he could see. In her pocket now, her fingers found it. She slipped the tip of her fourth finger into it, only a little, only for a second, watching his ring out of the corner of her eye with a perfectly blank face.
 
 His ring went faintly pink.
 

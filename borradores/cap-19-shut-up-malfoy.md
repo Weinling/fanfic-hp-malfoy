@@ -10,7 +10,7 @@ It was the best thing that had happened to their House in living memory, and Lyr
 
 “It’s not ours!” said the boy. “Somebody just left it—”
 
-Behind them, something grey shot out from the skirting board where they had cornered it, past the trap and past Lyra’s shoe and away down the corridor. All three Hufflepuffs said “*Aw*.”
+Behind them, something grey shot out from the skirting board where they had cornered it, past the trap and right over Lyra’s shoe, close enough for her to see the pink feet going, one of them short a toe, and away down the corridor. All three Hufflepuffs said “*Aw*.”
 
 “Oi! That’s *mine*—”
 
@@ -29,6 +29,8 @@ The Hufflepuffs looked at one another, and at Lyra, and said nothing useful. Lyr
 “Did it have all its toes? Scabbers is all skinny, and he’s got a toe missing on one of his front feet—”
 
 “I did not count its *toes*, Weasley.”
+
+She had, as it happened. She saw no reason whatever to tell him so.
 
 “Well, it matters! If it’s Scabbers, then Harry and Hermione—” He stopped, and scratched his head. “Never mind.” He turned to the Hufflepuffs. “Cheers. Look, if you see a brown rat, come and find me, will you? Gryffindor table. And leave the trap alone. And if there’s ever one in it, don’t *kill* it.”
 
@@ -124,15 +126,15 @@ He looked at her for a long moment.
 
 For a second he looked almost young. “Then I’m in your debt, Miss Malfoy,” he said, “which I suspect you’ll enjoy.”
 
+“Yes, sir. I should like to collect.”
+
 She was polite to him because he was a teacher, and because she had decided some time ago that she rather approved of him. The open door was for the rest of it.
 
-“Do the governors know?”
+“The Potions master thinks you let Sirius Black into the castle,” said Lyra. “He set that essay to have you found out. I have known since November, and I haven’t told him, and I haven’t told my father, who was a governor until the summer and would very much like to know. I think that’s worth something. I think it’s worth whatever Potter has been doing all term, with you and that parchment.”
 
-He smiled, a little wryly, as though he knew exactly whose daughter was asking, and what her father had been until the summer. “The Headmaster knows. He took the view that a man with a potion and a locked door once a month is no great danger to anybody. It helps to have a Potions master on the premises, of course.”
+Lupin looked at her for a long moment, and then, unexpectedly, he laughed, a short tired breath through his nose.
 
-“The Potions master thinks you let Sirius Black into the castle,” said Lyra. “He set that essay to have you found out.”
-
-“Sirius tells me you were in the Shack. That Harry trusted you with that much.” He looked at her over the goblet. “Then you know a dog needs nobody to hold the door for it.” He said it quite calmly. So he and Black had talked, and Black had told him who had fed him chocolate. “And Severus has his reasons, all the same. Sirius and I were at school together. There were four of us: James, Sirius, Peter Pettigrew and me. We were in and out of each other’s pockets for seven years.” His eyes went to the parchment on the desk, and came back. “James is dead and Sirius can’t say a word, which leaves me. I’m the last man alive who can stand up and say what Peter is. So if you’ve a mind to tell the world what I am, Miss Malfoy, I’d ask you to hold off until we’ve caught him.”
+“Sirius tells me you were in the Shack. That Harry trusted you with that much. So I don’t suppose I’m selling you a great deal you haven’t had already. You know a dog needs nobody to hold the door for it.” He said it quite calmly. So he and Black had talked, and Black had told him who had fed him chocolate. “And Severus has his reasons, all the same. Sirius and I were at school together. There were four of us: James, Sirius, Peter Pettigrew and me. We were in and out of each other’s pockets for seven years.” His eyes went to the parchment on the desk, and came back. “James is dead and Sirius can’t say a word, which leaves me. I’m the last man alive who can stand up and say what Peter is. So if you’ve a mind to tell the world what I am, Miss Malfoy, I’d ask you to hold off until we’ve caught him.”
 
 “Then tell somebody. Tell the Headmaster. Tell the *Prophet*.”
 
@@ -148,7 +150,7 @@ Twelve years in a cage on a Weasley’s bedside table, being fed crusts. Lyra wo
 
 “Pettigrew,” she said. “It’s Weasley’s rat. That’s what Potter’s been hunting. Not a pet at all. Pettigrew.”
 
-Something else about rats tugged at her, from earlier that evening, small and grey and on its way out of reach—
+And she had seen it. Small and grey and going over her own shoe, with a toe gone off one front foot, while she stood there being clever about Weasley’s trap, and told him nothing, out of nothing better than dislike.
 
 “Exactly so—” Lupin stopped. He had gone, if anything, greyer. “You— Harry hadn’t told you?”
 
@@ -190,11 +192,11 @@ Granger saw her first. Then Potter turned round.
 
 “Malfoy?”
 
-“You.” She had no breath left, and did not wait for any. “A *rat*. All of it—the rain, and the Shack, and *hands off, Malfoy*—that was about a rat? You sent me away so you could go round the castle looking for *Pettigrew*?”
+“I’ve come to collect.” She had no breath left, and did not wait for any. “You know what you owe me. I’m calling it in, Potter, here, now. Tell me what you’re doing with Pettigrew.”
 
 His eyes went wide behind his glasses. “Who told you that?”
 
-“Does it matter?”
+“Does it matter? A *rat*. All of it—the rain, and the Shack, and *hands off, Malfoy*—that was about a rat? You sent me away so you could go round the castle looking for a *rat*?”
 
 She did not give him time to answer. “Your godfather can’t talk and your werewolf can’t leave his office once a month. That’s your army, is it? Against a rat, in a castle with seven floors?” She looked from him to Granger and back. “How many of you *are* there, Potter? You’re in the library and on the pitch and halfway up the stairs, all at once. Do you take it in turns?”
 
@@ -283,6 +285,8 @@ She stared at him.
 “Everything?”
 
 “Everything.”
+
+It was what she had come to collect. She had not, somehow, expected to be paid.
 
 Behind him, Granger had taken her hands away from her mouth. She looked at Lyra for exactly one second, without a word. From Granger, it amounted to a speech.
 
