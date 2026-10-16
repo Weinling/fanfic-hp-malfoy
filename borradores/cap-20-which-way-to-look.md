@@ -1,26 +1,10 @@
 # Chapter 20: Which Way to Look
 
-An hour after Potter had sent her to bed, Lyra was still lying on it, face down, with her shoes on.
-
-Every so often she put two fingers to her mouth, as though to make sure it was still there. Then she remembered what she was doing, and hit the pillow instead.
-
-It made no sense. That was what she kept coming back to. Potter did not do things that made no sense; he did things that made sense to Potter, which was not the same, but there was always a reason underneath, and she could not find this one. To stop her saying a word? He could have put his hand over her mouth. To make a fool of her? Nobody made a fool of anybody like that. For that long.
-
-She punched the pillow, and then, when that did not help, kicked the bedpost, which hurt.
-
-Then she sat up very straight and pushed her hair out of her face.
-
-“No,” she told the bed-hangings. “Why should *I* be the one who’s rattled?”
-
-Her mother had once sat through an entire dinner with the Minister for Magic’s soup in her lap and talked about roses. Somewhere in this castle Potter was very likely out with Granger, hunting his rat and not giving it a second thought, and here was her daughter, lying on her bed like a girl in one of Goyle’s magazines. It had been one kiss. Two, if you counted the train, and she did not intend to.
-
-She lay down again and put her face in the pillow.
-
-It was just as well nobody could see her.
-
 The drawer of her bedside table knocked, once, sharply, as if something inside it had tried to get out.
 
-Lyra lay with the pillow in her arms and listened. The dormitory was empty; she could hear Greengrass and Bulstrode through the ceiling, in the common room, arguing about Divination. Nothing else. She put out a hand and opened the drawer.
+Lyra had been lying on the bed for an hour, face down, with her shoes on. Every so often she had put two fingers to her mouth, as though to make sure it was still there, and then remembered what she was doing and hit the pillow instead. It made no sense. Potter did things that made sense to Potter, which was not the same, but there was always a reason underneath, and she could not find this one. To stop her saying a word? He could have put his hand over her mouth. For that long? Once she had sat bolt upright and told the bed-hangings, “No. Why should *I* be the one who’s rattled?”, and then lain down again and put her face back in the pillow. It had been one kiss. Two, if you counted the train, and she did not intend to.
+
+Now she lay with the pillow in her arms and listened. The dormitory was empty; she could hear Greengrass and Bulstrode through the ceiling, in the common room, arguing about Divination. Nothing else. She put out a hand and opened the drawer.
 
 The ring was lying where she had dropped it, among the hair ribbons and the spare quills, and it was glowing.
 
@@ -28,7 +12,7 @@ The ring was lying where she had dropped it, among the hair ribbons and the spar
 
 She looked at it. Then she looked round the empty room, picked it up very quickly, drew the hangings all the way round her bed, and sat inside them with the ring in her palm.
 
-Ten days in a drawer had not improved it. It was plain and a little clumsy, the sort of thing one bought in Zonko’s when one was not paying attention. She held it up to the gap in the hangings. Then, since there was nobody to see, she tried it against her hand, finger by finger, the way one tries on gloves, and put it on the middle one, which was the one finger that meant nothing whatever.
+Four days in a drawer had not improved it. It was plain and a little clumsy, the sort of thing one bought in Zonko’s when one was not paying attention. She held it up to the gap in the hangings. Then, since there was nobody to see, she tried it against her hand, finger by finger, the way one tries on gloves, and put it on the middle one, which was the one finger that meant nothing whatever.
 
 It shrank to fit with a small, cold squeeze. She had just decided it looked absurd there, and was reaching to move it one finger along, when it went red.
 
@@ -138,23 +122,21 @@ A broom went where you pointed it. A hippogriff went where he pleased, and every
 
 Buckbeak tipped one wing and went, without being asked twice.
 
-The moon was full and enormous over the water. When the shore was under them she leaned her weight forward, which was a guess, and it turned out to be the right one: he dropped, and his feet struck the shingle at the water’s edge, and Lyra came off him in a heap.
+The moon was full and enormous over the water. When the shore was under them, Lyra got one hand out of the feathers and lit her wand.
 
 “*Lumos*.”
 
-The light went out over the shore. There were people lying on the stones, several of them, very still, and one of them was just getting up.
+The light went down over the shore. There were people lying on the stones, several of them, very still, and one shape among them on its feet.
 
-“Potter?” Lyra called. “Potter, is that you?”
+“Potter?” Lyra called down. “Potter, is that you?”
 
-The ring changed colour. Purple. *On guard*. After *mortal danger* it sounded almost restful. She went towards the figure with her wand up and her heart coming down out of her throat.
+The ring changed colour. Purple. *On guard*. After *mortal danger* it sounded almost restful.
 
 “I thought I wasn’t *needed*. If this is how you all manage without me—”
 
-Something growled.
+The shape lifted its head into her light, and growled.
 
-Lyra stopped where she was.
-
-The figure that had got up was not a person. It was a long, starved shape with its spine standing up under the fur like a row of knuckles, and claws on its forefeet, and a head that a careless person might have called a wolf’s. Lyra had not been careless. She had copied that skull off Snape’s blackboard in November, the snout a shade too short, the eyes a shade too far forward, and labelled it in her neatest hand.
+It was not a person. It was a long, starved thing with its spine standing up under the fur like a row of knuckles, and claws on its forefeet, and a head that a careless person might have called a wolf’s. Lyra had not been careless. She had copied that skull off Snape’s blackboard in November, the snout a shade too short, the eyes a shade too far forward, and labelled it in her neatest hand.
 
 Behind it, on the black water, the full moon lay perfectly still.
 
@@ -162,27 +144,33 @@ Behind it, on the black water, the full moon lay perfectly still.
 
 The goblet. The line of little prints across Snape’s desk, and her own hand wiping the bottom of the goblet on his blotter. *Whoever drank it need never know.*
 
-It came at her.
+It had put its nose down again among the people on the stones. It was looking for something to eat.
+
+Lyra did not decide anything. She leaned forward along Buckbeak’s neck, as far as she could, which was a guess; and it turned out to be the right one. He folded his wings and dropped.
 
 “*Ex—Expelliarmus!*”
 
-Her hand was shaking. The spell went off into the dark somewhere to the left. The creature came on, faster, and Lyra heard a girl scream, and it was her, and went down with her arms over her head—
+Her hand was shaking. The spell went off into the dark somewhere to the left. The creature looked up and saw what was coming down at it, and tried, too late, to rise and meet it—
 
-There was a crack of wings, and a shriek, and a howl of pain that was nothing like hers.
+There was a crack of wings, and a shriek, and a howl of pain. Buckbeak struck it once as he came down and again as he landed, rearing over it with his wings spread, and the werewolf yelped and backed away; and when the wings beat once more, it turned and fled into the trees.
 
-She looked up. Buckbeak had reared over her with his forelegs raised and his wings spread, and he struck again as she watched, and the werewolf yelped and backed away; and when the wings beat once more, it turned and fled into the trees.
+Lyra came off him in a heap on the shingle.
 
-Lyra uncurled. Buckbeak was standing over her with his wings half open, looking into the trees where the thing had gone, as though inviting it to come back and try again.
+Buckbeak was standing over her with his wings half open, looking into the trees where the thing had gone, as though inviting it to come back and try again.
 
-“Well,” said Lyra, and got up, and found her knees were not entirely to be relied on. She brushed down her robes, because it gave her hands something to do. “That was very— That was most— Thank you.” He did not seem to require anything further. “There’ll be steak in it,” she told him. “When we get back. The best I can find.”
+“Well,” said Lyra, and got up, and found her knees were not entirely to be relied on. She brushed down her robes, because it gave her hands something to do. “That was very— That was most— Thank you.” He did not seem to require anything further. “There’ll be prime steak in it,” she told him. “When we get back. The best I can find.”
 
 She raised her wand again and went among the people on the stones.
 
 Potter, Granger, Weasley trussed up in ropes, and Sirius Black, all four of them out cold. Black was in a terrible state, torn all over with the marks of claws; he must have fought the thing a long while. A little apart from the others lay a short, balding man in filthy clothes, face down, with his hands curled under his chin.
 
-Lyra looked at him, and her skin crawled. She had never seen him before in her life, and she knew exactly who he was. Twelve years. One finger. A wire trap in a corridor with a square of treacle tart inside it.
+Lyra looked at him, and her skin crawled. She had never seen him before in her life, and she knew exactly who he was. Twelve years. One finger. A rat going over her own shoe in a corridor, short a toe.
 
-She looked away from him and went to Potter.
+She went and stood over him with her wand out. *Incarcerous* was on the tip of her tongue: one word, and he would be lying here in ropes for Snape or anybody else to find, and twelve years would be over, and it would have been her.
+
+Somewhere behind her, on the stones, there was a sound. It was hardly a sound at all, a breath caught in a throat; it might have been Potter, and it might have been the wind off the lake.
+
+Lyra turned round and went to Potter.
 
 “Potter? Potter. Are you alive?”
 
