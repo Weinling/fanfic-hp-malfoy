@@ -18,9 +18,9 @@ Weasley came pounding round the corner, red in the face, and skidded to a halt w
 
 “Don’t touch it, it’s set. Was there a— Oh, *great*. Malfoy.”
 
-“Weasley. Did you make this yourself? It looks it.”
+“Weasley. Is this yours? It has your family’s look about it. Patched, and rather too small for what it’s meant to hold.”
 
-“My dad showed me, actually. He’s good with Muggle stuff.” He was already on his knees by the trap. “Was there a rat? Did you lot see it? Which way?”
+“Holds nine of us and a ghoul, our house,” said Weasley, already on his knees by the trap. “Never had a complaint from the ghoul. Was there a rat? Did you lot see it? Which way?”
 
 The Hufflepuffs looked at one another, and at Lyra, and said nothing useful. Lyra sighed.
 
@@ -40,9 +40,9 @@ The Hufflepuffs said they would, and fled. Weasley set the trap again, very care
 
 So that was what Potter and Granger did together every afternoon, round corners and up staircases and into lavatories nobody used. They were looking for Weasley’s *rat*.
 
-“Every day. For a *rat*.”
+“Every afternoon. The two of them.” It came out sharper than she had meant it to. “Arm in arm, I suppose, peering into lavatories.”
 
-“For *my* rat.” He dug in his pocket and brought out a square of newsprint gone soft with folding: the photograph from the *Daily Prophet* in the summer, the whole Weasley family waving in front of a pyramid, and on the shoulder of the youngest boy an old rat, asleep. “Look at him. He’s not much. Sleeps all day, bites if you wake him. He was Percy’s first. But he’s ours, and they know that, and that’s why they’re looking.”
+Weasley looked puzzled. “Not arm in arm. Just looking. For *my* rat.” He dug in his pocket and brought out a square of newsprint gone soft with folding: the photograph from the *Daily Prophet* in the summer, the whole Weasley family waving in front of a pyramid, and on the shoulder of the youngest boy an old rat, asleep. “Look at him. He’s not much. Sleeps all day, bites if you wake him. He was Percy’s first. But he’s ours, and they know that, and that’s why they’re looking.”
 
 “A new owl would be cheaper than all this. Even your family could run to an owl.”
 
@@ -136,7 +136,7 @@ He smiled, a little wryly, as though he knew exactly whose daughter was asking, 
 
 “Then tell somebody. Tell the Headmaster. Tell the *Prophet*.”
 
-“A werewolf, writing to the *Prophet* to say that Sirius Black is innocent and the hero who died trying to stop him is alive?” He rubbed his eyes. “They would print it, I imagine. On the page with the jokes. And the two men who could swear to it can’t so much as point.” He hesitated. “Nor can they tell anybody that Peter goes about on four legs.”
+“A werewolf, writing to the *Prophet* to say that Sirius Black is innocent and the hero who died trying to stop him is alive?” He rubbed his eyes. “They would print it, I imagine. On the page with the jokes. And the only other man who could swear to it would be kissed before he got to the end of the first sentence.” He hesitated. “Nor can I very well tell them that Peter goes about on four legs, without telling them how I know.”
 
 “On *four*—”
 
@@ -144,11 +144,11 @@ He smiled, a little wryly, as though he knew exactly whose daughter was asking, 
 
 The trap in the corridor that afternoon, and the square of treacle tart. *He’s got a toe missing on one of his front feet.* And the other thing, the thing everybody knew, that had been in all the papers: that of Peter Pettigrew, when Black had finished with him, they had found one finger.
 
-Twelve years in a cage on a Weasley’s bedside table, being fed crusts. Lyra would have taken Azkaban. But then Lyra had never been afraid of what might be waiting outside the cage—
+Twelve years in a cage on a Weasley’s bedside table, being fed crusts. Nobody could live like that. Nobody with a shred of pride; Lyra would not have lasted a week. But somebody with no pride left at all, who would sooner be a pet than a corpse—
 
 “Pettigrew,” she said. “It’s Weasley’s rat. That’s what Potter’s been hunting. Not a pet at all. Pettigrew.”
 
-Something else about rats tugged at her, from earlier that evening, small and grey and on its way out of reach—
+Something else about rats tugged at her, from earlier that afternoon, small and grey and on its way out of reach—
 
 “Exactly so—” Lupin stopped. He had gone, if anything, greyer. “You— Harry hadn’t told you?”
 
@@ -216,7 +216,7 @@ Her voice cracked on *pocket*. She heard it crack, and went on regardless, becau
 
 “Did you honestly think it was the *diary*?”
 
-It had been the diary, to begin with. He had put it on a desk in an empty classroom in May with a hole punched through it and told her she was his hostage, and there had not been a great deal of room for argument. But she had been the one to put out her hand. She had stood there in her dressing gown and done the sums, properly, the way she had been brought up to, and the sums said that the Dark Lord had better stay dead, for her father’s sake, for all their sakes. And under the sums, somewhere she had never let anybody look and did not look now, there had been another line, and it said that she would rather have Potter alive than—
+It had been the diary, to begin with. He had put it on a desk in an empty classroom in May with a hole punched through it and told her she was his hostage, and there had not been a great deal of room for argument. But she had been the one to take his hand. She had stood there in her dressing gown and done the sums, properly, the way she had been brought up to, and the sums said that the Dark Lord had better stay dead, for her father’s sake, for all their sakes. And under the sums, somewhere she had never let anybody look and did not look now, there had been another line, and it said that she would rather have Potter alive than—
 
 She did not let herself finish. She took hold of his collar instead, with both hands.
 
@@ -226,7 +226,7 @@ Malfoys did not do favours. They extended credit, and only to people they meant 
 
 He did not answer. For once in his life he looked as if he had nothing ready, and after a moment he looked at Granger instead.
 
-Granger had been watching all of this with an expression Lyra could only call rapt, like somebody at the theatre who has just been told she must go up on stage. She put it off as long as a decent person could. Then she cleared her throat.
+Granger had been watching all of this with the expression of somebody at the theatre who has just been told she must go up on stage. She put it off as long as a decent person could. Then she cleared her throat.
 
 “Malfoy. Please. You’re—this isn’t—” She did not quite meet Lyra’s eyes. “It wasn’t his to tell. Not all of it. I’ve got something that helps Harry, and it’s a secret, so—”
 
@@ -283,6 +283,8 @@ She stared at him.
 “Everything?”
 
 “Everything.”
+
+It was what she had come for. She had not, somehow, expected to be paid.
 
 Behind him, Granger had taken her hands away from her mouth. She looked at Lyra for exactly one second, without a word. From Granger, it amounted to a speech.
 

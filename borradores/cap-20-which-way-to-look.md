@@ -22,7 +22,7 @@ The drawer of her bedside table knocked, once, sharply, as if something inside i
 
 Lyra lay with the pillow in her arms and listened. The dormitory was empty; she could hear Greengrass and Bulstrode through the ceiling, in the common room, arguing about Divination. Nothing else. She put out a hand and opened the drawer.
 
-The ring was lying where she had dropped it, among the hair ribbons and the spare quills, and it was glowing.
+The ring was lying where she had thrown it, among the hair ribbons and the spare quills, and it was glowing.
 
 “What,” said Lyra to it. “Have *you* got something to say?”
 
@@ -92,9 +92,9 @@ The slip in the box had said *which way to look*. Lyra held up her hand. The rin
 
 Crabbe was in the common room at this moment, doing her Charms homework with her tongue between her teeth. So Crabbe had given the other ring to somebody; and there was only one person Lyra could think of who would be out past the forest tonight, in mortal danger, with nobody knowing. She would deal with Crabbe later.
 
-Then, beyond the trees, a light went up, white for an instant and then, unmistakably, silver, and it ran out over the water and was gone.
+Then, beyond the trees, a light went up, white for an instant and then, unmistakably, silver, and it ran out over the water and was gone. As it went, the ring flashed pink, once, and was red again before she could be sure of it. Zonko’s, she supposed, and their notion of quality.
 
-It was in exactly the direction the ring was pointing.
+The light had gone up in exactly the direction the ring was pointing.
 
 Lyra had taken four steps towards the forest before her head caught up with her feet. On foot? In the dark? Through *that*? She would arrive in time for the funerals. Her broom was locked in the changing rooms on the other side of the pitch, which tonight might as well have been France.
 
@@ -182,7 +182,11 @@ Potter, Granger, Weasley trussed up in ropes, and Sirius Black, all four of them
 
 Lyra looked at him, and her skin crawled. She had never seen him before in her life, and she knew exactly who he was. Twelve years. One finger. A wire trap in a corridor with a square of treacle tart inside it.
 
-She looked away from him and went to Potter.
+She went and stood over him with her wand out. *Incarcerous* was on the tip of her tongue: one word, and he would be lying here in ropes for Snape or anybody else to find, and twelve years would be over, and it would have been her.
+
+Somewhere behind her, on the stones, there was a sound. It was hardly a sound at all, a breath caught in a throat; it might have been Potter, and it might have been the wind off the lake.
+
+Lyra turned round and went to Potter.
 
 “Potter? Potter. Are you alive?”
 
@@ -218,7 +222,7 @@ Black was Potter’s. She had sat across from him in the Shrieking Shack and hea
 
 Snape turned his head. “I beg your pardon?”
 
-“I found him. I sent up the sparks. I should like some say in what becomes of him, sir. I think I’ve earned that.”
+“*I* found him. *I* sent up the sparks. He’s *mine*, sir, and I won’t have him given away like lost property before I’ve had so much as a say.”
 
 Snape looked at her for a long moment. Then he shook his head, slowly, and spoke to her quite gently, as he had spoken to her once in his office.
 
@@ -274,7 +278,7 @@ On any other night she would have laughed at him. But he had said *with you*, an
 
 “There are going to be Dementors,” said Potter, as calmly as if he had read it on a timetable. “A lot of them. The only thing that stops them is a Patronus, and a Patronus has to have something happy to run on.”
 
-Lyra knew what a Patronus was. She had read about them in a book on one of her father’s high shelves, and once, in November, she had seen one: high over the pitch, in the storm, a small silver creature tearing away across the sky, with her hand knotted in his robes and his hand over hers. She opened her mouth to ask what that had to do with her—
+Lyra knew what a Patronus was. She had read about them in a book on one of her father’s high shelves, and once, in November, she had seen one: high over the pitch, in the storm, a small silver creature tearing away across the sky, with her hand knotted in his robes and his hand over hers. It had not occurred to her until now to mind that he could do it and she could not. She minded now, sharply and meanly, and opened her mouth to ask what that had to do with her—
 
 “So come with me,” said Potter. “So I can cast it.”
 

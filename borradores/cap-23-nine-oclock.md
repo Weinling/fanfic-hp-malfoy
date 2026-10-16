@@ -196,19 +196,15 @@ Hufflepuff could only win one way, and everybody on the pitch knew it: Diggory h
 
 Down in the Slytherin stand, the banners went red, and red, and redder, and then began, nervously, to turn yellow.
 
-Lyra had stopped watching the play somewhere in the first hour and started watching the board, and as far as she could tell she was the only person in the stand who had seen what was going on. Potter was not looking for the Snitch. He had not so much as glanced at the sky. He was building a number. Every hole he opened and every Bludger the twins sent after Diggory went up on the board in tens, and Lyra sat with her banner in her lap and did the sum he was doing. Gryffindor needed to win by more than two hundred. The Snitch was worth a hundred and fifty. Anything over fifty in hand, then, and the moment Potter closed his fingers the Cup was his; anything under, and it was Slytherin’s.
-
-Gryffindor went a hundred and forty up. A hundred and fifty. Then Diggory changed his mind and went for the Quaffle himself, and after that it was a brawl from one end of the sky to the other, and Hufflepuff began to claw it back: a hundred and twenty, ninety, seventy. Lyra’s banner had gone yellow in her lap without her noticing. Sixty. One more Hufflepuff goal and—
-
-“He’ll go now,” she said aloud, and nobody heard her.
-
-Potter went straight up through the middle of everything, and closed his hand.
+By the time Diggory changed his mind and went for the Quaffle himself, Gryffindor were nearly a hundred and fifty up. After that it was a brawl from one end of the sky to the other, and Hufflepuff clawed it back to sixty; and Potter went straight up through the middle of everything and closed his hand.
 
 “*GRYFFINDOR WIN THE CUP!* Three hundred and seventy to a hundred and sixty! *Gryffindor win the Cup!*”
 
 The Slytherin stand sat with its banners half turned over and its mouths open.
 
 Ten points fewer and the Cup would have been Slytherin’s. Lyra could not pretend she did not mind.
+
+It was only then, with her banner gone yellow in her lap, that she did the sum he had been doing all afternoon. More than two hundred, he had needed, and the Snitch was worth a hundred and fifty. He had not been looking for it at all. He had been waiting for sixty. Lyra had sat through two hours of it, a Seeker herself, and seen none of it.
 
 And yet, somewhere a long way down, something in her was fizzing.
 

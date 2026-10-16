@@ -108,11 +108,13 @@ Pettigrew nodded, slowly, the way a man nods who has been waiting to be asked.
 
 “Two letters, from the Ministry, to get Dumbledore and Severus out of the way. And a few drops of neutraliser in the Wolfsbane, while it stood ready on Severus’s desk.” He licked his lips. “How is Remus? He’ll have changed, I suppose. I do hope he hasn’t hurt anybody.”
 
-Under the cloak, Lyra stopped breathing.
+Under the cloak, Lyra stopped breathing. Then her broom was moving, a foot out from under the cloak, towards the shore, before she knew she meant it to; and Harry’s hand closed on her wrist and held it there.
+
+“Not yet,” he said, very low.
 
 There it was, then, said out loud. A rat on Snape’s desk, and a smear across the blotter, and a girl who had been in a hurry, and had wiped the goblet, and had told herself that whoever drank it need never know. Lupin had drunk it. And he had come down this shore with no man left in his eyes, and gone for the people he loved best, because she had not wanted to waste an evening.
 
-Harry did not look at her. He was watching the shore. She was glad of it.
+Harry did not look at her. He was watching the shore, and he did not let go of her wrist. She was glad of both.
 
 “You *hope*—” Sirius could hardly get it out.
 
@@ -182,7 +184,9 @@ Sirius and Potter were trying to cast. There were too many. The light kept going
 
 “It’s time,” said Harry.
 
-“Are you all right?” said Lyra. “There are so *many*.”
+She had seen it from the castle steps: a light going up beyond the trees, white and then silver, running out over the water. It had to go up from here, and it had to be soon, or she would not be standing on those steps to see it.
+
+“Are you all right?” It came out of her before she could stop it. “There are so *many*.”
 
 She had not forgotten. The match against Gryffindor, in the rain and the gale, with the hoods turned up from the grass, and Harry Potter coming off his broom. People said his boggart was a Dementor. Of anybody in the castle, he had the most for them to feed on.
 
@@ -296,7 +300,11 @@ The werewolf went for Malfoy, and Buckbeak reared over her and struck it back, a
 
 Lyra looked at the trees where it had gone, and said nothing.
 
-Malfoy was coming across the stones. Harry and Lyra moved back carefully, out of her way, and watched her kneel by Potter and put a finger under his nose, and look relieved, and stand up and send red sparks into the sky, over and over.
+Malfoy was coming across the stones. She stopped over Pettigrew with her wand out, and stood there a long moment; and beside Lyra, under the cloak, Harry caught his breath, not loudly. Malfoy’s head came round at the sound. She left Pettigrew where he lay and went to Potter.
+
+Lyra looked at Harry. He did not look back. *It might have been Potter*, she had thought at the time, *and it might have been the wind off the lake.*
+
+They moved back carefully, out of her way, and watched her kneel by Potter and put a finger under his nose, and look relieved, and stand up and send red sparks into the sky, over and over.
 
 Then Snape came along the shore out of the dark, and they watched that too.
 
@@ -344,7 +352,7 @@ It was the smallest pause. It was enough.
 
 For once, Harry looked taken aback. “How did you know?”
 
-“Severus and I were each called to the Ministry this evening, by letter, and the Ministry, when we arrived, had called neither of us. Peter’s work, I imagine. We came back as fast as we could, and found the whole business finished, and Peter caught, by two third-years.” He inclined his head. “I have a high opinion of you both. Not quite that high. A Time-Turner seemed the likelier explanation.”
+“Severus and I were each called to the Ministry this evening, by letter, and the Ministry, when we arrived, had called neither of us. Peter’s work, I imagine. We came back as fast as we could, in time to be told by Severus that the whole business was finished. And now here is Peter, caught, by two third-years.” He inclined his head. “I have a high opinion of you both. Not quite that high. A Time-Turner seemed the likelier explanation.”
 
 He raised his wand. Ropes uncoiled out of the air towards the broom and wound themselves round Pettigrew, round and round; and then they opened, very like two snakes opening their jaws, and closed over him again. If he woke up, and became a rat, they would swallow the rat.
 
