@@ -2,7 +2,11 @@
 
 It took Lyra eleven days to knock on her father’s study door.
 
-She spent the first ten deciding what to say. There were a great many versions, and she tried most of them out in her head while doing other things: over breakfast, through her mother’s afternoon callers, on the long walks round the grounds that her little brother Draco insisted on because he wanted to show her where the peacocks had been nesting. She tried being brisk. *Father, there’s something about the diary you ought to know.* She tried being delicate. One evening in the bath she tried simply saying the whole thing at once, under her breath, and was so appalled by how it sounded out loud that she slid under the water until her ears rang.
+She spent the first ten deciding what to say. There were a great many versions, and she tried most of them out in her head while doing other things: over breakfast, through her mother’s afternoon callers, on the long walks round the grounds that her little brother Draco insisted on because he wanted to show her where the peacocks had been nesting.
+
+She tried being brisk. *Father, there’s something about the diary you ought to know.* She tried being delicate.
+
+One evening in the bath she tried simply saying the whole thing at once, under her breath, and was so appalled by how it sounded out loud that she slid under the water until her ears rang.
 
 *Father, the book you put in the Weasley girl’s cauldron had a piece of the Dark Lord’s soul in it, and Harry Potter killed it with a basilisk fang, and he’s got it now, and I’ve agreed to be his hostage.*
 
@@ -10,7 +14,9 @@ There was no version of that sentence that improved with practice. And underneat
 
 Meanwhile the Manor went on around her in its usual summer fashion, which was beautifully and a little too quietly. The gardens were at their best. The white peacocks trailed their tails across the lawns like creatures who knew exactly what they were worth, and her mother had the long drawing room opened up and the windows thrown wide, so that the whole house smelled of roses and beeswax, as it did every July.
 
-Not everything was as usual, though. The Board of Governors had voted her father off on the night of the leaving feast. Lyra had read about it on the train home, in a copy of the *Daily Prophet* that Daphne Greengrass had passed across the compartment with an expression of such careful sympathy that Lyra had wanted to hex her. At dinner her father referred to the whole business as a temporary misunderstanding. In his study, when he believed nobody was listening, he used considerably shorter words.
+Not everything was as usual, though. The Board of Governors had voted her father off on the night of the leaving feast. Lyra had read about it on the train home, in a copy of the *Daily Prophet* that Daphne Greengrass had passed across the compartment with an expression of such careful sympathy that Lyra had wanted to hex her.
+
+At dinner her father referred to the whole business as a temporary misunderstanding. In his study, when he believed nobody was listening, he used considerably shorter words.
 
 And Dobby was gone. A new elf had arrived at the end of the first week, a nervous creature called Pobble who had come from some dwindling family in Kent that could no longer afford her, and who dropped things. Nobody mentioned Dobby at table. Lyra had learned long ago that the things her father did not mention were the ones that had cost him most, and he was not mentioning Dobby with tremendous energy.
 
@@ -126,9 +132,13 @@ Halfway down the long gallery Lyra stopped in front of a portrait of her great-g
 
 Her father had built his own gallows. Worse, he had just given her a tour of it, pointed out the quality of the joinery, and told her not to worry about the weather.
 
-She could still turn round. She could go back in, shut the door again, and tell him everything properly this time. She stood there for a long while, thinking it through as carefully as she had ever thought anything through, and every road she went down ended in the same place. If she told him, he would either laugh or believe her. If he laughed, it would be because Potter was a liar and Dumbledore was behind him, and nothing would change except that her father would start watching Potter, which was the last thing any of them needed. And if he believed her…
+She could still turn round. She could go back in, shut the door again, and tell him everything properly this time. She stood there for a long while, thinking it through as carefully as she had ever thought anything through, and every road she went down ended in the same place.
 
-That was worse. A man who believed he had lost the Dark Lord’s soul would not sit quietly in his study answering letters. He would do something. He would try to get the diary back from Potter, by methods Lyra did not want to picture. He would start sending owls to the sort of men who came up the drive after dark, to find out what they knew, and every one of those owls would make the danger larger. Her father was brilliant at a great many things. Sitting still while frightened was not one of them.
+If she told him, he would either laugh or believe her. If he laughed, it would be because Potter was a liar and Dumbledore was behind him, and nothing would change except that her father would start watching Potter, which was the last thing any of them needed. And if he believed her…
+
+That was worse. A man who believed he had lost the Dark Lord’s soul would not sit quietly in his study answering letters. He would do something.
+
+He would try to get the diary back from Potter, by methods Lyra did not want to picture. He would start sending owls to the sort of men who came up the drive after dark, to find out what they knew, and every one of those owls would make the danger larger. Her father was brilliant at a great many things. Sitting still while frightened was not one of them.
 
 Potter had told her to tell him. Potter did not know her father.
 
@@ -136,7 +146,11 @@ So nobody would be told. Not Father, not Mother, certainly not Draco. Standing i
 
 She went up to her room, where Pobble had already lit an enormous fire, opened every window, and sat down at her desk to think like a Malfoy.
 
-The happiest ending available, clearly, was that the Dark Lord stayed exactly where he was, which was nowhere. It was a disloyal thought. She made herself finish it anyway. The Malfoys already had money, and influence, and a house older than most of the Ministry’s laws. The Dark Lord could not give them a single thing they did not already have. All he could do was take things away, and he had a reputation for doing that thoroughly. Standing with him meant staking everything they owned for the privilege of keeping it, and Lyra had been doing sums since she was five. The sum did not work.
+The happiest ending available, clearly, was that the Dark Lord stayed exactly where he was, which was nowhere. It was a disloyal thought. She made herself finish it anyway.
+
+The Malfoys already had money, and influence, and a house older than most of the Ministry’s laws. The Dark Lord could not give them a single thing they did not already have. All he could do was take things away, and he had a reputation for doing that thoroughly.
+
+Standing with him meant staking everything they owned for the privilege of keeping it, and Lyra had been doing sums since she was five. The sum did not work.
 
 There was also the question of taste. Lyra had discovered at around the age of six that a smile could get her almost anything she wanted, and she had spent the years since refining the technique. She had no objection whatsoever to the right sort of people being in charge. She simply thought they ought to manage it charmingly. A world run on curses struck her as dreadfully crude.
 
@@ -168,9 +182,13 @@ It was not the sort of thing a twelve-year-old ought to think of. Lyra had told 
 
 “You don’t have to.” He had shrugged. “Up to you, Malfoy. Don’t take too long, though.”
 
-It was only afterwards, halfway back up the lawn, that the obvious question had caught up with her. If he gave her the diary, what exactly would he have left to blackmail her with? She had not gone back to ask. She was not certain she wanted the answer. A boy who handed you the only thing he had on you was either a fool or something she did not have a word for, and Potter, whatever else he was, was not a fool.
+It was only afterwards, halfway back up the lawn, that the obvious question had caught up with her. If he gave her the diary, what exactly would he have left to blackmail her with? She had not gone back to ask. She was not certain she wanted the answer.
 
-She had said she would think about it. She had been thinking about it ever since, and she had to admit, sitting at her desk with the fire roaring behind her in the middle of July, that Potter had been right about this too. A lie with the diary in it might keep her father alive. The truth would not. Kept in a drawer at the Manor for eleven years, then dropped into a little girl’s cauldron out of spite, carried up to Hogwarts in a satchel of secondhand books, and killed there, every last scrap of it. There was no version of that story the Dark Lord would forgive. If he ever heard it, somebody would die, and it would certainly be Father.
+A boy who handed you the only thing he had on you was either a fool or something she did not have a word for, and Potter, whatever else he was, was not a fool.
+
+She had said she would think about it. She had been thinking about it ever since, and she had to admit, sitting at her desk with the fire roaring behind her in the middle of July, that Potter had been right about this too.
+
+A lie with the diary in it might keep her father alive. The truth would not. Kept in a drawer at the Manor for eleven years, then dropped into a little girl’s cauldron out of spite, carried up to Hogwarts in a satchel of secondhand books, and killed there, every last scrap of it. There was no version of that story the Dark Lord would forgive. If he ever heard it, somebody would die, and it would certainly be Father.
 
 Which meant that if that day ever came, Father would have to tell the lie himself, and tell it well, and he could hardly tell a lie he did not know he needed. Lyra put that aside for later, next to everything else she was putting aside for later. The pile was getting tall.
 
