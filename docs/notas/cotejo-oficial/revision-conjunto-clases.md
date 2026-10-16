@@ -253,3 +253,204 @@ Sin cambios. Sus ecos («A starving one», «as hungry as he had said it would b
 Sin cambios. Depende del 14 en «told there was no room» (ver el 14, punto 1).
 
 **Veredicto: se puede subir** (no hay nada que subir), siempre que el 14 devuelva «no room».
+
+---
+
+## Cap. 16, How to Stop Smiling
+
+**Señalado:**
+
+1. **«Lucius Malfoy gave us the knife.» → «Lucius Malfoy sold his own master out to win an argument with Arthur Weasley.»** Y, en consecuencia, la réplica de Sirius «Then let him have it in the back» pasa a «Then let them sink». Se pierde una frase del registro que funcionaba como imagen (el cuchillo) y su eco. La nueva explica mejor el porqué. Clase A. Nada la cita después.
+2. **«I didn’t tell her because I thought she’d keep it secret. I told her because I thought it’d be all right even if she didn’t.» → «I didn’t tell her any of that thinking she’d keep it to herself. I told her what wouldn’t matter if she shouted it off the Astronomy Tower. By the time anybody listened, you’d be gone.»** Mismo sentido, más explícito. Clase A.
+3. **Madam Malkin’s:** se conserva el núcleo que retoman *Year One* 1 y el 22: «Shoulders back.» «Chin up.» «And smile. Like you mean it. You don’t lose your dignity, ever, anywhere.» y «Magic.». Cambian los remates: «I can’t bear boys who mumble.» → «Mumbling is for Muggles.»; «Brooms *fly*. Everybody knows that.» → «You *ride* it…»; «I don’t like you.» → «Don’t.»; «If you learn to behave properly, I might even let you walk about with me.» → «Practise it all month, and by September you might be fit to be seen with.» Todo clase A. «Fit to be seen with» casa aún mejor con el «stand next to her» de *Year One* 1.
+4. **Ganancia:** el cierre de la escena con Hagrid («looking at the floor had never once kept anything from landing on him… It had only meant he never saw it coming»).
+
+**Veredicto: se puede subir.**
+
+---
+
+## Cap. 17, The Face for It
+
+**Señalado:**
+
+1. **La promesa de Lyra (frase que cita un capítulo futuro).** «She would be on her knees before any of the others. She would be the most loyal servant he had ever had, so loyal that he would have to forgive her father the diary…» → «The Malfoys would be at his feet before the others had found their masks, and she would be at the front of them, on her knees, and she would make herself so useful, for so long, that one lost diary would be a thing he could afford to overlook. Whatever that took. Even if it meant turning on Potter.» El 25 (sin publicar) la cita **en cursiva y al pie de la letra** en su forma nueva («She remembered every word»). Retocado y futuro casan. Pero quien leyó el 17 publicado y no relee lo encontrará algo distinto en el 25. Los hechos no cambian: rodillas, delante de todos, perdón por el diario y «Even if it meant turning on Potter». *Condición:* el 17 retocado tiene que estar subido antes de publicar el 25. Si no, el 25 debería citar la versión publicada.
+2. **Draco:** «Ladies don’t sleep till eleven on Christmas. *Bears* do.» → «*Bears* get up earlier than you.»; «I’m going to be Seeker in my first week… better than you.» → «I’m going to find out all your secrets. And then I’ll *tell* everybody.»; «four years was a wall» desaparece. Clase A, con una semilla B (Draco quiere averiguar los secretos de Lyra) que no choca con nada.
+3. **El filtro de Harry:** «I did it treacle-tart flavour.» → «It’s for Monday mornings. Two sips and you stop minding what anyone thinks of you.» Puntos: 20, igual que antes (10 + 10). Clase A.
+4. **Ron y Scabbers:** «If you ever hear yourself say that again… you’ll never live it down.» → «Say that a bit louder… I don’t think Fred and George heard.» Clase A. **Se conserva** «seeing as you’re getting nowhere with Malfoy—».
+5. **Se conservan** «He says I’ve got the hands for it now… As well as the face.», «Then I shan’t interfere.», «Faultless, Miss Malfoy.», «She had told him not to smile in front of her. She had said nothing about everybody else.» y la escena del baño vacío.
+
+**Veredicto: se puede subir** (con la condición del punto 1).
+
+---
+
+## Cap. 18, Fair Play
+
+**Señalado:**
+
+1. **La frase de los anillos.** «Bin them… They come in twos, and there are three of us. There’s no point.» / «Bin them? Really?» / «It isn’t as if there’s anybody else to give one to.» → «Bin them. Or give them to Millicent… It hardly matters. One can’t wear a pair of rings on one’s own.» La versión publicada tenía la frase que más pesa del capítulo: la negación que el lector lee al revés. La nueva es más plana. Clase A en hechos; pérdida de carga.
+   *Propuesta:* «It hardly matters. It isn’t as if there’s anybody to give one to.» El 21 cita «*Bin them*» y «*Do as you like*», que se conservan.
+2. **Diggory:** «Heard you fell out with Potter?» / «Potter and I fell out on the day we met» → «Is it true about you and Potter? That it’s off?» / «There was never anything to be off… We’ve loathed each other since we were eleven. Ask anybody.» Esto repite casi palabra por palabra lo que Lyra dice en el 13 retocado («Potter and I have loathed each other since we were eleven. Ask anybody»). Se lee como eco deliberado y no choca. Se conserva **«Maybe Potter doesn’t feel a thing. Maybe it’s only you.»**
+3. **El pañuelo:** «It would do, she decided, for a Malfoy’s handkerchief. Just.» → «the sort somebody’s grandmother might have hemmed». Es un detalle B («de abuela»): puede leerse como semilla de un objeto de los Potter. Nada posterior lo contradice; el 23 solo dice que Lyra lo lavó y lo planchó.
+4. **«Do try.» → «How nice for you.»**, **«Do you practise standing in doorways…» → «Excuse me… Some of us have had breakfast before.»** Clase A.
+
+**Veredicto: se puede subir** (el punto 1 es recomendable).
+
+---
+
+## Cap. 19, Shut Up, Malfoy
+
+**Señalado:**
+
+1. **Lo que se conserva y se cita después:** «You could always become Animagi and turn into ferrets» (ahora «Have you thought about ferrets? You’d make natural ones», que es semilla del 27), «Attached… Honestly» / «*Ha*», «Then I’m in your debt, Miss Malfoy… which I suspect you’ll enjoy», «Oh, *Harry*», «So you take *Granger*», «You owe me two… Not *once*», «Shut up, Malfoy», «Is that *charity* again?» / «No», «Tomorrow I’ll tell you everything». El 21 retocado las cita bien.
+2. **Lyra a Harry: «I went over the accounts myself—mine, my reckoning, my decision—and I came out on your side. And you treat it as if it were nothing.» → «I chose. I stood in that classroom and did the sums and came down on your side, and I have not gone back on it since, and you put it on a shelf.»** «I have not gone back on it since» roza al 17, donde Lyra decide no intervenir y, si Potter fracasa, ponerse de rodillas ante el Señor Oscuro. Es retórica de Lyra en plena discusión, y en sentido estricto no ha vuelto atrás todavía. Clase B. Nada que arreglar, pero el lector atento verá la ironía.
+3. **Ron:** «Small, and full of things nobody else wants.» / «Our house is massive, actually. It’s my room that’s small.» → «Did you make this yourself? It looks it.» / «My dad showed me, actually. He’s good with Muggle stuff.» Se pierde la mejor réplica de Ron del tramo. Clase A. *Opcional:* devolverla.
+4. **La poción:** se conservan las huellas, la copa limpiada en el secante y «Whoever drank it need never know». Lo nuevo («A rat could not have drunk much») añade una excusa a Lyra. Clase B, compatible con el 21 y el 22.
+5. **Lupin cuenta su historia sin decir «rat»** («goes about on four legs»), y Lyra lo deduce. El dedo de Pettigrew sigue ahí. Se conserva el hecho de los Animagos (ciervo, perro, rata) y se añade «in our second year… they were fifteen». Compatible con el canon.
+
+**Veredicto: se puede subir.**
+
+---
+
+## Cap. 20, Which Way to Look
+
+**Citas comprobadas:** el 21 y el 22 retocados se han puesto al día con las frases nuevas del 20: «What. Have *you* got something to say?», «*The truth only stops mattering when nobody can get at it.*» y «*And that is my decision.*». Casan.
+
+**Señalado:**
+
+1. **El dedo del anillo.** Antes: «It looked wrong in the middle, too even; she would move it along one.» El lector entendía que iba a pasarlo al anular. Ahora: «She had just decided it looked absurd there, and was reaching to take it off». Se pierde el guiño hacia el anular, que el 21 (la punta del anular dentro del anillo) y el 23 (anular izquierdo) pagan. Frontera A/B.
+   *Propuesta:* «She had just decided it looked absurd there, and was reaching to move it one finger along, when it went red.»
+2. **Snape:** «Well done, Lyra.» → «But I see the evening has not been wasted after all.» Se pierde el elogio directo de Snape a Lyra, que pesaba (es la única vez que la felicita así). Clase A. *Opcional.*
+3. **Lyra da las gracias a Buckbeak** («That was very— That was most— Thank you.»). Antes era «You helped me» / «Very creditable. I commend you». En el 22 Lyra se corrige para no sonar «in debt to an animal». Las dos cosas pueden convivir (en privado le da las gracias, delante de Harry no), pero conviene saberlo. Clase B.
+4. **Ganancias:** «a duke under house arrest», «as gravely as an ambassador accepting an apology», «In the picture he had been awake for it», «a girl walking out of the front doors at curfew with her wand drawn was a girl who would be remembered».
+5. **«The truth only doesn’t matter when there’s no way to find it out» → «The truth only stops mattering when nobody can get at it»** y **«And that is what I’ve decided should happen» → «And that is my decision»**. Clase A, actualizadas en el 22. Se conserva **«Your father’s daughter.»**
+
+**Veredicto: se puede subir** (el punto 1 es recomendable).
+
+---
+
+## Cap. 21, Coincidence
+
+**Señalado:**
+
+1. **Se conservan los pilares:** la cadena alrededor de los dos cuellos, la regla de nombres («The earlier me is Potter, and the earlier you is Malfoy. I’m Harry, and you’re Lyra.»), «I came because you begged», «You said tomorrow.» / «I was early.», «It had not been guilt. He had been trying not to laugh.», el robo del mapa, el anillo rosa, la frase de Crabbe y **«Coincidence.»** Gana **«She looked like somebody who had walked into a door.»**, la frase que elogia el crítico.
+2. **«If you were wearing this… no wonder you came to find me.» → «Well… Remind me to thank Crabbe.»** Antes, Harry decía en voz alta que había entendido por qué fue ella; el «Coincidence» de Lyra contestaba a eso. Ahora el chiste es bueno, pero el reconocimiento se queda implícito y «Coincidence» contesta a la explicación interior de Lyra. Clase A en hechos; pérdida de una frase romántica del registro.
+   *Propuesta:* juntar las dos: «Well,» said Harry. «No wonder you came to find me. Remind me to thank Crabbe.»
+3. **Frases del registro que desaparecen** (clase A, sin citas posteriores): «And the stricter the rule, the better it feels to break it», «*I always look ready*», «Use a *spell*, like a civilised person!», «Never seen her before in my life» (ahora «I have no idea who that is»), «How did you ever stand it, being that buttoned up all the time?», «He always did have a gift… for finding the moment when everybody else was weakest», «Tonight I’ll be the tamest wolf you ever saw», «Like the pair of them», «It’s *private*. I’m not telling you.», «Smells. Honestly. What next.» Ninguna es imprescindible; juntas, el capítulo pierde algo de su textura cómica original y gana precisión. Es el capítulo más retocado de los publicados (416 líneas de diff), y una relectura notará que «suena distinto», aunque pase lo mismo.
+4. **Lupin y la poción:** «I don’t think he knows about the potion» → «What he doesn’t know about… is Severus’s potion». Mismo hecho. El razonamiento de Lyra sobre la rata y la carta falsa se conserva.
+
+**Veredicto: se puede subir** (el punto 2 es recomendable). Es el capítulo con más riesgo de «se nota que lo han reescrito», no por los hechos sino por la cantidad de frases cómicas cambiadas a la vez. Si el autor quiere minimizar ese riesgo en el último capítulo de Wattpad, que devuelva dos o tres de las del punto 3: «I always look ready», «Never seen her before in my life» y «the tamest wolf you ever saw» son las más recordables.
+
+---
+
+## Cap. 22, A Professional Relationship
+
+Solo cambian las dos citas del 20, puestas al día. Casa. Ninguna frase del registro cambia («Can I smile in front of you?», «…Only in front of me», «Every time I smile, I’ll think of you», «Miss Malfoy, please, sir. It’s a professional relationship.», «You cannot tell her everything.»).
+
+**Veredicto provisional: se puede subir** (siempre con el 20). **Pendiente del retoque:** el coordinador está retocando el 22 ahora mismo. Este juicio se basa solo en el diff preparado y habrá que repetirlo sobre la versión final.
+
+---
+
+## Cap. 23, Nine o’Clock; *Year One* 1 y 2
+
+Sin cambios. Comprobado que sus ecos de capítulos anteriores siguen en pie tras la revisión: «Got it in one» (ahora sin eco del 8, pero no choca), el pañuelo del 18, «*only in front of me*», «You asked me once whether I was in trouble» (el 7 lo conserva), Madam Malkin’s en *Year One* 1 («shoulders back… chin up… smile like he meant it… not to lose his dignity, ever, anywhere»), «Keep your dignity, Malfoy» y las trenzas de Crabbe (el 4 las conserva).
+
+**Veredicto: se pueden subir** (no hay nada que subir). **El 23 queda pendiente del retoque:** el coordinador lo está retocando y hay que revisarlo cuando termine. *Year One* 1 y 2 no se tocan.
+
+---
+
+## Futuros (24 a 30, *Year One* 3 y 4)
+
+*Leídos enteros. *Year One* 3 y 4 en la versión del commit `4edef79` (16-10-2026, 00:11, «arreglos de la revisión editorial»). El coordinador ha confirmado que es su versión final.*
+
+### A. Citas y ecos de lo retocado: cuál recogen y si casa
+
+| Futuro | Qué recoge | ¿Versión vieja o nueva? | ¿Casa? |
+|---|---|---|---|
+| 25 | La promesa del 17, **en cursiva y al pie de la letra**: «*At his feet before the others had found their masks. At the front of them, on her knees. So useful, for so long, that one lost diary would be a thing he could afford to overlook. Whatever that took. Even if it meant turning on Potter.*» («She remembered every word») | **Nueva** (17 retocado) | Casa con el 17 retocado. **Con el 17 publicado no casa a la letra** (allí: «on her knees before any of the others… the most loyal servant he had ever had, so loyal that he would have to forgive her father the diary… Whatever it took»). Los hechos son los mismos. **Condición: subir el 17 retocado antes que el 25.** Si no, que el 25 cite la versión publicada. |
+| 30 | «Last Christmas, on the end of her bed at the Manor, she had sworn to be first on her knees… even if it meant turning on Potter» | Paráfrasis | Casa con las dos. |
+| 26 | «*He changed his mind about something, and it killed him*» (Narcissa, 7) y «*the most devoted of us all*» (carta de Lucius, 9) | Ambas se conservan en el 7 y el 9 retocados | Casa. |
+| 26 | «your little finger was sticking out» (Harry vio a Lyra con la copa, en el 21) | El 21 retocado conserva «with the little finger very slightly lifted» | Casa. |
+| 25, 26 | «*whoever drinks it need never know*», las huellas, la copa limpiada en el secante | El 19 retocado conserva «Whoever drank it need never know» y el secante | Casa. Detalle: el 25 dice «a line of little prints across a blotter». En el 19 (las dos versiones) las huellas están en la mesa y la copa se limpia en el secante. Es inexactitud menor; *propuesta:* «across a desk». |
+| 27 | «She had told him, last year, in a corridor, that he would make a natural ferret» | El 19 publicado («You’d be naturals») y el retocado («You’d make natural ones») | Casa con las dos. |
+| 27 | Lupin: «I told you once that I was in your debt. I find that I still am.» | El 19 (las dos versiones) | Casa. |
+| 27 | «The day of the hippogriff he had run with her under a cloak, blind, and stumbled on the stairs, and caught himself on the wall with his shoulder rather than let go» | El 5 (las dos versiones) | Casa. |
+| 28 | «She owed him a steak. She had told him so in February» | El 20: «prime steak» (publicado) y «steak… The best I can find» (retocado) | Casa con las dos. |
+| 29 | «*Prior engagement.*» | El 13 (título y frase, conservados) | Casa. |
+| 29 | «A Dementor. A word he would not let her finish. A tail.» (las razones de los besos anteriores) | El 3 retocado («something that hasn’t got a face») | Casa, pero refuerza la propuesta del 3: el lector recuerda el primer beso como «el del Dementor». |
+| 30 | «*No need*… *Very kind. But no need.*» | El 23 (sin cambios) | Casa. |
+| 30 | «*It’s better, for now, if nobody can see it… Officially.*» | El 23 (sin cambios) | Casa. |
+| 30 | «She had seen him angry, and smug, and frightened on the floor of a train» | El 4 (conservado) | Casa. |
+| 30 | La pluma de azúcar: «Since Hallowe’en.» / «…Which one?» | El 8 y la pluma (sin cambios en Honeydukes) | Casa, pero ver B.1 (el ratón de azúcar nuevo del 8). |
+| 24, 25 | «*Especially next year. If students come from other schools*», bajo el claustro, en mayo | El 23 (sin cambios) | Casa. |
+| 24 | «Red she had not seen since February»; el anillo que va de rojo a rosa la noche de los dos Harrys | El 20 y el 21 | Casa con las dos. |
+| *Y1-3* | «the way you might look at an insect you had not yet decided whether to bother stepping on» | La sonrisa del boggart del 4 (conservada) | Casa. |
+| *Y1-3* | «Shut up, Malfoy», dicho en primero, plano «like a door closing» | Es el eco del 19 | Casa. Pero el 1 retocado («Stop talking for one minute») rompe el eslabón intermedio de la cadena primero → noche de la Cámara → 19. Refuerza la propuesta del 1. |
+| *Y1-3* | «Then Potter clicked his tongue—*her* trick» | El rasgo de Lyra está en *Year One* 1 y 2 (publicados, sin cambios). El 3 retocado quita su único chasquido en los capítulos principales («Lyra clicked her tongue» → «Lyra let that pass») | No choca: el rasgo queda establecido en Webnovel. *Opcional:* devolver el chasquido en el 3, para que el lector de Wattpad (que no tiene los *Year One*) lo haya visto. |
+| *Y1-4* | Lupin: «asked her whether Harry Potter had ever given her a really bad fright» | El 4 conserva «Has he ever given you a really bad fright, at some point?» | Casa. |
+| *Y1-4* | La cara que Lyra teme: la de Harry con ventaja, sujetándola contra la pared | El 4 retocado («It’s Harry with the upper hand») | Casa **mejor** con la versión nueva del 4 que con la publicada («the way Harry behaves»). Es un argumento a favor del cambio del 4. |
+| *Y1-4* | «said he had walked into a door» | El 21 retocado («somebody who had walked into a door») | Eco nuevo y bueno. |
+| *Y1-4* | «when she watched that cold face turn on her father at the foot of the marble staircase, she thought she was seeing it for the first time» | El 6 (sin cambio en ese pasaje) | Casa. |
+
+### B. Contradicciones o riesgos de hechos entre los futuros y el registro
+
+1. **El ratón de azúcar del 8 retocado frente a la pluma del 30.** El 8 retocado añade que Harry pide «Sugar mouse… Pink, if they’ve got one». Lyra compra una pluma (como en lo publicado) y el 30 paga la pluma con «…Which one?». El ratón queda como semilla sin pagar. *Dos salidas:* (a) quitar el ratón del 8; (b) atarlo en el 8 («There were sugar mice in the next jar, pink ones. She did not look at them.») y, si se quiere, en el 30, una línea de Harry: «It’s not a mouse.» / «You weren’t getting a mouse.» La (b) le da al 30 una capa más sin tocar «…Which one?».
+
+2. **El 28 contradice *Year One* 1 (publicado en Webnovel).** «She thought of a round-faced boy in first year, scrabbling on the floor for the bits of a Remembrall.» En *Year One* 1, Neville se va a la enfermería con la muñeca rota antes de que la recordadora se rompa; se rompe en la hierba, nadie la recoge delante de Lyra y al día siguiente llegan tres nuevas sin remitente (de Lyra). Neville nunca está en el suelo recogiendo los trozos. *Propuesta:* «She thought of a round-faced boy in first year, and a Remembrall in pieces on the grass, and three new ones in a parcel with no name on it.» Esta versión, además, recuerda al lector que fue ella quien las mandó.
+
+3. **El 25: «a line of little prints across a blotter».** Ver la tabla A; es una inexactitud menor.
+
+4. **Nota interna, no de lectores.** `borradores/cap-29-lector.md` (la nota del lector para el 29) cita las versiones **publicadas** del 1 («cost Voldemort one of his seven lives»), del 4 («seven lives gone») y del 3 («Even I’m not sad enough to get my first one off a Dementor»), y apoya en esta última la lectura de que el beso del 29 es «el primero sin nada a lo que echar la culpa». No afecta al texto, pero confirma que el equipo leía el beso del 3 como «también el primero de Harry». Es otro argumento para devolver esa media frase (ver el 3, punto 2).
+
+5. **Sin contradicciones de hechos** en lo demás. Lo comprobado:
+   - Edades: Draco tiene 9 en Navidad y 10 en verano; «Draco goes next year».
+   - Fechas: luna llena y anillo rojo en febrero; claustro en mayo; el guardapelo destruido un martes de agosto, a las 2:15, con el anillo dorado.
+   - Objetos: la Saeta de Lyra; la de Harry, con el número de registro sin desgastar; los anillos; el pañuelo; la cinta.
+   - Quién sabe qué: Ron sabe que salen (*Y1-1*, 28); Moody lo sabe (27); Granger y Ron saben de los Horrocruxes desde el 29.
+   - La deuda con Lupin (19, 23, 26, 27) y la de Buckbeak (20, 28).
+   - La palabra «Mudblood»: dicha en primero (*Y1-4*), luego en segundo por las escobas (1) y en tercero en la biblioteca (7). *Y1-4* lo cuadra: «The next time was the following autumn, on a Quidditch pitch, about some brooms».
+   - El primer rechazo de la mano en el tren (1, *Y1-1*).
+
+---
+
+## Resumen
+
+### Veredictos
+
+| Cap. | Veredicto |
+|---|---|
+| 1 | Subir con arreglos: el cumplido de Harry («smarter than I thought… the nicest thing I’ve ever said to you») y el «Shut up» |
+| 2 | Subir |
+| 3 | Subir con arreglos: el remate del Dementor; «my first one» / «For somebody…» (clase C); opcionales «She could not.» y «I’ll get you some one day» |
+| 4 | Subir (opcional: los fuegos artificiales de Lupin; «Harry’s to mend») |
+| 5 | Subir (opcional: «the first time» → «the other times», por *Year One* 1) |
+| 6 | Subir |
+| 7 | Subir, junto con el 3 |
+| 8 | Subir con arreglos: el formulario que vuela a McGonagall; atar o quitar el ratón de azúcar |
+| 9 | Subir |
+| 10 | Subir con un arreglo: quitar «like a hound on a scent» (Patronus, zorro del 22) |
+| 11 | Subir |
+| 12 | Sin cambios |
+| 13 | Subir con un arreglo: «I’ve been wanting to meet you» (primer encuentro con Sirius); el remate «mortal enemy», a criterio |
+| 14 | Subir con un arreglo: devolver «There’s no room for you in this» (lo cita el 15) |
+| 15 | Sin cambios (depende del 14) |
+| 16 | Subir |
+| 17 | Subir; tiene que estar subido antes que el 25, que lo cita a la letra |
+| 18 | Subir (recomendable: «It isn’t as if there’s anybody to give one to») |
+| 19 | Subir |
+| 20 | Subir (recomendable: «move it one finger along») |
+| 21 | Subir (recomendable: «No wonder you came to find me»; si se quiere menos riesgo, devolver dos o tres frases cómicas) |
+| 22 | Subir, junto con el 20 (provisional: **pendiente del retoque**) |
+| 23 | Sin cambios en el diff (**pendiente del retoque**) |
+| *Y1* 1-2 | Sin cambios |
+
+### Lo que el encargo del crítico da por publicado y no lo está
+
+Varias frases de su lista §2.3 son de la versión **revisada**, no de la publicada:
+- «built his own gallows… a tour of it» (2);
+- «Potter is a weather event» (3);
+- «Arm first. Executions after» (5);
+- «Twenty… for the arithmetic» y el cepillo de dientes en su forma «I’d bought a toothbrush» (6);
+- «Is it a date?» / «It is a *negotiation*» (13);
+- «walked into a door» (21).
+
+Son ganancias de la revisión que conviene conservar, pero el lector de Wattpad o de Webnovel no las conoce todavía: no son «lo que los lectores recuerdan». Lo que sí recuerdan está en `registro-publicado.md`.
