@@ -3,26 +3,26 @@
 
 ## Escenas
 (Estructura nueva del cotejo, 16 de octubre de 2026: abre con Lyra huyendo; los hechos son los de lo publicado.)
-1. **Lyra, en la nieve, justo después del abeto.** «Harry Potter. How *dare* he.» Ha huido («very nearly picked up her robes and run»). El nombre: crecieron en casas donde no se dice; Potter lo dice «the way other people asked for the salt»; «It was a curse you could not block.» Lyra se para: «Weasley jumped… as much as we did». Plan: dejar a Potter y ir a por los de alrededor (Weasley, Granger, Longbottom). Goyle aplaude; Crabbe calla: «his parents are dead. Isn’t it a bit sad?» Lyra («Father said there was no such thing as a small disloyalty…») razona con ella: «Not having parents. As if that were such a great matter.»
-2. **Harry: Wood, Halloween, el partido y el abeto.** Wood le enseña la Snitch un miércoles al atardecer; la coge en menos de cinco minutos: «We’re winning the Cup this year». Primera vez que es el mejor en algo. Trol en el baño; en su primer partido la escoba enloquece; coge la Snitch «more or less in his mouth»; Gryffindor gana a Slytherin. Malfoy «took it personally». Una semana antes de Navidad, arrastrando el abeto con Hagrid: «one less mouth to feed»; «Some people have nobody who wants them at Christmas». Harry contiene a Ron («Don’t let her have it»), no se enfada (en Privet Drive nunca pudo contestar), se siente libre, sonríe («practising it since August»): «Can’t be helped. My mum and dad died stopping Voldemort.» Se encogen los tres Slytherin y también Ron. «Or do you hate me? For getting rid of Voldemort?» Ella casi corre. Ron: «You shut *Malfoy* up!» / «You just answer back straight, and smile first. Then you win.» / «You get used to it?» En la sala común no lo disfruta.
-3. **Lyra, esa noche, en la cama.** No se quita de la cabeza lo de Crabbe. Recuerdo de los ocho años: los padres se fueron sin explicar; desayunó sola (Dobby); libro, escoba, retratos una hora, ajedrez sola; Draco lloró por mamá, ella no («somebody had to be the eldest»); se acostó sin dormir «very much as she was lying now». «Like a Malfoy, she had held it in.» Volvieron antes del amanecer: Narcissa con la capa de viaje, Lucius con la mano de la varita vendada, una caja de violetas azucaradas. «What if that day came every day?» «Rubbish… you’d have elves, and relations.» «After Christmas, Potter… You’ll see.» / «The arrow was already off the string.»
+1. **Lyra, en la nieve, justo después del abeto.** «Harry Potter,» said Lyra. «How *dare* he.» Va caminando muy deprisa por el césped, lejos de la cabaña de Hagrid, con Crabbe y Goyle trotando detrás; ha huido («very nearly picked up her robes and run»). El nombre: crecieron en casas donde no se dice; Potter lo dice «the way other people asked for the salt»; «It was a curse you could not block.» Goyle, sombría: «Even Weasley jumped… When he said it. So it’s not just us»; Lyra se para en seco. Plan («Potter’s the only one stupid enough to say the name. So we leave him alone, and go for everybody round him»): dejar a Potter y ir a por los de alrededor (Weasley, Granger, Longbottom). Goyle aplaude; Crabbe (con las dos trenzas que le hace llevar su madre) calla y luego, rosa hasta la raya del pelo: «It’s only… his parents are dead. Isn’t it a bit sad?» Lyra («Father said there was no such thing as a small disloyalty…») razona con ella: «Not having parents. As if that were such a great matter.»
+2. **Harry: Wood, Halloween, el partido y el abeto.** Wood le enseña la Snitch un miércoles al atardecer; la coge en menos de cinco minutos: «We’re winning the Cup this year». Primera vez que es el mejor en algo. Trol en el baño; en su primer partido la escoba enloquece; coge la Snitch «more or less in his mouth»; Gryffindor gana a Slytherin. Malfoy «took it personally». Una semana antes de Navidad, arrastrando el abeto con Hagrid y Ron (Hagrid, delante, deja de tirar): Lyra, con Crabbe y Goyle a los hombros, a Ron: «I expect your family’d be glad of one less mouth to feed»; a Harry: «Some people have nobody who wants them at Christmas, so they have to stay at school». Harry contiene a Ron («Don’t let her have it»), no se enfada (en Privet Drive nunca pudo contestar), se siente libre, sonríe («practising it since August»): «Can’t be helped. My mum and dad died stopping Voldemort.» Se encogen los tres Slytherin y también Ron («out of the corner of Harry’s eye»). Harry sigue: «And because of them, Voldemort’s gone… So everybody ought to be grateful to my mum and dad. Shouldn’t they? You too, Malfoy.» «Or do you hate me? For getting rid of Voldemort?» Ella «almost ran»; Crabbe y Goyle detrás. Ron: «You shut *Malfoy* up!» / «You just answer back straight, and smile first. Then you win.» / «You get used to it?» En la sala común Ron lo cuenta a todos y Neville lo mira como a un héroe de libro; Harry no puede disfrutarlo («When everybody hated something that you liked…»).
+3. **Lyra, esa noche, en la cama.** No se quita de la cabeza lo de Crabbe. Recuerdo de los ocho años: los padres se fueron sin explicar; desayunó sola (Dobby); libro, escoba, retratos una hora, ajedrez sola; Draco lloró por mamá, ella no («somebody had to be the eldest»); se acostó sin dormir «very much as she was lying now». «Like a Malfoy, she had held it in.» Volvieron antes del amanecer: Narcissa con la capa de viaje, Lucius con la mano de la varita vendada, una caja de violetas azucaradas. «What if that day came every day?» «Rubbish… you’d have elves, and relations.» «After Christmas, Potter,» said Lyra, to the dark. «You’ll see.» / «The arrow was already off the string.»
 
 ## Frases literales importantes
-- «Harry Potter… How *dare* he.» (l. 3)
+- «Harry Potter,» said Lyra. «How *dare* he.» (l. 3)
 - «It was a curse you could not block.» (l. 17)
-- «Potter’s the only one stupid enough to say the name. So we leave him alone, and go for everybody round him.» (l. 25)
-- «It’s only… his parents are dead. Isn’t it a bit sad?» (Crabbe, l. 49)
-- «That’s it. We’re winning the Cup this year.» (Wood, l. 73)
-- «Some people have nobody who wants them at Christmas.» (Lyra, l. 99)
-- «Can’t be helped. My mum and dad died stopping Voldemort.» (l. 109)
-- «Or do you hate me? For getting rid of Voldemort?» (l. 121)
-- «You just answer back straight, and smile first. Then you win.» (l. 133)
-- «Like a Malfoy, she had held it in.» (l. 163)
-- «After Christmas, Potter. You’ll see.» (l. 177)
+- «Potter’s the only one stupid enough to say the name. So we leave him alone, and go for everybody round him.» (l. 27)
+- «It’s only… his parents are dead. Isn’t it a bit sad?» (Crabbe, l. 51)
+- «That’s it. We’re winning the Cup this year.» (Wood, l. 75)
+- «Some people have nobody who wants them at Christmas.» (Lyra, l. 101)
+- «Can’t be helped. My mum and dad died stopping Voldemort.» (l. 111)
+- «Or do you hate me? For getting rid of Voldemort?» (l. 123)
+- «You just answer back straight, and smile first. Then you win.» (l. 135)
+- «Like a Malfoy, she had held it in.» (l. 165)
+- «After Christmas, Potter,» said Lyra, to the dark. «You’ll see.» (l. 179)
 
 ## Fichas (objetos y motivos)
 - **Snitch** de entrenamiento (Wood).
-- **Violetas azucaradas** (caja de la confitería de Narcissa): parte del recuerdo de Lyra a los ocho años. Eco de la pluma de azúcar y las almendras garrapiñadas.
+- **Violetas azucaradas** (caja del confitero de la madre de Lyra, «from her mother’s confectioner»): parte del recuerdo de Lyra a los ocho años. Eco de la pluma de azúcar y las almendras garrapiñadas.
 - **Capa de viaje** de Narcissa y **mano vendada** de Lucius: pistas del pasado.
 - **El nombre de Voldemort** como arma de Harry, sonriendo.
 - Árbol de Hagrid; Crabbe con trenzas («her mother made her wear»).
@@ -41,11 +41,11 @@
 Abiertos: «After Christmas, Potter» (consecuencia en el resto del primer año); la compasión de Crabbe; el pasado de los padres de Lyra. Cerrados: el origen de la sonrisa como arma.
 
 ## Secundarios
-Wood, Hagrid (mencionado), Ron (furioso), Crabbe (con trenzas, tímida), Goyle (animada), Dobby (elfo de la casa cuando Lyra tenía ocho años), Draco (4 años, «too small to count»).
+Wood, Hagrid (presente al arrastrar el abeto; calla), Ron (furioso, luego exultante), Crabbe (cara redonda, con trenzas, tímida), Goyle (animada), Neville (mira a Harry como a un héroe), Dobby (elfo de la casa cuando Lyra tenía ocho años), Draco («too small to count»; su edad no se dice en este texto).
 
 ## Continuidad fácil de romper
 - El elfo de la infancia de Lyra es Dobby; en el cap. 17 (1993) el elfo del Manor es Pobble. Coherente si Dobby fue liberado en segundo año (según el publicado), pero no está dicho aquí.
-- Draco tiene cuatro años menos: cuatro en 1988.
+- Draco, según el resto de la serie, tiene cuatro años menos (cuatro en 1988); este texto solo dice que era «too small to count».
 - Lyra tiene ocho cuando los padres se van; vuelven «just before dawn».
 - Harry usa «Voldemort», Lyra no puede decirlo.
 - El baño de chicas del trol (Halloween 1991) coincide con el baño del 17.
