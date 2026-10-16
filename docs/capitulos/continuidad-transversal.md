@@ -79,11 +79,11 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 - Sabe cosas antes de que pasen (24, 25). **No se explica** hasta que lo haga el original.
 
 ### Sirius y Pettigrew
-- **Lyra:** Sirius es inocente; Pettigrew era el guardián y vive (14); era Scabbers (19); lo vio confesar (22).
+- **Lyra:** Sirius es inocente; Pettigrew era el guardián y vive (14); era Scabbers (19); lo vio confesar (22). **Vio el dedo que le falta a la rata** (19: le pasó por el zapato) y se lo calló a Weasley («Nobody in the world looks at a rat’s feet but you, Weasley»); Weasley no lo sabe.
 - **El Ministerio calla** (23). Pettigrew lo tiene Dumbledore (22); su destino público no consta.
 
 ### Lupin y la poción
-- **Lyra** sabe que es hombre lobo desde el 13 de noviembre de 1993 (12) y se lo dijo (19). Llevó la poción con huellas de rata (19), lo supo en la orilla (20), lo oyó confesar a Pettigrew (22).
+- **Lyra** sabe que es hombre lobo desde el 13 de noviembre de 1993 (12) y se lo dijo (19), cobrando así su silencio («I should like to collect»). Llevó la poción con huellas de rata (19), lo supo en la orilla (20), lo oyó confesar a Pettigrew (22).
 - **Harry** lo sabe por ella (26) y la vio llevarla bajo la capa.
 - **Lupin** lo sabe por la carta de ella (27). No la absuelve y se declara aún en deuda.
 - **Snape** no sabe lo del cáliz. Slytherin cree que Lupin era hombre lobo por un rumor de Parkinson (25).
@@ -151,9 +151,9 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 
 ## 6. Deudas abiertas
 
-- **Harry → Lyra:** «You held on» (12), sin gastar. Lo del Torneo («Can’t»). Lo de Moody (no se lo dijo: «You weren’t answering»). Lo de Karkaroff y los dragones (29), que Lyra no deja apuntar («Don’t»). La pluma de azúcar (30), dada sin precio.
+- **Harry → Lyra:** «You held on» (12; «two I owe you»): **cobrada por Lyra en el 19** («I’ve come to collect… I’m calling it in») y pagada con «Tomorrow I’ll tell you everything», que se cumple **a medias**: en el 22 Dumbledore le corta con «You cannot tell her everything» y Harry sigue sin contárselo todo. Lo del Torneo («Can’t»). Lo de Moody (no se lo dijo: «You weren’t answering»). Lo de Karkaroff y los dragones (29), que Lyra no deja apuntar («Don’t»). La pluma de azúcar (30), dada sin precio.
 - **Lyra → Harry:** 1992 (nunca reconocida). La capa (otra vez en su bolsa desde el 30), el pañuelo. «Put it on my account» (24).
-- **Lyra ↔ Lupin:** pagada con la verdad (27); él dice que sigue en deuda con ella.
+- **Lyra ↔ Lupin:** su «Then I’m in your debt» (19) **lo cobró Lyra en el mismo 19** («Yes, sir. I should like to collect»: su silencio desde el 13 de noviembre, a cambio de la verdad sobre los Merodeadores y Peter). Luego ella le debe la poción (20, 22); pagada con la verdad (27), aunque él insiste en que sigue en deuda con ella («I find that I still am», 27).
 - **Lyra → Snape:** la mentira de la orilla; cuenta abierta y vigilada.
 - **Lyra → Narcissa:** la posdata.
 - **Lyra → Granger:** el insulto del 7, sin disculpa. Lo de los onces y el horario quedó «square» (15).
