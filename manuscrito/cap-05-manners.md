@@ -16,7 +16,7 @@ Hagrid looked crestfallen. “Yeh’ve just got ter stroke ’em,” he said, an
 
 Lyra Malfoy kept a list, not on paper, of the people she looked down on. It was a long list, and it was in order, and Rubeus Hagrid had been at the top of it since her first week.
 
-The order was not arbitrary. Bad manners could be taught out of a person, and laziness frightened out, but a grown man who had fallen at the first fence and then lived for fifty years on another man’s kindness, quite cheerfully, as though that were a career, was beyond anybody’s help. Hagrid managed all of it without apparent effort. He was the size of a small shed, he dressed like a haystack that had been out in the rain, he had never finished his own schooling, and he had spent the fifty years since living in a hut at the bottom of the grounds on whatever Dumbledore saw fit to give him.
+The order was not arbitrary. Bad manners could be taught out of a person, and laziness frightened out, but a grown man who had fallen at the first fence and then lived on another man’s kindness ever since, quite cheerfully, as though that were a career, was beyond anybody’s help. Hagrid managed all of it without apparent effort. He was the size of a small shed, he dressed like a haystack that had been out in the rain, he had never finished his own schooling, and he had spent the fifty years since living in a hut at the bottom of the grounds on whatever Dumbledore saw fit to give him.
 
 And now he was a teacher.
 
@@ -42,11 +42,7 @@ Lyra made a small sound that she would not have liked to hear described.
 
 Hagrid had certainly not chosen that book for any such reason. Hagrid had chosen it because he thought it was funny; he had more or less said so. But Potter had got the thing open and she had not, and so long as that was true, nothing she said about it would sound like anything but sour grapes. She had shut the wretched thing in her trunk with two belts on it and never once thought of touching it. She had lost, in front of both Houses, before the lesson had properly begun.
 
-She turned her glare from Potter to Hagrid, who was hovering anxiously in the hope of somebody telling him what to do.
-
-“Well?” she said. “Teach us something, *Professor* Hagrid. You’ve a whole hour.”
-
-“Right! Yes! You lot wait here, back in a tick!”
+Hagrid, who had been hovering in the hope that somebody would tell him what to do, seized on the silence as though it were an order. “Right! Yes! You lot wait here, back in a tick!”
 
 Hagrid gave Potter an enormous thumbs-up and strode off into the trees. Lyra unfastened the belts on her book with some dignity and ran a finger, experimentally, down its spine. The book growled, shivered, and then went limp in her hands with an air of complete surrender, as if it had been waiting all summer for somebody to think of it. She sniffed and flicked through to the front.
 
@@ -56,7 +52,7 @@ Lyra looked up from it, very slowly, at the back of Potter’s untidy head. She 
 
 But she could keep it. She marked the page with her thumb.
 
-As if he had felt her looking, Potter turned round and wandered back over, hands in his pockets.
+Potter, who seemed to feel her looking, turned round and wandered back over, hands in his pockets.
 
 “What’s the matter with your face? You’ve got your lip out a mile.” He considered her. “Fancy kissing something?”
 
@@ -100,9 +96,7 @@ Then he turned back to Parkinson.
 
 Lyra sighed. Slytherin had been trying to out-insult Potter for two years, and it was like trying to out-shout a thunderstorm. Parkinson had already gone the colour of a beetroot, and Potter showed no sign of stopping until it burst.
 
-“And do you mind breathing the other way? There’s a first-year over there going green. Look—Malfoy’s gone all pinched.”
-
-Lyra’s face had gone pinched, but not for the reason Potter meant.
+Parkinson’s eyes went to Lyra, to see whether this was allowed. Lyra’s face had gone pinched, and not for any reason Parkinson would have understood.
 
 “You little—”
 
@@ -132,15 +126,11 @@ Potter was in the air before Lyra had quite finished being angry about the book.
 
 The hippogriff beat its way up over the paddock in long, powerful strokes, and Potter sat it as though he had been born there, with his knees tucked in and one hand knotted in its feathers and his face turned up into the wind. Lyra had seen him fly a hundred times, mostly from the wrong end of a Quidditch pitch, and she had never once allowed herself to enjoy it. This was different. For a few seconds he looked like something off a tapestry, the kind her great-great-grandmother had hung in the long gallery so that nobody would forget the family had once owned a castle.
 
-He had asked to go first, naturally. Hagrid had come back out of the trees with a dozen creatures on long chains, and for a moment even Lyra had forgotten to be scornful: the heads, wings and front legs of enormous eagles, steel-grey and bronze and storm-blue, the bodies and hind legs of horses, and eyes of a fierce, flat orange that took in everything and approved of none of it. “Hippogriffs!” Potter had said, as though somebody had given him a present, and then, “Can I go first, Professor? I’ve been reading.”
+He had asked to go first, naturally. Hagrid had gone back for them and come out of the trees again with a dozen creatures on long chains, and for a moment even Lyra had forgotten to be scornful: the heads, wings and front legs of enormous eagles, steel-grey and bronze and storm-blue, the bodies and hind legs of horses, and eyes of a fierce, flat orange that took in everything and approved of none of it. Hagrid had told them the rules over the fence—proud, easily offended, never insult one, ’cause it might be the last thing yeh do—and asked who wanted to go first, and Potter’s hand had been up before he finished. “Me, Professor. I’ve been reading.”
 
 Lyra went over the rest of it, from the ground, with a good deal of resentment. How he had walked straight out to the great grey at the end of the line and waited for it to look at him. How he had held its eye and swept it a long, low, beautiful bow, the kind her dancing master would have made her practise for a week. “Afternoon. I’ve heard a great deal about you.” How it had considered him, and then bent its scaly knees and bowed back, and let him stroke its neck, and leaned into his hand like a cat. She had been hoping, quietly, that it would take his fingers off. Clearly the creatures had no judgement of character whatsoever.
 
-He took it once round the paddock in a wide circle and brought it down with barely a jolt. He made all of it look obvious, the sort of thing anyone could do, and Lyra was annoyed to find that, for just a moment, she had thought he looked rather splendid. Crabbe and Goyle were clapping. Lyra looked at them, and their hands came apart as if somebody had cut a string.
-
-*He read ahead,* she told herself. That was all. He had known how and she had not, and anybody could read ahead. Once she knew the trick she would do it every bit as well.
-
-Potter slid down, gave the hippogriff a last scratch under its beak, and leaned in towards it with his lips pursed, quite plainly about to plant a kiss right on the end of its nose.
+He took it once round the paddock in a wide circle and brought it down with barely a jolt, and slid off, and gave it a last scratch under the beak; and Lyra, who had made up her mind not to look, looked. He was leaning in towards it with his lips pursed, quite plainly about to plant a kiss right on the end of its nose.
 
 Lyra’s eyes narrowed. *Is there anything in this school he won’t kiss?* Half the boys in Slytherin would have given a year’s pocket money to carry her bag up a staircase, and here was Potter handing out kisses to livestock in the middle of a lesson. She found herself watching the gap between his mouth and the beak with fierce and quite unaccountable attention.
 
@@ -148,9 +138,11 @@ Potter looked up and caught her doing it.
 
 He grinned. And then, without taking his eyes off hers, he only bumped the end of his nose very lightly against the hippogriff’s and stepped away.
 
-Lyra felt exactly as though she had been led in a circle by a hand she had not noticed taking hers. She turned her head away so sharply that her hair whipped Goyle in the face.
+Lyra felt exactly as though she had been led in a circle by a hand she had not noticed taking hers. She turned her head away so sharply that her hair whipped Goyle in the face, and Goyle, who had been clapping, stopped. So did Crabbe, when Lyra looked at her.
 
-“Brilliant!” roared Hagrid, applauding. “Ten points ter Gryffindor! Yeh all saw that? Hippogriffs are proud. Easily offended. Yeh never insult one, ’cause it might be the last thing yeh do. Wait for him ter move first, give him a bow, an’ if he bows back, yeh’re all right. Go on, then, all of yeh!”
+*He read ahead,* she told herself. That was all. Anybody could read ahead. Once she knew the trick she would do it every bit as well.
+
+“Brilliant!” roared Hagrid, applauding. “Ten points ter Gryffindor! Go on, then, all of yeh—an’ remember, bow first!”
 
 Encouraged by Potter’s success, the rest of the class began to edge out into the paddock in twos and threes. Neville Longbottom’s hippogriff refused to bow and he had to keep running away from it. Weasley and Granger were working on a chestnut one with great caution and a good deal of whispering.
 
@@ -158,13 +150,13 @@ Lyra, with Crabbe and Goyle, inherited Potter’s grey.
 
 “Buckbeak,” she read off the collar, and wrinkled her nose. “Somebody had no imagination.”
 
-She had no intention of bowing to an animal. A Malfoy did not put her head below a farm creature’s, however proud it was said to be, and she would sooner have gone without the whole lesson. On the other hand she was not going to stand there doing nothing while Potter watched. So she compromised. She took the sides of her robes in her fingers and sank into a small, correct curtsey, the kind one gave an elderly aunt one did not particularly like.
+She had no intention of bowing to an animal. A Malfoy did not put her head below a farm creature’s, however proud it was said to be, and she would sooner have gone without the whole lesson. On the other hand she was not going to stand there doing nothing while Potter watched. So she compromised. She took the sides of her robes in her fingers and sank into a small, correct curtsy, the kind one gave an elderly aunt one did not particularly like.
 
 Even that stung. Buckbeak looked at her for a long time with its hard orange eyes, long enough that she began to feel the back of her neck go warm, and then it folded its front legs and bowed in return.
 
 *Of course it did,* thought Lyra, with a relief she did not care to examine. It had let *Potter* up; it could hardly have standards.
 
-She stepped up beside it, and found that close to, it really was a fine animal. The feathers were sleek and dense and ran from its crown down into its grey coat without a seam, and the beak was hooked and hard as slate, and the whole thing smelled of cold air and bracken. She reached out and laid her hand on its neck, and her eye went, without any permission from her, to the end of its beak, where Potter’s nose had been.
+She stepped up beside it. Close to, it really was a fine animal. The feathers were sleek and dense and ran from its crown down into its grey coat without a seam, and the beak was hooked and hard as slate, and the whole thing smelled of cold air and bracken. She reached out and laid her hand on its neck, and her eye went, without any permission from her, to the end of its beak, where Potter’s nose had been.
 
 All at once she was in a filthy temper.
 

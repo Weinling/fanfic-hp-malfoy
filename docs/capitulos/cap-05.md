@@ -1,31 +1,34 @@
 # Capítulo 05: «Manners»
-- **Archivo:** `manuscrito/cap-05-manners.md` · **Palabras:** ~4.130 · **Punto de vista:** Lyra · **Fecha(s) en la historia:** un viernes por la tarde, primera clase de Criaturas Mágicas de Slytherin con Gryffindor (el cap. 4 dice “the following Friday”; el handoff la fecha el 10 de septiembre de 1993; el texto no da el día) · **Estado:** publicado
+- **Archivo:** `manuscrito/cap-05-manners.md` · **Palabras:** ~3.940 · **Punto de vista:** Lyra · **Fecha(s) en la historia:** un viernes por la tarde, primera clase de Criaturas Mágicas de Slytherin con Gryffindor (el cap. 4 dice “the following Friday”; el handoff la fecha el 10 de septiembre de 1993; el texto no da el día) · **Estado:** publicado
 
 ## Escenas
-1. **Paddock de Hagrid, antes de la clase.** Lyra enumera por qué desprecia a Hagrid (la influencia, “the only money you could not make more of”). Su *Monster Book* está atado con dos cinturones y *Spellotape*. Hagrid abre el de Neville acariciándole el lomo; Lyra se burla (“How terribly amusing”) hasta que Potter la interrumpe: ya abrió el suyo y cita el prefacio de “Edwardus Lima”, que habría puesto el hechizo del mordisco a propósito. Es un farol: el prefacio, que Lyra lee después, solo agradece a la madre del autor y trata de la responsabilidad del editor por dedos perdidos. Lyra pierde delante de ambas Casas: “Get on with the lesson. *Professor* Hagrid.”
-2. **Potter provoca; Parkinson interviene.** Potter: “Fancy kissing something?” (el libro); Lyra tropieza media zancada. Parkinson: “Leave her alone, Potter… Coward.” Potter lo ridiculiza (“I’ve seen under one of their hoods, and it’s an improvement”) y está a punto de revelar el beso (“what happened just before the Dementor could get its—”); la mirada de Lyra lo frena. Parkinson le lanza un puñetazo; Potter le cierra el libro en el antebrazo: “Cheers, Gorilla.” El libro no deja marcas.
-3. **Hipogrifos.** Hagrid saca una docena. Potter hace la reverencia al gris más grande, lo monta y da una vuelta. Finge besarle el pico y solo roza la nariz con la suya mirando a Lyra; ella gira la cabeza y le azota el pelo a Goyle en la cara. Diez puntos para Gryffindor.
-4. **Buckbeak.** Lyra, con Crabbe y Goyle, hereda el hipogrifo gris de Potter: Lee “Buckbeak” en el collar: “What a ridiculous name.” Hace una pequeña *curtsey*; Buckbeak responde con una reverencia. Mirando el punto donde Potter casi lo besó, le dice: “You’re nothing but a stupid great animal after all, aren’t you?” El hipogrifo le abre el brazo derecho del codo al hombro. Entre sangre y llanto, una voz: “Grit your teeth.” Alguien le ata una capa escolar al brazo, le cubre la cabeza con el resto y la carga corriendo (oye respirar, tropieza en la escalera; huele a detergente muggle floral, el olor de Potter).
-5. **Enfermería.** Potter grita “Madam Pomfrey! Patient!” Pomfrey le corta la manga, limpia, pasta, venda del codo al hombro, poción “that tasted of old pennies”. Lyra llora sin parar y jura que su padre hará ejecutar al hipogrifo; Potter: “That’s a bit much, isn’t it?… Executing it. Over a cut.” Le da un pañuelo y le limpia los dedos de la mano derecha uno a uno. Lyra piensa que no es la primera vez que Potter la agarra cuando caía.
+(Cotejo y beats rehechos, 16 de octubre de 2026; los hechos son los de lo publicado.)
+1. **Paddock de Hagrid.** Arranca con Hagrid: “First thing yeh want ter do… is open yer books.” / “How?” El *Monster Book* de Lyra, atado con dos cinturones y *Spellotape* (“I have met peacocks with better manners”). Hagrid abre el de Neville acariciándole el lomo: “One strokes it. Like a cat. Or a Minister.” Mientras prepara la pulla, la lista de desprecios (Hagrid arriba; la influencia, “the only money you could not make more of”). Potter la corta: “You’re only cross because it beat you”; cita un prefacio en el que el autor pondría el mordisco a propósito (“First lesson’s the cover”). Lyra ha perdido. Hagrid se va al bosque. Lyra abre su libro: el prefacio solo agradece a la madre del autor y habla de dedos perdidos. Se guarda la página con el pulgar.
+2. **Potter provoca; Parkinson interviene.** “Fancy kissing something?… On the *book*, Malfoy… Where’s your mind gone?”; Lyra tropieza media zancada. Parkinson (“like a wardrobe being moved into a small room”): “Leave her alone, Potter… Coward.” Potter amaga con contar lo que pasó al despertar en el tren; la mirada de Lyra (“make it look like a Quidditch accident”) **y la página del prefacio**, que le enseña: empate de amenazas. Potter cambia de rumbo e insulta a Parkinson (“That’s why I keep looking at Malfoy”); Parkinson le lanza un puñetazo; Potter le cierra el libro en el antebrazo, sin marca. “Mind the book, Parkinson. It likes you.”
+3. **Hipogrifos.** Abre con Potter ya en el aire (la imagen del tapiz de la galería). En el recuerdo de Lyra: Hagrid trajo una docena, dio las normas por encima de la valla (orgullosos, no insultarlos nunca) y Potter se ofreció (“Me, Professor. I’ve been reading.”); reverencia al gris, “Afternoon. I’ve heard a great deal about you.”, caricia. Aterriza; Lyra, que no iba a mirar, mira: casi besa el pico y solo roza la nariz con la suya mirándola; ella gira la cabeza y le azota el pelo a Goyle; Crabbe y Goyle dejan de aplaudir. “He read ahead.” Diez puntos para Gryffindor (“remember, bow first!”).
+4. **Buckbeak.** Lyra, con Crabbe y Goyle, hereda el gris: “Buckbeak… Somebody had no imagination.” Hace una pequeña *curtsy*; Buckbeak se inclina. Mirando el sitio del pico donde estuvo la nariz de Potter: “simpering over Potter like somebody’s pet pony. You’re nothing but a stupid great animal after all, aren’t you?” Le abre el brazo derecho del codo al hombro. Llanto. “Grit your teeth.” Alguien le ata una capa escolar al brazo, le cubre la cabeza con el resto y la carga corriendo (tropieza en la escalera y se apoya con el hombro; detergente muggle floral).
+5. **Enfermería.** Potter: “Madam Pomfrey! *Madam Pomfrey*—hippogriff—her arm—”. Pomfrey corta la manga, limpia, pasta, venda del codo al hombro, poción “that tasted of old pennies”. Lyra llora: “I want it *dead*.” Potter le da un pañuelo y, sin discutir, moja un paño: “Arm first. Executions after.” Le limpia los dedos uno a uno; al tercero deja de llorar. Ya fría: “Father will see to it… the Committee.” / “Bit much, that. Executing it. Over a cut.” / “So it’s worth more than my *arm*, is it? A *chicken*?” / “No.” Va a seguir y ve su camisa, roja de arriba abajo, y nada es de él: se calla. Cierre: no es la primera vez que Potter la recoge al caer.
 
 ## Frases literales importantes
-- “Influence was something you spent. People who had never had any always seemed to think it grew back on its own.” (l. 9)
-- “Are you sulking because you couldn’t work out how to read it?” (l. 31)
-- “Fancy kissing something?… On the *book*, Malfoy… Where’s your mind gone?”
-- “I’ve seen under one of their hoods, and it’s an improvement.” (l. 93)
-- “Mind the book, Parkinson. It likes you.”
-- “Hello… That’s a very handsome beak.” (l. 139)
-- “Buckbeak… What a ridiculous name.” (l. 171)
-- “You’re nothing but a stupid great animal after all, aren’t you?” (l. 183)
-- “Grit your teeth.” (l. 195)
-- “That’s a bit much, isn’t it?… Executing it. Over a cut.” (l. 227)
-- “Let’s just get you fixed up first. You can decide what to do about it when you’ve got your head back.” (l. 235)
-- “this was not the first time Potter had caught her when she fell.” (l. 241)
+- “How?” (l. 5) / “One strokes it. Like a cat. Or a Minister.” (l. 13)
+- “Her father said that about influence: it was the only money you could not make more of.”
+- “You’re only cross because it beat you.” / “First lesson’s the cover, really. Isn’t it?”
+- “Fancy kissing something?… On the *book*, Malfoy… Where’s your mind gone?” (l. 57-67)
+- “like a wardrobe being moved into a small room” (l. 71)
+- “two paragraphs, one mother, a great many fingers” (l. 87)
+- “Mind the book, Parkinson. It likes you.” (l. 119)
+- “Afternoon. I’ve heard a great deal about you.”
+- “*Is there anything in this school he won’t kiss?*” (l. 135)
+- “You’re nothing but a stupid great animal after all, aren’t you?”
+- “Grit your teeth.” (l. 175)
+- “Arm first… Executions after.” (l. 207)
+- “Bit much, that… Executing it. Over a cut.” (l. 217; el 6, l. 145, lo cita como “a bit much”, con “her blood on his shirt”)
+- “this was not the first time Potter had caught her when she fell.” (l. 227)
 
 ## Fichas (objetos y motivos)
 - **La capa de Potter:** capa escolar que le ata la herida y le cubre la cabeza; huele a detergente floral (como el jersey del tren). Ficha disponible.
 - **El pañuelo:** se lo da; Lyra se mancha la cara con él. En 6 le limpia el guante con otro.
-- **El libro-monstruo:** abrirlo es “the first test”; el prefacio desmiente a Potter.
+- **El libro-monstruo:** abrirlo es “the first lesson”; el prefacio desmiente a Potter. Lyra se guarda la página y se la enseña ante Parkinson (en el 14, l. 157, decide no volver a sacarlo).
 - **La nariz contra el pico:** el gesto de Potter con el hipogrifo.
 - **El beso no dicho:** Potter lo roza y Lyra lo frena con la mirada.
 
@@ -36,8 +39,8 @@
 
 ## Quién sabe qué (al final del capítulo)
 - **Lyra** sabe que Potter fanfarroneó con el prefacio y no la dejó sola cuando sangraba; su padre se enterará.
-- **Potter** sabe que Lyra recuerda el beso y que no puede acusarle de mentir sin parecer mala perdedora.
-- **Los Slytherin** solo oyen el principio de “what happened just before the Dementor could get its—”. **Pomfrey** va a avisar a McGonagall. **Lucius** aún no sabe nada.
+- **Potter** sabe que Lyra recuerda el beso y que le ha pillado la mentira del prefacio.
+- **Los Slytherin** solo oyen el principio de “When I came round, and—”. **Pomfrey** va a avisar a McGonagall. **Lucius** aún no sabe nada.
 
 ## Hilos
 - Abiertos: el destino de Buckbeak; la reacción de Lucius; el beso; Hagrid profesor.
