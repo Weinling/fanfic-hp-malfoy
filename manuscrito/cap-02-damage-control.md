@@ -1,6 +1,6 @@
 # Chapter 2: Damage Control
 
-The last week of term, the exams were cancelled, and the whole school went a little mad with it. Lyra found Potter alone for once, under the big beech by the lake, skimming stones badly, while Weasley and Granger were off somewhere being delighted about Granger no longer being made of stone.
+The exams had been cancelled, and in the last week of term the whole school went a little mad with it. Lyra found Potter alone for once, under the big beech by the lake, skimming stones badly, while Weasley and Granger were off somewhere being delighted about Granger no longer being made of stone.
 
 She did not bother to sit down.
 
@@ -36,7 +36,7 @@ A boy who handed you the only thing he had on you was either a fool or something
 
 It took Lyra eleven days to knock on her father’s study door.
 
-She spent the first ten deciding what to say, and tried most of the versions out in her head while doing other things: over breakfast, through her mother’s afternoon callers, on the long walks round the grounds that her little brother Draco insisted on, because he wanted to show her where the peacocks had been nesting.
+She spent the first ten deciding what to say. There were a great many versions, and she tried most of them out in her head while doing other things: over breakfast, through her mother’s afternoon callers, on the long walks round the grounds that her little brother Draco insisted on, because he wanted to show her where the peacocks had been nesting.
 
 She tried being brisk. *Father, there’s something about the diary you ought to know.* She tried being delicate. One evening in the bath she tried simply saying the whole thing at once, under her breath, and was so appalled by how it sounded out loud that she slid under the water until her ears rang.
 
@@ -80,6 +80,8 @@ Her father’s study was the darkest room in the Manor and, in summer, the coole
 
 He had called her that since she was small, and she had always liked it. Today, for no particular reason, she found herself thinking that treasures were things one kept in vaults. She crossed the room, let him kiss her forehead, and sat down in the chair opposite with her back very straight.
 
+He flicked his wand. The silver teapot on the side table rose, drifted across the room, and poured her a cup of tea with a small, graceful bow of its spout. Lyra took it because her hands needed something to do.
+
 “It’s about the diary.”
 
 Something in his face closed, very courteously, like a door being shut by a good butler. “I thought we’d agreed you needn’t trouble yourself with that.”
@@ -90,15 +92,17 @@ It was the first lie she had ever told her father about anything that mattered, 
 
 “Then ignore him.”
 
-“I *am* ignoring him. He just keeps making it very difficult, which is tiresome.” She looked at her hands, and then, because she had decided on the stairs that she would get one true thing out of this room if she could not put one in, she looked up again. “I was in the shop, Father. In Flourish and Blotts. I saw you put it in her cauldron.”
+“I *am* ignoring him. It’s practically a full-time occupation.” She looked into her tea, and then, because she had decided on the stairs that she would get one true thing out of this room if she could not put one in, she looked up again. “I was in the shop, Father. In Flourish and Blotts. I saw you put it in her cauldron.”
 
 She had not, strictly speaking, seen anything of the kind. She had seen a battered Transfiguration book go back into a cauldron, and she had not been looking for anything else. But her father did not know that.
 
 For a moment he was very still. Then he laughed, softly, and it was genuine; he was pleased with her.
 
-“Of course you did. You never miss anything, do you.” He leaned back in his chair. “Honestly. Dumbledore hasn’t the nerve to come to me, so he sends a boy to pester my daughter in corridors, and my daughter has better eyes than his whole staff. Very well. Yes. The Weasley girl’s cauldron was right there, and it seemed an economical solution. Weasley and his ridiculous Muggle Protection Act had the Ministry poking its nose into every respectable house in the country, and it was wiser not to have the thing here if they came calling. Two birds.” A thin smile. “The rest of the story happened at your school, under your nose. You could tell it better than I could.”
+“Of course you did. You never miss anything, do you.” He leaned back in his chair.
 
-She did know. That was precisely the trouble. So much for Potter’s theory that her father never told her anything; under any other circumstances she would have enjoyed proving him wrong enormously.
+“Honestly. Dumbledore hasn’t the nerve to come to me, so he sends a boy to pester my daughter in corridors, and my daughter has better eyes than his whole staff. Very well. Yes. The Weasley girl’s cauldron was right there, and it seemed an economical solution. Weasley and his ridiculous Muggle Protection Act had the Ministry poking its nose into every respectable house in the country, and it was wiser not to have the thing here if they came calling. Two birds.” A thin smile. “The rest of the story happened at your school, under your nose. You could tell it better than I could.”
+
+She did know. That was precisely the trouble. So much for Potter’s theory that her father never told her anything. He told her a great deal, it turned out, provided she said she knew it already; under any other circumstances she would have enjoyed proving Potter wrong enormously.
 
 “But what *was* it?”
 
@@ -130,15 +134,13 @@ Her father’s face softened into the smile he never wore outside the house. “
 
 *Perhaps that’s why he hasn’t.* The words got as far as the back of her teeth and stopped there.
 
-“And even supposing he were,” her father went on, amused now, “I hardly think a man of his stature would sulk over one old book, a dozen years on. It was a diary, darling. You’d think from the fuss that he’d left me a piece of himself to mind.”
+“And even supposing he were,” her father went on, laughing now, “I hardly think a man of his stature would sulk over one old book, a dozen years on. It was a diary, darling. You’d think from the fuss that he’d left me a piece of himself to mind.”
 
 “But he *did*—”
 
 “Hm?”
 
 Lyra shut her mouth so fast her teeth clicked. “Nothing.”
-
-He flicked his wand. The silver teapot on the side table rose, drifted across the room, and poured her a cup of tea with a small, graceful bow of its spout. Lyra took it because her hands needed something to do.
 
 “Forget Dumbledore, and forget Potter. Dumbledore can glower and the boy can pester, and neither of them can lay a finger on me. A book with a hole in it isn’t evidence; it’s rubbish. And if they should ever find anything better, I have friends whose entire profession is losing things.” He paused. “It was destroyed, wasn’t it? Basilisk venom, the boy said.”
 
@@ -168,7 +170,7 @@ He glanced up, surprised and pleased.
 
 “You’re a kind girl,” he said fondly, as though that settled something. “It becomes you. But families like ours don’t last by being kind, Lyra. Kindness is a thing we can afford to show. It is not a thing we can afford to have.”
 
-She left before he could ask her what she had meant.
+She left while he was still smiling.
 
 ⁂
 
@@ -186,7 +188,7 @@ He would try to get the diary back from Potter, by methods Lyra did not want to 
 
 Potter had told her to tell him. Potter did not know her father.
 
-The Malfoys in the gallery looked down at her out of their frames, two hundred years of them, every one of whom had presumably at some point been frightened and told nobody.
+The Malfoys in the gallery watched her out of their frames, two hundred years of them, every one of whom had presumably at some point been frightened and told nobody.
 
 Lyra looked back at them and thought of her father, who called her his treasure and meant it. Of her mother, and that long look across the breakfast table. Of Draco, who had asked her that morning whether basilisks could be tamed and, if so, whether she would get him one for his birthday. Half the wizarding world called them worse things than bigots, and Lyra supposed half the wizarding world had a point. She could not have cared less. They were hers.
 
@@ -196,21 +198,19 @@ So nobody would be told. Not Father, not Mother, certainly not Draco. Standing i
 
 She went up to her room, where Pobble had already lit an enormous fire, opened every window, and sat down at her desk to think like a Malfoy.
 
-The happiest ending available, clearly, was that the Dark Lord stayed exactly where he was, which was nowhere. It was a disloyal thought. She made herself finish it anyway.
+She began with the lake, and the offer she had not answered. Sitting at her desk with the fire roaring behind her in the middle of July, she had to admit that Potter, who did not know her father, had been right about this.
+
+A lie with the diary in it might keep her father alive. The truth would not. Kept in a drawer at the Manor for eleven years, then dropped into a little girl’s cauldron out of spite, carried up to Hogwarts in a satchel of secondhand books, and killed there, every last scrap of it: there was no version of that story the Dark Lord would forgive. If he ever heard it, somebody would die, and it would certainly be Father.
+
+Which meant that if that day ever came, Father would have to tell the lie himself, and tell it well, and he could hardly tell a lie he did not know he needed. Lyra put that aside for later, next to everything else she was putting aside for later. The pile was getting tall.
+
+The happiest ending available, clearly, was that the day never came: that the Dark Lord stayed exactly where he was, which was nowhere. It was a disloyal thought. She made herself finish it anyway.
 
 The Malfoys already had money, and influence, and a house older than most of the Ministry’s laws. The Dark Lord could not give them a single thing they did not already have. All he could do was take things away, and he had a reputation for doing that thoroughly. Standing with him meant staking everything they owned for the privilege of keeping it, and Lyra had been doing sums since she was five. The sum did not work.
 
 There was also the question of taste. Lyra had discovered at around the age of six that a smile could get her almost anything she wanted, and she had spent the years since refining the technique. She had no objection whatsoever to the right sort of people being in charge. She simply thought they ought to manage it charmingly. A world run on curses struck her as dreadfully crude.
 
 So, then. If the Dark Lord was to stay gone, she would have to help Potter keep him that way, which was an intolerable sentence to think and there was no way round it. And if Potter made a mess of it, and the Dark Lord turned up anyway, then the Malfoys would need to keep their heads down and make very sure that nobody ever learned what had happened to that diary.
-
-Which brought her back to the lake, and to the offer she had not answered.
-
-She had to admit, sitting at her desk with the fire roaring behind her in the middle of July, that Potter had been right about that too.
-
-A lie with the diary in it might keep her father alive. The truth would not. Kept in a drawer at the Manor for eleven years, then dropped into a little girl’s cauldron out of spite, carried up to Hogwarts in a satchel of secondhand books, and killed there, every last scrap of it: there was no version of that story the Dark Lord would forgive. If he ever heard it, somebody would die, and it would certainly be Father.
-
-Which meant that if that day ever came, Father would have to tell the lie himself, and tell it well, and he could hardly tell a lie he did not know he needed. Lyra put that aside for later, next to everything else she was putting aside for later. The pile was getting tall.
 
 She caught her thumbnail halfway to her teeth, the habit Crabbe had caught her at the night Gryffindor stole the House Cup, and pressed her hand flat on the desk instead.
 
