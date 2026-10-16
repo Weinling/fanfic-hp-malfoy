@@ -2,7 +2,9 @@
 
 Lyra spent the start-of-term feast not looking at the Gryffindor table, which was harder than it sounded, because the Gryffindor table was directly across the hall and everyone else at the Slytherin table was looking at nothing else.
 
-The story had come up from the carriages ahead of them: Potter had fainted on the train. By the time the first-years had been Sorted it had grown in the retelling, the way stories did in Slytherin, until Potter had screamed for his mummy, wet himself and been carried off at Hogsmeade on a stretcher. Most of the growing had been done by Panther Parkinson, who had the shoulders of a Beater and roughly the conversational range of one, and who had been following Lyra about since first year with the persistence of a moth that has found a particularly good lamp. He was now doing an impression of Potter keeling over, with sound effects, for the benefit of the fourth-years.
+The story had come up from the carriages ahead of them: Potter had fainted on the train. By the time the first-years had been Sorted it had grown in the retelling, the way stories did in Slytherin, until Potter had screamed for his mummy, wet himself and been carried off at Hogsmeade on a stretcher.
+
+Most of the growing had been done by Panther Parkinson, who had the shoulders of a Beater and roughly the conversational range of one, and who had been following Lyra about since first year with the persistence of a moth that has found a particularly good lamp. He was now doing an impression of Potter keeling over, with sound effects, for the benefit of the fourth-years.
 
 Lyra neither joined in nor told him to stop. She cut her roast potatoes into smaller and smaller pieces and did not look at the Gryffindor table, where Potter had come in late with Granger, straight from McGonagall’s office, and was now eating his dinner with every appearance of not caring what anyone said. Lyra knew this because she was not looking.
 
@@ -10,19 +12,29 @@ Lyra neither joined in nor told him to stop. She cut her roast potatoes into sma
 
 “It’s the Dementors. They leave one feverish.”
 
-Crabbe accepted this, as she accepted most things Lyra told her. Lyra had not said a word to her or to Goyle about what had happened after Lupin’s *Enervate*, and she had no intention of ever saying one. There was nothing to say. It had lasted less than a second. The only witness was a teacher, and she had scrubbed her mouth with the back of her hand four times in the carriage on the way up to the castle, and as far as she was concerned that was the end of it.
+Crabbe accepted this, as she accepted most things Lyra told her. Lyra had not said a word to her or to Goyle about what had happened after Lupin’s *Enervate*, and she had no intention of ever saying one.
+
+There was nothing to say. It had lasted less than a second. The only witness was a teacher, and she had scrubbed her mouth with the back of her hand four times in the carriage on the way up to the castle, and as far as she was concerned that was the end of it.
 
 At one point she was almost sure that Potter looked across the hall at her. She was not looking, so she could not be certain.
 
-When the plates had cleared themselves, Dumbledore rose. He welcomed them back in his usual way, as if the whole school were one enormous and slightly disappointing grandchild, and then his voice changed. The Dementors of Azkaban, he told them, were stationed at every entrance to the grounds, at the Ministry’s request, and would remain there until further notice. Nobody was to leave the school without permission. The Dementors could not be fooled by tricks or disguises, and it was not in their nature to understand pleading or excuses. He would ask the prefects, and the new Head Boy and Girl, to make sure no student gave them cause to do anyone harm.
+When the plates had cleared themselves, Dumbledore rose. He welcomed them back in his usual way, as if the whole school were one enormous and slightly disappointing grandchild, and then his voice changed.
 
-It was all perfectly sensible, and Lyra had heard Dumbledore say a great many sensible things without believing any of them. But there was something in his voice when he said the word *Dementors* that she had never heard in it before, something cold and flat and very tired, and for a moment the old man looked less like a headmaster than like someone describing a neighbour he had long ago stopped speaking to. Dumbledore gave away almost nothing he did not mean to. Lyra kept hold of the moment and wondered what the Dementors had ever done to him.
+The Dementors of Azkaban, he told them, were stationed at every entrance to the grounds, at the Ministry’s request, and would remain there until further notice. Nobody was to leave the school without permission. The Dementors could not be fooled by tricks or disguises, and it was not in their nature to understand pleading or excuses. He would ask the prefects, and the new Head Boy and Girl, to make sure no student gave them cause to do anyone harm.
 
-Then, more cheerfully, came the new staff. Professor Lupin, who had kindly agreed to take the post of Defence Against the Dark Arts teacher, stood up in the same patched robes he had worn on the train, to scattered applause that came mostly from the Gryffindors who had shared his compartment. Lyra noticed that Professor Snape was not applauding. He was looking at Lupin down the length of the staff table with an expression she had only ever seen him turn on Potter, and she filed that away as well. Then Hagrid, the gamekeeper, was named the new Care of Magical Creatures teacher, and the Gryffindor table erupted.
+It was all perfectly sensible, and Lyra had heard Dumbledore say a great many sensible things without believing any of them. But there was something in his voice when he said the word *Dementors* that she had never heard in it before, something cold and flat and very tired, and for a moment the old man looked less like a headmaster than like someone describing a neighbour he had long ago stopped speaking to.
+
+Dumbledore gave away almost nothing he did not mean to. Lyra kept hold of the moment and wondered what the Dementors had ever done to him.
+
+Then, more cheerfully, came the new staff. Professor Lupin, who had kindly agreed to take the post of Defence Against the Dark Arts teacher, stood up in the same patched robes he had worn on the train, to scattered applause that came mostly from the Gryffindors who had shared his compartment.
+
+Lyra noticed that Professor Snape was not applauding. He was looking at Lupin down the length of the staff table with an expression she had only ever seen him turn on Potter, and she filed that away as well. Then Hagrid, the gamekeeper, was named the new Care of Magical Creatures teacher, and the Gryffindor table erupted.
 
 Lyra clapped three times, slowly, for form’s sake.
 
-It was quite a collection: a giant who could not keep his own boots clean, now let loose on a subject with teeth, and a Defence teacher who looked as if he had been dressed out of a charity box. Slytherin did not have Hagrid until the following Friday, with the Gryffindors, and Lyra was already composing what she would say to him. Professor Trelawney, at least, was not new, merely invisible. She had been prophesying doom from the top of the North Tower for years without Lyra ever having to notice her, and now that Lyra had taken Divination as well as Arithmancy, on the theory that one of the two ought to be easy, she supposed she would have to start.
+It was quite a collection: a giant who could not keep his own boots clean, now let loose on a subject with teeth, and a Defence teacher who looked as if he had been dressed out of a charity box. Slytherin did not have Hagrid until the following Friday, with the Gryffindors, and Lyra was already composing what she would say to him.
+
+Professor Trelawney, at least, was not new, merely invisible. She had been prophesying doom from the top of the North Tower for years without Lyra ever having to notice her, and now that Lyra had taken Divination as well as Arithmancy, on the theory that one of the two ought to be easy, she supposed she would have to start.
 
 If it had not been for what Lupin had done on the train, she would have written off all three. As it was, she was prepared to reserve judgement on one of them, for about a week.
 
@@ -30,9 +42,13 @@ If it had not been for what Lupin had done on the train, she would have written 
 
 The week lasted until Thursday afternoon, when the Slytherin third-years had their first Defence Against the Dark Arts lesson.
 
-They went up to the classroom in a loud, cheerful herd, most of them in the mood to be entertained. “That’s the poor one, isn’t it?” somebody said, and Parkinson said he doubted the man could afford a wand, let alone a new set of robes, and one of the Warrington cousins said Dumbledore collected strays, and this one had plainly come with fleas. Ordinarily Lyra would have added something to finish it off. Today she walked along without a word. She had sat four doors from a Dementor not a week ago, and had seen the silver flare in the corridor when this man sent it on its way. Whatever else he could not afford, he could afford that, and she was inclined to find out how. Besides, after Quirrell and Lockhart, the bar was lying on the floor.
+They went up to the classroom in a loud, cheerful herd, most of them in the mood to be entertained. “That’s the poor one, isn’t it?” somebody said, and Parkinson said he doubted the man could afford a wand, let alone a new set of robes, and one of the Warrington cousins said Dumbledore collected strays, and this one had plainly come with fleas.
 
-Professor Lupin arrived with a battered briefcase and looked rather better than he had on the train, as if a few decent meals had done him good. He did not bother with introductions. “Wands,” he said, “and nothing else. Today we’re going to meet something.” A ripple of alarm went round the room. The last practical lesson any of them had had in this subject had involved a cage of Cornish pixies and a great deal of screaming, and Lyra had spent most of it on top of a desk. She was frowning at the memory when Lupin picked up his briefcase again and walked straight back out of the door.
+Ordinarily Lyra would have added something to finish it off. Today she walked along without a word. She had sat four doors from a Dementor not a week ago, and had seen the silver flare in the corridor when this man sent it on its way. Whatever else he could not afford, he could afford that, and she was inclined to find out how. Besides, after Quirrell and Lockhart, the bar was lying on the floor.
+
+Professor Lupin arrived with a battered briefcase and looked rather better than he had on the train, as if a few decent meals had done him good. He did not bother with introductions. “Wands,” he said, “and nothing else. Today we’re going to meet something.”
+
+A ripple of alarm went round the room. The last practical lesson any of them had had in this subject had involved a cage of Cornish pixies and a great deal of screaming, and Lyra had spent most of it on top of a desk. She was frowning at the memory when Lupin picked up his briefcase again and walked straight back out of the door.
 
 “Right,” he said over his shoulder. “Follow me, please.”
 
@@ -46,7 +62,11 @@ Lyra did not put her hand up for anybody. Hands were for people who wanted somet
 
 “Exactly right, Miss Malfoy. So the boggart in that wardrobe hasn’t the faintest idea yet what to be. Open the door, and it will look at whoever is nearest, and go looking for the worst thing it can find.”
 
-There was one simple rule for dealing with a boggart, he explained: do not be afraid of it. That was a great deal easier to say than to do, which was why the first line of defence was company. A boggart facing several people at once could not decide what to become, and tended to make a mess of it; he had once seen one try to frighten two people at the same time by turning into half a headless corpse and half a giant slug, and the result had been more pitiful than frightening. On one’s own, however, the answer was the charm *Riddikulus*, and the trick of it was laughter. They were to picture the thing they feared most, and then picture it made absurd.
+There was one simple rule for dealing with a boggart, he explained: do not be afraid of it. That was a great deal easier to say than to do, which was why the first line of defence was company.
+
+A boggart facing several people at once could not decide what to become, and tended to make a mess of it; he had once seen one try to frighten two people at the same time by turning into half a headless corpse and half a giant slug, and the result had been more pitiful than frightening.
+
+On one’s own, however, the answer was the charm *Riddikulus*, and the trick of it was laughter. They were to picture the thing they feared most, and then picture it made absurd.
 
 They practised the wand movement without the wand for a few minutes, feeling silly. Then Lupin moved them into a line in front of the wardrobe.
 
@@ -62,7 +82,9 @@ Greer Goyle was next. The boggart spun, and became a fairy, a small and spiteful
 
 Then it was Vanessa Crabbe’s turn, and the boggart spun again and became Crabbe herself.
 
-It was the Crabbe of two years ago, the Crabbe who had sat next to Lyra at the Sorting: heavier than she was now, round-faced, in first-year robes that pulled at the buttons, with her hair in the two plaits her mother had made her wear until the end of that year. It stood there and looked at her. It did not even do anything. It did not need to. The room went quiet, and then somebody at the back of the line began to snigger, and Lyra turned her head and looked at him until he stopped.
+It was the Crabbe of two years ago, the Crabbe who had sat next to Lyra at the Sorting: heavier than she was now, round-faced, in first-year robes that pulled at the buttons, with her hair in the two plaits her mother had made her wear until the end of that year. It stood there and looked at her. It did not even do anything. It did not need to.
+
+The room went quiet, and then somebody at the back of the line began to snigger, and Lyra turned her head and looked at him until he stopped.
 
 Crabbe had gone white. Her wand arm had dropped to her side, and she was staring at the boggart with an expression Lyra had never seen on her face, as though the last two years had been a dream and she had just woken up from it.
 
@@ -78,7 +100,9 @@ She had no idea what would come out, and she was rather curious. Lyra Malfoy was
 
 The heavy, first-year Crabbe turned once in the air, like a coat on a hook, and became a wizard in a long dark hooded cloak.
 
-Only that: a tall, thin figure, the hood drawn so far forward that she could see nothing of the face inside it, standing quite still in front of the wardrobe. Lyra looked at it and felt mostly puzzled. She had never seen anybody like it in her life, not in a book, not in a nightmare. It was so vague, so entirely generic, that she supposed it was what a boggart produced when it rummaged through somebody and came up empty-handed, and she was faintly flattered.
+Only that: a tall, thin figure, the hood drawn so far forward that she could see nothing of the face inside it, standing quite still in front of the wardrobe. Lyra looked at it and felt mostly puzzled. She had never seen anybody like it in her life, not in a book, not in a nightmare.
+
+It was so vague, so entirely generic, that she supposed it was what a boggart produced when it rummaged through somebody and came up empty-handed, and she was faintly flattered.
 
 The only difficulty was what to turn it into. A cloak was not very funny. She stood there with her wand raised, considering. A lampshade, perhaps. A tea cosy, with the hood for a spout. That would do. She lifted her wand a little higher.
 
@@ -90,13 +114,19 @@ Lyra did not move. She meant to. She could feel the wand in her fingers, and the
 
 “Stand aside, Miss Malfoy!”
 
-Lupin was in front of her. The boggart swung round to him, and for an instant it was something else entirely, a silvery-white orb hanging in the air like the moon seen through cloud, and then Lupin said “*Riddikulus*” almost lazily and the orb went soft, like a balloon with the knot undone, and shot round and round the ceiling making a long, rude noise, and the class cheered. Under cover of the noise, Lupin drove the thing back into the wardrobe with three brisk flicks of his wand and shut the door on it.
+Lupin was in front of her. The boggart swung round to him, and for an instant it was something else entirely, a silvery-white orb hanging in the air like the moon seen through cloud, and then Lupin said “*Riddikulus*” almost lazily and the orb went soft, like a balloon with the knot undone, and shot round and round the ceiling making a long, rude noise, and the class cheered.
+
+Under cover of the noise, Lupin drove the thing back into the wardrobe with three brisk flicks of his wand and shut the door on it.
 
 “Splendid. That’ll do for today. Five points apiece to anybody who stood in front of that wardrobe.”
 
 Lyra looked at her wand hand. It was not shaking, at least.
 
-She had not moved. She, who had stood her ground against a Dementor barely a week ago without so much as a tremor anyone could see, had stood in front of a boggart in a cloak and not been able to lift her wand an inch. And it had been Potter. Or something with his face. She turned that over and could find no sense in it at all. Was it the diary? Was it the blackmail? Potter had threatened her, certainly. She had agreed to help him, certainly. But that was a business arrangement, nothing more, and the idea that the eldest child of the House of Malfoy could be frozen to the spot by a business arrangement was simply absurd.
+She had not moved. She, who had stood her ground against a Dementor barely a week ago without so much as a tremor anyone could see, had stood in front of a boggart in a cloak and not been able to lift her wand an inch.
+
+And it had been Potter. Or something with his face. She turned that over and could find no sense in it at all.
+
+Was it the diary? Was it the blackmail? Potter had threatened her, certainly. She had agreed to help him, certainly. But that was a business arrangement, nothing more, and the idea that the eldest child of the House of Malfoy could be frozen to the spot by a business arrangement was simply absurd.
 
 “I’d rather not have them, Professor,” she said. “I didn’t earn them.”
 
@@ -132,19 +162,31 @@ It was quite true, as far as it went. A girl who was frightened of somebody did 
 
 Lyra had been ready for almost anything but that. She felt herself go still, the way her father went still at dinner when somebody mentioned the war.
 
-There was exactly one person, alive or not quite alive, who could walk into the Manor and help himself to whatever he liked: the house, the name, her father, her own mind if he cared to, and she had heard enough over the years, in half-sentences and lowered voices, to know he had helped himself to other people’s. Potter too, for all Potter seemed to think himself untouchable. She supposed a reasonable person might be afraid of that. She supposed it might even be the sensible thing to be afraid of.
+There was exactly one person, alive or not quite alive, who could walk into the Manor and help himself to whatever he liked: the house, the name, her father, her own mind if he cared to, and she had heard enough over the years, in half-sentences and lowered voices, to know he had helped himself to other people’s. Potter too, for all Potter seemed to think himself untouchable.
+
+She supposed a reasonable person might be afraid of that. She supposed it might even be the sensible thing to be afraid of.
 
 “Of a man who disappeared while I was still in a cot?” she said. “I couldn’t pick him out of a crowd.”
 
 “Which may be the point. You can’t be frightened of a face you’ve never seen, so it went and fetched one. And after last year, I can see where it might have looked first.”
 
-Last year. The Chamber, and the writing on the wall, and Potter hissing at a snake in the Duelling Club in front of half the school. Half of Hogwarts had decided he was the Heir of Slytherin, Lyra included, for about a week, until Potter made his famous announcement about kneeling and the whole business collapsed into farce. And then, at the end of the year, in a cold classroom with the moon in the window, she had learned what had really been going on.
+Last year. The Chamber, and the writing on the wall, and Potter hissing at a snake in the Duelling Club in front of half the school. Half of Hogwarts had decided he was the Heir of Slytherin, Lyra included, for about a week, until Potter made his famous announcement about kneeling and the whole business collapsed into farce.
+
+And then, at the end of the year, in a cold classroom with the moon in the window, she had learned what had really been going on.
 
 “Has Harry ever said anything to you,” said Lupin gently, “about You-Know-Who?”
 
-She knew a good deal more than he did, she suspected. She knew about the diary. And she had worked out the rest for herself, sitting on her window seat in August with the light on in the east cottage: one piece of seven gone, which left six, hidden somewhere. A boy who knew that number, and who had asked her about her family’s houses, including the one up north that no register in the country had ever recorded, was not asking out of idle curiosity. Potter was looking for the others.
+She knew a good deal more than he did, she suspected. She knew about the diary.
 
-She was nearly sure of it. She had not told a soul. And she was certainly not going to start with a man in patched robes whom she had known for a little over a week, who knew her name without being told it and who would, for all she knew, be in Dumbledore’s office within the hour repeating every word. Whatever she knew, it was the only thing standing between her family and the worst kind of trouble. She was not going to hand it to anybody she could not be sure of.
+And she had worked out the rest for herself, sitting on her window seat in August with the light on in the east cottage: one piece of seven gone, which left six, hidden somewhere.
+
+A boy who knew that number, and who had asked her about her family’s houses, including the one up north that no register in the country had ever recorded, was not asking out of idle curiosity.
+
+Potter was looking for the others.
+
+She was nearly sure of it. She had not told a soul. And she was certainly not going to start with a man in patched robes whom she had known for a little over a week, who knew her name without being told it and who would, for all she knew, be in Dumbledore’s office within the hour repeating every word.
+
+Whatever she knew, it was the only thing standing between her family and the worst kind of trouble. She was not going to hand it to anybody she could not be sure of.
 
 “Not a word,” she said, and folded her hands in her lap so they would have nothing to do. “I expect it’s just as you say. I find him so tiresome that it gave the thing ideas.”
 
@@ -182,7 +224,9 @@ Lyra understood, with horror, what she had done. She had put the thing in evenin
 
 The tailcoat became a butler’s black jacket and striped trousers, and the boggart, which now had a napkin folded over one arm, bowed so deeply its nose nearly touched the floorboards. Lyra let out a long breath. A servant: a Potter who knew his place. Much more like it.
 
-The butler straightened, whisked a silver tray out of nowhere and set it down at her elbow. On it were a teapot, a cup, a plate of thinly sliced cake and a small silver bell, presumably in case she should want anything further. He poured her a cup of tea. He added milk without asking how she took it, and got it exactly right, which was somehow the most annoying part. Then he took the napkin off his arm and, before she could stop him, tucked it into the neck of her robes, cut a neat square of cake, held it up on a fork in front of her face and waited, attentively, for her to open her mouth.
+The butler straightened, whisked a silver tray out of nowhere and set it down at her elbow. On it were a teapot, a cup, a plate of thinly sliced cake and a small silver bell, presumably in case she should want anything further. He poured her a cup of tea. He added milk without asking how she took it, and got it exactly right, which was somehow the most annoying part.
+
+Then he took the napkin off his arm and, before she could stop him, tucked it into the neck of her robes, cut a neat square of cake, held it up on a fork in front of her face and waited, attentively, for her to open her mouth.
 
 “No,” said Lyra. “No, I don’t— put that *down*—”
 
