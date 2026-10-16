@@ -158,7 +158,7 @@ Something silver burst from the end of it, a thin bright mist that billowed out 
 
 Lyra drove the Nimbus up alongside him. “Potter, get *down*! That’s N.E.W.T. magic, you’ll never—” She had read about it. Nobody she knew could do it.
 
-“Not from *them*!” It came out cracked, in a voice she had never heard him use, and he was not looking at her. He was looking down at them. “*Expecto patronum!*”
+“I’m not running from *them*!” It came out cracked, in a voice she had never heard him use, and he was not looking at her. He was looking down at them. “*Expecto patronum!*”
 
 This time the light was fainter still. It came out of his wand like breath on a frosty morning and hung there, and she watched the dark below lean up towards it, and the light shrank, and shrank, and went out.
 
@@ -170,7 +170,7 @@ He did not. She did not think he could hear her any more.
 
 Just below him the Snitch went by, quite unbothered; there was nothing in a Snitch for a Dementor to want. It hung in the grey a yard off, close enough to take, and Lyra saw it, and saw what it would mean.
 
-Potter was swaying blind beside her. If she took it now the match was over and it was hers, and everyone in those stands would go to their graves saying the Dementors had caught the Snitch for Lyra Malfoy. She would sooner have flown into the lake.
+Potter was swaying blind beside her. If she took it now the match was over and it was hers, and everyone in those stands would go to their graves saying the Dementors had caught the Snitch for Lyra Malfoy. She would sooner have flown into the lake. She kept it at the corner of her eye all the same.
 
 The cold was in her too, and the stand was still coming at her somewhere at the back of her mind, and there was something at her ear that she could not quite make out and that did not wish her well; but she was upright, and he was not.
 

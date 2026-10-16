@@ -36,17 +36,19 @@ Lyra’s shoulders went up at the name. Malfoys did not say it, and were not, as
 
 He was her mother’s cousin. Lyra had always known it, the way one knew the names on a family tree, and had never once thought of it as anything but ink. It sat differently now that the fact was looking at her. He was Regulus’s brother, too. She knew two things about Regulus Black that this man, very probably, did not.
 
-“She’s fed me before, you know,” Black said to Potter, as though Lyra were not in the room. “Down by the lake, the Monday after your match. A whole bar of Honeydukes’ dark. I understand chocolate is poison to dogs. I took it rather personally.”
-
-This was precisely the conversation she had gone to some trouble not to have.
-
-“A real dog would have been sick on it,” she said coldly. “I looked it up afterwards. You didn’t so much as hiccup.”
+“A real dog would have been sick on that chocolate,” she said coldly. “I looked it up. You didn’t so much as hiccup.”
 
 “Twelve years of Azkaban food,” said Black. “You’ll have to do better than Honeydukes.”
 
-They looked at each other across the room like two cats on one wall. On the edge of the window seat, Potter’s eyebrows had gone up.
+They looked at each other across the room like two cats on one wall. On the edge of the window seat, Potter’s eyebrows went up.
 
-“The Monday after the match,” he said slowly. “I was in the hospital wing. And you don’t eat dark chocolate. You pulled a face at Lupin’s on the train like it was medicine.” Potter was looking at her with growing interest. “So you had a bar of something you won’t eat, the day I was in the hospital wing, and you were out by the lake, which is nowhere near the hospital wing, and then a dog got it.” He snapped his fingers. “Aha. It was for me.”
+“Hang on. Chocolate? When was this?”
+
+This was precisely the conversation she had gone to some trouble not to have.
+
+“The Monday after the match,” said Lyra. “When you were in the hospital wing. I went down to the lake and the creature was simply there—”
+
+“You don’t eat dark chocolate. You pulled a face at Lupin’s on the train like it was medicine.” Potter was looking at her with growing interest. “So you had a bar of something you won’t eat, the day I was in the hospital wing, and you were out by the lake, which is nowhere near the hospital wing, and then a dog got it.” He snapped his fingers. “Aha. It was for me.”
 
 “Don’t flatter yourself!”
 

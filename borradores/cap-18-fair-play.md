@@ -100,6 +100,10 @@ A Bludger came at him hard. Derrick had seen him, and seen what he was doing, an
 
 She would never have said so aloud, but he was very good. She feinted twice and he did not so much as twitch; she dived and he dived with her, and pulled out a foot lower, and smiled at her as he came up. And all the while the Bludgers kept coming at him, from Derrick and then from Bole and then from Derrick again, because the Slytherin Beaters had decided that anybody bothering Lyra Malfoy was fair game, and Diggory went through them as if he had been given the times in advance.
 
+She put two fingers in her mouth and whistled, the way her father’s gamekeeper whistled in the beaters at a shoot. “Derrick! Leave him. He’s *mine*.”
+
+Derrick’s head came round. He looked straight past her at Diggory, and went for him again.
+
 Madam Hooch’s whistle shrieked.
 
 “*Blatching!* Mr Bole, you do not fly *at* another player! Penalty to Hufflepuff!”

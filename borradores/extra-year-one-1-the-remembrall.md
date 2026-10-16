@@ -38,7 +38,7 @@ He had seen her once before. He had stood on the stool next to hers in a robe sh
 
 And then on the train she had come along the corridor to his compartment, having heard who he was, and held out her hand, and said things about Ron in front of Ron that Harry would not have said about Dudley. So he had stood up straight, the way she had taught him, and looked her in the eye, and told her he could work out the wrong sort for himself, thanks.
 
-She had not known him. That was the thing he kept coming back to. She had looked straight at him, the boy from the robe shop, and had not known him from Adam.
+She had not known him. That was the thing he kept coming back to. She had looked straight at him, the boy from the robe shop, and had not known him from Adam. He had been right, then, when he thought she would forget him before she reached the corner.
 
 “Small,” said the hat thoughtfully. “But very human. Now where shall I put you?”
 
@@ -72,7 +72,7 @@ The Hufflepuff picked it up, bent in half with a heel-mark across Agrippa’s fa
 
 She was like that with everybody who was not in Slytherin and a good many who were. And she could back it up. She had been doing magic at the dinner table since before she could read. She knew the answers before Flitwick had finished the questions. And when she let it be known that she had a curse that made your teeth grow down to your knees, nobody in first year felt like finding out whether she was bluffing.
 
-*She’s worse than Dudley*, Harry thought, and was startled by it. He had not imagined there was anybody worse than Dudley in the world. Least of all one of the first people in that world who had ever told him she liked him.
+*She’s worse than Dudley*, Harry thought, and was startled by it. He had not imagined there was anybody worse than Dudley in the world. Least of all one of the first people in that world who had ever told him she liked him. She had a face like a painted doll and a temper like the other place.
 
 Then, one morning in the Entrance Hall, Neville Longbottom’s toad came hopping out from under a bench, and it was orange.
 
@@ -180,7 +180,7 @@ Somebody on the ground cheered. Malfoy heard it; Harry saw her hear it.
 
 “How *dare* you touch—”
 
-She tore her arm free so hard that both her hands came off the handle.
+She tore her arm free, and was so angry that she forgot she could not fly with no hands.
 
 “*Look out!*”
 

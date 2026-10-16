@@ -16,13 +16,15 @@ That was the trouble. Lyra and Crabbe and Goyle had grown up in houses where tha
 
 It was a curse you could not block. A thing only a child who knew nothing could do.
 
-She stopped walking so suddenly that Goyle ran into her.
+“Even Weasley jumped,” said Goyle gloomily. “When he said it. So it’s not just us.”
 
-“Weasley jumped,” she said.
+Lyra stopped walking so suddenly that Goyle ran into her.
 
-“What?”
+“Say that again.”
 
-“When Potter said it. Weasley jumped as much as we did. I saw him.” A slow smile came over her face. “Potter’s the only one stupid enough to say the name. So we leave him alone, and go for everybody round him.”
+“Weasley jumped?”
+
+A slow smile came over Lyra’s face. “Potter’s the only one stupid enough to say the name. So we leave him alone, and go for everybody round him.”
 
 And there was nothing much in Gryffindor apart from Potter. A half-wit like Longbottom would burst into tears if she so much as looked at him.
 

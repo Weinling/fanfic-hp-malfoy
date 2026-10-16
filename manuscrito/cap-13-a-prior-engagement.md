@@ -2,7 +2,7 @@
 
 The fire in the Slytherin common room had burnt down to a heap of red by the time Lyra stood up.
 
-“Enough,” she announced. “I have been sensible for three hours, and it is doing nothing for my complexion.”
+“Dithering,” she announced, “does not suit me. I have been sensible for three hours, and it is doing nothing for my complexion.”
 
 She had been in the best armchair since supper, with two fingers pressed to the spot between her eyebrows, watching the logs go to ash. She had reached her conclusion in the first ten minutes and spent the rest of the evening making sure of it. Whether to tell Potter, or not to tell him. Every way she turned it she came out at the same place, and every time she got there she went back to the beginning to check. It was not a habit she approved of in other people.
 
@@ -50,6 +50,10 @@ Then she gathered herself, smiled as though Goyle had said nothing worth hearing
 
 Goyle’s mouth made a small round shape and stayed that way. Crabbe put her cards down face up, which in Exploding Snap was asking for trouble, and did not seem to notice when they began to fizz.
 
+“Oh,” said Goyle, when she could. “So it *is* serious.”
+
+“I *said* it was serious! I have been saying so for three *hours*!” Lyra kicked the chair she was sitting on, which was difficult to do with any dignity from the arm of it.
+
 “I am going to use it to negotiate,” said Lyra. “What it is, is my business.”
 
 “He’s not allowed in Hogsmeade,” said Goyle. “He hasn’t got a form.”
@@ -58,7 +62,7 @@ Goyle’s mouth made a small round shape and stayed that way. Crabbe put her car
 
 Rules, as far as Lyra had ever been able to tell, were things that happened to other people while Potter was somewhere else. He had been out of bounds in first year and out of bounds in second, and on Hallowe’en he had been out of bounds in the whole of Hogsmeade with a murderer loose, and come back to the feast to boast about it with his mouth full. Sooner or later one of the places he was not allowed would have Sirius Black in it, and Potter would go anyway.
 
-He knew that Black had betrayed his parents; he had said so himself, in Hogsmeade, “one rat of a traitor”. What he could not know was how it had been done, because that had been said in a dungeon office with a charm on the door: a secret that needed only one person to keep it and one to give it away, and a father who had been offered Dumbledore and had chosen his friend instead. Lyra thought of a voice across a library table saying *It’s the only way I get to hear her*, and looked harder at the fire.
+He knew that Black had betrayed his parents; he had said so himself, on the morning of the first Hogsmeade trip: “one rat of a traitor”. What he could not know was how it had been done, because that had been said in a dungeon office with a charm on the door: a secret that needed only one person to keep it and one to give it away, and a father who had been offered Dumbledore and had chosen his friend instead. Lyra thought of a voice across a library table saying *It’s the only way I get to hear her*, and looked harder at the fire.
 
 Somebody ought to draw him a map before he went. That was the whole of it. Where Potter was concerned, Lyra did the bare minimum, and was rather proud of it.
 

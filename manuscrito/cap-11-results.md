@@ -160,7 +160,7 @@ Lyra picked up her bag. At the door she stopped, because it seemed only fair, an
 
 “The person who let him in.” She said it pleasantly. “On Hallowe’en. He got all the way to the Fat Lady without anybody seeing him, and you can’t do that from outside, not with Dementors on every gate. Somebody inside must have helped him. One of the staff, I thought. And you know the castle better than anyone.”
 
-To her astonishment, Snape smiled. It was a thin smile with a good deal behind it, but there was real pleasure in it too: the look he gave a potion that had come out exactly as it should.
+To her astonishment, Snape smiled. It was a thin smile with a good deal behind it, but there was real pleasure in it too: the look he gave a potion that had come out exactly as it should. It occurred to Lyra, rather late, that she had just accused her Head of House to his face, and that he had already paid her for it, in advance, with a quarter of an hour of the most private things he knew.
 
 “Clever,” he said. “And now?”
 
@@ -218,7 +218,7 @@ She heard one of the Weasley twins saying something about *a hundred of them, Ha
 
 Lyra stopped outside with the bar in her hand and went over it once more.
 
-Potter knew what Black was. He had said it himself in Hogsmeade, *one rat of a traitor*, and on Hallowe’en he had gone looking for him and come back saying he had just missed him.
+Potter knew what Black was. He had said it himself on the morning of the Hogsmeade trip, *one rat of a traitor*, and on Hallowe’en he had gone looking for him and come back saying he had just missed him.
 
 What he did not have was what she had: how it had been done, and that his father had been offered Dumbledore and had chosen his friend instead. She tried to imagine his face when he heard that, and found that she could.
 
@@ -260,7 +260,7 @@ The dog did not shoo. Its eyes had gone from her face to the gold paper in her h
 
 It was not for anybody, now. She looked down at it. She had carried it up three flights of stairs for somebody who did not need it, and here was something that very plainly did, and it seemed a waste to carry it all the way back down to the dungeons.
 
-She tore back the paper and broke off a large square, and then stopped with her arm drawn back to throw. Somebody had once told her something about dogs and chocolate. She could not for the life of her remember what.
+She tore back the paper and broke off a large square, and then stopped with her arm drawn back to throw. “Are you even *allowed* chocolate?” she asked it, and then felt extremely foolish, because it was a dog, and dogs were not allowed anything. They simply ate it.
 
 The dog barked, once, sharply, in a tone that suggested it had been kept waiting quite long enough.
 
