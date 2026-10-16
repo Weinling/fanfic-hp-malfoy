@@ -14,6 +14,7 @@
   - Revisión final hecha por dos Opus nuevos (`fusion/revision-final-1.md` y `-2.md`), con todos los arreglos aplicados: el orden de la discusión en el 21, los anillos, Dumbledore en el 22, Lupin en el 19, citas del 9, el 14 y el 25/26.
   - Al día con los textos fusionados: los manuales del 1 al 23, *Year One* 1 y 2, la continuidad transversal y el handoff (1, 2 y la deuda de Lupin).
   - **Para el autor:** `docs/notas/cotejo-oficial/veredicto-publicado.md` dice qué subir, en qué grupos y qué pantallazos cambian. **Puede publicar.**
+  - **Webnovel (autor, 17 de octubre):** hay 25 entregas (del 1 al 23 más *Year One* 1 y 2). Hoy sube *Year One* 3 y 4 (entregas 26 y 27), en su versión cotejada, y mañana el 24. Los retoques del 1 al 23 se actualizan en sus entregas; quien empezó antes no los verá.
   - **Siguiente:** plan del 24 al 30 (`plan-24-30.md`), en pausa hasta que el autor decida los hilos H1 a H3; falta el coreano 36.
 
 - **Nuevo frente (15 de octubre): cotejo con la traducción inglesa oficial.** El autor ha descubierto que el original coreano tiene versión inglesa oficial y quiere que el fic deje de parafrasearlo tan de cerca, sin tocar la historia. Ya hecho:

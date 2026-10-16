@@ -38,7 +38,7 @@ En los dos casos van injertos que devuelven a Lyra y a Harry sus torpezas. La re
 | 22 | Subir, **con el 20** | La escoba de Lyra se le escapa hacia Pettigrew y Harry la sujeta; el ruido del 20 era Harry bajo la capa |
 | 23 | Subir | Arranca con las lechuzas y la carta; Lyra entiende el partido tarde |
 | *Year One* 1 y 2 | Subir | Vuelven «a face like a painted doll» y que Lyra olvide que no sabe volar sin manos; en el 2, es Goyle quien dice «Even Weasley jumped» |
-| *Year One* 3 y 4 | Ya subidos (16 de octubre) | |
+| *Year One* 3 y 4 | **Sin publicar aún.** El autor los sube a Webnovel el 17 de octubre (entregas 26 y 27); al día siguiente, el 24 | Versión cotejada con el coreano y revisada; encaja con *Year One* 1 y 2 fusionados |
 
 ## Orden de subida
 
