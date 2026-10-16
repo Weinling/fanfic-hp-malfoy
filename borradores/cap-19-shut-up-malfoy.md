@@ -28,9 +28,9 @@ The Hufflepuffs looked at one another, and at Lyra, and said nothing useful. Lyr
 
 “Did it have all its toes? Scabbers is all skinny, and he’s got a toe missing on one of his front feet—”
 
-“I did not count its *toes*, Weasley.”
+“Nobody in the world looks at a rat’s feet but you, Weasley.”
 
-She had, as it happened. She saw no reason whatever to tell him so.
+She had looked, as it happened. She saw no reason whatever to tell him so.
 
 “Well, it matters! If it’s Scabbers, then Harry and Hermione—” He stopped, and scratched his head. “Never mind.” He turned to the Hufflepuffs. “Cheers. Look, if you see a brown rat, come and find me, will you? Gryffindor table. And leave the trap alone. And if there’s ever one in it, don’t *kill* it.”
 
@@ -132,7 +132,7 @@ She was polite to him because he was a teacher, and because she had decided some
 
 “The Potions master thinks you let Sirius Black into the castle,” said Lyra. “He set that essay to have you found out. I have known since November, and I haven’t told him, and I haven’t told my father, who was a governor until the summer and would very much like to know. I think that’s worth something. I think it’s worth whatever Potter has been doing all term, with you and that parchment.”
 
-Lupin looked at her for a long moment, and then, unexpectedly, he laughed, a short tired breath through his nose.
+Lupin was quiet for a while. Then, unexpectedly, he laughed, a short tired breath through his nose.
 
 “Sirius tells me you were in the Shack. That Harry trusted you with that much. So I don’t suppose I’m selling you a great deal you haven’t had already. You know a dog needs nobody to hold the door for it.” He said it quite calmly. So he and Black had talked, and Black had told him who had fed him chocolate. “And Severus has his reasons, all the same. Sirius and I were at school together. There were four of us: James, Sirius, Peter Pettigrew and me. We were in and out of each other’s pockets for seven years.” His eyes went to the parchment on the desk, and came back. “James is dead and Sirius can’t say a word, which leaves me. I’m the last man alive who can stand up and say what Peter is. So if you’ve a mind to tell the world what I am, Miss Malfoy, I’d ask you to hold off until we’ve caught him.”
 
@@ -150,7 +150,7 @@ Twelve years in a cage on a Weasley’s bedside table, being fed crusts. Lyra wo
 
 “Pettigrew,” she said. “It’s Weasley’s rat. That’s what Potter’s been hunting. Not a pet at all. Pettigrew.”
 
-And she had seen it. Small and grey and going over her own shoe, with a toe gone off one front foot, while she stood there being clever about Weasley’s trap, and told him nothing, out of nothing better than dislike.
+And she had seen it. Small and grey and going over her own shoe, with a toe gone off one front foot, while she stood there being clever about Weasley’s trap; and she had kept it from him out of plain dislike.
 
 “Exactly so—” Lupin stopped. He had gone, if anything, greyer. “You— Harry hadn’t told you?”
 
@@ -226,7 +226,7 @@ She did not let herself finish. She took hold of his collar instead, with both h
 
 Malfoys did not do favours. They extended credit, and only to people they meant to deal with again.
 
-He did not answer. For once in his life he looked as if he had nothing ready, and after a moment he looked at Granger instead.
+He did not answer. For once in his life he had nothing ready, and after a moment he looked at Granger instead.
 
 Granger had been watching all of this with an expression Lyra could only call rapt, like somebody at the theatre who has just been told she must go up on stage. She put it off as long as a decent person could. Then she cleared her throat.
 

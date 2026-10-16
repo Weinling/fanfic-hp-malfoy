@@ -108,7 +108,7 @@ Pettigrew nodded, slowly, the way a man nods who has been waiting to be asked.
 
 “Two letters, from the Ministry, to get Dumbledore and Severus out of the way. And a few drops of neutraliser in the Wolfsbane, while it stood ready on Severus’s desk.” He licked his lips. “How is Remus? He’ll have changed, I suppose. I do hope he hasn’t hurt anybody.”
 
-Under the cloak, Lyra stopped breathing. Then her broom was moving, a foot out of the trees towards the shore, before she knew she meant it to; and Harry’s hand closed on her wrist and held it there.
+Under the cloak, Lyra stopped breathing. Then her broom was moving, a foot out from under the cloak, towards the shore, before she knew she meant it to; and Harry’s hand closed on her wrist and held it there.
 
 “Not yet,” he said, very low.
 
@@ -178,7 +178,7 @@ Sirius and Potter were trying to cast. There were too many. The light kept going
 
 She had seen it from the castle steps: a light going up beyond the trees, white and then silver, running out over the water. It had to go up from here, and it had to be soon, or she would not be standing on those steps to see it.
 
-“Now,” said Harry, at the same moment, and looked at her.
+Harry had opened his mouth to say the same thing. He shut it again, and looked at her.
 
 “Are you all right?” It came out of her before she could stop it. “There are so *many*.”
 
@@ -256,7 +256,9 @@ She went on breathing hard through her nose for a while, and then that began to 
 
 The forest was as quiet as any other night. Harry looked round at the bodies on the shore.
 
-“You’ll have to lead from here, Lyra. Potter’s out cold. He doesn’t know what happens next.”
+“From here I lead,” said Lyra. “Potter’s out cold. He doesn’t know what happens next.”
+
+“Go on, then,” said Harry.
 
 Lyra made herself think back. She had come out of the castle, and seen a light from the direction of the forest, and—
 
@@ -280,6 +282,8 @@ There was a beat of great wings overhead, and a light came on in the sky.
 
 The werewolf lifted its head into the light and growled. Up there on Buckbeak’s back, in her own wandlight, Lyra watched Malfoy go white.
 
+Below the light, the werewolf had put its nose to the stones again, a yard from Harry’s foot.
+
 Harry started forward. Lyra caught his wrist.
 
 “It’s all right. Buckbeak saves—”
@@ -288,7 +292,7 @@ That made her sound in debt to an animal. She corrected herself at once.
 
 “That hippogriff’s quite useful. He sees off a werewolf without any trouble. He’d make a decent gamekeeper.”
 
-Buckbeak folded his wings and came down on it out of the sky, with a spell going wide off into the dark from somewhere on his back, and struck it as he came and again as he landed; and in the end it could not get the better of even a hippogriff, and fled into the trees. Malfoy came off him in a heap on the stones.
+Buckbeak folded his wings and came down on it out of the sky, with a spell going wide off into the dark from somewhere on his back; the werewolf came up off the stones at her, and Malfoy screamed, and he struck it as he came and again as he landed; and in the end it could not get the better of even a hippogriff, and fled into the trees. Malfoy came off him in a heap on the stones.
 
 “Will Professor Lupin be all right?” Harry murmured.
 
@@ -296,7 +300,7 @@ Lyra looked at the trees where it had gone, and said nothing.
 
 Malfoy was coming across the stones. She stopped over Pettigrew with her wand out, and stood there a long moment; and beside Lyra, under the cloak, Harry caught his breath, not loudly. Malfoy’s head came round at the sound. She left Pettigrew where he lay and went to Potter.
 
-Lyra looked at Harry. He did not look back.
+Lyra looked at Harry. He did not look back. *It might have been Potter*, she had thought at the time, *and it might have been the wind off the lake.*
 
 They moved back carefully, out of her way, and watched her kneel by Potter and put a finger under his nose, and look relieved, and stand up and send red sparks into the sky, over and over.
 
@@ -350,13 +354,13 @@ For once, Harry looked taken aback. “How did you know?”
 
 He raised his wand. Ropes uncoiled out of the air towards the broom and wound themselves round Pettigrew, round and round; and then they opened, very like two snakes opening their jaws, and closed over him again. If he woke up, and became a rat, they would swallow the rat.
 
-“And there is Severus,” said Dumbledore. “Severus has wanted Sirius dead for twenty years, and tonight he had him at his feet. Yet you tell me he is bringing him here. So—”
+“And there is Severus,” said Dumbledore. “Severus has wanted Sirius dead for twenty years, and tonight he had him at his feet. Yet you tell me he is bringing him here. So somebody on that shore talked him out of it—”
 
 “It was me, sir,” said Lyra.
 
-She had not meant to say it. She was not going to stand in a corridor and watch him work it out, that was all, as though she were a sum on a blackboard. “The earlier me. I lied to him. I told him I’d caught Sirius Black and it was my decision, and he believed me.” Her voice was perfectly steady. Her hands were not.
+She was not going to stand in a corridor and be worked out, that was all; not by anybody. “The earlier me. I lied to him. I told him I’d caught Sirius Black and it was my decision, and he believed me.” Her voice was perfectly steady. Her hands were not.
 
-Dumbledore looked at her over his spectacles and said nothing, for a moment that went on a good deal too long.
+Dumbledore said nothing, for a moment that went on a good deal too long.
 
 She had put her hands behind her back, the way she did in her father’s study when she had something in them she did not want seen. There was nothing in them. She left them there anyway.
 

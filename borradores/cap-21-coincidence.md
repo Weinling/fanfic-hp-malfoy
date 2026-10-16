@@ -8,11 +8,11 @@ Lyra could tell that much with her eyes shut. The warmth had gone off her face, 
 
 She opened one eye.
 
-She had made him wait nearly a full minute, before. She had planned on longer. “Fine,” she had said in the end, “but I want it understood that I think you’ve been hit on the head,” and Potter had shut the door and opened his hand, and the thing on the chain had turned over on his palm and caught the firelight: a tiny hourglass, no bigger than a thimble, set in a gold ring that spun on its own axis. She had last seen a chain like that round Granger’s neck. He had put it over her head, and ducked his own into the loop beside hers, so that the two of them stood inside one gold chain with barely an inch between his collar and her nose; and Lyra had shut her eyes, because it seemed, at the time, the only possible thing to do with them.
+She had made him wait nearly a full minute, before. She had planned on longer. “Fine,” she had said in the end, “but I want it understood that I think you’ve been hit on the head,” and Potter had said, “Understood,” and shut the door and opened his hand, and the thing on the chain had turned over on his palm and caught the firelight: a tiny hourglass, no bigger than a thimble, set in a gold ring that spun on its own axis. He had put it over her head, and ducked his own into the loop beside hers, so that the two of them stood inside one gold chain with barely an inch between his collar and her nose; and Lyra had shut her eyes, because it seemed, at the time, the only possible thing to do with them.
 
-That was not the only thing she had seen on his palm. On the fourth finger of the hand that held the chain there had been a ring: plain silver, a little clumsy, the twin of the one on her own hand. The last time she had seen it, it had been going out of the dormitory in a green velvet box, at a brisk trot, in Crabbe’s fist.
+That was not the only thing she had seen in his hand. On the fourth finger of the hand that held the chain there had been a ring: plain silver, a little clumsy, the twin of the one on her own hand. The last time she had seen it, it had been going out of the dormitory in a green velvet box, at a brisk trot, in Crabbe’s fist.
 
-So that was how her ring had known which way to look. Lyra had put her own hand behind her back at once, and kept it there, and said nothing at all.
+So that was how her ring had known which way to look. Lyra had put her own hand behind her back at once, and kept it there, and said nothing.
 
 Potter had already ducked out of the chain and was winding it round his fingers as though nothing whatever had happened.
 
@@ -112,7 +112,7 @@ When he spoke, it was straight into her hair.
 
 They went along the corridors with great care, keeping close to the walls, and he talked as they went, low and quick. Since the Shack he and Hermione had been living every afternoon twice: once for lessons and practice, and once more for the hunt, floor by floor and broom cupboard by broom cupboard, with Ron’s rat ready on their tongues if a prefect asked what they were doing behind a tapestry. By night the map went to Lupin and the cloak to Sirius, and between the four of them they had kept Pettigrew boxed up inside the walls for weeks. He had not shown so much as a whisker.
 
-Lyra thought of a line of tiny prints across Snape’s desk, and said nothing.
+Lyra thought of a pink foot short a toe going over her shoe, and a line of tiny prints across Snape’s desk, and said nothing.
 
 “You’re in the library and on the pitch and halfway up the stairs, all at once,” said Lyra, half to herself. “So you *do* take it in turns.”
 
@@ -176,13 +176,13 @@ She turned her head away. Harry said urgently in her ear, “Where’s she going
 
 “Lyra. If we don’t know where she goes, we can’t make sure she gets there.”
 
-“…To you,” said Lyra, and pulled a fold of the cloak across her face, which was no use at all, since he could see straight through it. “She’s going to find *you*.”
+“…To you,” said Lyra, and pulled a fold of the cloak across her face, which was no use, since he could see straight through it. “She’s going to find *you*.”
 
 Harry looked down at her through the cloak.
 
 “Why?”
 
-To take him by the collar and ask him whether he had really sent her home over one rat.
+To call in what he owed her, and take him by the collar if he would not pay.
 
 “Because of *you*!” It came out with rather more in it than she had meant to put there. “Because you dragged my brother into it, and my family, and all for a *rat*, and if you hadn’t I wouldn’t have—*that*—”
 
@@ -194,7 +194,7 @@ His mouth was doing something at the corners that he plainly did not trust. Then
 
 “You are. I saw you. You went round that corner, and down the stairs, and I went after you all the way—”
 
-She stopped. He had not been up here all day; he had told her so himself, under this cloak, living every afternoon twice. And at the bottom of those stairs, under the tall windows, he had not looked like somebody who had just run down four flights. *How many of you are there, Potter?*
+She stopped. *I’m nowhere near there.* And at the bottom of those stairs, under the tall windows, he had not looked like somebody who had just run down four flights. He had looked like somebody who had been standing at a window for ten minutes, talking. He had been.
 
 “That wasn’t you,” said Lyra. “That *will* be you. Go on, Harry. Round that corner, and make a noise about it, and don’t let her catch you up.”
 
@@ -234,9 +234,9 @@ Twenty yards, and then the worst minute of her life.
 
 Malfoy reached them and started to shout.
 
-It all came out of her, everything from the last two months: the rain and the Shack and the rat, the hurt and the unfairness and the—Lyra made herself think the word—jealousy, all of it at once and at the top of her voice, half hanging off Potter’s collar. Lyra listened to it from twenty yards off and understood, for the first time, why her mother never raised her voice in the house. Thank Merlin the corridor was empty. One more witness and she would have had to change schools.
+It all came out of her: the debt first, called in like a bailiff at the door, and then everything from the last two months: the rain and the Shack and the rat, the hurt and the unfairness and the—Lyra made herself think the word—jealousy, all of it at once and at the top of her voice, half hanging off Potter’s collar. Lyra listened to it from twenty yards off and understood, for the first time, why her mother never raised her voice in the house. Thank Merlin the corridor was empty. One more witness and she would have had to change schools.
 
-Potter looked away, at Granger, for help. Granger put it off as long as a decent person could, and then cleared her throat.
+Potter said something too low to carry.
 
 “Here it comes,” Harry murmured.
 
@@ -258,7 +258,7 @@ She saw Malfoy take another step at him. *So you take Granger.* And then, from t
 
 It had not been guilt. He had been trying not to laugh. He had been so pleased about something that he could barely keep it in.
 
-Beside her, under the cloak, Harry said nothing.
+Beside her, under the cloak, Harry said nothing. Out in the corridor, Granger put it off as long as a decent person could, and then cleared her throat.
 
 Then Granger raised her voice, and Malfoy reached for the word, and—
 
@@ -350,15 +350,15 @@ Harry turned to her, and his face was very serious.
 
 “One more thing. Nobody knew where we were tonight. Not Dumbledore, not anybody. How did *you*?”
 
-Lyra took a sharp breath. She had been waiting for that question since the common room.
+Lyra took a sharp breath. She had been waiting for that question since the side room.
 
-She had not looked at his hands all night, on purpose. She looked now. On the fourth finger of his right hand was a ring exactly like hers. Plain silver, a little clumsy. The other one of the pair she had told Crabbe to bin.
+She had not looked at his hands all night, on purpose. She looked now. There it was, on the fourth finger of his right hand: the other one of the pair she had told Crabbe to bin.
 
 *Bin them*, she had said. And then, *Do as you like.* Evidently Crabbe had. It had been done without asking her, and Crabbe was going to hear about it.
 
 “Well,” said Lyra. “That is.”
 
-She had taken her own off in the common room, with her hand behind her back, and put it in her pocket before he could see. In her pocket now, her fingers found it. She slipped the tip of her fourth finger into it, only a little, only for a second, watching his ring out of the corner of her eye with a perfectly blank face.
+She had taken her own off in the side room, with her hand behind her back, and put it in her pocket before he could see. In her pocket now, her fingers found it. She slipped the tip of her fourth finger into it, only a little, only for a second, watching his ring out of the corner of her eye with a perfectly blank face.
 
 His ring went faintly pink.
 
@@ -438,7 +438,7 @@ He still had no idea about the ring. Lyra gathered up every scrap of composure s
 
 As he turned, she saw the ring on his hand flash: on, off, on, like a lantern somebody was swinging on a dark road.
 
-The other ring was looking for him. Somewhere above them, at this moment, Malfoy was standing on the front steps with her hand held up, turning towards the forest.
+The other ring was looking for him. Somewhere above them Malfoy had it on, and was turning it this way and that, trying to make it tell her something.
 
 And Lyra thought, unwillingly, of the first time she had put it on, behind her own bed-hangings: it had gone red, and then pink, and then red again, as though it could not make up its mind.
 

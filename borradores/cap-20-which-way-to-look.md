@@ -2,7 +2,7 @@
 
 The drawer of her bedside table knocked, once, sharply, as if something inside it had tried to get out.
 
-Lyra had been lying on the bed for an hour, face down, with her shoes on. Every so often she had put two fingers to her mouth, as though to make sure it was still there, and then remembered what she was doing and hit the pillow instead. It made no sense. Potter did things that made sense to Potter, which was not the same, but there was always a reason underneath, and she could not find this one. To stop her saying a word? He could have put his hand over her mouth. For that long? Once she had sat bolt upright and told the bed-hangings, “No. Why should *I* be the one who’s rattled?”, and then lain down again and put her face back in the pillow. It had been one kiss. Two, if you counted the train, and she did not intend to.
+Lyra had been lying on the bed for an hour, face down, with her shoes on. Every so often she had put two fingers to her mouth, as though to make sure it was still there, and then remembered what she was doing and hit the pillow instead. It made no sense. Potter did things that made sense to Potter, which was not the same, but there was always a reason underneath, and she could not find this one. To stop her saying a word? He could have put his hand over her mouth. For that long? Once she had sat bolt upright and told the bed-hangings, “No. Why should *I* be the one who’s rattled?”, and then lain down again and put her face back in the pillow. It had been one kiss. Two, if you counted the train, and she did not intend to. It was just as well nobody could see her.
 
 Now she lay with the pillow in her arms and listened. The dormitory was empty; she could hear Greengrass and Bulstrode through the ceiling, in the common room, arguing about Divination. Nothing else. She put out a hand and opened the drawer.
 
@@ -12,7 +12,7 @@ The ring was lying where she had dropped it, among the hair ribbons and the spar
 
 She looked at it. Then she looked round the empty room, picked it up very quickly, drew the hangings all the way round her bed, and sat inside them with the ring in her palm.
 
-Four days in a drawer had not improved it. It was plain and a little clumsy, the sort of thing one bought in Zonko’s when one was not paying attention. She held it up to the gap in the hangings. Then, since there was nobody to see, she tried it against her hand, finger by finger, the way one tries on gloves, and put it on the middle one, which was the one finger that meant nothing whatever.
+Days in a drawer had not improved it. It was plain and a little clumsy, the sort of thing one bought in Zonko’s when one was not paying attention. She held it up to the gap in the hangings. Then, since there was nobody to see, she tried it against her hand, finger by finger, the way one tries on gloves, and put it on the middle one, which was the one finger that meant nothing whatever.
 
 It shrank to fit with a small, cold squeeze. She had just decided it looked absurd there, and was reaching to move it one finger along, when it went red.
 
@@ -150,7 +150,7 @@ Lyra did not decide anything. She leaned forward along Buckbeak’s neck, as far
 
 “*Ex—Expelliarmus!*”
 
-Her hand was shaking. The spell went off into the dark somewhere to the left. The creature looked up and saw what was coming down at it, and tried, too late, to rise and meet it—
+Her hand was shaking. The spell went off into the dark somewhere to the left. The creature looked up and saw what was coming down at it, and came up off the stones to meet it, straight at her, all teeth; and Lyra heard herself scream, and shut her eyes, and held on—
 
 There was a crack of wings, and a shriek, and a howl of pain. Buckbeak struck it once as he came down and again as he landed, rearing over it with his wings spread, and the werewolf yelped and backed away; and when the wings beat once more, it turned and fled into the trees.
 
