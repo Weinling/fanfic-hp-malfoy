@@ -1,284 +1,256 @@
 # Year One, Part 3: The Scar
 
-Harry had found ways round most of what Malfoy did. Potions was another matter.
+By the new year Harry had an answer for most of what Malfoy did. Potions was another matter.
 
-In Potions, Malfoy had Snape, and Snape had made it plain from the first lesson that whatever Lyra Malfoy did was right and whatever Harry Potter did was not. Harry tried. It was no use. You could not win against a teacher three times your age whose face never gave anything away.
+Everywhere else in the castle she was one loud first-year among a great many. In the dungeons she had Snape, and Snape had made it clear from the first morning that the lesson was being given for Lyra Malfoy’s benefit and that everybody else, Harry in particular, was there on sufferance. You could not argue with a man three times your age who could take points off you for the way you were breathing. Harry had tried. Gryffindor had paid for it.
 
-Snape opened the textbook without looking at it.
+“The difference,” said Snape, without opening the book in front of him, “between a draught and a philtre.”
 
-“In how many ways may dragon’s blood be used in potion-making?”
+Hermione’s hand was in the air before he had finished. Snape’s eyes went over it as though it were a stain on the ceiling and moved on round the room.
 
-Hermione’s hand went up, as it always did. Snape looked past it, as he always did, and round the rest of the class.
+“Nobody? I see. You have each had a book since September, and not one of you has thought to look inside it. Where, then, would you go for a moonstone?”
 
-“Has any one of you so much as opened the book? Remarkable. Then: what is the use of a puffer-fish eye?”
+Hermione’s hand went higher. She was half out of her seat. Snape found a crack in the wall that interested him a great deal more.
 
-Hermione’s hand went up again, higher. Snape did not see it again.
+Two benches back, Malfoy put up her quill and waggled it in the air, straining towards the ceiling with her mouth pursed and her eyes rolled up, and the Slytherin bench made small choking noises into its sleeves.
 
-Two benches behind, Malfoy put up her own hand, flapping it about, stretching up out of her chair with her face screwed up in an imitation of Hermione’s that made the Slytherins snort into their sleeves.
+“Do be careful, Granger,” she said, just loud enough. “You’ll put your shoulder out, and then who’ll tell us all the answers?”
 
-“How embarrassing,” she said, not quite under her breath. “Throwing herself about to show off how much she’s read.”
+The back of Hermione’s neck went pink. Harry turned round on his stool.
 
-Hermione’s ears began to go red. Harry turned round in his seat.
+“Leave her alone.”
 
-“That’s enough. Hermione’s just done the work.”
+“Ooh.” Malfoy laid her quill down. “Are you going to carry her books for her as well, Potter? How *gallant*.”
 
-“Ooh. Do you *fancy* Granger, Potter?”
+“If you want to beat her, learn something,” said Harry. “Sneering’s not a subject.”
 
-Harry frowned at her. “Don’t be so childish. If you want to beat Hermione, beat her at knowing things, Malfoy. Not just with your mouth.”
+“I don’t need to *learn* things, Potter. I’m a Malfoy. People tell me.” She examined her nails and then, because she could never leave anything alone, added, “Not that I don’t *know*. I just don’t wave it about as if it were the only thing I owned, like *some* people.”
 
-“I don’t need to prove myself by knowing things, Potter. I’m quite remarkable enough already.” She could not leave it there, though. “Not that I *don’t* know. I simply don’t go about showing it off as if it were the only thing I had, like Granger.”
+“It isn’t the only thing she’s—”
 
-“It isn’t the only thing she’s got!”
+“Thank you, Potter.”
 
-“Indeed,” said a cold voice. “Your sentiments are very plain to us all, Potter.”
+Snape was standing over Harry’s bench. Nobody had heard him come. He did not raise his voice, but he did not need to; the dungeon carried it into every corner.
 
-Snape was standing over his bench. He had come up without a sound, and he went on loudly enough for the whole dungeon to hear.
+“We are all quite clear on where your sympathies lie. You are very like your father. The same conviction that every room is waiting to hear from you. The same complete inability to notice when it is not.”
 
-“You are very like your father. The showing off. The inability to tell when you are wanted and when you are not.”
+Harry went hot from the collar up. His hands closed on the edge of the bench.
 
-This time it was Harry’s face that went red. He clenched his fists.
+“Don’t you talk about my dad.”
 
-“Don’t you talk about my father like that!”
+“I am stating a fact. Your father was the most tiresome boy ever to walk these corridors, and you are making a very fair copy of him.”
 
-“I am telling you the truth, Potter. Your father was the worst troublemaker this school has ever seen. You are very like him.”
+“My dad *died* fighting *Voldemort!*”
 
-“Don’t you dare insult him. My father died fighting *Voldemort!*”
+He put the name down on the bench between them like a trump card. It had never yet failed him: Malfoy flinched at it, half the castle flinched at it, Neville had once dropped a whole tray of jam tarts.
 
-He said the name and waited for it to work, the way it always did.
+Snape did not flinch. He did not so much as look at it.
 
-It did not work. Snape’s face did not move.
+“Ten points from Gryffindor,” he said, in exactly the voice he had used for the moonstone. “How your father met his end has nothing whatever to do with your talking in my lesson. If that cauldron is not lit in thirty seconds, Gryffindor will finish the day with fewer points than it has students. *Begin.*”
 
-“Ten points from Gryffindor, Potter.” He said it without the smallest change of tone. “I fail to see what the manner of your father’s death has to do with your disrupting my lesson. What I can tell you for certain is that if you have not begun that potion within the minute, there will be no Gryffindor points left by the end of today. *Get on.*”
+Harry lit the cauldron.
 
-Harry got on.
+When he looked up, Malfoy was watching him over her own, chin propped on one hand, with the expression of somebody at a very good play.
 
-From two benches back, Malfoy watched him do it with her chin on her hand, looking delighted.
+He waited until Snape’s back was turned. “That was cheap, Malfoy.”
 
-As soon as Snape had moved off, Harry turned and said in a low voice, “That was low, Malfoy.”
+“*Cheap?*” She seemed genuinely surprised. “Potter, you really haven’t the first idea how anything works, have you. Some people have money. Some have looks, or brains, or the right name, or a Head of House who can’t stand the sight of their enemies. I happen to have all of them. I should be a fool not to use them.”
 
-“Low? Potter. You really don’t understand anything, do you.” She smiled at him. “Talent, magic, looks, money, even who you know—it’s all power, Potter. I’m only using mine the best way I can.”
+“Fine,” said Harry. “I’ll hold you to that.”
 
-“Remember you said that, Malfoy.”
+He looked straight at her, and for half a second she seemed less sure of herself. Then her eyes slid to Snape, at his desk, and she smiled.
 
-Harry looked at her straight, and she faltered, just for a second. Then she glanced at Snape, and was all confidence again.
+“Do. If you can.”
 
-“Of course I will. Do whatever you like. If you can.”
-
-Harry did whatever he liked.
+So Harry went over Snape’s head.
 
 ⁂
 
-“Professor Dumbledore!”
+It seemed to him a perfectly obvious thing to do. Snape was a teacher, and you could not beat a teacher; therefore you went to the person the teacher had to answer to. He found the stone gargoyle by asking three portraits and a ghost. He did not know the password, so he stood in front of it and recited every sweet he had ever eaten, and at *Fizzing Whizzbee* it sprang aside and showed him a staircase going round and round, upwards, on its own.
 
-Snape was a teacher, and Harry could not win against him. So he would have to go to somebody higher up than Snape. It was a very simple piece of reasoning, and Harry was eleven, and he went to see Dumbledore himself.
+Dumbledore, at the top of it, looked surprised to see him, and then, oddly, rather pleased.
 
-Dumbledore looked surprised, and rather pleased, to see him.
+“Harry. Is something the matter?”
 
-“What can I do for you, Harry?”
+“It’s Snape. Professor Snape.”
 
-“It’s about Snape.”
+It all came out in a rush: the points, the questions only Hermione could answer and Hermione was never asked, the way Slytherin could set fire to a bench and be told to sit somewhere else. It was not fair, and it was not well put, and it did not get any better for being said twice; but Dumbledore listened to all of it as if it were.
 
-Harry told him. He told him how unfair Snape was, and how mean, and how he never took points off Slytherin and took them off everybody else for breathing. It came out one-sided and hot and not very well put together, but the feeling in it was perfectly plain.
+“Professor Snape is a very gifted Potions master,” he said when Harry ran out, “and how he teaches is for him to decide. I am sorry, Harry. I do not tell my staff how to run their classrooms.”
 
-Dumbledore stroked his beard.
+“But he’s *unfair*.”
 
-“Professor Snape is a very fine Potions master, Harry, and how he runs his lessons is entirely for him to decide. I am sorry. It is not my place to interfere.”
+“Most people are, a little, about something. I have lived a long time and met a great many wizards, and not one of them could make another man fair by telling him to be.” He looked at Harry over his half-moon spectacles. “But I do not think it is the points you mind. Is it?”
 
-“He’s *unfair!*”
+Harry hesitated.
 
-“Everybody leans a little one way or another, Harry. If I have learned anything with age, it is that even the greatest wizard cannot do anything about another person’s heart. How a man uses the authority he has been given is a matter for his own conscience.”
+“It’s Malfoy,” he said. “If Snape always takes her side, she’ll just keep on. She’ll say something horrible to Neville, or Hermione, or Ron, and Snape will smile, and she’ll do it again next week, and worse. And she’ll think that’s *right*. I don’t want her to think that’s right.”
 
-“It still isn’t all right. It *isn’t*.”
+It was not what he had meant to say. It was true, though. Hogwarts had changed nearly everything about him in four months; he did not see why it should not change Lyra Malfoy too. And if it would not do it on its own, somebody would have to help it along.
 
-Dumbledore’s eyes brightened with what might have been curiosity.
+“Ah,” said Dumbledore softly. “Yes. I have been rather short-sighted, I think. I have been so busy wishing you well that I forgot there were children on the other side of that room who needed something from me as well.”
 
-“I think there is another reason. Why, Harry?”
+He came round from behind his desk, which Harry had not known headmasters did, and sat on the edge of it, so that their eyes were nearly level.
 
-“Because if he keeps on like that, Malfoy’s just going to get worse. Every time she does something horrible, she’ll go running to Snape, and he’ll be on her side, and she’ll keep doing it. I don’t want that.”
+“Let me tell you something about Professor Snape, Harry. He is a teacher. That is all he is, in that room. However much you annoy him—and I suspect you could annoy him a great deal—the worst he can do is take your points and keep you in after supper. He can frighten you. He cannot do more.”
 
-“Ah,” said Dumbledore.
+To Harry, at eleven, points and detentions were not a small thing. Enough of them and you could be sent home, and he could not imagine anything worse in the world than being sent back to Privet Drive for good. But Dumbledore said it as though it were a very small thing indeed, and Harry began, slowly, to wonder whether he might be right.
 
-In every Potions lesson from now until summer, Malfoy would pick on somebody. With Snape behind her and nobody to stop her, she would go for Ron, and Hermione, and Neville, and nobody would be able to do anything about it.
+“You mean I shouldn’t be scared of him?”
 
-Harry was not going to let that happen.
+“Be as scared as you like. It is a perfectly sensible thing to be. But you can be frightened and do it anyway. That is rather the point of being brave.”
 
-“I see,” said Dumbledore slowly. “I have been short-sighted, I think. In cheering for you, I have let the Slytherin children down.”
-
-He smiled.
-
-“Harry, let me tell you something. Severus Snape is a *teacher*.”
-
-“I know. I wish he wasn’t, but—”
-
-“That is not what I mean. Harry, however angry you make him, Professor Snape cannot do anything worse to you than take away points and give you detentions. At the very most, he can frighten you.”
-
-To Harry, at eleven, points and detentions seemed quite bad enough. If you got enough of them, you could be expelled, and he could not think of anything worse in the world than being sent away from Hogwarts. But looking at Dumbledore’s face, he began to wonder.
-
-“You mean—not to be scared of a few points?”
-
-“Be scared, if you like. But if you have the will for it, getting through them is another way of winning.”
-
-His mother and father had died fighting Voldemort. Snape could not be as frightening as that. Harry made up his mind: whatever Snape did, he would stand up to him.
+His mother and father had stood up to Voldemort. Snape, whatever else he was, was not Voldemort. Harry decided, there and then, that he would not back down from Snape again, whatever it cost Gryffindor.
 
 “Sir,” he said. “Why does he hate me?”
 
 Dumbledore was quiet for a moment.
 
-“That is not quite the right question,” he said. “But I shall tell you one true thing, Harry, though it may be a little hard.”
+“I am not sure that is the right question,” he said. “But I will tell you one true thing, Harry, though you may not like it.”
 
-It seemed to Harry that Dumbledore’s face had gone colder. But the coldness was not aimed at him. It was as if Dumbledore were looking through Harry at somebody else, and testing him.
+His face had changed. It had gone cool and still, and Harry had the strange feeling that the coolness was not meant for him: that Dumbledore was looking past him, down the stairs and along the corridors and into the dungeons, at somebody who was not there.
 
-“Professor Snape had a great deal to do with your parents. Your father and your mother, both. He owes them his life. I give you my word, on everything I have: he must protect you. He has a debt to pay.”
+“Professor Snape knew your parents. Both of them. He owes them his life, and I give you my word, on everything I have, that he is bound to keep you safe. Until that is paid, he will. He has a debt to pay.”
 
 ⁂
 
-Harry waited for his chance.
+It took Harry two days to find his chance.
 
-What he wanted was for Snape to stop taking Malfoy’s side in lessons, and for that he had to have a quiet word, out of earshot. So he followed Snape out of the Great Hall after dinner and caught him up in the corridor.
+He did not want a row. He wanted, if he could get it, a sort of deal: Snape could go on hating him in peace if he would only stop taking Malfoy’s side. So he waited until the end of dinner, slipped out after the black robes, and caught them up in the corridor below the Great Hall.
 
-“Professor Snape.”
+“Professor Snape?”
 
-“I hardly expected you to come looking for me, Potter.” Snape turned round with a swirl of black robes. “Well? If you are wasting my time, I shall take points for it.”
+“Potter.” Snape turned. “I confess I did not expect you to come *looking* for me. If this is a waste of my time, it will cost you.”
 
-“What? For *that?*”
+“What? I haven’t even—”
 
-“Five points from Gryffindor. The next will be ten. State your business.”
+“Five points from Gryffindor. The next five will be ten. What do you want?”
 
-It was no good; he was never going to be able to like this man. Harry swallowed his temper.
+It was hopeless. He was never going to like this man as long as he lived. Harry swallowed it down.
 
-“Professor Dumbledore told me. He said you owe my parents your life.”
+“Professor Dumbledore told me about you. He says you owe my mum and dad your life.”
 
-“Professor Dumbledore told you that.” Snape’s lip curled. “And left out every part of it that might be awkward for the famous Harry Potter, I imagine. Do you know what happened?”
+Something went across Snape’s face and was gone.
 
-Harry shook his head. Snape bent over him, and his voice went low and nasty.
+“Did he.” His mouth twisted. “How very like the Headmaster, to tell the famous Harry Potter only the parts of a story that flatter him. Shall I tell you the rest? Your father thought it would be amusing to send me somewhere I should not have gone. Somewhere I would very likely not have come back from. At the last moment he lost his nerve and pulled me out, because if I had died, he and his friends would have gone to Azkaban for it. He saved his own neck, Potter. Mine was incidental. Is that the debt you came to collect?”
 
-“Your father played a trick on me. A very dangerous trick. The sort that gets a boy expelled. If he had not stopped me in time, he and his friends would have ended in Azkaban. So he saved me to save his own skin. Do you understand?”
+Harry stared at him. It was nothing like the story Dumbledore had told. If it was true, then Snape owed him nothing, and Harry had walked into this corridor with no plan whatsoever and nothing in his hands.
 
-Harry was frightened by his face.
+Why had Dumbledore said *a debt*? Dumbledore did not seem the sort of person who said things that were not so. But if he had meant it to help, it had not.
 
-It was nothing like what Dumbledore had said. If that was the truth, then Snape had no reason to protect him.
+“Which leaves the matter,” said Snape, “of my time. Ten points from Gryff—*what*, Quirrell?”
 
-He wished he had thought about it a bit more before he came. Why had Dumbledore said a debt? Dumbledore did not seem the sort of person to say things that were not true. But what he had said was no help.
+“S-sorry, Severus. S-so sorry. Only p-p-passing.”
 
-Harry was busy blaming Dumbledore in his head when Snape said:
+Professor Quirrell scurried by them, turban bobbing, and Snape turned his whole head to watch him go and did not say a word until the corridor was empty again.
 
-“And now you will pay for wasting my time, Potter. Ten points from Gryff—*what* is it, Quirrell?”
+Harry did not know why he looked at the back of Quirrell’s head. He just did.
 
-“S-s-sorry, Severus. J-just p-passing.”
+The pain came through his forehead like a nail. He grabbed at his scar, and the corridor went away, and there were pictures, too fast to hold.
 
-Professor Quirrell scuttled past them in his purple turban. Snape watched him all the way down the corridor, and did not say another word until he was gone.
-
-Harry’s eyes went, without any reason, to the back of Quirrell’s head.
-
-“*Ah*—”
-
-The pain went through his forehead like a hot iron. He clapped his hand to his scar. And there were pictures, going past too fast to hold.
-
-His father shouting. Green light. Something in a cloak coming in at a door.
+His father shouting. Green light. Something in a hooded cloak, coming through a door.
 
 *Not Harry, not Harry, please—*
 
-*Stand aside—*
+*Stand aside, you silly girl—*
 
-His mother screaming, and a wand, and then green, nothing but green—
+His mother screaming. A wand. And then green, and green, and nothing but green—
 
-And then other things, seeping in. Gladness. Pride. A wizard of enormous power, who ruled over everybody, listening to a man on his knees in front of him; listening to a piece of news about a boy who might one day bring him down.
+And under it, seeping up through it, other things that were not his. Gladness. Pride, enormous and cold. Somebody who owned the whole dark world, listening to a young man on his knees in front of him; listening to a story about a child who would one day bring him down, and liking it very much.
 
-*Well done, Severus! Very well done!*
+*Well done, Severus. Oh, very well done.*
 
 *Her—only spare her. Please, my Lord—*
 
 Owed a life.
 
-A debt to pay.
+“No,” said Harry, through his teeth. “That’s not what he meant at all.”
 
-“No,” said Harry. “That isn’t what he meant.”
+His scar was splitting. Somewhere deep in it something was laughing, so pleased with itself that it had praised a servant out loud, and it praised nobody.
 
-His scar throbbed and burned.
+He could not get his breath. His head felt as if it would come apart along the line of the scar.
 
-Somewhere in the cracks of it, something was laughing. It was so pleased. It had been so pleased that day that it had praised the man on his knees out loud, and it did not praise anybody.
+But he had seen the face. Young, and thinner, and greasy-haired even then, kneeling.
 
-His breath was coming short. His forehead felt as if it would split.
+“My mum and dad never saved you,” said Harry. “Did they?”
 
-But more than any of that, the man in the picture—
+Voldemort, laughing, and the man on his knees in front of him with the news that would buy him everything he wanted, was Snape.
 
-“My parents didn’t save *you*,” said Harry. “Did they?”
+Harry did not know how he knew it. He only knew it, the way he knew his own name.
 
-Voldemort, laughing. And the man kneeling in front of him, with the news that would buy him everything, was Snape.
+There was no room left in him to be frightened. There was only a man in a black robe, standing in a corridor, who had sold his parents and then had the nerve to call himself in their debt.
 
-For some reason, Harry remembered it.
-
-It came up in him like hate. There was no fear left. There was only an enemy, standing in front of him.
-
-He looked up at Snape through the pain, and Snape looked into his eyes, and for a moment could not look away.
+He looked up at Snape through the pain, and Snape looked into his eyes, and for an instant could not look anywhere else.
 
 “You killed my mum and dad.”
 
-Snape’s face cracked. It was a very small crack, and it was gone at once; but it had been there.
+Snape’s face did not move. But something in it gave, a very small way, the way ice does a second before it goes; and then it was shut again, and Harry might have imagined it.
+
+He had not imagined it.
 
 ⁂
 
-After that day, Snape ignored Harry. He behaved as if Harry were not in the room, and stopped looking for reasons to take points off him, and Harry glared at him every time he saw him, as though he were looking at the man who had killed his parents. And to give him nothing, Harry learned every page before every lesson. By Easter Snape could find nothing to fault in his work; it only made him angry in a quieter way.
+After that, Snape stopped seeing him.
 
-He had found out something very important, but he did not go back to Dumbledore. He wanted to know why Dumbledore had not told him the truth, and why, knowing it, he had given Snape a job at all.
+He did not take points off Harry any more than off anybody else. He did not ask him questions or stand over his bench. In every lesson, the stool Harry sat on might have been empty. Harry, for his part, glared at Snape across every lesson, at the man who had killed his parents, and to leave him nothing to say, he learned every page before every class. By Easter there was nothing in his work Snape could find to fault. It only made Snape angrier, in a quieter way.
 
-He did not think Dumbledore was his enemy. But he found he did not trust him, either.
+He had found out something enormous. He did not go back up the Headmaster’s stairs to tell him.
+
+Dumbledore must have known. He had known, and he had given Snape a job anyway, and then he had told Harry about a *debt*. Harry did not think Dumbledore was his enemy. But he did not trust him either, after that, and it was a long time before he stopped checking everything Dumbledore told him against something else.
 
 ⁂
 
-“Longbottom, what *have* you made? It looks like stew. Why don’t you drop your toad in it and have done?”
+“What *is* that, Longbottom? Soup? Drop your toad in, it’ll improve the flavour.”
 
-It was an ordinary Potions lesson, and Lyra was being herself, as usual. But something about the room was different.
+It was an ordinary Potions lesson, and Lyra was being entirely herself. But something in the room was wrong.
 
-“Shut up, Malfoy,” said Potter sharply.
+“Shut up, Malfoy,” said Potter.
 
-He said it in a way she had never heard from him, with no laugh behind it, and Lyra shut her mouth in surprise.
+He did not say it the way he said everything else, with a grin waiting behind it for her to answer back. He said it flat, like a door closing, and Lyra was so surprised that she shut her mouth.
 
-“Don’t you disappoint me too.”
+She opened it again at once, naturally.
 
-“Who are you,” said Lyra, “to be disappointed in me?”
+“Oh, what *now?* Have I disappointed you again, Potter?”
 
-“The Boy Who Lived. The one who made Voldemort go away, apparently.” He did not even look up. “What does that matter? Voldemort’s gone. But the people who followed him are all still walking about, aren’t they?”
+“Not any more.” He did not look up from his cauldron. “You’d have to matter first.”
 
-His eyes were cold, and his voice was cold, and there was something under it that she had never heard in it before, a plain, open hostility that seemed to flicker at her like a snake’s tongue. He looked at her once, sideways, the way you might look at an insect you had not yet decided whether to bother stepping on.
+Lyra stared at him.
 
-For a second, Lyra was afraid.
+“Funny thing,” said Potter, to the cauldron, in that same flat voice. “Everyone goes on about the Boy Who Lived. The one who got rid of Voldemort. As if that was the end of it. He went away. But all the people who used to follow him are still walking about, aren’t they? Having dinner. Teaching lessons.” He stirred twice, anticlockwise. “Sending their kids to school.”
 
-Potter clicked his tongue—it was her own trick, and he had never done it before—and looked away, and only then could she breathe.
+His eyes came up then, and they were cold, and his voice under them was colder; and there was something in it Lyra had never heard from him before, a plain, flat dislike with nothing playful left in it anywhere. He looked at her once, sideways, the way you might look at an insect you had not yet decided whether to bother stepping on.
 
-The dungeon had gone silent. The Slytherins were shocked, and so, for that matter, were the Gryffindors.
+For one second, Lyra was afraid of him.
 
-To say *Voldemort*, and then talk about his *followers*, in Snape’s dungeon, in front of Snape?
+Then Potter clicked his tongue—*her* trick, she had never once heard him do it—and looked away, and she found she could breathe again.
 
-“What’s the matter with *him?*” said Goyle loudly. “Has he gone mad?”
+The dungeon had gone completely silent. The Slytherins were staring. So were the Gryffindors. To say *that name* in Snape’s dungeon was bad enough; to say it and then talk about *followers*, in front of Snape, with half the Slytherin parents’ names hanging in the air unsaid—
 
-Goyle was angry for her, and that gave Lyra time to pretend she did not care. She got her face in order, and narrowed her eyes.
+“What’s wrong with *him?*” said Goyle loudly. “Has somebody hit him on the head?”
 
-*Idiot. Pretending to be angry, as if that would frighten me. Not likely.*
+Goyle was cross on her behalf, and that gave Lyra time to put her face back the way it was meant to be. She lifted her chin.
 
-She was not alone in here. Lyra looked across at Snape, as she always did, for help; she was quite certain he would not let Potter get away with this.
+*Idiot. Putting on a voice, as if that would frighten me.*
 
-But today Snape only told them all to be quiet, and went back to his marking, and did not take her side.
+She had friends in this room. She looked across at Snape, as she always did, quite certain that Potter was about to lose fifty points and very possibly an ear.
+
+Snape told the class to be quiet. Then he went back to his marking. He did not look at Potter, and he did not look at her.
 
 Lyra did not know what to do with that.
 
-Something was going wrong. She did not know what.
+Potter did not glance at her again for the rest of the lesson. He worked as though she had been moved to another room. She did not know how he had done it, but by the end his potion was exactly the colour the book said it should be, and he bottled it, and labelled it, and left without a word to anybody.
 
-Potter did not give her another glance. He got on with his potion as though she were not there. She could not see how he had done it, but it had already gone the soft pale lilac that meant it was almost finished.
+She had been fighting with Potter since the first of September. She had never once thought about what it was like, because it had always simply been there: every remark she made, he caught and threw back, with his chin up and the Dark Lord’s name in his mouth, insufferable. It had been like playing chess with somebody infuriating. And now it was like looking up, winning, to find that the other player had got up from the board without a word and gone, and that there was nobody left in the room to beat.
 
-The Potter who had always been watching her was gone. The Potter who jumped at every word she said and answered every one of them back was not there any more.
+She did not like it. She could not have said why.
 
-She found, astonishingly, that she almost missed him: the cheek of him, sticking his chin up at her and saying the Dark Lord’s name just to win. This Potter was a stranger.
-
-It felt as if she had thrown something away herself, a toy, and come back for it, and found it broken. She did not like it at all.
-
-She did not say another word for the rest of the lesson.
+She did not say another word until the bell.
 
 ⁂
 
-Later that night, more than two years on, after Ron had gone to sleep, Harry lay in bed with the hangings drawn and looked at the ring on his finger.
+More than two years later, on a night in May, after Ron had gone to sleep, Harry lay with the hangings drawn and turned a ring round on his finger.
 
-He thought sometimes about that Potions lesson. About the look he had given her, and what he had said about followers, and her face afterwards, when she thought nobody was looking. He had been eleven, and so angry he could not see, and she had been the nearest thing to hand.
+He thought about that Potions lesson sometimes. About what he had said, and how he had looked at her, and her face when she thought nobody could see it. He had been eleven, and angrier than he had ever been in his life, and she had been the nearest thing to hand.
 
 It had taken him a long time to get back from that.
 
