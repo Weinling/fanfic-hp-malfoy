@@ -34,7 +34,7 @@ Harry let out a breath. “Right. We’re busy. Malfoys weren’t the only ones 
 
 “The Blacks.” Sirius rubbed a hand down his face. “Then you’ve picked the one family I can’t get you into. I walked out at sixteen and they burnt me off the tapestry. Regulus would’ve known, if anybody did. Regulus has been gone for years.”
 
-Harry thought of Malfoy writing to her mother, and wondered whether that had really been all her mother had written back, and said nothing about it.
+Harry thought of Malfoy ten minutes ago, saying *I know which doors in it are locked*; and of Malfoy writing to her mother, and whether that had really been all her mother had written back. He said nothing about either.
 
 “Then we’ll start somewhere else. And there’s a job that comes before any of it—”
 

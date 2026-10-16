@@ -24,7 +24,7 @@ It was. A thin, freezing rain had come in off the hills while nobody was looking
 
 Inside, it was worse than the outside had promised. Every stick of furniture in the place had been broken, and not by ghosts: the legs of the chairs were scored with long parallel gouges, as if something with claws had taken against them. The wallpaper hung in strips. In one corner the roof let the rain through in a thin, steady trickle onto the boards. Potter set an upturned chair on its feet for Black, and dragged a crate across for Lyra, and put the whole width of the room between them. It was the first sensible thing he had done all day, and neither of them thanked him.
 
-Black spoke first. His voice was hoarse and rusty, as though it had not been used for a long time.
+Black spoke first. His voice was hoarse and rusty, a voice that had not been used for a long time.
 
 “Harry. Do you know whose girl that is? Her father would have licked Voldemort’s boots clean if he’d been asked nicely. And you’ve just shown her me.”
 
@@ -36,19 +36,17 @@ Lyra’s shoulders went up at the name. Malfoys did not say it, and were not, as
 
 He was her mother’s cousin. Lyra had always known it, the way one knew the names on a family tree, and had never once thought of it as anything but ink. It sat differently now that the fact was looking at her. He was Regulus’s brother, too. She knew two things about Regulus Black that this man, very probably, did not.
 
-“A real dog would have been sick on that chocolate,” she said coldly. “I looked it up. You didn’t so much as hiccup.”
-
-“Twelve years of Azkaban food,” said Black. “You’ll have to do better than Honeydukes.”
-
-They looked at each other across the room like two cats on one wall. On the edge of the window seat, Potter’s eyebrows went up.
-
-“Hang on. Chocolate? When was this?”
+“She’s fed me before, you know,” Black said to Potter, as though Lyra were not in the room. “Down by the lake, the Monday after your match. A whole bar of Honeydukes’ dark. I understand chocolate is poison to dogs. I took it rather personally.”
 
 This was precisely the conversation she had gone to some trouble not to have.
 
-“The Monday after the match,” said Lyra. “When you were in the hospital wing. I went down to the lake and the creature was simply there—”
+“A real dog would have been sick on it,” she said coldly. “I looked it up afterwards. You didn’t so much as hiccup.”
 
-“You don’t eat dark chocolate. You pulled a face at Lupin’s on the train like it was medicine.” Potter was looking at her with growing interest. “So you had a bar of something you won’t eat, the day I was in the hospital wing, and you were out by the lake, which is nowhere near the hospital wing, and then a dog got it.” He snapped his fingers. “Aha. It was for me.”
+“Twelve years of Azkaban food,” said Black. “You’ll have to do better than Honeydukes.”
+
+They looked at each other across the room like two cats on one wall. On the edge of the window seat, Potter’s eyebrows had gone up.
+
+“The Monday after the match,” he said slowly. “I was in the hospital wing. And you don’t eat dark chocolate. You pulled a face at Lupin’s on the train like it was medicine.” Potter was looking at her with growing interest. “So you had a bar of something you won’t eat, the day I was in the hospital wing, and you were out by the lake, which is nowhere near the hospital wing, and then a dog got it.” He snapped his fingers. “Aha. It was for me.”
 
 “Don’t flatter yourself!”
 
@@ -56,11 +54,11 @@ This was precisely the conversation she had gone to some trouble not to have.
 
 “It was— the dog’s *now*.” Lyra could feel her ears going hot, and there was nothing whatever to be done about ears. “I had a spare bar. I got as far as the door and heard Wood explaining Quidditch to a man with concussion, and I thought better of it. The dog was more grateful.”
 
-“Pity,” said Potter, and sounded as if he meant it. “Well. As long as it went to family.”
+“Pity,” said Potter, and seemed to mean it. “Well. As long as it went to family.”
 
 Black was staring at him. His mouth had come slightly open, and he was looking at Potter as if Potter had just done something Black had seen somebody do a very long time ago, and had not expected to see again.
 
-“So.” Potter turned to her as though nothing had happened. “You came all this way to tell me about Sirius.”
+“So.” Potter turned back to her, quite unbothered. “You came all this way to tell me about Sirius.”
 
 Lyra looked at Black, and at the leak in the corner, and back at Potter.
 
@@ -80,7 +78,17 @@ Lyra looked back at him with polite interest. Underneath the polite interest som
 
 “Don’t you *dare*—” Black was half out of his chair, and his voice cracked down the middle like a dropped plate. “I never sold *anybody*!”
 
-“Sirius.” Potter did not raise his voice, and did not seem to need to. “Let me tell her. Sit for a minute.” He waited until Black sat, slowly, and then turned back to Lyra. “Dad picked him, and Sirius said no.”
+Lyra turned on her crate to face him. The Fidelius needed a Keeper; Professor Snape had been very clear about that. If it had not been this man, it had been somebody.
+
+“Then who was your Secret Keeper, Mr Black?”
+
+Black opened his mouth. Nothing came out of it. His face emptied as she watched, every line in it going smooth and blank, until he sat there like a man painted on a wall, and only his eyes were left, red-rimmed and fixed on hers, with everything behind them that he was not allowed to say.
+
+Lyra looked away first.
+
+“What is the *matter* with him?”
+
+“He can’t,” said Potter. “That’s the matter with him. Sirius. Let me tell her. Sit for a minute.” He waited until Black sat, slowly, and then turned back to Lyra. “Dad picked him, and Sirius said no.”
 
 “What?”
 
@@ -92,19 +100,19 @@ It was a good plan. Lyra had been raised on her father’s notion of a good plan
 
 “Because the charm hides the house,” said Lyra slowly. “Not the person keeping it.”
 
-Potter looked at her. “Yes. Exactly that. So Dumbledore and Sirius tied their own tongues. A binding, so neither of them could ever give him away, not if they were tortured, not if they wanted to.” His voice did not change. “All that, to keep him safe. And he was the one who went and told.”
+Potter looked at her. “Yes. Exactly that. So Dumbledore and Sirius tied their own tongues. A binding, so neither of them could ever give him away, not if they were tortured, not if they wanted to. That’s what you just watched.” His voice did not change. “All that, to keep him safe. And he was the one who went and told.”
 
 Lyra was no longer quite listening. She was back in a dungeon office with a charm on the door, and Professor Snape’s voice was going on, dry as paper: a week, Black had kept their secret one week. And afterwards a street, and a wizard who had gone after Black shouting and been blown apart for it, and who was buried alongside twelve Muggles in every version of the story she had ever heard. The only other friend. The one nobody would think of.
 
 “Pettigrew,” she said.
 
-Potter nodded.
+Black made a sound in his throat. Potter nodded.
 
 “But he’s dead.”
 
 “Is he? Somebody blew up a street, and they found one of his fingers, and Sirius was standing in the middle of it and couldn’t say who’d really done it. If you wanted to die without the bother of dying, I can’t think of a better way.”
 
-“He opened his mouth just now,” said Lyra, with a nod at Black. “Quite loudly.”
+“He shouted loud enough just now,” said Lyra, with a nod at Black.
 
 “He can say he isn’t the traitor. He’s been saying it for twelve years, and nobody listens. What he can’t do is point. Not a name, not a hint, nothing that would lead you to the one who was.”
 
@@ -156,7 +164,9 @@ Potter shook his head.
 
 She could think of one lie at least, to do with the preface of *The Monster Book of Monsters*, and found that she did not want to bring it up.
 
-“So,” she said. “What next? Where do we start?”
+She had something better to bring up. It had been sitting in her since the moment the dog stood up, and she set it out now the way her father set out a contract, one clause at a time, and was pleased to hear her voice come out level again.
+
+“Then here is something you don’t know,” she said. “My mother was a Black. I grew up on that family, Potter. I know which doors in it are locked, and who has the keys, and which of them would let a Malfoy in when they wouldn’t open to a Potter for all the gold in Gringotts. And there was a brother—” She looked at Black, and back. “You are going to need somebody who can go where you can’t. I am offering.”
 
 Potter smiled at her. It was a kind smile, patient and fond: the one you might give a younger brother who had asked whether he could come too.
 
@@ -166,7 +176,7 @@ Potter smiled at her. It was a kind smile, patient and fond: the one you might g
 
 “I only told you about Sirius because you’d have got there anyway, the hard way, and somebody would have noticed you getting there. That’s all it was for. You’ve got your answer. You can go home now.”
 
-He was showing her out.
+He was showing her out. She had not even got as far as Regulus.
 
 She had not seen it coming. She had got this close to it, closer than anybody, and he was shutting the door with her foot still in it. Her voice did something she did not give it permission to do.
 
