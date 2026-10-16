@@ -6,7 +6,11 @@ The note had been tucked into her Transfiguration textbook at exactly the page t
 
 She went, naturally. It was the first thing he had asked of her since the night of the feast, and a hostage who ignored her first summons was simply inviting a second, louder one.
 
-The Owlery sat at the top of the West Tower, up a spiral staircase that seemed to have been designed by someone who disliked both owls and people, and at half past six on a Tuesday in the middle of October it was the coldest room Lyra had ever stood in. The windows had no glass. The wind came straight off the lake and through one side of the tower and out of the other, taking a good deal of loose straw with it, and the floor was a crust of droppings and the small grey pellets owls coughed up, full of mouse bones. Several hundred owls looked down at her from the rafters with the bored contempt of creatures who had been awake all night and considered it her fault.
+The Owlery sat at the top of the West Tower, up a spiral staircase that seemed to have been designed by someone who disliked both owls and people, and at half past six on a Tuesday in the middle of October it was the coldest room Lyra had ever stood in.
+
+The windows had no glass. The wind came straight off the lake and through one side of the tower and out of the other, taking a good deal of loose straw with it, and the floor was a crust of droppings and the small grey pellets owls coughed up, full of mouse bones.
+
+Several hundred owls looked down at her from the rafters with the bored contempt of creatures who had been awake all night and considered it her fault.
 
 Potter was sitting on the sill of the biggest window, with nothing behind him but forty feet of air and the Forbidden Forest, feeding bacon rind to his owl.
 
@@ -34,7 +38,11 @@ Potter gave the owl the last of the rind and wiped his fingers on his jeans. Whe
 
 “Sirius Black had a brother. Regulus. Younger than him. He’d have been your mum’s cousin.” Potter said the name carefully, as if he had only ever seen it written down. “I want to know what happened to him.”
 
-Lyra knew the name. She knew it the way she knew most of the names on her mother’s side of the family, which was as something said once in a lowered voice and then not again. Her father’s family went back nine hundred years and could account for every one of them; there were Malfoys on every landing of the Manor, in oils, with dates. Her mother’s family seemed to live almost entirely in the past tense. There was the aunt in Azkaban, and the aunt who had married a Muggle-born and been burnt off the tapestry, and now there was the cousin who had killed thirteen people in a street. Somewhere among them, apparently, there was a Regulus. She had never once heard what had become of him. It had never occurred to her to wonder.
+Lyra knew the name. She knew it the way she knew most of the names on her mother’s side of the family, which was as something said once in a lowered voice and then not again.
+
+Her father’s family went back nine hundred years and could account for every one of them; there were Malfoys on every landing of the Manor, in oils, with dates. Her mother’s family seemed to live almost entirely in the past tense. There was the aunt in Azkaban, and the aunt who had married a Muggle-born and been burnt off the tapestry, and now there was the cousin who had killed thirteen people in a street.
+
+Somewhere among them, apparently, there was a Regulus. She had never once heard what had become of him. It had never occurred to her to wonder.
 
 “Why?” she said.
 
@@ -72,7 +80,9 @@ While he was talking, the snowy owl had walked sideways along the sill, in the a
 
 She meant it as a retort, and it came out sounding like a fact, and she saw him hear it.
 
-She considered him. In nearly five months of being Potter’s hostage she had been asked for nothing at all, and she had begun, without quite admitting it, to think the whole arrangement was a kind of bluff, a word he had used in a cold classroom because he liked the sound of it. Now here was the bill, and it was so small and so odd that she distrusted it entirely. A dead young man nobody talked about. A brother of the man who wanted Potter dead. It was the sort of question Lyra herself might have asked, if she had been Potter and had any sense, and that was the most suspicious thing about it.
+She considered him. In nearly five months of being Potter’s hostage she had been asked for nothing at all, and she had begun, without quite admitting it, to think the whole arrangement was a kind of bluff, a word he had used in a cold classroom because he liked the sound of it.
+
+Now here was the bill, and it was so small and so odd that she distrusted it entirely. A dead young man nobody talked about. A brother of the man who wanted Potter dead. It was the sort of question Lyra herself might have asked, if she had been Potter and had any sense, and that was the most suspicious thing about it.
 
 It was also something he wanted badly enough to get up in the dark for, and could not get anywhere but from her.
 
@@ -118,29 +128,43 @@ He clattered off down the spiral, and Lyra was left alone with several hundred o
 
 The difficulty was not the asking. The difficulty was the excuse.
 
-Lyra sat at the writing table in the corner of the common room that evening, the one under the window where the lake pressed green against the glass, and spoiled three sheets of parchment before she got anywhere. Her mother did not like to be asked things. She liked to be told things, and then to decide for herself what they meant, and she had been doing it for so long and so well that most of Lyra’s childhood had been spent finding out, too late, how much she had given away by asking for the salt. A plain question about a dead cousin would arrive at the Manor like a stone through a window.
+Lyra sat at the writing table in the corner of the common room that evening, the one under the window where the lake pressed green against the glass, and spoiled three sheets of parchment before she got anywhere.
+
+Her mother did not like to be asked things. She liked to be told things, and then to decide for herself what they meant, and she had been doing it for so long and so well that most of Lyra’s childhood had been spent finding out, too late, how much she had given away by asking for the salt. A plain question about a dead cousin would arrive at the Manor like a stone through a window.
 
 So it would need dressing.
 
-In the end she settled on Divination. Professor Trelawney, who had spent the first month of term predicting Neville Longbottom’s death in a variety of entertaining ways, had lately turned her attention to astrology, and it was perfectly in keeping with everything Lyra knew of her that she might set a third-year class to cast the chart of a dead relative. Lyra wrote that she had been asked to choose one. She wrote that she had chosen Regulus, because he was a star, and because she was a constellation, and because it seemed only fitting. She would need the date of his birth, please, and of his death, and anything else her mother thought the stars might want to know.
+In the end she settled on Divination. Professor Trelawney, who had spent the first month of term predicting Neville Longbottom’s death in a variety of entertaining ways, had lately turned her attention to astrology, and it was perfectly in keeping with everything Lyra knew of her that she might set a third-year class to cast the chart of a dead relative.
 
-It was a good letter. She read it over and admired the line about the constellation, which was just whimsical enough to sound like a thirteen-year-old and not so whimsical as to sound like a fool. It would not deceive her mother for a moment. Lyra knew that as surely as she knew her own handwriting. Her mother would read it once, and set it down, and look at the wall for a while, and know that somebody wanted to know about Regulus Black and that it was not Professor Trelawney. The only question was what she would do about it, and Lyra found, sitting there with the quill drying in her fingers, that she genuinely had no idea. It was not a feeling she was used to having about her mother.
+Lyra wrote that she had been asked to choose one. She wrote that she had chosen Regulus, because he was a star, and because she was a constellation, and because it seemed only fitting. She would need the date of his birth, please, and of his death, and anything else her mother thought the stars might want to know.
+
+It was a good letter. She read it over and admired the line about the constellation, which was just whimsical enough to sound like a thirteen-year-old and not so whimsical as to sound like a fool.
+
+It would not deceive her mother for a moment. Lyra knew that as surely as she knew her own handwriting. Her mother would read it once, and set it down, and look at the wall for a while, and know that somebody wanted to know about Regulus Black and that it was not Professor Trelawney.
+
+The only question was what she would do about it, and Lyra found, sitting there with the quill drying in her fingers, that she genuinely had no idea. It was not a feeling she was used to having about her mother.
 
 The second letter was easier, because it was true.
 
 *Dear Father*, she wrote, *I hope you are well. My arm is entirely mended and I am back at practice. Everybody here is talking about Sirius Black, and the Dementors are everywhere, and I find I want to ask you something I could not ask at home. Is he dangerous to us?*
 
-She read that back twice. It was the kind of question a daughter was allowed to ask, and her father would like being asked it; he would see a child frightened of the bogeyman in the newspaper and be glad to be the one to reassure her. That was what made it useful. But she had not written it only to be useful. Black was her mother’s cousin. A man came up the drive to the east cottage on foot after dark, and her mother left the room when Black’s face was in the paper, and Lyra had lain awake in August counting the nights the light came on. She wanted to know, quite badly, what her father would say, and she did not like how badly.
+She read that back twice. It was the kind of question a daughter was allowed to ask, and her father would like being asked it; he would see a child frightened of the bogeyman in the newspaper and be glad to be the one to reassure her. That was what made it useful.
+
+But she had not written it only to be useful. Black was her mother’s cousin. A man came up the drive to the east cottage on foot after dark, and her mother left the room when Black’s face was in the paper, and Lyra had lain awake in August counting the nights the light came on. She wanted to know, quite badly, what her father would say, and she did not like how badly.
 
 She added a paragraph about the match and a line about her Arithmancy marks, signed it *your loving daughter*, and sealed both letters with green wax.
 
-Her own owl, a magnificent eagle owl with orange eyes, had been a present for her eleventh birthday, and her father had trained him. Lyra had known for years, without ever being told, that her letters home went to her father’s study window first, and she had never minded, because she had never written anything she would not have said at dinner. The letter to her father could go that way, and should. The letter to her mother about Regulus Black would go by a school owl.
+Her own owl, a magnificent eagle owl with orange eyes, had been a present for her eleventh birthday, and her father had trained him. Lyra had known for years, without ever being told, that her letters home went to her father’s study window first, and she had never minded, because she had never written anything she would not have said at dinner.
+
+The letter to her father could go that way, and should. The letter to her mother about Regulus Black would go by a school owl.
 
 ⁂
 
 Crabbe came up with her. Lyra had not asked her to, but when she stood up from the writing table with the two letters in her hand Crabbe had stood up too and fetched a lantern, and Lyra had found she did not want to climb that staircase again on her own in the dark.
 
-The Owlery at night was a different place: warmer, somehow, with the birds awake and restless in the rafters and the sky in the windows a deep, clear blue. Lyra’s eagle owl came down to her the moment she held out her arm and took her father’s letter with the air of a bird that knew exactly where it was going. She sent him off from the big window. Then she walked along the perches until she found a barn owl that looked suitably dull and anonymous, and began tying the other letter to its leg.
+The Owlery at night was a different place: warmer, somehow, with the birds awake and restless in the rafters and the sky in the windows a deep, clear blue. Lyra’s eagle owl came down to her the moment she held out her arm and took her father’s letter with the air of a bird that knew exactly where it was going. She sent him off from the big window.
+
+Then she walked along the perches until she found a barn owl that looked suitably dull and anonymous, and began tying the other letter to its leg.
 
 Crabbe held up the lantern for her. She did not ask why Lyra was using a school owl, which Lyra had been bracing for. She stood and watched the barn owl shuffle its feet and said, after a while, in her ordinary voice, “You came up here this morning as well. Before breakfast.”
 
@@ -178,7 +202,9 @@ Potter leaned over and looked at her working upside down. “No, you’re right.
 
 “Wanted to see your face.”
 
-She gave him her face, the whole of it, with a very clear expression on it, and he grinned and picked up one of her books and began reading the back of it as though he meant to stay all afternoon. Lyra turned a page with more force than it required. She was conscious that two Ravenclaws at the next table had stopped pretending to read, and that by supper half the school would have them sitting together in the library, and that she could do nothing whatsoever about it without making a scene in front of Madam Pince, who had once confiscated a third-year’s book for breathing on it.
+She gave him her face, the whole of it, with a very clear expression on it, and he grinned and picked up one of her books and began reading the back of it as though he meant to stay all afternoon.
+
+Lyra turned a page with more force than it required. She was conscious that two Ravenclaws at the next table had stopped pretending to read, and that by supper half the school would have them sitting together in the library, and that she could do nothing whatsoever about it without making a scene in front of Madam Pince, who had once confiscated a third-year’s book for breathing on it.
 
 Somebody stopped beside the table.
 
@@ -198,7 +224,9 @@ Granger did not flinch. Lyra had seen her flinch at that word in second year, an
 
 She walked off between the shelves, quite steadily, and did not look back.
 
-Lyra returned to her Arithmancy. She had been right, and she was entirely calm about it. It was a perfectly accurate word for what Granger was, and she had used it accurately, and if Granger had chosen to come and make a speech at her in a library she could hardly complain about the reply. She wrote down the next number in her calculation. Then she became aware that Potter had not moved, and had not said anything, and that the silence on the other side of the table had changed.
+Lyra returned to her Arithmancy. She had been right, and she was entirely calm about it. It was a perfectly accurate word for what Granger was, and she had used it accurately, and if Granger had chosen to come and make a speech at her in a library she could hardly complain about the reply. She wrote down the next number in her calculation.
+
+Then she became aware that Potter had not moved, and had not said anything, and that the silence on the other side of the table had changed.
 
 She looked up.
 
@@ -214,9 +242,15 @@ It took her a moment to understand him, and then she did. One true answer, to a 
 
 He got up. He did not scrape the chair this time or make any noise at all, and he went out of the library without his usual bounce, and the Ravenclaws at the next table looked at Lyra and then very quickly at their books.
 
-Lyra sat with her quill over the parchment and wrote nothing. She was not going to apologise; there was nothing to apologise for. She had said what she thought, and what everybody she had grown up with thought, and she had no intention of thinking differently because Potter had made a face at her in a library. All the same, when she finally went back to her calculation she found she had written the nine as a seven again, and had to cross it out.
+Lyra sat with her quill over the parchment and wrote nothing. She was not going to apologise; there was nothing to apologise for. She had said what she thought, and what everybody she had grown up with thought, and she had no intention of thinking differently because Potter had made a face at her in a library.
 
-It was only over the following week that she noticed she had stopped using the word whenever Potter was within earshot. She still thought it. She said it in the common room, and once to Parkinson, who laughed too hard. But in the corridors and in Potions and at the edges of the Great Hall, wherever there was any chance of that untidy head turning round, it simply did not come out, as if some part of her had quietly decided the matter without consulting the rest. Lyra found this out about herself on the Wednesday, halfway through a sentence about Granger outside the Charms classroom, when she changed the word at the last second for no reason she could name.
+All the same, when she finally went back to her calculation she found she had written the nine as a seven again, and had to cross it out.
+
+It was only over the following week that she noticed she had stopped using the word whenever Potter was within earshot. She still thought it. She said it in the common room, and once to Parkinson, who laughed too hard.
+
+But in the corridors and in Potions and at the edges of the Great Hall, wherever there was any chance of that untidy head turning round, it simply did not come out, as if some part of her had quietly decided the matter without consulting the rest.
+
+Lyra found this out about herself on the Wednesday, halfway through a sentence about Granger outside the Charms classroom, when she changed the word at the last second for no reason she could name.
 
 She was furious about it for the rest of the day.
 
@@ -224,7 +258,9 @@ She was furious about it for the rest of the day.
 
 Her mother’s answer came on a Thursday, nine days after Lyra had sent the letter, by an owl she had never seen before.
 
-It was a small brown tawny with a torn ear, the sort of owl that could be hired by the hour at the post office in Diagon Alley, and it landed in front of her at breakfast, between the toast rack and the marmalade, and held out its leg with the impatience of a bird that was being paid by the delivery. Lyra knew her mother’s hand on the envelope at once. She also knew every owl at the Manor, and this was not one of them. She put the letter in her bag without opening it and finished her toast, which tasted of nothing, while Goyle told her about a dream she’d had involving the Fat Friar and a goat.
+It was a small brown tawny with a torn ear, the sort of owl that could be hired by the hour at the post office in Diagon Alley, and it landed in front of her at breakfast, between the toast rack and the marmalade, and held out its leg with the impatience of a bird that was being paid by the delivery.
+
+Lyra knew her mother’s hand on the envelope at once. She also knew every owl at the Manor, and this was not one of them. She put the letter in her bag without opening it and finished her toast, which tasted of nothing, while Goyle told her about a dream she’d had involving the Fat Friar and a goat.
 
 Her mother had not wanted to use the family owls either.
 
@@ -246,11 +282,15 @@ Lyra read it three times. Then she sat on the closed lid of the lavatory with th
 
 Eighteen. That was only five years older than she was now.
 
-*He changed his mind about something.* She turned the sentence over and could find no way into it. Changed his mind about what? About whom? Nobody on her mother’s side of the family changed their minds about anything. It was practically the Black family motto, or would have been if the Black family motto had not been in French and about purity. And if changing your mind was the sort of thing that killed you, then there had been a side to change from and a side that did the killing, and Lyra had grown up in a house full of locked rooms and knew perfectly well which side her family had been on. She did not want to follow that thought any further in a bathroom. She put it away.
+*He changed his mind about something.* She turned the sentence over and could find no way into it. Changed his mind about what? About whom? Nobody on her mother’s side of the family changed their minds about anything. It was practically the Black family motto, or would have been if the Black family motto had not been in French and about purity.
+
+And if changing your mind was the sort of thing that killed you, then there had been a side to change from and a side that did the killing, and Lyra had grown up in a house full of locked rooms and knew perfectly well which side her family had been on. She did not want to follow that thought any further in a bathroom. She put it away.
 
 It was the postscript she kept coming back to.
 
-Her mother had not believed a word about Professor Trelawney, which was no surprise; Lyra had known she would not. But she had not written back to say so, or to tell Lyra not to be impertinent, or to send the letter on to her father, which would have been the simplest thing in the world. She had hired an owl from a shop. She had answered the question, or as much of it as she was ever going to answer. And then, underneath, in the same small, upright hand, she had asked one of her own, and offered something Lyra could not remember being offered before: not an answer, but a door. *You may tell me anything.*
+Her mother had not believed a word about Professor Trelawney, which was no surprise; Lyra had known she would not. But she had not written back to say so, or to tell Lyra not to be impertinent, or to send the letter on to her father, which would have been the simplest thing in the world.
+
+She had hired an owl from a shop. She had answered the question, or as much of it as she was ever going to answer. And then, underneath, in the same small, upright hand, she had asked one of her own, and offered something Lyra could not remember being offered before: not an answer, but a door. *You may tell me anything.*
 
 *Who is asking?*
 
@@ -270,7 +310,9 @@ The second letter had come by the Manor’s own owl, a stately grey bird that ha
 
 Lyra read the peahen and the drawing room and smiled, despite everything, at *very brave and very silly*, which was exactly how her father talked about things he was secretly proud of. She read the line about her mother’s letters and stopped smiling. Then she read the line about the east cottage, and sat very still on the lid of the lavatory in the empty bathroom, with the pipes knocking somewhere in the walls, and read it again.
 
-She thought of a man walking up the drive on foot in the dark, in July, and turning off towards the east cottage, and a light coming on in its window. She thought of the four more times it had come on in August, and nobody at breakfast ever mentioning a guest. And now there was a gentleman, and a card game, and her little brother, who believed every word anybody told him and who had been sitting across a table from that man, apparently more than once, being told he had the face for it.
+She thought of a man walking up the drive on foot in the dark, in July, and turning off towards the east cottage, and a light coming on in its window. She thought of the four more times it had come on in August, and nobody at breakfast ever mentioning a guest.
+
+And now there was a gentleman, and a card game, and her little brother, who believed every word anybody told him and who had been sitting across a table from that man, apparently more than once, being told he had the face for it.
 
 She folded both letters very small and put them in the inside pocket of her robes, against her chest, and went down to Herbology, and was eleven minutes late, and Professor Sprout took five points from Slytherin, and Lyra, who had never been late for anything in her life, did not even argue.
 
@@ -278,11 +320,17 @@ There was nothing from her father that day. There was nothing from him on Friday
 
 ⁂
 
-Gryffindor had the pitch on Saturday afternoon, and it was raining, and Lyra sat at the top of the Slytherin stand under a green umbrella and watched them practise. She had told Crabbe and Goyle she was scouting. Flint would have been delighted to hear it, and it was not untrue; she learned a good deal in two hours about the Weasley twins’ habit of hitting Bludgers at each other when Wood was not looking, and about Wood, who shouted at everyone and in particular at the sky. Potter she watched rather less. He flew the way he always flew, as if gravity were a rule that applied to other people, and she had seen it before.
+Gryffindor had the pitch on Saturday afternoon, and it was raining, and Lyra sat at the top of the Slytherin stand under a green umbrella and watched them practise.
+
+She had told Crabbe and Goyle she was scouting. Flint would have been delighted to hear it, and it was not untrue; she learned a good deal in two hours about the Weasley twins’ habit of hitting Bludgers at each other when Wood was not looking, and about Wood, who shouted at everyone and in particular at the sky.
+
+Potter she watched rather less. He flew the way he always flew, as if gravity were a rule that applied to other people, and she had seen it before.
 
 He saw her about ten minutes in. She knew because he flew one slow, deliberate lap of the Slytherin stand at exactly her height, upside down, and Wood screamed at him from the other end of the pitch.
 
-When it was over and the others had trooped off towards the changing rooms, he came across the grass with his broom over his shoulder and his hair plastered flat, and stopped at the foot of the stand, and looked up at her. He had not said a word to her since the library. She had not expected him to. She had told herself that she did not care, and had then spent a week noticing every corridor he was not in.
+When it was over and the others had trooped off towards the changing rooms, he came across the grass with his broom over his shoulder and his hair plastered flat, and stopped at the foot of the stand, and looked up at her.
+
+He had not said a word to her since the library. She had not expected him to. She had told herself that she did not care, and had then spent a week noticing every corridor he was not in.
 
 “Scouting?” he said.
 
@@ -314,7 +362,11 @@ Potter did not say anything. He turned his head and looked away across the pitch
 
 “No,” said Lyra.
 
-It was not the first lie she had told Potter, and it was much the easiest. The postscript was in the inside pocket of her robes with Draco’s letter, folded small, and she could feel the corner of it against her ribs. *Who is asking?* *He says I’ve got the face for it.* Those were hers. Potter had come up to the Owlery with his bacon and his note and the whole of her family apparently mapped out in his head, and he had not known her mother would answer, and he did not know what her mother had asked, and he did not know there was a man in the east cottage teaching her brother cards. For the first time since the night of the feast, Lyra knew something about the Malfoys that Potter did not. She found she had no intention of giving it away, and that the reason was not only spite.
+It was not the first lie she had told Potter, and it was much the easiest. The postscript was in the inside pocket of her robes with Draco’s letter, folded small, and she could feel the corner of it against her ribs. *Who is asking?* *He says I’ve got the face for it.* Those were hers.
+
+Potter had come up to the Owlery with his bacon and his note and the whole of her family apparently mapped out in his head, and he had not known her mother would answer, and he did not know what her mother had asked, and he did not know there was a man in the east cottage teaching her brother cards.
+
+For the first time since the night of the feast, Lyra knew something about the Malfoys that Potter did not. She found she had no intention of giving it away, and that the reason was not only spite.
 
 “Eighteen,” said Potter, still looking at the Forest. “My dad was only twenty-one.”
 
@@ -340,7 +392,9 @@ She watched him go off across the grass towards the changing rooms, getting wett
 
 That night, when the others were asleep, Lyra got up and knelt in front of the little iron stove in the corner of the dormitory, where the embers were still red, and took out her mother’s letter.
 
-*Burn this*, it said, and she was going to. She had been brought up to do what her mother told her, in the end, and to argue only about the details. But before she put it in, she tore the bottom off it, slowly and carefully along a fold, so that the postscript came away whole. Then she fed the rest into the stove a corner at a time and watched her mother’s small, upright handwriting go brown and curl and catch.
+*Burn this*, it said, and she was going to. She had been brought up to do what her mother told her, in the end, and to argue only about the details.
+
+But before she put it in, she tore the bottom off it, slowly and carefully along a fold, so that the postscript came away whole. Then she fed the rest into the stove a corner at a time and watched her mother’s small, upright handwriting go brown and curl and catch.
 
 The strip of paper she folded into the back of her Arithmancy book, behind the tables of values, where nobody but her would ever look.
 
