@@ -32,7 +32,7 @@ He gripped the edges of the stool.
 
 Harry had not known he was thinking it until the hat said it, and then he could not stop.
 
-She had gone up a minute before him. The hat had hardly touched her hair before it shouted SLYTHERIN, and she had walked down to the Slytherin table as though there had never been the slightest doubt about it, as though it had been arranged before she was born, which perhaps it had. She had sat down in the middle of the older students like somebody taking her own chair. Harry, waiting in the line with his heart going like a rabbit’s, had watched her do it and could not look away.
+She had gone up only a little while before him. The hat had hardly touched her hair before it shouted SLYTHERIN, and she had walked down to the Slytherin table as though there had never been the slightest doubt about it, as though it had been arranged before she was born, which perhaps it had. She had sat down in the middle of the older students like somebody taking her own chair. Harry, waiting in the line with his heart going like a rabbit’s, had watched her do it and could not look away.
 
 He had seen her once before. He had stood on the stool next to hers in a robe shop in Diagon Alley, a month ago, and she had pushed his shoulders back and tipped up his chin and told him to smile like he meant it, and not to lose his dignity, ever, anywhere. He had carried that out of the shop like a present.
 
@@ -42,13 +42,13 @@ She had not known him. That was the thing he kept coming back to. She had looked
 
 “Small,” said the hat thoughtfully. “But very human. Now where shall I put you?”
 
-*Next to her*, Harry thought, before he could stop himself. *It would be nice to be next to her.*
+*Next to her*, Harry thought, too quickly to take it back. *It would be nice to be next to her.*
 
 There was a pause in his ear.
 
 “Slytherin? For one girl?” The voice dropped. “My young friend, a House is no small thing. It may change the whole course of your life. First loves go down like the sun, sooner or later; but the House you came from will follow you about for the rest of your days.”
 
-She had said only the best people went to Slytherin. Harry did not feel like one of the best people. And Hagrid had told him, in Diagon Alley, that You-Know-Who had been in Slytherin. It didn’t matter, Hagrid said, what House a person had been in. But Voldemort had killed his mother and father, and Harry did not want to be near him in any way, even that one.
+She had said only the purest and most beautiful wizards went to Slytherin. Harry had never felt pure or beautiful in his life. And Hagrid had told him, in Diagon Alley, that You-Know-Who had been in Slytherin. It didn’t matter, Hagrid said, what House a person had been in. But Voldemort had killed his mother and father, and Harry did not want to be near him in any way, even that one.
 
 *I don’t care*, he thought anyway. *I’ll decide what happens to me. I only want to be good enough to stand next to her.*
 
@@ -64,13 +64,13 @@ Somewhere behind him, somebody clicked her tongue.
 
 There was one thing Harry found out in his first few weeks at Hogwarts, and it was that Lyra Malfoy said exactly what she thought, to whoever happened to be standing nearest, and that she thought a great many things.
 
-He found it out properly on a Tuesday, in the queue outside Charms, when a Hufflepuff boy dropped his books in front of her and said sorry.
+He found it out properly on a Tuesday, in the queue outside Charms, when a Hufflepuff boy dropped his Chocolate Frog card in front of her, and said sorry, and bent to pick it up.
 
-“Don’t,” said Malfoy, stepping over them. “It isn’t your fault. The Hat could see you were the leftovers; it’s hardly fair to expect you to carry things as well.” She looked back at him over her shoulder, quite kindly. “You might try getting out of my way before I notice you, though. Surely even a Hufflepuff can manage that.”
+“Don’t,” said Malfoy, and put her foot on it. She looked down at the card under her shoe. “Agrippa? We use those to light the fire at home.” She took her foot away again, quite kindly. “There. You can have it back now.”
 
-The Hufflepuff went red to the hair. Some of the Slytherins laughed. Harry, three people back, did not.
+The Hufflepuff picked it up, bent in half with a heel-mark across Agrippa’s face, and burst into tears. Some of the Slytherins laughed. Harry, three people back, did not. He had heard her say *Don’t* like that once before, to him, in a robe shop, and it had meant something else.
 
-She was like that with everybody who was not in Slytherin and a good many who were. She said things that went into people and stayed there, and when anything annoyed her she simply got out her wand. She was proud and overbearing and absolutely certain that she was better than everybody else, and the worst of it was that she seemed to be right. She and the other children from old wizarding families had grown up knowing things the rest of them had never heard of, and they did well in lessons because of it; and they knew a few curses the school would never have taught them, which meant that ordinary first-years did not dare stand up to Malfoy and her friends.
+She was like that with everybody who was not in Slytherin and a good many who were. And she could back it up. She had been doing magic at the dinner table since before she could read. She knew the answers before Flitwick had finished the questions. And when she let it be known that she had a curse that made your teeth grow down to your knees, nobody in first year felt like finding out whether she was bluffing.
 
 *She’s worse than Dudley*, Harry thought, and was startled by it. He had not imagined there was anybody worse than Dudley in the world. Least of all one of the first people in that world who had ever told him she liked him.
 
@@ -86,13 +86,9 @@ Neville went after it with a wail. Hermione Granger got there first, and scooped
 
 “Why not?” said Malfoy, and finished the last button, and went out into the grounds.
 
-Harry stood very still at the foot of the stairs.
+Harry stood very still at the foot of the stairs, with Neville snuffling beside him, and the worst of it was that some part of him had sat up and listened. Nobody at number four had ever told him you were allowed to change things.
 
-*If you don’t like something, change it.*
-
-Why had he never thought of that?
-
-He still liked Lyra Malfoy. But if things went on like this he thought he might end up disliking her even more than Dudley, and he did not want to dislike her. She was generous to people she approved of, and gave them things. Meeting her had made him stand up straight. It was only when she laughed while she was hurting somebody that she reminded him of Dudley, and however soppy he was about her, he could not make that all right.
+He still liked Lyra Malfoy. But if things went on like this he thought he might end up disliking her even more than Dudley, and he did not want to dislike her. She could be generous; she had been generous to him, once, in a shop, for no reason at all, and he had stood up straighter ever since. But when she laughed with somebody hurting in front of her she sounded exactly like Dudley with his Smeltings stick, and however soppy he was about her, he could not make that all right.
 
 Had the Hat known? Was that why it had kept him out of Slytherin?
 
@@ -102,27 +98,15 @@ The Hat had said *fight for it*. Perhaps this was what it had meant.
 
 ⁂
 
-It was their first flying lesson.
+Their first flying lesson had lasted about four minutes when Neville Longbottom, who was so nervous that he kicked off before the whistle, came off his broom twenty feet up and broke his wrist. Madam Hooch told the rest of them that if a single broom left the ground while she was gone, the person on it would be out of Hogwarts before they could say Quidditch, and marched Neville off to the hospital wing; and before she was round the corner, Malfoy had stooped and picked something out of the grass.
 
-Neville Longbottom was so nervous that he kicked off before Madam Hooch had blown her whistle, and shot up into the air, and came off his broom twenty feet up, and broke his wrist. Madam Hooch told the rest of them that if a single broom left the ground while she was away, the person on it would be out of Hogwarts before they could say Quidditch, and took Neville off to the hospital wing.
+It was Neville’s Remembrall, the glass ball his gran had sent him, full of smoke that went red when you had forgotten something. Malfoy held it up to the light and squinted into it.
 
-Malfoy burst out laughing.
-
-“Did you see his *face?* He can’t even sit on a broom without blubbing.”
-
-“Shut up, Malfoy,” said Parvati Patil sharply.
-
-Malfoy looked down her nose at her. “Why? Is it untrue? He can’t fly, he can’t do magic, he can’t make a potion. What *can* he do? Hufflepuff’s too good for Longbottom. I wonder whether a Muggle school would have him.”
-
-A few of the Gryffindors bristled. That was all they did. Malfoy laughed at them, and then saw something lying in the grass and strolled over to it.
-
-“It’s that stupid thing Longbottom’s gran sent him. A glass ball that lights up when you’ve forgotten something. Not much use to a boy who forgets his own head, is it?”
+“I wonder if it goes red when you’ve forgotten how to fly.”
 
 Some of the Slytherins sniggered, high and nervous.
 
-Now, thought Harry.
-
-“Give that here, Malfoy,” he said quietly. “It’s Neville’s.”
+“Give that here, Malfoy,” said Harry quietly. “It’s Neville’s.”
 
 Everybody stopped talking and looked at him. Malfoy turned round with her eyebrows up, as though a piece of furniture had spoken; and then she smiled a nasty little smile.
 
@@ -130,7 +114,7 @@ Everybody stopped talking and looked at him. Malfoy turned round with her eyebro
 
 “Don’t be stupid. Pinching people’s things and hiding them up trees, like a magpie? Is that what you call dignity?”
 
-Until then Harry Potter had been a quiet boy who did his homework and kept out of Malfoy’s way, and watched her with a long face when she was vile to somebody. Both Houses stared at him.
+Ron made a noise like a kettle. Nobody in either House had heard Harry say ten words to Malfoy since the train.
 
 “Keep your dignity, Malfoy,” said Harry. “I thought you were better than this.”
 
@@ -142,13 +126,11 @@ She leapt onto her broom and kicked off. She had not been lying when she boasted
 
 “Come and get it, then!”
 
-It was the sort of thing Dudley would have done, only meaner, because of the magic.
+It was exactly what Dudley used to do with other people’s shoes at school: up the climbing frame, where nobody could follow. Except that Harry had a broom too.
 
-But Harry had decided he was not going to dislike Lyra Malfoy. And for that, she had to stop.
+And Harry had decided he was not going to dislike Lyra Malfoy. For that, she had to stop. He could not just let her go on until everybody hated her. Himself included.
 
-He could not just let her go on until everybody hated her. Himself included.
-
-Once he had decided, he felt wonderful. He put his chin up, the way somebody had once told him to, and grinned.
+He put his chin up, the way somebody had once told him to, and grinned.
 
 “You fly very nicely,” he called up. “Just like a magpie.”
 
@@ -160,9 +142,7 @@ A few people laughed. The laughing stopped when he picked up his broom.
 
 There was a cheer behind him as he kicked off, and then he was rising, and the air was rushing through his hair and pulling at his robes, and in a few seconds he was face to face with Malfoy.
 
-Nobody had taught him. He did not need teaching; the broom simply went where he wanted. He was not afraid of falling. The sun was warm and the wind was cool and he felt as if somebody had opened a door.
-
-If only Malfoy would be nice, it would all be perfect.
+Nobody had taught him. He did not need teaching; the broom went where he looked, the way his feet went where he walked, and he thought, with a wild sort of surprise, that this was the first thing in his life he had been good at before anybody could tell him he wasn’t.
 
 “Give it here, Malfoy.”
 
@@ -174,17 +154,17 @@ He had come up so fast that she looked startled. Then she shook it off, and narr
 
 And he took both his hands off his broom, and came towards her slowly, to show her he meant it.
 
-He only did it to reassure her. He had no idea, then, that flying with no hands was a trick only very good Quidditch players could manage. The Gryffindors down below cheered themselves hoarse. The Slytherins went quiet and looked anxiously up at Malfoy.
+Down below, the Gryffindors went mad. The Slytherins went quiet and looked up at Malfoy to see what she would do. Harry could not think what the fuss was about. It was Wood who told him, weeks later and in a hushed voice, that he knew seventh-year Chasers who could not do that.
 
 Even Malfoy shut her mouth.
 
-“Stop messing about,” said Harry. “It isn’t dignified or anything. Come down.”
+“Come down,” said Harry, in a very fair imitation of Madam Hooch. “You look stupid up there, and you know you do.”
 
 “Don’t you *lecture* me—!”
 
 She wheeled her broom round. Harry was in front of her before she had finished turning, still with his hands off.
 
-He could see it make her furious. He had been brought up by Muggles and had never touched a broom in his life, or so he claimed, and here he was flying circles round Lyra Malfoy with his hands in his lap.
+He could see it make her furious. She had been flying since she was small, and had told the whole of Slytherin so. Harry could see her working out that he had been flying for about three minutes.
 
 She drew back her arm to throw the glass ball as far as she could.
 
@@ -196,25 +176,23 @@ Harry moved. It turned out that everything he had done so far had been playing; 
 
 Malfoy went scarlet.
 
-She had lost, completely. She was not as fast as he was, and she could not fly with no hands, and the ball she had dropped, he had caught out of the air. She wrenched her arm away from him.
+Somebody on the ground cheered. Malfoy heard it; Harry saw her hear it.
 
 “How *dare* you touch—”
 
-She was so angry that she forgot she could not fly with no hands.
+She tore her arm free so hard that both her hands came off the handle.
 
 “*Look out!*”
 
-She had pulled away too hard. Harry watched her lose her balance, as slowly as in a dream: she tipped, and turned half over, and came off her broom, and began to fall. He saw her eyes. They had gone wide and blank with plain animal fright.
+The broom went one way and Malfoy went the other. For a second she hung there with her hair flying up past her face and one hand still reaching for a handle that was not there; then she dropped. Harry saw her eyes as she went. There was nothing left in them of the girl in the oak. Only fright.
 
 Somebody below was screaming. Two girls in Slytherin robes, one of them round-faced with her hair in two plaits, were shouting her name.
 
 Harry flung the Remembrall away and grabbed his broom and dived.
 
-The ground was coming up very fast, and he did not care in the least. There was only Malfoy, falling, and his own hand stretched out towards her.
+He did not think about the ground. He thought, quite clearly, *she can’t do it with no hands, then*, and leaned until the broom was pointing straight down.
 
-Even Malfoy could not help it, falling. She flailed with her arms and legs, and forgot that she had just been fighting him, and reached out her hand to Harry Potter.
-
-Harry laughed out loud. She was only a kid, the same as him.
+She saw him coming. She stopped flailing and stuck her hand out to him, wide open, the way a much smaller child holds up its arms to be lifted; and Harry, diving flat out, laughed out loud, because she was only a kid, the same as him.
 
 “*Grab it!*”
 
@@ -232,7 +210,7 @@ She scrambled up, shaking, and rounded on him.
 
 “You—*you!* You let me fall! You grabbed my wrist and—that was *dangerous*, you—”
 
-But even Malfoy had to stop. Harry Potter was lying on the grass, scraped and bleeding in half a dozen places, as though a troll had sat on him.
+But even Malfoy had to stop. Harry Potter was lying on the grass, scraped raw in half a dozen places, with grass in his hair and blood coming through both sleeves.
 
 She looked down at him with a white face, and for once she was not grand.
 
@@ -256,11 +234,7 @@ Malfoy jumped. She looked one way and the other as if for somewhere to go, and t
 
 “There’s something you ought to say now. Isn’t there?”
 
-The calmer he got, the more his body remembered what had happened to it. His back was burning and every bone he had was aching.
-
-But he did not let it show in front of Malfoy. Crying because it hurt would not have been dignified.
-
-He smiled instead. The corners of his mouth were twitching, but a smile was a smile.
+His back had started telling him about itself, now that nothing else was happening. He did not let it. Not in front of Malfoy. He smiled at her instead, the way he had been taught, although the corners of his mouth would not keep still.
 
 Malfoy looked him up and down, and her mouth opened slowly.
 
@@ -272,9 +246,7 @@ At that she clenched both her fists and shrieked at him.
 
 “Do you think I’m going to say *thank you?* If you hadn’t stuck your nose in where it wasn’t wanted, I’d never have fallen in the first place!”
 
-It was not what anybody had expected.
-
-The others stared at her. They could not believe there was such a person in the world. No thanks, and no sorry; she had put the whole thing on him. The Gryffindors were frowning. Even one of the Slytherins muttered, “That’s a bit much.”
+Behind Harry, Seamus said “*What?*” out loud. Even one of the Slytherins muttered, “That’s a bit much.” No thanks, and no sorry; she had put the whole thing on him.
 
 But Harry Potter, who was the one it had happened to, burst out laughing.
 
@@ -282,17 +254,17 @@ But Harry Potter, who was the one it had happened to, burst out laughing.
 
 She had not said thank you. But he had heard it, quite clearly, in everything else she was doing.
 
-She kept glancing at his cuts while she shouted at him. She had folded her arms, but her fingers would not keep still on her sleeves. Her mouth kept almost saying something and not saying it. She was frightened of the blood. And her hair was all over the place, and her robes were twisted round, and she had not noticed; she only stood there stamping her feet and glaring at him.
+She had blood on her sleeve, his, from where he had held on to her, and she kept rubbing at it without seeming to know she was doing it; and all the time she was shouting, she had not once looked anywhere but at his cuts.
 
 “What are you *laughing* at?”
 
 “You.”
 
-He lifted an arm. He must have hurt his side as well, because even that made him wince, and Malfoy flinched with him.
+He reached round to feel his back, and hissed, and Malfoy hissed with him.
 
 Her mouth was not honest at all. The rest of her was hopeless at lying.
 
-However vile she was, there was no need to be frightened of her, or to hate her. She had changed Harry Potter, once, on a stool in a robe shop. Harry Potter could change her in return.
+She was horrible, and she was going to be a great deal of work. But she had changed him once, on a stool in a robe shop, without even trying. He thought he could manage the same for her, if he tried hard enough.
 
 Harry tried not to laugh again, because it hurt, and pointed at the grass.
 
