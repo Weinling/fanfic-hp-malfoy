@@ -202,6 +202,8 @@ It was a real threat. That was what she could not get past. It was not a bluff a
 
 “Yes,” said Potter. His voice was perfectly steady, and quite cold. “There’s no room for you in this, Malfoy.”
 
+His hand had closed on the edge of the window seat, so hard that a splinter of the rotten wood came away in his fingers. He did not seem to notice. Neither, just then, did she.
+
 Lyra Malfoy did not cry. Tears were a white flag and a begging bowl at the same time, her father said, and she had been brought up to carry neither. She had cried in front of two Houses in September, but that had been a hippogriff and a great deal of blood, and did not count. So the wet on her face was rain. The roof leaked. It had been leaking all afternoon, in the corner, and it must have found her somehow.
 
 “From now on,” she said.
