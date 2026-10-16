@@ -94,6 +94,10 @@ He considered her a moment longer. Then he went and stood by the shelves, half t
 
 “No. Nobody would. It is old, and difficult, and very few people alive could cast it. A secret is hidden inside a single living soul, the Secret Keeper, and until the Keeper chooses to give it away, nobody can find it. Not by spying, and not by force.” He paused. “Twelve years ago the Dark Lord decided that the Potters must die. Why is not your concern. Dumbledore learned of it, and hid them under the Fidelius, and the Keeper they chose was Sirius Black.”
 
+“Why not Dumbledore himself, sir?”
+
+“He offered.” Snape said it with a contempt that was very nearly relish. “Potter would not hear of it. He had a friend he trusted more, and he was never a man to take advice from anybody he could not laugh at.”
+
 Lyra had known for years that Black had sold them; her father had told her so, in the voice he kept for other people’s scandals. She had never asked how it was done. Nobody had ever said that there was no one else who could have done it.
 
 “Black and James Potter were thick as thieves from their first week here. They went about together, the two of them and their little gang, making other people’s lives a misery and being thought enormously amusing for it.” His mouth twisted slightly. “You may have noticed that the son has inherited the vocation.”
@@ -110,11 +114,11 @@ And if it ever came to minding again, if the Dark Lord ever came back and began 
 
 Her father still thought he had lost an old book. He would answer like a man who had lost a book.
 
-“You know what came after,” said Snape. “A Muggle street, the next day. Twelve Muggles and a wizard, one curse, and Black standing in the middle of it laughing. Nobody troubled with a trial. They gave him to Azkaban, and Azkaban, it seems, has given him back. The Dementors should have had what passes for his soul that same night. If they had—” He stopped. “Lyra?”
+“You know what came after,” said Snape. “A Muggle street, the next day. Twelve Muggles and Peter Pettigrew, who had gone about with the pair of them since they were eleven, one curse, and Black standing in the middle of it laughing. Nobody troubled with a trial. They gave him to Azkaban, and Azkaban, it seems, has given him back. The Dementors should have had what passes for his soul that same night. If they had—” He stopped. “Lyra?”
 
 She had been on a broom above the stands again, just for a moment, with the cold coming up at her. “Nothing, sir.” She put it aside. “Then he was ours? The Dark Lord’s, I mean. He sold his best friend?” And, because her father had written it too: “Some people thought he might have laid a trap. That he led the Dark Lord there on purpose, to—”
 
-Either answer would do. A traitor to the Potters or a traitor to the Dark Lord: she would know which kind he was, and that was all she had come for.
+Either answer would do. A traitor to the Potters or a traitor to the Dark Lord: she would know which kind he was, and that was what the accusation had been for.
 
 “And what difference,” said Snape, “would that make?”
 
@@ -132,19 +136,7 @@ He would want this more than he had ever wanted anything from her, and for once 
 
 “There,” said Snape. “That is all you will get from me on the subject. You may judge for yourself whether I helped him.”
 
-“Only one thing, sir. Why didn’t Dumbledore keep the secret himself?”
-
-“He offered.” Snape said it with a contempt that was very nearly relish. “Potter would not hear of it. He had a friend he trusted more, and he was never a man to take advice from anybody he could not laugh at. The Headmaster let him have his way. He generally did.”
-
-“And the wizard? The one in the street?”
-
-A pause. “Pettigrew. Peter Pettigrew. He went about with them.”
-
-“With *them*? Then why would Black—”
-
-“I was never invited to share the contents of Black’s head.”
-
-She let it go. He wanted it finished; it was in every line of him. She had meant to ask about the brother as well, but her mother had written *you will not ask anyone else* in that small upright hand, and Lyra found she could still see the words.
+She let it go. He wanted it finished; it was in every line of him. She had meant to ask about the brother as well, but her mother had written *you will not ask anyone else* in that small upright hand, and Lyra could still see the words.
 
 “You will not go looking for Black,” said Snape. “If you see him, you will not be clever; you will run, and you will come to me. Whatever he is now, he is nothing of ours.”
 
@@ -240,7 +232,7 @@ Then the dog shifted its feet, and she saw it properly, and lowered the wand.
 
 It was enormous, nearly the size of a pony, and so thin that it was hard to be frightened of it; she could count its ribs from where she stood, and its coat hung off it in matted ropes. Even Lyra, whose experience of animals ran mostly to peacocks, could see that it had not eaten properly in weeks.
 
-A big black dog. It came back to her all at once, and so clearly that she could have smelled the Chocolate Frogs: Potter on the train in September, with his feet on her seat. *If a big black dog turns up, be nice to it. Feed it something. It’ll be starving.*
+A big black dog. It came back to her all at once, and so clearly that she could have smelled the Chocolate Frogs: Potter on the train in September, with one trainer up on the seat opposite. *If a big black dog turns up, be nice to it. Feed it something. It’ll be starving.*
 
 She had taken it for one of his jokes. Lyra looked at the dog, and at the chocolate in her hand, and then, for a long moment, up at the lit windows of the castle, where Potter was presumably still laughing.
 
