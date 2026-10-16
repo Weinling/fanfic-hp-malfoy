@@ -1,5 +1,5 @@
 # Capítulo 02: «Damage Control»
-- **Archivo:** `manuscrito/cap-02-damage-control.md` · **Palabras:** ~3.080 · **Punto de vista:** Lyra · **Fecha(s) en la historia:** segunda semana de julio de 1993 (“It was the second week of July”; once días tras volver a casa). Escena inicial del lago: última semana de curso, junio de 1993 · **Estado:** publicado
+- **Archivo:** `manuscrito/cap-02-damage-control.md` · **Palabras:** ~3.300 · **Punto de vista:** Lyra · **Fecha(s) en la historia:** segunda semana de julio de 1993 (“It was the second week of July”; once días tras volver a casa). Escena inicial del lago: última semana de curso, junio de 1993 · **Estado:** publicado
 
 ## Escenas
 (Estructura nueva del cotejo, 16 de octubre de 2026: el lago abre el capítulo. Los hechos son los de lo publicado.)
@@ -14,13 +14,13 @@
 - “Up to you, Malfoy. Don’t take too long, though.” (l. 27)
 - “It took Lyra eleven days to knock on her father’s study door.” (l. 37)
 - “Potter keeps asking me about it.” (l. 89): primera mentira importante a su padre (l. 91)
-- “The Dark Lord gave it into my keeping… one day he would come back and ask me for it himself.” (l. 115)
-- “It was a diary, darling. You’d think from the fuss that he’d left me a piece of himself to mind.” (l. 137)
-- “Basilisk venom doesn’t leave witnesses. It barely leaves ink.” (l. 149)
-- “families like ours don’t last by being kind, Lyra. Kindness is a thing we can afford to show. It is not a thing we can afford to have.” (l. 171; el 6 lo cita como “we can’t afford to be kind”)
-- “Potter had told her to tell him. Potter did not know her father.” (l. 189)
-- “Somebody was going to have to keep the Malfoys alive.” (l. 217)
-- “A minute later, a light came on in its window.” (l. 223)
+- “The Dark Lord gave it into my keeping… one day he would come back and ask me for it himself.” (l. 113)
+- “It was a diary, darling. You’d think from the fuss that he’d left me a piece of himself to mind.” (l. 135)
+- “Basilisk venom doesn’t leave witnesses. It barely leaves ink.” (l. 147)
+- “families like ours don’t last by being kind, Lyra. Kindness is a thing we can afford to show. It is not a thing we can afford to have.” (l. 169; el 6 lo cita como “we can’t afford to be kind”)
+- “Potter had told her to tell him. Potter did not know her father.” (l. 187)
+- “Somebody was going to have to keep the Malfoys alive.” (l. 215)
+- “A minute later, a light came on in its window.” (l. 221)
 
 ## Fichas (objetos y motivos)
 - **La oferta del diario:** Potter se lo ofrece (lago) como tapadera; ella dijo que lo pensaría. Caduca con “Don’t take too long”; se retoma en 13.
@@ -36,7 +36,7 @@
 - Lucius le debe, sin saberlo, una tapadera que no sabe que necesita.
 
 ## Quién sabe qué (al final del capítulo)
-- **Lyra** conoce la versión de Lucius (encargo del Señor Oscuro, “never told me precisely what it was”; no cree que vuelva; el veneno habrá destruido cualquier alma). No sabe quién es el hombre de la casita. No cuenta nada.
+- **Lyra** conoce la versión de Lucius (encargo del Señor Oscuro, “He did not say what it was”; no cree que vuelva; el veneno de basilisco habrá destruido cualquier cosa que hubiera dentro). No sabe quién es el hombre de la casita. No cuenta nada.
 - **Lucius** sabe que el diario fue destruido con veneno de basilisco (“the boy said”) y cree que Potter pesca por cuenta de Dumbledore. Cree que Lyra lo vio meter el diario en el caldero. No sabe del trato.
 - **Narcissa** sospecha que algo le pasa a su hija. **Draco** no sabe nada.
 

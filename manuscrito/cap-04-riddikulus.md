@@ -198,7 +198,7 @@ Then he got up and went over to the wardrobe.
 
 “With pleasure,” said Lyra. “It won’t take a minute.”
 
-And it was nothing, really, now that she thought about it properly. A shapeless fear, he had said. That was a nursery sort of fear, the kind that lived under beds and went away when somebody lit a lamp. She had been startled the first time, that was all. Now she knew exactly what was in there, and there was nothing to be startled by.
+And it was nothing, really, now that she thought about it properly. A fear without a face of its own, he had more or less said. That was a nursery sort of fear, the kind that lived under beds and went away when somebody lit a lamp. She had been startled the first time, that was all. Now she knew exactly what was in there, and there was nothing to be startled by.
 
 She stood, smoothed her robes and took up her position with her wand raised.
 
