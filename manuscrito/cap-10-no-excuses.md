@@ -1,16 +1,30 @@
 # Chapter 10: No Excuses
 
-By half past ten the wind had taken two umbrellas off the Hufflepuffs on the way down to the pitch and was working on a third. It came off the lake in long grey shoves that you could watch crossing the water before they arrived, and the rain came with it, not so much falling as being thrown, and somewhere over the mountains the thunder had been going since breakfast without once stopping for breath. Lyra came out of the changing rooms into the middle of it with her Nimbus over her shoulder and her head down, and the cold was inside her collar before she had gone three steps.
+By half past ten the wind had taken two umbrellas off the Hufflepuffs on the way down to the pitch and was working on a third.
 
-It was not weather for Quidditch. It was hardly weather for being out of doors at all. On any other Saturday she would have looked at it from the common room, with the whole weight of the lake between her and it, and felt mildly sorry for anybody caught outside. She had tied her hair back tighter than she had ever tied it, with two ribbons and more pins than she cared to count, and the wind found it anyway. It kept getting hold of the knot at the back of her neck and tugging, as though somebody behind her had a fistful of it and wanted her attention, and each time it did she put a hand up to make sure the knot was still there.
+It came off the lake in long grey shoves that you could watch crossing the water before they arrived, and the rain came with it, not so much falling as being thrown, and somewhere over the mountains the thunder had been going since breakfast without once stopping for breath.
 
-It would be today. She had waited a year for this match, a year of practices with her hair scraped back and her mouth shut, and now it was going to be a lottery. In a wind like this a Snitch could be blown halfway to Hogsmeade and the Seekers blown after it, and whoever won would win by accident. Lyra did not want to win by accident. She wanted it to be perfectly plain to everyone, and to one person in particular, whose doing it was.
+Lyra came out of the changing rooms into the middle of it with her Nimbus over her shoulder and her head down, and the cold was inside her collar before she had gone three steps.
 
-The stands were smears of colour behind the rain, scarlet at one end and green at the other, and the noise from them came and went with the wind, so that the crowd seemed to be cheering from a long way off and then suddenly from right beside her. Panther Parkinson had made a banner. It had said MALFOY in green letters a foot high when he carried it down to breakfast, and the rain had been at it since, and by now it said something nearer MAIFOY and was running down his sleeves. In the staff box she could make out Dumbledore, and Professor McGonagall under a tartan umbrella that was very nearly being torn out of her hands, and Professor Snape, who was not under anything, as though rain were beneath him. The seat beside Snape was empty. Professor Lupin, people said, had been unwell since Friday.
+It was not weather for Quidditch. It was hardly weather for being out of doors at all. On any other Saturday she would have looked at it from the common room, with the whole weight of the lake between her and it, and felt mildly sorry for anybody caught outside.
+
+She had tied her hair back tighter than she had ever tied it, with two ribbons and more pins than she cared to count, and the wind found it anyway. It kept getting hold of the knot at the back of her neck and tugging, as though somebody behind her had a fistful of it and wanted her attention, and each time it did she put a hand up to make sure the knot was still there.
+
+It would be today. She had waited a year for this match, a year of practices with her hair scraped back and her mouth shut, and now it was going to be a lottery. In a wind like this a Snitch could be blown halfway to Hogsmeade and the Seekers blown after it, and whoever won would win by accident.
+
+Lyra did not want to win by accident. She wanted it to be perfectly plain to everyone, and to one person in particular, whose doing it was.
+
+The stands were smears of colour behind the rain, scarlet at one end and green at the other, and the noise from them came and went with the wind, so that the crowd seemed to be cheering from a long way off and then suddenly from right beside her.
+
+Panther Parkinson had made a banner. It had said MALFOY in green letters a foot high when he carried it down to breakfast, and the rain had been at it since, and by now it said something nearer MAIFOY and was running down his sleeves.
+
+In the staff box she could make out Dumbledore, and Professor McGonagall under a tartan umbrella that was very nearly being torn out of her hands, and Professor Snape, who was not under anything, as though rain were beneath him. The seat beside Snape was empty. Professor Lupin, people said, had been unwell since Friday.
 
 “Line up, please!” Madam Hooch had to shout it twice.
 
-They stood in two rows on the sodden grass, and since Madam Hooch lined them up position by position, Lyra found herself looking across the gap at Potter, as she had known she would. His hair was plastered flat to his head, which ought to have been an improvement and somehow was not, and his glasses were already beaded with rain, and he had the air of somebody who could think of nowhere he would rather be. Lyra looked back at him with her hair scraped off her face and her expression arranged, and let him see it.
+They stood in two rows on the sodden grass, and since Madam Hooch lined them up position by position, Lyra found herself looking across the gap at Potter, as she had known she would. His hair was plastered flat to his head, which ought to have been an improvement and somehow was not, and his glasses were already beaded with rain, and he had the air of somebody who could think of nowhere he would rather be.
+
+Lyra looked back at him with her hair scraped off her face and her expression arranged, and let him see it.
 
 “Captains, shake hands.”
 
@@ -28,11 +42,21 @@ He did not answer at once. He looked up past her at the cloud coming down over t
 
 Madam Hooch put the whistle to her lips. Lyra swung her leg over the Nimbus, the whistle went, shrill and thin under the thunder, and fourteen brooms went up into the rain together.
 
-The wind hit her at twenty feet like a shoulder in a crowd. It shoved her sideways and then let go so suddenly that she dropped a yard before the broom caught her, and the rain went down her collar and up both sleeves at once and found the one place between her shoulder blades that had still been warm. If it had been any other match she would have turned round there and then and flown back to the castle, and let Flint explain it to her father. As it was she set her teeth, tucked herself down flat along the handle and went to work.
+The wind hit her at twenty feet like a shoulder in a crowd. It shoved her sideways and then let go so suddenly that she dropped a yard before the broom caught her, and the rain went down her collar and up both sleeves at once and found the one place between her shoulder blades that had still been warm.
 
-The brooms told at once. The Two Thousand and Ones had a charm in their bristles that the makers called weather-proofing and everybody else called a sales pitch; on a fine day it did nothing whatever, and in a gale it kept the worst of the rain off your face. Today that was worth a hundred points. The Gryffindors had nothing of the kind. The Weasley twins were going round on their Cleansweeps like a pair of kites with the strings cut, and Wood was being blown round his own hoops like a weathercock. Most of the Slytherin passes went wild in the wind, but the Slytherin Chasers stayed on their brooms while they threw them, which was more than could be said for anyone in scarlet. The score went up in tens, and went on going up for the best part of half an hour. Lee Jordan’s commentary reached her in scraps whenever the thunder let it through, “—Slytherin *again*, and if anyone can tell me how they can even see the hoops—”, and then the wind took the rest.
+If it had been any other match she would have turned round there and then and flown back to the castle, and let Flint explain it to her father. As it was she set her teeth, tucked herself down flat along the handle and went to work.
 
-Lyra did not watch the score. She went up as high as she dared and began to work the pitch in long slow sweeps, with the rain hissing on the handle under her hands and the wind trying to take her somewhere else every few seconds. It was not hard to see how this would go. The longer it lasted, the further behind Gryffindor would fall, and Wood was not a fool; he would want it over before his team drowned. He would tell Potter to get the Snitch and get it fast. So the Snitch was hers to find, and quickly.
+The brooms told at once. The Two Thousand and Ones had a charm in their bristles that the makers called weather-proofing and everybody else called a sales pitch; on a fine day it did nothing whatever, and in a gale it kept the worst of the rain off your face. Today that was worth a hundred points.
+
+The Gryffindors had nothing of the kind. The Weasley twins were going round on their Cleansweeps like a pair of kites with the strings cut, and Wood was being blown round his own hoops like a weathercock.
+
+Most of the Slytherin passes went wild in the wind, but the Slytherin Chasers stayed on their brooms while they threw them, which was more than could be said for anyone in scarlet. The score went up in tens, and went on going up for the best part of half an hour.
+
+Lee Jordan’s commentary reached her in scraps whenever the thunder let it through, “—Slytherin *again*, and if anyone can tell me how they can even see the hoops—”, and then the wind took the rest.
+
+Lyra did not watch the score. She went up as high as she dared and began to work the pitch in long slow sweeps, with the rain hissing on the handle under her hands and the wind trying to take her somewhere else every few seconds.
+
+It was not hard to see how this would go. The longer it lasted, the further behind Gryffindor would fall, and Wood was not a fool; he would want it over before his team drowned. He would tell Potter to get the Snitch and get it fast. So the Snitch was hers to find, and quickly.
 
 She had got as far as that when a whistle shrilled below, and somebody was bellowing “Time out!” through the rain.
 
@@ -40,7 +64,9 @@ The Slytherin team came down in a ragged spiral and landed in a huddle at the ed
 
 “What’s the score?” said Lyra.
 
-“Eighty up,” said Flint, and looked happier than she had seen him look since September. He jerked a thumb at the sky. “That’s the brooms. Ours hardly notice this and theirs are getting blown about like washing. That’s why Wood’s called time. He can count. He knows if this goes on another hour he’s finished, so he’s going to send Potter after the Snitch, right now. Which means—” He turned to her. “You don’t let him. Stick to Potter. Mark him, block him, get in front of him every time he moves. Every minute he’s up there not catching it is another ten points to us. We go a hundred and fifty clear and it doesn’t matter who gets the Snitch. And if you get it as well—” He very nearly licked his lips. “They’ll be talking about it in ten years.”
+“Eighty up,” said Flint, and looked happier than she had seen him look since September. He jerked a thumb at the sky. “That’s the brooms. Ours hardly notice this and theirs are getting blown about like washing. That’s why Wood’s called time. He can count. He knows if this goes on another hour he’s finished, so he’s going to send Potter after the Snitch, right now. Which means—”
+
+He turned to her. “You don’t let him. Stick to Potter. Mark him, block him, get in front of him every time he moves. Every minute he’s up there not catching it is another ten points to us. We go a hundred and fifty clear and it doesn’t matter who gets the Snitch. And if you get it as well—” He very nearly licked his lips. “They’ll be talking about it in ten years.”
 
 “No,” said Lyra.
 
@@ -52,7 +78,9 @@ There was a pause under the cloak, filled mostly by the rain drumming on it.
 
 “You are, Marcus. And I’m the one who catches Snitches. Following Potter about is a Beater’s job; give it to Bole.”
 
-That was the part she said aloud. The rest was nobody’s business. If she spent the next hour on Potter’s tail, and Slytherin won by two hundred points and nobody ever caught the Snitch at all, then nobody would say Lyra Malfoy had beaten Harry Potter. They would say the brooms had. Her father’s brooms, they would say, and for once in their lives they would be right. She had not waited a year to spend this match as Potter’s shadow, in a win her father had paid for.
+That was the part she said aloud. The rest was nobody’s business. If she spent the next hour on Potter’s tail, and Slytherin won by two hundred points and nobody ever caught the Snitch at all, then nobody would say Lyra Malfoy had beaten Harry Potter. They would say the brooms had. Her father’s brooms, they would say, and for once in their lives they would be right.
+
+She had not waited a year to spend this match as Potter’s shadow, in a win her father had paid for.
 
 Flint looked at her for a while through the water dripping off the edge of Bole’s cloak, and then gave up, as he generally did with her, which was what made him bearable as a captain. “Mule,” he said. “Fine. But you’d better come down with it. And no stupid risks. We’re winning standing still.”
 
@@ -60,11 +88,19 @@ Flint looked at her for a while through the water dripping off the edge of Bole�
 
 He went off to shout at the Chasers. Lyra wiped her hands on her robes, which only made them wetter, and was reaching for her broom when she happened to look across at the Gryffindor huddle on the far side.
 
-Granger was there. She must have come down out of the stands with her hood up and her robes clutched round her, and she was standing beside Potter, who had taken off his glasses and was holding them out to her like a boy handing in homework. She tapped them once with her wand. Lyra could not hear the word over the rain, and did not need to. *Impervius.* It was the kind of charm a second-year could manage, if a second-year happened to think of it, and when Potter put the glasses back on the whole Gryffindor team set up a cheer, a thin wet cheer that the wind carried all the way across the pitch to her, as though they had just watched Granger do something remarkable instead of something any witch with half a brain could have done.
+Granger was there. She must have come down out of the stands with her hood up and her robes clutched round her, and she was standing beside Potter, who had taken off his glasses and was holding them out to her like a boy handing in homework.
+
+She tapped them once with her wand. Lyra could not hear the word over the rain, and did not need to. *Impervius.*
+
+It was the kind of charm a second-year could manage, if a second-year happened to think of it, and when Potter put the glasses back on the whole Gryffindor team set up a cheer, a thin wet cheer that the wind carried all the way across the pitch to her, as though they had just watched Granger do something remarkable instead of something any witch with half a brain could have done.
 
 Lyra looked away. Everything about today, from the weather to the Mudblood, seemed to have been arranged expressly to annoy her.
 
-When play started again the storm came on twice as hard. Lyra could no longer see the far end of the pitch. She could not have told anyone where her own Chasers were, or how the score stood, or which of the dark shapes lunging about at the edges of her sight were Bludgers and which were Weasleys. But she knew where Potter was. She always did, in the air; he was the only other person on any pitch who could take a Snitch away from her, and her eyes went looking for him before they went looking for gold. He was hanging low over the Gryffindor end, a darker smudge on the grey, and as she watched he lifted a hand to wipe his glasses out of sheer habit, found there was nothing on them to wipe, and grinned to himself.
+When play started again the storm came on twice as hard. Lyra could no longer see the far end of the pitch. She could not have told anyone where her own Chasers were, or how the score stood, or which of the dark shapes lunging about at the edges of her sight were Bludgers and which were Weasleys.
+
+But she knew where Potter was. She always did, in the air; he was the only other person on any pitch who could take a Snitch away from her, and her eyes went looking for him before they went looking for gold.
+
+He was hanging low over the Gryffindor end, a darker smudge on the grey, and as she watched he lifted a hand to wipe his glasses out of sheer habit, found there was nothing on them to wipe, and grinned to himself.
 
 Lyra had never in her life wanted a Snitch so little for its own sake, or wanted so badly to see a face fall.
 
@@ -72,19 +108,33 @@ And just under his left boot there was a flicker of gold.
 
 Her heart turned over. Of course it was there. There were acres of sky over that pitch and it had picked the one square yard of them next to Potter, and he had not even seen it; he was looking the other way, up the pitch, into the rain, and she was forty yards further off than he was. It was nothing but bad luck, she thought furiously, that she should have spotted it there of all places.
 
-She did not go straight for it. If she did, Potter would turn to see what she was going for, and he would get there first. Instead she tipped the Nimbus into a long fast dive towards the middle of the pitch, as though she had seen something down there in the murk, and knew without looking that half the Gryffindor team had turned their heads to follow her. Thirty feet off the grass she pulled up so hard that the handle juddered under her, hauled the Nimbus round on its own length with the rain coming at her flat, and went back up the way she had come at full stretch.
+She did not go straight for it. If she did, Potter would turn to see what she was going for, and he would get there first.
+
+Instead she tipped the Nimbus into a long fast dive towards the middle of the pitch, as though she had seen something down there in the murk, and knew without looking that half the Gryffindor team had turned their heads to follow her.
+
+Thirty feet off the grass she pulled up so hard that the handle juddered under her, hauled the Nimbus round on its own length with the rain coming at her flat, and went back up the way she had come at full stretch.
 
 She was halfway there before Potter saw her coming, and then saw what she was coming for. He wheeled at once. The Snitch seemed to see him too; it went straight up like a spark off a bonfire, and the two of them went straight up after it, out over the tops of the stands and into the thick of the storm.
 
-It was like flying up a waterfall. The rain came down so hard it hurt, a thousand small sharp blows on her face and hands, and the wind came from three directions at once, and the Snitch, which weighed nothing and minded nothing, flickered in and out of the grey ahead of them like something being let down on a thread. Potter was in front. He had been closer to begin with, and the feint had bought her distance but not the lead, and she was two lengths behind him and could not make them up. But the wind was throwing him about. Even Potter, who flew with no hands on fine days purely to annoy people, was having to fight his broom for every yard, swinging out wide whenever a gust caught him and hauling himself back on line, and every time he swung wide she gained a little. She lay flatter along the handle and waited for her chance.
+It was like flying up a waterfall. The rain came down so hard it hurt, a thousand small sharp blows on her face and hands, and the wind came from three directions at once, and the Snitch, which weighed nothing and minded nothing, flickered in and out of the grey ahead of them like something being let down on a thread.
+
+Potter was in front. He had been closer to begin with, and the feint had bought her distance but not the lead, and she was two lengths behind him and could not make them up.
+
+But the wind was throwing him about. Even Potter, who flew with no hands on fine days purely to annoy people, was having to fight his broom for every yard, swinging out wide whenever a gust caught him and hauling himself back on line, and every time he swung wide she gained a little. She lay flatter along the handle and waited for her chance.
 
 The cold came between one gust and the next.
 
-This was a different cold from the rain’s. She had been cold for an hour and knew the difference at once. It began somewhere in the middle of her and spread outwards, and as it went it put out every light in her one after another. The noise of the crowd went thin and distant, as if a window had been shut on it. The rain stopped hurting, which was worse. And under all of it came the slow grey certainty she had felt once before, on the train: that happiness was a thing other people had made up, and she had been fool enough to believe them.
+This was a different cold from the rain’s. She had been cold for an hour and knew the difference at once. It began somewhere in the middle of her and spread outwards, and as it went it put out every light in her one after another.
+
+The noise of the crowd went thin and distant, as if a window had been shut on it. The rain stopped hurting, which was worse. And under all of it came the slow grey certainty she had felt once before, on the train: that happiness was a thing other people had made up, and she had been fool enough to believe them.
 
 Her hands began to shake on the handle.
 
-And then she was twelve. Her hair was across her eyes and in her mouth, and the Slytherin stand was coming at her, timber and bunting and screaming faces, very close and very fast, and she knew quite calmly that she was going to hit it. Only this time the moment did not end. It went on and on. The stand kept coming and never arrived, and she kept waiting, and nobody took hold of the back of her robes, because this time nobody was coming. It was all they could find in her worth having, two seconds out of thirteen years with the ending taken off, and they made the most of it.
+And then she was twelve. Her hair was across her eyes and in her mouth, and the Slytherin stand was coming at her, timber and bunting and screaming faces, very close and very fast, and she knew quite calmly that she was going to hit it.
+
+Only this time the moment did not end. It went on and on. The stand kept coming and never arrived, and she kept waiting, and nobody took hold of the back of her robes, because this time nobody was coming.
+
+It was all they could find in her worth having, two seconds out of thirteen years with the ending taken off, and they made the most of it.
 
 The Nimbus dipped under her. She came back to herself with a jerk and looked down.
 
@@ -96,7 +146,9 @@ The pitch below them had gone dark, and it took her a moment to understand that 
 
 Ahead of her, Potter lurched.
 
-She had watched him lurch a dozen times since they came up over the stands, and had thought it was the wind. He was swaying over the handle now like someone about to go down where he stood, and she had seen him go down once already this year, on the floor of a railway carriage. She had come out of that with goose pimples and a bad few minutes. He had fainted. That had been one Dementor, on solid ground. Now there were a hundred, and he was on a broom above the stands.
+She had watched him lurch a dozen times since they came up over the stands, and had thought it was the wind. He was swaying over the handle now like someone about to go down where he stood, and she had seen him go down once already this year, on the floor of a railway carriage.
+
+She had come out of that with goose pimples and a bad few minutes. He had fainted. That had been one Dementor, on solid ground. Now there were a hundred, and he was on a broom above the stands.
 
 His wand was already in his hand. She had not seen him draw it.
 
@@ -116,13 +168,23 @@ Potter’s broom shuddered. Neither of his hands was on it.
 
 He did not. She did not think he could hear her any more.
 
-Just below him the Snitch went by, quite unbothered; there was nothing in a Snitch for a Dementor to want. It hung in the grey a yard off, close enough to take, and Lyra saw it, and saw what it would mean. Potter was swaying blind beside her. If she took it now the match was over and it was hers, and everyone in those stands would go to their graves saying the Dementors had caught the Snitch for Lyra Malfoy. She would sooner have flown into the lake.
+Just below him the Snitch went by, quite unbothered; there was nothing in a Snitch for a Dementor to want. It hung in the grey a yard off, close enough to take, and Lyra saw it, and saw what it would mean.
 
-The cold was in her too, and the stand was still coming at her somewhere at the back of her mind, and there was something at her ear that she could not quite make out and that did not wish her well; but she was upright, and he was not. They went for the worst you had, and Potter, from the look of him, had a great deal more of it than she did. She did not know what it was. On the train, coming round on the floor of the carriage, he had asked her who was screaming, and she had told him nobody was, except him, and she had never once thought to ask him who he had heard. She had asked him a good many things in two years, how he knew about the diary and the house up north, what he could possibly want with her, and never that. It had always gone one way: he turned up, and she was found. The one time she had gone looking for him, she had walked the whole of Hogsmeade and not found him.
+Potter was swaying blind beside her. If she took it now the match was over and it was hers, and everyone in those stands would go to their graves saying the Dementors had caught the Snitch for Lyra Malfoy. She would sooner have flown into the lake.
+
+The cold was in her too, and the stand was still coming at her somewhere at the back of her mind, and there was something at her ear that she could not quite make out and that did not wish her well; but she was upright, and he was not.
+
+They went for the worst you had, and Potter, from the look of him, had a great deal more of it than she did. She did not know what it was.
+
+On the train, coming round on the floor of the carriage, he had asked her who was screaming, and she had told him nobody was, except him, and she had never once thought to ask him who he had heard.
+
+She had asked him a good many things in two years, how he knew about the diary and the house up north, what he could possibly want with her, and never that. It had always gone one way: he turned up, and she was found. The one time she had gone looking for him, she had walked the whole of Hogsmeade and not found him.
 
 There was nothing she could give him, then, except the one thing that needed no knowledge of him at all. She brought the Nimbus in against his broom until their knees knocked, reached across, took a fistful of the back of his robes between the shoulders, and held on. It was an ugly, graceless way to keep hold of a person.
 
-Potter looked round at her as though it took him a long time to get there, like someone underwater. His eyes found her hand, and the knot it had made in his robes, and stopped. Whatever the Dementors were showing him was still all over his face; and then, on top of it, he grinned, all teeth, the grin of a boy who has just been handed a reason to start a fight he means to win. His fingers tightened on his wand.
+Potter looked round at her as though it took him a long time to get there, like someone underwater. His eyes found her hand, and the knot it had made in his robes, and stopped.
+
+Whatever the Dementors were showing him was still all over his face; and then, on top of it, he grinned, all teeth, the grin of a boy who has just been handed a reason to start a fight he means to win. His fingers tightened on his wand.
 
 “*Expecto*,” he said.
 
@@ -130,7 +192,9 @@ Something closed over her hand. It was his other hand, cold and wet and much str
 
 “—*patronum!*”
 
-The light that came out of his wand this time was white, true white, the first clean colour she had seen all day. Instead of billowing, it unfolded in the air in front of them, small and faint and four-legged, too thin with the rain coming through it to have a shape she could have named, and then it ran. It went down the air beside Potter at a bound, with a high, thin cry as it went, a bright sound she felt in her teeth, and wherever it went the Dementors went the other way. They broke and scattered across the pitch like crows off a ploughed field, and the dark went off the grass in rags.
+The light that came out of his wand this time was white, true white, the first clean colour she had seen all day. Instead of billowing, it unfolded in the air in front of them, small and faint and four-legged, too thin with the rain coming through it to have a shape she could have named, and then it ran.
+
+It went down the air beside Potter at a bound, with a high, thin cry as it went, a bright sound she felt in her teeth, and wherever it went the Dementors went the other way. They broke and scattered across the pitch like crows off a ploughed field, and the dark went off the grass in rags.
 
 Something warm came into her, and it seemed to come in through her hand. One moment the cold was in the middle of her, and the next there was something soft and bright there instead, like the first minute in front of a fire after a whole day in the wet, and it was not hers.
 
@@ -156,6 +220,10 @@ He was walking fast, which she had never seen him do, with his long robes whippi
 
 Lyra came down hard a few yards off and very nearly fell over her own broom getting off it.
 
-Dumbledore did not look at her. He did not look at Potter either, not yet. He had turned to the far end of the pitch, where the last of the Dementors were drifting away into the rain, and he lifted his wand at them, and Lyra, who had only ever seen him at the far end of the Great Hall, a beard and a pair of spectacles, saw his face now from a few yards off. She had heard something in his voice once, at the start-of-term feast, when he said the word Dementors, and had wondered then what they had ever done to him. She still did not know. She was looking now at what he would do to them if anyone ever let him, and she took a step back.
+Dumbledore did not look at her. He did not look at Potter either, not yet. He had turned to the far end of the pitch, where the last of the Dementors were drifting away into the rain, and he lifted his wand at them, and Lyra, who had only ever seen him at the far end of the Great Hall, a beard and a pair of spectacles, saw his face now from a few yards off.
 
-Then there were people everywhere. Madam Pomfrey came running across the grass, and Professor McGonagall after her without her umbrella, and the Gryffindor team came down out of the rain all at once and went past Lyra on either side to get to him. Nobody blew a whistle. Nobody looked at her. She stood in the mud with her broom in one hand and the Snitch in the other, still beating against her fingers, and held on to it, because nobody had told her yet what she was supposed to do with it.
+She had heard something in his voice once, at the start-of-term feast, when he said the word Dementors, and had wondered then what they had ever done to him. She still did not know. She was looking now at what he would do to them if anyone ever let him, and she took a step back.
+
+Then there were people everywhere. Madam Pomfrey came running across the grass, and Professor McGonagall after her without her umbrella, and the Gryffindor team came down out of the rain all at once and went past Lyra on either side to get to him.
+
+Nobody blew a whistle. Nobody looked at her. She stood in the mud with her broom in one hand and the Snitch in the other, still beating against her fingers, and held on to it, because nobody had told her yet what she was supposed to do with it.
