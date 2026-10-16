@@ -34,7 +34,7 @@ It had been a very satisfactory weekend, on the face of it. Slytherin had won by
 
 Outside the common room, though, the match had turned into something else. By Sunday lunchtime it was a story about Potter, who had faced a hundred Dementors at thirteen and conjured a Patronus at them, a real one, people said, though nobody below the clouds had seen more than a flash of white; and the Gryffindors went about the corridors looking less like a team that had just been thrashed than like one that had been robbed by the weather.
 
-Nobody had seen what happened at the top of the stands, in that rain. Lyra had told nobody. She did not want to.
+Nobody had seen what happened at the top of the stands, in that rain. Lyra had told nobody. She found she did not want to.
 
 When the last of them had gone she went up to the front, where Snape was wiping the skulls off the blackboard in short, hard strokes.
 
@@ -54,11 +54,15 @@ Snape looked out into the corridor before he shut the door. Then he drew his wan
 
 Snape did not sit down. “Now,” he said. “Why do you want to know?”
 
-“Because I thought it might have been you, sir.”
+“Why wouldn’t I?” Lyra kept her voice light. “He broke into the school. He walked up to Gryffindor Tower on Hallowe’en as though he lived there. I should think anyone in Slytherin might like to know whose side he’s on.”
 
-She said it pleasantly, the way her mother said things at dinner that the guests would be thinking about in the carriage home.
+It was true as far as it went, and she let the rest stand behind it. The Malfoys had been where everybody knew they had been, Imperius or no Imperius, and a Malfoy asking whose side Sirius Black was on was a Malfoy asking whether he was one of theirs. Snape would take it that way. She meant him to.
 
-“The person who let him in. On Hallowe’en. He got all the way to the Fat Lady without anybody seeing him, and you can’t do that from outside, not with Dementors on every gate. Somebody inside must have helped him. One of the staff, I thought. And you know the castle better than anyone.” She folded her hands on the strap of her bag. “I’d rather hear it from you before I say so to anybody else.”
+“And?” He was watching her very steadily. “There is always an *and*, Lyra. If it is one your father ought to hear, I shall see that he hears it.”
+
+In lessons he called her Miss Malfoy. In here, it seemed, she was Lyra.
+
+“He sent me,” she said. “In a manner of speaking. He wrote that you might know more than he does.”
 
 Snape looked at her then, properly, straight into her eyes, and she looked back, because she had been brought up never to be the first to look away, and kept her face as still as she had kept it in front of her father in the summer. There was the smallest sensation imaginable, like a fingernail flicked against a wineglass somewhere at the back of her head, and it was over at once. Snape’s brows drew together.
 
@@ -70,12 +74,6 @@ Snape looked at her then, properly, straight into her eyes, and she looked back,
 
 She did not know what he meant, and he did not seem disposed to tell her.
 
-“Who else have you said this to?”
-
-“Nobody, sir. Father wrote that you might know more than he does.” She let a moment go by. “He didn’t say how much more.”
-
-In lessons he called her Miss Malfoy. Something in his face suggested that, in here, she was going to be Lyra.
-
 “Your father named me,” he said.
 
 “Yes, sir.”
@@ -84,8 +82,6 @@ In lessons he called her Miss Malfoy. Something in his face suggested that, in h
 
 “Of course not,” said Lyra.
 
-“Then you had better understand, Lyra, why it was not me.”
-
 He considered her a moment longer. Then he went and stood by the shelves, half turned away from her, and when he spoke again it was in the level voice he used for a method on the board.
 
 “Has anybody ever taught you the Fidelius Charm?”
@@ -93,10 +89,6 @@ He considered her a moment longer. Then he went and stood by the shelves, half t
 “No, sir.”
 
 “No. Nobody would. It is old, and difficult, and very few people alive could cast it. A secret is hidden inside a single living soul, the Secret Keeper, and until the Keeper chooses to give it away, nobody can find it. Not by spying, and not by force.” He paused. “Twelve years ago the Dark Lord decided that the Potters must die. Why is not your concern. Dumbledore learned of it, and hid them under the Fidelius, and the Keeper they chose was Sirius Black.”
-
-“Why not Dumbledore himself, sir?”
-
-“He offered.” Snape said it with a contempt that was very nearly relish. “Potter would not hear of it. He had a friend he trusted more, and he was never a man to take advice from anybody he could not laugh at.”
 
 Lyra had known for years that Black had sold them; her father had told her so, in the voice he kept for other people’s scandals. She had never asked how it was done. Nobody had ever said that there was no one else who could have done it.
 
@@ -114,11 +106,11 @@ And if it ever came to minding again, if the Dark Lord ever came back and began 
 
 Her father still thought he had lost an old book. He would answer like a man who had lost a book.
 
-“You know what came after,” said Snape. “A Muggle street, the next day. Twelve Muggles and Peter Pettigrew, who had gone about with the pair of them since they were eleven, one curse, and Black standing in the middle of it laughing. Nobody troubled with a trial. They gave him to Azkaban, and Azkaban, it seems, has given him back. The Dementors should have had what passes for his soul that same night. If they had—” He stopped. “Lyra?”
+“You know what came after,” said Snape. “A Muggle street, the next day. Twelve Muggles and a wizard, one curse, and Black standing in the middle of it laughing. Nobody troubled with a trial. They gave him to Azkaban, and Azkaban, it seems, has given him back. The Dementors should have had what passes for his soul that same night. If they had—” He stopped. “Lyra?”
 
 She had been on a broom above the stands again, just for a moment, with the cold coming up at her. “Nothing, sir.” She put it aside. “Then he was ours? The Dark Lord’s, I mean. He sold his best friend?” And, because her father had written it too: “Some people thought he might have laid a trap. That he led the Dark Lord there on purpose, to—”
 
-Either answer would do. A traitor to the Potters or a traitor to the Dark Lord: she would know which kind he was, and that was what the accusation had been for.
+Either answer would do. A traitor to the Potters or a traitor to the Dark Lord: she would know which kind he was, and that was all she had come for.
 
 “And what difference,” said Snape, “would that make?”
 
@@ -134,9 +126,21 @@ Potter knew that Black had betrayed his parents; everybody knew that. He did not
 
 He would want this more than he had ever wanted anything from her, and for once she would not have to take what she was given; she could name her price. She kept her face as it was, which took some doing.
 
-“There,” said Snape. “That is all you will get from me on the subject. You may judge for yourself whether I helped him.”
+“There,” said Snape. “That is all you will get from me on the subject.”
 
-She let it go. He wanted it finished; it was in every line of him. She had meant to ask about the brother as well, but her mother had written *you will not ask anyone else* in that small upright hand, and Lyra could still see the words.
+“Only one thing, sir. Why didn’t Dumbledore keep the secret himself?”
+
+“He offered.” Snape said it with a contempt that was very nearly relish. “Potter would not hear of it. He had a friend he trusted more, and he was never a man to take advice from anybody he could not laugh at. The Headmaster let him have his way. He generally did.”
+
+“And the wizard? The one in the street?”
+
+A pause. “Pettigrew. Peter Pettigrew. He went about with them.”
+
+“With *them*? Then why would Black—”
+
+“I was never invited to share the contents of Black’s head.”
+
+She let it go. He wanted it finished; it was in every line of him. She had meant to ask about the brother as well, but her mother had written *you will not ask anyone else* in that small upright hand, and Lyra found she could still see the words.
 
 “You will not go looking for Black,” said Snape. “If you see him, you will not be clever; you will run, and you will come to me. Whatever he is now, he is nothing of ours.”
 
@@ -148,11 +152,15 @@ She let it go. He wanted it finished; it was in every line of him. She had meant
 
 “Thirteen-year-olds say *naturally* a great deal,” said Snape, “and then they tell their friends.” He went to the door. “Very well. You may go.”
 
-Lyra picked up her bag. At the door she stopped, because it seemed only fair.
+Lyra picked up her bag. At the door she stopped, because it seemed only fair, and because she wanted to see his face.
 
-“It wasn’t you, sir,” she said. “I can see that now.”
+“I ought to tell you, sir, I thought it might have been you.”
 
-To her astonishment, Snape smiled. It was a thin smile with a good deal behind it, but there was real pleasure in it too: the look he gave a potion that had come out exactly as it should. It occurred to Lyra, rather late, that she had walked in and accused her Head of House to his face, and had been paid for it in a quarter of an hour of the most private things he knew.
+“I beg your pardon?”
+
+“The person who let him in.” She said it pleasantly. “On Hallowe’en. He got all the way to the Fat Lady without anybody seeing him, and you can’t do that from outside, not with Dementors on every gate. Somebody inside must have helped him. One of the staff, I thought. And you know the castle better than anyone.”
+
+To her astonishment, Snape smiled. It was a thin smile with a good deal behind it, but there was real pleasure in it too: the look he gave a potion that had come out exactly as it should.
 
 “Clever,” he said. “And now?”
 
@@ -198,29 +206,41 @@ Lyra had never seen the point of dark chocolate, which was bitter and tasted fai
 
 Lyra decided not to dignify that, and went.
 
-⁂
+She had the scene ready on the way up. Potter had been in the hospital wing since Saturday, and Madam Pomfrey, who had watched him carried in behind the Headmaster in person, was said to be keeping him one more night on principle.
 
-She still had the chocolate when she came down to the lake, and the gold paper had gone soft and crumpled where her hand had been closing on it, all the way down three flights of stairs.
+Potter in bed, looking feeble; Lyra at the foot of it, looking anything but; a bar of chocolate landing on his blankets, with a remark about what people ate after Dementors, and an enquiry after his health in a tone that made it quite plain what she thought of people who fainted.
 
-It was nearly dark. Saturday’s storm had blown itself out and left the grounds sodden and the air very cold and still, and mist lay on the water in long flat sheets with the last of the light going out behind it. She walked along the shore path with her head down and went over it again, since apparently she was going to.
+Then she would mention, carelessly, that she had spent the afternoon talking to Professor Snape about Sirius Black. She would watch his face while she said it. After that she would wait, as long as it took, for him to ask.
 
-She had had the scene ready on the way up. Potter in bed, looking feeble; Lyra at the foot of it, looking anything but; a bar of chocolate landing on his blankets, with a remark about what people ate after Dementors. Then she would mention, carelessly, that she had spent the afternoon talking to Professor Snape about Sirius Black, and watch his face, and wait, as long as it took, for him to ask.
+The door of the hospital wing stood a little open, and a great deal of noise was coming through it. Potter had visitors.
 
-And the door had been standing open, and there had been a great deal of noise coming through it: one of the Weasley twins saying *a hundred of them, Harry, a hundred*, and Wood, hoarse and earnest, explaining that it wasn’t over yet, and Granger saying he might have been *killed*, did none of them understand that; and over the top of all of it Potter laughing, the ordinary careless laugh she had heard across a hundred classrooms. She had stood outside with the bar in her hand. Then she had turned round and come down again, and she had not known why, and she had been trying ever since to make it into something that sounded like a reason.
+She heard one of the Weasley twins saying something about *a hundred of them, Harry, a hundred*, and Wood’s voice over the top, hoarse and earnest, explaining to nobody in particular that it wasn’t over, that if Slytherin dropped points against Ravenclaw and they beat Hufflepuff by enough—; and somebody, Granger by the sound of it, saying that he might have been killed, did none of them understand that, he might have been *killed*; and then Potter laughing, the ordinary careless laugh she had heard across a hundred classrooms.
 
-Here was the nearest she had got.
+Lyra stopped outside with the bar in her hand and went over it once more.
 
-Potter knew what Black was. He had said it himself in Hogsmeade, *one rat of a traitor*, and on Hallowe’en he had gone looking for him and come back saying he had just missed him. What he did not have was what she had: how it had been done, and that his father had been offered Dumbledore and had chosen his friend instead.
+Potter knew what Black was. He had said it himself in Hogsmeade, *one rat of a traitor*, and on Hallowe’en he had gone looking for him and come back saying he had just missed him.
 
-She tried to imagine his face when he heard that, and could. She had seen it twice already, the cold, quiet face he had turned on her father at the foot of the marble staircase and on her across a library table. It would not be shock, and it would not be grief. He would not stop to ask whether it was true. He never stopped to ask. He had walked into a monster’s lair under the school with a wand and nothing else.
+What he did not have was what she had: how it had been done, and that his father had been offered Dumbledore and had chosen his friend instead. She tried to imagine his face when he heard that, and found that she could.
 
-Tell him, and he would not miss Black again. He would go and find him, on his own, a man who had killed thirteen people with one curse and laughed about it.
+She had seen it twice already, the cold, quiet face he had turned on her father at the foot of the marble staircase and on her across a library table, and she did not think it would be shock and she did not think it would be grief. He would not stop to ask whether it was true. He never stopped to ask.
+
+He had walked into a paddock full of hippogriffs at Hagrid’s first lesson and bowed to the largest of them as though he knew exactly how it would go, and perhaps he had; she had wondered since, more than once, whether he had known how it would go for her as well. He had walked into a monster’s lair under the school with a wand and nothing else.
+
+He hated Black already; anyone would. What she was carrying up the stairs would make it certain, and personal, and Potter had never needed more than that. Tell him, and he would not miss Black again. He would go and find him, on his own, with his wand, a man who had killed thirteen people with one curse and laughed about it, and whom nobody, according to her father, understood at all.
 
 It was nothing to her. If Potter wanted to march off and be murdered, that was entirely his own affair, and she could think of several respects in which it would be very convenient.
 
-And she did not know how much he remembered of the top of the stands, whether he remembered her there at all or only the falling. She remembered her own fist, shut tight round the Snitch, not opening. That, she thought, was probably the real reason, and she did not care for it any more than the other.
+She stood there. Her hand closed on the chocolate and opened and closed again, and the gold paper crackled. She had the absurd idea that it had put on weight on the stairs.
 
-Knowledge was power. She had never once known it let her down. She had more of it now than she had had at breakfast, more than Potter, more than anyone in that noisy room, and all it had bought her was a walk in the wet with a bar of dark chocolate she did not even like.
+Behind the door Potter was still laughing, and she did not know how much he remembered of the top of the stands, whether he remembered her there at all or only the falling. She remembered her own fist, shut tight round the Snitch, not opening. She found she did not want to be standing at the foot of his bed when she found out.
+
+She turned round and went back down the stairs.
+
+Knowledge was power. She had never once known it let her down. She had more of it now than she had had at breakfast, more than Potter, more than anyone in that noisy room behind her, and all it had bought her was the long walk back down three flights of stairs with a bar of dark chocolate she did not even like.
+
+She did not go back to the common room. She went out through the oak doors instead and down across the lawn towards the lake, with her cloak pulled round her, because she wanted to think and could not think with Parkinson’s banner looking at her.
+
+It was nearly dark. Saturday’s storm had blown itself out and left the grounds sodden and the air very cold and still, and mist lay on the water in long flat sheets with the last of the light going out behind it. She walked along the shore path with her head down and argued with herself, and lost, and started again.
 
 She had been walking for some time before she felt she was being watched.
 
@@ -230,15 +250,17 @@ Then the dog shifted its feet, and she saw it properly, and lowered the wand.
 
 “It is a *dog*,” she informed herself aloud. “Trelawney would be thrilled.”
 
-It was enormous, nearly the size of a pony, and so thin that it was hard to be frightened of it; she could count its ribs from where she stood, and its coat hung off it in matted ropes. Even Lyra, whose experience of animals ran mostly to peacocks, could see that it had not eaten properly in weeks.
+It was certainly that. It was enormous, nearly the size of a pony, and so thin that it was hard to be frightened of it; she could count its ribs from where she stood, and its coat hung off it in matted ropes. Even Lyra, whose experience of animals ran mostly to peacocks, could see that it had not eaten properly in weeks.
 
-A big black dog. It came back to her all at once, and so clearly that she could have smelled the Chocolate Frogs: Potter on the train in September, with one trainer up on the seat opposite. *If a big black dog turns up, be nice to it. Feed it something. It’ll be starving.*
+She flapped the chocolate at it. “Shoo. Go away. You smell like a wet rug.”
 
-She had taken it for one of his jokes. Lyra looked at the dog, and at the chocolate in her hand, and then, for a long moment, up at the lit windows of the castle, where Potter was presumably still laughing.
+The dog did not shoo. Its eyes had gone from her face to the gold paper in her hand and followed it when she flapped it, left and right, and behind it its tail began, very slowly, to thump against the wet bracken.
 
-How could he possibly have known?
+“It isn’t for you,” said Lyra.
 
-There was one way to find out whether he had. She tore back the paper and broke off a large square, and then stopped with her arm drawn back to throw. Somebody had once told her something about dogs and chocolate. She could not for the life of her remember what.
+It was not for anybody, now. She looked down at it. She had carried it up three flights of stairs for somebody who did not need it, and here was something that very plainly did, and it seemed a waste to carry it all the way back down to the dungeons.
+
+She tore back the paper and broke off a large square, and then stopped with her arm drawn back to throw. Somebody had once told her something about dogs and chocolate. She could not for the life of her remember what.
 
 The dog barked, once, sharply, in a tone that suggested it had been kept waiting quite long enough.
 
@@ -246,6 +268,8 @@ The dog barked, once, sharply, in a tone that suggested it had been kept waiting
 
 The dog took it out of the air and it was gone in one swallow, and then it stood licking its chops and looking at her with such frank and hopeful greed that she very nearly laughed. Whatever chocolate did to dogs, starving was plainly doing it faster.
 
-So it was starving. Potter had been right about that much. She bent and laid the rest of the slab, paper and all, on a flat stone at the side of the path, and stepped back, and then further back, to see what it would do.
+She looked at it a little longer. Then she bent and laid the rest of the slab, paper and all, on a flat stone at the side of the path, and stepped back.
 
-It did nothing. She was halfway back up the lawn before she turned round to look, and it had still not touched the chocolate. It was standing over it at the edge of the water, a black shape against the mist, with its head up, and it was watching her.
+She was halfway back up the lawn, with the lit windows of the castle ahead of her, when it came back to her: Potter, on the train in September, unwrapping a Chocolate Frog that nobody had offered him. *If a big black dog turns up, be nice to it. Feed it something. It’ll be starving.* She had taken it for one of his jokes. She stopped on the wet grass and looked back.
+
+The dog had not touched the chocolate. It was standing over it at the edge of the water, a black shape against the mist, with its head up, and it was watching her.

@@ -10,7 +10,7 @@
   - Hubo una comparativa a ciegas (publicada contra nueva y luego contra revisada) con el criterio del autor de que Lyra no sea Mary Sue.
   - Base revisada: 4, 5, 8, 10, 11, 13, 18, 19, 20, 21 y 22. Base nueva: 1, 2, 3, 14, 23 y los *Year One* 1 y 2. En los dos casos se injerta lo que digan las listas de fusión de los tres informes de esa carpeta.
   - Después: citas cruzadas, revisión final con un Opus nuevo, manuales, y el autor publica.
-  - Paso actual: **1 (restaurar el revisado)**. Aún no se ha tocado ningún capítulo.
+  - Paso actual: **2, bloque A**. El paso 1 (revisado restaurado en los 11 capítulos) está hecho y commiteado.
   - Plan del 24 al 30 (`plan-24-30.md`): en pausa hasta que acabe la fusión. El autor no ha decidido los hilos H1-H3 y falta el coreano 36.
 
 - **Nuevo frente (15 de octubre): cotejo con la traducción inglesa oficial.** El autor ha descubierto que el original coreano tiene versión inglesa oficial y quiere que el fic deje de parafrasearlo tan de cerca, sin tocar la historia. Ya hecho:
