@@ -104,7 +104,7 @@ And there was another consideration, which she turned over as they went down the
 
 Whereas a boy nobody knew was in Hogsmeade, keeping out of sight in a crowded village full of witches and wizards, might very well be safer than a boy everyone knew was sitting on his own in an empty tower.
 
-It was a perfectly sensible piece of reasoning, and she did not care at all for the shape of it, so she put it away and informed Crabbe and Goyle that if either of them mentioned that hooligan again before supper, she would leave them in the Shrieking Shack.
+It was a perfectly sensible piece of reasoning, and she did not care for the shape of it, so she put it away and informed Crabbe and Goyle that if either of them mentioned that hooligan again before supper, she would leave them in the Shrieking Shack.
 
 Filch was at the great doors with his list and his lamp-eyed cat, checking every name against it twice, with the slow suspicion of a man who believed that every child in the school was smuggling something. He looked up as Lyra bore down on him, and for a moment all she had to do was open her mouth. She did not. He found her name on the list with a speed that surprised them both.
 
@@ -176,7 +176,7 @@ The sugar quill was still in her pocket. She left it there.
 
 Ten minutes later the common-room door slid open and Professor Snape came in, and the room went quiet without being asked.
 
-Lyra had seen Snape angry a great many times, nearly always at Gryffindors. She had never seen him like this. His face was quite white and quite still, and he did not raise his voice at all, which was worse. Everyone was to come with him to the Great Hall, he said. Now. In what they were wearing. No, Parkinson, not even shoes. Prefects at the back. Nobody was to speak on the stairs.
+Lyra had seen Snape angry a great many times, nearly always at Gryffindors. She had never seen him like this. His face was quite white and quite still, and he did not raise his voice, which was worse. Everyone was to come with him to the Great Hall, he said. Now. In what they were wearing. No, Parkinson, not even shoes. Prefects at the back. Nobody was to speak on the stairs.
 
 Nobody did. They went up through the dungeons in a long silent line, the first-years clutching each other’s sleeves, and as they came out into the entrance hall Lyra saw the Hufflepuffs arriving from the other direction in their dressing gowns, and the Ravenclaws coming down the marble staircase looking frightened, and above all of it, from somewhere high in the castle, a poltergeist was cackling.
 
@@ -194,7 +194,7 @@ Lyra took a sleeping bag near the wall, where she could see the whole room, and 
 
 “Lucky it was during the feast,” said someone near her, a fourth-year from her own House, in the half-whisper people used once the candles had been dimmed. “Everyone was down here. If he’d come in the night—”
 
-Lyra was not at all sure it had been lucky.
+Lyra was not sure it had been lucky.
 
 She lay looking up at the enchanted ceiling, where the clouds had cleared and the stars were out, and went through it as coldly as she knew how. Black had got into Hogwarts.
 
