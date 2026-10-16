@@ -24,39 +24,33 @@ Because in first year, Harry Potter and Lyra Malfoy had been the worst enemies i
 
 ⁂
 
-The Sorting Hat had shouted it out without a pause.
+There was nothing but the black inside of the hat, and it smelled of a very old cupboard, and a small voice in Harry’s ear said, “Hmm.”
 
-“SLYTHERIN!”
+He gripped the edges of the stool.
 
-Lyra Malfoy had walked to the Slytherin table as though there had never been the slightest doubt about it, as though it had all been arranged before she was born, which perhaps it had. She sat down in the middle of the older students like somebody taking her own chair, and Harry, waiting in the line of first-years with his heart going like a rabbit’s, watched her do it and could not look away.
+“Difficult,” said the voice. “Very difficult. Plenty of courage, I see. Not a bad mind. Hard-working, when you’ve a reason to be. Ambition, now—what’s this? You want to look good for a girl?”
 
-He had seen her once before. He had stood on the stool next to hers in a robe shop in Diagon Alley, a month ago, and she had pushed his shoulders back and tipped up his chin and told him to smile like he meant it. She had told him not to lose his dignity, ever, anywhere. He had carried that out of the shop like a present.
+Harry had not known he was thinking it until the hat said it, and then he could not stop.
+
+She had gone up a minute before him. The hat had hardly touched her hair before it shouted SLYTHERIN, and she had walked down to the Slytherin table as though there had never been the slightest doubt about it, as though it had been arranged before she was born, which perhaps it had. She had sat down in the middle of the older students like somebody taking her own chair. Harry, waiting in the line with his heart going like a rabbit’s, had watched her do it and could not look away.
+
+He had seen her once before. He had stood on the stool next to hers in a robe shop in Diagon Alley, a month ago, and she had pushed his shoulders back and tipped up his chin and told him to smile like he meant it, and not to lose his dignity, ever, anywhere. He had carried that out of the shop like a present.
 
 And then on the train she had come along the corridor to his compartment, having heard who he was, and held out her hand, and said things about Ron in front of Ron that Harry would not have said about Dudley. So he had stood up straight, the way she had taught him, and looked her in the eye, and told her he could work out the wrong sort for himself, thanks.
 
-She had not known him. That was the thing he kept coming back to. She had looked straight at him, the boy from the robe shop, and had not known him from Adam. He had been right, then, when he thought she would forget him before she reached the corner.
+She had not known him. That was the thing he kept coming back to. She had looked straight at him, the boy from the robe shop, and had not known him from Adam.
 
-He wondered whether he could be in Slytherin too.
+“Small,” said the hat thoughtfully. “But very human. Now where shall I put you?”
 
-She had said only the best people went to Slytherin. Harry did not feel like one of the best people. And there was the other thing, which Hagrid had told him in Diagon Alley and which he could not get out of his head: that You-Know-Who had been in Slytherin. It did not matter, Hagrid said, what House a person had been in. But Voldemort had killed his mother and father, and Harry did not want to be near him in any way, even that one.
+*Next to her*, Harry thought, before he could stop himself. *It would be nice to be next to her.*
 
-“Potter, Harry!”
-
-The Hall changed when he walked out. All along the tables people were whispering.
-
-“*Potter*, did she say?”
-
-“*The* Harry Potter?”
-
-Harry hardly heard them. He did not notice the necks craning to see his forehead. He was still thinking when the hat came down over his eyes and there was nothing but the black inside of it.
-
-“Hmm,” said a small voice in his ear. “Difficult. Very difficult. Plenty of courage, I see. Not a bad mind. Hard-working, when you’ve a reason to be. Ambition—what’s this? You want to look good for a girl? Small. But very human. Now where shall I put you?”
-
-Harry gripped the edges of the stool. *Next to her*, he thought. *It would be nice to be next to her.*
+There was a pause in his ear.
 
 “Slytherin? For one girl?” The voice dropped. “My young friend, a House is no small thing. It may change the whole course of your life. First loves go down like the sun, sooner or later; but the House you came from will follow you about for the rest of your days.”
 
-*I don’t care*, Harry thought. *I’ll decide what happens to me. I only want to be good enough to stand next to her.*
+She had said only the best people went to Slytherin. Harry did not feel like one of the best people. And Hagrid had told him, in Diagon Alley, that You-Know-Who had been in Slytherin. It didn’t matter, Hagrid said, what House a person had been in. But Voldemort had killed his mother and father, and Harry did not want to be near him in any way, even that one.
+
+*I don’t care*, he thought anyway. *I’ll decide what happens to me. I only want to be good enough to stand next to her.*
 
 “Hmm. Slytherin would help you on the way to greatness, no doubt about that. But that isn’t what you’re after, is it? Well then, my greedy, reckless friend. You had better fight for it—in GRYFFINDOR!”
 
@@ -68,37 +62,39 @@ Somewhere behind him, somebody clicked her tongue.
 
 ⁂
 
-There was one thing Harry found out in his first few weeks at Hogwarts, and it was that Lyra Malfoy was—to put it kindly—very frank.
+There was one thing Harry found out in his first few weeks at Hogwarts, and it was that Lyra Malfoy said exactly what she thought, to whoever happened to be standing nearest, and that she thought a great many things.
 
-“Stupid Gryffindors,” she said, in the corridor outside Charms, to nobody in particular and everybody in earshot. “Always first in, without the faintest idea what they’re doing. Why do people insist on calling stupidity bravery? It only gets more people killed. Oh—unless that’s the point. Tidying the useless ones away first, to clean up the world.”
+He found it out properly on a Tuesday, in the queue outside Charms, when a Hufflepuff boy dropped his books in front of her and said sorry.
 
-“Poor slow Hufflepuffs,” she said, to a table of them in the Great Hall. “I can’t even be cross with you. Even the Hat could see you were the leftovers. But you might get out of my sight before I notice you, mightn’t you? Surely even you can manage that much.”
+“Don’t,” said Malfoy, stepping over them. “It isn’t your fault. The Hat could see you were the leftovers; it’s hardly fair to expect you to carry things as well.” She looked back at him over her shoulder, quite kindly. “You might try getting out of my way before I notice you, though. Surely even a Hufflepuff can manage that.”
 
-To put it less kindly, she was horrible. She said things that went into people and stayed there, and when anything annoyed her she simply got out her wand.
+The Hufflepuff went red to the hair. Some of the Slytherins laughed. Harry, three people back, did not.
 
-She had a face like a painted doll and a temper like the other place. She was proud and overbearing and absolutely certain that she was better than everybody else. The worst of it was that she seemed to be right. She and the other children from old wizarding families had grown up knowing things that the rest of them had never heard of, and they did well in lessons because of it; and they knew a few curses that the school would never have taught them, which meant that ordinary first-years did not dare stand up to Malfoy and her friends.
+She was like that with everybody who was not in Slytherin and a good many who were. She said things that went into people and stayed there, and when anything annoyed her she simply got out her wand. She was proud and overbearing and absolutely certain that she was better than everybody else, and the worst of it was that she seemed to be right. She and the other children from old wizarding families had grown up knowing things the rest of them had never heard of, and they did well in lessons because of it; and they knew a few curses the school would never have taught them, which meant that ordinary first-years did not dare stand up to Malfoy and her friends.
 
 *She’s worse than Dudley*, Harry thought, and was startled by it. He had not imagined there was anybody worse than Dudley in the world. Least of all one of the first people in that world who had ever told him she liked him.
 
-“They’re getting worse,” Hermione Granger said, at breakfast. “Yesterday they went for Neville’s toad.”
+Then, one morning in the Entrance Hall, Neville Longbottom’s toad came hopping out from under a bench, and it was orange.
 
-“Yeah,” said Harry. “I saw.”
+Neville went after it with a wail. Hermione Granger got there first, and scooped Trevor up, and pointed her wand at him and said something under her breath, and Trevor went back to being the colour of a toad. Then she turned on the knot of Slytherins by the stairs with Trevor held against her chest like evidence.
 
-Hermione said it as if it were Harry’s fault, and he found that it felt like it. It was a horrible thing, not being able to stick up for somebody you liked.
+“Which one of you did that?”
 
-“Do you know what she said, when I turned Trevor back to his proper colour? She said she didn’t like the look of him, so what was wrong with changing him? As if she can just change anything she doesn’t like! How can anybody be so *selfish?*”
+“I did,” said Malfoy, who was buttoning her gloves. She did not even look round. “I didn’t like the look of him, so I changed him. What’s wrong with that?”
 
-Had the Hat known? Was that why it had kept him out of Slytherin?
+“What’s *wrong*—he’s not *yours!* You can’t just change things because you don’t like them!”
 
-If she didn’t like something, she changed it.
+“Why not?” said Malfoy, and finished the last button, and went out into the grounds.
 
-Harry sat very still over his porridge.
+Harry stood very still at the foot of the stairs.
+
+*If you don’t like something, change it.*
 
 Why had he never thought of that?
 
 He still liked Lyra Malfoy. But if things went on like this he thought he might end up disliking her even more than Dudley, and he did not want to dislike her. She was generous to people she approved of, and gave them things. Meeting her had made him stand up straight. It was only when she laughed while she was hurting somebody that she reminded him of Dudley, and however soppy he was about her, he could not make that all right.
 
-So.
+Had the Hat known? Was that why it had kept him out of Slytherin?
 
 *If I don’t like something*, Harry thought, *I can change it.*
 
@@ -136,7 +132,7 @@ Everybody stopped talking and looked at him. Malfoy turned round with her eyebro
 
 Until then Harry Potter had been a quiet boy who did his homework and kept out of Malfoy’s way, and watched her with a long face when she was vile to somebody. Both Houses stared at him.
 
-“Keep your dignity, Malfoy,” said Harry. “Don’t make me any more disappointed in you.”
+“Keep your dignity, Malfoy,” said Harry. “I thought you were better than this.”
 
 She did not know where he had got it from. He could see that she did not.
 
