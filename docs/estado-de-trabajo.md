@@ -2,7 +2,7 @@
 
 **Léelo lo primero** al abrir sesión o tras compactar. Se actualiza en cada paso (escena escrita, crítica aplicada, capítulo cerrado) y va en el mismo commit que el paso.
 
-Última actualización: 15 de octubre de 2026.
+Última actualización: 16 de octubre de 2026.
 
 ## Ahora mismo
 
@@ -39,6 +39,11 @@
   - **Revisor de conjunto en marcha** (Opus, el que lo lee todo: lo publicado de 888ff27, los diffs y los futuros). Escribe `registro-publicado.md` y `revision-conjunto-clases.md` en `docs/notas/cotejo-oficial/`. Si se compacta, sus archivos bastan para seguir.
   - **Orden después:** cotejo del 22 y el 23 (con los arreglos del crítico, solo A y B), *Year One* 1 y 2 (solo A y B); densidad y tics del 1 al 14 (A), el Patronus del 10 (devolver una imagen sin perro) y el gesto de Harry en el 14 (B); el veredicto de lo publicado (GUIA §8); del 24 al 30 con cirugía mínima y semillas; el informe de vuelta al crítico.
   - **16 de octubre, hecho:** revisión de conjunto terminada (`registro-publicado.md`, `revision-conjunto-clases.md`) y sus arreglos aplicados (e9037e9); veredicto en `veredicto-publicado.md`. Densidad (clase A, mismas palabras) en el 4, 8, 9, 10 y 12; gesto de Harry en el 14 (B). Cotejo del 22 (43c484d) y del 23 (9e271c2) con el coreano, solo A y B. Revisión del 22 y el 23 y sus arreglos, aplicados (35a838e, 94ffaea); densidad también en el 1, 2, 7 y 11. **Lo publicado está listo: el autor puede subir el 1-21 a Wattpad y el 1-23 a Webnovel** (veredicto). **Siguiente:** *Year One* 1 y 2 (solo A y B); del 24 al 30 con cirugía mínima y semillas; informe de vuelta al crítico.
+  - **16 de octubre, nuevo encargo del autor: cambiar los beats, no solo las frases** (que el lector adelantado siga la misma historia, pero que el nuevo tenga otra experiencia). Hecho, cada uno con revisión de Opus (sin C ni D, «mejor que antes») y sus arreglos:
+    - el 1 (eee1bdc y siguiente), el 2 (03c9526, f550c81) y el 3 (4fa0bed, 07890e4), con manuales;
+    - *Year One* 1 (3e726ab, aeea8be) y 2 (08a6d69, 1740acd), con manuales. Webnovel tiene publicadas las versiones viejas; las nuevas solo cambian A y B.
+    - Ranking de calco de estructura del 4 al 23: `docs/notas/cotejo-oficial/calco-estructura.md` (tabla arriba, palancas por escena). **Siguiente:** rehacer los beats de los más calcados, uno a uno y con revisión de Opus: 5, 10, 11, 13, 14, 18, 19, 20 y 21 (los cuatro últimos van atados: bucle temporal), luego el 22, el 4, el 8 y el 23. Después, el plan de divergencias del 24 al 30 para que lo apruebe el autor.
+    - Copias de antes en el scratchpad (`*-antes-beats.md`, `*-antes-revision.md`).
   - Lectura hecha tras esta compactación: el estado, `GUIA.md`, `caps-02-11.md`, `caps-13-19.md` y `caps-19-21.md`, el handoff entero, todos los manuales (del 1 al 30 y *Year One* 1 a 4) y la continuidad transversal.
 - **Capítulo 29, *Every Ounce*** (coreano 32), **cerrado**: `borradores/cap-29-every-ounce.md` (~4.300 palabras). Lo que está hecho:
   - ficha aprobada por el autor;

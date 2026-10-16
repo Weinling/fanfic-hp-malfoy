@@ -8,7 +8,38 @@
 
 ## Tabla resumen (de más calcado a menos)
 
-*(Se rellena al final.)*
+| Capítulo (original) | Nota | Escenas más calcadas |
+|---|---|---|
+| 5 *Manners* (ko-05) | 9,5 | El libro y Parkinson; la demostración con el hipogrifo; la enfermería |
+| 19 *Shut Up, Malfoy* (ko-16 + ko-17) | 9,5 | La discusión y el beso; el despacho de Lupin; la trampa y Weasley |
+| 21 *Coincidence* (ko-20 + ½ ko-21) | 9,5 | El anillo y el corazón; la persecución guiada; el arranque con el giratiempo |
+| 22 *A Professional Relationship* (½ ko-21 + ko-22) | 9,5 | Pettigrew en la orilla; Dumbledore en el pasillo; los patronus |
+| 10 *No Excuses* (ko-09) | 9 | El clímax con los Dementores; el tiempo muerto; la alineación |
+| 11 *Results* (ko-10) | 9 | El despacho de Snape; la puerta de la enfermería; el perro |
+| 13 *A Prior Engagement* (ko-11) | 9 | El encuentro en la Casa de los Gritos; la revelación de Sirius; la sala común |
+| 14 *Hands Off* (ko-12) | 9 | La ruptura; la explicación del Guardián; la riña con Black y el chocolate |
+| 18 *Fair Play* (ko-15) | 9 | El partido contra Hufflepuff; la escalera y el pañuelo; los anillos |
+| 20 *Which Way to Look* (ko-19) | 9 | La orilla del lago; Pettigrew y Snape; el anillo y el despacho |
+| 4 *Riddikulus* (ko-04) | 8,5 | La conversación con Lupin; la clase del boggart; el doble *Riddikulus* |
+| 8 *Hogsmeade* (ko-07) | 8,5 | La discusión del pasillo; la noche en el Gran Comedor; la tarde en el pueblo |
+| 23 *Nine o’Clock* (ko-23) | 8,5 | La final y el anillo; el partido Gryffindor–Hufflepuff; la carta y la Firebolt |
+| 9 *Two Versions* (ko-08) | 8 | La charla del equipo; la carta con el mensaje oculto; el flashback del partido |
+| 16 *How to Stop Smiling* (final ko-12 + ko-13) | 8 | El flashback de Madam Malkin’s; la conversación con Sirius |
+| *Year One* 1 *The Remembrall* (ko-18) | 8 | La clase de vuelo; el Sombrero |
+| 17 *The Face for It* (ko-14) | 7,5 | La cena y la persecución al baño; Draco y el juramento; Pociones y Encantamientos |
+| *Year One* 2 *Nobody Asked You for Christmas* (ko-24) | 7,5 | La escena del abeto; Crabbe y el recuerdo |
+| 6 *Right Hand* (ko-06) | 7 | La antesala de Pociones; la poción y el trato; la venda |
+
+**Lo que se repite en todo el lote.**
+
+- **Lo nuestro es interior, no estructural.** Casi todo lo que añadimos (el beso del tren rumiado, la pluma de azúcar, las dos versiones de Regulus, la poción estropeada, la culpa de Lyra, Crabbe) entra en los huecos del esqueleto sin mover su orden. Por eso capítulos con frases muy propias sacan un 9.
+- **Lyra reacciona; el original manda.** En casi todas las escenas calcadas, el que inicia es otro (Lupin la retiene, Snape la cita, Harry la encuentra, Diggory la marca, Harry le explica) y Lyra responde. La palanca que más rinde es casi siempre la misma: que Lyra llegue con algo (una oferta, una deuda que cobrar, una teoría que comprobar, una pista vista con sus ojos) y que la escena salga de eso.
+- **Las revelaciones van donde las pone el original.** Varias escenas se desmontan solo con mover un descubrimiento: que Lyra vea las huellas en la nieve (13), el anillo en la mano de Harry (21), el dedo que le falta a la rata (19), la cara de Harry antes de deducir al cómplice (8).
+- **Arranques y cierres.** Muchos capítulos empiezan y acaban donde el coreano. Abrir *in medias res* (el 20 en el anillo rojo, el 21 ya en el pasado, el 23 con las lechuzas) y contar lo anterior en dos líneas es la palanca más barata.
+
+**Ataduras entre capítulos (para no romper nada).** El 19, el 20, el 21 y el 22 forman un bucle temporal: el 21 vuelve a mirar desde fuera el despacho de Lupin y la discusión del 19 (con el Harry del futuro guiando la persecución), y el 22 vuelve a mirar la llegada al lago del 20 y se lleva a Pettigrew mientras la comitiva de Snape se aleja. Todo lo que se toque en el 19 o el 20 hay que tocarlo en el 21 o el 22 en el mismo paso. Las palancas propuestas están pensadas para respetarlo; donde no basta, se avisa en el detalle.
+
+**Prioridad sugerida.** Si se rehace por orden de calco y de exposición: primero los publicados en Wattpad con 9 o más (5, 10, 11, 13, 14, 18, 19, 20, 21); luego el 22 (solo Webnovel, igual de calcado); después el 4, el 8 y el 23.
 
 ---
 
@@ -586,6 +617,92 @@
 - **Pettigrew en la orilla (beats 5-11).** Es la escena más larga calcada de todo el lote, y Lyra solo mira. *Palanca: contarla desde la reacción de Lyra y cortarla.* Que la confesión de Pettigrew llegue en fragmentos, lo que Lyra oye mientras se le hiela la sangre con lo del neutralizador; que el lloriqueo sobre James y Lily se resuma en dos frases; y que, al oír «a few drops of neutraliser», sea Lyra la que se lance a bajar y Harry quien le sujete la muñeca (al revés que en el 21, donde él quería salir y ella le sujetaba). Ese gesto da a Lyra un movimiento propio en una escena que no es suya, y deja preparado el cierre («She had not told him everything either»). Se mantienen «I *was* Scabbers», «*PETER!*», «Have him for your packed lunch!», la cara de Potter y «Coward».
 - **Dumbledore en el pasillo (beats 17-21).** Mismo orden: «Peter, at last» → deducción del giratiempo → deducción de Snape → «¿cómo te llamo?» → «Miss Malfoy» → «good friend» → «no puedes contárselo todo». *Palanca: que Lyra se adelante a la deducción.* Cuando Dumbledore empieza a razonar por qué Severus trae vivo a Sirius, que Lyra le corte: «It was me, sir. The earlier me. I lied to him.» Lo dice por orgullo (no va a dejar que le adivinen lo que ha hecho ella) y a la vez con miedo. Así el «What would you like me to call you?» llega como respuesta a esa confesión, y el «Miss Malfoy, please, sir. It’s a professional relationship» queda como su forma de retirarse a tiempo. También se puede dar a Lyra la idea de llevar a Pettigrew al despacho (es ella la que mira el mapa).
 - **Los patronus (beats 12-13).** Es pantallazo; el registro protege la mano tendida, el zorro, «I *know*… I was only practising» y el zorro pequeño que hace carantoñas. *Palanca mínima: quién marca el momento.* Que sea Lyra quien diga «Now» (ella vio desde la escalinata el destello que tiene que salir de aquí, y sabe que si tarda más no llegará a verlo), y que el «Are you all right?» venga después del «Now», como algo que se le escapa. La mano tendida y todo lo demás, igual.
+
+---
+
+### Cap. 23 — *Nine o’Clock* (coreano 23)
+
+**Beats del original → nuestro**
+
+1. `+` Lupin falta una semana; el chocolate negro en su puerta; «It was a receipt, not a payment»; Snape ya no dice *Faultless*.
+2. `=` Pettigrew vivo y Sirius inocente, pero no se publica; el Ministerio no quiere admitirlo; retira a los Dementores y a los aurores; búsqueda «suspendida»; algunos ven la mano de Dumbledore.
+3. `=` Carta de Lucius: se acabó la caza de Black, algo no le gusta, Dumbledore; «tú ya te habrás apartado»; un regalo, de Navidad atrasada; «no te deprimas por el Quidditch: aplástalos». (+ la madre y la carta debida; Lyra nota que su padre sabe dónde ha estado.)
+4. `=` La Firebolt: lo mejor que hay, precio «a consultar», más cara que las siete Nimbus; el padre cree que estaba triste por Diggory; en realidad era Potter y Black, ya resuelto; no le corrige; le escribe para dar las gracias.
+5. `=` Gran Comedor: Slytherin se arremolina; Flint de dragón guardián («Parkinson, no la toques»); Parkinson: «Chang vuela en una Comet»; ella deja tocar; Flint: «lavaos las manos»; ella se crece; el dinero también es talento.
+6. `=` «¿Es una Firebolt?»: Harry salta a la mesa → Flint: «tú no» → «ya nos ganasteis» → Flint mira a Lyra (su buscadora estuvo mal por él) → «déjale» → Parkinson le corta el paso, Harry le pone la zancadilla → «preciosa» → «lástima no tenerla en noviembre» → «tu Nimbus era poca cosa para ti; esta sí» → «si lo pides con educación, te dejo montar» → «qué honor; no hace falta» → se va (palmada a Parkinson, mano ante Flint) → desde lejos: «Practise hard» → «practica tú».
+7. `=` Goyle: «¿cuándo han hecho las paces?» → Crabbe: «hice de Cupido / pájaro azul» → se acercan a sonsacarle. (+ «You asked me once whether I was in trouble».)
+8. `=` Ravenclaw: plan elaborado, 20-90 abajo; Lyra deja de esperar a los puntos; Chang, débil; la adelanta y coge la Snitch; Chang llora; «solo que era yo»; heroína; podría conjurar un patronus sola.
+9. `=` Final Gryffindor–Hufflepuff; la aritmética (más de 200 / menos / Hufflepuff); banderines rojo y amarillo; «si no fuera por los puntos…»; Crabbe y Goyle deliberan.
+10. `≈` Los buscadores: «Hola, Cedric» → «mucha suerte» → Harry sin sonreír: «buen truco el de hablar con el buscador; voy a probarlo» → «¿Malfoy?» → «exacto; demos un paseo» → silbato; los dos caminan con la escoba al hombro; los equipos se pasman. (Oficial: se oye la conversación entera, en la que Harry reprocha a Cedric y Cedric se queja de cómo trataba Lyra a los Hufflepuff; nuestro: nadie la oye, solo se ven las caras.)
+11. `=` Dos horas; Harry no busca: vuela en cuña con los gemelos, finta para enredar a Cedric y a los golpeadores, Fred le lanza bludgers, Cedric pierde la Snitch cinco veces; Hufflepuff protege a Cedric y descuida la quaffle; Harry abre huecos, para un pase con el pecho; casi 150 arriba; Cedric cambia; remontan a 60; Harry coge la Snitch. 370-160, Gryffindor gana la Copa.
+12. `=` Slytherin pierde por diez puntos; a Lyra, en el fondo, le hace gracia ver a Cedric sufrir (fue por lo de enero).
+13. `=` En el suelo, Cedric: «derrota total; así se hacía» → Harry le tiende la mano y la suelta → «esto es por Lyra; ¿por qué la tocaste?» → «eres más fiel de lo que pareces» → se dan la mano. (Nuestro: Lyra lo sabe por Goyle.)
+14. `=` Lyra baja con el pañuelo lavado, no a felicitarle sino a decirle que el año que viene no; oye «no salgo con Lyra / no estamos saliendo» → es verdad, nada dicho → pero el bosque, los patronus… → «que piense lo que quiera» → se va; él la llama; finge no oír.
+15. `=` En el camino al castillo, Harry sale de detrás de una columna → «¿qué hace aquí el héroe?» → «Lyra» → «qué» → «perdón» → «¿por qué?» → «hago algo peligroso; impedir que vuelva» → ella ya lo sabía y lo respetó → «si se sabe lo que siento es peligroso; oficialmente no; sobre todo el año que viene, con otras escuelas».
+16. `=` Ella, harta de que la aparten igual dos veces, va a decirle cuatro cosas → el anillo se lo traga todo: «cada noche a las nueve me lo pondré y sonreiré» → se lo pone en el anular → «ojalá hagas lo mismo».
+17. `=` Declaración ridícula; ella rechazaría a cualquiera, Potter incluido → «¿crees que me derretiré por un anillo? un chico con tanto equipaje, lo último que quiero» → se aparta el pelo con la mano del anillo → «no esperaré mucho; arréglalo pronto» → se va con el anillo puesto.
+
+**Nota: 8,5.** El esqueleto es el del coreano de cabo a rabo (noticia, carta, Firebolt, Gran Comedor, Cupido, Ravenclaw, aritmética, paseo de los buscadores, partido, mano soltada, «no salgo con Lyra», claustro, anillo a las nueve). Bajamos medio punto porque lo nuestro aquí sí cambia el modo de dos escenas: el paseo de los buscadores se ve sin oírse, y el «That’s from Lyra» llega de segunda mano; además, el chocolate a Lupin, la mirada de Snape y la conversación con Crabbe son hilos propios.
+
+**Escenas más calcadas y cómo darles otra forma**
+
+- **La final y el anillo (beats 14-17).** El orden «baja con el pañuelo → oye “no salgo con Lyra” → se va dolida → él la alcanza → perdón → peligro → otras escuelas → ella va a rechazarle → el anillo → “no esperaré mucho”» es el del coreano. *Palanca: que Lyra se adelante al rechazo.* En el claustro, que hable ella primero y le quite la frase: «I heard. We’re not going out. Quite right; I should never have allowed it», antes de que él diga «Sorry». Él intenta explicarse (el peligro, las otras escuelas) contra una puerta que ella ya ha cerrado, y el anillo llega como lo único que puede abrirla. El «Hmph. Do you imagine…», «luggage» y «Sort it out quickly» se quedan detrás del anillo, como ahora, pero la escena ya no es él aplicándole su plan, sino él recuperando terreno que ella le ha quitado.
+- **El partido Gryffindor–Hufflepuff (beats 10-13).** La crónica (cuña con los gemelos, finta, cinco Snitch perdidas, huecos, pase parado con el pecho, 150, 60) sigue la del coreano. *Palanca: que Lyra lo descubra con la aritmética.* Lyra es la única del estadio que lleva la cuenta en serio (es su Copa). Que vaya viendo, banderín en mano, que Potter no busca la Snitch porque está construyendo un marcador, y que lo entienda un segundo antes de que él suba: va a coger la Snitch con la diferencia exacta que le da la Copa (más de 200). El partido se cuenta por números que ella calcula, no por jugadas, y la frase de Goyle sobre la mano soltada puede quedarse como está.
+- **La noticia, la carta y la Firebolt (beats 2-6).** El coreano abre con el resumen del Ministerio y luego la carta; el nuestro también, aunque con el chocolate de Lupin delante. *Palanca: que la noticia llegue por la carta.* Abrir con las seis lechuzas y el paquete en el Gran Comedor, y que el silencio del Ministerio, los Dementores retirados y la búsqueda suspendida se cuenten a través de la carta de Lucius y de lo que Lyra lee entre líneas («A clever girl like you will already have stepped back…»). El chocolate a Lupin puede ir después, como escena breve de transición antes de Ravenclaw.
+
+---
+
+### *Year One* 1 — *The Remembrall* (coreano 18; POV Harry)
+
+**Beats del original → nuestro**
+
+1. `+` Marco: las nueve y pico; Ron: «So you’re going out with her… At last»; el anillo; «Put it in the *Prophet*»; en primero eran los peores enemigos.
+2. `≈` Selección: el Sombrero grita «¡Slytherin!» para ella y se sienta como en su silla; Harry la mira embobado; duda (no es noble; Voldemort era de Slytherin). (Oficial: en orden, ella y luego él; nuestro: lo de ella se recuerda desde dentro del sombrero.)
+3. `+` La tienda de túnicas y el tren: ella no le reconoció.
+4. `=` El Sombrero: valiente, con talento, trabajador, ambición… «¿quieres quedar bien con una chica? pequeño, pero muy humano» → «a su lado» → «¿Slytherin por una chica? el primer amor se pone como el sol; la casa te sigue toda la vida» → «decido yo; solo quiero estar a su altura» → «Slytherin te haría grande, pero no es lo que buscas; amigo codicioso y temerario, lucha por ello: ¡GRYFFINDOR!» → un poco triste; ella chasquea la lengua.
+5. `≈` Lyra en primero: dice lo que piensa a cualquiera (oficial: tres insultos, uno por casa; nuestro: uno solo, al Hufflepuff de la cola de Encantamientos); orgullosa, saca la varita; los sangre limpia saben más y conocen maldiciones; «peor que Dudley».
+6. `≈` El sapo de Neville: (oficial: Hermione lo cuenta; nuestro: la escena en el vestíbulo) → «si no me gusta, lo cambio» → la revelación de Harry: «si algo no me gusta, puedo cambiarlo»; ¿lo sabía el Sombrero?; «lucha por ello».
+7. `=` Primera clase de vuelo: Neville se lanza antes, se rompe la muñeca; Hooch amenaza y se lo lleva; Lyra se ríe; Parvati: «cállate»; «no sabe volar ni hacer nada; ni Hufflepuff le quiere» → la recordadora en la hierba.
+8. `=` «Dámela, es de Neville» → todos le miran → «la dejaré en un árbol» → «¿robar y esconder como una urraca es tu dignidad?» → «mantén la dignidad; no me decepciones más» → «¿quién eres tú para decepcionarte?» → sube al roble → «¡ven a por ella!».
+9. `=` Harry decide no odiarla y que pare; barbilla arriba y sonrisa (como le enseñaron) → «vuelas muy bien, como una urraca» → coge la escoba → Hermione: «¡nos castigarán!» → «perdón a todos, decid que fui yo» → vuela por primera vez, sin miedo.
+10. `=` «Dámela» → «oblígame» → «no quiero tocarte, podrías caerte» → suelta las manos → vítores, Slytherin inquieto → «deja de hacer el tonto, baja» → ella gira, él la corta → ella va a lanzarla → él le coge la muñeca, la bola cae, la coge con la otra mano: «Got it».
+11. `=` Ella, humillada, se suelta de un tirón y olvida que no sabe volar sin manos → cae → Crabbe y Goyle gritan → él tira la recordadora y se lanza → ella le tiende la mano → él se ríe (es una niña como él) → «¡agárrate!» → la escoba del colegio cruje → la abraza → cae de espaldas y se despelleja.
+12. `=` «¡Suelta!» → «¡me has dejado caer!» → le ve hecho polvo → «Potter, ¿estás… bien?» → Ron y Hermione → «a la enfermería» → «espera» → camina hasta ella → «¿no tienes algo que decir?» → «G…/Th…» → «¿crees que te voy a dar las gracias? si no te hubieras metido…».
+13. `=` Todos la miran mal; hasta un Slytherin: «eso no»; Harry se ríe: su boca no es sincera, el resto de ella no sabe mentir → «pídele perdón a Neville, has roto su recordadora» → «¡la tiraste tú!» → «¿eso importa ahora?» → «¿te preocupas por mí?» → «¡vete!» → «¿adónde?» → «¡a la enfermería!» → «no sé dónde está» → «¡idiota! yo te llevo…» → llega McGonagall; ella se aparta.
+14. `=` Al día siguiente, tres recordadoras anónimas para Neville; Harry la mira y sonríe; ella se gira.
+15. `+` Buscador por «coger una recordadora en un picado»; nadie cuenta la caída de Lyra; ella lo calla hasta que «might as well never have happened»; él vuela sin manos para fastidiarla.
+
+**Nota: 8.** El marco de las nueve, el recuerdo del tren y la coda (lo que la escuela no cuenta) son nuestros y cambian cómo se lee el capítulo. Pero las dos escenas centrales, el Sombrero y la clase de vuelo, siguen el coreano momento a momento, y la clase de vuelo, que es dos tercios del texto, es un calco del orden y del modo de cada golpe hasta el «Idiot! *Idiot!*… I’ll take you—».
+
+**Escenas más calcadas y cómo darles otra forma**
+
+- **La clase de vuelo (beats 7-13).** *Palanca: que el marco hable.* El capítulo abre con Ron a las nueve y luego se olvida de él. Ron estaba en el prado (fue él quien levantó a Harry), así que conoce los hechos; lo que no sabe es el porqué. Que la clase de vuelo sea lo que Harry le cuenta esa noche, no como crónica sino como confesión del motivo: no subió por Neville, subió por ella, para cambiarla. Bastan tres o cuatro interrupciones de Ron («You did that for *her*?», «I thought you were being a hero for Neville», «And then you made me tell Seamus to keep his mouth shut») para que la escena cambie de ángulo, y para que la coda («Nobody told the other part») sea la razón de contarla ahora. Los golpes y las frases del registro («Keep your dignity, Malfoy…», «I don’t want to touch you. You might fall», «Got it», «*Grab it!*», «Do you think I’m going to say *thank you?*», «I don’t know where the hospital wing is yet») se quedan.
+- **El Sombrero (beats 2-4).** Ya está movido (lo de ella se recuerda dentro del sombrero) y tiene el tren añadido, pero la conversación con el Sombrero es la del coreano frase a frase. *Palanca: que lo cuente Harry a Ron, en el marco.* Que Ron pregunte algo («What did the Hat say to you, anyway? You were up there ages») y Harry se lo resuma con media vergüenza, dejando que el Sombrero hable solo en las dos frases del registro («You want to look good for a girl?…», «First loves go down like the sun…», «my greedy, reckless friend…»). La reacción de Ron («You nearly went to *Slytherin*? For *Malfoy*?») cambia el tono de la escena sin tocar un hecho.
+
+---
+
+### *Year One* 2 — *Nobody Asked You for Christmas* (coreano 24; POV Harry y Lyra)
+
+**Beats del original → nuestro**
+
+1. `−` Marco con Ron («¿por fin salís?»; el anillo). (El coreano 24 repite el marco del 18; nosotros lo usamos solo en *Year One* 1.)
+2. `≈` Arranque: (oficial: tras el marco, el capítulo va en orden, Harry primero; nuestro: abre *in medias res* con Lyra huyendo por la nieve: «Harry Potter… How *dare* he»).
+3. `=` Lyra rumia: derrota completa, huyó; él dijo el nombre → «lo pagará» → Goyle: «¿cómo, si vuelve a decir el nombre?» → el tabú del nombre para hijos de mortífagos, casi reverencia → «un ataque imparable que solo puede hacer un niño que no sabe nada» → «solo se atreve por Dumbledore… ah» → plan: ir a por los de alrededor (Weasley, Granger, Longbottom) → Goyle aplaude.
+4. `=` Crabbe calla → «¿qué?» → «sus padres están muertos; ¿no da pena?» → «¿defiendes a Potter?»; el aliado que simpatiza con el enemigo es peligroso; intenta razonar → «lo dijo como si nada» → «qué tontería; no tener padres, vaya cosa». (Nuestro: la escena acaba aquí, y el recuerdo de los ocho años va al final.)
+5. `=` Wood le enseña la Snitch; la coge en menos de cinco minutos; «este año ganamos la Copa»; le gusta volar, y le gustaría ser el héroe y que Malfoy le mirara.
+6. `=` El trol con Ron; la escoba embrujada en el primer partido; coge la Snitch; Gryffindor gana a Slytherin; le aclaman; Lyra, celosa, se vuelve odiosa.
+7. `=` Una semana antes de Navidad, con Hagrid: «¿buscas dinero, Weasley? serías un buen guardabosques» → «una boca menos que alimentar» → Ron va a por ella, Harry le frena: «disfrutará más» → «al menos tienes adónde ir; hay quien no tiene a nadie en Navidad».
+8. `=` Harry da una palmada a Ron y va hacia ella; ella, satisfecha; él sonríe (+ «free») → «Can’t be helped… My mum and dad died stopping Voldemort» → los tres retroceden → «todos deberían estar agradecidos; tú también» → «¿o me odias por acabar con Voldemort?» → ella huye.
+9. `=` Ron: «¡brillante!» → «respondes derecho y sonríes primero, y ganas» → «¿cómo puedes sonreír?» → «¿te acostumbras?» → sala común, Neville le mira como a un héroe → a Harry no le hace gracia: cuando todos odian algo que te gusta, no es divertido.
+10. `≈` El recuerdo de los ocho años: (oficial: en la escena con Crabbe, como respuesta interior; nuestro: esa noche, en la cama) padres fuera por algo urgente; desayuno solo de elfo en la mesa larga; silla fría; biblioteca, escoba, molesta al elfo, el fuego; una hora con los retratos; ajedrez sola; se acuesta pronto con los ojos abiertos; casi llora («¿y si no vuelven mañana?») y aguanta; vuelven al alba con dulces (oficial: de Honeydukes; nuestro: violetas azucaradas) → «¿y si ese día fuera todos los días?» → escalofrío → «tonterías, hay elfos y parientes» → «después de Navidad, Potter» → la flecha ya ha salido.
+11. `+` Draco llora y lo acuesta Dobby; «somebody had to be the eldest»; Narcissa con la capa, la mano de Lucius vendada.
+
+**Nota: 7,5.** El contenido y casi todos los golpes son los del coreano, pero aquí el nuestro sí reordena: abre con Lyra después de la derrota (en el coreano va al final), cuenta la escena de Hagrid ya sabiendo cómo termina, y separa el recuerdo de los ocho años de la discusión con Crabbe para llevarlo a la noche. Lo que sigue calcado es el interior de cada escena.
+
+**Escenas más calcadas y cómo darles otra forma**
+
+- **La escena del abeto (beats 7-9).** Golpe a golpe del coreano: pulla a Ron → Harry le frena → pulla de Navidad → sonrisa → Voldemort → «grateful» → «do you hate me?» → huida → «answer back straight, and smile first» → la sala común. *Palanca: verla desde Lyra.* El capítulo ya abre con ella huyendo; que esa primera sección empiece un minuto antes, con la pulla sobre la Navidad dicha y la sonrisa de Potter viniendo hacia ella, de modo que el lector vea el golpe desde quien lo recibe (el nombre, los tres pasos atrás, «Or do you hate me?»). La sección de Harry quedaría entonces para Wood, el partido, el trol y lo que él siente después en la sala común («When everybody hated something that you liked…»), que es lo más suyo. Habría que mantener intactas las frases del registro («Can’t be helped…», «Or do you hate me?…», «You just answer back straight, and smile first»).
+- **Crabbe y el recuerdo (beats 3-4 y 10).** Ya los separamos, pero la conversación del plan sigue el orden del coreano (cómo vengarse → el tabú → el plan → Crabbe calla → «¿no da pena?» → reprimenda). *Palanca: fundir en la noche.* Que el plan se cuente en dos líneas por el camino, y que lo de Crabbe ocurra en el dormitorio, a oscuras, cama con cama: Crabbe lo susurra cuando ya han apagado las velas, Lyra la corta con el «As if that were such a great matter», y el recuerdo de los ocho años le cae encima en el silencio que viene después. Así la escena de Crabbe y la del recuerdo son una sola, y la frase de Crabbe tiene la oscuridad que la hace dañina.
 
 ---
 
