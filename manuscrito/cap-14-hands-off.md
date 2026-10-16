@@ -136,7 +136,7 @@ She kept that too.
 
 “I wasn’t playing.”
 
-He meant it kindly, which was worse. She felt the heat start at the back of her neck and climb, and there was no stopping it. Meanwhile the whole term was rearranging itself behind her eyes, piece by piece, into a shape she did not care for: a boy walking out of the castle with no form; *Just missed him*, on Hallowe’en; a dog he had told her about on the train, that would be hungry, which she had taken for a joke.
+He meant it kindly, which was worse. She felt the heat start at the back of her neck and climb, and there was no stopping it. Meanwhile the whole term was rearranging itself behind her eyes, piece by piece, into a shape she did not care for: a boy walking out of the castle with no form; *Just missed him*, on Hallowe’en; a dog he had told her about on the train, that would be starving, which she had taken for a joke.
 
 “Hogsmeade,” she said. “On Hallowe’en. That was him. You went looking for him.”
 
@@ -170,7 +170,7 @@ Potter smiled at her. It was a kind smile, patient and fond: the one you might g
 
 “I only told you about Sirius because you’d have got there anyway, the hard way, and somebody would have noticed you getting there. That’s all it was for. You’ve got your answer. You can go home now.”
 
-He was showing her out. She had not even got as far as Regulus.
+He was showing her out. She had not even got to what she knew about Regulus.
 
 She had not seen it coming. She had got this close to it, closer than anybody, and he was shutting the door with her foot still in it. Her voice did something she did not give it permission to do.
 
@@ -194,13 +194,13 @@ She had not seen it coming. She had got this close to it, closer than anybody, a
 
 When it came, it was harder than she would have believed he could be.
 
-“It isn’t just you who gets hurt if you stay. It’s your family. And I know what you think of half of them, but Draco hasn’t done a thing to anybody. Would you be all right if something happened to Draco?”
+“It isn’t just you who gets hurt if you stay. It’s your family. And I know what people say about the rest of them, but Draco hasn’t done a thing to anybody. Would you be all right if something happened to Draco?”
 
 On the broken chair, Black had turned his head and was staring at his godson. Whatever he thought of it, he kept it to himself; but it was not the way he had looked at Potter before.
 
 Draco. She had never once said her brother’s name to him. Draco, who wrote her letters that ran down both sides of the page about nothing at all, and was learning to play cards from an old man in the east cottage, and had not answered her in seven weeks.
 
-It was a real threat. That was what she could not get past. It was not a bluff and it was not a game. In May he had made her his hostage, and she had gone along with it, because it had been only her. It had not crossed her mind until this moment that a hostage might have a brother. He would never touch Draco himself; she did not think that of him. He would not need to. The diary had sat quietly in his keeping since May, and he had only to stop keeping it, to let it go where it could do the most harm, the Ministry or the *Prophet*, and the house would come down on her parents with Draco standing underneath.
+It was a real threat. That was what she could not get past. It was not a bluff and it was not a game. In May he had made her his hostage, and in seven months he had never once put a name to what the diary could cost. He had put one to it now, and it was the one name she had never given him. He would never touch Draco himself; she did not think that of him. He would not need to. The diary had sat quietly in his keeping since May, and he had only to stop keeping it, to let it go where it could do the most harm, the Ministry or the *Prophet*, and the house would come down on her parents with Draco standing underneath.
 
 “Do you mean it?” She asked anyway. She wanted him to say he hadn’t.
 

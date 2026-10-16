@@ -14,7 +14,7 @@ She had decided, walking down the lawn to Hagrid’s hut that Friday afternoon, 
 
 “How?” said Lyra.
 
-She held hers up. It was bound shut with two belts and a length of her Spellotape and was still grinding its pages at her through the gaps.
+She held hers up. It was bound shut with two belts and a length of Spellotape and was still grinding its pages at her through the gaps.
 
 “It went for my owl on the train. Professor, I have met peacocks with better manners. Is there a reason it’s on the list, or did nobody stop you?”
 
@@ -40,7 +40,7 @@ She drew breath, and Potter opened his book wide under her nose.
 
 Lyra made a small sound that she would not have liked to hear described.
 
-Hagrid had certainly not chosen that book for any such reason. Hagrid had chosen it because he thought it was funny; he had more or less said so. But Potter had got the thing open and she had not, and so long as that was true, nothing she said about it would sound like anything but sour grapes. She had shut the wretched thing in her trunk with two belts on it and never once thought of touching it. She had lost, in front of both Houses, before the lesson had properly begun.
+Hagrid had certainly not chosen that book for any such reason. Hagrid had chosen it because he thought it was funny; he had more or less said so. But Potter had got the thing open and she had not, and so long as that was true, nothing she said about it would sound like anything but sour grapes. She had shut the wretched thing in her trunk with two belts on it after the business with the owl, and had not touched it since. She had lost, in front of both Houses, before the lesson had properly begun.
 
 She turned her glare from Potter to Hagrid, who was hovering anxiously in the hope of somebody telling him what to do.
 

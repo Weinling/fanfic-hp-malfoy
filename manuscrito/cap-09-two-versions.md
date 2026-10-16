@@ -142,7 +142,7 @@ And her mother, who had written *You may tell me anything* in a hand so small it
 
 Then she looked at the gap.
 
-It was in the middle of the second paragraph, between *very little* and *Forgive me*: a blank in the line, the width of two fingers, where nothing had been written.
+It was in the middle of the second paragraph, between *to tell you* and *You must forgive*: a blank in the line, the width of two fingers, where nothing had been written.
 
 No one who had ever seen her father’s handwriting would believe he had left it by accident. He did not leave gaps.
 

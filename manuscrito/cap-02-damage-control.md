@@ -98,9 +98,7 @@ She had not, strictly speaking, seen anything of the kind. She had seen a batter
 
 For a moment he was very still. Then he laughed, softly, and it was genuine; he was pleased with her.
 
-“Of course you did. You never miss anything, do you.” He leaned back in his chair.
-
-“Honestly. Dumbledore hasn’t the nerve to come to me, so he sends a boy to pester my daughter in corridors, and my daughter has better eyes than his whole staff. Very well. Yes. The Weasley girl’s cauldron was right there, and it seemed an economical solution. Weasley and his ridiculous Muggle Protection Act had the Ministry poking its nose into every respectable house in the country, and it was wiser not to have the thing here if they came calling. Two birds.” A thin smile. “The rest of the story happened at your school, under your nose. You could tell it better than I could.”
+“Of course you did. You never miss anything, do you.” He leaned back in his chair. “Honestly. Dumbledore hasn’t the nerve to come to me, so he sends a boy to pester my daughter in corridors, and my daughter has better eyes than his whole staff. Very well. Yes. The Weasley girl’s cauldron was right there, and it seemed an economical solution. Weasley and his ridiculous Muggle Protection Act had the Ministry poking its nose into every respectable house in the country, and it was wiser not to have the thing here if they came calling. Two birds.” A thin smile. “The rest of the story happened at your school, under your nose. You could tell it better than I could.”
 
 She did know. That was precisely the trouble. So much for Potter’s theory that her father never told her anything. He told her a great deal, it turned out, provided she said she knew it already; under any other circumstances she would have enjoyed proving Potter wrong enormously.
 

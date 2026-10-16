@@ -186,7 +186,7 @@ She turned.
 
 The door shut. Lyra stood looking at it. Half the school had congratulated her since Saturday, and Flint had shaken her hand until it hurt, and not one of them had said that.
 
-She was halfway up the dungeon steps before the rest of it caught up with her. Her father had written that Severus might know more, and in the very next line that he would much prefer she put the whole matter out of her mind.
+She was halfway up the dungeon steps before the rest of it caught up with her. Her father had written that Severus might know more, and in the very next line that he would far rather she left it alone.
 
 She had just given Snape the first half. One letter from him, and her father would know she had done nothing of the kind; and whether that letter was ever written was now entirely up to Snape.
 

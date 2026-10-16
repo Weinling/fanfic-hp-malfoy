@@ -30,7 +30,7 @@ She took out her quill and examined the nib, which was how her mother dismissed 
 
 “*Harry*—” Something shook in Granger’s voice. “Harry says if they sentence it, they sentence it. He *shrugged*. Over a cut that’s already healing! How can he say a thing like that?”
 
-Lyra had expected to enjoy the morning very little, and found that she was enjoying it a great deal. The sling, the ache, Parkinson: all of it went somewhere else, and what was left was a small bright warmth just under the breastbone that she did not intend to show Granger for anything. She looked at her nib.
+Lyra had expected to enjoy the morning very little, and found that she was enjoying it a great deal. The sling, the ache, Parkinson: all of it went somewhere else, and what was left was something small and cool and wide awake, just under the breastbone, that she did not intend to show Granger for anything. She looked at her nib.
 
 “Then Potter is wiser than his friends,” she said. “I shall write it down. It may never happen again.”
 
@@ -254,7 +254,7 @@ She had not known he knew. She should have. Somebody always wrote to her father.
 
 Her father’s face did something complicated and then, by an effort of will, did nothing at all. He kissed her forehead and went off down the corridor with the Board and the Committee man in tow, and Lyra, standing at the classroom door, heard him remark to the ceiling, “Thirteen is a great deal of trouble.” It sounded like a joke. Lyra, who had sworn in July to keep her father calm and incurious, did not think it was one.
 
-Because the injured party asked it, the Committee for the Disposal of Dangerous Creatures did not sentence Buckbeak to death. It ordered him confined instead: removed from lessons, kept apart from the other hippogriffs in a paddock behind Hagrid’s hut, and never again to be ridden by anyone. Hagrid received a letter of reprimand from the Board of Governors, which he was said to have read twice, blown his nose on, and put away in a drawer. It was a great deal less than she had asked for in September, and she found, to her surprise, that she liked it better.
+Because the injured party asked it, the Committee for the Disposal of Dangerous Creatures did not sentence Buckbeak to death. It ordered him confined instead: removed from lessons, kept apart from the other hippogriffs in a paddock behind Hagrid’s hut, and never again to be ridden by anyone. Hagrid received a letter of reprimand from the Board of Governors, which he was said to have read twice, blown his nose on, and put away in a drawer. It was a great deal less than she had asked for from the hospital wing, and she found, to her surprise, that she liked it better.
 
 She watched her father leave from the top of the entrance steps that afternoon, a tall figure in black crossing the grounds towards the gates with his cane flashing in the thin autumn sun.
 

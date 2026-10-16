@@ -100,7 +100,7 @@ That was when she saw the dog.
 
 It came out of the brambles further along the fence, black and enormous, with snow on its back and every rib showing through its coat, and she would have known that ribcage anywhere. It was the one from the lake.
 
-*If a big black dog turns up, feed it something.* Potter had said that on the train in September. Lyra had filed it at the time under Potter’s nonsense, feeding strays and calling it foresight, and since the lake she had been trying, without much success, to leave it there.
+*If a big black dog turns up, be nice to it. Feed it something.* Potter had said that on the train in September. Lyra had filed it at the time under Potter’s nonsense, feeding strays and calling it foresight, and since the lake she had been trying, without much success, to leave it there.
 
 “You,” said Lyra. “Do you follow me about, or is it the chocolate?”
 

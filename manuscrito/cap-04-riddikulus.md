@@ -244,7 +244,7 @@ Lupin looked at the scene for a moment longer with an expression of deep, untrou
 
 “I don’t *care* what it means!” Lyra’s voice came out of the fan a good deal higher than she had sent it. “Make it go *away*!”
 
-“I’ll admit it’s a weight off my mind,” said Lupin, in the voice people use to settle a nervous horse. “I had been asking myself whether Harry ought to sit somewhere else in future. But manners can be mended. That’s his job, not your fear.” He was smiling as he said it, but his eyes had gone back to the wardrobe door, and for a moment, from behind the fan, Lyra could have sworn that he had not finished thinking about it at all.
+“I’ll admit it’s a weight off my mind,” said Lupin, in the voice people use to settle a nervous horse. “I had been asking myself whether Harry ought to sit somewhere else in future. But manners can be mended, and mending them is his job. Being afraid of them isn’t yours.” He was smiling as he said it, but his eyes had gone back to the wardrobe door, and for a moment, from behind the fan, Lyra could have sworn that he had not finished thinking about it at all.
 
 “*Professor!*”
 
