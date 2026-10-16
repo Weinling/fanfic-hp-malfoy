@@ -29,17 +29,17 @@
 | 19 | Subir, **antes o con el 21** | |
 | 20 | Subir, **antes o con el 21 y el 22** | Vuelve «move it one finger along» |
 | 21 | Subir | Vuelve «No wonder you came to find me». Es el que más «suena distinto» por la cantidad de chistes nuevos; los hechos son los mismos |
-| 22 | **Pendiente** | Falta el cotejo con el coreano y repasarlo |
-| 23 | **Pendiente** | Ídem |
-| *Year One* 1 y 2 | Sin cambios por ahora | Solo admitirán A y B |
+| 22 | Subir, **con el 20** | Cotejado con el coreano (Pettigrew más corto, sin sermón ni narrador que explica); revisado y arreglado |
+| 23 | Subir | Cotejado con el coreano (consecuencias en escena, partido desde la grada); revisado y arreglado |
+| *Year One* 1 y 2 | Sin cambios | Se quedan como están publicados (si más adelante se retocan, solo A y B) |
 | *Year One* 3 y 4 | Subidos a Webnovel el 16 de octubre en su versión cotejada | |
 
-**Antes de subir el 1-21:** queda una pasada de clase A (invisible): partir los párrafos más largos del 4, 8, 9, 10 y 12 (crítico de la ronda 3) y un gesto de Harry en el 14 (clase B). Conviene hacerla antes, para que el autor suba cada capítulo una sola vez.
+**Hecho además (16 de octubre):** párrafos largos partidos, con las mismas palabras, en el 1, 2, 4, 7, 8, 9, 10, 11 y 12; un gesto de Harry en el 14 (clase B: la mano cerrada en el bolsillo). **Todo lo publicado está listo para subir.**
 
 ## Orden de subida
 
 - **Wattpad (1-21):** todo de una tanda, en orden. Si no puede ser de una vez: el 3 con el 7; el 14 antes del 15; el 19 y el 20 antes del 21.
-- **Webnovel:** el 1-21 igual; el 22 y el 23 cuando estén cotejados; el 20 y el 22 juntos. El 17 retocado, antes de publicar nuestro 25.
+- **Webnovel:** del 1 al 23 de una tanda (el 20 y el 22 juntos, como mínimo). *Year One* 1 y 2, sin cambios. *Year One* 3 y 4 ya subidos en su versión nueva. El 17 retocado, antes de publicar nuestro 25.
 
 ## Pantallazos que cambian (para la nota de Ash)
 
