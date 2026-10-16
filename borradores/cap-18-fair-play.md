@@ -80,7 +80,7 @@ Derrick looked mutinous, and went. Lyra turned the Nimbus and set off across the
 
 It was rather beautiful while it lasted. Wherever she went, Diggory went, and wherever Diggory went, the Hufflepuff Chasers had to get out of the way of their own captain. She took him through two passing moves and broke both. She took him low across the front of the Hufflepuff hoops, so that their Keeper flinched, and Montague put the Quaffle past him while he was still flinching. Ten–nil. Twenty. Lee Jordan began to sound worried on Hufflepuff’s behalf. At thirty–nil Lyra looked round at Diggory, sweetly, to see how he was enjoying it.
 
-He was not smiling any more. He looked at her for a moment as if he had been handed a puzzle and had just found the corner piece.
+He was not smiling any more. He looked at her for a moment like a boy who has been handed a puzzle and has just found the corner piece.
 
 “Is it true about you and Potter?” he said. “That it’s off?”
 
@@ -200,7 +200,7 @@ It did not trouble her nearly as much as it ought to have.
 
 Then she folded the handkerchief small and put it in her pocket, next to the sugar quill, which had come to the match too, and stood up, and went on up the stairs with one hand in her pocket and her broom over her shoulder, feeling a good deal better than she had any right to.
 
-When she had gone, the empty step a little below the place where she had been sitting said, very quietly, in a voice that shook with rage, “*Cedric Diggory*—”, and something slipped, and for a moment there was a scuffed trainer on the stone where no foot had been. Mrs Norris, on the landing, only blinked. Then she flicked her tail and went on about her business, as if there were nothing on that staircase worth reporting to anybody.
+When she had gone, the empty step a little below the place where she had been sitting said, very quietly, in a voice that shook with rage, “*Cedric Diggory*—”, and something slipped, and for a moment there was a scuffed trainer on the stone where no foot had been. Mrs Norris, on the landing, only blinked. Then she flicked her tail and went on about her business. There was nothing on that staircase worth reporting to anybody.
 
 ⁂
 
