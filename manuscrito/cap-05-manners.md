@@ -124,7 +124,7 @@ His face went from beetroot to something darker.
 
 “Here,” said Potter, raising a hand like a boy at the register. “Mind the book, Parkinson. It likes you.”
 
-Even Parkinson could not hit somebody in front of a teacher. He stood there and burned, and Potter strolled away from him towards Hagrid as though nothing had happened.
+Even Parkinson could not hit somebody in front of a teacher. He stood there and burned, and Potter strolled away from him towards Hagrid, whistling.
 
 ⁂
 
@@ -136,7 +136,7 @@ He had asked to go first, naturally. Hagrid had come back out of the trees with 
 
 Lyra went over the rest of it, from the ground, with a good deal of resentment. How he had walked straight out to the great grey at the end of the line and waited for it to look at him. How he had held its eye and swept it a long, low, beautiful bow, the kind her dancing master would have made her practise for a week. “Afternoon. I’ve heard a great deal about you.” How it had considered him, and then bent its scaly knees and bowed back, and let him stroke its neck, and leaned into his hand like a cat. She had been hoping, quietly, that it would take his fingers off. Clearly the creatures had no judgement of character whatsoever.
 
-He took it once round the paddock in a wide circle and brought it down with barely a jolt. He did all of it as though it were obvious, as though anyone could, and Lyra was annoyed to find that, for just a moment, she had thought he looked rather splendid. Crabbe and Goyle were clapping. Lyra looked at them, and their hands came apart as if somebody had cut a string.
+He took it once round the paddock in a wide circle and brought it down with barely a jolt. He made all of it look obvious, the sort of thing anyone could do, and Lyra was annoyed to find that, for just a moment, she had thought he looked rather splendid. Crabbe and Goyle were clapping. Lyra looked at them, and their hands came apart as if somebody had cut a string.
 
 *He read ahead,* she told herself. That was all. He had known how and she had not, and anybody could read ahead. Once she knew the trick she would do it every bit as well.
 
@@ -152,7 +152,7 @@ Lyra felt exactly as though she had been led in a circle by a hand she had not n
 
 “Brilliant!” roared Hagrid, applauding. “Ten points ter Gryffindor! Yeh all saw that? Hippogriffs are proud. Easily offended. Yeh never insult one, ’cause it might be the last thing yeh do. Wait for him ter move first, give him a bow, an’ if he bows back, yeh’re all right. Go on, then, all of yeh!”
 
-Encouraged by Potter’s success, the rest of the class began to edge out into the paddock in twos and threes. Neville Longbottom’s hippogriff refused to bow at all and he had to keep running away from it. Weasley and Granger were working on a chestnut one with great caution and a good deal of whispering.
+Encouraged by Potter’s success, the rest of the class began to edge out into the paddock in twos and threes. Neville Longbottom’s hippogriff refused to bow and he had to keep running away from it. Weasley and Granger were working on a chestnut one with great caution and a good deal of whispering.
 
 Lyra, with Crabbe and Goyle, inherited Potter’s grey.
 
@@ -230,6 +230,6 @@ The cloth stopped.
 
 She had a great deal more ready. She looked up to give it to him, and saw his shirt. It was smeared red down the front from the collar to the belt, and none of it was his.
 
-The rest of the sentence went somewhere she could not follow it. Potter, after a moment, went back to her little finger, and Lyra did not say anything else at all.
+The rest of the sentence went somewhere she could not follow it. Potter, after a moment, went back to her little finger, and Lyra did not say anything else.
 
 It occurred to her, through the ache and the smell of Muggle washing powder that still clung to her hair, that this was not the first time Potter had caught her when she fell. She had spent a good deal of effort making sure nobody remembered the other times, herself included. She put the thought away at once, in the same drawer as everything else, before it could finish itself.
