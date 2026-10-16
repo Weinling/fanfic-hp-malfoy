@@ -1,22 +1,24 @@
 # Extra «Year One», parte 2: «Nobody Asked You for Christmas»
-- **Archivo:** `borradores/extra-year-one-2-nobody-asked-you.md` · **Palabras:** ~2.180 · **Punto de vista:** Harry en las dos primeras escenas; Lyra en la tercera (cambio de punto de vista) · **Fecha(s) en la historia:** otoño de 1991 (miércoles por la tarde con Wood; Halloween; primer partido) y «a week before Christmas» de 1991; el recuerdo de Lyra va a cuando tenía ocho años (1988) · **Estado:** sin publicar · **Coreano fuente:** 24 (extra, «10 años, la sinvergüenza y la malcriada»)
+- **Archivo:** `borradores/extra-year-one-2-nobody-asked-you.md` · **Palabras:** ~2.100 · **Punto de vista:** Lyra (escena 1), Harry (escena 2), Lyra (escena 3) · **Fecha(s) en la historia:** otoño de 1991 (miércoles por la tarde con Wood; Halloween; primer partido) y «a week before Christmas» de 1991; el recuerdo de Lyra va a cuando tenía ocho años (1988) · **Estado:** sin publicar · **Coreano fuente:** 24 (extra, «10 años, la sinvergüenza y la malcriada»)
 
 ## Escenas
-1. **El campo vacío (miércoles, atardecer).** Oliver Wood enseña la Snitch a Harry. Harry la caza en menos de cinco minutos: «We're winning the Cup this year». Harry imagina el partido con Lyra mirando desde la tribuna de Slytherin.
-2. **Halloween y el primer partido.** Derrota al trol en el baño de chicas con Ron y Hermione. En su primer partido la escoba enloquece, sigue colgado de una mano, gana a Slytherin, y todos lo vitorean. Lyra, que estaba acostumbrada a ser el centro, se pone cruel con él y con Ron.
-3. **Una semana antes de Navidad, en los terrenos.** Arrastran un abeto con Hagrid. Lyra, con Crabbe y Goyle, insulta a Ron: «one less mouth to feed»; a Harry: «Some people have nobody who wants them at Christmas». Harry sonríe y contesta: «Can't be helped. My mum and dad died stopping Voldemort… Or do you hate me? For getting rid of Voldemort?» Los tres se echan para atrás; ella casi echa a correr. Ron: «You shut Malfoy up!». Harry: «You just answer back straight, and smile first. Then you win.» Aun así no disfruta: «When everybody hated something that you liked, it turned out not to be as much fun».
-4. **Lyra (cambio de punto de vista).** Furiosa: «How *dare* he.» Para ella y para Crabbe y Goyle el nombre es casi reverencial; Potter lo dice «as easily as *pass the salt*». Planea dejarle en paz a él y ir a por los de alrededor (Weasley, Granger, Longbottom). Crabbe se queda callada y tímida: «his parents are dead. Isn't it a bit sad?». Lyra recuerda su día a los ocho años: los padres se fueron sin explicar, desayunó sola (Dobby preparó el desayuno), habló una hora con los retratos, jugó al ajedrez sola, se acostó sin dormir; Draco lloró por mamá. «Like a Malfoy, she had held it in.» Volvieron al amanecer: la madre con la capa de viaje, el padre con la mano de la varita vendada, y una caja de violetas azucaradas. Sacude la idea: «Rubbish… You'd have elves and relations.» «After Christmas, Potter. You'll see. The arrow was already off the string.»
+(Estructura nueva del cotejo, 16 de octubre de 2026: abre con Lyra huyendo; los hechos son los de lo publicado.)
+1. **Lyra, en la nieve, justo después del abeto.** «Harry Potter. How *dare* he.» Ha huido («very nearly picked up her robes and run»). El nombre: crecieron en casas donde no se dice; Potter lo dice «the way other people asked for the salt»; «It was a curse you could not block.» Lyra se para: «Weasley jumped… as much as we did». Plan: dejar a Potter y ir a por los de alrededor (Weasley, Granger, Longbottom). Goyle aplaude; Crabbe calla: «his parents are dead. Isn’t it a bit sad?» Lyra («Father said there was no such thing as a small disloyalty…») razona con ella: «Not having parents. As if that were such a great matter.»
+2. **Harry: Wood, Halloween, el partido y el abeto.** Wood le enseña la Snitch un miércoles al atardecer; la coge en menos de cinco minutos: «We’re winning the Cup this year». Primera vez que es el mejor en algo. Trol en el baño; en su primer partido la escoba enloquece; coge la Snitch «more or less in his mouth»; Gryffindor gana a Slytherin. Malfoy «took it personally». Una semana antes de Navidad, arrastrando el abeto con Hagrid: «one less mouth to feed»; «Some people have nobody who wants them at Christmas». Harry contiene a Ron («Don’t let her have it»), no se enfada (en Privet Drive nunca pudo contestar), se siente libre, sonríe («practising it since August»): «Can’t be helped. My mum and dad died stopping Voldemort.» Se encogen los tres Slytherin y también Ron. «Or do you hate me? For getting rid of Voldemort?» Ella casi corre. Ron: «You shut *Malfoy* up!» / «You just answer back straight, and smile first. Then you win.» / «You get used to it?» En la sala común no lo disfruta.
+3. **Lyra, esa noche, en la cama.** No se quita de la cabeza lo de Crabbe. Recuerdo de los ocho años: los padres se fueron sin explicar; desayunó sola (Dobby); libro, escoba, retratos una hora, ajedrez sola; Draco lloró por mamá, ella no («somebody had to be the eldest»); se acostó sin dormir «very much as she was lying now». «Like a Malfoy, she had held it in.» Volvieron antes del amanecer: Narcissa con la capa de viaje, Lucius con la mano de la varita vendada, una caja de violetas azucaradas. «What if that day came every day?» «Rubbish… you’d have elves, and relations.» «After Christmas, Potter… You’ll see.» / «The arrow was already off the string.»
 
 ## Frases literales importantes
-- «That's it. We're winning the Cup this year.» (Wood, l. 11)
-- «Some people have nobody who wants them at Christmas.» (Lyra, l. 51)
-- «Can't be helped. My mum and dad died stopping Voldemort.» (l. 61)
-- «Or do you hate me? For getting rid of Voldemort?» (l. 77)
-- «You just answer back straight, and smile first. Then you win.» (l. 89)
-- «Potter's the only one stupid enough to say the name. So we leave him alone, and go for everybody round him.» (l. 129)
-- «It's only… his parents are dead. Isn't it a bit sad?» (Crabbe, l. 155)
-- «Like a Malfoy, she had held it in.» (l. 185)
-- «After Christmas, Potter. You'll see.» (l. 201)
+- «Harry Potter… How *dare* he.» (l. 3)
+- «It was a curse you could not block.» (l. 17)
+- «Potter’s the only one stupid enough to say the name. So we leave him alone, and go for everybody round him.» (l. 25)
+- «It’s only… his parents are dead. Isn’t it a bit sad?» (Crabbe, l. 49)
+- «That’s it. We’re winning the Cup this year.» (Wood, l. 73)
+- «Some people have nobody who wants them at Christmas.» (Lyra, l. 99)
+- «Can’t be helped. My mum and dad died stopping Voldemort.» (l. 109)
+- «Or do you hate me? For getting rid of Voldemort?» (l. 121)
+- «You just answer back straight, and smile first. Then you win.» (l. 133)
+- «Like a Malfoy, she had held it in.» (l. 163)
+- «After Christmas, Potter. You’ll see.» (l. 177)
 
 ## Fichas (objetos y motivos)
 - **Snitch** de entrenamiento (Wood).
