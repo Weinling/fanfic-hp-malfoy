@@ -21,7 +21,7 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 | Sep. 1993 | 5 | Buckbeak: él la tapa con su capa, la lleva corriendo a ciegas, tropieza en la escalera y se apoya con el hombro antes que soltarla. Pañuelo; le limpia los dedos | La clase; Pomfrey; Lucius lo sabe | «not the first time Potter had caught her when she fell» |
 | Sep. 1993 | 6 | Pociones a su derecha; el guante; «That will be all, Potter» | Todo el Comedor | «I honestly didn’t think you’d do it.» |
 | Oct. 1993 | 7 | La lechucería: el crédito. En la biblioteca él le pone el límite del «Mudblood» | Granger (biblioteca) | «We extend credit.» |
-| 6 nov. 1993 | 10 | En el aire ella le agarra la túnica; él pone la mano sobre la suya; el Patronus | Nadie bajo las nubes | «Look, Potter! Look, I caught—» |
+| 6 nov. 1993 | 10 | En el aire ella le agarra la túnica; él pone la mano sobre la suya; el Patronus | Nadie bajo las nubes | «Potter! *Potter*, I’ve got—» |
 | 13 nov. 1993 | 12 | «Who did you hear?» / «My mum.» / «Mine’s a stand.» | Nadie | «Thanks for asking.» |
 | 11 dic. 1993 | 13 | El calentador de botón; «a prior engagement» | Sirius (perro) | «I came for the date.» |
 | 11 dic. 1993 | 14 | **Él le coge la mano entre las dos suyas** (peldaño nuevo). Luego «Hands off»; ella llora; «Don’t smile in front of me»; tira el calentador | Sirius | «Don’t smile in front of me.» |
