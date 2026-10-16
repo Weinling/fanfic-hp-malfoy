@@ -74,7 +74,7 @@ It was a Slytherin trick, played by a Hufflepuff. Lyra knew her own House. Give 
 
 Well. Two could hang about.
 
-“Derrick!” She put two fingers in her mouth and whistled, the way her father’s gamekeeper whistled the dogs in, and Derrick’s head came round. “Leave him. He’s *mine*. Mark the Chasers.”
+“Derrick!” She put two fingers in her mouth and whistled, the way her father’s gamekeeper whistled in the beaters at a shoot, and Derrick’s head came round. “Leave him. He’s *mine*. Mark the Chasers.”
 
 Derrick looked mutinous, and went. Lyra turned the Nimbus and set off across the pitch at a long, easy, unhurried slant, straight through the middle of the Hufflepuff attack, and Diggory, who had promised to stay at her shoulder, came with her.
 
@@ -88,7 +88,7 @@ There it was. She had heard it so often in the last month that it no longer surp
 
 “There was never anything to be off,” said Lyra. “We’ve loathed each other since we were eleven. Ask anybody.”
 
-“I did. They all said something different.” He glanced round the stands, pleasantly, as if counting the house. “Makes a person wonder.”
+“I did. They all said something different.” He glanced round the stands, pleasantly, counting the house. “Makes a person wonder.”
 
 He said it loudly enough to carry. Bole, coming past with his bat, heard *Potter* and saw her face, and that was all it took. He forgot the Chasers and went for Diggory with his broom.
 
@@ -110,7 +110,7 @@ Flint was bellowing from the far end of the pitch—
 
 “*Back in position!* The *Chasers*, you great trolls, mark the *Chasers*—”
 
-—and Hufflepuff scored again, and then again. Forty–thirty. Fifty.
+—and Hufflepuff scored again, and then again, and went on scoring. Forty–thirty. Fifty. Seventy. By a hundred and ten Lee Jordan had stopped sounding surprised.
 
 Lyra put her head down and went for the gap. If she could only get clear of him for ten seconds—but somebody’s Bludger, she never knew whose, came screaming across her line, and Diggory leaned out and caught her by the arm and pulled her off it, and it went by close enough to stir her hair.
 
@@ -204,9 +204,9 @@ When she had gone, the empty step a little below the place where she had been si
 
 ⁂
 
-The rings turned up that night, at the bottom of her trunk, with the handkerchief still folded in the pocket of the robes she had not yet taken off.
+The rings turned up that night, at the bottom of her trunk. She was still in her Quidditch robes, with the handkerchief folded in the pocket.
 
-Goyle had been looking for a Fizzing Whizzbee she was convinced had gone astray in Lyra’s trunk in October, and she had got as far as Lyra’s spare robes before Lyra noticed and found she was too tired to stop her. She came up holding a small box covered in green velvet.
+Goyle had been looking for a Fizzing Whizzbee she was convinced had gone astray in Lyra’s trunk in October, and she had got as far as Lyra’s spare robes before Lyra noticed and was too tired to stop her. She came up holding a small box covered in green velvet.
 
 “What’s this?”
 
@@ -216,7 +216,7 @@ Lyra knew perfectly well what it said. *Worn by two, each ring will warm when th
 
 “Shall I put them back?” said Crabbe.
 
-“Bin them. Or give them to Millicent.” Lyra turned a page she had not read. “I only bought them to see whether they worked, and I’ve never got round to finding out. It hardly matters. It isn’t as if there’s anybody to give one to.”
+“Bin them. Or give them to Millicent.” Lyra, who had a book open on her knees, turned a page she had not read. “I only bought them to see whether they worked, and I’ve never got round to finding out. It hardly matters. It isn’t as if there’s anybody to give one to.”
 
 Crabbe turned the box over in her hands.
 

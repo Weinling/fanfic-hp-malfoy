@@ -40,43 +40,19 @@ If it had not been for what Lupin had done on the train, she would have written 
 
 ⁂
 
-The week lasted until Thursday afternoon, when the Slytherin third-years had their first Defence Against the Dark Arts lesson.
+The week lasted until Thursday afternoon, and by twenty past two on Thursday Panther Parkinson’s worst fear was sitting on the staff-room carpet, tied up in a bow.
 
-They went up to the classroom in a loud, cheerful herd, most of them in the mood to be entertained. “That’s the poor one, isn’t it?” somebody said, and Parkinson said he doubted the man could afford a wand, let alone a new set of robes, and one of the Warrington cousins said Dumbledore collected strays, and this one had plainly come with fleas.
+It had been a giant octopus, grey and glistening, coiling its way out of the wardrobe towards his shoes, and Parkinson had made a noise like a kettle and said “*R-Riddikulus!*”, and the tentacles had tangled, and knotted, and tied themselves into an enormous floppy bow. Now the octopus sat there trussed like a birthday present, blinking, and the class was laughing, and Parkinson was telling everyone he had known it would be the octopus.
 
-Ordinarily Lyra would have added something to finish it off. Today she walked along without a word. She had sat four doors from a Dementor not a week ago, and had seen the silver flare in the corridor when this man sent it on its way. Whatever else he could not afford, he could afford that, and she was inclined to find out how. Besides, after Quirrell and Lockhart, the bar was lying on the floor.
+Lyra, at the back of the line, was still reserving judgement.
 
-Professor Lupin arrived with a battered briefcase and looked rather better than he had on the train, as if a few decent meals had done him good. He did not bother with introductions. “Wands,” he said, “and nothing else. Today we’re going to meet something.”
+They had gone up to Defence in a loud, cheerful herd, most of them in the mood to be entertained. “That’s the poor one, isn’t it?” somebody had said, and Parkinson had said he doubted the man could afford a wand, let alone new robes, and one of the Warrington cousins had said Dumbledore collected strays and this one had plainly come with fleas. Ordinarily Lyra would have added something to finish it off. She had walked along without a word. She had sat four doors from a Dementor not a week ago and seen the silver flare in the corridor when this man sent it on its way; whatever else he could not afford, he could afford that. Besides, after Quirrell and Lockhart, the bar was lying on the floor.
 
-A ripple of alarm went round the room. The last practical lesson any of them had had in this subject had involved a cage of Cornish pixies and a great deal of screaming, and Lyra had spent most of it on top of a desk. She was frowning at the memory when Lupin picked up his briefcase again and walked straight back out of the door.
+Professor Lupin had met them at the classroom door with a battered briefcase, said “Wands, and nothing else,” and walked them straight back out again, round two corners in a bewildered crocodile and into the staff room, where a tall wardrobe stood on its own at the far end, banging against the wall.
 
-“Right,” he said over his shoulder. “Follow me, please.”
+“A boggart,” Lyra had said to Crabbe, not troubling to lower her voice, because Hufflepuffs and Gryffindors put their hands up and Malfoys merely happened to know. “It lives in dark places, wardrobes, under beds, the backs of desks, and it turns into whatever frightens you most. I should think everybody knows that.”
 
-He led them down the corridor and round two corners in a bewildered crocodile, and into the staff room. It was a long, panelled room full of mismatched old chairs, and it was empty except for a tall wardrobe standing on its own at the far end. As they came in, the wardrobe gave a sudden wobble and banged against the wall. Several people jumped.
-
-“Nothing to worry about,” said Lupin calmly. “There’s a boggart in there. Can anybody tell me what a boggart is?”
-
-“A shape-shifter,” said Lyra, without raising her hand. “It lives in dark places, wardrobes, under beds, the backs of desks, and it turns into whatever frightens you most.”
-
-Lyra did not put her hand up for anybody. Hands were for people who wanted something, House points or a teacher’s approval or, in Granger’s case, apparently both; Lyra merely happened to know. She said the answer in a voice that suggested the question had been a little beneath her. Some teachers could not bear it. Professor Lupin, it seemed, was not one of them.
-
-“Exactly right, Miss Malfoy. So the boggart in that wardrobe hasn’t the faintest idea yet what to be. Open the door, and it will look at whoever is nearest, and go looking for the worst thing it can find.”
-
-There was one simple rule for dealing with a boggart, he explained: do not be afraid of it. That was a great deal easier to say than to do, which was why the first line of defence was company.
-
-A boggart facing several people at once could not decide what to become, and tended to make a mess of it; he had once seen one try to frighten two people at the same time by turning into half a headless corpse and half a giant slug, and the result had been more pitiful than frightening.
-
-On one’s own, however, the answer was the charm *Riddikulus*, and the trick of it was laughter. They were to picture the thing they feared most, and then picture it made absurd.
-
-They practised the wand movement without the wand for a few minutes, feeling silly. Then Lupin moved them into a line in front of the wardrobe.
-
-“Parkinson first, I think.”
-
-Parkinson swaggered forward. The wardrobe door creaked open, and something grey and enormous slid out of it onto the floorboards: a giant octopus, glistening, its tentacles coiling across the carpet towards his shoes. Parkinson made a noise like a kettle.
-
-“*R-Riddikulus!*”
-
-The tentacles tangled, and knotted, and tied themselves into an enormous floppy bow, and the octopus sat there trussed like a birthday present, blinking. The class laughed. Parkinson went back to the line scarlet and grinning, and told everyone he had known it would be the octopus.
+“Exactly right, Miss Malfoy,” Lupin had said, without turning round, and gone on from there as though she had been reading out his notes for him. A boggart facing several people at once could not decide what to become; he had once seen one try to be half a headless corpse and half a giant slug at the same time, and the result had been more pitiful than frightening. On one’s own, however, the answer was the charm *Riddikulus*, and the trick of it was laughter. Picture the thing you feared most. Then picture it made absurd.
 
 Greer Goyle was next. The boggart spun, and became a fairy, a small and spiteful one with sharp teeth and a sting in its fingers, which rose buzzing into the air and came straight at her face. Goyle yelped and jabbed with her wand, and its wings turned to tissue paper. The fairy went spinning down like a sycamore seed and rolled away under a chair, swearing in a tiny voice.
 
@@ -124,33 +100,89 @@ Lyra looked at her wand hand. It was not shaking, at least.
 
 She had not moved. She, who had stood her ground against a Dementor barely a week ago without so much as a tremor anyone could see, had stood in front of a boggart in a cloak and not been able to lift her wand an inch.
 
-And it had been Potter. Or something with his face. She turned that over and could find no sense in it at all.
+And it had been Potter. Or something with his face. She turned that over and could find no sense in it.
 
 Was it the diary? Was it the blackmail? Potter had threatened her, certainly. She had agreed to help him, certainly. But that was a business arrangement, nothing more, and the idea that the eldest child of the House of Malfoy could be frozen to the spot by a business arrangement was simply absurd.
 
-“I’d rather not have them, Professor,” she said. “I didn’t earn them.”
-
-“I’d say you earned them before it ever turned round,” said Lupin mildly. “Vanessa wasn’t standing in front of that wardrobe on her own for very long, was she?”
-
-It was a kind answer and she disliked it intensely. She went on looking at the wardrobe with her arms folded.
-
 Behind her the class was already chattering about octopuses and fairies. From the back of the line, as Parkinson would explain at length over dinner, the boggart had only been some bloke in a cloak, and Malfoy had been about to sort it out when Lupin jumped in to show off. Lyra decided she would let that version stand.
 
-“Right, everyone. A very good lesson. A foot of parchment on boggarts, please, for Monday. Off you go.” Then, as if it had only just occurred to him: “Miss Malfoy, a word, if you can spare one.”
+“Right, everyone. A very good lesson. A foot of parchment on boggarts, please, for Monday. Off you go.”
 
 ⁂
 
 The others filed out, chattering about octopuses. Crabbe and Goyle hung back by the door, plainly meaning to wait, and Lyra waved them on. On her way past, Crabbe caught the edge of Lyra’s sleeve between two fingers and held it for a moment, without saying anything, and let go. Lyra pretended not to have noticed. It seemed kinder for both of them.
 
-When the door had shut, Professor Lupin pulled two of the shabby armchairs round to face each other.
+When the door had shut, Lupin looked up from his briefcase and found her still there.
 
-“I thought we might talk about your boggart.”
+“I’d rather not have those five points, Professor,” said Lyra. “I didn’t earn them.”
 
-“I was going to insist on it,” said Lyra.
+“I’d say you earned them before it ever turned round,” said Lupin mildly. “Vanessa wasn’t standing in front of that wardrobe on her own for very long, was she?”
 
-She took the armchair he had pulled up as though she had been the one to offer it. Lupin sat opposite, leaned forward with his elbows on his knees, and seemed to choose his words with some care.
+It was a kind answer and she disliked it intensely.
 
-“The face under the hood,” he said. “It was Harry’s.”
+“I should like another go,” she said. “Now. Before anybody else gets a turn at it.”
+
+Lupin looked at her for a moment over the briefcase. Then he set it down and went over to the wardrobe.
+
+“I was going to suggest it,” he said. “I’d like to see it beaten before I let you leave.”
+
+“It won’t take a minute.”
+
+And it was nothing, really, now that she thought about it properly. That was a nursery sort of fear, a thing in a cloak; the kind that lived under beds and went away when somebody lit a lamp. She had been startled the first time, that was all. Now she knew exactly what was in there, and there was nothing to be startled by.
+
+She smoothed her robes and took up her position with her wand raised.
+
+“Ready? Then… now.”
+
+Lupin turned the key. The hooded figure stepped out, and under the hood Potter’s face turned towards her and smiled that cold, unhurried smile.
+
+“*Riddikulus!*”
+
+The heavy cloak vanished. So did the glasses, which spun off across the room and disappeared. In their place Potter was wearing full evening dress: a black tailcoat with silver buttons, a waistcoat, a stiff white shirt and a bow tie, like a guest at the sort of ball Lyra’s mother gave at Christmas. It did not suit him in the least. His hair was as hopeless as ever above it.
+
+Lyra lowered her wand and sat down in the nearest armchair with great satisfaction.
+
+“Well. One could almost take you somewhere— *oh!*”
+
+The boggart in the tailcoat had stepped smartly forward, bowed low over her hand, and kissed the back of it.
+
+Lyra snatched it away as if the boggart had bitten her. Potter, or the thing wearing Potter, looked faintly wounded, bowed again even lower, recovered her hand with great courtesy and kissed it once more, with tremendous seriousness, as though the first had only been a draft.
+
+Lyra understood, with horror, what she had done. She had put the thing in evening dress, and it had taken the evening dress at its word. The train came back to her all at once, in vivid and unwelcome detail, and her face went hot to the roots of her hair.
+
+“*Riddikulus!*”
+
+The tailcoat became a butler’s black jacket and striped trousers, and the boggart, which now had a napkin folded over one arm, bowed so deeply its nose nearly touched the floorboards. Lyra let out a long breath. A servant: a Potter who knew his place. Much more like it.
+
+The butler straightened, whisked a silver tray out of nowhere and set it down at her elbow. On it were a teapot, a cup, a plate of thinly sliced cake and a small silver bell, presumably in case she should want anything further. He poured her a cup of tea. He added milk without asking how she took it, and got it exactly right, which was somehow the most annoying part.
+
+Then he took the napkin off his arm and, before she could stop him, tucked it into the neck of her robes, cut a neat square of cake, held it up on a fork in front of her face and waited, attentively, for her to open her mouth.
+
+“No,” said Lyra. “No, I don’t— put that *down*—”
+
+The butler, with an air of infinite patience, produced a little ivory fan and began to fan her with one hand while holding up the cake with the other. When she leaned away, he followed. When she ducked to one side, he was already there, wearing the earnest, devoted face of somebody whose only purpose in life was to see her fed.
+
+Lupin, by the wardrobe, made no move whatever to help. He seemed to be enjoying himself.
+
+So Lyra stood up, which brought the butler’s face and the fork and the cake very close together, and said it a third time, through her teeth.
+
+“*Riddikulus.*”
+
+The butler took one devoted step after her, caught his foot on nothing whatever, and went headlong. The tray went up. The teapot went up. The cake went up and came down again, cream side first, squarely on top of his head, and he sat there on the floorboards with jam running down his nose and an expression of such profound and Potter-like injury that Lyra laughed out loud before she could stop herself.
+
+The boggart burst like a soap bubble into a thin grey smoke and went back through the keyhole. Lyra kicked the wardrobe door shut after it.
+
+There was a short silence.
+
+“So it isn’t Harry,” said Lupin, from beside the wardrobe. “It’s Harry with the upper hand. Put him in a waistcoat and give him a tray, and you’re not frightened in the least. Only rather embarrassed.” He tilted his head. “Has he ever given you a really bad fright, at some point?”
+
+“Professor,” said Lyra, “if you have *quite* finished with my psychology—”
+
+“I’ll admit it’s a weight off my mind,” said Lupin, in the voice people use to settle a nervous horse. “I had been asking myself whether Harry ought to sit somewhere else in future. But manners can be mended. That’s his job, not your fear.”
+
+He pulled two of the shabby armchairs round to face each other and sat down in one, and Lyra, because it would have looked like running away not to, sat down in the other as though she had been the one to offer it. The napkin was still in her collar. She did not notice it until much later.
+
+“The face under the hood,” he said. “The first time. It was Harry’s.”
 
 It was not a question, so she did not treat it as one. “It was. I’m not frightened of Potter, Professor. I’m *bored* of him. There’s a difference.”
 
@@ -160,7 +192,7 @@ It was quite true, as far as it went. A girl who was frightened of somebody did 
 
 “Possibly. Harry’s never owned a cloak that long in his life; his robes are halfway up his shins.” He paused. “But I’ll be honest with you, Miss Malfoy, and I hope you won’t take it the wrong way. When I saw it, before it turned towards me, it didn’t put me in mind of Harry at all. It put me in mind of the man people still won’t name.”
 
-Lyra had been ready for almost anything but that. She felt herself go still, the way her father went still at dinner when somebody mentioned the war.
+Lyra had been ready for almost anything but that, and least of all now, sitting there with cake on her shoe. She felt herself go still, the way her father went still at dinner when somebody mentioned the war.
 
 There was exactly one person, alive or not quite alive, who could walk into the Manor and help himself to whatever he liked: the house, the name, her father, her own mind if he cared to, and she had heard enough over the years, in half-sentences and lowered voices, to know he had helped himself to other people’s. Potter too, for all Potter seemed to think himself untouchable.
 
@@ -190,65 +222,7 @@ Whatever she knew, it was the only thing standing between her family and the wor
 
 “Not a word,” she said, and folded her hands in her lap so they would have nothing to do. “I expect it’s just as you say. I find him so tiresome that it gave the thing ideas.”
 
-“Do you?” said Lupin. He looked at her for a moment, without any particular expression, and then nodded as though she had confirmed something, though she could not have said what.
-
-Then he got up and went over to the wardrobe.
-
-“Then humour me. Have another go, now there’s nobody watching. I’d like to see it beaten before I let you leave.”
-
-“With pleasure,” said Lyra. “It won’t take a minute.”
-
-And it was nothing, really, now that she thought about it properly. A shapeless fear, he had said. That was a nursery sort of fear, the kind that lived under beds and went away when somebody lit a lamp. She had been startled the first time, that was all. Now she knew exactly what was in there, and there was nothing to be startled by.
-
-She stood, smoothed her robes and took up her position with her wand raised.
-
-“Ready? Then… now.”
-
-Lupin turned the key. The hooded figure stepped out, and under the hood Potter’s face turned towards her and smiled that cold, unhurried smile.
-
-“*Riddikulus!*”
-
-The heavy cloak vanished. So did the glasses, which spun off across the room and disappeared. In their place Potter was wearing full evening dress: a black tailcoat with silver buttons, a waistcoat, a stiff white shirt and a bow tie, like a guest at the sort of ball Lyra’s mother gave at Christmas. It did not suit him in the least. His hair was as hopeless as ever above it.
-
-Lyra lowered her wand and sat back down in her armchair with great satisfaction.
-
-“Well. One could almost take you somewhere— *oh!*”
-
-The boggart in the tailcoat had stepped smartly forward, bowed low over her hand, and kissed the back of it.
-
-Lyra snatched it away as if the boggart had bitten her. Potter, or the thing wearing Potter, looked faintly wounded, bowed again even lower, recovered her hand with great courtesy and kissed it once more, with tremendous seriousness, as though the first had only been a draft.
-
-Lyra understood, with horror, what she had done. She had put the thing in evening dress, and it had taken the evening dress at its word. The train came back to her all at once, in vivid and unwelcome detail, and her face went hot to the roots of her hair.
-
-“*Riddikulus!*”
-
-The tailcoat became a butler’s black jacket and striped trousers, and the boggart, which now had a napkin folded over one arm, bowed so deeply its nose nearly touched the floorboards. Lyra let out a long breath. A servant: a Potter who knew his place. Much more like it.
-
-The butler straightened, whisked a silver tray out of nowhere and set it down at her elbow. On it were a teapot, a cup, a plate of thinly sliced cake and a small silver bell, presumably in case she should want anything further. He poured her a cup of tea. He added milk without asking how she took it, and got it exactly right, which was somehow the most annoying part.
-
-Then he took the napkin off his arm and, before she could stop him, tucked it into the neck of her robes, cut a neat square of cake, held it up on a fork in front of her face and waited, attentively, for her to open her mouth.
-
-“No,” said Lyra. “No, I don’t— put that *down*—”
-
-The butler, with an air of infinite patience, produced a little ivory fan and began to fan her with one hand while holding up the cake with the other. When she leaned away, he followed. When she ducked to one side, he was already there, wearing the earnest, devoted face of somebody whose only purpose in life was to see her fed.
-
-“What is it *doing*?”
-
-“Exactly what you told it to, I imagine,” said Lupin, who had sat down again and seemed to be enjoying himself. “You did ask for a servant.”
-
-“Well, make it stop!”
-
-Lupin looked at the scene for a moment longer with an expression of deep, untroubled contentment.
-
-“So it isn’t Harry,” he said. “It’s Harry with the upper hand. Put him in a waistcoat and give him a tray, and you’re not frightened in the least. Only rather embarrassed.” He tilted his head. “Has he ever given you a really bad fright, at some point?”
-
-“Professor,” said Lyra, from behind the fan, “if you have *quite* finished with my psychology—”
-
-“I’ll admit it’s a weight off my mind,” said Lupin, in the voice people use to settle a nervous horse. “I had been asking myself whether Harry ought to sit somewhere else in future. But manners can be mended. That’s his job, not your fear.” He was smiling as he said it, but his eyes had gone back to the wardrobe door, and for a moment, from behind the fan, Lyra could have sworn that he had not finished thinking about it at all.
-
-“*Professor!*”
-
-He was on his feet at once. Two flicks of his wand, and the butler, the fan and the cake were back in the wardrobe with the door shut firmly on all three.
+“Do you?” said Lupin. He looked at her for a moment, without any particular expression, and then nodded as though she had confirmed something, though she could not have said what. His eyes had gone back to the wardrobe door, and Lyra could have sworn that he had not finished thinking about it at all.
 
 Lyra came out of the staff room with her robes in disarray, a napkin still tucked into her collar and a face that could have lit a fire, and stalked off down the corridor towards Arithmancy without looking at anybody.
 

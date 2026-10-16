@@ -70,7 +70,7 @@ Lyra looked at Black, and at the leak in the corner, and back at Potter.
 
 “Hm.” Potter tilted his head. “Somebody on the staff, then. Nobody else would know. Snape?”
 
-Lyra looked back at him with polite interest. Underneath the polite interest something went cold, because Professor Snape had told her that in a room with a charm on the door, and Professor Snape could write to her father whenever he pleased. Potter only nodded, as if she had answered, and let it go. With an Animagus sitting on a broken chair across the room, where she had got the rest was hardly the point.
+Lyra looked back at him with polite interest. Underneath the polite interest something went cold, because Professor Snape had told her that in a room with a charm on the door, and Professor Snape could write to her father whenever he pleased. Potter nodded, took her silence for an answer, and let it go. With an Animagus sitting on a broken chair across the room, where she had got the rest was hardly the point.
 
 “Then you know about the Fidelius,” said Potter. “Good. Saves time. Dad did pick Sirius.”
 
@@ -115,14 +115,6 @@ Black made a sound in his throat. Potter nodded.
 “He shouted loud enough just now,” said Lyra, with a nod at Black.
 
 “He can say he isn’t the traitor. He’s been saying it for twelve years, and nobody listens. What he can’t do is point. Not a name, not a hint, nothing that would lead you to the one who was.”
-
-Lyra turned on her crate to face Black.
-
-“Who was your Secret Keeper, Mr Black?”
-
-Black opened his mouth. Nothing came out of it. His face emptied as she watched, every line in it going smooth and blank, until he sat there like a man painted on a wall, and only his eyes were left, red-rimmed and fixed on hers, with everything behind them that he was not allowed to say.
-
-Lyra looked away first.
 
 “Then why didn’t Dumbledore *say* something? Before they took him to Azkaban? He’s Dumbledore. He could have stood up in front of the whole Wizengamot and—”
 
