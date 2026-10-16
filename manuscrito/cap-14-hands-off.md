@@ -10,7 +10,7 @@ She reached for him. She did not know what she meant to do: pull him back, or ge
 
 He caught her hand before it reached his sleeve, quite gently, and held it between both of his.
 
-“Whatever they’ve told you about him,” he said, “it isn’t true. He’s not a murderer. He never was.”
+“Trust me. Whatever they’ve told you about him,” he said, “it isn’t true. He’s not a murderer. He never was.”
 
 She had every reason not to believe him. Black’s face had been on the front of the *Prophet* since July. Her father had discussed him over dinner and Professor Snape in his office, and between them they had not found a kind word. Against all that there was Potter, and his word, which she had never in her life taken for anything.
 
@@ -200,7 +200,7 @@ It was a real threat. That was what she could not get past. It was not a bluff a
 
 “Do you mean it?” She asked anyway. She wanted him to say he hadn’t.
 
-“Yes,” said Potter. His voice was perfectly steady, and quite cold. “You’re not in this, Malfoy.”
+“Yes,” said Potter. His voice was perfectly steady, and quite cold. “There’s no room for you in this, Malfoy.”
 
 Lyra Malfoy did not cry. Tears were a white flag and a begging bowl at the same time, her father said, and she had been brought up to carry neither. She had cried in front of two Houses in September, but that had been a hippogriff and a great deal of blood, and did not count. So the wet on her face was rain. The roof leaked. It had been leaking all afternoon, in the corner, and it must have found her somehow.
 

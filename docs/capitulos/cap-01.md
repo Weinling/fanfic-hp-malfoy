@@ -14,7 +14,8 @@
 - “Then you, at least.” (l. 213); “I’m blackmailing you, by the way. In case that wasn’t clear.”
 - “...you’re going to be our hostage.” (l. 227); “Insurance.” (la misma palabra que usó para el Horrocrux: «she did not care for the company»)
 - “I’m not going to lock you in a cupboard or anything.” (l. 241); “I don’t need you to spy on anyone.” (l. 251)
-- “Not really… But thanks.”; “I thought there’d be hexes.” / “The night is young.”
+- “Not really… But thanks.”; “I thought there’d be hexes.” / “The night is young.” / “You’re cleverer than I thought, though.” / “Than you *thought*?” / “Don’t push it. That’s the nicest thing I’ve ever said to you.”
+- “Malfoy. Shut up for one minute.” (primer «shut up» de Harry: cadena con *Year One* 3 y el 19)
 - “Act like you, then. Same thing.” (l. 305)
 - “Don’t write to your dad about any of this. Not by owl. Tell him when you get home.” (l. 307)
 - “But she was a Malfoy, and Malfoys survived.” (l. 297); “Potter knew it existed.” (l. 323)

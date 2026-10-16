@@ -25,7 +25,7 @@
 ## Fichas (objetos y motivos)
 - **Giratiempo:** dedal de reloj de arena, anillo de oro giratorio, cadena larga; una vuelta por hora; hacen falta «two of us under one chain». Granger lo tiene desde septiembre.
 - **Capa:** huele a jabón (Harry la lava en el pasado inmediato); el bucle (Lyra la coge, Harry la deja) es una paradoja cerrada. Dos mapas, uno en el bolsillo de Lupin (que roba Harry), otro con Lyra.
-- **Anillos:** Harry lleva el suyo en el anular derecho; Lyra ve rosa al probarse el suyo. Los dos juntos forman un corazón (la muesca no era mal acabado). Harry se queda con ambos al final («Remind me to thank Crabbe»).
+- **Anillos:** Harry lleva el suyo en el anular derecho; Lyra ve rosa al probarse el suyo. Los dos juntos forman un corazón (la muesca no era mal acabado). Harry se queda con ambos al final («No wonder you came to find me. Remind me to thank Crabbe»).
 - **Poción de Lupin:** la certeza de que la manipuló Pettigrew.
 - Lazo perdido de Malfoy en el rellano (visto desde fuera).
 

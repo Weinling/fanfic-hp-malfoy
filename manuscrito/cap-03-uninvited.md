@@ -20,7 +20,7 @@ Lyra looked at him. It was a look she had learned from the portrait of her great
 
 “Well, there’s nothing else off this platform for half an hour, so if you’re—”
 
-Lyra let that pass, and went back to tapping her foot. She had found that with Muggles it was best not to encourage them.
+Lyra clicked her tongue, and went back to tapping her foot. She had found that with Muggles it was best not to encourage them.
 
 He did not take the hint. He told her that a station was no place for a girl on her own and that there were all sorts about these days, and he was drawing breath for more when Lyra finally saw two familiar figures shoving a trolley through the crowd at a dangerous speed.
 
@@ -140,7 +140,7 @@ Lyra waited for the part where something happened.
 
 “What is popping candy?”
 
-“Muggle sweets. It’s like sherbet, except it goes off in your mouth like tiny fireworks. And there’s this story every Muggle kid knows, that if you have it with Coke your stomach explodes.” His grin widened. “It doesn’t. But Aunt Marge knows the story as well. She woke up fizzing and choking and absolutely certain she was about to go off like a bomb, and she was screaming that I’d poisoned her, and she rang the police. They took me down the station in the back of a panda car.” He seemed to consider this the best part. “Better than a hex. Nobody can expel you for sweets.” He looked at her with interest. “You’d like it. It fights back.”
+“Muggle sweets. It’s like sherbet, except it goes off in your mouth like tiny fireworks. And there’s this story every Muggle kid knows, that if you have it with Coke your stomach explodes.” His grin widened. “It doesn’t. But Aunt Marge knows the story as well. She woke up fizzing and choking and absolutely certain she was about to go off like a bomb, and she was screaming that I’d poisoned her, and she rang the police. They took me down the station in the back of a panda car.” He seemed to consider this the best part. “Better than a hex. Nobody can expel you for sweets.” He looked at her with interest. “You’d like it. It fights back. I’ll get you some one day.”
 
 Lyra felt a small, disgraceful flicker of curiosity about popping candy, and put her foot on it.
 
@@ -306,13 +306,13 @@ Then she did.
 
 Lyra made a noise she had never made before in her life and clapped her hand over her lips.
 
-Potter got to his feet and dusted off the knees of his jeans. “First kiss with no face?” he said. “Not any more.”
+Potter got to his feet and dusted off the knees of his jeans. “First kiss with a Dementor?” he said. “Not any more.”
 
 It had to be a dream. She would have given anything for it to be a dream. But her mouth was still tingling, very faintly, where it had happened, and dreams did not do that, and Lyra found she could not put three words in the right order.
 
 “What— you— that— what did—”
 
-“Couldn’t let that happen to anybody,” said Potter. He said it very lightly, and not quite to her; he was looking out at the dark again. His ears had gone scarlet. The Dementor, Lyra supposed, with the small part of her mind that was still working. “Call it charity. From somebody with a murderer after him.”
+“Wasn’t going to let a Dementor have my first one, either,” said Potter. He said it very lightly, and not quite to her; he was looking out at the dark again. His ears had gone scarlet. The Dementor, Lyra supposed, with the small part of her mind that was still working. “Call it charity. For somebody with a murderer after him.”
 
 For several seconds Lyra could not speak at all. Then it all arrived at once.
 

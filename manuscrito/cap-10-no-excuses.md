@@ -130,7 +130,7 @@ Something closed over her hand. It was his other hand, cold and wet and much str
 
 “—*patronum!*”
 
-The light that came out of his wand this time was white, true white, the first clean colour she had seen all day. Instead of billowing, it unfolded in the air in front of them, small and faint and four-legged, too thin with the rain coming through it to have a shape she could have named, and then it ran. It went down the air beside Potter at a bound, giving tongue as it went like a hound on a scent, a high bright sound she felt in her teeth, and wherever it went the Dementors went the other way. They broke and scattered across the pitch like crows off a ploughed field, and the dark went off the grass in rags.
+The light that came out of his wand this time was white, true white, the first clean colour she had seen all day. Instead of billowing, it unfolded in the air in front of them, small and faint and four-legged, too thin with the rain coming through it to have a shape she could have named, and then it ran. It went down the air beside Potter at a bound, with a high, thin cry as it went, a bright sound she felt in her teeth, and wherever it went the Dementors went the other way. They broke and scattered across the pitch like crows off a ploughed field, and the dark went off the grass in rags.
 
 Something warm came into her, and it seemed to come in through her hand. One moment the cold was in the middle of her, and the next there was something soft and bright there instead, like the first minute in front of a fire after a whole day in the wet, and it was not hers.
 

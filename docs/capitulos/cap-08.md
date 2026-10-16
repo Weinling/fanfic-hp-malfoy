@@ -12,7 +12,7 @@
 - “Nineteen days, and a second letter, shorter, sent the Monday after the first…” (l. 11)
 - “Sadly… I haven’t got permission.” (l. 35); “I’ll get my own.” (l. 43)
 - “Black wants *you*. That’s the whole point of him.” (l. 65)
-- “You’re worried about me.” / “I’m worried about my afternoon.”; “one rat of a traitor” (citada en 11 y 13); Potter pide un ratón de azúcar rosa y ella compra la pluma
+- “You’re worried about me.” / “I’m worried about my afternoon.”; “one rat of a traitor” (citada en 11 y 13); Potter pide un ratón de azúcar rosa y ella compra la pluma (en Honeydukes: «There were sugar mice in the next jar, pink ones. She did not look at them.»); el formulario con la firma falsificada «flew straight into the fire»
 - “Big old castle like this. You could never find a rat in here if it didn’t want finding.” (l. 73)
 - “Azkaban’s got Dementors on every door… How did that go?” (l. 77)
 - “Let him. It’s nothing to do with us.” (l. 89)

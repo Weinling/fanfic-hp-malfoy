@@ -50,7 +50,7 @@ Lyra knew perfectly well what it said. *Worn by two, each ring will warm when th
 
 “Shall I put them back?” said Crabbe.
 
-“Bin them. Or give them to Millicent.” Lyra turned a page she had not read. “I only bought them to see whether they worked, and I’ve never got round to finding out. It hardly matters. One can’t wear a pair of rings on one’s own.”
+“Bin them. Or give them to Millicent.” Lyra turned a page she had not read. “I only bought them to see whether they worked, and I’ve never got round to finding out. It hardly matters. It isn’t as if there’s anybody to give one to.”
 
 Crabbe turned the box over in her hands.
 

@@ -486,7 +486,7 @@ He took a step towards her. Lyra made a very small noise. Before she could move,
 
 He fitted the two together. The clumsy little notches she had taken for bad workmanship slid into each other as if they had been waiting to, and between his fingers the two rings made a heart.
 
-“Well,” said Harry. “Remind me to thank Crabbe.”
+“Well,” said Harry. “No wonder you came to find me. Remind me to thank Crabbe.”
 
 There was a perfectly good explanation, and Lyra had it ready. A box bought in Zonko’s on an idle afternoon; a drawer; a friend who could not follow a simple instruction. Accident upon accident, and not one of them hers. She had all of it, in order, with the dates.
 

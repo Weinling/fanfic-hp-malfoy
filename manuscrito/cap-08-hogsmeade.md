@@ -36,7 +36,7 @@ She left the hall before he did and walked slowly along the corridor towards the
 
 “What a shame.”
 
-“My aunt and uncle wouldn’t sign the form. After the business with Aunt Marge.” He shook his head at the injustice of it. “So I did Uncle Vernon’s signature myself. It’s a good one, I’ve had practice. And the form folded itself up into a little paper bird and flew off to McGonagall.”
+“My aunt and uncle wouldn’t sign the form. After the business with Aunt Marge.” He shook his head at the injustice of it. “So I did Uncle Vernon’s signature myself. It’s a good one, I’ve had practice. And the form folded itself up into a little paper bird and flew straight into the fire.”
 
 “How very sad for you,” said Lyra. “Shall I bring you back a sugar mouse? Something to suck on in your tower while you mope?”
 
@@ -98,7 +98,7 @@ Filch was at the great doors with his list and his lamp-eyed cat, checking every
 
 Hogsmeade turned out to be a single crooked high street of thatched and slated cottages, with a post office and a great many chimneys, under a sky the colour of pewter, and it was a good deal nicer than Lyra had been led to believe.
 
-Honeydukes was the first surprise. She had grown up on sweets from her mother’s confectioner in Diagon Alley, who made sugared violets to order and would not sell you anything without first enquiring after your family, and she had expected a village sweetshop to be a poor relation. It was nothing of the kind. It was a long, low, steamy room crammed to the ceiling with things she had never seen, and Goyle went round it with the face of a pilgrim. Lyra bought a box of Chocolate Frogs because it would have been rude not to, and then, while Goyle was deciding between sugar quills in three sizes, she found herself standing at the counter with a single sugar quill in her hand that she did not remember picking up.
+Honeydukes was the first surprise. She had grown up on sweets from her mother’s confectioner in Diagon Alley, who made sugared violets to order and would not sell you anything without first enquiring after your family, and she had expected a village sweetshop to be a poor relation. It was nothing of the kind. It was a long, low, steamy room crammed to the ceiling with things she had never seen, and Goyle went round it with the face of a pilgrim. Lyra bought a box of Chocolate Frogs because it would have been rude not to, and then, while Goyle was deciding between sugar quills in three sizes, she found herself standing at the counter with a single sugar quill in her hand that she did not remember picking up. There were sugar mice in the next jar, pink ones. She did not look at them.
 
 She paid for it anyway, and put it in her pocket, and did not ask herself why.
 

@@ -30,7 +30,7 @@ She looked at it. Then she looked round the empty room, picked it up very quickl
 
 Ten days in a drawer had not improved it. It was plain and a little clumsy, the sort of thing one bought in Zonko’s when one was not paying attention. She held it up to the gap in the hangings. Then, since there was nobody to see, she tried it against her hand, finger by finger, the way one tries on gloves, and put it on the middle one, which was the one finger that meant nothing whatever.
 
-It shrank to fit with a small, cold squeeze. She had just decided it looked absurd there, and was reaching to take it off, when it went red.
+It shrank to fit with a small, cold squeeze. She had just decided it looked absurd there, and was reaching to move it one finger along, when it went red.
 
 It went a deep, hot, bloody red, and the metal against her skin went warm, and then warmer, like a stone that has lain all day in the sun.
 

@@ -136,7 +136,7 @@ Lyra saw it the moment she came into the Great Hall, before the Sorting, before 
 
 Lyra said nothing. She cut her roast potatoes into very small pieces.
 
-*They say he went for some students in the grounds.* He had gone for Potter and Granger and a convicted murderer, and for a girl on a hippogriff, on a February night with a full moon over the lake, because somebody had put a neutraliser in his potion; and somebody else had carried that potion up four flights of stairs, and seen a line of little prints across a blotter, and wiped the bottom of the goblet, and thought, *whoever drinks it need never know*.
+*They say he went for some students in the grounds.* He had gone for Potter and Granger and a convicted murderer, and for a girl on a hippogriff, on a February night with a full moon over the lake, because somebody had put a neutraliser in his potion; and somebody else had carried that potion up four flights of stairs, and seen a line of little prints across a desk, and wiped the bottom of the goblet, and thought, *whoever drinks it need never know*.
 
 She looked along the staff table without meaning to. Professor Snape was looking at her. He went on looking for exactly as long as it took her to understand that he was, and then he turned and said something to Professor Sinistra.
 

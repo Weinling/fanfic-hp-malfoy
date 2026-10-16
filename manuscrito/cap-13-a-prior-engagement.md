@@ -240,7 +240,7 @@ Her heel had found the fence post behind her. She had backed all the way into it
 
 Potter looked down the lane, one way and then the other, for long enough that she looked too. It was empty; the boys had taken the last of the noise with them. Then he jerked his head at the gap in the fence and went through it, round the side of the Shack and into the brambles at the back, where nobody on the path could see, and after a moment Lyra followed, because she was not going to be left standing in the lane with her mouth open. The dog came last.
 
-“Sirius,” Potter said to it. “Sorry. I’d have liked to do this some other way. You’ll have to show her.”
+“Sirius,” Potter said to it. “I’ve been wanting to meet you. I’d have liked to do it some other way. You’ll have to show her.”
 
 The dog did not move. It looked at Potter, and then at Lyra, for a long time, and its lip lifted off its teeth as it had for the boys with the stick. Then it barked, twice, short and flat, and it sounded, absurdly, like *no*.
 

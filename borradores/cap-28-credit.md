@@ -224,7 +224,7 @@ She went up the slope towards the castle with the signed card in her pocket, and
 
 It had not been Karkaroff. That was one thing. Whoever had Confunded the Goblet was somebody strong enough to fool an ancient magical object that had been fooling nobody for seven hundred years, and was very probably still in this castle, and was not a vain, frightened, furious man in silver furs on a ship. That was a second thing. And the third was the one Karkaroff had wished he had not said: a man who had sent his own son to Azkaban to die, and something that had been done to the Longbottoms, which she did not understand, and which had made Karkaroff look at the door.
 
-Longbottom. She thought of a round-faced boy in first year, scrabbling on the floor for the bits of a Remembrall. She did not know what any of it meant. But she knew what it was worth, and she knew exactly who to give it to; and it was not Mad-Eye Moody, who would take nothing from her. It was the boy with the cloak.
+Longbottom. She thought of a round-faced boy in first year, and a Remembrall in pieces on the grass, and three new ones in a parcel with no name on it. She did not know what any of it meant. But she knew what it was worth, and she knew exactly who to give it to; and it was not Mad-Eye Moody, who would take nothing from her. It was the boy with the cloak.
 
 There was somebody standing on the path.
 

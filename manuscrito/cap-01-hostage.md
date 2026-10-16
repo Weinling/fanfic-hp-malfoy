@@ -66,9 +66,9 @@ Potter led her down a side corridor off the entrance hall and into a classroom n
 
 “If you’ve dragged me out of a feast,” Lyra began, “in my dressing gown, to—”
 
-“Malfoy. Stop talking for one minute.”
+“Malfoy. Shut up for one minute.”
 
-She was so surprised that she did. People did not tell her to stop talking. Weasley did, but Weasley didn’t count.
+She was so surprised that she did. People did not tell her to shut up. Weasley did, but Weasley didn’t count.
 
 Potter reached into his robes and dropped something on the nearest desk. It was a small black book, or what was left of one. A hole had been punched straight through the middle of it, ragged at the edges, as if something long and sharp had been driven in through the cover and out the back, and the pages round the wound were soaked with ink that seemed to have bled out of the paper rather than spilled onto it. It had dried in thick, glossy streaks. Lyra had the unpleasant impression that until very recently the book had been alive.
 
@@ -277,6 +277,12 @@ She had not been expecting that, and it wrong-footed her.
 “I thought there’d be hexes,” he added.
 
 “The night,” said Lyra, “is young.”
+
+“You’re cleverer than I thought, though.”
+
+“Than you *thought*?”
+
+“Don’t push it. That’s the nicest thing I’ve ever said to you.”
 
 He got up off the chair and held out his hand.
 

@@ -238,4 +238,4 @@ He took her hand, the one on the end of the bandaged arm, and began to wipe the 
 
 Lyra let him. She did not say anything. She sat with her face still wet and watched the cloth go round each knuckle, and listened to the sound of the basin, and to Potter breathing more slowly now, and to the ache in her arm going on and on underneath it all.
 
-It occurred to her, through the ache and the tears and the smell of Muggle washing powder that still clung to her hair, that this was not the first time Potter had caught her when she fell. She had spent the best part of a year making sure nobody remembered the first time, herself included. She put the thought away at once, in the same drawer as everything else, before it could finish itself.
+It occurred to her, through the ache and the tears and the smell of Muggle washing powder that still clung to her hair, that this was not the first time Potter had caught her when she fell. She had spent a good deal of effort making sure nobody remembered the other times, herself included. She put the thought away at once, in the same drawer as everything else, before it could finish itself.

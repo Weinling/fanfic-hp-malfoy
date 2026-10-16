@@ -15,8 +15,8 @@
 - “Don’t fret about me, miss… I’m better informed than I look. Oh, and if a big black dog turns up, be nice to it. Feed it something. It’ll be starving.” (citada en 11, 13 y 14)
 - “Who was screaming?” (l. 287) / “Nobody was screaming, Potter. Except you.” (l. 289)
 - “Careful, or your first kiss will be with a Dementor.” (l. 295)
-- Lyra: “…your first kiss will be with something that hasn’t got a face.” / Potter: “First kiss with no face?… Not any more.”
-- “Couldn’t let that happen to anybody… Call it charity. From somebody with a murderer after him.”
+- Lyra: “…your first kiss will be with something that hasn’t got a face.” / Potter: “First kiss with a Dementor?… Not any more.”
+- “Wasn’t going to let a Dementor have my first one, either… Call it charity. For somebody with a murderer after him.” (también es el primer beso de Harry)
 - “...that was my *first*, you absolute— you *animal*—” (l. 319)
 - “Eat that… Both of you. It helps… With the Dementors, I mean.” (l. 331)
 
