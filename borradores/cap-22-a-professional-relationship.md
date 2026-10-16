@@ -2,7 +2,7 @@
 
 Outside, it was already dark.
 
-Hogwarts did not trouble itself with lamps in the grounds; it had a curfew instead. Once they were down the front steps, they had no more need of the cloak. Harry folded it away, and they went along the side of the castle in the light that leaked from the windows, a patch here and a patch there, keeping close enough to see by it and careful never to step into it.
+Hogwarts did not light its grounds; it had a curfew instead, and trusted that to do the job. Once they were down the front steps, the dark did the cloak’s work for it. Harry folded it away, and they went along the side of the castle in the light that leaked from the windows, a patch here and a patch there, keeping close enough to see by it and careful never to step into it.
 
 He took her to the broom shed.
 
@@ -14,11 +14,11 @@ It was not the Quidditch shed, with the team brooms on their pegs and her own Ni
 
 He came out with two Cleansweeps. They were old, and their bristles were thin, but they were straight.
 
-“Where did you go,” said Lyra, “the last time? What happened?”
+“What happened,” said Lyra, “the first time round?”
 
-He told her while he checked the bristles.
+He told her while he checked the bristles, in the flat, short way of somebody reading out a list he did not much like.
 
-“Lupin went for us. We got away, just about. And down at the lake there was Pettigrew, with Ron, waiting.” He stopped for a second. “And Dementors. More than a hundred.”
+“Lupin went for us. We got away from him, just. Then down at the lake there was Pettigrew, with Ron tied up, waiting for us.” He stopped for a second. “And Dementors. More than a hundred.”
 
 He pulled his cloak tight and got astride the Cleansweep with his wand in his hand. Lyra did the same. They rose together, and turned towards the Forbidden Forest.
 
@@ -30,21 +30,21 @@ Lyra nearly fell off the Cleansweep.
 
 The Shrieking Shack. The rain. *Don’t smile in front of me.*
 
-He had taken it to heart. He had been doing it, all this time. And she realised, flying there, that he had not once smiled at her since that day: not in Potions, not in the corridors, not even in the ground-floor corridor three hours ago with Granger standing by and his ears on fire. It had been a stone she had thrown because she had nothing else to throw, and he had picked it up and carried it about for two months.
+He had kept it. All this time, he had kept it. And she understood, flying there, that he had not smiled at her once since that afternoon: not in Potions, not in the corridors, not even in the ground-floor corridor three hours ago, with Granger watching and his ears on fire. She had thrown it at him because she had had nothing else to throw, and he had picked it up and carried it about for two months as though it weighed something.
 
-She was sorry, a little. So she said it as rudely as she could.
+She was sorry, a little. So she said it as rudely as she knew how.
 
-“Idiot. You’ve kept that up all this time?”
+“You absolute idiot. Have you really been doing that all this time?”
 
-“People keep calling me an idiot. It must be catching.”
+“Everybody tells me I’m an idiot. I think I’ve started believing them.”
 
-If she was honest, and she was not going to be, she was rather glad.
+If she was honest, and she was not going to be, she was rather pleased.
 
-Lyra made a small noise through her nose that was very nearly a laugh.
+Lyra let out a breath through her nose that was very nearly a laugh.
 
-“Honestly, what a fool. If being with me makes you so happy, smile as much as you like. I shall overlook the impertinence.”
+“Oh, for heaven’s sake. If it makes you that happy to be near me, smile as much as you like. I shall pretend not to notice the cheek.”
 
-And now he would go back to grinning all over the place, the way he used to. In the Great Hall, in lessons, at Lyra and at everybody else. At everybody else, as much as at her.
+And now he would go back to grinning all over the castle, the way he used to. In the Great Hall, in lessons, in the corridors, at Lyra and at everybody else. At everybody else, quite as much as at her.
 
 “…Only in front of me, I mean.”
 
@@ -66,51 +66,47 @@ It meant he could not see her face.
 
 They came in over the trees with the cloak round both of them and the brooms held low, and hung there in the dark at the edge of the forest, where the shore of the lake ran out in shingle.
 
-Peter Pettigrew was standing on it, rubbing his hands together like a fly.
+Peter Pettigrew was standing on it, rubbing his hands together.
 
-He was short and balding, with thin colourless hair, and he must once have been plump, because the skin of his face had gone loose and wrinkled with losing it too fast. He was filthy all over. He looked like something that had come up out of a drain, and his voice, when he spoke, was a rat’s voice, thin and squeaking.
+He was a small man, gone soft and then gone thin, so that the skin of his face hung loose on it like a coat a size too big. What hair he had was colourless. He was dirty all over in the way of something that has lived under floors, and he kept glancing at the dark on every side with small, wet, darting eyes. When he spoke, it was very politely, to the Dementors.
 
-“B-Black will be here soon…”
+“He’ll be here directly. Sirius Black. And the people who helped him out of your prison, gentlemen. Criminals, every one of them.” His hands went on washing each other. “You won’t get into any trouble for them. Nobody would blame you. Nobody would even ask.”
 
-Anybody with a particle of dignity would have looked away from him. The Dementors did not seem to mind. They stood about him in a loose ring, very quietly, with their hoods bent towards him, as though they were listening; or deciding. It was impossible to tell. There was nothing inside those hoods to tell by.
-
-Pettigrew must have felt it, because his voice shook.
-
-“S-Sirius Black, and the wicked people who let him out. They’re c-criminals. You can kiss the lot of them, and nobody will mind… The people who let him escape from Azkaban and made fools of you all. Have them!”
+The Dementors stood about him in a loose ring, very quietly, with their hoods bent towards him. It was impossible to tell whether they were listening or simply waiting to see which of the warm things in front of them would be easiest. There was nothing inside the hoods to tell by.
 
 “He’s *lying!*”
 
-Beside him on the shingle, trussed up in ropes, Ron Weasley was shouting. He looked as frightened as anybody would, with the Dementors so close. But he had his teeth set, and he went on shouting.
+Beside him on the shingle, trussed up in ropes, Ron Weasley was shouting. He was grey with fright, as anybody would have been with the Dementors so close. But he had his teeth set, and he went on shouting.
 
-“You’re *guards*, aren’t you? *He’s* the criminal! He’s been pretending to be my *rat!* Arrest *him!*”
+“You’re the *guards!* Guard something! *He’s* the criminal! He’s been living in my *pocket!*”
 
-“Be quiet, Ron,” said Pettigrew. “Dementors aren’t Aurors. They don’t care who’s guilty, only what’s *food*. So you can tell them I’m a criminal all you like—”
+“Ron.” Pettigrew said it gently, as one might to a child at bedtime. “They aren’t Aurors. They don’t care who did what. They only care what’s warm. You can tell them anything you like.”
 
-“Oh, *good*,” said Ron. “Oi! Dementors! He’s an unregistered Animagus, him! Don’t go wandering off! Have him for your packed lunch!”
+“Brilliant,” said Ron, his voice cracking. “*Oi!* Did you hear that? Unregistered Animagus, him! Two dinners in one! Get *stuck in!*”
 
-Pettigrew flicked his wand in a panic, and the rope ran up Ron’s neck and over his mouth.
+Pettigrew flicked his wand, almost absently, and the rope ran up Ron’s neck and across his mouth.
 
-“That’s enough… I always liked the Weasleys… I lived with you for twelve years, Ron. Very comfortably. Even as a rat.”
+“There. I’ve always been fond of the Weasleys. I lived with you for twelve years, you know. I don’t think I was ever hungry once.”
 
-“Mmf. *Mmf mmf?*”
+“*Mmf.* Mmf *mmf?*”
 
-“That’s right. I didn’t *turn into* Scabbers. I *was* Scabbers. Bill, and then Percy, and then you… We got on so well…”
+“No. I didn’t turn into Scabbers. I *was* Scabbers. Bill’s, and then Percy’s, and then yours. We were very happy.” He patted Ron’s head. Ron jerked away from the hand as though it burnt. “I shouldn’t like anything to happen to you. Lie still, and we can watch together while they have your friends. And mine.”
 
-Ron went very still in his ropes. Lyra could see him understand it: why Potter and Granger had gone so awkward whenever Pettigrew was mentioned, and why they had gone looking for the rat without him. He shouted something into the gag that would have got him a detention in any lesson in the school.
-
-“I don’t want to kill a Weasley,” said Pettigrew. “Stay there, and keep quiet. We can watch together while they eat your friends… and mine.”
+Lyra could see Ron understand it, all of it, at once: the awkward silences whenever Pettigrew was mentioned, and Potter and Granger going hunting for the rat without him. What he said into the gag would have got him a detention in any lesson in the school.
 
 “*PETER!*”
 
-Sirius Black came down out of the trees like murder. Pettigrew stumbled backwards, and found the lake behind him and the Dementors on either side, and nowhere at all to go; and a rat in a corner will bite.
+Sirius Black came down out of the trees like murder.
 
-“My old friend. Welcome. Did you like my little present?”
+Pettigrew stumbled backwards, and found the lake behind him and the Dementors on either side, and nowhere to go; and a rat in a corner bites. He drew himself up. He even smiled.
 
-“Shut up! Did you do something to Remus’s potion?”
+“Sirius. I was hoping you’d come. Were you pleased with my present?”
 
-Pettigrew nodded, slowly.
+“What did you do to Remus’s potion?”
 
-“Letters to Dumbledore and to Severus, to get them out of the way. And a neutraliser in the Wolfsbane, on Severus’s own desk, while it stood ready.” He licked his lips. “How is Remus? He didn’t get his potion, so he must have changed. Is he all right?”
+Pettigrew nodded, slowly, the way a man nods who has been waiting to be asked.
+
+“Two letters, from the Ministry, to get Dumbledore and Severus out of the way. And a few drops of neutraliser in the Wolfsbane, while it stood ready on Severus’s desk.” He licked his lips. “How is Remus? He’ll have changed, I suppose. I do hope he hasn’t hurt anybody.”
 
 Under the cloak, Lyra stopped breathing.
 
@@ -118,51 +114,47 @@ There it was, then, said out loud. A rat on Snape’s desk, and a smear across t
 
 Harry did not look at her. He was watching the shore. She was glad of it.
 
-“How *dare* you ask that!”
+“You *hope*—” Sirius could hardly get it out.
 
-“What else could I do? If I hadn’t, the two of you would have killed me! I only wanted to live!”
+“What was I to do? The two of you would have killed me. I only wanted to live.”
 
 “Is that why you sold my parents?”
 
-Potter had come out of the trees behind Sirius. He had plainly fallen down a good deal on the way; he was covered in earth and bits of twig. He was panting. But he had his wand up, and he was looking at Pettigrew.
+Potter had come out of the trees behind Sirius. He had plainly fallen down a good deal on the way; he was covered in earth and bits of twig, and he was panting. But his wand was up, and he was looking at Pettigrew.
 
-“If you only wanted to live, you could have run. Why sell them?”
+“If all you wanted was to live, you could have run. You didn’t have to give them to him.”
 
-Pettigrew’s face changed. With Potter standing next to Sirius, he seemed to be seeing something else: two boys, four boys, a long time ago, who had gone about the place like lords.
+Something went over Pettigrew’s face. With Potter standing at Sirius’s shoulder, he seemed for a moment to be looking at something else entirely: four boys, a long time ago, who had gone about the castle as though they owned it.
 
-“Oh, Harry… You look exactly like your father. I’ve watched you grow up, you know…”
+“Harry,” he said softly. “You look so like him. I’ve watched you grow up, you know. Every summer. Every Christmas.”
 
-“Watched for your chance to kill me, you mean. You held off very nicely. You must have had dozens in three years.”
+“Watched for your chance, you mean. You must have had a hundred. You were *in my dormitory*.”
 
-“Kill you? *Never!* Why would I kill you? Dumbledore and the whole Ministry would have come after me the next minute!”
+“Kill you?” Pettigrew looked genuinely shocked. “I’d never have got as far as the gates. No. I only ever wanted to be left alone.”
 
-“Then why sell my parents, if you hate running so much?”
+“Then why sell them?”
 
-“Because I didn’t *know!*” It came out of Pettigrew like a scream. “I didn’t know he was going to fall! If I’d known, I’d never have done it! I hate running… I can’t *sleep* for thinking somebody’s after me…” His bitten fingers twisted together. “James wanted to fight the Dark Lord, and the Death Eaters came after *me* for it! I had to, to live! And then he went to kill you, and vanished, and I was left with nowhere, *nowhere*—”
+“Because I didn’t *know!*” It came out of him in a squeal, and his voice went thin and high with it, and for an instant the rat showed. “I didn’t know he would *fall!* If I’d known, I’d have stayed! I hate running. I can’t *sleep*.” His bitten fingers knotted themselves together. “James wanted to fight, and it was *me* they came for, because I was the one they could catch. And then the Dark Lord went to your house and never came back, and I was left with nobody. *Nobody*—”
 
 “That’s a shame,” said Potter, quietly.
 
-Pettigrew’s face lit up. “You understand! Lily was the same, she always—”
+Pettigrew’s face lit up. “You understand. Lily was just the same, she always—”
 
-“Shut up. Don’t say my mother’s name. That isn’t what I meant.”
+“Don’t. Don’t say her name. That isn’t what I meant.”
 
 Potter pushed his hair back off his forehead, roughly, with the flat of his hand, and the scar stood out on it like a cut. There was not a trace of a smile anywhere in his face. Lyra had seen that face before, and she had not liked it any of the times. It did not look like James Potter or like Lily Potter. If it looked like anybody, she thought, it looked like the man who had given him the scar.
 
-“It’s a shame Sirius was bound,” said Potter. “Otherwise you’d have spent your whole life being hunted, by the Aurors and by him. Twelve years as somebody’s pet was much too comfortable for what you did.”
-
-“W-what?”
-
-“A grown man who can’t own up to his own choices, and cries about it. That’s why all you can ever do is run. Coward.”
+“It’s a shame Sirius was bound,” said Potter. “Or you’d have spent twelve years being hunted, instead of twelve years being fed. Coward.”
 
 Lyra looked sideways, under the cloak, at the Harry beside her. He did not look at her. He was watching himself with no expression.
 
-Pettigrew’s face quivered. But that was all it did. He was the kind of man who had swallowed his temper for so long that he could no longer even lose it properly; he only gulped.
+Pettigrew’s face quivered. Then it settled, and that was worse. He was a man who had swallowed his temper for so long that he no longer knew how to lose it; he only went still, and very pale, and gulped.
 
-“Very well, Harry. I’ll grant you that. You’re like James… just as gifted…”
+“Very well,” he whispered. “You’re James’s son. Just as clever. Just as brave.”
 
 His wand came up. Sirius’s came up, and Potter’s, in the same instant, and three spells met over the shingle with a bang.
 
-“But it ends here! *Dementors!* Take them!”
+“And just as easy to feed!” shrieked Pettigrew. “*Take them!*”
 
 And all round the shore, out of the dark, came the Dementors: not a hundred any longer, but hundreds.
 
@@ -178,13 +170,13 @@ The Dementors came in like a tide. White light spat out of the end of Potter’s
 
 The fright in it turned every hood on the shore. Granger and Ron shrank back.
 
-“Leave them alone!” Sirius shouted. “They’ve done nothing! *Dumbledore won’t stand for it!*”
+“Leave them alone!” Sirius shouted. “They’re *children!* Dumbledore will have every one of you sent back for this!”
 
 The Dementors did not hear him, or did not care. Pettigrew sent a jet of red light at his back. Sirius threw himself aside, and blasted the shingle at Pettigrew’s feet, and Pettigrew shrieked with terror; and one or two of the hoods turned towards him.
 
-“Wait! N-no! Not me! Black is the—”
+“Wait! N-no! Not *me!* Black is the—”
 
-But a hungry Dementor cannot tell one man from another. It had come for a wizard who was sometimes an animal, and here was another wizard who was sometimes an animal; it saw no reason to be fussy. It went past Pettigrew, close, and he stiffened all over and stood with his eyes wide and full of nothing but fear.
+But a Dementor does not ask names. It had been sent for a wizard who was sometimes an animal, and here was another wizard who was sometimes an animal, and very frightened, and very near. It went past Pettigrew, close, and he stiffened all over and stood with his eyes wide and empty of everything but fear.
 
 Sirius and Potter were trying to cast. There were too many. The light kept going out of their wands, flaring and dying and flaring again. Granger and Ron were down. Potter and Sirius stood over them as long as they could, and then their wands fell out of their hands, and they fell after them.
 
@@ -200,7 +192,7 @@ Lyra did not ask him why. Instead, very carefully, she lifted her hand.
 
 It hung in the air between them, empty, a little awkward.
 
-When a Malfoy held out her hand first, it was an act of mercy. Taking it was the other party’s duty. Lyra Malfoy was not short of anything, and it made no difference to her whatever whether he took it or not; but if he wanted it, there was a little room, a very little, that she was prepared to leave him. The hand, held out not quite steadily in the dark, was that room.
+A Malfoy who offered her hand first was conferring a favour, and the other party had better have the sense to take it. Lyra Malfoy wanted for nothing, and it was entirely the same to her whether he took it or not; but if he did happen to want it, she was prepared to leave him a little room. A very little. The hand, held out not quite steadily in the dark, was the room.
 
 Harry grinned all over his face, and took it.
 
@@ -208,7 +200,7 @@ Then he turned his wand down towards the shore, with her hand in his, and shoute
 
 “*EXPECTO PATRONUM!*”
 
-It was like the sun coming down. For an instant there was no night at all, and white light broke over the shore of the lake.
+It was as if somebody had thrown open a door on a summer noon. For an instant there was no night at all, and white light broke over the shore of the lake.
 
 A silver fox landed on the shingle.
 
@@ -228,7 +220,7 @@ They came down side by side, still holding hands. Lyra got off the broom and dre
 
 Think of something happy. Hold on to it. Let it out. *Expecto Patronum*.
 
-She had never done it. She had never been anywhere near doing it; it was advanced magic, far beyond anything in the third-year syllabus, a memory turned into a guardian. But somehow, standing there, she thought she could. Through the hand that held hers came warmth, and something else with it, something that tickled, all the way up her arm. If she pointed her wand now, it would go straight out of the end.
+She had never done it. She had never been anywhere near doing it; it was advanced magic, far beyond anything in the third-year syllabus, a memory turned into a guardian. But somehow, standing there, she thought she could. Through the hand that held hers came warmth, and something else with it, something that fizzed all the way up her arm like the first sip of something she was too young for. If she pointed her wand now, it would go straight out of the end.
 
 “*Expecto Patronum!*”
 
@@ -238,15 +230,15 @@ It was fainter than his. But it had a shape, a real shape, small and four-legged
 
 —and fell over.
 
-Lyra’s fox scrabbled at the stones with its front paws, and rolled onto its back, and lay there.
+Lyra’s fox scrabbled at the stones with its front paws, and rolled onto its back, and lay there with its legs in the air.
 
 “Get *up!* Get up, and go and see them off!”
 
-Her fox paid no attention whatever. It rolled about on the shingle, making a small contented noise. Beside her, somebody snorted, and Lyra went red.
+Her fox paid no attention whatever. It squirmed about on the shingle, making a small contented noise. Beside her, somebody snorted, and Lyra went red.
 
 It was a shocking dereliction of duty. But it seemed that even that was enough for the Dementors. With a second Patronus on the shore, they faltered, and drifted apart, and withdrew into the dark, and were gone.
 
-Harry’s fox came stepping daintily across the stones and stood looking down at hers. At once, her fox got up, wagging its whole back end, and went to him, and pushed its nose into the ruff of his neck. It went on doing it. It wagged its tail. It put its tongue out, a little—
+Harry’s fox came stepping daintily across the stones and stood looking down at hers. At once, her fox scrambled up, its whole back end going, and went to him, and pushed its nose into the ruff of his neck. It went on doing it. It wagged. It put its tongue out, a little—
 
 “*Get OFF!*”
 
@@ -266,9 +258,9 @@ She went on breathing hard through her nose for a while, and then that began to 
 
 The forest was as quiet as any other night. Harry looked round at the bodies on the shore.
 
-“From here, you lead, Lyra. Potter’s out cold. He doesn’t know what happens next.”
+“You’ll have to lead from here, Lyra. Potter’s out cold. He doesn’t know what happens next.”
 
-Lyra calmed herself and thought back. She had come out of the castle, and seen a light from the direction of the forest, and—
+Lyra made herself think back. She had come out of the castle, and seen a light from the direction of the forest, and—
 
 “I came down on the hippogriff from Hagrid’s,” she said, “and I saw somebody getting up, over there. Only it was Professor Lupin, changed. And that werewolf had the nerve to—”
 
@@ -276,7 +268,7 @@ Lyra calmed herself and thought back. She had come out of the castle, and seen a
 
 Something growled.
 
-The werewolf came out of the trees, and its eyes were full of nothing but hatred for anything human. It came straight at them on all fours.
+The werewolf came out of the trees, and there was nothing in its eyes but hatred for anything that smelt of people. It came straight at them on all fours.
 
 “*Hide!*”
 
@@ -296,7 +288,7 @@ Harry started forward. Lyra caught his wrist.
 
 That made her sound in debt to an animal. She corrected herself at once.
 
-“That hippogriff’s quite useful. He sees off a werewolf without any trouble. He’d make a decent gamekeeper.”
+“The hippogriff deals with it. Quite competently, in fact. One could do worse, for a guard on the gate.”
 
 The werewolf went for Malfoy, and Buckbeak reared over her and struck it back, and struck it again; and in the end it could not get the better of even a hippogriff, and fled into the trees.
 
@@ -328,7 +320,7 @@ Ahead, a tall figure was walking away from them.
 
 “Professor Dumbledore!”
 
-The headmaster of Hogwarts turned round.
+The Headmaster of Hogwarts turned round.
 
 In Slytherin they said he was senile. Lyra had laughed at it a hundred times in the common room, and very nearly believed it.
 
@@ -352,19 +344,19 @@ It was the smallest pause. It was enough.
 
 For once, Harry looked taken aback. “How did you know?”
 
-“Severus and I came back at much the same time. We had each had a letter calling us to the Ministry this evening, and the Ministry, when we arrived, had sent for neither of us. Peter’s doing, I imagine. And yet by the time we hurried back, the two of you had finished the whole business and caught him. I know how very able you both are. But I saw no reason to rule out a Time-Turner.”
+“Severus and I were each called to the Ministry this evening, by letter, and the Ministry, when we arrived, had called neither of us. Peter’s work, I imagine. We came back as fast as we could, and found the whole business finished, and Peter caught, by two third-years.” He inclined his head. “I have a high opinion of you both. Not quite that high. A Time-Turner seemed the likelier explanation.”
 
 He raised his wand. Ropes uncoiled out of the air towards the broom and wound themselves round Pettigrew, round and round; and then they opened, very like two snakes opening their jaws, and closed over him again. If he woke up, and became a rat, they would swallow the rat.
 
-“And besides,” said Dumbledore. “Severus has a grudge against Sirius, and given the chance, he would see him dead. Unless you meant to let Sirius die, there must have been somebody on that shore who could stop him. I wondered whether it might have been the earlier you.”
+“And there is Severus,” said Dumbledore. “Severus has wanted Sirius dead for twenty years, and tonight he had him at his feet. Yet you tell me he is bringing him here. So somebody on that shore talked him out of it.” He looked, mildly, at Lyra. “I did wonder whether it was the earlier you.”
 
 Lyra said nothing.
 
 It was exactly what had happened. She had stopped Snape by lying to his face, and only just. And Dumbledore had worked out the whole of it standing in a corridor, without being told a thing.
 
-He was terrifyingly able, and he frightened her.
+She had put her hands behind her back, the way she did in her father’s study when she had something in them she did not want seen. There was nothing in them. She left them there anyway.
 
-How, she thought, had the Dark Lord ever imagined that he could fight this man?
+All her life she had heard grown-ups at her father’s table say that the Dark Lord had been the greatest wizard of the age. She had never once, until this minute, wondered how he had expected to manage this one.
 
 “Lyra Malfoy,” said Dumbledore. “What would you like me to call you?”
 
@@ -380,13 +372,13 @@ He looked at her, standing there as straight as a wand and quite correct, and hi
 
 “You have a good friend, Harry.”
 
-Harry rubbed the back of his neck. “It took an awful lot of work.”
+Harry rubbed the back of his neck. “It wasn’t easy.”
 
-“So I see. I confess I thought it wasted effort. I was mistaken. It was worth it.”
+“No. I rather thought you were wasting your time. I am glad to have been wrong.”
 
-Lyra decided she would find out later precisely how much work, and from whom.
+Lyra decided she would find out later precisely how much time, and spent on what.
 
-He moved his wand again. Pettigrew, trussed from head to foot, rose off the broom and floated away up the corridor towards the headmaster’s office, and the stone gargoyle at the end of it slid aside to take him in.
+He moved his wand again. Pettigrew, trussed from head to foot, rose off the broom and floated away up the corridor towards the Headmaster’s office, and the stone gargoyle at the end of it slid aside to take him in.
 
 Dumbledore turned towards the stairs.
 
@@ -420,6 +412,6 @@ Only one of him, too. And he was Potter again, she told herself firmly. That was
 
 It did not seem to take.
 
-He could not tell her everything; Dumbledore had said so. Very well. She thought of a line of little prints on a blotter, and of a werewolf coming down the shore with no man left in its eyes.
+He could not tell her everything; Dumbledore had said so. Very well. She thought of a line of little prints across a desk, and of a werewolf coming down the shore with no man left in its eyes.
 
 She had not told him everything either.

@@ -3,7 +3,7 @@
 
 ## Escenas
 1. **Cobertizo y vuelo.** Fuera ya es de noche. Harry la lleva al cobertizo de escobas del colegio (no al de Quidditch): Shooting Stars deterioradas, una con la empuñadura remendada con celo. Su escoba está «in the Whomping Willow, in pieces»; la de ella, bajo llave en los vestuarios. Sacan dos Cleansweeps viejas. Él cuenta lo que pasó: Lupin lobo, Pettigrew con Ron, más de cien dementores. En el aire, Harry pregunta: «Can I smile in front of you?». Lyra: «smile as much as you like… Only in front of me, I mean». Él ríe (la primera vez en dos meses): «Every time I smile, I'll think of you.» Ella va por delante para que no le vea la cara.
-2. **El lago, bajo la capa.** Pettigrew, rodeado de dementores, intenta entregarles a Black y a los «wicked people». Ron, atado, grita. Pettigrew se revela como Scabbers y amordaza a Ron. Llega Black («PETER!»). Pettigrew **confiesa** que mandó cartas falsas a Dumbledore y a Snape y echó un neutralizador en la poción de Lupin, sobre el escritorio de Snape. Lyra, bajo la capa, deja de respirar: lo que sospechaba es verdad y es culpa suya (por su prisa). Aparece Potter, que humilla a Pettigrew: «Coward.» Pettigrew llama a los dementores, cientos.
+2. **El lago, bajo la capa.** Pettigrew, rodeado de dementores, intenta entregarles a Black y a «the people who helped him out of your prison». Ron, atado, grita. Pettigrew se revela como Scabbers y amordaza a Ron. Llega Black («PETER!»). Pettigrew **confiesa** que mandó cartas falsas a Dumbledore y a Snape y echó un neutralizador en la poción de Lupin, sobre el escritorio de Snape. Lyra, bajo la capa, deja de respirar: lo que sospechaba es verdad y es culpa suya (por su prisa). Aparece Potter, que humilla a Pettigrew: «Coward.» Pettigrew llama a los dementores, cientos.
 3. **El Patronus.** Dementores caen sobre todos, Granger cae, Black y Potter pierden las varitas. «It's time.» Harry confiesa miedo. Lyra extiende la mano primero («the room»). Harry sonríe y la toma. *Expecto Patronum*: un zorro plateado. Lyra también: su zorro, más pequeño, se cae, rueda panza arriba y luego se frota contra el de él. Ella lo deshace a manotazos. Los dementores se retiran.
 4. **La repetición de la orilla.** Lyra «guía» (cuenta cómo llegó). Aparece Lupin lobo; se esconden bajo la capa; llega Malfoy con Buckbeak; se repite la escena del 20 vista desde fuera, incluida la mentira a Snape («I caught Sirius Black»). Harry le coge la mano bajo la capa. Cuando la comitiva sale, Harry y Lyra salen de la capa, atan a Pettigrew («neck to ankles»), lo cargan en la Cleansweep de Harry. Malfoy mira atrás: «an empty stretch of shingle».
 5. **Dumbledore.** Con el mapa, lo encuentran en el segundo piso. «Peter. At last.» Reconoce el giratiempo. Deduce que alguien detuvo a Snape en la orilla: «the earlier you». Pregunta cómo llamar a Lyra: «Miss Malfoy, please, sir. It's a professional relationship.» A Harry: «You have a good friend». Despide a Lyra; Harry quiere decirle algo y Dumbledore lo corta: «You know you cannot tell her everything.» Lyra: «I'm not in the least interested in your silly secrets.»
@@ -12,9 +12,10 @@
 ## Frases literales importantes
 - «Can I smile in front of you?» / «…Only in front of me, I mean.» (ll. 27, 49)
 - «Every time I smile, I'll think of you.» (l. 59)
-- «Did you do something to Remus's potion?» / «a neutraliser in the Wolfsbane» (ll. 109, 113)
-- «Coward.» (l. 155)
-- «When a Malfoy held out her hand first, it was an act of mercy. Taking it was the other party's duty.» (l. 203)
+- «What did you do to Remus’s potion?» / «a few drops of neutraliser in the Wolfsbane» (ll. 109, 113)
+- «Or you’d have spent twelve years being hunted, instead of twelve years being fed. Coward.»
+- Retocado en el cotejo con el original (16 de octubre de 2026): Pettigrew más corto y más inquietante; fuera las frases en que el narrador decía lo que sentía Lyra ante Dumbledore.
+- «A Malfoy who offered her hand first was conferring a favour, and the other party had better have the sense to take it.» (l. 203)
 - «EXPECTO PATRONUM!» (l. 209); «A silver fox landed on the shingle.» (l. 213)
 - «Miss Malfoy, please, sir. It's a professional relationship.» (l. 375)
 - «You know you cannot tell her everything.» (l. 399)
