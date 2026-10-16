@@ -102,7 +102,7 @@ She would never have said so aloud, but he was very good. She feinted twice and 
 
 She put two fingers in her mouth and whistled, the way her father’s gamekeeper whistled in the beaters at a shoot. “Derrick! Leave him. He’s *mine*.”
 
-Derrick’s head came round. He looked straight past her at Diggory, and went for him again.
+Derrick’s head came round. He looked straight past her at Diggory, and went for him again; and Bole, not to be left out, went after him too.
 
 Madam Hooch’s whistle shrieked.
 

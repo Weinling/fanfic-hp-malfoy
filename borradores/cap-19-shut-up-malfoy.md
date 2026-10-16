@@ -136,7 +136,7 @@ He smiled, a little wryly, as though he knew exactly whose daughter was asking, 
 
 “Then tell somebody. Tell the Headmaster. Tell the *Prophet*.”
 
-“A werewolf, writing to the *Prophet* to say that Sirius Black is innocent and the hero who died trying to stop him is alive?” He rubbed his eyes. “They would print it, I imagine. On the page with the jokes. And the only other man who could swear to it would be kissed before he got to the end of the first sentence.” He hesitated. “Nor can I very well tell them that Peter goes about on four legs, without telling them how I know.”
+“A werewolf, writing to the *Prophet* to say that Sirius Black is innocent and the hero who died trying to stop him is alive?” He rubbed his eyes. “They would print it, I imagine. On the page with the jokes. And the only other men who know it can’t so much as point, and one of them would be kissed before anybody thought to ask.” He hesitated. “Nor can I very well tell them that Peter goes about on four legs, without telling them how I know.”
 
 “On *four*—”
 

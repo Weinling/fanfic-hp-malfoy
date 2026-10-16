@@ -92,9 +92,9 @@ The slip in the box had said *which way to look*. Lyra held up her hand. The rin
 
 Crabbe was in the common room at this moment, doing her Charms homework with her tongue between her teeth. So Crabbe had given the other ring to somebody; and there was only one person Lyra could think of who would be out past the forest tonight, in mortal danger, with nobody knowing. She would deal with Crabbe later.
 
-Then, beyond the trees, a light went up, white for an instant and then, unmistakably, silver, and it ran out over the water and was gone. As it went, the ring flashed pink, once, and was red again before she could be sure of it. Zonko’s, she supposed, and their notion of quality.
+Then, beyond the trees, a light went up, white for an instant and then, unmistakably, silver, and it ran out over the water and was gone.
 
-The light had gone up in exactly the direction the ring was pointing.
+It was in exactly the direction the ring was pointing.
 
 Lyra had taken four steps towards the forest before her head caught up with her feet. On foot? In the dark? Through *that*? She would arrive in time for the funerals. Her broom was locked in the changing rooms on the other side of the pitch, which tonight might as well have been France.
 
@@ -154,7 +154,7 @@ Something growled.
 
 Lyra stopped where she was.
 
-The figure that had got up was not a person. It was a long, starved shape with its spine standing up under the fur like a row of knuckles, and claws on its forefeet, and a head that a careless person might have called a wolf’s. Lyra had not been careless. She had copied that skull off Snape’s blackboard in November, the snout a shade too short, the eyes a shade too far forward, and labelled it in her neatest hand.
+The figure that had got up was not a person. It was a long, starved shape with its spine standing up under the fur like a row of knuckles, and claws on its forefeet, and a head that a careless person might have called a wolf’s. Lyra had not been careless. She had copied that skull off Snape’s blackboard in November, the snout a shade too narrow, the eyes a shade too far forward, and labelled it in her neatest hand.
 
 Behind it, on the black water, the full moon lay perfectly still.
 

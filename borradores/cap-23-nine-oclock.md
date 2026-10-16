@@ -204,7 +204,7 @@ The Slytherin stand sat with its banners half turned over and its mouths open.
 
 Ten points fewer and the Cup would have been Slytherin’s. Lyra could not pretend she did not mind.
 
-It was only then, with her banner gone yellow in her lap, that she did the sum he had been doing all afternoon. More than two hundred, he had needed, and the Snitch was worth a hundred and fifty. He had not been looking for it at all. He had been waiting for sixty. Lyra had sat through two hours of it, a Seeker herself, and seen none of it.
+It was only then, with her banner gone yellow in her lap, that she did the sum he had been doing all afternoon. More than two hundred, he had needed, and the Snitch was worth a hundred and fifty. He had not been chasing it at all, only keeping it from Diggory; and at sixty there had been no more room to wait. Lyra had sat through two hours of it, a Seeker herself, and seen none of it.
 
 And yet, somewhere a long way down, something in her was fizzing.
 

@@ -232,7 +232,7 @@ Potter made a noise somewhere between a laugh and a groan. “Why do you always 
 
 She reached up and straightened his tie, since somebody had to, and brushed down the front of his robes where her forehead had creased them. Then she kept her hands there, flat against his chest, a moment longer than the robes required.
 
-“You knew,” she said. “In May. *Especially next year, if students come from other schools.* And at the World Cup. You told me to go back to my mother before anything had happened. You knew.” She made herself ask the rest. “And tonight? Did you know about tonight?”
+“You knew,” she said. “In May. *Especially next year. If students come from other schools.* And at the World Cup. You told me to go back to my mother before anything had happened. You knew.” She made herself ask the rest. “And tonight? Did you know about tonight?”
 
 He did not pretend not to understand her.
 

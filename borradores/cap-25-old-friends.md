@@ -92,7 +92,7 @@ In the drawer of her bedside table there was a ring that had been green since fi
 
 She did not take it out. She sat with her hands in her lap and looked down the drive, at the place where her father had come walking up through the grey with mud on his cloak, and thought about a boy under a cloak in the dark, saying *Go back to your mum. Stay with her tonight*, on a night when he could not possibly have known that there would be anything to stay for.
 
-He had known about the Tournament as well. *Especially next year, if students come from other schools.* He had said it under a cloister in May, three months before the Minister for Magic winked at her about it, and long before her father had heard a word.
+He had known about the Tournament as well. *Especially next year. If students come from other schools.* He had said it under a cloister in May, three months before the Minister for Magic winked at her about it, and long before her father had heard a word.
 
 Her father, who had been there, did not know who had cast the Mark. Potter had known to send her inside before anything had happened.
 
@@ -136,7 +136,7 @@ Lyra saw it the moment she came into the Great Hall, before the Sorting, before 
 
 Lyra said nothing. She cut her roast potatoes into very small pieces.
 
-*They say he went for some students in the grounds.* He had gone for Potter and Granger and a convicted murderer, and for a girl on a hippogriff, on a February night with a full moon over the lake, because somebody had put a neutraliser in his potion; and somebody else had carried that potion up four flights of stairs, and seen a line of little prints across a desk, and wiped the bottom of the goblet, and thought, *whoever drinks it need never know*.
+*They say he went for some students in the grounds.* He had gone for Potter and Granger and a convicted murderer, and for a girl on a hippogriff, on a February night with a full moon over the lake, because somebody had put a neutraliser in his potion; and somebody else had carried that potion up four flights of stairs, and seen a line of little prints across a desk, and wiped the bottom of the goblet, and thought, *whoever drank it need never know*.
 
 She looked along the staff table without meaning to. Professor Snape was looking at her. He went on looking for exactly as long as it took her to understand that he was, and then he turned and said something to Professor Sinistra.
 

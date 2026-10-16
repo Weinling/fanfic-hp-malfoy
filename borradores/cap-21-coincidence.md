@@ -5,6 +5,7 @@ In the end she made him wait nearly a full minute. She had planned on longer.
 “Fine,” said Lyra. “But I want it understood that I think you’ve been hit on the head.”
 
 “Understood.” Potter shut the door behind him. Then he opened his hand, and the thing on the chain turned over on his palm and caught the firelight: a tiny hourglass, no bigger than a thimble, with glittering sand inside it, set in a gold ring that spun on its own axis.
+
 “Closer.”
 
 “I beg your pardon?”
@@ -69,7 +70,7 @@ Potter stared at them.
 
 “He wouldn’t. He—” He stopped, and took the cloak from her, and shook it out with a practised flick, and then he lifted a fold of it to his face and smelled it.
 
-Lyra had worn that cloak all the way down to the lake, and through a battle, and back.
+Lyra had carried that cloak all the way down to the lake, and through a battle, and back.
 
 “What do you think you’re *doing*?”
 
@@ -217,7 +218,7 @@ It was not a sight Lyra would have paid to see. She went at it with her hair com
 
 And not the faintest idea that anybody was watching.
 
-Lyra could not bear another second of it. She went down the opposite staircase. At the bottom of the other one, he had not looked like somebody who had just run down four flights. She had not stopped to wonder about it at the time. Of course he had not: that Potter had been standing at a window with Granger all along, and the one who ran was this one.
+Lyra could not bear another second of it. She went down the opposite staircase. The Potter at the window, she remembered now, had not looked like somebody who had just run down four flights, and she had not stopped to wonder about it. Of course he had not: that Potter had been standing there with Granger all along, and the one who ran was this one.
 
 It was only on the second landing that she heard what she had called him.
 
@@ -243,7 +244,13 @@ Twenty yards, and then the worst minute of her life.
 
 Malfoy reached them and started to shout.
 
-It all came out of her, everything from the last two months: the rain and the Shack and the rat, the hurt and the unfairness and the—Lyra made herself think the word—jealousy, all of it at once and at the top of her voice, half hanging off Potter’s collar. Lyra listened to it from twenty yards off and understood, for the first time, why her mother never raised her voice in the house. Thank Merlin the corridor was empty. One more witness and she would have had to change schools.
+She saw Malfoy look from Potter to Granger and back. *So you take Granger.* And then, from the outside, she saw what she had not been able to see from the inside, standing a foot from his face: Potter’s mouth, the instant he heard it, giving way at one corner, his whole face about to crack wide open, and Potter shutting it again so hard that his teeth met.
+
+It had not been guilt. He had been trying not to laugh. He had been so pleased about something that he could barely keep it in.
+
+Beside her, under the cloak, Harry said nothing.
+
+Then the rest came out of her, everything from the last two months: the rain and the Shack and the rat, the hurt and the unfairness and the—Lyra made herself think the word—jealousy, all of it at once and at the top of her voice, half hanging off Potter’s collar. Lyra listened to it from twenty yards off and understood, for the first time, why her mother never raised her voice in the house. Thank Merlin the corridor was empty. One more witness and she would have had to change schools.
 
 Potter looked away, at Granger, for help. Granger put it off as long as a decent person could, and then cleared her throat.
 
@@ -262,12 +269,6 @@ Lyra flinched. It was her own past; she knew exactly what came next.
 “You *liar*!”
 
 She held on to him with all her weight, and he could not get any nearer. It did not stop her seeing.
-
-She saw Malfoy take another step at him. *You must have so much to talk about.* And then, from the outside, she saw what she had not been able to see from the inside, standing a foot from his face: Potter’s mouth, the instant he heard it, giving way at one corner, his whole face about to crack wide open, and Potter shutting it again so hard that his teeth met.
-
-It had not been guilt. He had been trying not to laugh. He had been so pleased about something that he could barely keep it in.
-
-Beside her, under the cloak, Harry said nothing.
 
 Then Granger raised her voice, and Malfoy reached for the word, and—
 
@@ -451,7 +452,7 @@ He still had no idea about the ring. Lyra gathered up every scrap of composure s
 
 As he turned, she saw the ring on his hand flash: on, off, on, like a lantern somebody was swinging on a dark road.
 
-The other ring was looking for him. Somewhere above them Malfoy had it on, and was turning it this way and that, trying to make it tell her something.
+The other ring was looking for him. Somewhere below them, behind her bed-hangings, Malfoy had it on, and was turning it this way and that, trying to make it tell her something.
 
 And Lyra thought, unwillingly, of the first time she had put it on, behind her own bed-hangings: it had gone red, and then pink, and then red again, as though it could not make up its mind.
 

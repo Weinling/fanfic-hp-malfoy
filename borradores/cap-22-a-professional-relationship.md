@@ -30,7 +30,7 @@ Lyra nearly fell off the Cleansweep.
 
 The Shrieking Shack. The rain. *Don’t smile in front of me.*
 
-He had kept it. All this time, he had kept it. And she understood, flying there, that he had not smiled at her once since that afternoon: not in Potions, not in the corridors, not even in the ground-floor corridor three hours ago, with Granger watching and his ears on fire. She had thrown it at him because she had had nothing else to throw, and he had picked it up and carried it about for two months.
+He had kept it. All this time, he had kept it. And she understood, flying there, that he had not smiled at her once since that afternoon: not in Potions, not in the corridors, not even in the ground-floor corridor that evening, with Granger watching and his ears on fire. She had thrown it at him because she had had nothing else to throw, and he had picked it up and carried it about for two months.
 
 She was sorry, a little. So she said it as rudely as she knew how.
 
@@ -352,7 +352,7 @@ It was the smallest pause. It was enough.
 
 For once, Harry looked taken aback. “How did you know?”
 
-“Severus and I were each called to the Ministry this evening, by letter, and the Ministry, when we arrived, had called neither of us. Peter’s work, I imagine. We came back as fast as we could, in time to be told by Severus that the whole business was finished. And now here is Peter, caught, by two third-years.” He inclined his head. “I have a high opinion of you both. Not quite that high. A Time-Turner seemed the likelier explanation.”
+“Severus and I were each called to the Ministry this evening, by letter, and the Ministry, when we arrived, had called neither of us. Peter’s work, I imagine. I came back as fast as I could, and before I have so much as reached my office, here is Peter, caught, by two third-years.” He inclined his head. “I have a high opinion of you both. Not quite that high. A Time-Turner seemed the likelier explanation.”
 
 He raised his wand. Ropes uncoiled out of the air towards the broom and wound themselves round Pettigrew, round and round; and then they opened, very like two snakes opening their jaws, and closed over him again. If he woke up, and became a rat, they would swallow the rat.
 
