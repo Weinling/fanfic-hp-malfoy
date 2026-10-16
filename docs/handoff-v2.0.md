@@ -239,7 +239,7 @@ Harry conoce los Horrocruxes y el número siete, los refugios de los Malfoy (inc
 | Harry | Lyra | Le avisó en Hogsmeade y no se chivó (8) | Nunca reclamada |
 | Lyra | Harry | 1992: él la salvó y se rompió el brazo; ella le insultó en el pasillo | Nunca reconocida. La mayor deuda del fic |
 | Lyra | Harry | La capa y la enfermería (5); el Patronus (10) | Sin nombrar |
-| Lyra | Lupin | “Stand aside, Miss Malfoy” (4) | Pagada con silencio (12). Él lo sabe desde el 19 («You told me to stand aside, once»), y ella lo cobra («I should like to collect») |
+| Lyra | Lupin | “Stand aside, Miss Malfoy” (4) | Pagada con silencio (12). Él lo sabe desde el 19 («You told me to stand aside, once»), y se declara en deuda con ella («Then I’m in your debt, Miss Malfoy, which I suspect you’ll enjoy»); ella no le cobra nada |
 | Lyra | Snape | El Fidelius; Snape puede escribir a Lucius (11) | Abierta. La redacción no la paga |
 | Lyra | Crabbe | La cubrió; “Are you in trouble?” (7) | Sin respuesta |
 | Lyra | Hermione | El insulto del 7 | Sin disculpa |
