@@ -10,7 +10,8 @@
   - Hubo una comparativa a ciegas (publicada contra nueva y luego contra revisada) con el criterio del autor de que Lyra no sea Mary Sue.
   - Base revisada: 4, 5, 8, 10, 11, 13, 18, 19, 20, 21 y 22. Base nueva: 1, 2, 3, 14, 23 y los *Year One* 1 y 2. En los dos casos se injerta lo que digan las listas de fusión de los tres informes de esa carpeta.
   - Después: citas cruzadas, revisión final con un Opus nuevo, manuales, y el autor publica.
-  - Paso actual: **2, bloque A**. El paso 1 (revisado restaurado en los 11 capítulos) está hecho y commiteado.
+  - Paso actual: **2, bloque B**. Hechos y commiteados: paso 1 (revisado restaurado en los 11 capítulos) y bloque A (injertos en 1, 2, 3, 4, 5 y 8).
+  - **Criterio aplicado en el bloque A (vale para B y C):** si el informe pide devolver una frase publicada que el cotejo había cambiado por calcar la oficial, no se devuelve tal cual; se recupera la intención (torpeza o ridículo) con palabras nuevas. Así: 1, «teaspoon» y no «knives and forks»; 2, «a piece of himself» se queda; 3, «murderer after him» se queda, Weasley no dice «please» y Lyra no encuentra respuesta a Lupin (sin «May I use my foot?»); 4, «I don’t *care* what it means! Make it go *away*!» en vez de «Stop sitting there and *knowing* things»; 8, el formulario se vuelve rosa y escribe *Nice try* (la tinta en el ojo calcaba la oficial). En el 5 se mantiene «the other times» (*Year One* 1 y el 9 son dos caídas).
   - Plan del 24 al 30 (`plan-24-30.md`): en pausa hasta que acabe la fusión. El autor no ha decidido los hilos H1-H3 y falta el coreano 36.
 
 - **Nuevo frente (15 de octubre): cotejo con la traducción inglesa oficial.** El autor ha descubierto que el original coreano tiene versión inglesa oficial y quiere que el fic deje de parafrasearlo tan de cerca, sin tocar la historia. Ya hecho:

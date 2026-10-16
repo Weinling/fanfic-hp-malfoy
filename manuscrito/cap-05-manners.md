@@ -16,7 +16,7 @@ She had decided, walking down the lawn to Hagrid’s hut that Friday afternoon, 
 
 She held hers up. It was bound shut with two belts and a length of her Spellotape and was still grinding its pages at her through the gaps.
 
-“It went for Goyle’s owl on the train. Professor, I have met peacocks with better manners. Is there a reason it’s on the list, or did nobody stop you?”
+“It went for my owl on the train. Professor, I have met peacocks with better manners. Is there a reason it’s on the list, or did nobody stop you?”
 
 Hagrid looked crestfallen. “Yeh’ve just got ter stroke ’em,” he said, and took the book out of Neville Longbottom’s hands, unfastened it, and ran one huge finger down its spine. The book shivered all over, then fell open in his palm and lay there quietly.
 
@@ -216,7 +216,7 @@ Lyra sat on the edge of the hospital bed with her bandaged arm in her lap and te
 
 “I want it *dead*. Do you hear? It put its— nobody has ever— there was so *much*—”
 
-“All right,” said Potter. He was standing by the bed with his hair stuck to his forehead and his shirt smeared red down the front, still breathing hard. “All right. Here. Your face.”
+“All right,” said Potter. He was standing by the bed with his hair stuck to his forehead, still breathing hard. “All right. Here. Your face.”
 
 “Don’t you *all right* me!”
 
@@ -229,6 +229,10 @@ Lyra scrubbed her face with the handkerchief he had given her and smeared tears 
 “So it’s worth more than my *arm*, is it? A *chicken*?”
 
 “No. I didn’t— no.”
+
+She had a great deal more ready. She looked up to give it to him, and saw his shirt. It was smeared red down the front from the collar to the belt, and none of it was his.
+
+The rest of the sentence went somewhere she could not follow it.
 
 He did not seem to have anything else to say. For once in his life, Potter had run out of clever answers. He gave a small sigh, picked a cloth off Madam Pomfrey’s trolley, wetted it in the basin, and wrung it out.
 

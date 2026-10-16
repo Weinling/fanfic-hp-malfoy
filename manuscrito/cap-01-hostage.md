@@ -36,7 +36,7 @@ He hadn’t changed. Everyone else in the castle was in their nightclothes, and 
 
 There was a fresh scratch along his jaw. His hair was worse than usual, which she would not have thought possible. He looked, in short, exactly like somebody who had spent the evening under the school killing something, and Lyra decided on the spot that she was not going to be impressed by it.
 
-In fairness, and Lyra was always fair when it cost her nothing, he wasn’t bad-looking. Somebody who had never heard him open his mouth might even have called him handsome, which was a purely objective assessment and said absolutely nothing about her. It was simply wasted on him.
+In fairness, and Lyra was always fair when it cost her nothing, he wasn’t bad-looking. Somebody who had never heard him open his mouth might even have called him handsome, which was a purely objective assessment and said absolutely nothing about her. His hair was a lost cause. The rest of him was merely wasted.
 
 She had taken against Harry Potter before she even knew who he was. He had been standing on the stool next to hers in Madam Malkin’s the summer before first year, a scrawny boy in clothes several sizes too big for him, and she had made perfectly friendly conversation about Quidditch and Houses and the sort of people one ought not to mix with, and he had answered in mumbles, edging away along his stool as though she might be catching.
 
@@ -100,7 +100,11 @@ Ginny Weasley had been taken into the Chamber. Ginny Weasley, whose cauldron—
 
 Potter looked at her for a moment.
 
-“Yeah,” he said. “He did.”
+“Yeah,” he said. “He did. Your dad has done something very stupid, Malfoy, and you’re going to have to help him live through it.”
+
+That brought her back. “Do you have any idea who you’re talking to?”
+
+“Yeah. That’s why I’m talking to you and not him.”
 
 “Where did you get it?”
 
@@ -133,6 +137,10 @@ She flinched. She couldn’t help it; she had been flinching at that name since 
 “No,” said Lyra.
 
 “Yes.”
+
+“You’re making it up. The soul, the— you’re making all of it up, you can’t possibly—” She stopped. “Prove it.”
+
+Potter gave her the look you might give someone who had just tried to post a letter in a fireplace. “Prove it to who? Fudge?”
 
 For most of Lyra’s life, the Dark Lord had lived somewhere between history and a ghost story. Grown-ups lowered their voices when they spoke of him, if they spoke of him at all. Nobody at the Manor said out loud that her father had served him. Nobody needed to.
 
@@ -304,7 +312,7 @@ She had not been expecting that, and it wrong-footed her.
 
 “The night,” said Lyra, “is young.”
 
-“You’re cleverer than I thought, though. The cauldron. I didn’t think you’d get there on your own.”
+“You’re cleverer than I thought, though.”
 
 “Than you *thought*?”
 

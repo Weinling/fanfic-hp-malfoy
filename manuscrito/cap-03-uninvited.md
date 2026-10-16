@@ -14,7 +14,7 @@ The guard had not been normal. He had hovered at the edge of her vision for some
 
 Lyra had clicked her tongue and gone back to tapping her foot. She had found that with Muggles it was best not to encourage them.
 
-Then Crabbe and Goyle had come shoving their trolley through the crowd at a dangerous speed, Goyle out of breath and short of a hair ribbon (“Mum made us come through the Leaky Cauldron and then she couldn’t work out which way was north”), and the corner of the trolley had clipped the guard’s knee, and he had hopped back and rounded on them.
+Then Crabbe and Goyle had come shoving their trolley through the crowd at a dangerous speed, Goyle out of breath and short of a hair ribbon (“Mum made us come through the Leaky Cauldron and then she couldn’t work out which way was north”). Lyra had just finished assuring them that they were not late, having been there a quarter of an hour, when the corner of their trolley clipped the guard’s knee, and he hopped back and rounded on them.
 
 “Oi! Watch where you’re going with that, you clumsy great—”
 
@@ -62,7 +62,7 @@ Lyra poured herself a cup of tea. “Today,” she said, “nothing is going to 
 
 “Nothing,” agreed Goyle, through a mouthful of Fizzing Whizzbee. “Oh, but Malfoy, did you hear about Potter?”
 
-Lyra regarded Goyle over the rim of her cup with a look that should by rights have removed her eyebrows.
+Lyra inhaled a mouthful of tea, coughed into her handkerchief until her eyes watered, and then fixed Goyle with a look that should by rights have removed her eyebrows.
 
 “I said *nothing*, Goyle. Potter is not nothing. Potter is a weather event.”
 
@@ -114,7 +114,7 @@ Goyle surfaced from under the seat with the frog clamped between both hands and 
 
 “Go on, then. You were saying something about me. I’d much rather hear it to my face; I’m better looking from the front.”
 
-It was galling to ask. It would have been more galling not to know. Lyra swallowed her irritation, which was large and sharp-edged and went down badly.
+It was galling, but there was no better witness to Potter’s crimes than the criminal. Lyra swallowed her irritation, which was large and sharp-edged and went down badly.
 
 “What on earth did you do,” she said, “to get arrested by Muggles?”
 
@@ -238,11 +238,11 @@ Lyra raised her chin at him. “There’s a whole pot of it four doors down, Wea
 
 Weasley looked at her, and then down at Potter, and visibly swallowed a great many things.
 
-“Please,” he said, as though it had been taken out of him with pliers. “Watch him, will you?”
+“Just watch him,” he said, and did not say please, and went.
 
-He went. Granger had already set off towards the front of the train with a last frightened look at Potter, and Lyra sniffed at the empty doorway.
+Granger had already set off towards the front of the train with a last frightened look at Potter. Lyra sniffed at the empty doorway.
 
-“I’ve had warmer pleases from house-elves,” she informed the empty doorway.
+“I’ve had better manners from house-elves,” she informed it.
 
 Which left her alone in the compartment with an unconscious Potter and the shabby man. He looked like a tramp who had wandered onto the wrong platform, but grown wizards did not ride the Hogwarts Express for fun, and there was only one post at the school that needed filling every single September.
 
@@ -250,13 +250,13 @@ Which left her alone in the compartment with an unconscious Potter and the shabb
 
 “Yes. And you’re the new Defence Against the Dark Arts teacher.”
 
-He looked mildly surprised, and then mildly amused. “I am. Though not officially until tomorrow, so until then you may call me anything you like. Remus Lupin.” He straightened Potter out on the floor and drew his wand again. “I’m going to bring him round with *Enervate*. People sometimes come up rather suddenly—”
+He looked mildly surprised, and then mildly amused. “I am. Though not officially until tomorrow, so until then you may call me anything you like. Remus Lupin.” He straightened Potter out on the floor and drew his wand again. “I’m going to bring him round with *Enervate*. Would you hold his shoulders for me? People sometimes come up rather suddenly, and I’d rather he didn’t crack his head on the seat.”
 
-“And crack their heads on the seat,” said Lyra. “Yes. Somebody will have to hold him, I suppose.” She looked at the floor, and at her new robes, and at the floor again. “He’s been on the *floor*.”
+Lyra looked at Potter, and at her new robes, and at the floor. “With my *hands*? He’s been on the *floor*.”
 
 “The floor,” said Professor Lupin gently, “is where he is.”
 
-There seemed to be no answer to that.
+She looked for an answer to that, and could not find one.
 
 Lyra accepted the blow to her dignity, knelt in the dust of a stranger’s compartment, and pressed both hands down on Potter’s shoulders. His jumper smelled aggressively of some Muggle washing powder, the flowery kind that seemed to be shouting about how clean it was. Professor Lupin moved round to Potter’s head.
 

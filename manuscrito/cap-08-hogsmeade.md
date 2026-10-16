@@ -46,7 +46,7 @@ She left the hall before he did and walked slowly along the corridor towards the
 
 “What a shame.”
 
-“My aunt and uncle wouldn’t sign the form. After the business with Aunt Marge.” He shook his head at the injustice of it. “So I did Uncle Vernon’s signature myself. It’s a good one, I’ve had practice. And the form folded itself up into a little paper bird and flew straight into the fire.”
+“My aunt and uncle wouldn’t sign the form. After the business with Aunt Marge.” He shook his head at the injustice of it. “So I did Uncle Vernon’s signature myself. It’s a good one, I’ve had practice. And the form turned it bright pink and wrote *Nice try* underneath, in capitals. I didn’t know parchment could be *sarcastic*.”
 
 “How very sad for you,” said Lyra. “Shall I bring you back a sugar mouse? Something to suck on in your tower while you mope?”
 
@@ -106,7 +106,7 @@ Whereas a boy nobody knew was in Hogsmeade, keeping out of sight in a crowded vi
 
 It was a perfectly sensible piece of reasoning, and she did not care at all for the shape of it, so she put it away and informed Crabbe and Goyle that if either of them mentioned that hooligan again before supper, she would leave them in the Shrieking Shack.
 
-Filch was at the great doors with his list and his lamp-eyed cat, checking every name against it twice, with the slow suspicion of a man who believed that every child in the school was smuggling something. He looked up as Lyra bore down on him, and found her name on the list with a speed that surprised them both.
+Filch was at the great doors with his list and his lamp-eyed cat, checking every name against it twice, with the slow suspicion of a man who believed that every child in the school was smuggling something. He looked up as Lyra bore down on him, and for a moment all she had to do was open her mouth. She did not. He found her name on the list with a speed that surprised them both.
 
 ⁂
 
