@@ -677,3 +677,114 @@
 - «A boy who comes with as much luggage as you do is the last thing I want.»
 - **«I shan’t wait long. I’m not a person with time on her hands. Sort it out quickly.»**
 
+---
+
+## 24. *Year One* 1: The Remembrall (POV Harry) — solo Webnovel, *sin cambios*
+
+**Sucesos.** Marco: «a few minutes past nine», Harry en el dormitorio con el anillo; **Ron: «So you’re going out with her… At last.»** Harry: «Sort of. But it’s a secret.» / «Take the ring off, if you’re trying to hide it.» / «I don’t want to take the ring off.» / «Put it in the *Prophet*.» (Ron sabe.) «in first year, Harry Potter and Lyra Malfoy had been the worst enemies in the school.» Selección: Lyra a Slytherin sin pausa; en el tren ella no le reconoció («had not known him from Adam»). El Sombrero: «You want to look good for a girl?»; Harry piensa «*Next to her*»; «First loves go down like the sun»; «*I only want to be good enough to stand next to her.*»; «my greedy, reckless friend. You had better fight for it—in GRYFFINDOR!» Lyra chasquea la lengua. Lyra de primero: cruel con Gryffindor y Hufflepuff, cambia de color al sapo de Neville. Harry: «*If I don’t like something… I can change it.*» **Primera clase de vuelo**: Neville se rompe la muñeca; Lyra coge la **recordadora**. «Give that here, Malfoy… It’s Neville’s.» / «Pinching people’s things… like a magpie? Is that what you call dignity?» / **«Keep your dignity, Malfoy… Don’t make me any more disappointed in you.»** «You fly very nicely… Just like a magpie.» «Sorry, everyone… Tell Hooch it was me!» Harry vuela **sin manos** («I don’t want to touch you. You might fall.»). Lyra va a lanzarla; él le coge la muñeca y la recordadora cae; él la atrapa: «Got it.» Lyra se suelta bruscamente, **se cae de la escoba**; Crabbe (redonda, con dos trenzas) y Goyle gritan; Harry tira la recordadora, se lanza, Lyra le tiende la mano, él la coge («*Grab it!*»), la escoba del colegio se parte, **él cae de espaldas abrazándola** y se despelleja la espalda. «You let me fall!» / «Potter? Are you—all right?» Harry: «There’s something you ought to say now. Isn’t there?» / «Th…» / **«Do you think I’m going to say *thank you?* If you hadn’t stuck your nose in where it wasn’t wanted, I’d never have fallen in the first place!»** Harry se ríe. «You should say sorry to Neville. You’ve broken his Remembrall.» / «*You* threw it!» / «You dropped it first.» / «are you worried about me?» / «I can’t stand looking at you in that state… Go away!» / «I don’t know where the hospital wing is yet.» / «Idiot! *Idiot!*… I’ll take you—» (le coge la manga). McGonagall vio el picado desde la ventana. Al día siguiente, **tres recordadoras anónimas** para Neville (de Lyra, implícito). Harry buscador «for catching a Remembrall in a fifty-foot dive» (versión pública); **nadie cuenta la caída de Lyra**; Lyra lo calla «until by the summer it might as well never have happened». Harry vuela sin manos para fastidiarla.
+
+**QSQ.** Ron sabe que Harry y Lyra salen (en secreto). El lector sabe que Harry la salvó ya en primero (además del partido de segundo). Lyra no reconoció a Harry en el tren.
+
+**Objetos.** Recordadora de Neville rota; tres nuevas. Anillo de Harry (las nueve).
+
+**Frases icónicas.**
+- «So you’re going out with her… At last… Knock me down with a feather.»
+- «You might as well try telling people Trelawney’s a real Seer.»
+- «Take the ring off, if you’re trying to hide it.» / «I don’t want to take the ring off.»
+- «Put it in the *Prophet*.»
+- «She had not known him… had not known him from Adam.»
+- «You want to look good for a girl? Small. But very human.»
+- «First loves go down like the sun, sooner or later»
+- «*I only want to be good enough to stand next to her.*»
+- «my greedy, reckless friend. You had better fight for it—in GRYFFINDOR!»
+- «*If I don’t like something… I can change it.*»
+- «Pinching people’s things and hiding them up trees, like a magpie? Is that what you call dignity?»
+- **«Keep your dignity, Malfoy… Don’t make me any more disappointed in you.»**
+- «You fly very nicely… Just like a magpie.»
+- «Sorry, everyone… Tell Hooch it was me!»
+- «I don’t want to touch you. You might fall.»
+- «Got it.»
+- «*Grab it!*»
+- **«Do you think I’m going to say *thank you?*»**
+- «Her mouth was not honest at all. The rest of her was hopeless at lying.»
+- «I don’t know where the hospital wing is yet.» / «Idiot! *Idiot!*… I’ll take you—»
+- «After that, he did it on purpose.»
+
+---
+
+## 25. *Year One* 2: Nobody Asked You for Christmas (POV Harry; luego Lyra) — solo Webnovel, *sin cambios*
+
+**Sucesos.** Wood le enseña la Snitch; la coge en menos de cinco minutos. Halloween: el trol (con Ron y «a bit of Hermione»). Primer partido: escoba embrujada; coge la Snitch «more or less in his mouth»; Gryffindor gana a Slytherin. Una semana antes de Navidad, con el abeto de Hagrid: Lyra a Ron («Hoping to be gamekeeper yourself…»; «one less mouth to feed»); Harry frena a Ron. Lyra: «Some people have nobody who wants them at Christmas». Harry, sonriendo: **«Can’t be helped… My mum and dad died stopping Voldemort.»** / «So everybody ought to be grateful to my mum and dad… You too, Malfoy.» / **«Or do you hate me? For getting rid of Voldemort?»** Lyra huye con Crabbe y Goyle. «You just answer back straight, and smile first. Then you win.» / «You get used to it?» Harry no disfruta del aplauso. POV Lyra: «Harry Potter… How *dare* he.» Plan: ir contra los que rodean a Harry (Ron, Granger, Longbottom). **Crabbe (redonda, trenzas): «It’s only… his parents are dead. Isn’t it a bit sad?»** Recuerdo de Lyra a los **ocho años**: sus padres se fueron de urgencia; desayuno de **Dobby** en una mesa larga; habló una hora con los retratos; Draco lloró y lo acostó Dobby; ella no lloró («somebody had to be the eldest»); volvieron al alba con **violetas azucaradas**; Narcissa con la capa puesta, **la mano de la varita de Lucius vendada**. «What if that day came every day?» «After Christmas, Potter… You’ll see.» / «The arrow was already off the string.»
+
+**QSQ.** Crabbe compadece a Harry desde primero. El lector sabe del día de los ocho años de Lyra (nadie más). Plan de Lyra de atacar al entorno de Harry (pendiente).
+
+**Objetos.** Violetas azucaradas. Mano vendada de Lucius (misterio).
+
+**Frases icónicas.**
+- «That’s it… We’re winning the Cup this year.»
+- «more or less in his mouth»
+- «Some people have nobody who wants them at Christmas, so they have to stay at school.»
+- **«Can’t be helped… My mum and dad died stopping Voldemort.»**
+- **«Or do you hate me? For getting rid of Voldemort?»**
+- «You just answer back straight, and smile first. Then you win.» / «Dunno… You get used to it?»
+- «When everybody hated something that you liked, it turned out not to be as much fun as you would think.»
+- «It was a curse you could not block.»
+- «It’s only… his parents are dead. Isn’t it a bit sad?»
+- «Not having parents. As if that were such a great matter.»
+- «because somebody had to be the eldest»
+- «What if that day came every day?»
+- «After Christmas, Potter… You’ll see.» / «The arrow was already off the string.»
+
+---
+
+## Corte 1. Lo que sabe un lector de Wattpad al acabar el 21
+
+**La pareja.**
+- Pacto de rehén (1), sellado con apretón; nunca anulado. Harry tiene el diario; le ofreció devolverlo (2), ella lo pidió tarde (13) y él lo vetó: «you don’t bring up the diary again. Not ever».
+- Dos besos: «charity» en el tren (3); «Shut up, Malfoy» (19), y «No» a «*charity* again?». El segundo lo ve Granger y, desde fuera, Lyra (21).
+- Ruptura en la Casa de los Gritos: «Hands off, Malfoy», amenaza con Draco, «Don’t smile in front of me», calentador tirado (14). El lector sabe (16) que Harry recogió el calentador y que la sonrisa se la dio Lyra en Madam Malkin’s («Shoulders back… Chin up… And smile»; «Magic»).
+- Deudas: «one true answer» (7), cobrada en «Who did you hear?» / «My mum» (12). «That’s two I owe you» (12); «You owe me two… you have never once asked me for anything» (19). Harry no ha pagado la segunda.
+- El partido de segundo: Harry la salvó y se rompió el brazo «on her»; ella nunca le dio las gracias (9). En el 10, ella le agarra la túnica; él le cubre la mano; Patronus sin forma; ella coge la Snitch soltando la escoba.
+- La regla de nombres del bucle: «The earlier me is Potter… I’m Harry, and you’re Lyra» (21). Lyra le llama «Harry» y lo nota. «Coincidence» (21). Harry tiene los dos anillos en el bolsillo; acaba diciendo «I’ve got a Patronus to cast».
+
+**Quién sabe qué.**
+- Lyra: diario = Horrocrux; «seven»; Harry sabe de Borgin’s y Northumberland (sin explicar; «Dumbledore told me» no cubre Northumberland). Lupin hombre lobo (desde el 13 de noviembre). Sirius animago e inocente; Pettigrew vivo = Scabbers; el vínculo. Giratiempo de Hermione. Mapa y capa. Poción contaminada por la rata (sospecha que Pettigrew lo hizo; no lo ha dicho; se cree responsable a medias).
+- Lucius: no sabe que el diario era Horrocrux. Tiene la coartada de las redadas sin saber para qué (17). Sabe que Harry la llevó a la enfermería (6). Escribió «*Us*… *Of us all*» y remitió a Snape (9). No sabe nada del Shack.
+- Narcissa: posdata «*Who is asking?*» sin contestar.
+- Draco: juega a cartas con el caballero de la east cottage, «the face for it» / «the hands for it»; no hace caso del aviso anónimo.
+- Snape: sabe que Lyra preguntó por Black; le contó el Fidelius; resistencia mental natural; sospecha de Lupin; carta falsa al Ministerio; la vio con plumas de hipogrifo; «Your father’s daughter».
+- Lupin: sabe que Lyra sabe; está «in your debt».
+- Granger: sabe del cálculo 11/11 (15) y vio el beso (19); Lyra sabe lo del horario.
+- Crabbe: dio el anillo a Harry («*If you want to make it up with her, wear this*»).
+- Ron: no sabía que Scabbers era Pettigrew (lo sabe en el 22).
+
+**Objetos al cierre del 21.**
+- Diario: Harry.
+- Pluma de azúcar: bolsillo de Lyra (desde Halloween; sin dar).
+- Calentador: Harry.
+- Pañuelo: Lyra (no sabe de quién es).
+- Anillos: los dos en el bolsillo de Harry.
+- Mapa y capa: dejados en el escritorio de Lupin (bucle).
+- Buckbeak: vivo; montado por Lyra contra la orden del Comité.
+- Posdata y papel 11/11: libro de Aritmancia.
+- Nimbus 2000 de Harry: perdida desde el 10 (su destino, en el 22).
+- Dos botellas de cerveza de mantequilla: repisa de la sala común (8).
+
+**Abierto.**
+- Pettigrew (en el 21, aún no capturado en el texto).
+- Sirius y los Dementores.
+- El caballero de la east cottage.
+- Northumberland.
+- La segunda deuda.
+- La poción (Lyra «I should tell him»).
+
+## Corte 2. Lo que sabe un lector de Webnovel al acabar *Year One* 2
+
+Todo lo anterior, más:
+
+- **22:** Nimbus de Harry destrozada en el Sauce Boxeador. «Can I smile in front of you?» / «…Only in front of me» / «Every time I smile, I’ll think of you». Pettigrew confiesa: cartas falsas y neutralizador en la matalobos. Patronus de ambos: **zorros** (el de Lyra más pequeño, juguetón). Lyra tiende la mano primero. Harry y Lyra capturan a Pettigrew y lo entregan a Dumbledore. Dumbledore deduce el giratiempo. «Miss Malfoy… It’s a professional relationship.» «You cannot tell her everything.» Lyra calla lo de la poción.
+- **23:** Sirius exonerado de facto (sin anuncio); Dementores retirados. Chocolate a Lupin, «Thank you». Snape frío. Firebolt de Lucius y su aviso de mantenerse al margen. Slytherin gana a Ravenclaw (Cho). Gryffindor gana la Copa 370–160 con Harry de «cazador» y Diggory humillado («That’s from Lyra»). Lyra sabe que el pañuelo era de Harry. «I’m not going out with Lyra» → claustro: «Officially» no; «other schools» el año próximo; las nueve en punto; **anillo en el anular izquierdo de Lyra**; «Sort it out quickly».
+- **Y1-1:** Ron sabe que salen. Madam Malkin’s → tren (ella no le reconoció). El Sombrero y «stand next to her». **Harry salvó a Lyra en la primera clase de vuelo** (recordadora; escoba rota; espalda despellejada); ella no dijo gracias; tres recordadoras anónimas; nadie lo cuenta.
+- **Y1-2:** «Or do you hate me? For getting rid of Voldemort?» Crabbe compadece a Harry. El día de los ocho años de Lyra. Plan de venganza tras Navidad.
+
+**Posible choque ya publicado (no es de la revisión).** El 5 dice que Lyra lleva «the best part of a year» sin recordar «the first time» que Potter la cogió al caer (el partido de segundo, del 9). *Year One* 1 añade una caída anterior, en primero, que ella también calló. No es contradicción dura («first time» puede leerse como la primera que ella guarda), pero un lector atento de Webnovel puede notarlo. Ver si la revisión del 5 o del 9 lo arregla o lo agrava.
