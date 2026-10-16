@@ -30,19 +30,19 @@ Lyra nearly fell off the Cleansweep.
 
 The Shrieking Shack. The rain. *Don’t smile in front of me.*
 
-He had kept it. All this time, he had kept it. And she understood, flying there, that he had not smiled at her once since that afternoon: not in Potions, not in the corridors, not even in the ground-floor corridor three hours ago, with Granger watching and his ears on fire. She had thrown it at him because she had had nothing else to throw, and he had picked it up and carried it about for two months as though it weighed something.
+He had kept it. All this time, he had kept it. And she understood, flying there, that he had not smiled at her once since that afternoon: not in Potions, not in the corridors, not even in the ground-floor corridor three hours ago, with Granger watching and his ears on fire. She had thrown it at him because she had had nothing else to throw, and he had picked it up and carried it about for two months.
 
 She was sorry, a little. So she said it as rudely as she knew how.
 
 “You absolute idiot. Have you really been doing that all this time?”
 
-“Everybody tells me I’m an idiot. I think I’ve started believing them.”
+“People keep calling me an idiot. It must be catching.”
 
 If she was honest, and she was not going to be, she was rather pleased.
 
 Lyra let out a breath through her nose that was very nearly a laugh.
 
-“Oh, for heaven’s sake. If it makes you that happy to be near me, smile as much as you like. I shall pretend not to notice the cheek.”
+“Oh, for heaven’s sake. If it makes you that happy to be near me, smile as much as you like. I shall overlook the impertinence.”
 
 And now he would go back to grinning all over the castle, the way he used to. In the Great Hall, in lessons, in the corridors, at Lyra and at everybody else. At everybody else, quite as much as at her.
 
@@ -134,7 +134,7 @@ Something went over Pettigrew’s face. With Potter standing at Sirius’s shoul
 
 “Then why sell them?”
 
-“Because I didn’t *know!*” It came out of him in a squeal, and his voice went thin and high with it, and for an instant the rat showed. “I didn’t know he would *fall!* If I’d known, I’d have stayed! I hate running. I can’t *sleep*.” His bitten fingers knotted themselves together. “James wanted to fight, and it was *me* they came for, because I was the one they could catch. And then the Dark Lord went to your house and never came back, and I was left with nobody. *Nobody*—”
+“Because I didn’t *know!*” It came out of him in a squeal, and his voice went thin and high with it, and for an instant the rat showed. “I didn’t know he would *fall!* If I’d known, I’d never have done it! I hate running. I can’t *sleep*.” His bitten fingers knotted themselves together. “James wanted to fight, and it was *me* they came for, because I was the one they could catch. And then the Dark Lord went to your house and never came back, and I was left with nobody. *Nobody*—”
 
 “That’s a shame,” said Potter, quietly.
 
@@ -154,7 +154,7 @@ Pettigrew’s face quivered. Then it settled, and that was worse. He was a man w
 
 His wand came up. Sirius’s came up, and Potter’s, in the same instant, and three spells met over the shingle with a bang.
 
-“And just as easy to feed!” shrieked Pettigrew. “*Take them!*”
+“And you’ll go just the same way!” shrieked Pettigrew. “*Take them!*”
 
 And all round the shore, out of the dark, came the Dementors: not a hundred any longer, but hundreds.
 
@@ -220,7 +220,7 @@ They came down side by side, still holding hands. Lyra got off the broom and dre
 
 Think of something happy. Hold on to it. Let it out. *Expecto Patronum*.
 
-She had never done it. She had never been anywhere near doing it; it was advanced magic, far beyond anything in the third-year syllabus, a memory turned into a guardian. But somehow, standing there, she thought she could. Through the hand that held hers came warmth, and something else with it, something that fizzed all the way up her arm like the first sip of something she was too young for. If she pointed her wand now, it would go straight out of the end.
+She had never done it. She had never been anywhere near doing it; it was advanced magic, far beyond anything in the third-year syllabus, a memory turned into a guardian. But somehow, standing there, she thought she could. Through the hand that held hers came warmth, and something else with it, something that ran all the way up her arm like the warmth off a fire. If she pointed her wand now, it would go straight out of the end.
 
 “*Expecto Patronum!*”
 
@@ -288,7 +288,7 @@ Harry started forward. Lyra caught his wrist.
 
 That made her sound in debt to an animal. She corrected herself at once.
 
-“The hippogriff deals with it. Quite competently, in fact. One could do worse, for a guard on the gate.”
+“That hippogriff’s quite useful. He sees off a werewolf without any trouble. He’d make a decent gamekeeper.”
 
 The werewolf went for Malfoy, and Buckbeak reared over her and struck it back, and struck it again; and in the end it could not get the better of even a hippogriff, and fled into the trees.
 
