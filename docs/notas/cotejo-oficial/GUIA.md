@@ -54,6 +54,15 @@ Los capítulos que siguen en `borradores/` aunque estén publicados (del 16 al 2
 
 **Del coreano 17 en adelante no hace falta la oficial** (autor, 15 de octubre). Los originales coreanos del 14 al 35 están en `coreano/`, y la oficial es una traducción fiel suya: el cotejo se hace leyendo el coreano frente a nuestro texto, réplica a réplica. `cotejo.py` no sirve aquí (son idiomas distintos); `comparar.py` sigue dando el parecido con lo publicado. Si el autor pasa alguna oficial más, se guarda y se usa el script como antes.
 
+### Crítica de la ronda 3 (15 de octubre)
+
+Encargo en `encargo-critico-ronda3.md`; valoración en `valoracion-encargo-ronda3.md`. Añade al método:
+- clasificar cada cambio en lo publicado como A (invisible), B (añadido compatible), C (reinterpretación: no) o D (hechos: prohibido), contra `registro-publicado.md`;
+- densidad (`herramientas/densidad.py`) en el 1-2 y el 9-14;
+- en el 24-30, cirugía mínima (10-15 % de las líneas) y una semilla de divergencia por capítulo.
+
+*Year One* 3 y 4 ya están cotejados: el autor los sube a Webnovel el 16 de octubre.
+
 ## 4. Herramientas y referencias
 
 - **Commit 888ff27** («Capítulo 1: el manuscrito pasa a ser el texto publicado»): es el texto publicado antes de cualquier retoque, para todos los capítulos (el 1 ya con el arranque recortado que se publicó). Contra él se compara todo. La etiqueta `antes-del-cotejo` solo existe en local, porque el proxy no deja subir etiquetas; si falta, se usa el hash: `git tag antes-del-cotejo 888ff27`.

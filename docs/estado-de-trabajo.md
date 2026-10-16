@@ -34,6 +34,10 @@
 
     El 31 queda en espera mientras tanto.
   - **15 de octubre, tras la compactación del cotejo:** el autor trae una crítica y revisión de lo hecho en el cotejo, con consejos, y pide que la revise alguien que lo haya leído todo: lo publicado sin revisar (888ff27), lo revisado y los capítulos futuros. Su ruta (`/tmp/claude-0/.../ef4eaf25-…/scratchpad/prompt-never-owe-revision.md`) es de otra sesión y no se puede leer desde esta: se le ha pedido que la pegue. **Antes de seguir con el 22 hay que valorar esa crítica.**
+  - **Crítica recibida** (`docs/notas/cotejo-oficial/encargo-critico-ronda3.md`) y **valorada** (`valoracion-encargo-ronda3.md`: qué se acepta, qué no, datos de densidad y decisiones del autor). Herramienta nueva: `herramientas/densidad.py`.
+  - **16 de octubre: el autor sube hoy a Webnovel *Year One* 3 y 4** (entregas 26 y 27) y no sube nada más allí hasta que se le diga. Están cotejados con los coreanos 25 y 26 (commit e02d0ee; copias de antes en el scratchpad, `yo3-antes.md` y `yo4-antes.md`). Hay una revisión editorial de Opus en marcha; sus arreglos van antes de que el autor los suba.
+  - **Revisor de conjunto en marcha** (Opus, el que lo lee todo: lo publicado de 888ff27, los diffs y los futuros). Escribe `registro-publicado.md` y `revision-conjunto-clases.md` en `docs/notas/cotejo-oficial/`. Si se compacta, sus archivos bastan para seguir.
+  - **Orden después:** cotejo del 22 y el 23 (con los arreglos del crítico, solo A y B), *Year One* 1 y 2 (solo A y B); densidad y tics del 1 al 14 (A), el Patronus del 10 (devolver una imagen sin perro) y el gesto de Harry en el 14 (B); el veredicto de lo publicado (GUIA §8); del 24 al 30 con cirugía mínima y semillas; el informe de vuelta al crítico.
   - Lectura hecha tras esta compactación: el estado, `GUIA.md`, `caps-02-11.md`, `caps-13-19.md` y `caps-19-21.md`, el handoff entero, todos los manuales (del 1 al 30 y *Year One* 1 a 4) y la continuidad transversal.
 - **Capítulo 29, *Every Ounce*** (coreano 32), **cerrado**: `borradores/cap-29-every-ounce.md` (~4.300 palabras). Lo que está hecho:
   - ficha aprobada por el autor;
