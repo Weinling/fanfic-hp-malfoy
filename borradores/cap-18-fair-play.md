@@ -38,34 +38,6 @@ Lyra let them talk. It was easier than listening to Parkinson.
 
 ⁂
 
-The rings turned up that evening, at the bottom of her trunk.
-
-Goyle had been looking for a Fizzing Whizzbee she was convinced had gone astray in Lyra’s trunk in October, and she had got as far as Lyra’s spare robes before Lyra noticed and was too tired to stop her. She came up holding a small box covered in green velvet.
-
-“What’s this?”
-
-Crabbe took it off her and opened it. Two silver rings sat in the slot inside, plain and a little clumsy, with a folded slip of instructions tucked under the lid. Crabbe read the slip, and then looked at Lyra over the top of it, and did not say anything.
-
-Lyra knew perfectly well what it said. *Worn by two, each ring will warm when the other’s wearer is in trouble, and show by its colour how they fare, and which way to look.* She had read it in Zonko’s in October, standing by the door looking bored, while Crabbe tried to choose between two sorts of Dungbomb; and then, while Crabbe was paying, she had gone back and bought the box, and pushed it into the parcel she was sending up by owl, between the two bottles of butterbeer and the Honeydukes box, and had not looked at it since, or counted it with the rest of what she had spent that day. She could not think now what she had been expecting. She would never have given one to anybody. She had known that in the shop.
-
-“Shall I put them back?” said Crabbe.
-
-“Bin them. Or give them to Millicent.” Lyra turned a page she had not read. “I only bought them to see whether they worked, and I’ve never got round to finding out. It hardly matters. It isn’t as if there’s anybody to give one to.”
-
-Crabbe turned the box over in her hands.
-
-“Can I keep them, then? If you don’t want them.”
-
-“Do as you like.”
-
-Crabbe went out with the box at a brisk trot, towards the common room. Lyra read the same paragraph three times and gave it up. When she looked up again, one ring was lying on the end of her bed, on the green coverlet, where Crabbe had been sitting.
-
-Crabbe had taken one and left one, which was the most pointless thing Lyra had ever seen anybody do with a pair. She was not going to ask.
-
-She picked it up—it was cold, and plain, and weighed almost nothing—and dropped it into the drawer of her bedside table, and shut the drawer harder than it needed.
-
-⁂
-
 The match was on the last Saturday in January, on a morning so cold that the grass crunched.
 
 Hufflepuff were supposed to be the easiest side in the school. They had Diggory, who was a genuinely good Seeker, had been made captain over the summer, and was held by everybody, even Flint, to be the fairest player in the school; and they had very little else: small Chasers, a nervous Keeper, and Beaters who apologised. Slytherin had beaten Gryffindor in November in the worst weather anyone could remember, and had been walking about ever since as though the Cup were a matter of going to collect it. Flint had held two practices since Christmas. Nobody had minded.
@@ -90,21 +62,41 @@ She dropped twenty feet. So did he. She swung away towards the Hufflepuff goals 
 
 “Is there something you want?”
 
-“Sorry,” said Diggory, and sounded as if he meant it. “It’s nothing personal. Well. It’s a bit personal.”
+“Sorry,” said Diggory, and seemed to mean it. “It’s nothing personal. Well. It’s a bit personal.”
 
 “The Snitch is generally found by looking for it, Diggory, not by looking at me.”
 
 “Oh, I’m not looking for the Snitch yet,” said Diggory. “I’m looking at *you*. Whoops—”
 
-A Bludger came at him hard. Derrick had seen him, and seen what he was doing, and taken it personally. Diggory rolled under it so neatly that it might have been rehearsed, and was back at Lyra’s shoulder before it had finished going past.
+A Bludger came at him hard. Derrick had seen him, and seen what he was doing, and taken it personally. Diggory rolled under it so neatly that it might have been rehearsed, and was back at Lyra’s shoulder before it had finished going past; and Lyra, watching Derrick wheel round for another go, understood the whole thing at once.
 
-She would never have said so aloud, but he was very good. She feinted twice and he did not so much as twitch; she dived and he dived with her, and pulled out a foot lower, and smiled at her as he came up. And all the while the Bludgers kept coming at him, from Derrick and then from Bole and then from Derrick again, because the Slytherin Beaters had decided that anybody bothering Lyra Malfoy was fair game, and Diggory went through them as if he had been given the times in advance.
+It was a Slytherin trick, played by a Hufflepuff. Lyra knew her own House. Give it Gryffindor to hate and it would fly like one animal; give it anybody else and it remembered that every one of its seven players had been brought up to think himself the only one who mattered. Diggory had only to hang about the one they would all look at, being charming, and let the other six do the rest.
+
+Well. Two could hang about.
+
+“Derrick!” She put two fingers in her mouth and whistled, the way her father’s gamekeeper whistled the dogs in, and Derrick’s head came round. “Leave him. He’s *mine*. Mark the Chasers.”
+
+Derrick looked mutinous, and went. Lyra turned the Nimbus and set off across the pitch at a long, easy, unhurried slant, straight through the middle of the Hufflepuff attack, and Diggory, who had promised to stay at her shoulder, came with her.
+
+It was rather beautiful while it lasted. Wherever she went, Diggory went, and wherever Diggory went, the Hufflepuff Chasers had to get out of the way of their own captain. She took him through two passing moves and broke both. She took him low across the front of the Hufflepuff hoops, so that their Keeper flinched, and Montague put the Quaffle past him while he was still flinching. Ten–nil. Twenty. Lee Jordan began to sound worried on Hufflepuff’s behalf. At thirty–nil Lyra looked round at Diggory, sweetly, to see how he was enjoying it.
+
+He was not smiling any more. He looked at her for a moment as if he had been handed a puzzle and had just found the corner piece.
+
+“Is it true about you and Potter?” he said. “That it’s off?”
+
+There it was. She had heard it so often in the last month that it no longer surprised her; it simply arrived, like the post. But it arrived just then, at the top of a turn, and she came out of the turn a fraction late and a fraction wide, and Diggory saw it.
+
+“There was never anything to be off,” said Lyra. “We’ve loathed each other since we were eleven. Ask anybody.”
+
+“I did. They all said something different.” He glanced round the stands, pleasantly, as if counting the house. “Makes a person wonder.”
+
+He said it loudly enough to carry. Bole, coming past with his bat, heard *Potter* and saw her face, and that was all it took. He forgot the Chasers and went for Diggory with his broom.
 
 Madam Hooch’s whistle shrieked.
 
 “*Blatching!* Mr Bole, you do not fly *at* another player! Penalty to Hufflepuff!”
 
-Bole had given up on the Bludger and gone for Diggory with his broom. Hufflepuff took the penalty and scored. A minute later they scored again, while both Slytherin Beaters were busy with Diggory and nobody at all was busy with the Hufflepuff Chasers, and Lee Jordan’s voice came cheerfully out of the commentary box: “—and that’s forty–ten to *Hufflepuff*, and I don’t think anybody saw that coming, least of all Marcus Flint—”
+Hufflepuff took the penalty and scored. A minute later they scored again, while both Slytherin Beaters were busy with Diggory and nobody at all was busy with the Hufflepuff Chasers, and Lee Jordan’s voice came cheerfully out of the commentary box: “—and that’s twenty–thirty, and I don’t think anybody saw that coming, least of all Marcus Flint—”
 
 Diggory shrugged at her.
 
@@ -112,19 +104,13 @@ Diggory shrugged at her.
 
 “You’re *using* me—”
 
-“Is it true about you and Potter? That it’s off?”
+“You started it,” said Diggory, quite fairly, and dropped a foot to let another Bludger go over his head.
 
-There it was. She had heard it so often in the last month that it no longer surprised her; it simply arrived, like the post.
-
-“There was never anything to be off,” said Lyra. “We’ve loathed each other since we were eleven. Ask anybody.”
-
-“I did. They all said something different.” He glanced round the stands, pleasantly, as if counting the house, and dropped a foot to let another Bludger go over his head. “Makes a person wonder.”
-
-Then she understood it, all of it, and could have screamed. It was a Slytherin trick, played by a Hufflepuff. Lyra knew her own House. Give it Gryffindor to hate and it would fly like one animal; give it anybody else and it remembered that every one of its seven players had been brought up to think himself the only one who mattered. Diggory had only to hang about the one they would all look at, being charming, and let the other six do the rest. Already both Beaters were off their wings, hunting him, and Flint was bellowing at them from the far end of the pitch—
+Flint was bellowing from the far end of the pitch—
 
 “*Back in position!* The *Chasers*, you great trolls, mark the *Chasers*—”
 
-—and Hufflepuff scored again, and then again. Seventy–ten. Eighty.
+—and Hufflepuff scored again, and then again. Forty–thirty. Fifty.
 
 Lyra put her head down and went for the gap. If she could only get clear of him for ten seconds—but somebody’s Bludger, she never knew whose, came screaming across her line, and Diggory leaned out and caught her by the arm and pulled her off it, and it went by close enough to stir her hair.
 
@@ -170,6 +156,14 @@ It was the worst beating Slytherin had taken in living memory, and the whole sch
 
 Lyra shook off Flint, who wanted to shout, and Montague, who wanted to explain, and Crabbe and Goyle, who wanted to put their arms round her, and went up into the castle by the back way, alone. She climbed until the noise was gone. Then she sat down on a step halfway up a staircase nobody used, in her Quidditch robes, with her broom across her knees, like a stable boy waiting to be sent for.
 
+⁂
+
+Mrs Norris, on the landing above, watched her come.
+
+She watched the girl in green sit down halfway up, and put her broom across her knees; and she watched, with rather more interest, a stretch of step a little below the girl, which had creaked a moment before when nobody was on it, and which was not, whatever it looked like, empty. Mrs Norris could see perfectly well what was on it, and it was not her concern. She wrapped her tail round her feet and settled down to see what it would do.
+
+⁂
+
 It was the being *moved* she could not stand. She had been slid about the sky like a counter on a board, in front of the entire school, and the hand that had moved her was a Hufflepuff’s, and the thing he had moved her with was Potter. If one Hufflepuff had found the handle, anybody could; and after today they would all know exactly where it was.
 
 Her eyes were stinging. She shut them.
@@ -206,12 +200,32 @@ It did not trouble her nearly as much as it ought to have.
 
 Then she folded the handkerchief small and put it in her pocket, next to the sugar quill, which had come to the match too, and stood up, and went on up the stairs with one hand in her pocket and her broom over her shoulder, feeling a good deal better than she had any right to.
 
+When she had gone, the empty step a little below the place where she had been sitting said, very quietly, in a voice that shook with rage, “*Cedric Diggory*—”, and something slipped, and for a moment there was a scuffed trainer on the stone where no foot had been. Mrs Norris, on the landing, only blinked. Then she flicked her tail and went on about her business, as if there were nothing on that staircase worth reporting to anybody.
+
 ⁂
 
-The staircase stayed empty for some minutes. Then Mrs Norris came down it from the landing above, on her own business, the way she went everywhere.
+The rings turned up that night, at the bottom of her trunk, with the handkerchief still folded in the pocket of the robes she had not yet taken off.
 
-She stopped halfway. She sat, and wrapped her tail round her feet, and stared with her lamp-like eyes at a particular stretch of empty step, a little below where Lyra had been sitting.
+Goyle had been looking for a Fizzing Whizzbee she was convinced had gone astray in Lyra’s trunk in October, and she had got as far as Lyra’s spare robes before Lyra noticed and found she was too tired to stop her. She came up holding a small box covered in green velvet.
 
-Mrs Norris could see perfectly well that the step was not empty, and it was not her concern. When it said, very quietly, in a voice that shook with rage, “*Cedric Diggory*—”, and something slipped, and for a moment there was a scuffed trainer on the stone where no foot had been, she only blinked.
+“What’s this?”
 
-She flicked her tail, stepped round it, and went on down, as if there were nothing on that staircase worth reporting to anybody.
+Crabbe took it off her and opened it. Two silver rings sat in the slot inside, plain and a little clumsy, with a folded slip of instructions tucked under the lid. Crabbe read the slip, and then looked at Lyra over the top of it, and did not say anything.
+
+Lyra knew perfectly well what it said. *Worn by two, each ring will warm when the other’s wearer is in trouble, and show by its colour how they fare, and which way to look.* She had read it in Zonko’s in October, standing by the door looking bored, while Crabbe tried to choose between two sorts of Dungbomb; and then, while Crabbe was paying, she had gone back and bought the box, and pushed it into the parcel she was sending up by owl, between the two bottles of butterbeer and the Honeydukes box, and had not looked at it since, or counted it with the rest of what she had spent that day. She could not think now what she had been expecting. She would never have given one to anybody. She had known that in the shop.
+
+“Shall I put them back?” said Crabbe.
+
+“Bin them. Or give them to Millicent.” Lyra turned a page she had not read. “I only bought them to see whether they worked, and I’ve never got round to finding out. It hardly matters. It isn’t as if there’s anybody to give one to.”
+
+Crabbe turned the box over in her hands.
+
+“Can I keep them, then? If you don’t want them.”
+
+“Do as you like.”
+
+Crabbe went out with the box at a brisk trot, towards the common room. Lyra read the same paragraph three times and gave it up. When she looked up again, one ring was lying on the end of her bed, on the green coverlet, where Crabbe had been sitting.
+
+Crabbe had taken one and left one, which was the most pointless thing Lyra had ever seen anybody do with a pair. She was not going to ask.
+
+She picked it up—it was cold, and plain, and weighed almost nothing—and dropped it into the drawer of her bedside table, and shut the drawer harder than it needed.
