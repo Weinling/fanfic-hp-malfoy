@@ -111,7 +111,7 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 - **Ron.** Reconciliado con Harry el lunes 14 (29), al pie de la escalera de mármol. Sabe lo de la pareja desde mayo y los Horrocruxes desde el 14. Lyra le dijo que Harry «se juega la vida».
 - **Hermione.** Leal a Harry; la P.E.D.D.O.; ha deducido lo del hurón. Sabe que fue Lyra quien hizo entrar en razón a Ron (29). El domingo 20 por la noche le pasó a Lyra un libro de dragones en la biblioteca, sin decir nada. Krum la mira. Lyra la llama «Granger».
 - **Crabbe (Vanessa).** La testigo: cubre sin preguntar y toma apuntes por las dos. Cantó bajo el Imperius (27). Su pregunta del 7 está contestada a medias (23). Sabe lo de los dragones por Lyra y le guarda el sitio en la grada; ha dejado de creer que Lyra finja (30).
-- **Goyle (Greer).** Golosa y leal; hizo el pino bajo el Imperius.
+- **Goyle (Greer).** Golosa y leal. (El 27 no dice qué hizo bajo el Imperius.)
 - **Parkinson (Panther).** Chico; rumores; rana bajo el Imperius; humillado por el escreguto (28). Oyó a Crabbe y difundió lo de los dragones; dice que Potter robó la Saeta. Carraspea detrás de Lyra ante el aviso del Baile (final del 30).
 - **Snape.** Vigila a Lyra; no le dice «Faultless» desde el 23. Humillado por Skeeter en el *Profeta* del 24 de noviembre (30); mira a Potter «choosing between poisons». Probablemente se escribe con Lucius (23, 28: «no need to trouble Severus»). Sabe lo de las plumas.
 - **Lupin.** Dimitió. Le escribió a Lyra (27): «I should like it if you did».
