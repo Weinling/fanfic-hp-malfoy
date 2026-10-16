@@ -2,18 +2,19 @@
 
 **Léelo lo primero** al abrir sesión o tras compactar. Se actualiza en cada paso (escena escrita, crítica aplicada, capítulo cerrado) y va en el mismo commit que el paso.
 
-Última actualización: 16 de octubre de 2026.
+Última actualización: 17 de octubre de 2026.
 
 ## Ahora mismo
 
-- **EN CURSO (17 de octubre): FUSIÓN DE VERSIONES.** Lee primero `docs/notas/cotejo-oficial/fusion/PLAN.md`, que dice qué hacer, en qué orden y qué leer al retomar. Resumen:
-  - Hubo una comparativa a ciegas (publicada contra nueva y luego contra revisada) con el criterio del autor de que Lyra no sea Mary Sue.
-  - Base revisada: 4, 5, 8, 10, 11, 13, 18, 19, 20, 21 y 22. Base nueva: 1, 2, 3, 14, 23 y los *Year One* 1 y 2. En los dos casos se injerta lo que digan las listas de fusión de los tres informes de esa carpeta.
-  - Después: citas cruzadas, revisión final con un Opus nuevo, manuales, y el autor publica.
-  - Paso actual: **4, revisión final** (dos Opus nuevos en paralelo: 1 a 14 con los *Year One*, y 15 a 23 con el bucle). Hechos y commiteados: pasos 1 a 3 (bloques A, B y C; citas cruzadas: el 6 vuelve a «in a fury», el 14 a «in that corridor», handoff sin «collect»; el 16 y el 25 se quedan; erratas «in Hogsmeade» y la mano del 19 arregladas). Los manuales y la continuidad transversal siguen describiendo las versiones nuevas: se rehacen en el paso 5.
-  - **Bloque B, frases del informe que calcaban la oficial y se rehicieron:** 11, «Can dogs even eat chocolate?» → «Are you even *allowed* chocolate?»; 13, «That actually is important» y el pisotón → «So it *is* serious» / Lyra patea su propio sillón; 18, «First time we’ve played… Good game» / «Do try» no se trae (se queda «How nice for you»); 13, «My mortal enemy» no vuelve (la oficial dice «my enemy» y «sworn enemies»); 10, el *breaststroke* no vuelve (la oficial: «trying to swim»). No se trajo el opcional «Where do we start?» del 14.
-  - **Criterio aplicado en el bloque A (vale para B y C):** si el informe pide devolver una frase publicada que el cotejo había cambiado por calcar la oficial, no se devuelve tal cual; se recupera la intención (torpeza o ridículo) con palabras nuevas. Así: 1, «teaspoon» y no «knives and forks»; 2, «a piece of himself» se queda; 3, «murderer after him» se queda, Weasley no dice «please» y Lyra no encuentra respuesta a Lupin (sin «May I use my foot?»); 4, «I don’t *care* what it means! Make it go *away*!» en vez de «Stop sitting there and *knowing* things»; 8, el formulario se vuelve rosa y escribe *Nice try* (la tinta en el ojo calcaba la oficial). En el 5 se mantiene «the other times» (*Year One* 1 y el 9 son dos caídas).
-  - Plan del 24 al 30 (`plan-24-30.md`): en pausa hasta que acabe la fusión. El autor no ha decidido los hilos H1-H3 y falta el coreano 36.
+- **HECHA (17 de octubre): FUSIÓN DE VERSIONES.** Plan e informes en `docs/notas/cotejo-oficial/fusion/`. Bases:
+  - revisado en el 4, 5, 8, 10, 11, 13, 18 y del 19 al 22;
+  - beats nuevos en el 1, 2, 3, 14, 23 y *Year One* 1 y 2.
+
+  En las dos bases van los injertos de los informes. Cuando un injerto calcaba la oficial, se rehízo con palabras nuevas (detalle en los commits de los bloques A y B).
+  - Revisión final hecha por dos Opus nuevos (`fusion/revision-final-1.md` y `-2.md`), con todos los arreglos aplicados: el orden de la discusión en el 21, los anillos, Dumbledore en el 22, Lupin en el 19, citas del 9, el 14 y el 25/26.
+  - Al día con los textos fusionados: los manuales del 1 al 23, *Year One* 1 y 2, la continuidad transversal y el handoff (1, 2 y la deuda de Lupin).
+  - **Para el autor:** `docs/notas/cotejo-oficial/veredicto-publicado.md` dice qué subir, en qué grupos y qué pantallazos cambian. **Puede publicar.**
+  - **Siguiente:** plan del 24 al 30 (`plan-24-30.md`), en pausa hasta que el autor decida los hilos H1 a H3; falta el coreano 36.
 
 - **Nuevo frente (15 de octubre): cotejo con la traducción inglesa oficial.** El autor ha descubierto que el original coreano tiene versión inglesa oficial y quiere que el fic deje de parafrasearlo tan de cerca, sin tocar la historia. Ya hecho:
   - el prólogo oficial está en `referencia/oficial-en/`;
