@@ -1,22 +1,8 @@
 # Chapter 23: Nine o’Clock
 
-Professor Lupin missed a week of lessons after the full moon. Lyra took the long way round to Charms, so as not to pass his door.
+It came by six owls, at breakfast, and it was a broom.
 
-On the Monday he came back, she was up before anybody else, and went the short way after all. She left a bar of dark chocolate outside his office door: Honeydukes’ best, in gold paper. She did not leave a note. She had never liked dark chocolate; it tasted of medicine. It was the only thing she could think of that he would understand and nobody else would.
-
-In Defence that afternoon he looked grey and tired and kind, and did not look at her once. Only at the end, while they were packing up, he said to the room in general, quite mildly, “Thank you,” and went on stacking his books.
-
-It paid nothing. She knew that. It was a receipt, not a payment.
-
-That was the week the world went on as though nothing had happened.
-
-Peter Pettigrew was alive, and he had sold the Potters, and Sirius Black had done nothing of the kind. Not one word of it was in the *Daily Prophet*. Lyra read every page of it at breakfast for nine days running and found a great deal about Quidditch and a goblin dispute in Bristol. The Ministry, it seemed, did not care to tell anybody that it had locked the wrong man in Azkaban for twelve years and then spent most of a year failing to catch him again; and whatever oath or charm or tangle of old magic lay behind the mistake, it would hardly look better in print.
-
-So the Ministry said nothing. One morning the Dementors were simply gone from the gates, and the cold went out of the drive with them. The Aurors went back to London. The search for Sirius Black was, in the Ministry’s own phrase, suspended pending review. Albus Dumbledore went up to town twice in the same week, which a few people noticed, and came back looking pleased with himself, which nobody could help noticing. Of Peter Pettigrew, nobody said a word.
-
-In Potions, Snape did not say *Faultless*. He did not say anything to her, that week or the next. Now and then she caught him looking at her across the dungeon, as though she were a sum he had nearly finished checking.
-
-The Malfoys had friends all over the Ministry and heard everything first. Her father wrote the same day.
+They came down the Great Hall in a line, carrying it between them like a coffin at a very grand funeral, and laid it across the Slytherin table among the toast racks; and the seventh owl, her father’s, landed on the marmalade and held out its leg with the air of a bird who had been asked to deliver the will.
 
 *My dear Lyra,*
 
@@ -30,9 +16,11 @@ The Malfoys had friends all over the Ministry and heard everything first. Her fa
 
 *Your loving father*
 
-Her father had never in his life told her where to stand unless somebody had first told him where she had been standing. *A clever girl like you will already have stepped back.* Lyra thought of Snape on the shore, with his fingers at his chin, looking at the feathers on her robes. Then she read the part about the present again, and decided to be pleased about that instead.
+So that was how the Ministry meant to say it: by not saying it. Lyra had read every page of the *Daily Prophet* at breakfast for nine days running, and found a great deal about Quidditch and a goblin dispute in Bristol, and not one word about Peter Pettigrew, who was alive, or about Sirius Black, who had done nothing at all. The Ministry did not care to tell anybody that it had locked the wrong man in Azkaban for twelve years and then spent most of a year failing to catch him again; and whatever oath or charm or tangle of old magic lay behind the mistake, it would hardly look better in print. So there would be no announcement. One morning the Dementors had simply been gone from the gates, and the cold had gone out of the drive with them. The Aurors had gone back to London. The search was, in the Ministry’s own phrase, suspended pending review. Albus Dumbledore had gone up to town twice in the same week, which a few people noticed, and come back looking pleased with himself, which nobody could help noticing.
 
-It came by six owls, and it was a broom.
+And her father, who had friends all over the Ministry and heard everything first, had written the same day. Her father had never in his life told her where to stand unless somebody had first told him where she had been standing. *A clever girl like you will already have stepped back.* Lyra thought of Snape on the shore, with his fingers at his chin, looking at the feathers on her robes.
+
+Then she looked at the present, and decided to be pleased about that instead.
 
 It was a Firebolt. She knew what it was before the last of the paper was off: she had seen it in the window in Diagon Alley in the summer, with a crowd of grown wizards in front of it, breathing on the glass. Birch, ash, a handle like dark water, a braking charm nobody had ever broken, and no price on the card at all, only *on application*, which in her father’s world meant exactly what it said. He had bought the whole team new Nimbuses last year. She suspected this one broom had cost more than all seven.
 
@@ -40,13 +28,11 @@ He had seen her moping about the house at Christmas, and heard about Hufflepuff 
 
 *It was Harry Potter and Sirius Black*, thought Lyra, running her thumb along the handle. *And that’s all been sorted out since.*
 
-She did not correct him. A Firebolt was, when one came to think about it, the only broom really suited to her, and she was secretly delighted. She wrote him four pages of thanks in her best hand and went down to breakfast with it over her shoulder.
-
-⁂
+She did not correct him. A Firebolt was, when one came to think about it, the only broom really suited to her, and she was secretly delighted. She would write him four pages of thanks in her best hand, that evening. Just now there was the Great Hall to think of.
 
 The Great Hall went to pieces.
 
-The Slytherins came first, one after another, as though she were towing them; then half the second-years from the other Houses, and a row of Ravenclaws standing on their bench to see over the heads. Marcus Flint had planted himself beside the broom with his arms out and was batting away hands like a man defending the last cake at a funeral.
+The Slytherins came first, crowding down the bench; then half the second-years from the other Houses, and a row of Ravenclaws standing on their bench to see over the heads. Marcus Flint had planted himself beside the broom with his arms out and was batting away hands like a man defending the last cake at a funeral.
 
 “Merlin. A *Firebolt*. Parkinson, if you touch it I will break your fingers off and post them to your mother.”
 
@@ -78,7 +64,7 @@ Flint glanced at Lyra as he said it. He did not know what had gone on between th
 
 “Leave him, Marcus,” said Lyra. “Let him look, if he wants to.”
 
-Nothing pleased her more than letting an enemy see exactly what she had. Flint knew that, and stood aside, though he went on glaring. Potter came through the crowd. Parkinson put a shoulder in his way, not quite by accident, and Potter hooked a foot round his ankle so that he sat down suddenly on the bench, and arrived at Lyra’s side as though nothing had happened.
+Nothing pleased her more than letting an enemy see exactly what she had. Flint knew that, and stood aside, though he went on glaring. Potter came through the crowd. Parkinson put a shoulder in his way, not quite by accident, and Potter hooked a foot round his ankle so that he sat down suddenly on the bench, and arrived at Lyra’s side quite unruffled.
 
 “It really is.” For once, even he looked impressed. “That’s beautiful. Look at the line of it. It looks as if it’s going fast standing still.”
 
@@ -124,7 +110,19 @@ Crabbe stopped with her bag half on her shoulder. “In October. With the owl.�
 
 “I’m not,” said Lyra. “Not any more.”
 
-It was not quite true. There was a goblet she had not paid for. But it was truer than it had been since October, and Crabbe, who had waited four months for an answer without once asking again, looked at her and nodded, as though that would do.
+It was not quite true. There was a goblet she had not paid for. But it was truer than it had been since October, and Crabbe, who had waited four months for an answer without once asking again, looked at her and nodded. It would do.
+
+⁂
+
+Professor Lupin had missed a week of lessons after the full moon. Lyra had taken the long way round to Charms all that week, so as not to pass his door.
+
+On the Monday he came back, she was up before anybody else, and went the short way after all. She left a bar of dark chocolate outside his office door: Honeydukes’ best, in gold paper. She did not leave a note. She had never liked dark chocolate; it tasted of medicine. It was the only thing she could think of that he would understand and nobody else would.
+
+In Defence that afternoon he looked grey and tired and kind, and did not look at her once. Only at the end, while they were packing up, he said to the room in general, quite mildly, “Thank you,” and went on stacking his books.
+
+It paid nothing. She knew that. It was a receipt, not a payment.
+
+In Potions, Snape did not say *Faultless*. He did not say anything to her, that week or the next. Now and then she caught him looking at her across the dungeon, as though she were a sum he had nearly finished checking.
 
 ⁂
 
@@ -196,7 +194,13 @@ Hufflepuff could only win one way, and everybody on the pitch knew it: Diggory h
 
 Down in the Slytherin stand, the banners went red, and red, and redder, and then began, nervously, to turn yellow.
 
-By the time Diggory changed his mind and went for the Quaffle himself, Gryffindor were nearly a hundred and fifty up. After that it was a brawl from one end of the sky to the other, and Hufflepuff clawed it back to sixty; and Potter, as though he had been waiting all afternoon for exactly that number, went straight up through the middle of everything and closed his hand.
+Lyra had stopped watching the play somewhere in the first hour and started watching the board, and as far as she could tell she was the only person in the stand who had seen what was going on. Potter was not looking for the Snitch. He had not so much as glanced at the sky. He was building a number. Every hole he opened and every Bludger the twins sent after Diggory went up on the board in tens, and Lyra sat with her banner in her lap and did the sum he was doing. Gryffindor needed to win by more than two hundred. The Snitch was worth a hundred and fifty. Anything over fifty in hand, then, and the moment Potter closed his fingers the Cup was his; anything under, and it was Slytherin’s.
+
+Gryffindor went a hundred and forty up. A hundred and fifty. Then Diggory changed his mind and went for the Quaffle himself, and after that it was a brawl from one end of the sky to the other, and Hufflepuff began to claw it back: a hundred and twenty, ninety, seventy. Lyra’s banner had gone yellow in her lap without her noticing. Sixty. One more Hufflepuff goal and—
+
+“He’ll go now,” she said aloud, and nobody heard her.
+
+Potter went straight up through the middle of everything, and closed his hand.
 
 “*GRYFFINDOR WIN THE CUP!* Three hundred and seventy to a hundred and sixty! *Gryffindor win the Cup!*”
 
@@ -260,7 +264,7 @@ But there had been the forest. There had been the brooms, and *only in front of 
 
 She felt a perfect fool for having fizzed.
 
-She turned round. Behind her, she thought she heard Potter’s voice, calling something. She walked on as though she had not.
+She turned round. Behind her, she thought she heard Potter’s voice, calling something. She did not turn round.
 
 The noise of the Gryffindors pouring down onto the pitch swallowed her footsteps.
 
@@ -270,13 +274,17 @@ She was halfway up to the castle, going fast, when Potter came out from behind a
 
 “Shouldn’t the hero of the hour be down there being carried about?”
 
-“Lyra.”
+“Lyra—”
 
-“What.”
+“I heard,” said Lyra. She did not stop walking, so he had to walk with her. “We’re not going out. Quite right. I should never have let it look as though we were, and I shan’t again. You may tell Diggory so from me.”
+
+“That isn’t—”
+
+“Isn’t it? It sounded remarkably like it.”
 
 “Sorry.”
 
-“What for?”
+“What for? You were perfectly accurate.”
 
 She did not look at him. He was breathing hard.
 
@@ -290,7 +298,7 @@ The *everything* Dumbledore had talked about. The thing so large that Dementors 
 
 Other schools? Lyra put that away to be wondered about later; she had better things to do with it just now. Because it was the same thing again. *It’s dangerous, so I’ll keep you at arm’s length.* The oldest excuse there was for pushing somebody away, with a ribbon round it so it looked like kindness.
 
-She was sick of it. Lyra Malfoy was not a girl who got turned down, and she would sooner die than be put aside the same way twice. She drew breath to tell Harry Potter precisely what she thought of a boy who imagined he could move her about like a piece of furniture—
+She was sick of it. Lyra Malfoy was not a girl who got turned down, and she would sooner die than be put aside the same way twice; she had shut the door herself this time, before he could, and she was not going to stand here while he explained the hinges. She drew breath to tell Harry Potter precisely what she thought of a boy who imagined he could move her about like a piece of furniture—
 
 And a small ring swallowed it all.
 
