@@ -2,15 +2,17 @@
 
 “You were rude to my friends,” said Lyra Malfoy.
 
-The guard looked down. The tip of a wand was resting very precisely against the second brass button of his uniform, and at the other end of it was a thirteen-year-old girl in a camel coat, looking up at him with an expression she had learned from the portrait of her great-grandmother on the first landing at home. It had stopped house-elves at thirty paces.
+The station guard looked down. The tip of a wand was resting very precisely against the second brass button of his uniform, and at the other end of it was a thirteen-year-old girl in a camel coat, looking up at him with an expression she had learned from the portrait of her great-grandmother on the first landing at home. It had stopped house-elves at thirty paces.
 
 It had been a trying quarter of an hour.
 
 Her mother had gone through the barrier ten minutes earlier to find Mrs Parkinson and hear, at length, about Mrs Parkinson’s new drawing room, and Lyra had elected to stay on the Muggle side and wait for Crabbe and Goyle. Anyone could simply turn up on Platform Nine and Three-Quarters. It took a particular kind of girl to make an entrance, and an entrance required a retinue, even when the retinue in question had apparently never learned to read a clock.
 
-So she had waited, with her trunk and her eagle owl on a trolley beside her and her shoulders resting lightly against a brick pillar between platforms nine and ten. People had looked at her as they went past. People generally did. It was one of the few things about King’s Cross that felt normal.
+So she had waited, with her trunk and her eagle owl on a trolley beside her and her shoulders resting lightly against a brick pillar between platforms nine and ten, and one foot tapping. People had looked at her as they went past. People generally did. It was one of the few things about King’s Cross that felt normal.
 
-The guard had not been normal. He had hovered at the edge of her vision for some minutes, a stout man with a peaked cap and a clipboard he did not appear to need, and then come over to ask whether she had lost her mum and dad, and to tell her that the Leeds train was going in four minutes, and that there was nothing else off this platform for half an hour, and that a station was no place for a girl on her own, there were all sorts about these days. Lyra had clicked her tongue and gone back to tapping her foot. She had found that with Muggles it was best not to encourage them.
+The guard had not been normal. He had hovered at the edge of her vision for some minutes, a stout man with a peaked cap and a clipboard he did not appear to need, and then come over to ask whether she had lost her mum and dad, and to tell her that the Leeds train was going in four minutes, and that there was nothing else off this platform for half an hour, and that a station was no place for a girl on her own, there were all sorts about these days.
+
+Lyra had clicked her tongue and gone back to tapping her foot. She had found that with Muggles it was best not to encourage them.
 
 Then Crabbe and Goyle had come shoving their trolley through the crowd at a dangerous speed, Goyle out of breath and short of a hair ribbon (“Mum made us come through the Leaky Cauldron and then she couldn’t work out which way was north”), and the corner of the trolley had clipped the guard’s knee, and he had hopped back and rounded on them.
 
@@ -36,29 +38,31 @@ Crabbe was shaking with suppressed laughter. “Warts!”
 
 ⁂
 
-Her mother was waiting by the third carriage, having escaped Mrs Parkinson, and kissed her goodbye on both cheeks. Then she held Lyra by the shoulders and looked at her, the long, considering look she had been giving her across the breakfast table all summer, and said only, “Write on Sundays.” Lyra promised she would. She had not told her mother about the diary. She had not asked about the east cottage either, where the light had come on four more times before the end of August without anybody at breakfast ever mentioning a guest. Between the two of them there was a great deal of not asking going on, and Lyra did not want to find out on a crowded platform which of them was better at it.
+Her mother was waiting by the third carriage, having escaped Mrs Parkinson, and kissed her goodbye on both cheeks. Then she held Lyra by the shoulders and looked at her, the long, considering look she had been giving her across the breakfast table all summer, and said only, “Write on Sundays.” Lyra promised she would.
+
+She had not told her mother about the diary. She had not asked about the east cottage either, where the light had come on four more times before the end of August without anybody at breakfast ever mentioning a guest. Between the two of them there was a great deal of not asking going on, and Lyra did not want to find out on a crowded platform which of them was better at it.
 
 The compartment she wanted was the last one in the last carriage, and when they reached it there were two sixth-year Ravenclaws already inside with their feet up.
 
-“We could just turf them out,” said Crabbe, pink from the run.
+“We could just turf them out,” said Crabbe, who was still pink from the run across the station.
 
 “Turf them out? Crabbe. We are not *Gryffindors*.”
 
-“Oh,” said Lyra, to nobody in particular, pausing in the doorway. “Someone’s here already. I’d rather hoped to sit here today.”
+“Oh,” said Lyra, a little louder, to nobody in particular, pausing in the doorway. “Someone’s here already. I’d rather hoped to sit here today.”
 
 It was enough. The Ravenclaws looked at each other, then at her, and scrambled up with the slightly dazed smiles of people who were not sure why they were doing something but felt quite good about it, and within a minute they had gathered their things and gone off up the corridor in search of somewhere else. Lyra paid them one smile each on the way out. They seemed to consider it a bargain.
 
-“You made them give it up!” said Crabbe, delighted.
+“You never even asked them!” said Crabbe, delighted.
 
-“*Made*, Crabbe? I never laid a finger on them. They overheard a wish, and they were good enough to grant it.”
+“Certainly not. Asking is very nearly as bad as turfing. They overheard a wish, and they were good enough to grant it.”
 
 She settled into the seat by the window and flicked her wand at the wicker hamper Pobble had packed. Out floated a silver teapot, three cups and a small avalanche of paper bags from her mother’s confectioner in Diagon Alley, and Crabbe and Goyle caught them with the reflexes of long practice. For a few minutes the compartment was very peaceful indeed.
 
-Lyra poured herself a cup of tea. “Today,” she said, “nothing is going to happen. Nothing at all, from here to Hogsmeade. Is that understood?”
+Lyra poured herself a cup of tea. “Today,” she said, “nothing is going to happen. Nothing at all, from here to Hogsmeade.”
 
 “Nothing,” agreed Goyle, through a mouthful of Fizzing Whizzbee. “Oh, but Malfoy, did you hear about Potter?”
 
-Lyra inhaled a mouthful of tea, coughed into her handkerchief until her eyes watered, and then fixed Goyle with a look that should by rights have removed her eyebrows.
+Lyra regarded Goyle over the rim of her cup with a look that should by rights have removed her eyebrows.
 
 “I said *nothing*, Goyle. Potter is not nothing. Potter is a weather event.”
 
@@ -76,10 +80,6 @@ The arrest itself did not surprise her in the least. Potter had spent two years 
 
 “I have no doubt he’s committed a crime, Crabbe. That isn’t the interesting part.”
 
-Monday’s *Daily Prophet* had carried yet another piece on Sirius Black, the fifth or sixth since he had escaped from Azkaban at the end of July. Lyra had read it over breakfast while her father read the financial pages and pretended not to be reading over her shoulder. Black had killed thirteen people with a single curse, twelve Muggles and one wizard, in the middle of a street in broad daylight, and then he had stood among the bodies and laughed. He was the first prisoner in history to get out of Azkaban. Nobody knew how, and nobody knew where he was going.
-
-And the Ministry had sent Aurors for Potter.
-
 “Don’t stop on my account.”
 
 Potter had opened the compartment door, walked in and sat down next to her in a single unbroken movement, as though he had been invited and was running slightly late. He had grown over the summer, which Lyra noted with disapproval, and his hair had not been cut, which she noted with no surprise whatsoever. He was already sitting beside her, one trainer up on the opposite seat, by the time she managed to say anything.
@@ -92,9 +92,9 @@ He helped himself from the pile on the seat opposite. Lyra stared at him, and th
 
 “Put that back!”
 
-“It’s one frog, Malfoy. Has your dad cut your allowance?”
+“It’s one frog, Malfoy. Has your dad stopped your pocket money?”
 
-“*Cut my*— Do you have any idea who you’re talking to? I could buy the trolley, Potter. I could buy the *train*!”
+“*Stopped my*— Do you have any idea who you’re talking to? I could buy the trolley, Potter. I could buy the *train*!”
 
 “Then you won’t miss one.” He tore the packet open and fished out the card. “Come on, come on… oh, not *again*.” It was Dumbledore. Potter looked at the card with the tragic air of a boy who had been given socks for Christmas. “That’s eleven of him. I could start a choir.”
 
@@ -106,7 +106,7 @@ Lyra’s hands were folded in her lap. She kept them there.
 
 “Extensively,” she said.
 
-It came out perfectly smooth, the way the first one had in her father’s study, and she was aware of a small cold satisfaction at how easy it was getting. Potter looked round at her. She held his eyes without blinking, and after a moment he nodded, once, as if something had been ticked off a list.
+It came out perfectly smooth, the way the first one had in her father’s study, and she was aware of a small cold satisfaction at how easy it was getting. Potter looked round at her. She held his eyes without blinking, and after a moment he nodded, once, like a man ticking something off a list.
 
 “Good,” he said.
 
@@ -114,7 +114,7 @@ Goyle surfaced from under the seat with the frog clamped between both hands and 
 
 “Go on, then. You were saying something about me. I’d much rather hear it to my face; I’m better looking from the front.”
 
-It was galling, but there was no better witness to Potter’s crimes than the criminal. Lyra swallowed her irritation, which was large and sharp-edged and went down badly.
+It was galling to ask. It would have been more galling not to know. Lyra swallowed her irritation, which was large and sharp-edged and went down badly.
 
 “What on earth did you do,” she said, “to get arrested by Muggles?”
 
@@ -136,6 +136,10 @@ Lyra felt a small, disgraceful flicker of curiosity about popping candy, and put
 
 Maniac. Prison. Not safe. Lyra laid the pieces side by side and they fitted together with an almost audible click. The Ministry was very frightened about Potter’s safety indeed, frightened enough to send Aurors rather than a clerk, and there was only one maniac out of prison this summer.
 
+Monday’s *Daily Prophet* had carried yet another piece on Sirius Black, the fifth or sixth since he had escaped from Azkaban at the end of July. Lyra had read it over breakfast while her father read the financial pages and pretended not to be reading over her shoulder. Black had killed thirteen people with a single curse, twelve Muggles and one wizard, in the middle of a street in broad daylight, and then he had stood among the bodies and laughed. He was the first prisoner in history to get out of Azkaban. Nobody knew how, and nobody knew where he was going.
+
+And the Ministry had sent Aurors for Potter.
+
 Knowledge was power. Lyra felt the truth of it now, settling in her chest like a good cup of tea. She leaned back, a good deal more comfortable than she had been a minute earlier.
 
 “Sirius Black, you mean.”
@@ -144,9 +148,13 @@ Knowledge was power. Lyra felt the truth of it now, settling in her chest like a
 
 Lyra watched him do it and felt something she had not expected to feel for Harry Potter, which was pity.
 
-She knew what her father knew, or at least the parts he had let slip over port that summer. Sirius Black had been the Potters’ best friend, and he had sold them to the Dark Lord anyway. Her father had seemed to find that the only admirable thing about him. Black was also, though nobody at the Manor ever said so, her mother’s cousin. His name had been burnt off the family tapestry long before Lyra was born, and her mother had a way of leaving the room whenever the *Prophet* printed his face. Lyra thought of that long look on the platform and wondered, for the first time, whether it had been about her at all.
+She knew what her father knew, or at least the parts he had let slip over port that summer. Sirius Black had been the Potters’ best friend, and he had sold them to the Dark Lord anyway. Her father had seemed to find that the only admirable thing about him.
 
-And now Black was out, and the only Potter left was sitting in her compartment eating her sweets, with no idea that the man who had killed his parents was very probably coming to finish the job. If Black managed it, the boy keeping her family’s secret would be gone, and the sum Lyra had worked out at her desk in July would stop adding up. She had no patience with stupidity. But even she could see there was something unbearable about a boy who nearly died every year and still walked about as though the world were a large and entertaining playground.
+Black was also, though nobody at the Manor ever said so, her mother’s cousin. His name had been burnt off the family tapestry long before Lyra was born, and her mother had a way of leaving the room whenever the *Prophet* printed his face. Lyra thought of that long look on the platform and wondered, for the first time, whether it had been about her at all.
+
+And now Black was out, and the only Potter left was sitting in her compartment eating her sweets, with no idea that the man who had killed his parents was very probably coming to finish the job. If Black managed it, the boy keeping her family’s secret would be gone, and the sum Lyra had worked out at her desk in July would stop adding up.
+
+She had no patience with stupidity. But even she could see there was something unbearable about a boy who nearly died every year and still walked about treating the world as a large and entertaining playground.
 
 “Honestly, Potter,” she said, “ignorance must be very restful. You look positively serene.” She said it kindly, by her own standards. “If I were you, I’d make it my business to know Sirius Black better than he knows himself. Find out what he wants, and you’ll know where he’s going.”
 
@@ -164,7 +172,7 @@ He did it the way one might pat a pony, briskly and with approval, and he did it
 
 He was on his feet and through the door and gone, as quickly as he had arrived, and the door slid shut behind him with a small click of finality.
 
-Lyra turned her head. It felt as if it needed oiling.
+Lyra turned her head. Her neck needed oiling.
 
 “POTTER!”
 
@@ -176,7 +184,7 @@ It was always like this. Potter went through a room like a draught through a hou
 
 “I want,” said Lyra, “to know why the two of you sat there like a pair of hatstands while he *ate my frogs*.”
 
-“What were we meant to do?” said Goyle, very reasonably, and Lyra found she had nothing to say to that. She was in no position to make threats herself, not with the diary sitting in his pocket or wherever he kept it; and what exactly were Crabbe and Goyle supposed to do?
+“What were we meant to do?” said Goyle, very reasonably, and Lyra had nothing to say to that. She was in no position to make threats herself, not with the diary sitting in his pocket or wherever he kept it; and what exactly were Crabbe and Goyle supposed to do?
 
 *Who does he think he is?* she thought furiously, which was a stupid question, because everybody knew exactly who he was, and that was the whole trouble. She began, with shaking hands, to repair her hair.
 
@@ -186,7 +194,7 @@ She had just got the last pin back in when the train began to slow.
 
 It was far too early for Hogsmeade. The rain that had been following them since Peterborough was lashing the windows, and outside there was nothing but dark moorland and darker sky. The carriage gave a shudder, the brakes shrieked, and all along the corridor doors slid open and voices rose, asking each other what was going on. Then the lamps went out.
 
-The cold came a moment later. It did not come through the window or under the door. It seemed to come from somewhere inside the compartment itself, as though the air had been emptied of something Lyra had never noticed it contained until it was gone. The rain on the glass began to freeze into crooked white lines. Her breath smoked. And underneath the cold came something worse, a slow grey feeling that seeped into her like water into a boot, the certainty that nothing had ever been pleasant and nothing ever would be again.
+The cold came a moment later. It did not come through the window or under the door. It came from inside the compartment itself. Something had gone out of the air, something Lyra had never noticed it contained until it was gone. The rain on the glass began to freeze into crooked white lines. Her breath smoked. And underneath the cold came something worse, a slow grey feeling that seeped into her like water into a boot, the certainty that nothing had ever been pleasant and nothing ever would be again.
 
 Crabbe gave a small, strangled whimper. Goyle had both hands pressed to her mouth.
 
@@ -250,7 +258,7 @@ He looked mildly surprised, and then mildly amused. “I am. Though not official
 
 There seemed to be no answer to that.
 
-Lyra accepted the blow to her dignity, knelt on the dusty floor of a stranger’s compartment, and pressed both hands down on Potter’s shoulders. His jumper smelled aggressively of some Muggle washing powder, the flowery kind that seemed to be shouting about how clean it was. Professor Lupin moved round to Potter’s head.
+Lyra accepted the blow to her dignity, knelt in the dust of a stranger’s compartment, and pressed both hands down on Potter’s shoulders. His jumper smelled aggressively of some Muggle washing powder, the flowery kind that seemed to be shouting about how clean it was. Professor Lupin moved round to Potter’s head.
 
 It was strange, seeing Potter with his mouth shut. With his eyes closed and his face still, he looked like one of the marble boys on old tombs, folded hands and all. It seemed monstrously unfair. The moment he opened either his eyes or his mouth, there was not a bigger villain in the whole of Hogwarts.
 
@@ -280,11 +288,11 @@ He looked at her for a moment as though she had answered in a foreign language. 
 
 “Dear me, Potter.” Lyra leaned back. “All that swagger, and one Dementor puts you on the floor?” She let that sit for a moment, because it deserved to. “They’re obviously smitten. You aren’t even a convict, and they came all this way to kiss you. I’d watch that, if I were you. Keep this up and your first kiss will be with something that hasn’t got a face.”
 
-Potter’s face screwed itself up. Lyra looked down at him from the seat and enjoyed every second of it. It had been so long since she had seen him like this.
+Potter’s face screwed itself up. Lyra looked down at him from the seat and enjoyed every second of it.
 
 She was opening her mouth to say something even more cutting when Potter moved.
 
-One moment he was on the floor, and the next he had come up onto his knees and his face was very close to hers. For a second he did not move at all. He looked at her the way he had looked at the black window, as though he were working something out and did not much like the answer, and Lyra, who had never once in her life lost her place in the middle of an insult, lost it. Then something brushed across her mouth, so quickly and so lightly that for a second she genuinely did not understand what it had been.
+One moment he was on the floor, and the next he had come up onto his knees and his face was very close to hers. For a second he did not move. He looked at her the way he had looked at the black window, as though he were working something out and did not much like the answer, and Lyra, who had never once in her life lost her place in the middle of an insult, lost it. Then something brushed across her mouth, so quickly and so lightly that for a second she genuinely did not understand what it had been.
 
 Then she did.
 
@@ -292,13 +300,13 @@ Lyra made a noise she had never made before in her life and clapped her hand ove
 
 Potter got to his feet and dusted off the knees of his jeans. “First kiss with a Dementor?” he said. “Not any more.”
 
-It had to be a dream. She would have given anything for it to be a dream. But her mouth was still tingling, very faintly, where it had happened, and dreams did not do that, and Lyra found she could not put three words in the right order.
+It had to be a dream. She would have given anything for it to be a dream. But her mouth was still tingling, very faintly, where it had happened, and dreams did not do that, and Lyra could not put three words in the right order.
 
 “What— you— that— what did—”
 
 “Wasn’t going to let a Dementor have my first one, either,” said Potter. He said it very lightly, and not quite to her; he was looking out at the dark again. His ears had gone scarlet. The Dementor, Lyra supposed, with the small part of her mind that was still working. “Call it charity. For somebody with a murderer after him.”
 
-For several seconds Lyra could not speak at all. Then it all arrived at once.
+For several seconds Lyra could not speak. Then it all arrived at once.
 
 “You— I have *never*— nobody has *ever*— you *thief*—”
 
@@ -310,6 +318,6 @@ For several seconds Lyra could not speak at all. Then it all arrived at once.
 
 “*OBLIVIATE!*”
 
-Professor Lupin, who had been kneeling on the floor with his wand still raised and his mouth slightly open, as though trying to work out exactly what he had just watched, cleared his throat. Then he reached into his robes, took out an enormous slab of dark chocolate, and broke it in two with a loud crack.
+Professor Lupin, who had been kneeling on the floor with his wand still raised and his mouth slightly open, cleared his throat. Then he reached into his robes, took out an enormous slab of dark chocolate, and broke it in two with a loud crack.
 
 “Eat that,” he said, holding out a piece to each of them. “Both of you. It helps.” He looked from one scarlet face to the other. “With the Dementors, I mean.”
