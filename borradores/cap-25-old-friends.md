@@ -142,7 +142,7 @@ She looked along the staff table without meaning to. Professor Snape was looking
 
 *Somebody found out at the end of term.* Lyra had a very good idea who had found out, and how long he had been waiting to.
 
-She had kept that secret for seven months, from her father and from every soul in Slytherin, and from Snape the fact that she knew it, because she owed it. And at the end of the year he had come back to his classroom grey and tired and said *thank you* to the air, and she had left a bar of chocolate she did not like outside his door and called it a receipt, and now he was gone, and there was nothing left to pay it to.
+She had kept that secret for seven months, from her father and from every soul in Slytherin, and from Snape the fact that she knew it, because she owed it. And in February he had come back to his classroom grey and tired and said *thank you* to the air, and she had left a bar of chocolate she did not like outside his door and called it a receipt, and now he was gone, and there was nothing left to pay it to.
 
 “Lyra?” said Goyle. “You’re not eating.”
 

@@ -144,7 +144,7 @@ He meant it kindly, which was worse. She felt the heat start at the back of her 
 
 “Dumbledore again. He knew what Sirius turned into.”
 
-“And I stood in that corridor and *told* you not to go.” It came out smaller than she had meant it to. “You must have thought it was the funniest thing you’d ever heard.”
+“And I stood at the bottom of the stairs and *told* you not to go.” It came out smaller than she had meant it to. “You must have thought it was the funniest thing you’d ever heard.”
 
 Potter shook his head.
 

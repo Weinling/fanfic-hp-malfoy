@@ -66,7 +66,7 @@ Crabbe had gone white. Her wand arm had dropped to her side, and she was staring
 
 “Back you come, Vanessa!” said Lupin briskly, and moved to draw her away.
 
-Lyra had known that girl. She had shared a Chocolate Frog with her on the train in their first week and never once thought her anything to be ashamed of, and she found now that she was furious. She was not angry with Crabbe in the slightest. She was angry with the thing in front of the wardrobe, for daring to pick her out in front of everybody and use her like that.
+Lyra had known that girl. She had shared a Chocolate Frog with her on the train in their first week and never once thought her anything to be ashamed of, and she was furious now. She was not angry with Crabbe in the slightest. She was angry with the thing in front of the wardrobe, for daring to pick her out in front of everybody and use her like that.
 
 So while Lupin steered Crabbe back into the line, Lyra stepped past them both, to give the boggart something else to look at.
 
@@ -100,9 +100,7 @@ Lyra looked at her wand hand. It was not shaking, at least.
 
 She had not moved. She, who had stood her ground against a Dementor barely a week ago without so much as a tremor anyone could see, had stood in front of a boggart in a cloak and not been able to lift her wand an inch.
 
-And it had been Potter. Or something with his face. She turned that over and could find no sense in it.
-
-Was it the diary? Was it the blackmail? Potter had threatened her, certainly. She had agreed to help him, certainly. But that was a business arrangement, nothing more, and the idea that the eldest child of the House of Malfoy could be frozen to the spot by a business arrangement was simply absurd.
+And it had been Potter, or something wearing his face. She could make no sense of that, so she declined to try; she had been brought up to treat absurd ideas like poor relations, kindly and at a distance.
 
 Behind her the class was already chattering about octopuses and fairies. From the back of the line, as Parkinson would explain at length over dinner, the boggart had only been some bloke in a cloak, and Malfoy had been about to sort it out when Lupin jumped in to show off. Lyra decided she would let that version stand.
 
@@ -146,7 +144,7 @@ Lyra lowered her wand and sat down in the nearest armchair with great satisfacti
 
 The boggart in the tailcoat had stepped smartly forward, bowed low over her hand, and kissed the back of it.
 
-Lyra snatched it away as if the boggart had bitten her. Potter, or the thing wearing Potter, looked faintly wounded, bowed again even lower, recovered her hand with great courtesy and kissed it once more, with tremendous seriousness, as though the first had only been a draft.
+Lyra snatched it away. Potter, or the thing wearing Potter, looked faintly wounded, bowed again even lower, recovered her hand with great courtesy and kissed it once more, with tremendous seriousness, as though the first had only been a draft.
 
 Lyra understood, with horror, what she had done. She had put the thing in evening dress, and it had taken the evening dress at its word. The train came back to her all at once, in vivid and unwelcome detail, and her face went hot to the roots of her hair.
 
@@ -170,7 +168,7 @@ So Lyra stood up, which brought the butler’s face and the fork and the cake ve
 
 The butler took one devoted step after her, caught his foot on nothing whatever, and went headlong. The tray went up. The teapot went up. The cake went up and came down again, cream side first, squarely on top of his head, and he sat there on the floorboards with jam running down his nose and an expression of such profound and Potter-like injury that Lyra laughed out loud before she could stop herself.
 
-The boggart burst like a soap bubble into a thin grey smoke and went back through the keyhole. Lyra kicked the wardrobe door shut after it.
+The boggart burst like a soap bubble into a thin grey smoke, and was gone. Lyra kicked the empty wardrobe shut.
 
 There was a short silence.
 
@@ -184,7 +182,7 @@ He pulled two of the shabby armchairs round to face each other and sat down in o
 
 “The face under the hood,” he said. “The first time. It was Harry’s.”
 
-It was not a question, so she did not treat it as one. “It was. I’m not frightened of Potter, Professor. I’m *bored* of him. There’s a difference.”
+It was not a question, so she did not treat it as one. “It was. I’m not frightened of Potter, Professor. I’m *bored* by him. There’s a difference.”
 
 It was quite true, as far as it went. A girl who was frightened of somebody did not go down a pitch-dark train towards the sound of him screaming, and she had. The diary made him awkward, and she disliked him more than anyone else in the school, but she had never once been frightened of him.
 
@@ -192,7 +190,7 @@ It was quite true, as far as it went. A girl who was frightened of somebody did 
 
 “Possibly. Harry’s never owned a cloak that long in his life; his robes are halfway up his shins.” He paused. “But I’ll be honest with you, Miss Malfoy, and I hope you won’t take it the wrong way. When I saw it, before it turned towards me, it didn’t put me in mind of Harry at all. It put me in mind of the man people still won’t name.”
 
-Lyra had been ready for almost anything but that, and least of all now, sitting there with cake on her shoe. She felt herself go still, the way her father went still at dinner when somebody mentioned the war.
+Lyra had been ready for almost anything but that, and least of all now, sitting there with a boggart’s napkin still round her neck. She felt herself go still, the way her father went still at dinner when somebody mentioned the war.
 
 There was exactly one person, alive or not quite alive, who could walk into the Manor and help himself to whatever he liked: the house, the name, her father, her own mind if he cared to, and she had heard enough over the years, in half-sentences and lowered voices, to know he had helped himself to other people’s. Potter too, for all Potter seemed to think himself untouchable.
 

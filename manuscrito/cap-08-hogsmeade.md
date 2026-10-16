@@ -8,13 +8,13 @@
 
 The notice had gone up on the common-room board a fortnight earlier, *First Hogsmeade Weekend: Hallowe’en*, and the third-years had talked of very little else since. Lyra had let them. She had no great interest in a village of shops for ordinary people, and she had heard enough at home about the Three Broomsticks to know that it was mostly full of farmers and Ministry clerks on their afternoon off.
 
-But it seemed unkind to say so to Goyle, who had been planning her route round Honeydukes since the first week of term and had drawn a map, so Lyra had agreed that it all sounded tremendous fun, and had found, rather to her surprise, that she half meant it.
+But it seemed unkind to say so to Goyle, who had been planning her route round Honeydukes since the first week of term and had drawn a map, so Lyra had agreed that it all sounded tremendous fun, and, rather to her surprise, half meant it.
 
 The Great Hall smelled of pumpkin. It had smelled of pumpkin since the day before, when Hagrid had dragged in the great orange monsters from his patch, and by Hallowe’en morning the whole castle seemed to be holding its breath for the feast.
 
 There was still nothing from her father. Nineteen days, and a second letter, shorter, sent the Monday after the first, which had not been answered either. Draco had not written back about the cards, which was not like him; Draco answered letters before he had finished reading them.
 
-And Lyra had not answered her mother. She had begun a reply to the postscript three times, and three times found that she did not know what she was allowed to say, and put it on the fire.
+And Lyra had not answered her mother. She had begun a reply to the postscript three times, and three times stopped, not knowing what she was allowed to say, and put it on the fire.
 
 Every Malfoy she had was being silent at once, herself included, and she had stopped looking for the eagle owl when the post came in, or at any rate had stopped being seen to look.
 
@@ -96,11 +96,11 @@ Hogsmeade turned out to be a single crooked high street of thatched and slated c
 
 She looked for him in Honeydukes first. She did not mean to. Honeydukes was also the first surprise. She had grown up on sweets from her mother’s confectioner in Diagon Alley, who made sugared violets to order and would not sell you anything without first enquiring after your family, and she had expected a village sweetshop to be a poor relation. It was nothing of the kind. It was a long, low, steamy room crammed to the ceiling with things she had never seen, and Goyle went round it with the face of a pilgrim.
 
-Lyra bought a box of Chocolate Frogs because it would have been rude not to, and then, while Goyle was deciding between sugar quills in three sizes, she found herself standing at the counter with a single sugar quill in her hand that she did not remember picking up. There were sugar mice in the next jar, pink ones. She did not look at them.
+Lyra bought a box of Chocolate Frogs because it would have been rude not to, and then, while Goyle was deciding between sugar quills in three sizes, she was standing at the counter with a single sugar quill in her hand that she did not remember picking up. There were sugar mice in the next jar, pink ones. She did not look at them.
 
 She paid for it anyway, and put it in her pocket, and did not ask herself why.
 
-Weasley and Granger were over by the window, filling an enormous paper bag from every jar in reach and ticking things off a list. Granger looked up as Lyra passed, and looked at her for exactly as long as it took to recognise her, and then turned back to the jars as if Lyra were a shelf of liquorice wands. Weasley did not look up at all.
+Weasley and Granger were over by the window, filling an enormous paper bag from every jar in reach and ticking things off a list. Granger looked up as Lyra passed, and looked at her for exactly as long as it took to recognise her, and then turned back to the jars as if Lyra were a shelf of liquorice wands. Weasley did not look up.
 
 Lyra had been cut by experts, at her mother’s parties, by women who had been doing it for forty years, and it was absurd that a Mudblood with a paper bag should manage it so well.
 
@@ -118,7 +118,7 @@ There were dozens of untidy dark heads. None of them was his. By the middle of t
 
 Either he had lost his nerve and stayed in the tower like a sensible person, which she did not for one moment believe, or he was keeping out of sight, which was what she had told herself he ought to do. It was strange how little better that made her feel.
 
-The light went early, as it did at the end of October. The bell in the little church tower rang the hour and shopkeepers began to put their heads out of their doors to remind the students that it was time to walk back up to the castle. Lyra counted her money on the walk back up the lane, and stopped in the lane, and counted it again.
+The light went early, as it did at the end of October. The bell in the little church tower rang the hour and shopkeepers began to put their heads out of their doors to remind the students that it was time to walk back up to the castle. Lyra counted her money on the walk back, and stopped, and counted it again.
 
 She had spent two Galleons and a handful of silver. It was not the sum that troubled her; she had spent more than that on a hair ribbon. It was that she had spent it a Knut here and a Sickle there, in a village, on sweets and butterbeer and a quill she had not wanted, without once noticing, like any ordinary girl on an ordinary weekend, and that she had enjoyed it.
 
@@ -156,7 +156,11 @@ The sugar quill was still in her pocket. She left it there.
 
 The candles in the Great Hall had been dimmed almost to nothing, and Lyra lay in a squashy purple sleeping bag near the wall, in her dressing gown, with her back to the panelling and the whole room in front of her.
 
-Ten minutes after the sugar quill, Professor Snape had come into the common room with his face quite white and quite still, and not raised his voice, which was worse. Everyone to the Great Hall. Now. In what they were wearing; no, Parkinson, not even shoes. They had gone up through the dungeons in a long silent line, the first-years clutching each other’s sleeves, and found the Hufflepuffs arriving in their dressing gowns and the Ravenclaws coming down the marble staircase looking frightened, and above it all, somewhere high in the castle, a poltergeist cackling. The Fat Lady was gone. Somebody had slashed the portrait that guarded Gryffindor Tower to ribbons, during the feast, while every soul in the castle was downstairs, and she had fled into another painting on the second floor and would not come out. Peeves had seen who did it, and was delighted to tell everybody. He had a nasty temper, that Sirius Black. Then Dumbledore had told them the teachers would search the castle from top to bottom, and they would sleep here until it was done, with the doors sealed and the prefects on guard; and wished them goodnight as calmly as if it were the end of an ordinary feast, and gone out, and the great doors had closed behind him with a sound like the end of a sentence.
+Ten minutes after the sugar quill, Professor Snape had come into the common room with his face quite white and quite still, and not raised his voice, which was worse. Everyone to the Great Hall. Now. In what they were wearing; no, Parkinson, not even shoes. They had gone up through the dungeons in a long silent line, the first-years clutching each other’s sleeves, and found the Hufflepuffs arriving in their dressing gowns and the Ravenclaws coming down the marble staircase looking frightened, and above it all, somewhere high in the castle, a poltergeist cackling.
+
+The Fat Lady was gone. Somebody had slashed the portrait that guarded Gryffindor Tower to ribbons, during the feast, while every soul in the castle was downstairs, and she had fled into another painting on the second floor and would not come out. Peeves had seen who did it, and was delighted to tell everybody. He had a nasty temper, that Sirius Black.
+
+Then Dumbledore had told them the teachers would search the castle from top to bottom, and they would sleep here until it was done, with the doors sealed and the prefects on guard; and wished them goodnight as calmly as if it were the end of an ordinary feast, and gone out, and the great doors had closed behind him with a sound like the end of a sentence.
 
 She looked for Potter. It was not hard. He was in the middle of the hall among the Gryffindors, lying on his back in a purple sleeping bag between Weasley and Granger, with his hands behind his head. She expected him to look frightened. Anyone else would have; she could hear Colin Creevey crying quietly somewhere nearby, and even Weasley’s face, turned sideways on the pillow, was the colour of porridge.
 

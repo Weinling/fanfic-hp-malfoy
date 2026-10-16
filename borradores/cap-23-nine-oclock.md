@@ -2,7 +2,7 @@
 
 It came by six owls, at breakfast, and it was a broom.
 
-They came down the Great Hall in a line, carrying it between them like a coffin at a very grand funeral, and laid it across the Slytherin table among the toast racks; and the seventh owl, her father’s, landed on the marmalade and held out its leg with the air of a bird who had been asked to deliver the will.
+They came down the Great Hall in a line, carrying it between them like a standard in a procession, and laid it across the Slytherin table among the toast racks; and the seventh owl, her father’s, landed on the marmalade and held out its leg with the air of a herald.
 
 *My dear Lyra,*
 
@@ -16,9 +16,11 @@ They came down the Great Hall in a line, carrying it between them like a coffin 
 
 *Your loving father*
 
-So that was how the Ministry meant to say it: by not saying it. Lyra had read every page of the *Daily Prophet* at breakfast for nine days running, and found a great deal about Quidditch and a goblin dispute in Bristol, and not one word about Peter Pettigrew, who was alive, or about Sirius Black, who had done nothing at all. The Ministry did not care to tell anybody that it had locked the wrong man in Azkaban for twelve years and then spent most of a year failing to catch him again; and whatever oath or charm or tangle of old magic lay behind the mistake, it would hardly look better in print. So there would be no announcement. One morning the Dementors had simply been gone from the gates, and the cold had gone out of the drive with them. The Aurors had gone back to London. The search was, in the Ministry’s own phrase, suspended pending review. Albus Dumbledore had gone up to town twice in the same week, which a few people noticed, and come back looking pleased with himself, which nobody could help noticing.
+So that was how the Ministry meant to say it: by not saying it. Lyra had read every page of the *Daily Prophet* at breakfast for nine days running, and found a great deal about Quidditch and a goblin dispute in Bristol, and not one word about Peter Pettigrew, who was alive, or about Sirius Black, who had done nothing at all. The Ministry did not care to tell anybody that it had locked the wrong man in Azkaban for twelve years and then spent most of a year failing to catch him again; and whatever oath or charm or tangle of old magic lay behind the mistake, it would hardly look better in print.
 
-And her father, who had friends all over the Ministry and heard everything first, had written the same day. Her father had never in his life told her where to stand unless somebody had first told him where she had been standing. *A clever girl like you will already have stepped back.* Lyra thought of Snape on the shore, with his fingers at his chin, looking at the feathers on her robes.
+So there would be no announcement. One morning the Dementors had simply been gone from the gates, and the cold had gone out of the drive with them. The Aurors had gone back to London. The search was, in the Ministry’s own phrase, suspended pending review. Albus Dumbledore had gone up to town twice in the same week, which a few people noticed, and come back looking pleased with himself, which nobody could help noticing.
+
+And her father, who had friends all over the Ministry and heard everything first, had written the day the search was called off. Her father had never in his life told her where to stand unless somebody had first told him where she had been standing. *A clever girl like you will already have stepped back.* Lyra thought of Snape on the shore, with his fingers at his chin, looking at the feathers on her robes.
 
 Then she looked at the present, and decided to be pleased about that instead.
 
@@ -264,7 +266,7 @@ But there had been the forest. There had been the brooms, and *only in front of 
 
 She felt a perfect fool for having fizzed.
 
-She turned round. Behind her, she thought she heard Potter’s voice, calling something. She did not turn round.
+She turned on her heel. Behind her, she thought she heard Potter’s voice, calling something. She did not look back.
 
 The noise of the Gryffindors pouring down onto the pitch swallowed her footsteps.
 
