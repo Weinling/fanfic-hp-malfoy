@@ -24,7 +24,7 @@ The Malfoys had friends all over the Ministry and heard everything first. Her fa
 
 *A clever girl like you will already have stepped back and be watching from a safe distance; I mention it only in case you were curious.*
 
-*I have sent you something. Call it a late Christmas present. And you are not to mope about the Quidditch. One loses a match in January in order to win the next one handsomely.*
+*I have sent you something. Call it a late Christmas present. And you are not to mope about the Quidditch. One loses a match in January in order to win the next one handsomely. Next time, simply crush them.*
 
 *Your mother sends her love, and reminds you that you owe her a letter.*
 
@@ -66,7 +66,7 @@ A broom did not make a flyer; she knew that perfectly well. But a broom like thi
 
 She was enjoying all of it very much when a voice said, “Oh, is that a Firebolt?”
 
-Harry Potter came over the end of the Slytherin bench like somebody stepping over a garden wall. Flint’s face set like a pudding.
+Harry Potter came over the end of the Slytherin bench like somebody stepping over a garden wall. Flint’s face set.
 
 “Not you. You don’t touch it. You don’t *breathe* on it.”
 
@@ -74,7 +74,7 @@ Harry Potter came over the end of the Slytherin bench like somebody stepping ove
 
 “After the last time—”
 
-Flint glanced at Lyra as he said it. He did not know what had gone on between the two of them, but he knew it had put his Seeker off her food for most of a term, and he had Ravenclaw coming up.
+Flint glanced at Lyra as he said it. He did not know what had gone on between the two of them, but he knew it had put his Seeker off her game for most of a term, and he had Ravenclaw coming up.
 
 “Leave him, Marcus,” said Lyra. “Let him look, if he wants to.”
 
@@ -166,7 +166,7 @@ Potter was on a school broom, one of the old Cleansweeps from the shed, with its
 
 Potter did not smile back.
 
-“Clever, what you did in January,” he said. “Chatting to the other Seeker. Getting under her skin. I’d never have thought of it. I thought I’d try it.”
+“Clever trick, that, in January,” he said. “Chatting to the other Seeker. I’d never have thought of it. I thought I’d try it.”
 
 Something went across Diggory’s face. “You mean Malfoy.”
 
@@ -190,7 +190,7 @@ Then Potter got on his broom, and Diggory got on his, and they kicked off togeth
 
 It took two hours.
 
-Lyra had come to watch a Seeker, and for most of the afternoon there was no Seeker to watch. Potter was everywhere else. He flew wing to wing with the Weasley twins, a red wedge that went through the Hufflepuff Chasers like a knife through a cake. He went into a howling dive after nothing, and pulled Diggory and both Hufflepuff Beaters down after him, and left them in a knot ten feet above the grass while he slid quietly away. Every time Diggory so much as narrowed his eyes, a Bludger came at him out of nowhere, and the twin who had hit it was always looking at Potter. Diggory lost the Snitch five times.
+Lyra had come to watch a Seeker, and for most of the afternoon there was no Seeker to watch. Potter was everywhere else. He flew wing to wing with the Weasley twins, a red wedge that went straight through the Hufflepuff Chasers. He went into a howling dive after nothing, and pulled Diggory and both Hufflepuff Beaters down after him, and left them in a knot ten feet above the grass while he slid quietly away. Every time Diggory so much as narrowed his eyes, a Bludger came at him out of nowhere, and the twin who had hit it was always looking at Potter. Diggory lost the Snitch five times.
 
 Hufflepuff could only win one way, and everybody on the pitch knew it: Diggory had to catch the Snitch. So the Hufflepuff Beaters hung about Diggory like a pair of nursemaids, and nobody was minding the Quaffle, and Potter, who was a very good Seeker, turned out to be a passable Chaser, a passable Beater, and a thoroughly annoying Keeper as well. He never once touched the Quaffle. He only flew into the middle of the Hufflepuff side and stayed there, opening holes, and once, when it suited him, he stopped a pass with his chest and looked very surprised about it.
 
@@ -252,7 +252,7 @@ Lyra stopped dead.
 
 As a matter of plain fact, it was true. Nothing had ever been said between them that you could have taken to a solicitor. If anybody asked whether they were going out, the honest answer was nearer *no* than *yes*.
 
-And yet she felt robbed, and oddly winded, the way one feels on a staircase that turns out to have one step fewer than one’s feet believed. Nobody had promised her anything. Nobody had put anything into words.
+And yet she felt robbed, and oddly winded, as though somebody had shut a door in her face. Nobody had promised her anything. Nobody had put anything into words.
 
 But there had been the forest. There had been the brooms, and *only in front of me*. There had been a silver fox on the shingle, made out of the two of them. If that was not plain, what was?
 
@@ -304,7 +304,7 @@ It held on. It was a nice sort of tightness.
 
 It was a very feeble sort of declaration. A ring on a girl’s finger: it was the oldest, stuffiest, most hackneyed thing in the world, and there was nothing original about it whatsoever. Lyra Malfoy had no interest in romance, and had said so, at length, to anybody who would listen, for three years. If anybody ever tried anything of the kind on her, she would turn him down flat without a second thought.
 
-She was, she noticed, still letting him hold the hand.
+That went for Harry Potter too. She was, she noticed, still letting him hold the hand.
 
 “Hmph. Do you imagine I’ll go to pieces because you’ve given me a ring?” She took the hand back. “A boy who comes with as much luggage as you do is the last thing I want.”
 
