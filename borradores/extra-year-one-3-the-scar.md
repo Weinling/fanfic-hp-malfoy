@@ -66,7 +66,7 @@ So Harry went over Snape’s head.
 
 ⁂
 
-It seemed to him a perfectly obvious thing to do. Snape was a teacher, and you could not beat a teacher; therefore you went to the person the teacher had to answer to. He found the stone gargoyle by asking three portraits and a ghost. He did not know the password, so he stood in front of it and recited every sweet he had ever eaten, and at *Fizzing Whizzbee* it sprang aside and showed him a staircase going round and round, upwards, on its own.
+It seemed to him a perfectly obvious thing to do. Snape was a teacher, and you could not beat a teacher; therefore you went to the person the teacher had to answer to. He found the stone gargoyle by asking three portraits and a ghost, and the ghost mentioned, as an afterthought, that the Headmaster was very fond of sweets. He did not know the password, so he stood in front of it and recited every sweet he had ever eaten, and at *Fizzing Whizzbee* it sprang aside and showed him a staircase going round and round, upwards, on its own.
 
 Dumbledore, at the top of it, looked surprised to see him, and then, oddly, rather pleased.
 
@@ -74,7 +74,7 @@ Dumbledore, at the top of it, looked surprised to see him, and then, oddly, rath
 
 “It’s Snape. Professor Snape.”
 
-It all came out in a rush: the points, the questions only Hermione could answer and Hermione was never asked, the way Slytherin could set fire to a bench and be told to sit somewhere else. It was not fair, and it was not well put, and it did not get any better for being said twice; but Dumbledore listened to all of it as if it were.
+It all came out in a rush: the points, the questions only Hermione could answer and Hermione was never asked, the way Slytherin could set fire to a bench and be told to sit somewhere else. It was not fair, and it was not well put, and it did not get any better for being said twice; but Dumbledore heard every word of it out, and did not once look at the clock.
 
 “Professor Snape is a very gifted Potions master,” he said when Harry ran out, “and how he teaches is for him to decide. I am sorry, Harry. I do not tell my staff how to run their classrooms.”
 
@@ -110,13 +110,13 @@ Dumbledore was quiet for a moment.
 
 His face had changed. It had gone cool and still, and Harry had the strange feeling that the coolness was not meant for him: that Dumbledore was looking past him, down the stairs and along the corridors and into the dungeons, at somebody who was not there.
 
-“Professor Snape knew your parents. Both of them. He owes them his life, and I give you my word, on everything I have, that he is bound to keep you safe. Until that is paid, he will. He has a debt to pay.”
+“Professor Snape knew your parents. Both of them. He owes them his life, and I give you my word, on everything I have, that he is bound to keep you safe. He has a debt to pay.”
 
 ⁂
 
 It took Harry two days to find his chance.
 
-He did not want a row. He wanted, if he could get it, a sort of deal: Snape could go on hating him in peace if he would only stop taking Malfoy’s side. So he waited until the end of dinner, slipped out after the black robes, and caught them up in the corridor below the Great Hall.
+He did not want a row. He wanted, if he could get it, a sort of deal: Snape could go on hating him in peace if he would only stop taking Malfoy’s side. So he waited until the end of dinner, slipped out after the black robes, and caught him up in the corridor below the Great Hall.
 
 “Professor Snape?”
 
@@ -124,7 +124,7 @@ He did not want a row. He wanted, if he could get it, a sort of deal: Snape coul
 
 “What? I haven’t even—”
 
-“Five points from Gryffindor. The next five will be ten. What do you want?”
+“Five points from Gryffindor. The next will be ten. What do you want?”
 
 It was hopeless. He was never going to like this man as long as he lived. Harry swallowed it down.
 
@@ -156,7 +156,7 @@ His father shouting. Green light. Something in a hooded cloak, coming through a 
 
 His mother screaming. A wand. And then green, and green, and nothing but green—
 
-And under it, seeping up through it, other things that were not his. Gladness. Pride, enormous and cold. Somebody who owned the whole dark world, listening to a young man on his knees in front of him; listening to a story about a child who would one day bring him down, and liking it very much.
+And under it, seeping up through it, other things that were not his. Gladness. Pride, enormous and cold. Somebody who thought the whole world was his, listening to a young man on his knees in front of him; listening to a story about a child who would one day bring him down, and liking it very much.
 
 *Well done, Severus. Oh, very well done.*
 
@@ -164,9 +164,9 @@ And under it, seeping up through it, other things that were not his. Gladness. P
 
 Owed a life.
 
-“No,” said Harry, through his teeth. “That’s not what he meant at all.”
+“No,” said Harry, through his teeth. “That’s not what he meant.”
 
-His scar was splitting. Somewhere deep in it something was laughing, so pleased with itself that it had praised a servant out loud, and it praised nobody.
+His scar was burning. Somewhere deep in it something was laughing. It had been so pleased, that night, that it had praised a servant out loud; and it never praised anybody.
 
 He could not get his breath. His head felt as if it would come apart along the line of the scar.
 
@@ -174,17 +174,17 @@ But he had seen the face. Young, and thinner, and greasy-haired even then, kneel
 
 “My mum and dad never saved you,” said Harry. “Did they?”
 
-Voldemort, laughing, and the man on his knees in front of him with the news that would buy him everything he wanted, was Snape.
+Voldemort, laughing. And the man on his knees in front of him, with the news that would buy him everything he wanted, was Snape.
 
-Harry did not know how he knew it. He only knew it, the way he knew his own name.
+Harry did not know how he could have seen it. He had seen it all the same, as surely as he knew his own name.
 
-There was no room left in him to be frightened. There was only a man in a black robe, standing in a corridor, who had sold his parents and then had the nerve to call himself in their debt.
+There was no room left in him to be frightened. There was only a man in a black robe, standing in a corridor, who had sold his parents and then stood there sneering at his father.
 
 He looked up at Snape through the pain, and Snape looked into his eyes, and for an instant could not look anywhere else.
 
 “You killed my mum and dad.”
 
-Snape’s face did not move. But something in it gave, a very small way, the way ice does a second before it goes; and then it was shut again, and Harry might have imagined it.
+Snape’s face did not move. But something in it gave, very slightly, the way ice does a second before it goes; and then it was shut again, and Harry might have imagined it.
 
 He had not imagined it.
 
@@ -192,7 +192,7 @@ He had not imagined it.
 
 After that, Snape stopped seeing him.
 
-He did not take points off Harry any more than off anybody else. He did not ask him questions or stand over his bench. In every lesson, the stool Harry sat on might have been empty. Harry, for his part, glared at Snape across every lesson, at the man who had killed his parents, and to leave him nothing to say, he learned every page before every class. By Easter there was nothing in his work Snape could find to fault. It only made Snape angrier, in a quieter way.
+He did not take points off Harry any more than off anybody else. He did not ask him questions or stand over his bench. In every lesson, the stool Harry sat on might have been empty. Harry, for his part, glared through every lesson at the man who had killed his parents, and learned every page before every class, so as to leave him nothing to say. By Easter there was nothing in his work Snape could find to fault. It only made Snape angrier, in a quieter way.
 
 He had found out something enormous. He did not go back up the Headmaster’s stairs to tell him.
 
@@ -216,13 +216,13 @@ She opened it again at once, naturally.
 
 Lyra stared at him.
 
-“Funny thing,” said Potter, to the cauldron, in that same flat voice. “Everyone goes on about the Boy Who Lived. The one who got rid of Voldemort. As if that was the end of it. He went away. But all the people who used to follow him are still walking about, aren’t they? Having dinner. Teaching lessons.” He stirred twice, anticlockwise. “Sending their kids to school.”
+“Funny thing,” said Potter, to the cauldron, in that same voice. “Everyone goes on about the Boy Who Lived. The one who got rid of Voldemort. As if that was the end of it. Voldemort went away. But all the people who used to follow him are still walking about, aren’t they? Having dinner. Teaching lessons.” He stirred twice, anticlockwise. “Sending their kids to school.”
 
-His eyes came up then, and they were cold, and his voice under them was colder; and there was something in it Lyra had never heard from him before, a plain, flat dislike with nothing playful left in it anywhere. He looked at her once, sideways, the way you might look at an insect you had not yet decided whether to bother stepping on.
+His eyes came up then, and they were cold, and so was his voice; and there was something in it Lyra had never heard from him before, a plain dislike with nothing playful left in it anywhere. He looked at her once, sideways, the way you might look at an insect you had not yet decided whether to bother stepping on.
 
 For one second, Lyra was afraid of him.
 
-Then Potter clicked his tongue—*her* trick, she had never once heard him do it—and looked away, and she found she could breathe again.
+Then Potter clicked his tongue—*her* trick, she had never once heard him do it—and looked away, and Lyra breathed again.
 
 The dungeon had gone completely silent. The Slytherins were staring. So were the Gryffindors. To say *that name* in Snape’s dungeon was bad enough; to say it and then talk about *followers*, in front of Snape, with half the Slytherin parents’ names hanging in the air unsaid—
 
@@ -240,7 +240,7 @@ Lyra did not know what to do with that.
 
 Potter did not glance at her again for the rest of the lesson. He worked as though she had been moved to another room. She did not know how he had done it, but by the end his potion was exactly the colour the book said it should be, and he bottled it, and labelled it, and left without a word to anybody.
 
-She had been fighting with Potter since the first of September. She had never once thought about what it was like, because it had always simply been there: every remark she made, he caught and threw back, with his chin up and the Dark Lord’s name in his mouth, insufferable. It had been like playing chess with somebody infuriating. And now it was like looking up, winning, to find that the other player had got up from the board without a word and gone, and that there was nobody left in the room to beat.
+She had been fighting with Potter since the first of September. She had never once thought about what it was like, because it had always simply been there: every remark she made, he caught and threw back, with his chin up and the Dark Lord’s name in his mouth, insufferable. It had been like playing chess with somebody infuriating. And now it was like looking up from the board, halfway through a game she had every intention of winning, to find the other chair empty: he had got up without a word and gone, and there was nobody left to play but herself.
 
 She did not like it. She could not have said why.
 
@@ -250,7 +250,7 @@ She did not say another word until the bell.
 
 More than two years later, on a night in May, after Ron had gone to sleep, Harry lay with the hangings drawn and turned a ring round on his finger.
 
-He thought about that Potions lesson sometimes. About what he had said, and how he had looked at her, and her face when she thought nobody could see it. He had been eleven, and angrier than he had ever been in his life, and she had been the nearest thing to hand.
+He thought about that Potions lesson sometimes. About what he had said, and how he had looked at her, and the face she must have made when she thought nobody could see it. He had been eleven, and angrier than he had ever been in his life, and she had been the nearest thing to hand.
 
 It had taken him a long time to get back from that.
 

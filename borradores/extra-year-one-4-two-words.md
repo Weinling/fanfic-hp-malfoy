@@ -58,7 +58,7 @@ So the Slytherins had stopped. They went round him. They found things to look at
 
 “*Look out—Potter!*” somebody called from the far end of the corridor, a Ravenclaw by the sound of it, and three or four voices laughed.
 
-Lyra did not turn round. Goyle swung all the way round on the bench, and so, if Lyra was honest, did Lyra’s eyes.
+Lyra did not turn round. Goyle swung all the way round on the bench, and Lyra’s shoulders, if she was honest, gave a small jump of their own.
 
 There was nothing behind them but a suit of armour.
 
@@ -86,9 +86,9 @@ Because the name had started doing it to her too. In Slytherin they said *Potter
 
 She believed it, too. She very nearly believed it.
 
-At the start of the year it had been different. At the flying lesson she had come off her broom at the top of an oak, which was not a thing she cared to think about, and Potter had thrown himself after her, and she had not minded nearly as much as she ought to have. She had been brought up to be looked at, and she knew the difference between being looked at and being *watched*, and she knew what his face had been doing that day, coming down out of the sky after her with his hand out and his whole face open, as though she were the only thing up there worth catching. She had been falling off a broom in front of the entire year, and she had still been the whole point of the afternoon.
+At the start of the year it had been different. At the flying lesson she had come off her broom at the top of an oak, which was not a thing she cared to think about, and Potter had thrown himself after her, and she had not minded nearly as much as she ought to have. She had been brought up to be looked at, and she knew the difference between being looked at and being *watched*, and she knew what his face had been doing that day, coming down out of the sky after her with his hand out and his whole face open, as though she were the only thing up there worth catching. She had been falling off a broom in front of two Houses, and she had still been the whole point of the afternoon.
 
-Now, on the rare occasions he looked at her, his eyes went through her like something thin and cold. Then he breathed out once through his nose, short, the way her father did over a wine that had turned out to be a disappointment, and looked away.
+Now, on the rare occasions he looked at her, his eyes went through her like something thin and cold. Then he let out one short breath through his nose, the way her father did over a disappointing wine, and looked away.
 
 It was not a way she was used to being looked at. It was not, she was quite sure, a way anybody had the *right* to look at her.
 
@@ -126,7 +126,7 @@ Neville shook his head. “It’ll only make it worse.”
 
 Harry got up.
 
-He did not say anything at first. He took out his wand, and turned it over once in his fingers, and something in the way he did it made the Gryffindors nearest to him go quiet, and look at each other, and then look back at him with a sort of nervous, hopeful interest, as at a firework somebody has just lit.
+He took out his wand, and turned it over once in his fingers, and something in the way he did it made the Gryffindors nearest to him go quiet, and look at each other, and then look back at him with a sort of nervous, hopeful interest, as at a firework somebody has just lit.
 
 “Outside the library,” said Harry. “That’s what you said, Neville?”
 
@@ -230,7 +230,7 @@ It had taken him less than a minute. Crabbe and Goyle had both gone quiet, and M
 
 “You’re going too far as well, Harry, you know you are. But *you*—” she rounded on Malfoy, “—you can’t just go round jinxing people because you feel like it! You owe Neville an apology!”
 
-Harry knew it was a mistake a second before it happened. Malfoy had just been laughed at by half the school. She was not going to apologise to anybody for anything, and least of all because a girl with bushy hair had stepped out of the crowd and told her to.
+Harry saw what was coming a second before it came. Malfoy had just been laughed at by half the school. She was not going to apologise to anybody for anything, and least of all because a girl with bushy hair had stepped out of the crowd and told her to.
 
 “Who asked *you?*” Malfoy’s voice went high and shrill. “Go back to your Muggles, you filthy little *Mudblood*!”
 
@@ -270,7 +270,7 @@ She hit the stone with a thump. “*Ow!*”
 
 People flinched all round them, as if he had thrown something. Something was running down into Harry’s left eye, warm and wet. The jinx had split his eyebrow open. Half of the corridor had gone red, and he did not care; he could still see her.
 
-“He came for me when I was one,” said Harry, “and he couldn’t do it. A *baby*, Malfoy. He lost to a baby, and then he ran off and hid. And you can’t even say his name?” He leaned closer. “That isn’t scared. That’s dressing up. You want to know what scared actually is—”
+“He came for me when I was one,” said Harry, “and he couldn’t do it. A *baby*, Malfoy. He lost to a baby, and then he ran off and hid. And you can’t even say his name?” He leaned closer. “That isn’t scared, Malfoy. That’s manners. You want to know what scared actually is—”
 
 Her face crumpled.
 
@@ -312,7 +312,7 @@ Professor McGonagall came round the corner at a speed that did not seem possible
 
 “Potter! You’re *bleeding!*”
 
-“It’s nothing, Professor,” said Harry. He found he did not feel like being funny.
+“It’s nothing, Professor,” said Harry. He did not feel like being funny.
 
 McGonagall’s nostrils went thin and white.
 

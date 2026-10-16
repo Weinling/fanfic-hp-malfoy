@@ -2,22 +2,26 @@
 - **Archivo:** `borradores/extra-year-one-3-the-scar.md` · **Palabras:** ~2.680 · **Punto de vista:** Harry (escenas 1-4), Lyra (escena 5, Pociones), Harry (cierre) · **Fecha(s) en la historia:** invierno-primavera de 1992 (primer año); cierre: noche de mayo de 1994 («more than two years on») · **Estado:** sin publicar · **Coreano fuente:** 25 (extra, «10 años, la cicatriz del rayo»)
 
 ## Escenas
-1. **Pociones, primer año.** Snape interroga; Hermione levanta la mano en vano; Lyra la imita en burla. Harry: «If you want to beat Hermione, beat her at knowing things». Snape: «Your sentiments are very plain to us all, Potter. You are very like your father.» Harry grita «My father died fighting *Voldemort!*» y el nombre no surte efecto en Snape; le quita diez puntos. Lyra: «It's all power, Potter. I'm only using mine the best way I can.» / «Remember you said that, Malfoy.»
-2. **Despacho de Dumbledore.** Harry va a quejarse de Snape (Lyra empeorará con su favor). Dumbledore: «Everybody leans a little one way or another»; «Professor Snape had a great deal to do with your parents… He owes them his life. I give you my word… he must protect you. He has a debt to pay.»
-3. **El pasillo tras la cena.** Harry cita la deuda; Snape: «Your father played a trick on me… he saved me to save his own skin.» Pasa Quirrell con su turbante; Snape lo sigue con la vista. Harry mira la nuca de Quirrell y le explota la cicatriz: ve la muerte de sus padres y luego, a través de Voldemort, a Snape de rodillas ante él llevando la noticia de la profecía («Her—only spare her. Please, my Lord»). Harry: «My parents didn't save *you*. Did they?… You killed my mum and dad.» Snape: una grieta mínima en la cara.
-4. **Después.** Snape lo ignora desde entonces; Harry se aplica y le planta cara. Harry desconfía de Dumbledore por haberle dado el puesto a Snape sin decirle la verdad. No vuelve a hablar con él del tema.
-5. **Pociones (punto de vista de Lyra, tras el pasillo).** Lyra insulta a Neville; Potter: «Shut up, Malfoy… Don't you disappoint me too.» Dice «Voldemort… the people who followed him are all still walking about, aren't they?» La mira «like an insect you had not yet decided whether to bother stepping on». Chasquea la lengua (su gesto). Snape no la defiende. Lyra, asustada, añora al Potter que la respondía.
-6. **Cierre (Harry, 1994).** Años después, en la cama, con el anillo, piensa en esa lección y en cómo la miró; «somewhere under the lake, he hoped, somebody else was looking at a ring. He smiled. He could not help it. He had promised.»
+1. **Pociones, primer año.** Snape pregunta (la diferencia entre un *draught* y un *philtre*; dónde buscar una piedra lunar); Hermione levanta la mano en vano; Lyra la imita con la pluma («You’ll put your shoulder out»). «Are you going to carry her books for her as well, Potter?» Harry: «If you want to beat her, learn something. Sneering’s not a subject.» / «I don’t need to *learn* things, Potter. I’m a Malfoy. People tell me.» Snape: «You are very like your father. The same conviction that every room is waiting to hear from you.» Harry pone el nombre de Voldemort sobre la mesa «like a trump card» y Snape ni lo mira; diez puntos. Lyra: dinero, belleza, nombre y jefe de Casa, «I should be a fool not to use them». «Fine. I’ll hold you to that.» / «Do. If you can.» «So Harry went over Snape’s head.»
+2. **Despacho de Dumbledore.** Un fantasma le dice que al director le gustan los dulces; Harry recita golosinas ante la gárgola y entra con *Fizzing Whizzbee*. Snape es injusto; Dumbledore no se mete en las clases («not one of them could make another man fair by telling him to be»). El motivo de verdad: que Lyra no crea que lo que hace está bien. «I have been rather short-sighted… children on the other side of that room.» Snape solo puede quitar puntos y castigar: «you can be frightened and do it anyway». «Why does he hate me?» / «not the right question»: Snape les debe la vida a sus padres, «he is bound to keep you safe. He has a debt to pay.»
+3. **El pasillo tras la cena.** Snape: cinco puntos; James le gastó una broma que pudo matarle y le sacó para salvar su propio cuello («Is that the debt you came to collect?»). Pasa Quirrell; Harry le mira la nuca; la cicatriz: la muerte de sus padres y, a través de Voldemort, Snape de rodillas con la noticia («Her—only spare her. Please, my Lord—»). «My mum and dad never saved you. Did they?» «You killed my mum and dad.» La cara de Snape cede «very slightly», como el hielo.
+4. **Después.** Snape lo ignora; Harry se lo estudia todo para no darle motivo. No vuelve a subir al despacho; tarda mucho en dejar de comprobar lo que le dice Dumbledore.
+5. **Pociones (punto de vista de Lyra).** «Drop your toad in, it’ll improve the flavour.» «Shut up, Malfoy», plano, «like a door closing». «Have I disappointed you again, Potter?» / «Not any more. You’d have to matter first.» (devuelve el «Don’t make me any more disappointed in you» de *Year One* 1). Los seguidores de Voldemort «Having dinner. Teaching lessons. Sending their kids to school.» La mirada de insecto; chasquea la lengua (el gesto de ella). Goyle: «Has somebody hit him on the head?» Snape no la defiende. La partida de ajedrez: la silla de enfrente vacía, «nobody left to play but herself».
+6. **Cierre (Harry, mayo de 1994).** El anillo; «she had been the nearest thing to hand»; «It had taken him a long time to get back from that»; «Somewhere under the lake»; «He had promised.»
 
 ## Frases literales importantes
-- «I don't need to prove myself by knowing things, Potter. I'm quite remarkable enough already.» (l. 29)
-- «It's all power, Potter.» / «Remember you said that, Malfoy.» (ll. 59-61)
-- «He owes them his life… he must protect you. He has a debt to pay.» (Dumbledore, l. 131)
-- «My parents didn't save *you*. Did they?» (l. 205)
-- «You killed my mum and dad.» (l. 215)
-- «Shut up, Malfoy… Don't you disappoint me too.» (ll. 233-237)
-- «The Potter who had always been watching her was gone.» (l. 269)
-- «Somewhere under the lake, he hoped, somebody else was looking at a ring.» (l. 285)
+- «Sneering’s not a subject.» / «I’m a Malfoy. People tell me.»
+- «He put the name down on the bench between them like a trump card.»
+- «Fine. I’ll hold you to that.» / «Do. If you can.»
+- «He owes them his life… he is bound to keep you safe. He has a debt to pay.» (Dumbledore)
+- «Is that the debt you came to collect?» (Snape)
+- «Her—only spare her. Please, my Lord—»
+- «My mum and dad never saved you. Did they?» / «You killed my mum and dad.»
+- «Have I disappointed you again, Potter?» / «Not any more. You’d have to matter first.»
+- «the way you might look at an insect you had not yet decided whether to bother stepping on» (como el boggart del 4)
+- «nobody left to play but herself»
+- «Somewhere under the lake, he hoped, somebody else was looking at a ring.»
+- Retocado en el cotejo con el original (16 de octubre de 2026), antes de publicarse en Webnovel.
 
 ## Fichas (objetos y motivos)
 - **Cicatriz:** visión de Voldemort, Snape de rodillas, la profecía («spare her»).
