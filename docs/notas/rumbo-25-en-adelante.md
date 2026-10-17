@@ -146,3 +146,13 @@ Esto cumple lo que propusiste («leer una tanda, decidir qué se coge y escribir
 6. **El método por arcos** (§3): ¿sí?
 
 En cuanto decidas el 1 y el 2, rehago el 24 y preparo el plan del arco A.
+
+## 6. Respuesta del autor (18 de octubre)
+
+- **R1, R2, R3 y H1-H3:** no se entendieron así; quedan sustituidos por la **fase de ideas** (abajo).
+- **Divergencias:** quiere **dos o tres muy fuertes**, que lleven la historia por un rumbo muy distinto del original y generen sus propias subtramas y personajes, obligando a fusionar, cambiar, reestructurar o eliminar partes del original. Eso es la identidad propia.
+- **Fase de ideas:** lista hecha con subagentes, la sesión principal y Fable, con las mejores divergencias, lo que conviene quitar y lo poco interesante. De ahí sale el tamaño del señor de la casita del este.
+- **Lo que sabe Harry:** prefiere el **viaje en el tiempo**, que es lo que imaginan los lectores. Antes de decidir: leer enteros los *Year One*, hacer la lista de todo lo que Harry ha sabido y comprobar si la explicación deja agujeros (ver el estado, punto 4).
+- **El final:** queda para más adelante.
+- **Método:** le preocupa perder la calidad del molde coreano. Acordado en principio: **guion detallado por tanda**, con el original como molde, que diga escena por escena qué se queda, qué cambia y qué se sustituye. Se aprueba antes de escribir.
+- **Orden:** primero el 24, sin cambiar hechos. Después, del 25 al 30 con retoques; después, la lectura completa, la lista de lo que sabe Harry y la fase de ideas.

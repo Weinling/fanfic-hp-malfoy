@@ -2,27 +2,49 @@
 
 **Léelo lo primero** al abrir sesión o tras compactar. Se actualiza en cada paso (escena escrita, crítica aplicada, capítulo cerrado) y va en el mismo commit que el paso.
 
-Última actualización: 17 de octubre de 2026.
+Última actualización: 18 de octubre de 2026.
 
 ## Ahora mismo
 
-- **SESIÓN NUEVA (preparado el 17 de octubre):** lee `docs/notas/sesion-nueva-17-oct.md` justo después de este estado. Hay dos encargos: rehacer el 24, ya publicado en Webnovel, y discutir con el autor el rumbo del 25 en adelante antes de escribir nada.
-  - **17 de octubre, sesión nueva abierta:** lectura obligatoria hecha (ver «Lecturas hechas en esta sesión», al final). Hechas al autor las tres preguntas del §4 de esa nota. **Ningún capítulo tocado.**
-  - **Respuestas del autor (17 de octubre):**
-    1. **El 24** solo tiene que dejar de parecer un calco y ser mejor capítulo, con los estándares actuales y los capítulos revisados (del 1 al 23 fusionados) como referencia. Está publicado: **no puede afectar en nada al lector que ya lo leyó** (mismos hechos). Los cambios de verdad empiezan en el 25, donde hay más libertad.
-    2. **Orden:** primero el rumbo, después el 24.
-    3. **Coreano:** el autor tiene la historia original entera y la va a traer (del 36 en adelante, a `coreano/`).
-  - **Hecho:** leídos enteros, por la sesión principal, del 25 al 30 (`borradores/cap-25` a `cap-30`).
-  - **17 de octubre, más tarde:** el autor trae del 36 al 111 en un solo archivo. **No es el coreano: es la traducción inglesa oficial** (novelpia, *The Villainess Malfoy*). Partida en `referencia/oficial-en/ko-36.md` … `ko-111.md` (commit 927797a). La historia está terminada: la trama acaba en el 106 y del 107 al 111 son epílogos. **Los capítulos parecen incompletos:** tienen entre 600 y 1.700 palabras, contra 2.000-3.500 de los completos de la misma traducción, y empiezan o acaban a mitad de escena. Preguntado al autor si tiene los completos o el coreano.
-  - **Confirmado con la copia manual del autor (36 a 41, pegada en el chat):** la extracción solo trae la primera parte de cada capítulo; falta más de la mitad, y el corte no es fijo. Los del 36 al 41 están leídos enteros en esa copia (no guardada en el repositorio). Pendiente: arreglar la extracción y volver a bajar del 42 al 111 (y guardar completos del 36 al 41); los resúmenes de los agentes valen solo como esqueleto y se rehacen con el texto completo.
-  - **Método acordado (autor, 17 de octubre):** el autor copia a mano la oficial completa **por tandas grandes**, en un archivo de texto con una línea `Capítulo NN: Título` por capítulo. La sesión principal lo parte con `herramientas/partir_oficial.py` (`python3 -I herramientas/partir_oficial.py ARCHIVO referencia/oficial-en`) y sustituye los `ko-NN.md` incompletos. Orden propuesto: del 36 al 54, luego 82, 83, 90, 104-106 y 108; el resto, al adaptar cada tanda. Con cada tanda completa se rehace su resumen.
-  - **Los cuatro resúmenes están hechos** (commit aparte), sobre texto incompleto: valen solo como esqueleto.
-  - **Resuelto el mismo día:** el autor trae una segunda extracción, **completa** (unas 245.000 palabras; 1c42554). Sustituye a la incompleta en `referencia/oficial-en/ko-36.md` … `ko-111.md`; comprobada contra la copia manual del 36, el 40 y el 41. Ya no hace falta copiar a mano. **Relanzados cuatro agentes Sonnet** que rehacen desde cero los cuatro `borradores/resumen-oficial-*.md` con el texto entero.
-  - **Documento de rumbo escrito:** `docs/notas/rumbo-25-en-adelante.md`, con los rumbos R1-R3 (se recomienda R2), el método por arcos, qué hacer con el 24 y el 25-30, y seis decisiones para el autor. **Se espera su decisión** antes del 24 y del plan del arco A (del 31 al final del cuarto).
-  - Hallazgo clave: el original **nunca explica** cómo sabe Harry lo que sabe; se propone la cicatriz (recuerdos de Voldemort, sembrado en *Year One* 3) como respuesta nuestra.
-  - **Leído entero por la sesión principal:** la oficial del 36 al 54 (el final del cuarto año del original, los extras 52 y 53, y el principio del quinto en el 54). Hecho el del 55 al 73 (agente). Faltan los del 36-54, 74-92 y 93-111.
-  - **En marcha (opción B, aprobada por el autor):** cuatro agentes Sonnet resumen la oficial por tandas en `borradores/resumen-oficial-36-54.md`, `-55-73.md`, `-74-92.md` y `-93-111.md`, con el formato de `resumen-coreano-26-35.md`; avisados de que el texto es parcial. La sesión principal lee enteros del 36 al 41 (hecho) y después los cuatro resúmenes.
-  - **Siguiente:** cuando lleguen los coreanos, resumirlos por tandas con agentes Sonnet (como `resumen-coreano-26-35.md`); luego, el documento de rumbo para el autor (`sesion-nueva-17-oct.md` §3).
+- **PUNTO EXACTO PARA RETOMAR (18 de octubre, antes de compactar).** Lee después de este estado, en este orden: `docs/notas/sesion-nueva-17-oct.md`, `docs/notas/rumbo-25-en-adelante.md` y este bloque entero.
+  1. **En curso: rehacer el 24** (`borradores/cap-24-replay.md`), que está publicado en Webnovel.
+     - **Regla del autor:** solo dejar de parecer calco y ser mejor capítulo, con el estándar de los capítulos fusionados (1 a 23). **Mismos hechos:** el lector que ya lo leyó no debe notar otra historia.
+     - **Sin semillas nuevas** de hilos no aprobados (se pueden añadir después).
+     - **Material:**
+       - las palancas de `docs/notas/cotejo-oficial/plan-24-30.md` §2, «Cap. 24» (Draco abre y gana el trueque; el verano del anillo va condensado después; Lyra corta ella el casi beso al acordarse de la capa de su padre, y la voz de Narcissa interrumpe la despedida);
+       - la lista de «No tocar» y la de ataduras de ese mismo plan;
+       - `coreano/ko-27.md` para medir el calco.
+     - **Copia de antes:** en el scratchpad de la sesión (`24-antes-beats.md`), que se pierde: vale `git show HEAD:borradores/cap-24-replay.md` (commit 798a357 o anterior).
+     - **Ataduras comprobadas con grep:** el 26:197 cita «a quarter past two on a Tuesday» y «the satisfied feeling of somebody who has read the last page of a book first»; el 25:93-95 cita «Go back to your mum. Stay with her tonight» y el guiño de Fudge; el 25:115, el beso en la frente; el 30:115, «You took your time»; el 25:5 y el 25:33, los omniculares (los buenos, de Lyra, bajo la almohada; los baratos, de Draco); el 29:141 usa «The gentleman says…»; el 24:15 tiene «anything that might come out blue».
+     - **Después:** revisión de un Opus nuevo (antes y después; sin cambios de clase C o D; «mejor que antes»), arreglos, manual `docs/capitulos/cap-24.md`, commit y push. Avisar al autor de qué cambia para Webnovel.
+     - **Todavía no se ha escrito nada del 24.**
+  2. **Del 25 al 30 (sin publicar):** recomendado al autor **solo retocar** (quitar calco y lo que sobre, con las palancas de `plan-24-30.md`), sin trama divergente grande; la gran divergencia, desde el 31. El autor lo planteó como pregunta; **falta su sí definitivo**.
+  3. **Rumbo (lo que el autor dijo el 18 de octubre):**
+     - **No entendió R1, R2 y R3** ni los hilos H1, H2 y H3 del documento de rumbo; ya se le explicaron en el chat.
+     - **Lo que quiere:** **dos o tres divergencias muy fuertes** que lleven la historia por un rumbo muy distinto del original y generen sus propias subtramas, personajes y choques (fusionar, cambiar, reestructurar o eliminar partes del original). Eso dará la identidad propia.
+     - **El final:** queda para más adelante.
+     - **Método:** lista de ideas hecha con subagentes, **la sesión principal y Fable** (el autor lo pide expresamente, aunque en `CLAUDE.md` las revisiones son de Opus): las mejores divergencias, lo que conviene quitar del original y lo poco interesante. De ahí sale también si el señor de la casita del este (hilo solo nuestro; no existe en el original) es grande o pequeño.
+     - **Su miedo:** perder la calidad que daba el molde del coreano, del que se fusionaban capítulos. Se le propuso un **guion detallado por tanda**: el original como molde, más qué se queda, qué cambia y qué se sustituye, escena por escena. Se aprueba antes de escribir.
+  4. **Lo que sabe Harry (hilo clave del motor).**
+     - **El autor creía que el original lo explicaba con viajes en el tiempo; no es así.** Grep en los coreanos 14 a 35 y en la oficial del 2 al 111: no hay regresión ni viaje en el tiempo. El giratiempo del 21 y el 22 es el de Hermione, el del canon. El original solo da la cicatriz o el Horrocrux (oficial 90) y nunca lo explica del todo.
+     - **El autor prefiere el viaje en el tiempo** («todos imaginan que es eso») y pregunta si la cicatriz sola explicaría todo sin agujero.
+     - **Respuesta dada:** la cicatriz no explica lo que aún no había pasado (Flint, los dementores del partido, el disturbio del Mundial). El handoff ya lo trata como un viaje en el tiempo implícito: «lo que sabe Harry es del mundo de Draco; Lyra es la divergencia».
+     - **Pendiente:**
+       - leer enteros los *Year One* 1 a 4 (en el 1, Harry es un niño ingenuo en Madam Malkin's y eso limita cuándo pudo «volver»);
+       - hacer la **lista de todo lo que Harry ha sabido**, capítulo a capítulo, con lo que lo explicaría (cicatriz, Dumbledore, viaje en el tiempo, deducción) y si hay agujero;
+       - llevarla al autor.
+  5. **Lecturas.**
+     - **Hechas en esta sesión:**
+       - el protocolo completo: el estado, la nota de sesión, el handoff entero, todos los manuales (1 a 30 y *Year One* 1 a 4) y la continuidad transversal;
+       - los coreanos 27 a 29;
+       - del 22 al 30 en texto completo;
+       - `plan-24-30.md`, `arco-29-32-lectura.md` y `resumen-coreano-26-35.md`;
+       - la oficial del 36 al 54, entera;
+       - las visiones de conjunto de los cuatro `borradores/resumen-oficial-*.md`.
+     - **Pendiente antes de la fase de ideas:** la historia entera en texto completo (del 1 al 21, revisados y publicados, y los *Year One*). El autor lo pregunta y lo da por necesario.
+  6. **La oficial completa del 36 al 111** (unas 245.000 palabras; extracción del autor, comprobada) está en `referencia/oficial-en/ko-36.md` … `ko-111.md`. Los resúmenes completos están en `borradores/resumen-oficial-36-54.md`, `-55-73.md`, `-74-92.md` y `-93-111.md`. La primera extracción venía incompleta y ya está sustituida. Herramienta: `herramientas/partir_oficial.py`.
+  7. **Ramas.** `main` y `origin/claude/hopeful-hamilton-jt6e15` están enteras contenidas en `claude/wizardly-albattani-vazqyr` (comprobado). El autor quiere eliminar «la otra rama que solo confunde». **Propuesto:** pasar todo a `main` (fast-forward) y borrar `hopeful-hamilton`. Es una acción en el remoto: **pedir confirmación antes**.
+  8. **Agentes vivos:** ninguno (los cuatro de resúmenes terminaron).
 - **HECHA (17 de octubre): FUSIÓN DE VERSIONES.** Plan e informes en `docs/notas/cotejo-oficial/fusion/`. Bases:
   - revisado en el 4, 5, 8, 10, 11, 13, 18 y del 19 al 22;
   - beats nuevos en el 1, 2, 3, 14, 23 y *Year One* 1 y 2.
