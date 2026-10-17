@@ -12,7 +12,8 @@
     1. **El 24** solo tiene que dejar de parecer un calco y ser mejor capítulo, con los estándares actuales y los capítulos revisados (del 1 al 23 fusionados) como referencia. Está publicado: **no puede afectar en nada al lector que ya lo leyó** (mismos hechos). Los cambios de verdad empiezan en el 25, donde hay más libertad.
     2. **Orden:** primero el rumbo, después el 24.
     3. **Coreano:** el autor tiene la historia original entera y la va a traer (del 36 en adelante, a `coreano/`).
-  - **Siguiente:** leer enteros del 25 al 30; cuando lleguen los coreanos, resumirlos por tandas con agentes Sonnet (como `resumen-coreano-26-35.md`); luego, el documento de rumbo para el autor (`sesion-nueva-17-oct.md` §3).
+  - **Hecho:** leídos enteros, por la sesión principal, del 25 al 30 (`borradores/cap-25` a `cap-30`).
+  - **Siguiente:** cuando lleguen los coreanos, resumirlos por tandas con agentes Sonnet (como `resumen-coreano-26-35.md`); luego, el documento de rumbo para el autor (`sesion-nueva-17-oct.md` §3).
 - **HECHA (17 de octubre): FUSIÓN DE VERSIONES.** Plan e informes en `docs/notas/cotejo-oficial/fusion/`. Bases:
   - revisado en el 4, 5, 8, 10, 11, 13, 18 y del 19 al 22;
   - beats nuevos en el 1, 2, 3, 14, 23 y *Year One* 1 y 2.
