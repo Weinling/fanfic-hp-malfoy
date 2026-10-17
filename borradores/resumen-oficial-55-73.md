@@ -1,813 +1,727 @@
-# Resumen de los capítulos 55 a 73 (traducción inglesa oficial, *The Villainess Malfoy*)
+# Resumen de los capítulos 55 a 73 de la traducción inglesa oficial
 
-Fuente: `referencia/oficial-en/ko-55.md` a `ko-73.md` (leídos íntegros; también `ko-54.md` por encima). Resumen para la adaptación; no sustituye al coreano ni a la continuidad del manuscrito. Nombres del original: Carina (o Karina) Malfoy = Lyra en la adaptación. En el original, Crabbe es un chico, Pansy Parkinson es una chica (en la adaptación: Vanessa Crabbe, Greer Goyle y Panther Parkinson). Draco es el hermano pequeño de Carina, de once años, en primero y en Slytherin.
+Fuente: `referencia/oficial-en/ko-55.md` a `ko-73.md` (texto completo, extracción de 2026-10-17, leídos íntegros), más una lectura por encima de `ko-53.md` y `ko-54.md` para situarme. Sustituye al resumen anterior, hecho sobre una extracción incompleta. Es un resumen para consulta y cotejo; no hay texto copiado.
 
-## Advertencia previa: los textos están recortados
+**Nombres.** En el original la protagonista es Carina Malfoy; en la adaptación, Lyra. Draco es su hermano pequeño, de primer año. La traducción oficial usa «Pansy Parkinson» (en la adaptación, Panther Parkinson, chico) y «Montague» (Graham Montague, Slytherin). Aparece también Blaise Zabini como prefecto de Slytherin (56). En estos capítulos NO aparecen «Barnette» ni «Gray», y Goyle no aparece. **Crabbe** sale en 65, 66 y 70 con pronombres masculinos («he», «his»), mientras que en el 53 era «she»: es una inconsistencia de la traducción oficial; en la adaptación es Vanessa Crabbe. Los números de capítulo son los del original coreano.
 
-Los archivos de la oficial **no contienen los capítulos completos**. Cada uno mide entre 674 y 1.717 palabras (los completos de la misma traducción rondarían las 2.000-3.500) y casi todos empiezan o acaban a mitad de escena. Hay saltos entre un archivo y el siguiente que el resumen no puede rellenar. Los más graves:
-
-- **56 → 57:** el 56 acaba con Carina apuntando con la varita a Harry en el pasillo del Expreso. El 57 empieza con Draco escondido en el compartimento del equipaje, que ha visto cómo los dos «se agarraban la cara y se besaban». El beso y la discusión previa no están en el texto.
-- **58 → 60:** el 58 acaba en pleno cruce de palabras con Umbridge («I beg your pardon, Mr. Potter?»). El 60 empieza con Harry ya en su tercera noche o más de castigo con la pluma. Falta cómo termina la clase y cómo empieza el castigo.
-- **61 → 62:** el 61 acaba con Harry gritando «¿Quién anda ahí?» a un Draco medio escondido. El 62 empieza ya en el despacho de Dumbledore, en mitad de la conversación. Lo que Draco quería contar no aparece en estos archivos.
-- **63 → 64:** el 63 acaba con Harry de espaldas a Carina y la voz de ella llegándole igualmente. El 64 da por hecho que Harry golpeó a Carina y que Umbridge sancionó a Harry y a los gemelos. Esa pelea no está en el texto.
-- **72 → 73:** falta el enfrentamiento en el despacho de Umbridge. El 73 lo da por ocurrido: Carina esperaba allí y atacó a Harry para impedirle ir al Ministerio, y Harry «la superó».
-
-Este resumen cuenta solo lo que hay. Lo que se deduce de otro capítulo se marca «inferido de ko-NN»; lo que viene del canon de Harry Potter, «canon». Cada capítulo lleva en el apartado 1 la línea «Texto parcial» y en el 6 «Qué falta para entenderlo».
-
-Los capítulos no llevan fechas. Las que doy son aproximadas, sacadas del quinto curso (1995-96) y de los hitos que el texto menciona; ninguna viene escrita.
+**Situación de partida (de ko-53 y ko-54, sin resumir).** El 53 es un extra de primer año (el Espejo de Erised: Carina ve a Harry arrodillado ante ella; se declaran «rivales»). El 54 ya es el verano de 1995: Carina y Harry han roto (ella rompió tras el regreso de Voldemort, ver ko-49, y el anillo se devolvió atado a una flor; él sigue llevando el suyo, que ya no se enciende). Lucius, aterrado por el regreso de Voldemort, ordena a Carina que busque el diario en Hogwarts y le dice que Voldemort se ha fijado en ella por haber ayudado a llevar a Karkaroff hasta Crouch; Carina sabe que el diario ya fue destruido por Dumbledore y Harry. En Little Whinging, Harry se enfrenta a Vernon, fantasea con la muerte de los Dursley, decide matar a Voldemort y «recuperar a Carina»; aparecen dementores.
 
 ---
 
-## Coreano 55 — Trial (Juicio)
+## Ko-55 — «Trial» (El juicio)
 
 ### 1. Punto de vista y momento
-Harry, tercera persona limitada. Verano de 1995, antes del curso, en Little Whinging (principios de agosto, deducido por el canon). Harry tiene 15 años.
-**Texto parcial:** empieza en medio de la escena, con los dos dementores ya en el callejón de Little Whinging (no se ve cómo llega Harry allí); acaba con Harry diciéndole a Vernon que Dudley casi perdió el alma y que le den chocolate.
+Harry (tercera limitada) y, en la segunda mitad, Fudge. Verano de 1995, entre el atardecer del ataque de los dementores y el juicio (finales de julio o agosto, antes del 1 de septiembre; sin fecha exacta). Harry tiene 15 años (el texto lo dice: «a fifteen-year-old student»).
 
 ### 2. Escenas
-**1. El callejón.** Dos dementores aparecen en Little Whinging, donde no hay más mago que Harry. Harry deduce que una situación anómala siempre tiene detrás una intención ajena y se pregunta quién los ha enviado. Dudley, que andaba buscando a quién fastidiar, se ha topado con ellos y está aturdido. Harry corre a salvarle; con los dementores cerca oye en la cabeza voces de sus padres muriendo y la de Snape («Potter. This is goodbye»). Lanza el encantamiento Patronus; el recuerdo feliz es «cualquier momento» de las horas que pasó con Carina el curso anterior. De su varita sale un **zorro plateado**, que carga contra el dementor, los ahuyenta y vuelve a su lado con aire altivo, esperando elogios. Harry le rasca bajo la barbilla y dice: «Even after we've parted, you still make things difficult for me.» El zorro se desvanece. Harry sostiene a Dudley y lo lleva a Privet Drive.
-
-**2. Las consecuencias.** Llegan dos cartas: una del Ministerio, que cita a Harry a juicio por uso ilegal de magia (invoca el Decreto de Restricción Razonable de la Brujería de Menores), y otra de Dumbledore, que le ordena quedarse quieto, avisa de que fuera de Privet Drive corre peligro y anuncia que van a recogerle.
-
-**3. Los periódicos.** Harry hace la maleta y extiende los *Daily Prophet* que ha ido guardando. Igor Karkaroff: exdirector de Durmstrang, asesino de Barty Crouch padre y antiguo mortífago; el Ministerio le atribuye toda la culpa y ha sacado a relucir su pasado oscuro. El Ministerio se niega a admitir el regreso de Voldemort, y el periódico repite que Karkaroff actuó solo y ataca a Dumbledore. Dumbledore está bajo asedio político, y el Profeta describe a Harry como un fraude que se coló en el Torneo. El Ministerio estará encantado con el incidente de los dementores, porque da a Dumbledore otra carga.
-
-**4. Las cartas de Harry.** Escribe dos cartas, una a Ludo Bagman y otra a Cedric Diggory. Razona que, mientras el Ministerio mantenga su postura, nadie creerá que Voldemort ha vuelto, pero la gente puede prepararse sin creerlo. Mientras Dumbledore absorbe los golpes, Harry y «los de la Orden del Fénix» difunden una verdad «ligeramente ajustada»: Karkaroff era el seguidor más devoto de Voldemort y trabajaba para traerlo de vuelta. Se ha reordenado un poco la secuencia de hechos, pero la verdad sigue ahí.
-
-**5. Cierre.** Vernon exige saber qué le ha hecho a Dudley; Harry contesta que casi le chupan el alma y que le den chocolate.
+**1. Callejón de Little Whinging.** Dos dementores acorralan a Dudley, que andaba buscando a alguien a quien acosar. Harry corre hacia ellos; oye ecos (voces de Lily, otra voz que dice «not the child», y una despedida con «Potter»). Piensa que no entiende por qué el boggart de los demás no es un dementor. Lanza el Patronus: un zorro plateado, altivo, que echa a los dos dementores. Para el hechizo usa un recuerdo de las horas pasadas con Carina el curso anterior. El zorro espera elogio y se disuelve. Harry lleva a Dudley de vuelta, previendo la reprimenda y la carta del Ministerio.
+**2. Cartas y táctica.** Llegan la citación del Ministerio (por magia de menores, amparada en el Decreto para la Restricción Razonable de la Brujería de Menores) y una carta de Dumbledore (quedarse quieto, vendrán a buscarle). Harry repasa el *Profeta*: culpa a Karkaroff del asesinato de Crouch padre, niega el regreso de Voldemort y ataca a Dumbledore; a Harry le llaman «farsante que se coló en el Torneo». Escribe a Ludo Bagman y a Cedric Diggory. Estrategia: Dumbledore absorbe los golpes políticos mientras Harry y la Orden difunden una «verdad ligeramente ajustada» (Karkaroff como seguidor más fiel de Voldemort, empeñado en traerlo de vuelta).
+**3. Privet Drive.** Vernon le acusa; Harry le dice que Dudley casi perdió el alma y que le den chocolate. Llega Sirius derribando la puerta (Vernon sale volando), con Lupin, Tonks (recién casados) y Moody en el jardín. Harry lanza una rana de chocolate a Dudley. Salen hacia Grimmauld Place nº 12.
+**4. El juicio (punto de vista de Fudge).** El jurado, con peticiones a favor (Bagman), se muestra tibio con Fudge. Harry se muestra cortés, apela a su orfandad, describe el zorro, cita a Lupin como maestro del hechizo. Amelia Bones (tía de Susan Bones) le cree. Veredicto unánime: inocente. Harry clasifica a los jurados como aliados, posibles aliados o enemigos; el enemigo es Fudge y sus ayudantes. «Plan B»: insinúa que Karkaroff envió a los dementores, para que Fudge vaya tras él y deje de estorbar.
 
 ### 3. Frases clave
-- Paráfrasis: Harry ha aprendido por experiencia que lo anómalo siempre trae una voluntad detrás.
-- «Even after we've parted, you still make things difficult for me.» (Harry, al zorro.)
-- Paráfrasis: la gente se prepara para una tormenta que cree poder sortear, no para una que cree que la destruirá de todos modos.
-- Paráfrasis: la Orden difunde una «verdad ligeramente ajustada».
+- Harry piensa que los casos anormales siempre ocultan la voluntad de alguien.
+- La táctica de Harry: la gente no necesita creer en Voldemort para empezar a prepararse (se prepara para la tormenta que cree superar).
+- Harry sobre el Patronus: «Small and rather imperious—doesn't listen particularly well.»
+- Fudge sobre la táctica de Harry: sacar siempre a relucir a sus padres muertos para ganarse a las brujas mayores del jurado.
+- Cierre: «The war had already begun.»
 
 ### 4. Qué revela o cambia
-- Carina y Harry **han roto** («after we've parted»). El Patronus de Harry sigue alimentándose de los recuerdos con ella.
-- Su Patronus es un zorro; lleva dominando el hechizo «más de un año» (desde tercero).
-- La Orden del Fénix existe y Harry forma parte; difunden una versión retocada de la verdad (Karkaroff como traidor devoto) mientras el Ministerio niega a Voldemort.
-- Ludo Bagman y Cedric son los primeros destinatarios de esa red de aliados.
-- Nadie sabe aún quién envió a los dementores.
-- El Ministerio cita a Harry a juicio; Fudge está activamente contra Dumbledore.
+- Hay dementores fuera de Azkaban, probablemente al servicio de Voldemort (lo sugería el 54; Dumbledore ya le había avisado de que Voldemort recluta criaturas).
+- Fudge se pone de lado de forma abierta contra Dumbledore y Harry; aun así sale derrotado en el juicio.
+- Harry y la Orden han empezado una campaña de desinformación parcial («Karkaroff»); Harry se alía con Bagman y Cedric.
+- Harry vive ahora en Grimmauld Place con la Orden; Lupin y Tonks están casados.
+- El Patronus de Harry es un zorro plateado ligado a los recuerdos con Carina.
 
 ### 5. Contenido delicado
-Ninguno sexual. Violencia: amenaza de dementores a un menor (Dudley) y descripción de sus efectos (recuerdos de la muerte de los padres de Harry).
+Violencia fuera de plano contra Vernon (derribado por la puerta). Amenaza de «beso» del dementor a menores (Dudley, edad no indicada, y Harry, 15). Nada sexual.
 
 ### 6. Rarezas y contradicciones
-- **Qué falta para entenderlo:** No se ve cómo ni por qué Harry está en ese callejón. El juicio solo se cita como convocatoria (su desenlace no está aquí). No aparece la recogida por la gente de Dumbledore que anuncia la carta. Tampoco se dice quién envió los dementores.
-- Con el canon: en el libro el Patronus es un ciervo y los dementores los envía Umbridge. Aquí es un zorro y el origen queda abierto. El «juicio» del canon (ante el Wizengamot completo) aquí solo se cita como convocatoria; el desenlace no aparece en el 55 (el 60 dice que Harry «sat through a Ministry tribunal», sin resultado).
-- El Ministerio atribuye a Karkaroff el asesinato de Crouch padre; en el canon Crouch padre muere a manos de su hijo.
-- Mención a «Harry tiene 15 años»: en agosto de 1995 los cumplió el 31 de julio. Correcto.
+- Harry tiene el Patronus corpóreo de zorro (en el canon es un ciervo); en el canon el juicio es ante el Wizengamot completo, aquí es un jurado de brujas y magos «distinguidos» con voto a mano alzada.
+- Lupin y Tonks ya están casados en el verano de 1995 (en el canon se casan en 1997).
+- Sirius es hombre libre y acude a Privet Drive sin problema (en el canon, 1995, sigue siendo fugitivo y no ha podido salir de Grimmauld Place).
+- El *Profeta* culpa a Karkaroff de la muerte de Crouch padre; en el 73 se verá que fue Crouch hijo quien lo mató.
+- «Plan B» se menciona sin decir cuál era el Plan A.
+- El texto dice «the Decree for the Reasonable Restriction of Underage Sorcery», tal como en el canon, pero el aviso de Dumbledore («people being sent to collect him») no se explica: Sirius llega a los pocos minutos.
 
 ---
 
-## Coreano 56 — The Hogwarts Express (2) (El Expreso de Hogwarts, 2)
+## Ko-56 — «The Hogwarts Express (2)» (El Expreso de Hogwarts)
 
 ### 1. Punto de vista y momento
-Carina. 1 de septiembre de 1995, andén 9¾ y tren. Quinto curso. Carina tiene 15 años.
-**Texto parcial:** empieza en la despedida del andén 9¾; acaba con Carina apuntando con la varita a Harry en el pasillo del tren y pensando «puntos, castigo o un maleficio».
+Carina (casi todo), un tramo breve de Draco al final. 1 de septiembre de 1995. Quinto curso de Carina (15 años); Draco empieza primero (el texto dice «only four years» de diferencia).
 
 ### 2. Escenas
-**1. El andén.** Narcissa besa a Carina y a Draco más tiempo que otros años. Lucius, entero, deja ver su preocupación cuando los hijos miran a otro lado. A Carina le dice: «I'm counting on you.» Draco, entusiasmado, no se entera de la tensión.
-
-**2. El compartimento de prefectos.** Carina es la **prefecta de Slytherin** (insignia en el pecho). Guarda su baúl y el de Draco. Draco no quiere quedarse con ella; se burla de que sea prefecta («Dumbledore ha perdido la cabeza»). Carina le explica que Snape propone y Dumbledore aprueba, y alza el puño; Draco huye. Carina reflexiona: el año anterior daba por segura la insignia y ahora le pesa.
-
-**3. Los prefectos.** Prefecto de Slytherin: Blaise Zabini, que se muestra indiferente a todo (Carina cargará con casi todo el trabajo). Gryffindor: Hermione y **Ron**. Carina, que se plantea que es lo más fácil («mejor Weasley que Harry»), provoca a Ron: los Weasley no tienen más que cantidad, y han elegido al más inútil. Ron aguanta. Carina se dice que la consideración con que Ron y Hermione la trataban era solo por ser la novia de Harry, que eso se acabó, y para «cortar el último hilo» usa la palabra «Mudblood» contra Hermione. Ron saca la varita; Carina agarra la suya. Ron se contiene. La mira y suelta: «What's the matter—miss Harry?» y que es el lacayo de «él», «una cartera que saca cuando necesita dinero y un escudo humano». Y remata: ¿qué pasará cuando llegue la guerra y su hermano pequeño muera?, ya no quedará nadie para llevar el apellido Malfoy.
-
-**4. Cedric.** Entra Cedric Diggory, **Head Boy**, y se encuentra la escena. Pide calma; reparte las normas de los prefectos (vigilar, escoltar al Gran Comedor, restar puntos, poner castigos, rondas, baño de los prefectos). Primer deber: patrullar el tren. Carina sale la primera.
-
-**5. El pasillo.** Furiosa («los Weasley tendrán más lápidas que Malfoys»), reconoce que empezó ella, pero la mención de que Draco muera la ha roto: «...Who would ever want... a war...!» Es un futuro que puede llegar. Una voz familiar le habla: Harry. Ella no se vuelve. Le dice que la zona es para prefectos. Harry dice que busca a Ron, Hermione y Cedric. Ella le bloquea el paso («un castigo, si es de ti, lo acepto con gusto», responde él) y, cuando él sigue avanzando sin respetar distancia, le **apunta con la varita**: es su última advertencia, o tomará medidas «apropiadas». (El texto se corta aquí.)
+**1. Andén 9¾.** Narcissa besa a Carina y a Draco; Lucius, contenido pero preocupado: «I'm counting on you». Draco, sin enterarse de la tensión, emocionado.
+**2. Compartimento de prefectos.** Carina es prefecta de Slytherin, con Blaise Zabini (indiferente) como prefecto. Hermione es prefecta de Gryffindor, y Ron es el prefecto de Gryffindor (sorpresa de Carina). Ella provoca a Ron (los Weasley, la «pobreza», «el más inútil») y llega a decirle «Mudblood» sobre Hermione. Ron saca la varita; Hermione lo frena. Ron contraataca: Carina es el «monedero y escudo humano» de Harry, y su hermano pequeño podría acabar muerto «cuando llegue la guerra». Entra Cedric Diggory, Head Boy, y reparte tareas; pide que los conflictos personales no pasen a las casas.
+**3. Pasillo.** Carina patrulla, furiosa. Harry le habla; ella le apunta con la varita y le ordena volver a su compartimento. Harry le dice que Parkinson y Montague hablan alto de «the truth» sobre Karkaroff delante de unos Ravenclaw de cuarto. Carina, temiendo que se les escape que Voldemort ha vuelto, va a callarlos.
+**4. Compartimento de Pansy.** Pansy, Montague, Luna Lovegood y Ginny Weasley leen *El Quisquilloso* (*The Quibbler*). El artículo, de Rita Skeeter, cita a un «H» anónimo y acusa a Karkaroff de buscar un sacrificio para resucitar a Quien-no-debe-ser-nombrado, y de haber asesinado a Crouch con ese fin; apunta a Harry como presa prevista. Carina nota que tuerce los hechos (el regreso es ya real). Luna es hija del editor. Ginny dice a Carina que Harry la ha dejado; Pansy suelta que Potter es «un juguete» y que «cuando regrese el Señor Oscuro...», y Carina la corta. Carina humilla a Ginny: con Harry será siempre «la segunda»; todo lo que hagan juntos, Carina lo hizo antes.
+**5. Compartimento vacío.** Harry le confiesa que él es «H» y que seguirá usando prensa (Quibbler, Skeeter) para que la verdad cale poco a poco. Carina le advierte de que no use el diario para amenazarla; no se puede revelar que el Horcrux está destruido, o Voldemort esconderá el resto. Harry le pregunta si puede besarla; ella solo responde «What?»; él le recuerda que sabe lo de «Mudblood» (alusión a lo sucedido en el extra de primero) y la besa. Ella lo aparta: «This is the last time». Harry: «I hope not».
+**6. Draco.** Un Draco con las piernas dormidas sale del portaequipajes del compartimento (se escondió allí al entrar ellos, para darle un susto); lo vio todo.
 
 ### 3. Frases clave
-- «Yes. Carina... I'm counting on you.» (Lucius, con doble sentido.)
-- Paráfrasis: Carina cree que la insignia le pesa en el pecho.
-- Paráfrasis: Ron dice que ella es la cartera y el escudo humano de «él», y que si estalla la guerra su hermano morirá.
-- «Who would ever want... a war...!» (Carina, para sí.)
-- «A punishment? If it's from you, I'll take it gladly.» (Harry.)
+- Carina a Ginny: lo que Harry y ella hagan, Carina ya lo hizo antes; Ginny será «la segunda».
+- Harry sobre su plan: la verdad calará como lluvia sobre una tela.
+- Carina: «Don't think about using that to threaten me.» (sobre el diario destruido.)
+- Harry: «You should threaten never to see me again.»
+- Ron a Carina: «you're just his lackey… a wallet he pulls out when he needs money» (cree que ella sirve a Harry).
 
 ### 4. Qué revela o cambia
-- Lucius encarga a Carina algo de lo que no puede hablar abiertamente (inferido de ko-54: encontrar el diario de Riddle en Hogwarts; Carina sabe que fue destruido).
-- Carina, **prefecta de Slytherin**; Ron, prefecto de Gryffindor; Cedric, Head Boy.
-- Ruptura Carina/Harry de cara a todos: ella se esfuerza en cortar «el último hilo» con insultos a sus amigos.
-- Ron sabe o intuye que los Malfoy sirven a Voldemort («You lot serve him»).
-- Carina teme una guerra y la muerte de Draco: es lo que le rompe la compostura.
-- Harry la busca activamente, ignora sus avisos.
+- Carina rompe a propósito con Ron, Hermione, Luna y Ginny: «cortar todo, estar en el otro lado».
+- Harry y ella son «enemigos» por las circunstancias (Voldemort), no por ruptura emocional; el beso demuestra que sigue habiendo afecto.
+- El *Quisquilloso* se convierte en el arma de Harry (suministrado por Ginny, escrito por Skeeter).
+- Existe un secreto compartido: el diario destruido; ambos coinciden en no revelarlo.
+- Draco sabe ahora que su hermana y Harry se besan.
 
 ### 5. Contenido delicado
-Uso del insulto «Mudblood» por parte de la protagonista, como corte deliberado. Amenaza de violencia entre menores (varitas desenfundadas). Sin contenido sexual en el texto conservado.
+Beso entre dos menores (15 años) iniciado por él tras una petición retórica («¿Puedo besarte?») sin esperar respuesta, tomando su barbilla y su muñeca; ella reacciona con enfado, no con consentimiento claro. Insulto «Mudblood» (Carina a Hermione), y «blood traitor»/«Weasley» como escarnio de clase. Ron insinúa que Draco (10-11) puede morir en la guerra; Carina amenaza con matar a Harry si la vuelve a tocar sin permiso. Pansy menciona «el regreso del Señor Oscuro».
 
 ### 6. Rarezas y contradicciones
-- **Qué falta para entenderlo:** Falta el desenlace de la confrontación con Harry. El beso que Draco verá en el 57 se sitúa después (inferido de ko-57). Los encargos de Lucius a Carina solo se aluden («I'm counting on you»); lo que ella debe hacer se aclara en el 54, que no entra en esta tanda.
-- Con el canon: Ron y Hermione prefectos de Gryffindor, como en el canon; Cedric Head Boy (en el canon murió en junio de 1995).
-- Dentro del original: no queda claro a quién llama «él» Ron en «you're just his lackey...a wallet he pulls out» (por el contexto, Voldemort o Lucius). Lo trato como Voldemort.
+- Cedric está vivo y es Head Boy (en el canon muere en 1995).
+- Ron prefecto, Hermione prefecta: canon. Blaise como prefecto de quinto: en el canon eran Draco y Pansy.
+- Montague aparece como alumno de Slytherin en el tren y luego en el Escuadrón (67, 72).
+- Draco tiene diferencia de edad de «only four years» con Carina (15 y 11) pero el texto de 57-67 llama a Draco «ten-year-old» (ver 61, 65).
+- «Quisquilloso» sale por primera vez con el artículo de Karkaroff; Rita Skeeter, expulsada del *Profeta*, escribe para Lovegood (canon: Xenophilius y Harry/Hermione hacen la entrevista en 1995).
+- La mención de «Mudblood» y «last time» remite al extra de primero (ko-26).
 
 ---
 
-## Coreano 57 — Umbridge
+## Ko-57 — «Umbridge»
 
 ### 1. Punto de vista y momento
-Draco (escena 1), narrador en el Gran Comedor (escena 2) y Harry (escena 3). 1 de septiembre de 1995, tren y banquete de bienvenida. Draco tiene 11 años.
-**Texto parcial:** empieza con Draco ya escondido en el compartimento del equipaje, tras haber visto la escena de Carina y Harry; acaba con Harry en el Gran Comedor comparándose con Trelawney.
+Draco (primer tramo) y Harry (resto). Noche del 1 de septiembre de 1995, Banquete de Selección.
 
 ### 2. Escenas
-**1. Draco, el chantaje.** Escondido en el compartimento del equipaje, Draco ha presenciado una reunión clandestina entre Carina y Harry Potter: se hablaron con aspereza y de pronto se agarraron la cara y se besaron. Draco sabe que Harry es el enemigo jurado de los Malfoy y que besarse es cosa de padres. Concluye que es una **contradicción** y que solo puede ser **chantaje**. No cae bien a Carina y ella lo trata como a un crío, pero si la ayuda ella le deberá un favor y quizá le respete. Se va al Gran Comedor con orgullo y algo de preocupación.
-
-**2. El Gran Comedor.** Hay una extraña tensión: varios alumnos esconden ejemplares de *El Quisquilloso* (*The Quibbler*). Los de Slytherin, aparte, apenas lo han leído y los que lo han hecho saben que su contenido es basura, pero no pueden decirlo en voz alta. Ginny se sienta junto a Harry, complacida: «la gente lo lee si es entretenido».
-
-**3. Cómo se hizo el artículo.** Durante el verano, Harry intentó difundir la verdad pero el *Profeta* es del Ministerio y él, menor y sin poder aparecerse, tenía poco margen. **Ginny** propuso *El Quisquilloso*, un periódico que publica sin ironía que Sirius Black es cantante de un grupo famoso. A Harry le dio tanto asco que lo habría quemado, y obligó a Sirius a cantar algo para comprobarlo. Ginny insistió: aunque sea absurdo, si saber algo hace sentirse especial, la gente lo cree. El artículo ha funcionado; ha sembrado la duda. Harry se compara con la profesora Trelawney, que soporta en clase solo porque a veces sale una profecía de verdad.
+**1. Draco.** Interpreta el beso como chantaje: Potter es enemigo jurado de los Malfoy y el beso es cosa de «mamá y papá». Decide ayudar a su hermana para que ella le deba un favor y deje de tratarlo como a un crío.
+**2. Gran Comedor.** Los Slytherin miran con tensión al *Quisquilloso*; saben que es basura pero no pueden decirlo. Ginny, junto a Harry, presume de haber propuesto el *Quisquilloso* como vehículo («si la gente se siente especial por saberlo, lo cree»); Harry se compara con Trelawney. Ginny y Ron discuten (la presentó a Luna; él la sentó con Harry en el tren); Harry pide a Ron que sea más amable con su hermana y Ron se disculpa.
+**3. Draco observa a Harry.** Harry lo reconoce por el pelo platino. Piensa que el enfrentamiento con Carina será total, pero que quiere acabar con la guerra antes de salir de Hogwarts.
+**4. Mesa de profesores.** Harry reconoce a Dolores Umbridge (ayudante de Fudge, presente en su juicio y deseosa de condenarle): es la nueva profesora de Defensa. Hermione se escandaliza de que Fudge pueda meter a alguien en Hogwarts; Ron: «es capaz». Harry nota que Draco lo sigue mirando.
 
 ### 3. Frases clave
-- «My sister... is being blackmailed.» (Draco.)
-- Paráfrasis: Draco concluye que enemigos jurados se pelean y que quienes se besan se aman, lo cual es una contradicción.
-- Paráfrasis (Ginny): aunque sea absurdo, si saber algo te hace sentir especial, la gente lo cree.
-- «I feel rather like I've become Professor Trelawney.» (Harry.)
+- Draco: un enemigo jurado no se besa; solo los padres lo hacen (conclusión: es chantaje).
+- Ginny: da igual lo absurdo que sea el contenido; si te hace sentir especial, se cree.
+- Harry: «I feel rather like I've become Professor Trelawney.»
+- Harry quiere acabar con Voldemort antes de salir de Hogwarts.
+- Harry sobre Ginny: la ve como una hermana pequeña.
 
 ### 4. Qué revela o cambia
-- Draco ha visto el beso Carina-Harry y sale de ello pensando en chantaje; ahora tiene su propio plan para «ayudar» a su hermana.
-- La **táctica de la prensa**: el artículo de Harry en *The Quibbler* (con Ginny como cerebro) para difundir la verdad sobre Karkaroff y el regreso de Voldemort.
-- Sirius vive y está en contacto con Harry (le hizo cantar).
-- Que se besen tras discutir apunta a que la ruptura Carina-Harry **no es total** (lectura mía; la escena del beso no está en el texto).
+- Fudge/Umbridge se instalan en Hogwarts; Harry la ubica como enemiga.
+- Ginny se aproxima a Harry (Ron lo nota); Harry la trata como hermana.
+- Draco queda como testigo del beso y empieza a vigilar a Harry.
+- Detalle: Harry hizo cantar a Sirius («lead vocalist») para comprobar un artículo del *Quisquilloso*.
 
 ### 5. Contenido delicado
-Un beso entre dos menores de 15 años visto por un niño de 11 (descrito sin detalle). Sin otro contenido.
+Nada gráfico. Draco (10-11) piensa en besos de pareja de forma ingenua.
 
 ### 6. Rarezas y contradicciones
-- **Qué falta para entenderlo:** Faltan la discusión previa y el beso (solo los relata Draco en pensamiento), la ceremonia de selección y el resto del banquete. No se dice qué hace Draco con su idea de «ayudar» a Carina.
-- Con el canon: aquí Draco es un hermano pequeño de once años que entra a Hogwarts en 1995. *El Quisquilloso* en el canon publica la entrevista de Harry en el curso (Hermione organiza con Rita Skeeter); aquí lo organiza Ginny durante el verano.
-- Dentro del original: el texto dice que los Slytherin que lo han leído «know perfectly well that the contents were rubbish» y no pueden decirlo; no se explica por qué callarían si lo creyeran basura. Ambiguo (¿lo creen cierto? ¿fingen?).
-- La edad de Draco: «four years» de diferencia con Carina; coherente con los 11 y 15.
+- La Selección de Draco no se narra (cae fuera de plano).
+- «Draco had a four-year age gap» frente a «ten-year-old» en capítulos posteriores.
+- Ron dice que Ginny conoció a Harry gracias a que él compartió compartimento con Harry en el tren (primer año); Ginny tenía entonces 10 años y hoy cursa cuarto.
 
 ---
 
-## Coreano 58 — Um Bridge (Umbridge, juego de palabras con «Um Bridge»)
+## Ko-58 — «Um Bridge»
 
 ### 1. Punto de vista y momento
-Harry. Primera clase de Defensa Contra las Artes Oscuras con Umbridge, principios de septiembre de 1995.
-**Texto parcial:** empieza con Harry pensando que Umbridge es tal como esperaba, ya a la puerta de clase; acaba con Umbridge diciendo «I beg your pardon, Mr. Potter?».
+Harry (clase y McGonagall) y Carina (clase de Slytherin). Primera semana de septiembre de 1995; Harry tiene 15, Carina 15.
 
 ### 2. Escenas
-**1. La clase.** Harry ya anticipaba que Umbridge sería incompetente y presuntuosa. Pide guardar las varitas; en la pizarra escribe «Back to Basics» y los objetivos del curso (entender los principios de la magia defensiva, saber cuándo se puede emplear legalmente, estudiar categorías). Les hace copiar y leer en silencio el capítulo uno de *Defensive Magical Theory* de Wilbert Slinkhard.
-
-**2. Hermione.** Con la mano levantada sin leer el libro. Umbridge la ignora un buen rato. Hermione pregunta por la política de enseñanza: el libro no dice nada de cómo hacer magia defensiva. Umbridge: ¿para qué iba a necesitarla en clase?; el Ministerio vela por su seguridad. Ron grita: ¿no aprenderán magia? Umbridge establece que para hablar hay que levantar la mano y deja de llamar a Ron.
-
-**3. Harry.** Se acuerda de cómo el tío Vernon trataba a los funcionarios: protestar en voz alta «sin confrontar». Hace lo mismo: «¿Entonces para qué levantar la mano?»; pide la palabra y, como es el único con la mano alzada, le toca. Pregunta cómo van a aprender magia práctica en los TIMOs, sin supervisión. Umbridge sostiene que con teoría basta. Harry remata: «Solo estará aquí un año; ¿va a arruinarnos los exámenes y marcharse?» Umbridge responde con «¿Perdón, Sr. Potter?» (el texto acaba aquí).
+**1. Defensa con los de Gryffindor.** Umbridge prohíbe usar las varitas y manda leer el libro de Slinkhard (capítulo 1) sin explicar. Hermione levanta la mano y le dice que el libro no enseña a hacer defensa; Umbridge replica que nadie va a ser atacado en clase. Ron protesta y Umbridge impone que hay que alzar la mano (y luego ignora todas). Harry usa «pensar en voz alta» para cuestionarla; el examen de TIMOs exige práctica; ella solo se queda un año; compara el método con las Pociones; dice que Karkaroff casi lo mata; Umbridge replica que el Ministerio y los dementores lo detendrán; Harry aplaude con sarcasmo y recuerda que tardaron un año en cazar a Sirius. Umbridge le quita 10 puntos y le pone detención a las 17:00.
+**2. McGonagall.** Le advierte de que Umbridge es cruel y que debe agachar la cabeza. Harry se ríe: ha enfrentado a Voldemort, Snape, Moody, Quirrell y el basilisco. Dice que tiene tiempo libre porque ya no sale con Carina; pide que McGonagall lleve las quejas a Dumbledore; él cumplirá las detenciones. Piensa que Dumbledore está atado por la ley y los procedimientos, y que él está dispuesto a usarlo.
+**3. Slytherin con Umbridge.** Carina finge coincidir con ella (el mundo es seguro, Karkaroff solo un criminal) y le entrega un número atrasado del *Quisquilloso* que pidió a Luna. Umbridge lee el artículo, se enfurece y le propone ser su informante dentro de Hogwarts; Carina acepta («it would be an honour»). Carina sabe que es incompetente pero «útil», y cierra su sentimiento «como una puerta de acero».
 
 ### 3. Frases clave
-- Paráfrasis: la teoría en clase y la práctica «por tu cuenta» sería más peligrosa, argumenta Harry.
-- «I'm the only one with my hand up, so it's my turn?» (Harry.)
-- «You'll only be here a year anyway.» (Harry, a Umbridge.)
+- Harry a Umbridge: «You'll only be here a year anyway.»
+- Umbridge: tendrán que leer teoría y practicar solos.
+- Harry sobre Dumbledore: está atado a ley y procedimientos y no se defiende; Harry piensa usarlo.
+- McGonagall: «You need to learn when to lower your head in front of her.»
+- Carina sobre sí misma: puede interpretar al villano cuando la situación lo exige.
 
 ### 4. Qué revela o cambia
-- Se establece el método de Harry contra Umbridge (burocracia contra burocracia, sin salirse de las reglas).
-- Primer choque directo de Harry con Umbridge. Los castigos del 60 vendrían de aquí (inferido de ko-60).
-- Harry «anticipaba» cómo sería Umbridge (ver sección e).
+- Se establece el enfrentamiento Harry-Umbridge y las detenciones.
+- Umbridge compra a Carina como informante; se abre la línea de espionaje.
+- Umbridge dice que Fudge le ha prometido «apoyo sin reservas»; afirma que Dumbledore la nombró profesora a petición del Ministerio (versión de Harry).
+- Harry confirma que ya no es pareja de Carina (frente a McGonagall).
 
 ### 5. Contenido delicado
-Ninguno.
+Detenciones con castigo físico que se muestra en el 59-60. Nada sexual en este capítulo.
 
 ### 6. Rarezas y contradicciones
-- **Qué falta para entenderlo:** Falta cómo termina la discusión y qué pasa con Harry en esa clase. Que hay castigos con la pluma a continuación se sabe solo por el 60 (inferido de ko-60).
-- Con el canon: la escena reescribe el primer día de Umbridge (Hermione pregunta, Harry discute). Aquí Harry usa estrategia calculada, no ira.
-- «Perform defensive magic» y «counter-jinxes» (palabra «counter» luego usada como arma en el 67) son del canon.
-- El texto acaba antes del desenlace; el castigo de Harry se da por hecho en el 60.
+- Harry dice que Dumbledore «appointed Umbridge … at the Ministry's request»; McGonagall dice que el Ministro puede nombrar profesor por decreto, y que Dumbledore no puede negarse. Las dos explicaciones no coinciden del todo (en el canon, Fudge impone a Umbridge).
+- «He came to blows with Professor Moody»: referencia a un episodio previo (el falso Moody) que no se narra aquí.
+- Hay un salto de escena entre la detención de Harry y la conversación con McGonagall (Harry lleva la carta de Umbridge).
 
 ---
 
-## Coreano 59 — Confrontation (Enfrentamiento)
+## Ko-59 — «Confrontation»
 
 ### 1. Punto de vista y momento
-Harry. Mediados de septiembre de 1995 (aprox.), clase de Cuidado de Criaturas Mágicas.
-**Texto parcial:** empieza con la ausencia de Hagrid ya comentada; acaba con Ginny corriendo hacia Harry y diciendo «Harry!».
+Harry. Primera semana de septiembre de 1995 (clase de Cuidado de Criaturas Mágicas y tarde de la primera detención; se menciona el viernes de las pruebas).
 
 ### 2. Escenas
-**1. Hagrid ausente.** Hagrid ha desaparecido de Hogwarts. Harry sabe adónde: en verano Dumbledore le encargó viajar a Europa a contactar con los gigantes para evitar que se alíen con Voldemort. Grubbly-Plank da la clase (bowtruckles).
-
-**2. Hermione y Harry.** Se preguntan por qué Hagrid enseñó escregutos de cola explosiva todo el año anterior en lugar de criaturas útiles; concluyen que a él le gustaban y nadie quiso decírselo. Hermione dibuja un bowtruckle con notas.
-
-**3. Carina y Ron.** Hermione le dice a Harry: «¿Qué vas a hacer con Malfoy?» Carina, con su grupo de Slytherin, arrincona a Ron: su padre le ha dicho que Fudge piensa expulsar a los profesores sin cualificación y el primero será el evidente (Hagrid). Argumenta con hechos (criaturas híbridas peligrosas, incapacidad para ver riesgos, un huevo de basilisco) y añade: quizá sea la sangre de gigante; ¿no deberían separar a alguien así de los demás? Ron la insulta. Grubbly-Plank interrumpe. Pansy Parkinson cierra el desfile con un gesto burlón.
-
-**4. Hermione.** Le dice a Harry que debe decidir de qué lado está: «Malfoy seems to have already made her choice.» Harry calla. Ginny sale de un invernadero con otros de cuarto y corre hacia él.
+**1. Cuidado de Criaturas.** Hagrid ha desaparecido: Harry sabe que está en Europa, enviado por Dumbledore a negociar con los gigantes. Lo sustituye la profesora Grubbly-Plank (bowtruckles). Carina, rodeada de Slytherin, humilla a Ron: Fudge expulsará a los profesores «no cualificados», empezando por Hagrid; añade que su sangre de gigante le impide pensar como la gente corriente. Hermione dice a Harry que elija bando.
+**2. Ginny, Luna y la prohibición.** Ginny cuenta a Harry que Carina denunció *El Quisquilloso* a Umbridge y el Ministerio lo cerró; el padre de Luna se queda sin trabajo. Harry se siente culpable; Ginny insiste en que fue Carina. Luna dice que cree en Harry y que «la verdad siempre sale».
+**3. Angelina.** Furiosa porque Harry tiene detención el viernes a las cinco, día de las pruebas de Guardián. Harry no piensa pedir permiso a Umbridge.
+**4. Gran Comedor.** Harry reflexiona: antes del colegio no tenía nada que perder; ahora tiene gente y obligaciones, y todo lo que lo ata lo aleja de Carina, que debe de sentir lo mismo.
 
 ### 3. Frases clave
-- Paráfrasis: Harry sabe que Hagrid está de misión con los gigantes por encargo de Dumbledore.
-- «You ought to decide where you stand, Harry.» (Hermione.)
-- Paráfrasis: Carina defiende que el desastre de las clases de Hagrid es objetivo y que su sangre de gigante le hace pensar distinto.
+- Carina: Fudge quitará a Hagrid porque «he has no concept of risk».
+- Hermione: «You ought to decide where you stand, Harry.»
+- Luna: la verdad sale a la luz, «like the Blibbering Humdinger».
+- Harry: «Women keep seeking me out today. Must be my golden era.»
+- Angelina: Harry es el mejor buscador que tiene Gryffindor, pero no puede perder los entrenamientos.
 
 ### 4. Qué revela o cambia
-- **Hagrid fuera por orden de Dumbledore** (misión a los gigantes); Grubbly-Plank enseña con éxito.
-- Carina actúa como portavoz de las intenciones del Ministerio contra los profesores incómodos, a través de su padre.
-- La ruptura se ve desde fuera: Hermione cree que Carina ha escogido bando.
-- Ginny queda como confidente de Harry.
+- Hagrid está fuera por orden de Dumbledore (misión con los gigantes).
+- Carina ha denunciado el *Quisquilloso*: es un acto de hostilidad deliberado.
+- Luna se alinea con Harry; Ginny, con ira contra Carina.
+- Angelina es la capitana; Ron aspira a Guardián.
 
 ### 5. Contenido delicado
-Carina cuestiona a Hagrid por su sangre de gigante y sugiere separarlo (discurso discriminatorio). Sin violencia ni sexo.
+Insulto racista/«de sangre» (giant blood). Nada sexual.
 
 ### 6. Rarezas y contradicciones
-- **Qué falta para entenderlo:** Falta lo que Ginny le quiere decir y cómo termina la clase. No se ve ninguna reacción de Harry a las palabras de Carina más allá de su silencio.
-- Con el canon: en el canon Hagrid sale a la misión con Madame Maxime y vuelve en marzo; Grubbly-Plank lo sustituye. Aquí se menciona solo Hagrid. Carina anticipa a Umbridge/Fudge (canon: Hagrid recibe una evaluación el curso siguiente).
-- Pansy Parkinson, mujer en el original (aquí la adaptación tiene a Panther).
-- No se explica si Carina habla «de verdad» o como parte de su máscara; el 65 y el 68 apuntan a una máscara funcional (ver conjunto).
+- Carina propone que «alguien con sangre de gigante debe mantenerse aparte»: tono de eugenesia, atribuido al personaje.
+- Harry dice que «Hagrid dedicó el curso pasado a los Escregutos»: canon.
+- La detención del viernes a las cinco choca con las pruebas; el 60 muestra que Harry fue a la detención (supervisada por Carina), de modo que debió de perder las pruebas; en el 62 Ron ya es Guardián tras unas pruebas finales que no se narran.
 
 ---
 
-## Coreano 60 — Something of Harry Potter (Algo de Harry Potter)
+## Ko-60 — «Something of Harry Potter»
 
 ### 1. Punto de vista y momento
-Harry. Septiembre-octubre de 1995. La semana de castigos con la pluma de Umbridge; el jueves y el viernes.
-**Texto parcial:** empieza con Harry ya varias noches en castigo («the next day, and the day after that»); acaba con Carina diciendo «Let me be clear, Potter...» y manteniendo la voz fría.
+Harry, con un tramo final de Carina. Una semana de la primera detención, jueves–viernes de principios de septiembre de 1995.
 
 ### 2. Escenas
-**1. La pluma.** Día tras día, Harry escribe con la misma pluma, y las heridas del dorso de la mano ya no cicatrizan entre sesiones. Solo dice «Hello» y «Goodbye» en el despacho, como en un duelo de silencios. El jueves, Umbridge le dice que no ha aprendido la lección y que debe volver al día siguiente. Harry la presiona recordando que ella tendrá una visita al Ministerio; ella ha dispuesto un supervisor autorizado. Harry especula con Snape (descartado) y decide que, si hace falta, patearía el despacho.
-
-**2. Deberes y Quidditch.** Se acuesta a las dos de la madrugada. El viernes la clase de Defensa es de estudio individual. Angelina le increpa por no pedir perdón y arriesgar su puesto de Buscador. Harry no dice «buscad a otro». Promete a Angelina que si el supervisor es un Slytherin lo hechizará con un Confundus y se irá.
-
-**3. El despacho.** Agotado (dementores en verano, juicio, castigos), Harry empuja la puerta. Dentro: cárdigan verde, pelo platino: **Carina**, con la insignia de prefecta. «You're late, Potter.» Harry lanza un detector de hechizos por si es una trampa (Poción Multijugos, maldición): nada, es ella, con la misma seguridad y el mismo aroma. Ella ha sido nombrada supervisora del castigo. Se sienta en la esquina de la mesa. Harry se pregunta si es un «regalo» involuntario de Umbridge. Carina: «She doesn't know about us.» Le advierte que no se escaquee y que informará a Umbridge. Harry responde que así Umbridge repetirá el arreglo. Carina empieza a decir «Let me be clear, Potter...» (el texto acaba).
+**1. Detenciones.** Harry copia líneas con una pluma que graba en su mano «I must not tell lies» (la herida sangra y ya no cicatriza). Solo dice «Hello» y «Goodbye». Umbridge le dice que el viernes tendrá «supervisor».
+**2. Viernes.** Angelina le echa una bronca. Harry se presenta en el despacho de Umbridge: lo supervisa Carina.
+**3. Detención con Carina.** Ella le dice que ahora son enemigos y que quiere que la detención le desgaste. Harry escribe «I love you» bajo la línea (en la mano le sale también); ella le quita 5 puntos. Carina descubre la sangre en el suelo: no sabía que la pluma hería. Harry le pide darle la mano, escribe en el dorso de la de ella «Harry Potter's owned» (aparece también como cicatriz en su mano), le besa el dorso y le advierte de que si es su enemiga puede salir herida.
+**4. Pasillo.** Carina vuelve a mirarse la mano: el texto ha cambiado a «Harry Potter's owner». Lo borra lamiéndolo y frotando.
 
 ### 3. Frases clave
-- «I tend to be harsh with unpleasant women.» (Harry.)
-- «You're late, Potter.» (Carina.)
-- «She doesn't know about us.» (Carina.)
-- Paráfrasis: Harry se pregunta si Umbridge le ha hecho sin querer un regalo.
+- Harry: «Compared to Voldemort, Umbridge is nothing.»
+- Harry a Carina: un enemigo debería poder beberse su sangre con una sonrisa.
+- Carina: «Whatever we were before… right now, you and I are enemies.»
+- Texto escrito en su mano: «Harry Potter's owned» / «Harry Potter's owner».
+- Harry: «If I win—you'll find yourself in a very difficult position.»
 
 ### 4. Qué revela o cambia
-- **Castigos con pluma de sangre:** las cicatrices se hacen permanentes en el dorso de la mano.
-- **Umbridge ignora que Carina y Harry fueron pareja**; Carina lo declara abiertamente.
-- Carina es la mano de confianza de Umbridge (supervisora de castigos).
-- Harry comprueba por magia que no es una impostura. Sigue sintiendo cariño por ella aunque no pueda mostrarlo.
-- Harry mantiene el pulso con Umbridge y calla. Hecho: ha pasado por un «Ministry tribunal» durante el verano.
+- Se establece que Carina no sabía de la tortura con la pluma y se asusta por Harry.
+- Umbridge no sabe de la relación (Carina lo dice).
+- Persiste la ambigüedad entre enemistad y afecto; Harry fuerza el contacto.
 
 ### 5. Contenido delicado
-Tortura de menores como castigo escolar (escribir con una pluma que graba en la piel). Sin contenido sexual; tensión romántica leve.
+Tortura física a un menor (pluma de sangre, 15 años), sangre abundante. Escena de tono sensual/posesivo entre dos menores de 15: tomarle la mano, escribir «owned/owner» en su piel, besarle el dorso, ella lamiéndose la mano para borrar la tinta sanguínea. Contiene la idea de «poseer» a la pareja.
 
 ### 6. Rarezas y contradicciones
-- **Qué falta para entenderlo:** Falta cómo empezó el castigo y por qué (solo se entiende por el 58, inferido de ko-58). Falta lo que Carina dice después de «Let me be clear» y cómo transcurre el rato con ella. No queda claro cuántas noches son en total.
-- Con el canon: la pluma de sangre, sí; aquí supervisa Carina en lugar de Filch o Umbridge.
-- El texto habla de «the next day and the day after», de un jueves y de un viernes siguiente; no queda claro cuántas noches de castigo suman.
-- Umbridge no sabe nada de la relación; el 56 sugiere que casi toda la escuela sí lo sabe (Ron la trata «by being Harry's girlfriend»). Tensión no explicada (¿Umbridge simplemente no se entera?).
+- Harry ofrece «ocupar» a Umbridge con detenciones para que otros vivan en paz (58); aquí se confirma que lo hace a costa de su mano, sin decírselo a nadie.
+- Carina recuerda «un Harry sangrando en primero»: remite al extra del curso 1, no al canon.
+- El cambio de «owned» a «owner» en la mano de Carina no se explica (¿trabajo de Harry mientras escribía, o magia de la pluma?).
+- La pluma es la pluma de sangre del canon, con la misma frase («I must not tell lies»); Harry sigue sin decirle nada a Umbridge. El texto no explica cómo las palabras aparecen también en la mano de Carina.
 
 ---
 
-## Coreano 61 — Dream (Sueño)
+## Ko-61 — «Dream»
 
 ### 1. Punto de vista y momento
-Harry. Sábado por la mañana, Gran Comedor, octubre de 1995 (aprox., tras la semana de castigos del 60).
-**Texto parcial:** empieza con Harry llegando tarde al Gran Comedor el sábado; acaba con Harry apuntando con la varita y gritando «Who's there!» a un Draco mal escondido tras un pilar.
+Harry. Sábado por la mañana, primera semana de septiembre de 1995.
 
 ### 2. Escenas
-**1. El desayuno.** Harry llega tarde. Cuenta a Ron y Hermione que ha soñado que era una serpiente que recorría los pasillos del Ministerio hacia una puerta cerrada. Ron y Hermione saben, tras el verano, lo que significan estos sueños: cuando las emociones de Voldemort se agitan, sus recuerdos se filtran por la cicatriz. Hace unos días (o semanas, ver rarezas) que sueña lo mismo: Voldemort busca algo en los sótanos del Ministerio y no lo alcanza (siente frustración profunda). Hermione le urge a decírselo a Dumbledore ya; Harry dice que lo hará luego.
-
-**2. La mano.** Hermione ve la cicatriz de la mano. Harry confiesa: Umbridge le hace escribir con algo afilado todas las tardes. Ron y Hermione se quedan mudos; Ginny, que escuchaba, estalla («¡Eso es tortura!»). Harry no le ve utilidad a acudir a Dumbledore, porque Umbridge tiene la protección del Ministerio, y Dumbledore tiende a no doblar reglas. Recuerda el falso Moody del curso anterior: Dumbledore sabía que no era él y no intervino, ni con Harry ni con Sirius; quizá teme intervenir demasiado pronto. **Calla lo de Carina**: es demasiado privado.
-
-**3. Draco.** Harry ve que Draco, desde la mesa de Slytherin, le observa descaradamente. Se levanta con el pretexto de ir al despacho de Dumbledore antes de su viaje. Camina por el corredor y sube a un rellano abierto. Se vuelve. Draco se lanza tras un pilar, mal escondido (se le ve el hombro y el borde de la túnica). Harry saca la varita: «Who's there!» Draco se estremece. (El texto acaba aquí.)
+**1. Desayuno.** Harry cuenta a Ron, Hermione (que ya sabían de sus sueños) y Ginny que sueña con ser una serpiente que repta por los pasillos del Ministerio hacia una puerta cerrada. Ron bromea con el cerebro de Percy. Hermione le insiste en avisar a Dumbledore. Les cuenta que Umbridge le marca la mano cada tarde (omite que Carina estaba presente).
+**2. Draco.** Un Draco que lo ha seguido se esconde tras un pilar en el tercer piso. Harry le grita, lo atrapa por el cuello, y Draco lo acusa de chantajear a su hermana porque ella le besó («a menos que la obligues»). Harry lo niega. Una voz de serpiente interior le susurra que le haga daño («por Lucius y el diario»); su mano se curva... y se convierte en una caricia en la cabeza. Le dice a Draco que vuelva a su dormitorio y que no siga a la gente. Harry se justifica: es «el hermano de Carina».
 
 ### 3. Frases clave
-- Paráfrasis: Harry cree que Voldemort está frustrado porque no consigue entrar en el lugar que busca.
-- «Umbridge has been calling me in every evening and carving into me with something sharp.» (Harry.)
-- Paráfrasis: Harry cree que Dumbledore elige a veces observar sin intervenir, quizá por miedo a cambiar a la gente.
+- Harry sobre el sueño: la serpiente intenta abrir la puerta del fondo y no puede.
+- Harry sobre Dumbledore: prefiere esperar y observar antes que intervenir.
+- Draco: «Let my sister go!»
+- La voz: «Take the boy by the throat, Harry Potter.»
+- Harry: «I wouldn't have. That's Carina's brother.»
 
 ### 4. Qué revela o cambia
-- **Sueños de Voldemort en el Ministerio:** el primer indicio de lo que culminará en el 72-73 (el Departamento de Misterios).
-- Harry cuenta lo de Umbridge a sus amigos, pero reserva el vínculo con Carina.
-- Draco empieza a espiar a Harry (por el chantaje imaginado).
-- Dumbledore está «ocupado» con una pista nueva (alude al anillo de Gaunt del 62).
+- Aparece la voz interior «de serpiente» como impulso violento (reaparece en el 63).
+- Harry relaciona su sueño con las visiones del Ministerio y con el juicio.
+- Draco cree que Harry chantajea a su hermana; Harry le asegura que no.
+- Harry empieza a ver a Draco con afecto.
 
 ### 5. Contenido delicado
-Mención a la tortura con la pluma. Sin contenido sexual.
+Harry casi estrangula a un niño de 10-11 años guiado por una voz interior; amenaza de usar Imperius/Obliviate. Sin contenido sexual explícito.
 
 ### 6. Rarezas y contradicciones
-- **Qué falta para entenderlo:** Falta lo que Draco quiere decir. El 62 empieza ya en el despacho de Dumbledore y no lo recoge.
-- Con el canon: aquí la serpiente recorre el Ministerio hacia una puerta.
-- Dentro del original: dice «a few days now» y luego «for weeks». Ambiguo.
-- Dumbledore «viaja» el fin de semana; no se aclara adónde.
+- El texto llama a Draco «ten-year-old» y «first-year»; la edad de 11 años (septiembre de primero) no cuadra con los diez.
+- Harry cree que Lucius colocó el diario en el caldero de Ginny «cobardemente»: se sabe por el canon (no por pruebas).
+- Harry dice «I've been having this dream for a few days» y «for weeks»: inconsistencia leve.
+- Harry dice que Dumbledore está a punto de irse de viaje el fin de semana y que ha mencionado «another lead» sobre algo (los Horcruxes, según el 62).
 
 ---
 
-## Coreano 62 — Gaunt's Ring (El anillo de Gaunt)
+## Ko-62 — «Gaunt's Ring»
 
 ### 1. Punto de vista y momento
-Harry, despacho de Dumbledore. Sábado, el mismo día que el 61 (octubre de 1995).
-**Texto parcial:** empieza en mitad de la conversación con Dumbledore («Harry. I have good news and bad news...»); acaba con Dumbledore diciendo «Harry.» tras el estallido de Harry.
+Harry. Mismo sábado de septiembre y la semana siguiente (víspera del partido Gryffindor–Slytherin).
 
 ### 2. Escenas
-**1. Buenas y malas noticias.** Buena: **han destruido otro Horrocrux**, el anillo de Gaunt, aniquilado con la Espada de Gryffindor. Dumbledore explica los orígenes de Tom Riddle: madre Merope Gaunt (sangre pura, pobre, descendiente directa de Slytherin) y padre Tom Riddle padre (muggle rico). Creció en un orfanato. El anillo, antes hermoso, es ahora una ruina.
-
-**2. La mala.** El anillo no es un objeto de uno de los fundadores de Hogwarts, sino una reliquia familiar de los Gaunt anterior a Hogwarts. Del fundador solo ha aparecido el relicario de Slytherin. Harry deduce que **cualquier objeto puede ser Horrocrux** y que puede haber muchos más de lo previsto, además de que aún no han hallado el de Ravenclaw.
-
-**3. Quiebra de Harry.** Dumbledore busca a un amigo que fue profesor en tiempos de Riddle y sabrá más sobre los Horrocruxes. Harry estalla: tantos Horrocruxes, el Ministerio obstruyéndolo todo, Umbridge devorándole con la mirada, un colegio donde apenas aprende. Pide dejar el colegio; Dumbledore se niega. Harry grita que se supone que los adultos pelean, pero los mortífagos mandan a sus hijos a las manos de Dumbledore mientras conspiran en todos los frentes, y que Umbridge ahora tiene a Luna castigada por ser hija del editor de *El Quisquilloso*. Dumbledore intenta calmarle («Harry.»; el texto acaba).
+**1. Despacho de Dumbledore.** Buenas noticias: han hallado y destruido otro Horcrux, el anillo de los Gaunt, con la Espada de Gryffindor. Malas: no era reliquia de un fundador, así que puede haber más Horcruxes de lo previsto. Dumbledore busca a un antiguo profesor, amigo suyo, que enseñó en tiempos de Riddle (no se nombra). Harry estalla: quiere dejar la escuela, repasa la presión de Umbridge, de los Mortífagos y de Luna castigada. Describe su sueño y pregunta qué hay bajo el Ministerio; Dumbledore responde que no puede decírselo aún y que, cuando domine la Oclumancia con Snape, se lo contará. Harry deduce que Dumbledore todavía no le ha contado la profecía.
+**2. Entrenamiento de Quidditch.** Ron, Guardián, se hunde (paró 1 de 17 tiros); Angelina le amenaza con un espantapájaros. Harry, harto, le suelta: «I'm not your mother». Ron se queda sentado en la escoba. Harry se arrepiente pero no se disculpa. Se promete atrapar la snitch antes que Carina.
 
 ### 3. Frases clave
-- «We have found a new Horcrux.» (Dumbledore.)
-- Paráfrasis: el anillo no era artefacto de un fundador, de modo que el número de Horrocruxes puede crecer.
-- «Professor Dumbledore. I'm withdrawing from school.» (Harry.)
-- Paráfrasis: «enduring, and enduring», sigue aguantando mientras los demás hacen lo que quieren.
+- Dumbledore: otro Horcrux destruido, pero no es objeto de un fundador.
+- Harry: «I'm withdrawing from school.»
+- Harry: «Is what you're trying to teach me submission to injustice?»
+- Dumbledore: «I cannot tell you. Not yet.»
+- Harry a Ron: «Stop whining at me, Ron. I'm not your mother.»
 
 ### 4. Qué revela o cambia
-- **Horrocruxes:** destruidos hasta ahora el diario (segundo curso) y el anillo de Gaunt; localizado el relicario de Slytherin; falta el de Ravenclaw y puede haber más de siete objetos, no solo reliquias de fundadores.
-- Dumbledore busca a un exprofesor (sin nombre en el texto) que sabe de Horrocruxes.
-- Harry rompe emocionalmente: agotamiento, rabia con Umbridge y el Ministerio; menciona a Luna castigada.
-- «Death Eaters send their own children into Dumbledore's hands»: Harry ve a los hijos de mortífagos como peones o rehenes (se refiere a Carina/Draco o a Slytherin; no se concreta).
+- Se destruye el anillo (segundo Horcrux conocido destruido, tras el diario); la cifra total de Horcruxes se abre.
+- Harry empieza Oclumancia con Snape.
+- Fricción Harry-Ron; Ron como Guardián.
+- Harry sospecha que Dumbledore calla la profecía por miedo a que Harry se enorgullezca.
 
 ### 5. Contenido delicado
-Ninguno sexual. Pensamiento de ruptura emocional, amenaza humorística a Umbridge («atarla a una escoba y enviarla a la luna»).
+Agotamiento y rabia de un menor de 15; sin contenido sexual.
 
 ### 6. Rarezas y contradicciones
-- **Qué falta para entenderlo:** Falta cómo llegó Harry al despacho y qué pasó con Draco (inferido de ko-61 que fue antes). Falta la respuesta de Dumbledore al arrebato. El texto no nombra al exprofesor que Dumbledore busca.
-- Con el canon: el anillo de Gaunt es Horrocrux en el canon (en el canon Dumbledore lo destruye antes del sexto libro). Aquí lo destruye en otoño de 1995; el texto no menciona ninguna maldición en la mano de Dumbledore.
-- Dumbledore dice que ya le ha contado a Harry «something of Tom Riddle's origins»; en el canon eso ocurre en el sexto libro.
-- El «amigo» exprofesor se corresponde con Slughorn por el canon; el texto no lo nombra.
+- Dumbledore destruye el anillo con la Espada de Gryffindor ya en otoño de 1995 (en el canon, verano de 1996); no se menciona la maldición ni la mano herida del canon.
+- El ko-49 (anterior) decía que Dumbledore ya había hablado de la profecía; aquí Harry se pregunta si todavía no se la ha contado.
+- Harry dice que en el sueño ve «the underground corridor I saw when I was brought to the courtroom»: coincide con el canon (Departamento de Misterios, nivel 9, visto en el juicio de agosto de 1995).
 
 ---
 
-## Coreano 63 — Hogwarts Inspector (El Inspector de Hogwarts)
+## Ko-63 — «Hogwarts Inspector»
 
 ### 1. Punto de vista y momento
-Harry. Partido de Quidditch Gryffindor-Slytherin (otoño de 1995, sin fecha; probablemente noviembre).
-**Texto parcial:** empieza antes del partido, con el equipo de Gryffindor saliendo al campo; acaba con Harry de espaldas a Carina mientras la voz de ella le llega igualmente.
+Harry, luego Carina. Un sábado de otoño de 1995 (partido Gryffindor–Slytherin; sin fecha concreta, tras la semana anterior).
 
 ### 2. Escenas
-**1. Antes del partido.** El equipo de Gryffindor sale con la estrategia tácita de acabar antes de que Ron deje entrar otro gol. Harry y Ron no han intercambiado palabra. Harry evita mirar a nadie «como un basilisco», teme herir a quien mire. Carina, Buscadora de Slytherin, le espera frente a él.
-
-**2. El partido.** Harry (primera vez con la Firebolt) no encuentra la snitch por falta de práctica. Montague le provoca. Cada «Weasley is our King!» marca un gol a Ron. Slytherin lidera 120-40. Harry siente un impulso violento: tirar a todos de la escoba con un hechizo, pisotearlos «como hojas». Ve la snitch junto a la oreja de Montague y vuela a por ella sin fintar. Carina le sigue; ambos con Firebolts (la de Harry algo más lenta desde que cayó al lago en el Torneo). Ella le pasa la mano; Harry siente la tentación de empujarla y, en lugar de eso, **le roza el dorso de la mano** y la desvía lo justo. Atrapa la snitch. Marcador final: Gryffindor 210, Slytherin 180. Ron ha encajado 18 goles.
-
-**3. Después.** Carina aterriza junto a Ron y Harry: felicita con desprecio a Ron, diciendo que ha ganado por colgarse de Harry y de sus hermanos gemelos. Harry se interpone («Ron. You played well enough») y le da la espalda a Carina para calmar a Ron, pero ella sigue hablando. (El texto acaba.)
+**1. Partido.** Ron y Harry sin hablarse. Harry, con su Saeta de Fuego algo más lenta desde que cayó al lago, busca la snitch. Los Slytherin cantan «Weasley is our King»; Montague le provoca. Harry fantasea con tirarlos de la escoba (impulso extraño). Ve la snitch cerca de Montague; en la carrera, roza a Carina y se la lleva. Gryffindor gana 210 a 180.
+**2. Después.** Carina humilla a Ron («té infusionado demasiadas veces», «hijos no planeados», «traidores a la sangre»). Los gemelos casi se abalanzan; la voz interior le dice a Harry que la muerda. Harry, a punto de agarrarla por el cuello, le da una bofetada. Madam Hooch lo envía a McGonagall. Harry intuye que Carina quería que le pegasen y que prefería que fuera él antes que los gemelos. La voz interior le parece ajena.
+**3. Decreto n.º 25.** Texto: Umbridge es nombrada Gran Inquisidora de Hogwarts, con derecho a inspeccionar y despedir profesores y modificar castigos.
+**4. Umbridge y Carina.** Umbridge, agradecida, le dice que gracias a las quejas de Lucius ha ganado esta autoridad. Carina muestra la marca roja de la bofetada. Revela (al lector) que provocó a los Weasley para dar a su padre un pretexto para ir al Ministerio e investigar el Departamento de Misterios. Murmura: «That hurt, you idiot».
 
 ### 3. Frases clave
-- «Weasley is our King!» (Slytherin, cantando.)
-- Paráfrasis: Harry se plantea empujarla y la roza apenas; su dolor es ver a su mejor amigo y a la persona que más quiere destrozarse.
-- «Ron. You played well enough.» (Harry.)
+- Carina a Ron: «tea that's been steeped too many times».
+- Harry sobre la voz: «You're not me, are you?»
+- Harry: «Shut your mouth, Malfoy.» (tras la bofetada.)
+- Carina: «It served my interests as well.»
+- Decreto 25: Umbridge nombrada Gran Inquisidora.
 
 ### 4. Qué revela o cambia
-- Primer partido con la Firebolt; Slytherin ya tiene a Carina de Buscadora.
-- Harry experimenta impulsos violentos que no se explican (agotamiento, ira, ¿influencia de Voldemort?).
-- Tensión directa Carina-Ron-Harry; sirve de antesala del golpe del 64.
-- Gryffindor gana por los pelos.
+- Umbridge gana poder oficial; Carina es su cómplice voluntaria.
+- La bofetada es parte de un plan de Carina para ayudar a Lucius (misión en el Departamento de Misterios).
+- Harry intuye que Carina buscaba la bofetada y percibe una influencia ajena en su mente.
+- Primera bofetada de Harry a Carina; ella la planeó.
 
 ### 5. Contenido delicado
-Pensamientos de violencia contra menores (empujar a alguien de la escoba) que Harry resiste. Sin contenido sexual.
+Bofetada de un chico a una chica (ambos 15). Insultos de pureza de sangre. Impulso violento (estrangular, morder) sugerido por la voz interior, con sexualización leve («most beautiful doll»).
 
 ### 6. Rarezas y contradicciones
-- **Qué falta para entenderlo:** Falta el final de la discusión y la pelea de la que habla el 64 (Harry golpea a Carina, según ko-64; no se ve). Tampoco se ve el motivo de la sanción a los gemelos. El título del capítulo («Hogwarts Inspector») no tiene reflejo en este fragmento.
-- Con el canon: en el libro el Buscador de Slytherin es Draco; aquí lo es Carina. El cántico «Weasley is our King» sí es canon. La Firebolt de Harry «cayó al lago en el Torneo» (no es canon).
+- Marcador 210–180: alto, pero compatible con el partido de Quidditch descrito.
+- Tras la bofetada, nadie castiga a Harry con puntos o suspensión inmediata, pero en el 64 pierde la titularidad.
+- Harry nota que el Firebolt ha perdido velocidad desde el lago (referencia al Torneo).
 
 ---
 
-## Coreano 64 — Dumbledore's Army (El Ejército de Dumbledore)
+## Ko-64 — «Dumbledore's Army»
 
 ### 1. Punto de vista y momento
-Cedric Diggory. Otoño de 1995, tras el partido.
-**Texto parcial:** empieza con Cedric llamando a la puerta de Umbridge; acaba con los vítores de la mayoría de Gryffindor, Hufflepuff y algunos Ravenclaw al anuncio de Cedric.
+Cedric (primera parte), Harry (resto). Otoño de 1995, tras el partido (semanas de octubre).
 
 ### 2. Escenas
-**1. Cedric en el despacho de Umbridge.** Cedric, Head Boy, va a protestar porque Umbridge ha **retirado a Harry y a los gemelos Weasley del Quidditch**. Debe saludarla primero (ella exige formas). Pide que reconsidere: Harry se equivocó al golpear a Miss Malfoy, pero castigar a tres jugadores equivale a quitar la temporada a Gryffindor. Umbridge lo lleva al Torneo: Cedric dice que las condiciones eran contra Harry, que Karkaroff le asignó las pruebas más duras y que Moody pensó que un Confundus en el Cáliz había metido su nombre. Umbridge: el Ministerio cerró la investigación, y su opinión es un desafío a la autoridad ministerial y a ella como Gran Inquisidora. Dice que Harry es un niño problemático, con fama subida a la cabeza, que tramposo cruzó la Línea de Edad y que inventó un villano. Pide a Cedric que, como Head Boy, discipline a Harry; le insinúa que el Ministerio le conviene. Cedric comprende que le pide perseguir a Harry y sale furioso.
-
-**2. La decisión.** Cedric va a ver a Harry y le dice que no logró convencerla. Harry: «Everyone already knows Umbridge is a deaf toad.» Cedric decide: su deber es con los estudiantes, no con las reglas ni la escuela. Anuncia a Harry y al grupo (muchos de Gryffindor y Hufflepuff y algunos de Ravenclaw) que **autoriza la formación del grupo de estudio de Defensa: el Ejército de Dumbledore**, y que se une él mismo. Estallan los vítores.
+**1. Cedric ante Umbridge.** Cedric, Head Boy, pide que revoque la prohibición a Harry y a los gemelos Weasley de jugar al Quidditch. Umbridge insinúa que Harry hizo trampa para entrar en el Torneo y le pide que castigue él mismo a sus compañeros. Cedric entiende que ella le pide ayudar a perseguir a Harry y se va.
+**2. Creación del E.D.** Cedric anuncia a Harry y a un grupo de alumnos que autoriza y se une a un grupo de estudio de Defensa: el Ejército de Dumbledore. Harry reparte galeones encantados (obra de Hermione) que avisan de las reuniones. Marietta Edgecombe pregunta si necesitan permiso de Umbridge. Harry piensa que Cedric es bondadoso y manipulable («quite the bargain»).
+**3. Draco ataca por la espalda.** Draco le lanza un Tarantallegra, Harry lo desarma, y Draco le recrimina haber pegado a su hermana. Harry le da un galeón: «cuando se caliente, ven a la fecha». De Draco se entera de que Lucius va todos los días al Ministerio a presentar quejas.
+**4. Con Hermione y Ron.** Hermione, furiosa por el galeón; Ron la calma. Harry deduce que las visitas de Lucius son el pretexto de Carina; pide a Ron que su padre investigue a Lucius.
 
 ### 3. Frases clave
-- «Harry was wrong to strike Miss Malfoy, I won't argue that.» (Cedric.)
-- Paráfrasis: Umbridge reprocha a Cedric que lo ocurrido sea fallo de su vigilancia como Head Boy.
-- «I'm authorising the formation of a Defence Against the Dark Arts study group—Dumbledore's Army.» (Cedric.)
+- Cedric: «I'm authorising the formation of a Defence Against the Dark Arts study group—Dumbledore's Army.»
+- Harry sobre el nombre: si algo sale mal, podrá invocar el nombre de Dumbledore.
+- Harry a Draco: «Never let your guard down.»
+- Harry: «Ask your father to look into Lucius Malfoy.» (dicho a Ron.)
+- Hermione: «I didn't sleep for days making those!»
 
 ### 4. Qué revela o cambia
-- Harry **golpeó a Carina** (hecho previo no mostrado); Umbridge expulsa del Quidditch a Harry y a los gemelos. Quedan sin temporada.
-- Cedric cambia de bando: de Hufflepuff leal al Ministerio a líder del movimiento estudiantil.
-- **Nace el Ejército de Dumbledore** (aquí autorizado por Cedric, no fundado por Hermione).
-- Umbridge declara a Harry un fraude: la versión del Torneo como trampa de Karkaroff es «ficción».
-- Cedric admite que el Torneo estaba amañado contra Harry.
+- Nace el E.D. con Cedric como aliado; Harry y los gemelos están sancionados en Quidditch.
+- Draco entra en contacto con el E.D. (galeón).
+- Harry sospecha de las visitas de Lucius al Ministerio.
+- Ron y Harry se reconcilian.
+- Revelación: Harry cedió deliberadamente la Copa a Cedric en el Torneo ("Yielding the Triwizard Cup had been the right call"), lo que explica la deuda que Cedric siente con él; ko-49 lo confirma.
 
 ### 5. Contenido delicado
-Ninguno sexual. Mención de que Harry golpeó a Carina (agresión entre menores, sin detalle).
+Hechizos entre menores (Tarantallegra, Stupefy casi lanzado a Draco). Manipulación de un menor por parte de Harry (usar la información de Draco).
 
 ### 6. Rarezas y contradicciones
-- **Qué falta para entenderlo:** Faltan los hechos que Cedric y Umbridge dan por sabidos: la pelea de Harry con Carina y la sanción a Harry y a los gemelos (inferido de ko-63 y del propio diálogo). No hay reunión del ED ni nombres de quién la compone más allá de «most of the Gryffindors and Hufflepuffs».
-- Con el canon: Cedric murió en el Torneo (canon); aquí vive. El ED lo funda Hermione con reuniones en el Cabeza de Puerco; aquí es Cedric. La prohibición del Quidditch a Harry y a los gemelos sí es canon (tras la pelea con Draco), aquí con Carina.
+- El texto dice que Harry «twirling the hawthorn wand»: se refiere a la varita de Draco (que es de espino).
+- Cedric actúa como «Student Body President» y «Head Boy» a la vez (el texto usa ambos términos).
+- Hermione dice que «Draco may run to Umbridge»: Harry dice que los niños de esa edad no se chivan.
 
 ---
 
-## Coreano 65 — Spy (Espía)
+## Ko-65 — «Spy»
 
 ### 1. Punto de vista y momento
-Carina. Otoño de 1995 (aprox. noviembre-diciembre).
-**Texto parcial:** empieza con el despido de Trelawney ya en marcha en el pasillo; acaba con la reflexión de Carina sobre por qué Umbridge no despidió a Hagrid.
+Carina (primera parte), Harry (resto). Otoño de 1995 (octubre–noviembre).
 
 ### 2. Escenas
-**1. El despido de Trelawney.** Umbridge crece en poder con decretos. Trelawney, en el pasillo con dos baúles tirados escaleras abajo, se queja de tiranía; Umbridge le anuncia su despido (pedido por ella como Gran Inquisidora y firmado por el Ministro). Se burla de que no haya previsto su despido.
-
-**2. Carina y Crabbe.** Carina reflexiona: despedir a un profesor era un paso inevitable para afianzar a Umbridge; había dos candidatos (Trelawney y Hagrid), y **Carina recomendó a Trelawney** porque es una embustera sin nada que enseñar, mientras que Hagrid a veces consigue algo valioso. Crabbe (él) objeta que quizá sea una vidente; Carina responde que, si un uno por ciento fuese verdad, Harry habría muerto quince veces. Crabbe le pregunta si le molesta que Trelawney profetizara la muerte de Potter, y Carina contesta, en voz alta, que preferiría que fuera real porque así Potter moriría pronto. Entonces visualiza a Harry muerto en el suelo, con sangre en la cicatriz, las gafas torcidas y la varita lejos. Siente náuseas. Piensa que si Voldemort gana es un futuro plausible. Murmura «It can't be helped... Better that he...» (debería morir) y no puede decirlo. Crabbe le pone una mano en el hombro.
-
-**3. Carina y Umbridge.** Gracias a la intervención de Dumbledore, Trelawney pierde la cátedra pero no es expulsada del castillo. Umbridge, furiosa, rabia ante Carina («un centauro y un semigigante»; Dumbledore convierte Hogwarts en un zoo). Carina reflexiona sobre Hagrid con matices y sonda a Umbridge: si Dumbledore no hubiera traído al centauro, ese puesto sería de alguien elegido por ella. El plan de Umbridge: despedir a quienes tengan motivos, hacer pública su incompetencia y colocar a gente aprobada por el Ministerio; por eso eligió a Trelawney antes que a Hagrid (con Grubbly-Plank como sustituta eficaz).
+**1. Despido de Trelawney.** Umbridge despide a la profesora Trelawney en el pasillo (con permiso del Ministro). Carina había recomendado despedir a Trelawney antes que a Hagrid. Crabbe protesta; Carina le dice que Trelawney no es vidente y piensa que sería mejor que Harry muriera por «profecía». Imagina brevemente a Harry muerto y siente náuseas.
+**2. Umbridge y Dumbledore.** Dumbledore evita que Trelawney sea expulsada del castillo; Umbridge está furiosa y se queja del centauro (Firenze) como nuevo profesor. Carina sonsaca que Umbridge pidió retener el traslado de Broderick Bode (empleado de la sección de profecías del Departamento de Misterios). Era la información que quería su padre.
+**3. Draco.** No está en la sala común. Carina decide escribir a su padre.
+**4. E.D.** Draco intenta emboscar a Harry con *Impedimenta*; Harry lo desarma. Hermione le enseña el *Protego*. Ron le dice a Harry que Lucius va casi cada día al Ministerio, probablemente al Departamento de Misterios. Harry recuerda el nivel nueve del Ministerio. Draco pregunta por qué golpeó a su hermana; Harry miente: «porque se creía por encima de todos».
 
 ### 3. Frases clave
-- «Tyranny!» (Trelawney, protestando.)
-- Paráfrasis: Carina cree que Trelawney como falsa vidente es peor que un reloj parado que acierta dos veces al día.
-- Paráfrasis: Carina dice que desearía que la profecía de la muerte de Potter fuera real, pero la imagen de su cuerpo la descompone.
-- Paráfrasis: Carina recomienda despedir a Trelawney para dar a Umbridge poder y salvar a Hagrid.
+- Carina: «What's too harsh is your brain.» (a Crabbe.)
+- Carina sobre Umbridge: «Incompetent, and yet far too useful.»
+- Harry: «It might stop me when I go after your sister.»
+- Harry sobre Lucius: «Barring something truly extraordinary, Azkaban awaited him.»
+- Narración: Draco es un niño que ha crecido querido y se mueve por el mundo como si nada pudiera pararlo.
 
 ### 4. Qué revela o cambia
-- **Carina es instrumento de Umbridge** en Hogwarts, pero lo hace con intención: elegir qué profesor despedir para minimizar el daño (influye en la decisión).
-- Trelawney destituida (cesa de ser profesora, no se la expulsa); llegada de un centauro como nuevo profesor (el texto no dice cuál ni de qué asignatura).
-- Carina todavía quiere a Harry: el solo pensar en su muerte la descompone. «Months since they'd parted».
-- Crabbe ve a Carina mejor de lo que ella admite.
+- Carina obtiene el nombre de Bode (clave para su padre).
+- Umbridge refuerza su control destituyendo profesores.
+- Draco se integra en el E.D. sin que Carina lo sepa.
+- Harry empieza a temer qué pasará con Carina y Draco si derrota a Lucius.
 
 ### 5. Contenido delicado
-Imagen de muerte violenta de Harry en la mente de Carina (adolescente; visión breve). Vocabulario discriminatorio de Umbridge hacia centauros y mestizos.
+Visión de Harry muerto en el suelo (imagen sangrienta). Draco (10) en un grupo de entrenamiento con menores. Nada sexual.
 
 ### 6. Rarezas y contradicciones
-- **Qué falta para entenderlo:** Falta la intervención de Dumbledore, que solo se menciona de pasada. El centauro que llega como profesor no se nombra ni se dice qué enseña (inferido del canon, no del texto). La escena con Umbridge salta sin transición de la del pasillo.
-- Con el canon: Umbridge despide a Trelawney y Dumbledore la deja vivir en el castillo; aquí además Carina aconsejó a quién despedir.
-- Dentro del original: Carina dice «desearía que fuera una vidente de verdad» con ironía, pero se descompone; se desdice de su máscara en cuanto piensa. La mezcla de máscara y afecto es la tensión del personaje.
-- «Crabbe» es chico en el original.
+- Crabbe aparece con pronombres masculinos («he», «him»), pero en el 53 era «she».
+- Trelawney es despedida en una fecha sin precisar (en el canon, en diciembre).
+- Firenze sustituye a Trelawney (canon).
+- Draco, «ten-year-old», vuelve a figurar como diez años.
+- Broderick Bode es un empleado del Departamento de Misterios (canon: Inefable que muere en San Mungo por el Lazo del Diablo tras ser puesto bajo Imperius por Lucius); aquí Carina da su nombre a Lucius sin saber qué le hará.
 
 ---
 
-## Coreano 66 — Invalid (Nulo)
+## Ko-66 — «Invalid» (Nulo)
 
 ### 1. Punto de vista y momento
-Narrador, centrado en Cedric. Otoño-invierno de 1995.
-**Texto parcial:** empieza con el listado de los Decretos 26 y 27; acaba con Dumbledore diciéndole a Umbridge que busque otra vía.
+Narrador omnisciente (Cedric, Carina brevemente, Harry). Otoño de 1995 (noviembre).
 
 ### 2. Escenas
-**1. Los decretos.** Decreto Educativo nº 26: ningún profesor puede tratar temas fuera del programa en clase. Nº 27: prohibidos los grupos, equipos, sociedades o clubes no autorizados; solo la Gran Inquisidora puede autorizarlos y quien participe sin permiso puede ser expulsado.
-
-**2. Cedric y Cho.** Cedric, indignado («presidente del cuerpo estudiantil»), quiere protestar formalmente. Cho Chang, su novia, le sujeta por la mano y le ruega que no desafíe a Umbridge, que podría arruinarle el futuro. Cedric deja de abrazarla, aprieta el puño y dice: «I'm the student body president.» Un «tsk» agudo suena cerca.
-
-**3. La protesta.** A la mañana siguiente, en el Gran Comedor, Cedric lleva un cartel, lo planta en el centro y lo hechiza: «THE EDUCATIONAL DECREES ARE ANTI-EDUCATIONAL!» y luego «EDUCATIONAL DECREE NUMBER TWENTY-SEVEN IS NULL AND VOID!». Umbridge, temblando, ordena que lo detengan. **Harry** salta a la mesa gritando «Null and void!»; Fred y George lanzan fuegos artificiales; Gryffindor y Hufflepuff corean. Dumbledore, sereno: ningún decreto prohíbe el ruido en el desayuno ni lo hacen las reglas de Hogwarts.
+**1. Decretos 26 y 27.** Prohíben temas fuera del currículo y toda sociedad, equipo o club sin autorización de la Gran Inquisidora (puede expulsar a los infractores).
+**2. Cedric y Cho.** Cedric decide protestar; Cho Chang (su novia) intenta frenarlo.
+**3. Protesta en el Gran Comedor.** Cedric, con una pancarta mágica, proclama que los decretos son «anti-educativos» y que el decreto 27 es «nulo». Harry salta sobre una mesa a corear «null and void»; los gemelos lanzan fuegos artificiales. Umbridge le impone detención a las seis. Dumbledore la inmoviliza con un gesto; Umbridge huye entre risas. Draco grita «null and void» sin darse cuenta; Carina le tapa la boca.
+**4. Cuartel de Gryffindor.** Los gemelos juran lealtad a Cedric («Diggory's Arm»). Harry explica a Ron lo que es una manifestación muggle. Surge la idea de los Howlers.
 
 ### 3. Frases clave
-- Paráfrasis: los clubs son un derecho del estudiante, ni el Ministerio puede quitarlo.
-- «THE EDUCATIONAL DECREES ARE ANTI-EDUCATIONAL!» (cartel de Cedric.)
-- «Null and void! Null and void! Null and void!» (Harry.)
-- Paráfrasis (Dumbledore): ningún decreto prohíbe hacer ruido en el desayuno.
+- Cedric: «The formation and operation of clubs… is a student's right!»
+- Pancarta: «The Educational Decrees are anti-educational!»
+- Dumbledore: no hay decreto que prohíba hacer ruido durante el desayuno.
+- Draco: «Wait—are we not doing this?»
+- Fred y George: «Cowards' Lounge.»
 
 ### 4. Qué revela o cambia
-- Cedric se convierte en cara visible de la protesta. Umbridge pierde el control de la sala por unos minutos.
-- Cedric y Cho, pareja oficial.
-- Dumbledore apoya implícitamente.
-- Es el primer gran gesto colectivo contra Umbridge.
+- Cedric se convierte en símbolo de resistencia pacífica.
+- Dumbledore interviene físicamente por primera vez contra Umbridge.
+- Harry propone el método muggle de protesta.
 
 ### 5. Contenido delicado
-Ninguno.
+Nada sexual. Umbridge intenta lanzar una maldición a estudiantes; Dumbledore lo impide.
 
 ### 6. Rarezas y contradicciones
-- **Qué falta para entenderlo:** Faltan la reacción posterior de Umbridge y cualquier sanción a Cedric (el 67 empieza con él ya castigado). No se ve el origen de los decretos.
-- Con el canon: la numeración de los decretos no parece coincidir (en el canon el 26 es el de los profesores, y el de las asociaciones lleva otro número). Cedric muerto en el canon.
-- Dentro del original: Cedric es «Head Boy» en el 56, 64 y 67, y «President of the Hogwarts Student Body» / «student body president» en este capítulo. Es una discrepancia terminológica (Head Boy ≠ presidente estudiantil).
-- Sprout, Snape y McGonagall reaccionan con orgullo o indiferencia.
+- Cedric es descrito como «student body president», no «Head Boy», en parte del capítulo.
+- Dumbledore inmoviliza a Umbridge «sin varita» (el texto dice que «touched his wand»).
+- Cho y Cedric son pareja (en el canon, Cho sale con Cedric antes de su muerte).
+- La numeración de los decretos (25, 26, 27, 28) puede no coincidir con la del canon; no lo he verificado.
 
 ---
 
-## Coreano 67 — Article 28 Of The Education Act (Artículo 28 de la Ley de Educación)
+## Ko-67 — «Article 28 Of The Education Act»
 
 ### 1. Punto de vista y momento
-Narrador omnisciente (Cedric, Carina, Harry). Invierno de 1995-96 (aprox.).
-**Texto parcial:** empieza con Cedric ya castigado con la pluma («the next morning»); acaba con Draco retrocediendo ante la sala del ED y la frase «No. You're not.».
+Narrador omnisciente (Cedric, Carina, Harry). Principios de noviembre de 1995 (días después del 66).
 
 ### 2. Escenas
-**1. La protesta continúa.** Cedric recibe un castigo con la pluma («I will respect my professors») y vuelve igual al Gran Comedor. Umbridge deja de ir a desayunar. Los alumnos lo imitan: Seamus pregunta sobre «counter-spells» del libro de texto y se llevará cicatriz en la mano. La palabra «counter» se hace bandera. Umbridge cede.
-
-**2. El Decreto nº 28.** Filch cuelga el decreto: la Gran Inquisidora puede conceder o retirar privilegios a los alumnos y delegar poder de castigo. **Cedric queda destituido como Head Boy**, y se crea una **Brigada Inquisitorial** temporal.
-
-**3. Carina.** Se abre paso entre la multitud con su insignia de prefecta y una pequeña «T» plateada (probable errata por «I»). Detrás, Pansy, Montague y otros de Slytherin. Resta cinco puntos a varios alumnos por «cuestionar directrices del Ministerio». Los relojes de arena de Gryffindor, Hufflepuff y Ravenclaw están casi vacíos, con la arena subiendo; el de Slytherin está intacto.
-
-**4. El ED en la Sala de los Menesteres.** Ernie Macmillan se queja: Hufflepuff tenía a su primer Head Boy en ocho años y lideraba los puntos; con Harry sin Buscador, Hufflepuff veía mejorar sus opciones de Copa. Discuten entre sí (¿han presionado demasiado? ¿Por qué pelean contra Umbridge si esto es un grupo de estudio?). Harry no puede intervenir él mismo y busca con la Galleon encantada a alguien más. **Draco** salta: Slytherin usa a Umbridge, no al revés. Zacharias Smith le acusa de culpar a Carina por la caída de Cedric. Draco responde que ellos se la buscaron. Los ojos fríos de la sala se vuelven contra él; Draco retrocede. «No. You're not [wrong].» (El texto acaba aquí.)
+**1. Castigo a Cedric.** Cedric sigue con su pancarta; Umbridge le graba en la mano «I will respect my professors». Seamus y otros alumnos desafían a Umbridge repitiendo la palabra «counter». Umbridge cede y deja de ir al desayuno. Se publica el Decreto 28: privilegios y un Escuadrón Inquisitorial; Cedric pierde su cargo de Head Boy.
+**2. Carina y el Escuadrón.** Carina (insignia «T» plateada) anuncia que ella, Pansy, Montague y otros Slytherin tienen autoridad para quitar puntos. Resta puntos a quienes protestan. Los relojes de arena de las tres casas casi se vacían.
+**3. Reunión del E.D. (Sala de Menesteres).** Discusiones entre alumnos; Draco responde a un insulto de Zacharias Smith; Harry le da la razón por la verdad y lo calma; Cedric entra y recompone al grupo. Ginny acompaña a Draco a Slytherin (Harry le debe una Cerveza de Mantequilla). Cho llora y pide a Cedric que pare.
+**4. Pasillo del séptimo piso.** Carina interroga a Harry; este adivina que busca a Draco. Carina le pone la varita en el plexo. Harry le propone cuidar de Draco a cambio de un «pequeño favor», le pone una mano en el hombro y con la otra toca y gira la insignia «T» sobre su pecho; ella le aparta la mano de un golpe y le hunde la varita en el plexo. Luego Harry la abraza por detrás y apoya la nariz en su pelo; ella lo acepta durante diez minutos, «por Draco».
 
 ### 3. Frases clave
-- Paráfrasis: «Educational Decree No. 28» concede a la Gran Inquisidora el poder de retirar privilegios a los alumnos.
-- «Actually, she can.» (Carina.)
-- Paráfrasis: la verdad, a veces, aviva la ira que describe.
-- «Take that back!» (Draco.)
+- Cedric: «If I stop here, I'm just a dog that tucked its tail and ran.»
+- Carina a los alumnos: «As of now, I can. We're the Inquisitorial Squad.»
+- Draco: «Slytherin… is using her—not the other way around!»
+- Carina: «Don't flatter yourself, Harry Potter.»
+- Harry: «Just borrowing your back for a moment.»
 
 ### 4. Qué revela o cambia
-- Cedric pierde el cargo de Head Boy; **la Brigada Inquisitorial** (Carina, Pansy, Montague y más) lo reemplaza.
-- Los puntos de las tres casas no-Slytherin caen drásticamente.
-- **Draco aparece en una reunión del ED** (sin explicar cómo ni por qué está allí; ver 72).
-- La unión de las casas está en crisis; el ED se divide.
+- Nace el Escuadrón Inquisitorial; Carina lo lidera.
+- Cedric pierde el título pero sigue siendo líder moral.
+- Draco queda más integrado en el E.D. y más vulnerable.
+- La relación Harry–Carina mantiene tensión física y afecto.
 
 ### 5. Contenido delicado
-Castigos con pluma a menores (Cedric, Seamus). Sin contenido sexual.
+Tortura de Cedric (pluma de sangre). Contacto físico entre menores: Harry toca la insignia sobre su pecho (gesto invasivo, ella reacciona con violencia), la abraza por detrás y hunde la nariz en su pelo.
 
 ### 6. Rarezas y contradicciones
-- **Qué falta para entenderlo:** Falta cómo termina la discusión del ED y quién interviene (Harry «llama a alguien» con una Galleon; no se ve a quién). No se explica por qué Draco, de la Brigada según el 72, asiste a una reunión del ED.
-- Con el canon: la Brigada Inquisitorial existe en el libro, con Draco, Pansy, Crabbe, Goyle y Montague, entre otros; aquí está Carina. Cedric muerto en el canon.
-- Dentro del original: Draco es primer año, pero asiste a reuniones del ED (clandestinas, con gente de otras casas). El 72 dirá que además pertenece a la Brigada. La contradicción queda sin explicar en estos capítulos. «T» probablemente errata.
+- Carina dice de Draco «He's only ten», edad que no concuerda con 11 años ni con el «only four years» de diferencia del 56.
+- «Hufflepuff’s first Head Boy in eight years» (en el canon Cedric no llega a ser Head Boy).
+- Carina sostiene la varita en una funda en el muslo (detalle no canónico).
 
 ---
 
-## Coreano 68 — Digory's Arm (El Brazo de Diggory)
+## Ko-68 — «Digory's Arm» (en el cuerpo: «Diggory's Arm»)
 
 ### 1. Punto de vista y momento
-Narrador, luego Carina. Invierno de 1995-96.
-**Texto parcial:** empieza con la presentación del grupo «Diggory's Arm» y la imprenta; acaba con Carina preguntando a Draco qué le ha pasado.
+Narrador omnisciente (Fred/George, Carina, Harry). Noviembre de 1995 (poco antes de la fuga de Azkaban).
 
 ### 2. Escenas
-**1. La imprenta de Howlers.** Dentro del ED hay un grupo secreto, el **«Brazo de Diggory»**, dirigido por Fred y George: Hufflepuff aplicados, Gryffindor audaces y Ravenclaw peculiares. Objetivo: una **imprenta de Howlers** en la Sala de los Menesteres. Neville maneja la prensa; Luna, hija del editor del *Quisquilloso*, sabe de imprenta y le habla de los «tromkacks» (insectos negros que se comen la tinta y cambian las palabras). Fred y George encantan los Howlers (con explosiones, hedor, música), Lee Jordan los empaqueta. Cientos de Howlers para el Ministerio, salvo el Departamento de Mal Uso de Objetos Muggles, donde trabaja el señor Weasley. Se llaman a Umbridge «la gran bomba fétida».
-
-**2. Carina.** Piensa que le conviene que Umbridge y Fudge sigan en el poder: mientras los incrédulos manden, los preparativos contra Voldemort se retrasan, y necesita aliados en el Ministerio para la **operación encubierta de su padre en el Departamento de Misterios**. Su trabajo en la Brigada es «una necesidad», aunque admite que ejercer poder prestado es agradable. Resta puntos a un Hufflepuff pillado con un rascador de pegatinas junto al tablón de anuncios. «Umbridge's dog», le espeta él. Carina piensa que si Voldemort reina, ella reinaría en Hogwarts, siempre que su padre ejecute bien su parte.
-
-**3. Draco.** Corre por el pasillo y se lanza a abrazar a Carina por propia iniciativa, algo inaudito. Ella le pregunta quién le molesta; él calla, pero no lo niega. (El texto acaba.)
+**1. La imprenta de Howlers.** En la Sala de Menesteres, Fred, George, Neville, Luna y Lee Jordan operan una imprenta que fabrica miles de Howlers contra el Ministerio. Luna avisa a Neville de los «Tromkacks».
+**2. Carina.** Cumple el papel de inquisidora y quita puntos a un alumno de Hufflepuff. Draco se lanza a abrazarla (algo inusual): le duele que la llamen «perro de Umbridge». Ella lo tranquiliza. Su padre le envía una nota: el *Profeta* del día siguiente anunciará una fuga masiva de Azkaban (los dementores han pasado a Voldemort); entre los fugados está su tía Bellatrix.
+**3. Howlers.** Llegan a los funcionarios del Ministerio; el Ministro rechaza la correspondencia de Hogwarts; los remitentes enrutan por Hogsmeade. Corre el rumor de que Karkaroff intenta resucitar a Quien-no-debe-ser-nombrado.
+**4. Oclumancia.** Harry sueña que «él estaba contento». En el despacho de Snape, enumera a los fugados (Bellatrix, Rodolphus, Dolohov). Snape lo ataca con Legilimens: hurga en recuerdos de Carina. Harry rechaza el ataque y ve un recuerdo de Snape: un niño torpe en una escoba y una niña pelirroja que ríe con ternura. Snape le pregunta si podrá amar a Carina «siempre», pese a todo. Harry responde que sí. Piensa en cómo habría actuado sin Voldemort.
 
 ### 3. Frases clave
-- «Tromkacks.» (Luna.)
-- Paráfrasis: los gemelos tratan la imprenta como venganza contra el Ministerio.
-- Paráfrasis: para Carina, que Umbridge y Fudge sigan es una ventaja táctica.
-- Paráfrasis: a Carina le gusta ejercer poder prestado.
+- Narrador: la imprenta de Howlers era algo que haría «slap his own forehead» a Gutenberg.
+- Luna: «It's the Tromkacks.»
+- Carina a Draco: «I am not so weak that a little brat like you needs to fret on my behalf.»
+- Harry a Snape: «So even Professor Snape had a first love.»
+- Snape: «Can you love her, no matter what happens?»
 
 ### 4. Qué revela o cambia
-- **Lucius tiene una operación para registrar el Departamento de Misterios**, y Carina tiene que cultivar aliados ministeriales.
-- Carina se plantea reinar en Hogwarts si Voldemort triunfa (¿sinceridad o máscara?).
-- El Brazo de Diggory: tropa subversiva de los gemelos; colaboran Neville y Luna.
-- **Draco acude a Carina por primera vez** (consecuencia del 67).
+- La fuga de Azkaban marca el pase de los dementores a Voldemort.
+- Harry avanza en Oclumancia y descubre el amor de Snape por una pelirroja de Gryffindor.
+- Carina conoce la fuga de antemano por una nota de su padre; Harry la deduce de su sueño.
+- Snape hace a Harry una pregunta personal sobre Carina.
 
 ### 5. Contenido delicado
-Ninguno sexual. Menciones de descuento de puntos y prejuicios.
+Fantasía de Harry sobre Carina y una bañera «with rainbow-coloured bubbles», aludiendo a algo ya sucedido; tono sugerente entre menores de 15 (Harry piensa que «no se habría contenido»). Legilimancia como intrusión en recuerdos íntimos. No hay escena explícita.
 
 ### 6. Rarezas y contradicciones
-- **Qué falta para entenderlo:** Falta lo que le ha pasado a Draco (inferido de ko-67: la discusión en el ED, que el texto no confirma). Falta el resultado de la ofensiva de Howlers (el 69 solo dice que tuvo «considerable éxito»).
-- «Tromkacks» es término de la oficial; recuerda a las criaturas inventadas de Luna en el canon.
-- La narración presenta a Carina como instrumento de Lucius y a la vez parece inclinarse por «reinar»; el resto de capítulos (65, 71) muestra conflicto. No se aclara cuánto hay de pose.
-- «Digory» (título) frente a «Diggory» (texto); errata de traducción.
+- El título en inglés dice «Digory's Arm» (error ortográfico); el cuerpo dice «Diggory's Arm».
+- Bellatrix «hasta hace poco en Azkaban», pero el 73 dice que «continued her activities after Voldemort's disappearance» (confuso).
+- El aviso de Lucius a Carina de la fuga indica que Voldemort ya domina a los dementores.
+- Harry no dice quién es la pelirroja; no la identifica con su madre en estos capítulos (en el extra ko-26 Dumbledore ya hablaba de la deuda de Snape con Lily y James).
+- Snape dice que Harry es «the worst student I have ever had», y que no quedan puntos que quitar.
 
 ---
 
-## Coreano 69 — This And That (Esto y aquello)
+## Ko-69 — «This And That»
 
 ### 1. Punto de vista y momento
-Harry. Invierno-primavera de 1996 (aprox.).
-**Texto parcial:** empieza con la valoración de Snape sobre la Oclumancia de Harry; acaba con Fred explicando por qué Neville está abatido.
+Harry. Finales de noviembre de 1995 (al día siguiente del 68 y días después).
 
 ### 2. Escenas
-**1. El despacho de Dumbledore.** Snape ha evaluado a Harry en Oclumancia como «un nivel apenas digno de llamarse dominio». Al día siguiente, Harry acude a cobrar la información prometida. Dumbledore se alegra, pero duda: es pronto. Con un instrumento plateado de cuello largo y trípode, que echa vapor, explica que el **Departamento de Misterios** es la sección más enigmática del Ministerio: profecías, vida y muerte, pensamiento y emoción, tiempo y espacio. Nada de lo que hay allí puede derrotar a Voldemort: son fuerzas demasiado grandes. Hay una analogía: para beber un vaso de hidromiel no se invierte la gravedad del mundo. Dumbledore advierte de que, si en un futuro desesperado Harry cede a la tentación de usarlo, las consecuencias serían peores que la muerte. Harry promete no hacerlo.
-
-**2. Harry piensa.** Salir de la ignorancia pasa porque el Ministerio crea que Voldemort ha vuelto y selle el Departamento de Misterios.
-
-**3. El Brazo de Diggory.** Harry va esa noche a la Sala de los Menesteres, esta vez a la reunión del Brazo (los gemelos buscan nuevos métodos tras el sistema de inspección de Howlers del Ministerio). Neville está apagado. Fred explica: lleva así desde que supo de la **fuga de Azkaban**. Los padres de Neville, aurores, fueron torturados hasta la locura por restos de mortífagos tras la caída de Voldemort; los torturadores están entre los fugados.
+**1. Dumbledore.** Cumplida la Oclumancia, Harry exige la información. Dumbledore explica qué es el Departamento de Misterios (profecía, vida y muerte, tiempo y espacio...) y que nada de allí puede derrotar a Voldemort («un cuchillo o una varita es más útil»). Le hace prometer que no intentará usarlo.
+**2. Diggory's Arm.** Neville está abatido por la fuga (sus padres fueron torturados por mortífagos ahora libres). Luna propone hacer *El Quisquilloso* en Hogwarts: lo nombran editora interina; Luna anima a Neville con el «Smilack Ghost».
+**3. Contenido.** Harry pide a Rita Skeeter artículos; Fred y George proponen inventar un romance entre Umbridge y Snape. Harry calla el recuerdo real de Snape.
+**4. Número.** Titulares: Karkaroff, muerte misteriosa en San Mungo, la nariz de Voldemort, Fudge, «el tipo ideal de Umbridge».
 
 ### 3. Frases clave
-- Paráfrasis: Snape califica la Oclumancia de Harry de «apenas dominio» (que equivale a un elogio).
-- Paráfrasis: nada del Departamento de Misterios puede derrotar a Voldemort.
-- Paráfrasis: la analogía del hidromiel y la gravedad.
-- Paráfrasis: lo que te frena es tener un aliado estúpido.
+- Dumbledore: «If you wished to drink a glass of mead…» (no se invierte la gravedad por un trago.)
+- Dumbledore: nada del Departamento puede vencer a Voldemort.
+- Harry: «It would have been so much simpler if the Ministry were on our side.»
+- Luna: «Let's make The Quibbler at Hogwarts.»
+- Harry: «Ha. Unhinged.» (ante el número terminado.)
 
 ### 4. Qué revela o cambia
-- Harry **domina la Oclumancia** y obtiene de Dumbledore información sobre el Departamento de Misterios (en el canon la profecía se descubre al final).
-- **Fuga de Azkaban**: han escapado mortífagos, incluidos los que torturaron a los Longbottom.
-- Neville, hundido por la noticia.
-- El Ministerio ha respondido a los Howlers con inspección.
-- Harry sospecha que el Departamento de Misterios es objetivo de Voldemort, lo que enlaza con sus sueños del 61.
+- Se aclara el motivo del secreto de Dumbledore: peligro de la tentación.
+- *El Quisquilloso* se imprime en Hogwarts; Luna es editora.
+- Harry protege el recuerdo de Snape.
+- Neville vive la fuga como un golpe personal.
 
 ### 5. Contenido delicado
-Referencia a la tortura de los padres de Neville hasta la locura (descripción breve). Sin sexo.
+Sin sexual. Mención de la tortura de los padres de Neville.
 
 ### 6. Rarezas y contradicciones
-- **Qué falta para entenderlo:** Faltan las clases de Oclumancia y la condición que puso Dumbledore, ya cumplida cuando empieza el texto. La fuga de Azkaban solo se menciona; no se ve.
-- Con el canon: Harry dominando la Oclumancia con Snape lo contradice (en el canon fracasa). Dumbledore explicando el Departamento de Misterios es novedad. La fuga de Azkaban existe en el canon.
-- No se menciona la profecía de forma explícita en este capítulo salvo como ejemplo («Prophecy, for instance»); el 72 supone que Harry ya sabe de qué va.
+- «That had happened months ago» sobre la prohibición del *Quisquilloso*; en el 59 ocurrió en septiembre y estamos a noviembre: dos meses.
+- Dumbledore dice que no revela la profecía, pero Harry ya conoce su existencia (ver 62 y 73).
+- Rita Skeeter, expulsada del *Profeta*, sigue trabajando.
 
 ---
 
-## Coreano 70 — Broderick Board (Tablón de Broderick)
+## Ko-70 — «Broderick Board»
 
 ### 1. Punto de vista y momento
-Narrador (el chico de Slytherin, luego Ron). Fin de semana de Hogsmeade, invierno de 1995-96.
-**Texto parcial:** empieza con la aparición de *El Quisquilloso* en el castillo; acaba con el chico pensando que el quinto ejemplar es para Carina.
+Narrador (alumnos), un chico de Slytherin y Carina. Fin de semana de Hogsmeade (sin mes; después de la fuga de Azkaban).
 
 ### 2. Escenas
-**1. La muestra.** *El Quisquilloso*, prohibido y fuera de imprenta, aparece por todo el castillo. El nuevo número trae: la fuga de Azkaban, una muerte sospechosa y un rumor de romance entre Umbridge y Snape. La última página es una muestra: «el número completo, en Hogsmeade; 2 sickles; lo recaudado irá a liberar a Snape de su soltería». Los alumnos salen a Hogsmeade con dos sickles; al llegar a cada punto de venta, el reverso indica el siguiente (una gincana).
-
-**2. El Cabeza de Puerco.** Un chico se acerca a Ron Weasley, rodeado de libros, y quiere cinco ejemplares (el máximo es dos). Le ofrece un galeón. Hermione lo rechaza y lo reconoce: es de Slytherin. Ron lo agarra por el cuello: «¡Eres de Umbridge!» Hermione lo detiene: es de tercero, no de la Brigada, y vino solo; no irá con el soplo. Le da tres ejemplares y le pide que no cuente nada a Umbridge hoy. Ron protesta y Hermione dice que los Slytherin pueden ser aliados. Ron: «Slytherins stay more united with each other.»
-
-**3. El chico.** Se lleva cinco: uno para su madre, otro para su padre, otro para su tío, otro para él y **el quinto para Carina**. Carina es «la columna vertebral de Slytherin» como prefecta: lo ha ayudado más de una vez, y no dárselo sería una traición.
+**1. Distribución.** El número muestra aparece por el castillo; es una muestra con la leyenda «el número completo se vende en Hogsmeade, 2 sickles». Los alumnos siguen un mapa de pistas hasta el Cabeza de Puerco.
+**2. Hog's Head.** Ron y Hermione venden. Llega un chico de Slytherin de tercero que quiere cinco ejemplares; Ron se enfurece al saber que es de Slytherin; Hermione le da tres y le pide que no diga nada a Umbridge. El chico compra un quinto para Carina y se lo deja en la cama.
+**3. Carina.** Lee el artículo sobre Karkaroff y el de cirugía muggle, y se entera de que Broderick Bode ha muerto en San Mungo. Comprende que su padre lo mató tras sacarle información de la profecía (que solo puede recoger la persona a la que concierne). Vomita, se avergüenza y duda de su bando. Decide no avisar a Umbridge.
 
 ### 3. Frases clave
-- «All proceeds will go toward freeing Snape from his bachelor existence.» (Número de muestra.)
-- Paráfrasis: la gincana de venta hace que los lectores sigan el mapa como un juego.
-- Paráfrasis: Ron cree que los Slytherin siempre se unirán entre ellos.
+- Cartel del *Quisquilloso*: «All proceeds will go toward freeing Snape from his bachelor existence.»
+- Hermione: «If you want five copies, take them.»
+- Ron: «I don't owe Slytherins any kindness.»
+- Carina: «Broderick Bode?»
+- Carina: «Perhaps Carina had been on the wrong side from the very beginning.»
 
 ### 4. Qué revela o cambia
-- **La campaña de El Quisquilloso se extiende por el colegio**; Hermione y Ron la distribuyen en Hogsmeade.
-- Carina es respetada y ayuda a los alumnos de Slytherin.
-- Hermione deja que un Slytherin se lleve copias a pesar de la desconfianza de Ron.
-- Rumores del romance Umbridge-Snape (burla popular).
+- La sección de profecías y el nombre de Bode son pruebas de la conexión de Carina con la muerte de un hombre.
+- Se sabe que la profecía solo puede ser retirada por la persona a quien concierne.
+- Carina entra en crisis moral y retiene el *Quisquilloso*.
 
 ### 5. Contenido delicado
-Ninguno.
+Muerte (Bode), vómitos, culpa; Carina (15) piensa que tendrá que matar a Harry, Ron, Hermione y los Weasley. Sin sexual.
 
 ### 6. Rarezas y contradicciones
-- **Qué falta para entenderlo:** No se ve cómo se imprimió ni distribuyó el número, ni quién es el chico. El título («Broderick Board») no tiene reflejo en el fragmento.
-- Esta venta clandestina de *El Quisquilloso* no está en el canon.
-- El chico es de tercero, no de la Brigada, pero conoce a Carina.
+- El chico de tercero de Slytherin que compra para Carina no es nombrado.
+- Carina dice que «Moody had been right» (referencia al falso Moody).
+- La muerte de Bode se atribuye a la cirugía experimental de un sanador, mentira del *Quisquilloso* de pega.
 
 ---
 
-## Coreano 71 — Prophecy (Profecía)
+## Ko-71 — «Prophecy»
 
 ### 1. Punto de vista y momento
-Narrador: Umbridge y Fudge, luego Carina. Invierno-primavera de 1996.
-**Texto parcial:** empieza con Umbridge ya en contacto con Fudge por *El Quisquilloso*; acaba con Carina sabiendo que Harry morirá si entra en el Ministerio.
+Umbridge/Fudge, Carina y Harry (visión). Sin fecha (poco después del número del *Quisquilloso*; probablemente invierno de 1995-96).
 
 ### 2. Escenas
-**1. Fudge y Umbridge.** Carina ocultó *El Quisquilloso*, pero Umbridge lo ve y se lo comunica al Ministro. Fudge, furioso, le ordena arrestar a los responsables con aurores. Umbridge siente la tentación del poder y teme a Dumbledore (el recuerdo de cuando ella iba a lanzar una maldición a un alumno y él la inmovilizó en el aire sin varita). Fudge idea el plan: **citar a Dumbledore** al Ministerio por un asunto de su puesto en el Wizengamot y, cuando salga, **conectar Hogwarts con la red Flu** para que los aurores entren a arrestar a Harry. Fudge se ve como gran estratega. Una mención a Snape en el artículo basta para que Umbridge se enfurezca.
-
-**2. La carta de Lucius.** Carina recibe: el Ministerio sacará a Dumbledore y los aurores arrestarán a Harry; en ese momento, si el plan sale como debe, **Harry usará la red Flu para entrar en el Ministerio**; Carina debe **ayudarle**. «Es la última cosa que te pido... recuperaremos Su confianza... ocuparemos la posición más gloriosa.» Firma «Your Father».
-
-**3. Carina.** Quema la carta tras tres intentos fallidos con el *Incendio*. Cae al suelo: sabe que Lucius habrá tendido una trampa en el Ministerio, que habrá otros mortífagos y que Harry, al entrar, morirá. «I can't... I can't do this...»
+**1. Fudge y Umbridge.** Planean atraer a Dumbledore al Ministerio por su puesto en el Wizengamot, abrir una conexión Flu con Hogwarts y detener a los alumnos con aurores. Fudge pregunta por el artículo de Snape; Umbridge se enfurece.
+**2. Carta de Lucius.** Pide a Carina que ayude a Harry a ir al Ministerio por Flu; Carina quema la carta. Piensa que es una trampa y decide impedir que Harry llegue.
+**3. Hogwarts.** El artículo sobre Umbridge y Snape hace reír; Snape busca a Harry y pone a los alumnos a preparar una poción para probarla en él. Hermione advierte de que ahora lo ilegal es verdad: Veritaserum, soborno o tortura podrían delatarles; Harry confía en que, mientras Dumbledore esté, nada funcionará.
+**4. Visión.** Harry sufre un dolor en la cicatriz y ve a Voldemort con Lucius: la profecía solo la retira su sujeto, y Voldemort irá en persona esa noche. Se despierta, corre al despacho de Dumbledore (contraseña «cherry pie»); está vacío. McGonagall le dice que el Ministro llamó a Dumbledore. Ron llega gritando que Umbridge ha entrado con aurores.
 
 ### 3. Frases clave
-- «This is a direct challenge to the Ministry!» (Fudge.)
-- Paráfrasis: Fudge elige la ceguera voluntaria porque lo que ve le asusta más que la oscuridad.
-- Paráfrasis (carta de Lucius): Carina debe ayudar a Harry a entrar en el Ministerio, es parte de «un diseño mayor».
-- «I can't... I can't do this...» (Carina.)
+- Fudge: «I'll lure him out myself.»
+- Carta de Lucius: «This will be the last thing I ask of you.»
+- Carina: «I can't… I can't do this.»
+- Voldemort: «I am fear itself.»
+- Harry: «He's… heading to the Department of Mysteries.»
 
 ### 4. Qué revela o cambia
-- **Fudge y Umbridge planean atraer a Dumbledore con una citación y arrestar a Harry** por la red Flu.
-- **Lucius encarga a Carina ayudar a Harry a entrar al Ministerio**: es una trampa de Voldemort (inferencia de Carina; inferido de ko-73 que es cierta).
-- Carina decide que no puede cumplirlo: quiere detener a Harry (ver 73).
-- Umbridge teme a Dumbledore desde un incidente previo (no mostrado).
+- El plan del Ministerio y el de Lucius/Voldemort convergen en la misma noche.
+- Carina traiciona la orden de su padre por salvar a Harry (aún sin que él lo sepa).
+- Harry toma la visión como cierta (en el 73 se dice que era fabricada).
 
 ### 5. Contenido delicado
-Amenaza de muerte a un menor (Harry) y manipulación de una hija por su padre. Sin sexo.
+Violencia: Voldemort estrangula a Lucius con magia (en visión). Carina destruye una carta con fuego, llorando. Sin sexual.
 
 ### 6. Rarezas y contradicciones
-- **Qué falta para entenderlo:** Falta cómo supo Umbridge de la revista y qué hizo Carina para ocultarla (solo se afirma que la ocultó). La pelea previa de Umbridge con Dumbledore sale solo en un recuerdo. Que el Departamento de Misterios es el objetivo y que Voldemort ha preparado la trampa no se dice aquí (inferido de ko-73).
-- Con el canon: el plan Flu y la red conectada es de Umbridge en el libro (para espiar a Harry); aquí es una celada para arrestar a Dumbledore y Harry. En el canon Voldemort engaña a Harry con la visión de Sirius torturado; aquí la trampa llega mediante Lucius y la Floo.
-- La palabra «prophecy» no aparece en el cuerpo del 71 (sí en el 73).
-- La carta dice «we will have restored His trust». Eso sugiere que Lucius ha perdido el favor de Voldemort; el texto no lo explica (inferido de ko-54, por el diario).
+- El plan de Fudge incluye aurores, red Flu y Dumbledore atraído; la trampa de Voldemort cuenta con esa misma maniobra (ver 73).
+- Harry deja el Mapa del Merodeador en la Sala de Menesteres, otra pista del tiempo.
+- El texto no aclara cuándo se envió la carta de Lucius.
 
 ---
 
-## Coreano 72 — Combat (Combate)
+## Ko-72 — «Combat»
 
 ### 1. Punto de vista y momento
-Marietta Edgecombe, luego Carina, Draco y Harry. Invierno-primavera de 1996, el día de la trampa.
-**Texto parcial:** empieza con Marietta delatando al ED («a few hours earlier»); acaba con McGonagall diciendo «Leave this to me and go, Potter.» frente a un auror.
+Marietta, Carina, Cedric, Harry. Mismo día que el 71 (horas antes y después).
 
 ### 2. Escenas
-**1. Marietta.** Ravenclaw, padres en el Ministerio, se une al ED por presión de Cho. Se cansa de ser parte de una organización política de Harry; al saber que el ED se opone al Ministerio y que *El Quisquilloso* se publicó con su nombre, **delata** a Umbridge todo sobre el grupo. Umbridge pide que los estudiantes no sean castigados con dureza y promete una trampa. Pero a Marietta le salen granos en la cara que forman la palabra **«SNEAK»**; la Galleon encantada de su bolsillo brilla al rojo. No hay tiempo de trampa.
-
-**2. Los aurores.** Fudge, con autoridad de emergencia, llama a Dumbledore. Solo dos aurores disponibles. Umbridge convoca a la Brigada Inquisitorial. Carina reúne al grupo en la sala común. **Draco**, que pasaba, le pregunta si juegan a la guerra. Carina le ordena quedarse dentro y **no acercarse a la séptima planta**. Él calla. En cuanto ella se vuelve, Draco corre a la Sala de los Menesteres: «My sister's coming!» El narrador revela que **Draco es miembro de la Brigada** y le gusta, pero acude a avisar al ED. (Ver 67.)
-
-**3. Ahora.** Ron resume a Harry: Dumbledore ha sido citado, Umbridge entra con aurores buscando pruebas; gracias al aviso de Draco la mayoría escapó, aunque algunos fueron atrapados y preguntan por Harry. En los recuerdos de Voldemort, Harry había visto que Lucius mencionaba el plan de Fudge y Umbridge, y creyó que era a largo plazo. Calcula que el Ministerio estará vacío y Voldemort entrará solo en el Departamento de Misterios a por la profecía.
-
-**4. McGonagall.** Furiosa («¿Aurores en Hogwarts?»). Harry propone usar la red Flu de Umbridge para ir al Ministerio: avisar a los idiotas del Ministerio de que Voldemort ha vuelto y que los demás aurores le sigan hasta él; es su «última carta». Pide ayuda a McGonagall. En la escalera, un auror barrica el paso. McGonagall lo enfrenta: «Leave this to me and go, Potter.»
+**1. Marietta delata.** Marietta Edgecombe cuenta a Umbridge todo sobre el E.D. Le salen granos que forman «SNEAK». Umbridge informa a Fudge; Fudge llama a Dumbledore. Solo hay dos aurores libres. Umbridge convoca al Escuadrón Inquisitorial.
+**2. Draco avisa.** Carina avisa a Draco de que no vaya al séptimo piso. Draco corre a la Sala de Menesteres y grita «My sister's coming!».
+**3. Séptimo piso.** Los que se quedaron (Hermione, Neville, Luna y otros) son obligados a arrodillarse. Pansy amenaza a Hermione; Cedric llega y exige llamar a los profesores; Umbridge lo aturde. El E.D. reacciona: desarman y aturden a Umbridge y al Escuadrón. Hermione propone disfrazarse con túnicas de Slytherin; notan que Carina no está.
+**4. Harry y McGonagall.** McGonagall, furiosa, derrota a un auror. Harry decide ir al Ministerio por Flu para alertar al mundo del regreso de Voldemort; pide a Ron que avise a la Orden. En el despacho de Umbridge, Carina inmoviliza a Ron y se bate con Harry. Harry la inmoviliza con *Petrificus Totalus*, la deja tendida y le besa la frente («I'll be back»). Entra en la chimenea.
 
 ### 3. Frases clave
-- Paráfrasis: Marietta elige delatar creyendo que es una decisión racional y que Cho lo entenderá.
-- «My sister's coming!» (Draco, avisando al ED.)
-- Paráfrasis: Carina avisa a Draco de que no se acerque a la séptima planta.
-- «Leave this to me and go, Potter.» (McGonagall.)
+- Marietta se convence de que Cho, si es buena amiga, lo entenderá (narración).
+- Draco: «My sister's coming!»
+- McGonagall: «How dare they… Bringing Aurors into Hogwarts?»
+- Carina a Harry: «You can't go, Potter.»
+- Harry: «I hope you'll greet me with a kiss when I get back.»
 
 ### 4. Qué revela o cambia
-- **El ED es delatado**; el maleficio de «SNEAK» (canon) se aplica a Marietta.
-- Draco, doble agente de hecho: miembro de la Brigada que avisa al ED.
-- Dumbledore ausente; McGonagall pasa a primera línea.
-- Harry decide ir solo al Ministerio vía Flu desde el despacho de Umbridge.
-- Harry cree que Voldemort está en camino y que la profecía está al alcance de este.
+- El E.D. es desenmascarado, pero también demuestra su fuerza.
+- Draco traiciona a Carina por el E.D.
+- Carina quiere impedir que Harry vaya al Ministerio; Harry no entiende su motivo.
+- Harry va a la trampa; su plan es sembrar el caos para que el Ministerio vea a Voldemort.
 
 ### 5. Contenido delicado
-Maldición permanente en la cara de una menor (grotesca). Lucha inminente con aurores contra menores. Sin sexo.
+Combate entre menores y adultos (Stupefy, Petrificus). Harry paraliza a Carina, la acuesta, le alisa el pelo, le besa la frente y dice «I hope you'll greet me with a kiss» mientras ella no puede hablar ni moverse; fantasea con apoyarla contra la pared. El momento mezcla afecto y falta de consentimiento.
 
 ### 6. Rarezas y contradicciones
-- **Qué falta para entenderlo:** Faltan el combate de McGonagall con el auror, el paso de Harry por la Red Flu y el encuentro en el despacho de Umbridge (el 73 lo da por sucedido). Falta la resolución de lo que Draco hizo con el aviso.
-- Con el canon: la delación de Marietta (SNEAK) y el uso de aurores existen; Dumbledore protege a los alumnos asumiendo la culpa. Aquí lo citan y se va, y McGonagall dirige la defensa.
-- Dentro del original: el 67 mostraba a Draco en una reunión del ED sin pertenecer a la Brigada; el 72 dice que pertenece a la Brigada. Doble pertenencia sin aclarar.
-- Harry se apoya en «memorias de Voldemort» en las que Lucius habla del plan de Fudge y Umbridge; el 73 dice que esa memoria era fabricada.
+- El texto dice que Draco era «a member of that very group» tras nombrar al Escuadrón Inquisitorial: debe de referirse al E.D.
+- La varita de Carina se describe como de espino (igual que la de Draco).
+- El 71 dice que Carina quema la carta, pero el 72 la muestra lista para actuar: plan deliberado.
+- El texto no dice quién ni cómo hechizó a Marietta (en el canon, un encantamiento de Hermione sobre el pergamino); aquí solo se ve el galeón enrojecer.
 
 ---
 
-## Coreano 73 — Ministry Of Magic Battle (1) (Batalla en el Ministerio, 1)
+## Ko-73 — «Ministry Of Magic Battle (1)»
 
 ### 1. Punto de vista y momento
-Harry. Noche de la trampa, Ministerio de Magia, primavera de 1996.
-**Texto parcial:** empieza con Harry solo en el Ministerio vacío; acaba con Lucius diciéndole a Karkaroff que él manda en la operación.
+Harry. La misma noche del 72, en el Atrio del Ministerio. Harry tiene 15 años.
 
 ### 2. Escenas
-**1. El átrio.** El Ministerio está oscuro y vacío. Harry piensa que Voldemort está en algún lugar, camino del Departamento de Misterios, y que su propio papel no es luchar, sino atraer a la gente y proclamar que la profecía ha sido robada. Planea activar una alarma mágica en el despacho del Ministro. Al pasar junto a la fuente, su instinto le para.
-
-**2. Bellatrix.** De detrás de un pilar sale **Bellatrix Lestrange**. Harry dice «his most devoted servant is here, so Voldemort is here». Ella chilla que no use el nombre y afirma que Voldemort no ha venido (el Ministerio y Dumbledore se destrozan mutuamente). Harry dice que Voldemort viene por la profecía y que solo el sujeto puede tomarla. Bellatrix se ríe: «the person who'd bring it to him walked right in on his own two feet».
-
-**3. Crouch Jr.** Aparece **Bartemius Crouch Jr.**, rubio rígido, inexpresivo. Harry lo ha visto en un Pensieve suplicando a su padre. Crouch dice que lo superó. Harry: ¿llamáis «superar» a que otros maten por ti? Es otro de los seguidores más extremos: sometió a su padre con Imperius y amañó el Torneo, de modo que Voldemort resucitó.
-
-**4. La verdad.** Harry recuerda a Carina: esperándole en el despacho de Umbridge y atacándole para impedir que fuese al Ministerio. Había supuesto que estaba del lado de Voldemort, pero quizá lo hacía para protegerle, **desobedeciendo órdenes**. Bellatrix confirma la **trampa**: la memoria que vio de Voldemort fue fabricada; él se supo observado y usó su arrogancia y complejo de héroe para atraerle. Harry deduce que la profecía se refiere a él (no a Voldemort) y solo él puede tomarla: Voldemort ordenó traerle a Harry para que se la entregue con sus manos.
-
-**5. Karkaroff y Lucius.** Sale **Karkaroff**, con el brazo izquierdo reemplazado por uno plateado. Harry le provoca (traicionó dos veces, su retrato colgará en el váter). Karkaroff empieza el «*Avada—*», pero **Lucius Malfoy** le detiene del brazo sano: «I am in command of this operation.»
+**1. Atrio oscuro.** Harry recorre un Ministerio vacío buscando dónde disparar una alarma. Se detiene por instinto.
+**2. Emboscada.** Bellatrix Lestrange, Bartemius Crouch Jr. (vivo), Igor Karkaroff (brazo plateado) y Lucius Malfoy. Bellatrix revela que la visión era falsa: Voldemort sabía que Harry miraba y lo atrajo. Harry deduce que solo él puede recoger la profecía. Harry reconoce que Carina quizá intentó protegerle.
+**3. Combate.** Harry aturde a Lucius, esquiva a Karkaroff, convierte las losas en proyectiles con *Depulso*, anima estatuas con *Locomotor*. El brazo de Karkaroff derriba al centauro y a Harry. Harry deja a Karkaroff inconsciente. Bellatrix le arrebata la varita. Lucius le ordena que no lo torturen. Bellatrix lanza un *Impedimenta* y Lucius lo somete con *Imperio*.
 
 ### 3. Frases clave
-- «Good instincts, little boy?» (Bellatrix.)
-- «Me. Only I... can take it.» (Harry.)
-- Paráfrasis: la profecía anuncia el nacimiento de Harry, no el de Voldemort, así que su sujeto es Harry.
-- «I am in command of this operation. You will follow my orders.» (Lucius.)
+- Bellatrix: «You've walked into a trap, Potter.»
+- Harry: «Me. Only I… can take it.»
+- Harry a Crouch: «You were begging your father for mercy.»
+- Crouch: «Achieved by selling your own daughter.» (a Lucius.)
+- Harry: «I'm the type who keeps throwing himself at the wall until something breaks.»
 
 ### 4. Qué revela o cambia
-- **La visión de Voldemort era una trampa**; Harry deduce que solo él puede tomar la profecía.
-- Bellatrix, Crouch Jr., Karkaroff y Lucius esperan a Harry en el átrio; Voldemort no está.
-- **Crouch Jr. está vivo** y Karkaroff tiene un brazo mecánico.
-- Harry reinterpreta el ataque de Carina como un acto de protección (primera vez que lo piensa).
-- Lucius, al mando, restaurará la confianza de «Él».
+- La visión era una trampa de Voldemort.
+- La profecía versa sobre Harry; él es el único que puede retirarla.
+- Crouch Jr. está libre y fue quien «superó» a su padre.
+- Karkaroff tiene un brazo plateado que ataca por su cuenta.
+- Harry cae bajo Imperius.
 
 ### 5. Contenido delicado
-Amenaza de muerte con la maldición asesina a un menor; lenguaje de odio; violencia inminente. Sin sexo.
+Violencia intensa (explosiones, golpes). Imperius sobre un menor de 15. Bellatrix expresa deseo de torturarlo.
 
 ### 6. Rarezas y contradicciones
-- **Qué falta para entenderlo:** Falta cómo llegó Harry al Ministerio y el enfrentamiento previo con Carina, que solo se conoce por el recuerdo de Harry en esta escena. Todo lo que sigue a la intervención de Lucius queda fuera (el título lleva un «(1)»).
-- Con el canon: Crouch Jr. y Karkaroff están muertos en el canon en esta fecha; aquí están vivos. La trampa del canon es la visión falsa de Sirius torturado; aquí es una memoria fabricada de Voldemort. Sirius no aparece en la escena.
-- Dentro del original: Harry piensa que Priori Incantatem solo le serviría una vez contra Voldemort; el texto lo da por obvio.
-- Harry dice haber visto a Crouch Jr. en un Pensieve «begging his father for mercy»: coincide con el canon (GoF).
-- «Until just a few months ago she'd been locked in Azkaban» frente a «fuga de Azkaban» del 69.
+- Crouch Jr. vivo y libre (en el canon, besado por un dementor en 1995).
+- Dónde está Voldemort queda ambiguo: Bellatrix primero dice que no iría él mismo, luego «He came here himself», refiriéndose a Harry.
+- Lucius aturdido por Harry en el primer ataque y se recupera rápido.
+- Bellatrix llama a Lucius «brother-in-law» (cuñado: Narcissa es su hermana).
+- Priori Incantatem se menciona como último recurso.
 
 ---
 
-# Visión de conjunto del 55 al 73
+## Visión de conjunto del 55 al 73
 
-## (a) Arco
+### (a) Arco
+El bloque cubre el curso 1995-96 (quinto de Harry y de Carina, primero de Draco), desde el verano en Little Whinging hasta la noche del Ministerio. Harry sale airoso del juicio por el Patronus (55), vuelve a Hogwarts y emprende, con el *Quisquilloso* como arma, una guerra de información contra el Ministerio (56-57), mientras Carina, por orden de su padre, se acerca a Umbridge y se convierte en su informante (58). Umbridge entra en Hogwarts, Harry la desafía y la tortura con la pluma de sangre empieza (58-60); Carina denuncia el *Quisquilloso* (59) y supervisa su detención (60), donde aflora lo que sigue sintiendo. Harry casi hiere a Draco, bajo una voz interior que parece ajena (61); Dumbledore le confía otro Horcrux destruido, el anillo (62). Harry abofetea a Carina, que lo buscaba para dar a Lucius una excusa para pisar el Ministerio (63); Umbridge se convierte en Gran Inquisidora. Cedric funda con Harry el E.D., con Draco como alumno inesperado (64-65). Umbridge despide a Trelawney (65), y Cedric lidera la protesta del «null and void» (66); Umbridge forma el Escuadrón Inquisitorial con Carina al mando (67). Los gemelos y Luna montan imprenta de Howlers y *Quisquilloso* (68-70); Harry aprende Oclumancia y ve la memoria de Snape (68-69). Carina descubre que su información sobre Bode causó una muerte y vomita (70), y decide frenar a Harry (71). Fudge, Umbridge y Lucius preparan cada uno su trampa para la misma noche (71). Marietta delata al E.D.; el E.D. vence al Escuadrón; Harry reduce a Carina y se lanza al Ministerio (72). Allí cae en la trampa que Voldemort le tendió con una visión falsa, vence a Karkaroff y queda bajo Imperio de Lucius (73).
 
-El tramo cubre desde el verano de 1995 hasta la noche de la trampa en el Ministerio, en la primavera de 1996. Arranca con Harry salvando a Dudley de los dementores y con Carina separada de Harry y presionada por su familia (si la ruptura es real o fingida, el texto no lo aclara), y avanza por el quinto curso: Umbridge impone su dominio (clases de teoría, castigos con la pluma, despidos, decretos, la Brigada Inquisitorial) y los alumnos responden primero con el ED y luego con el *Quisquilloso* y los Howlers. Mientras, Harry y Dumbledore destruyen el anillo de Gaunt y descubren que los Horrocruxes pueden ser muchos más de lo pensado, y Harry domina la Oclumancia. Carina, miembro de la Brigada de Umbridge y obediente aparente de Lucius, se desgarra entre su lealtad familiar y su amor por Harry. El arco termina cuando Fudge y Umbridge citan a Dumbledore, Marietta delata al ED y Harry, creyendo seguir una pista de Voldemort, entra solo en el Ministerio, donde Lucius, Bellatrix, Crouch Jr. y Karkaroff le tienen una trampa que solo Harry puede completar.
+### (b) Tabla
 
-## (b) Tabla
-
-| Capítulo | Acontecimiento principal | Fecha (aprox.) |
+| Cap. | Acontecimiento principal | Fecha aproximada |
 |---|---|---|
-| 55 | Patronus de zorro contra dementores; cartas del Ministerio y de Dumbledore | Verano de 1995 |
-| 56 | Expreso: Carina prefecta, pelea con Ron, Harry se le acerca | 1 de septiembre de 1995 |
-| 57 | Draco ve el beso; banquete; la estrategia de *El Quisquilloso* | 1 de septiembre de 1995 |
-| 58 | Primera clase de Umbridge; Harry la desafía | Principios de septiembre |
-| 59 | Hagrid ausente; Carina ataca a Ron por Hagrid | Septiembre |
-| 60 | Castigos con la pluma; Carina supervisa a Harry | Septiembre-octubre |
-| 61 | Sueño de la serpiente en el Ministerio; Harry cuenta lo de la pluma; Draco le espía | Octubre |
-| 62 | Anillo de Gaunt destruido; Harry quiere dejar el colegio | Octubre (mismo día) |
-| 63 | Gryffindor-Slytherin: Harry atrapa la snitch; Carina insulta a Ron | Otoño |
-| 64 | Cedric ante Umbridge; nace el ED | Otoño |
-| 65 | Trelawney despedida; Carina recomienda; visión de Harry muerto | Otoño-invierno |
-| 66 | Decretos 26 y 27; protesta de Cedric | Invierno |
-| 67 | Decreto 28; Brigada Inquisitorial; Draco ante el ED | Invierno |
-| 68 | Brazo de Diggory (imprenta de Howlers); Draco acude a Carina | Invierno |
-| 69 | Oclumancia dominada; Dumbledore explica el Departamento de Misterios; fuga de Azkaban | Invierno-primavera |
-| 70 | Venta de *El Quisquilloso* en Hogsmeade | Invierno-primavera |
-| 71 | Plan Fudge-Umbridge; carta de Lucius a Carina | Primavera |
-| 72 | Delación de Marietta; Draco avisa al ED; Harry va al Ministerio | Primavera |
-| 73 | Átrio del Ministerio: trampa, Bellatrix, Crouch Jr., Karkaroff, Lucius | Primavera |
+| 55 | Dementores en Little Whinging; Patronus; juicio y absolución | Verano de 1995 (julio–agosto) |
+| 56 | Expreso; peleas con Ron, Ginny y Luna; beso en el compartimento; Draco lo ve | 1 de septiembre de 1995 |
+| 57 | Banquete de Selección; Harry reconoce a Umbridge; Draco cree que hay chantaje | 1 de septiembre de 1995 |
+| 58 | Primera clase de Umbridge; detención; Carina se ofrece como informante | Primera semana de septiembre |
+| 59 | Hagrid ausente; Carina denuncia el *Quisquilloso*; Angelina y las pruebas | Primera semana de septiembre |
+| 60 | Pluma de sangre; Carina supervisa; «owned/owner» | Jueves–viernes de esa semana |
+| 61 | Sueño del Ministerio; Draco espía a Harry; Harry casi lo agrede | Sábado de esa semana |
+| 62 | Anillo de los Gaunt destruido; Oclumancia; pelea con Ron | Sábado y una semana después |
+| 63 | Partido; bofetada a Carina; Decreto 25 | Otoño (octubre) |
+| 64 | Cedric funda el E.D.; Draco emboscada; galeón | Otoño (octubre–noviembre) |
+| 65 | Despido de Trelawney; nombre de Bode; Draco en el E.D. | Otoño (noviembre) |
+| 66 | Decretos 26-27; protesta de Cedric | Otoño (noviembre) |
+| 67 | Decreto 28; Escuadrón Inquisitorial; Cho; abrazo | Otoño (noviembre) |
+| 68 | Imprenta de Howlers; fuga de Azkaban; Oclumancia y recuerdo de Snape | Noviembre–diciembre |
+| 69 | Dumbledore explica Misterios; *Quisquilloso* en Hogwarts | Diciembre |
+| 70 | Venta en Hogsmeade; Carina descubre la muerte de Bode | Un fin de semana de Hogsmeade (sin mes) |
+| 71 | Plan de Fudge; carta de Lucius; visión de Harry | Día del ataque al E.D. |
+| 72 | Marietta delata; E.D. derrota al Escuadrón; Harry y Carina; Flu | Mismo día |
+| 73 | Atrio del Ministerio: trampa y combate; Imperio | Misma noche |
 
-## (c) Hilos
+Nota: el texto no da fechas explícitas más allá del 1 de septiembre y de los fines de semana; los meses son inferencias.
 
-**Que se abren**
-- Quién envió los dementores a Little Whinging (55). Nunca se resuelve en el tramo.
-- La misión de Hagrid con los gigantes (59).
-- La infiltración de Carina: qué ha pedido Lucius (el diario, el Departamento de Misterios, ayudar a Harry), y su doble juego (54, 56, 68, 71).
-- La relación Carina-Harry: ruptura aparente, beso en el tren (57, fuera de texto), supervisión del castigo (60).
-- Draco como agente doble entre la Brigada y el ED (61, 67, 68, 72).
-- Los Horrocruxes: diario destruido, anillo destruido, relicario localizado, Ravenclaw y otros sin identificar; busca de un exprofesor (62).
-- Los sueños de Harry (61) y la fuga de Azkaban (69).
-- La profecía y el Departamento de Misterios (69, 71-73).
-- Las cicatrices de la pluma (60-61, 67).
-- Neville y los torturadores de sus padres (69).
+### (c) Hilos
+**Se abren:** campaña del *Quisquilloso*; Umbridge y sus decretos; E.D. y Diggory's Arm; pluma de sangre; Carina doble agente (Umbridge/Lucius/Harry); misión de Lucius en el Departamento de Misterios; Horcruxes más allá de los fundadores y búsqueda del antiguo profesor; Occlumancia; recuerdo de Snape (pelirroja); misión de Hagrid con los gigantes; fuga de Azkaban; Bellatrix, Crouch Jr. y Karkaroff reunidos; voz interior de Harry; Draco entre Harry y su hermana.
+**Se cierran:** juicio de Harry (absuelto); anillo de los Gaunt destruido; Trelawney sustituida y Hagrid ausente (Grubbly-Plank); Ron confirmado como Guardián; reconciliación Ron–Harry tras la bofetada; entrenamiento de Oclumancia (y Dumbledore explica Misterios); delación del E.D. (Marietta); el Escuadrón Inquisitorial es derrotado por el E.D.
+**Quedan abiertos al final del 73:** Harry bajo Imperius; Carina paralizada; Ron como mensajero; Umbridge y Cedric aturdidos; aurores en Hogwarts; Dumbledore fuera; Voldemort ausente; qué profecía y qué hará Harry con ella; qué sabe Lucius de la traición de Carina; Draco y la verdad sobre su hermana; el destino de Crouch Jr.
 
-**Que se cierran**
-- El anillo de Gaunt (62).
-- Entrenamiento de Oclumancia (69).
-- Trelawney destituida (65).
-- La protesta de Cedric (66-67), con derrota (pierde el cargo).
-- Harry recupera el puesto de Buscador: **no**; se queda fuera (64, 67).
-- Marietta delata (72).
+### (d) Evolución de los personajes
+- **Carina (Lyra):** de joven orgullosa a doble agente. Rompe por «razones de estado» con Harry y sus amigos, ayuda a Umbridge, denuncia el *Quisquilloso*, planea la bofetada, lidera el Escuadrón y busca información para Lucius. Cada acto la desgasta; el 70 la rompe moralmente (Bode), el 71 desobedece a su padre y el 72 intenta frenar a Harry. Ama y protege a Draco, y cree que debe sacrificarse.
+- **Harry:** de táctico frío a líder. Usa la política y la prensa, manipula a Cedric, resiste la pluma de sangre, funda el E.D. Sufre desgaste: casi hiere a Draco, abofetea a Carina, estalla contra Ron y Dumbledore. Su voz interior de serpiente se hace más fuerte. Aprende Oclumancia, ve la memoria de Snape y cae en la trampa del Ministerio.
+- **Lucius:** padre cariñoso y mortífago ambicioso. Presiona a Carina, hace visitas diarias al Ministerio, ejecuta la orden de Voldemort; fracasa, es humillado en la visión, y en el 73 dirige la emboscada y somete a Harry con Imperio.
+- **Narcissa:** solo aparece en ko-54 (el lazo de Draco) y en el 56 (besos de despedida en el andén); pálida y amorosa. Después no aparece (solo es implícita en que Bellatrix llame «cuñado» a Lucius en el 73). No interviene en el resto.
+- **Draco:** del niño hostil al niño que ama al E.D. Ataca a Harry, aprende el *Protego*, se acerca a Hermione y Ginny, defiende a Carina, da la alarma al E.D. y abraza a su hermana. Sigue sin saber el trasfondo.
+- **Snape:** enseña Oclumancia con dureza; su recuerdo de la pelirroja le humaniza; pregunta a Harry si amará a Carina siempre; furioso por el artículo.
+- **Dumbledore:** paciente y reservado; destruye el anillo; no revela la profecía; interviene físicamente contra Umbridge (66); ausente en el 71-73.
+- **Sirius:** aparece solo en el 55 (rescate); se le menciona en 57-58.
+- **Umbridge:** de burócrata sonriente a inquisidora; recibe a Carina como espía, despide a Trelawney, tortura a alumnos, ataca a Cedric; es derrotada por el E.D.
+- **Cedric:** Head Boy ejemplar; funda el E.D., lidera la protesta, es torturado y destituido, aturdido por Umbridge; Harry lo manipula con cariño.
+- **Hermione:** prefecta, fabrica galeones, enseña a Draco, lidera a los que se quedan en el 72.
+- **Ron:** prefecto, Guardián, inseguro; se pelea con Harry y se reconcilia; vende *Quisquilloso*; ayuda a Harry en el 72 aunque queda paralizado.
+- **Voldemort:** ausente salvo por la visión del 71 (falsa según 73); su trampa dirige el 73.
 
-**Que quedan abiertos al final del 73**
-- La trampa: Lucius al mando, Voldemort ausente, Harry rodeado.
-- Cuál es la profecía y qué hará Harry.
-- Dónde están Carina, McGonagall, Ron, el ED capturado, Dumbledore y los aurores.
-- Quién es el «viejo amigo» exprofesor de Dumbledore.
-- Si Carina intenta salvar a Harry.
-- La amenaza de Fudge y Umbridge.
-- El rumor del romance Umbridge-Snape.
-
-## (d) Evolución de los personajes
-
-- **Carina (Lyra):** empieza rota por la ruptura y decidida a mantener la compostura. Hace de prefecta y de instrumento de Umbridge con astucia (elige a Trelawney por Hagrid, protege a su casa). Se muestra cruel con Ron y Hermione (usa el insulto) para cortar lazos. Su máscara se resquebraja cuando piensa en Harry muerto, cuando Ron amenaza a Draco, y ante la carta de Lucius. Termina, por lo que cuenta el 73, habiendo atacado a Harry para impedirle ir al Ministerio (inferido de ko-73; la escena no está).
-- **Harry:** pasa del humor desafiante frente a Umbridge a agotamiento y rabia (62), impulsos violentos (63), disciplina (Oclumancia), y aprovecha la ventaja política (Quibbler, ED). Cae en la trampa de Voldemort por confiar en una visión. Repite su patrón: ironía, desafío, plan calculado.
-- **Lucius:** pasa de padre angustiado que busca el diario (54, 56) a jefe de operaciones en el átrio (73). Manipula a Carina con cartas ambiguas; busca recuperar «Su confianza».
-- **Narcissa:** casi ausente; solo muestra afecto y miedo en el andén (54, 56).
-- **Draco:** infantil y celoso al principio, pero decidido a ayudar a su hermana (57). Espía a Harry (61), se enfrenta a Hufflepuff (67), se refugia en Carina (68) y avisa al ED (72). Su identidad queda dividida entre la Brigada y el ED.
-- **Snape:** apenas aparece: recomienda prefectos (56), observa con indiferencia (66), da el visto bueno a la Oclumancia de Harry (69), objeto de bromas en *El Quisquilloso* (70, 71).
-- **Dumbledore:** bajo asedio político; deja que Harry actúe por sí mismo (61); destruye el anillo (62); revela el Departamento de Misterios (69); detiene a Umbridge (referencia 71); se ausenta en el momento crítico (72).
-- **Sirius:** sólo aparece de pasada (57: obligado a cantar). No está presente en escena.
-- **Voldemort:** no aparece. Actúa a través de sueños (61), memorias fabricadas (72-73), mortífagos fugados y órdenes a Lucius (71, 73). Su objetivo es la profecía; su método, usar la arrogancia de Harry.
-
-## (e) Cómo sabe Harry lo que sabe
-
-En este tramo, el texto **no ofrece una explicación única** de ninguna información «imposible»; dice más bien qué canales usa. Lo que se ve:
-
-- **Visiones por la cicatriz.** Harry sueña recorrer el Ministerio como serpiente (61) y ve «memorias de Voldemort» en las que Lucius menciona el plan de Fudge y Umbridge (72). El 73 revela que la última visión era una **fabricación de Voldemort**, que sabía que Harry le observaba. Es la única información que el tramo reconoce como falsa.
-- **La Orden del Fénix y Dumbledore.** Sabe de la misión de Hagrid con los gigantes (59), de la lista de Horrocruxes (62), de los orígenes de Riddle (62: «I have told you something of Tom Riddle's origins before») y del Departamento de Misterios (69). Todo viene de Dumbledore.
-- **Sirius y la prensa.** Usa a Sirius como fuente (57) y planifica con Ginny la campaña del *Quisquilloso*.
-- **Información «anticipada» sin explicación en el tramo.** Harry «anticipaba» cómo sería Umbridge (58), parece conocer de antemano la importancia de la Brigada y de los Howlers, y trata el Departamento de Misterios, la profecía y la estructura de los Horrocruxes con familiaridad. El resumen de los capítulos 26 a 35 ya recoge a un Harry con información previa (sobre Snape, Voldemort, la Piedra). El tramo 55-73 **no explica** el origen de esa información previa y no menciona ningún regreso al pasado. Una explicación, si existe, tendría que venir de capítulos que no están en esta tanda.
-- **Deducción propia.** La conclusión de que solo él puede tomar la profecía (73) la saca Harry razonando sobre el momento en que se pronunció.
-
-## (f) Huecos más importantes de la tanda
-
-Todos los capítulos están recortados (ver la advertencia previa). Los huecos que más pesan:
-
-1. **El beso de Carina y Harry en el Expreso** (entre el 56 y el 57): solo lo conocemos por lo que piensa Draco. No sabemos qué se dijeron, si la ruptura es real o fingida, ni por qué se besan.
-2. **El comienzo de los castigos de Harry** (entre el 58 y el 60) y **lo que Carina le dice a Harry en el despacho de Umbridge** (el 60 se corta en «Let me be clear, Potter...»).
-3. **Lo que Draco quería decirle a Harry** (entre el 61 y el 62).
-4. **La pelea de Harry con Carina tras el partido** (entre el 63 y el 64): el 64 dice que Harry golpeó a Carina; no se ve.
-5. **Por qué Draco asiste al ED y a la vez está en la Brigada** (67 y 72): no se explica en ningún fragmento.
-6. **El enfrentamiento de Carina y Harry en el despacho de Umbridge** (entre el 72 y el 73): solo se conoce por el recuerdo de Harry en el 73. Es el punto en que Carina desobedece a Lucius, y falta entero.
-7. **El paso de Harry por la Red Flu y el combate de McGonagall** (72 → 73).
-8. **Todo lo posterior a la intervención de Lucius en el átrio** (73): el capítulo es el «1» de una batalla.
-9. **Cómo se desarrolló la ofensiva de Howlers y el éxito de *El Quisquilloso*** (68-70): solo se mencionan.
-10. **Qué hace Carina con el ejemplar de *El Quisquilloso*** (70 → 71): el 71 dice solo que lo ocultó.
+### (e) Cómo sabe Harry lo que sabe
+**No hay en 55-73 ninguna explicación de «conocer el futuro» (ni regresión, ni Giratiempo, ni viaje en el tiempo).** Lo que Harry sabe procede de:
+1. **Dumbledore y la Orden.** Harry sabe de la misión de Hagrid con los gigantes («Harry, of course, knew exactly where Hagrid was», 59), de que Voldemort recluta criaturas (54-55) y de los Horcruxes (62).
+2. **Su propia deducción.** Reconoce a Umbridge por el juicio (57), deduce lo de Lucius y el Ministerio (64), recuerda el nivel 9 del Ministerio (65), y reconoce a Crouch Jr. por el Pensieve (73).
+3. **Visiones por la cicatriz.** En el 61 sueña con un pasillo y una puerta, y en el 71 «His memories and thoughts came through» (71). En el 73 se revela que esa visión fue fabricada por Voldemort.
+4. **Terceros.** Ron le pasa los datos de su padre (65); Draco le cuenta, sin querer, las visitas de Lucius (64); Ginny le da la idea del *Quisquilloso* (57).
+5. **Legilimancia inversa.** En el 68 ve un recuerdo de Snape al rechazar su ataque.
+6. **La profecía, que queda sin explicar.** En el 62 Harry se pregunta si Dumbledore no le ha contado la profecía («had he still not told Harry about the prophecy?»); en el 73 sabe que concierne a «the one with the power to vanquish the Dark Lord» y que la dijo Trelawney, y deduce que el sujeto es él. En ko-49 (fuera de rango) Dumbledore dice que se la contó. No se explica aquí cuándo ni cómo la supo.
+7. **Otros apuntes:** «You'll only be here a year anyway» (58) es una burla basada en que los profesores de Defensa duran un curso, no una profecía; la hostilidad hacia Umbridge viene del juicio. La voz interior de serpiente (61, 63) queda sin explicar; Harry la llama «something alien and malevolent». Tampoco se explica cómo sabe, al final del 64, que Lucius entró en el Ministerio con un pretexto: lo deduce de lo que dice Draco.
