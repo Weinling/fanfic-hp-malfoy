@@ -17,7 +17,7 @@
      - **Copia de antes:** en el scratchpad de la sesión (`24-antes-beats.md`), que se pierde: vale `git show HEAD:borradores/cap-24-replay.md` (commit 798a357 o anterior).
      - **Ataduras comprobadas con grep:** el 26:197 cita «a quarter past two on a Tuesday» y «the satisfied feeling of somebody who has read the last page of a book first»; el 25:93-95 cita «Go back to your mum. Stay with her tonight» y el guiño de Fudge; el 25:115, el beso en la frente; el 30:115, «You took your time»; el 25:5 y el 25:33, los omniculares (los buenos, de Lyra, bajo la almohada; los baratos, de Draco); el 29:141 usa «The gentleman says…»; el 24:15 tiene «anything that might come out blue».
      - **Después:** revisión de un Opus nuevo (antes y después; sin cambios de clase C o D; «mejor que antes»), arreglos, manual `docs/capitulos/cap-24.md`, commit y push. Avisar al autor de qué cambia para Webnovel.
-     - **Todavía no se ha escrito nada del 24.**
+     - **Escrito el 24 nuevo (18 de octubre, commit siguiente): ~3.840 palabras, las tres palancas aplicadas, sin semillas. La versión publicada es `git show 798a357:borradores/cap-24-replay.md`. Siguiente: revisión de un Opus nuevo.**
   2. **Del 25 al 30 (sin publicar):** recomendado al autor **solo retocar** (quitar calco y lo que sobre, con las palancas de `plan-24-30.md`), sin trama divergente grande; la gran divergencia, desde el 31. El autor lo planteó como pregunta; **falta su sí definitivo**.
   3. **Rumbo (lo que el autor dijo el 18 de octubre):**
      - **No entendió R1, R2 y R3** ni los hilos H1, H2 y H3 del documento de rumbo; ya se le explicaron en el chat.
