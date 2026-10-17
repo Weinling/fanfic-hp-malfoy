@@ -87,4 +87,10 @@ Para la discusión de rumbo, además:
 
 Si se va a planear una tanda propia a partir del 31, lee también los coreanos 31 a 35. Para hablar del rumbo, el protocolo pide al empezar un arco la historia entera en texto completo (unas 100.000 palabras hasta el 23, y unas 130.000 hasta el 30). Avisa al autor del coste antes y que decida él si se hace.
 
+**Los *Year One* (1 a 4, unas 13.600 palabras)** son la historia previa de la pareja y de varias deudas: Madam Malkin’s y la Recordadora (1), el nombre del Señor Oscuro (2), Snape y la deuda de James (3) y el «Shut up, Malfoy» de primero (4). Sus manuales entran siempre en la lectura obligatoria. El texto completo se lee:
+- si se lee la historia entera;
+- en cualquier caso, si el rumbo toca a Snape, a Lucius o el origen de la pareja.
+
+Para rehacer solo el 24 bastan sus manuales.
+
 Apunta en el estado qué se ha leído.
