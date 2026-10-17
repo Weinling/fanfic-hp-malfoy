@@ -7,17 +7,9 @@
 ## Ahora mismo
 
 - **PUNTO EXACTO PARA RETOMAR (18 de octubre, antes de compactar).** Lee después de este estado, en este orden: `docs/notas/sesion-nueva-17-oct.md`, `docs/notas/rumbo-25-en-adelante.md` y este bloque entero.
-  1. **En curso: rehacer el 24** (`borradores/cap-24-replay.md`), que está publicado en Webnovel.
-     - **Regla del autor:** solo dejar de parecer calco y ser mejor capítulo, con el estándar de los capítulos fusionados (1 a 23). **Mismos hechos:** el lector que ya lo leyó no debe notar otra historia.
-     - **Sin semillas nuevas** de hilos no aprobados (se pueden añadir después).
-     - **Material:**
-       - las palancas de `docs/notas/cotejo-oficial/plan-24-30.md` §2, «Cap. 24» (Draco abre y gana el trueque; el verano del anillo va condensado después; Lyra corta ella el casi beso al acordarse de la capa de su padre, y la voz de Narcissa interrumpe la despedida);
-       - la lista de «No tocar» y la de ataduras de ese mismo plan;
-       - `coreano/ko-27.md` para medir el calco.
-     - **Copia de antes:** en el scratchpad de la sesión (`24-antes-beats.md`), que se pierde: vale `git show HEAD:borradores/cap-24-replay.md` (commit 798a357 o anterior).
-     - **Ataduras comprobadas con grep:** el 26:197 cita «a quarter past two on a Tuesday» y «the satisfied feeling of somebody who has read the last page of a book first»; el 25:93-95 cita «Go back to your mum. Stay with her tonight» y el guiño de Fudge; el 25:115, el beso en la frente; el 30:115, «You took your time»; el 25:5 y el 25:33, los omniculares (los buenos, de Lyra, bajo la almohada; los baratos, de Draco); el 29:141 usa «The gentleman says…»; el 24:15 tiene «anything that might come out blue».
-     - **Después:** revisión de un Opus nuevo (antes y después; sin cambios de clase C o D; «mejor que antes»), arreglos, manual `docs/capitulos/cap-24.md`, commit y push. Avisar al autor de qué cambia para Webnovel.
-     - **Escrito el 24 nuevo (18 de octubre, commit siguiente): ~3.840 palabras, las tres palancas aplicadas, sin semillas. La versión publicada es `git show 798a357:borradores/cap-24-replay.md`. Siguiente: revisión de un Opus nuevo.**
+  1. **HECHO (18 de octubre): el 24 rehecho** (`borradores/cap-24-replay.md`, ~3.930 palabras; commits 79aee8e y fc9bf88). Revisado por un Opus nuevo (calco 9 → 7; ningún D; todas las ataduras en pie) y con sus arreglos aplicados. Manual `docs/capitulos/cap-24.md` al día. La versión publicada: `git show 798a357:borradores/cap-24-replay.md`.
+     - **Para Webnovel:** cambia el modo, no los hechos. Abre Draco con el póster; Draco sospecha que sus omniculares son los de tienda, no la cree y se lleva también el póster; el verano del anillo va después; **Lyra abre ella los ojos** en el casi beso (se acuerda de la capa de su padre) y la voz de Narcissa llega después. El autor decide si sube esta versión.
+     - **Ramas:** `main` avanzado hasta la rama de trabajo (fast-forward, fc9bf88). **Borrar `origin/claude/hopeful-hamilton-jt6e15` lo bloqueó el clasificador de permisos:** lo hace el autor (comando dado en el chat) o lo autoriza.
   2. **Del 25 al 30 (sin publicar):** recomendado al autor **solo retocar** (quitar calco y lo que sobre, con las palancas de `plan-24-30.md`), sin trama divergente grande; la gran divergencia, desde el 31. El autor lo planteó como pregunta; **falta su sí definitivo**.
   3. **Rumbo (lo que el autor dijo el 18 de octubre):**
      - **No entendió R1, R2 y R3** ni los hilos H1, H2 y H3 del documento de rumbo; ya se le explicaron en el chat.
@@ -44,7 +36,7 @@
      - **Pendiente antes de la fase de ideas:** la historia entera en texto completo (del 1 al 21, revisados y publicados, y los *Year One*). El autor lo pregunta y lo da por necesario.
   6. **La oficial completa del 36 al 111** (unas 245.000 palabras; extracción del autor, comprobada) está en `referencia/oficial-en/ko-36.md` … `ko-111.md`. Los resúmenes completos están en `borradores/resumen-oficial-36-54.md`, `-55-73.md`, `-74-92.md` y `-93-111.md`. La primera extracción venía incompleta y ya está sustituida. Herramienta: `herramientas/partir_oficial.py`.
   7. **Ramas.** `main` y `origin/claude/hopeful-hamilton-jt6e15` están enteras contenidas en `claude/wizardly-albattani-vazqyr` (comprobado). El autor quiere eliminar «la otra rama que solo confunde». **Propuesto:** pasar todo a `main` (fast-forward) y borrar `hopeful-hamilton`. Es una acción en el remoto: **pedir confirmación antes**.
-  8. **Agentes vivos:** un revisor Opus del 24 (antes contra después, hechos A-D, ataduras, Mary Sue, tics; no escribe archivos). Si se compacta antes de que vuelva, su informe llega como notificación; si se pierde, relanzar con el mismo encargo.
+  8. **Agentes vivos:** ninguno.
 - **HECHA (17 de octubre): FUSIÓN DE VERSIONES.** Plan e informes en `docs/notas/cotejo-oficial/fusion/`. Bases:
   - revisado en el 4, 5, 8, 10, 11, 13, 18 y del 19 al 22;
   - beats nuevos en el 1, 2, 3, 14, 23 y *Year One* 1 y 2.
