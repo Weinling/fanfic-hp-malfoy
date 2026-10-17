@@ -13,6 +13,8 @@
     2. **Orden:** primero el rumbo, después el 24.
     3. **Coreano:** el autor tiene la historia original entera y la va a traer (del 36 en adelante, a `coreano/`).
   - **Hecho:** leídos enteros, por la sesión principal, del 25 al 30 (`borradores/cap-25` a `cap-30`).
+  - **17 de octubre, más tarde:** el autor trae del 36 al 111 en un solo archivo. **No es el coreano: es la traducción inglesa oficial** (novelpia, *The Villainess Malfoy*). Partida en `referencia/oficial-en/ko-36.md` … `ko-111.md` (commit 927797a). La historia está terminada: la trama acaba en el 106 y del 107 al 111 son epílogos. **Los capítulos parecen incompletos:** tienen entre 600 y 1.700 palabras, contra 2.000-3.500 de los completos de la misma traducción, y empiezan o acaban a mitad de escena. Preguntado al autor si tiene los completos o el coreano.
+  - **En marcha (opción B, aprobada por el autor):** cuatro agentes Sonnet resumen la oficial por tandas en `borradores/resumen-oficial-36-54.md`, `-55-73.md`, `-74-92.md` y `-93-111.md`, con el formato de `resumen-coreano-26-35.md`; avisados de que el texto es parcial. La sesión principal lee enteros del 36 al 41 (hecho) y después los cuatro resúmenes.
   - **Siguiente:** cuando lleguen los coreanos, resumirlos por tandas con agentes Sonnet (como `resumen-coreano-26-35.md`); luego, el documento de rumbo para el autor (`sesion-nueva-17-oct.md` §3).
 - **HECHA (17 de octubre): FUSIÓN DE VERSIONES.** Plan e informes en `docs/notas/cotejo-oficial/fusion/`. Bases:
   - revisado en el 4, 5, 8, 10, 11, 13, 18 y del 19 al 22;
