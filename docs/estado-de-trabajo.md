@@ -7,6 +7,7 @@
 ## Ahora mismo
 
 - **SESIÓN NUEVA (preparado el 18 de octubre): lee `docs/notas/sesion-nueva-18-oct.md` justo después de este estado.** Dice dónde estamos, qué quiere el autor, las tareas en orden y qué leer. Lo de abajo es el detalle del 17 y el 18 de octubre.
+  - **Abierta ya (18 de octubre):** lectura del §4 hecha (ver «Lecturas hechas en esta sesión», al final). Se le ha preguntado al autor si del 25 al 30 van solo retoques o alguna trama nueva; **no se toca ningún capítulo hasta que conteste.**
   1. **HECHO (18 de octubre): el 24 rehecho** (`borradores/cap-24-replay.md`, ~3.930 palabras; commits 79aee8e y fc9bf88). Revisado por un Opus nuevo (calco 9 → 7; ningún D; todas las ataduras en pie) y con sus arreglos aplicados. Manual `docs/capitulos/cap-24.md` al día. La versión publicada: `git show 798a357:borradores/cap-24-replay.md`.
      - **Para Webnovel:** cambia el modo, no los hechos. Abre Draco con el póster; Draco sospecha que sus omniculares son los de tienda, no la cree y se lleva también el póster; el verano del anillo va después; **Lyra abre ella los ojos** en el casi beso (se acuerda de la capa de su padre) y la voz de Narcissa llega después. El autor decide si sube esta versión.
      - **Ramas (resuelto):** `main` avanzado hasta la rama de trabajo; el autor borró `claude/hopeful-hamilton-jt6e15`. Se trabaja en `claude/wizardly-albattani-vazqyr` y se sube también a `main`.
@@ -141,6 +142,14 @@ Se apunta aquí lo leído tras cada compactación, para que se pueda comprobar.
   - para el 24: `borradores/cap-24-ficha-guion.md` y `docs/notas/cap-24-critica.md`.
 
   **Sin leer todavía:** la historia entera en texto completo (el autor la autoriza, igual que los agentes; se hará al abrir la discusión del rumbo si la decisión lo pide) y los coreanos 30 a 35 en coreano (están resumidos en `resumen-coreano-26-35.md`; se leen enteros si se planea una tanda propia desde el 31). Hechas al autor las tres preguntas del §4; se espera respuesta antes de tocar ningún capítulo.
+- **Sesión nueva del 18 de octubre (la que sigue a `sesion-nueva-18-oct.md`), en contexto limpio.** Leído entero por la sesión principal lo que pide su §4:
+  - `CLAUDE.md`, este estado y `docs/notas/sesion-nueva-18-oct.md`;
+  - el handoff entero (`docs/handoff-v2.0.md`, §1 a §15);
+  - todos los manuales de `docs/capitulos/` (1 a 30 y *Year One* 1 a 4) y `continuidad-transversal.md`;
+  - `docs/notas/rumbo-25-en-adelante.md` (con la respuesta del autor, §6), `docs/notas/cotejo-oficial/plan-24-30.md` entero y `docs/notas/arco-29-32-lectura.md`;
+  - el texto completo del 24 rehecho, el 25 y el 26.
+
+  **Sin leer todavía:** los coreanos 28 a 33 (solo hacen falta si el autor dice sí a los retoques del 25 al 30; se leen el de cada capítulo antes de tocarlo); el 27 al 30 en texto completo (se leen antes de retocarlos); la historia entera del 1 al 23 y los *Year One* (tarea 2 de la nota de sesión). Hecha al autor la pregunta del 25 al 30; se espera respuesta antes de tocar ningún capítulo.
 
 ## Texto que solo existe en contexto
 
