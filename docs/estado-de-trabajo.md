@@ -9,7 +9,7 @@
 - **PUNTO EXACTO PARA RETOMAR (18 de octubre, antes de compactar).** Lee después de este estado, en este orden: `docs/notas/sesion-nueva-17-oct.md`, `docs/notas/rumbo-25-en-adelante.md` y este bloque entero.
   1. **HECHO (18 de octubre): el 24 rehecho** (`borradores/cap-24-replay.md`, ~3.930 palabras; commits 79aee8e y fc9bf88). Revisado por un Opus nuevo (calco 9 → 7; ningún D; todas las ataduras en pie) y con sus arreglos aplicados. Manual `docs/capitulos/cap-24.md` al día. La versión publicada: `git show 798a357:borradores/cap-24-replay.md`.
      - **Para Webnovel:** cambia el modo, no los hechos. Abre Draco con el póster; Draco sospecha que sus omniculares son los de tienda, no la cree y se lleva también el póster; el verano del anillo va después; **Lyra abre ella los ojos** en el casi beso (se acuerda de la capa de su padre) y la voz de Narcissa llega después. El autor decide si sube esta versión.
-     - **Ramas:** `main` avanzado hasta la rama de trabajo (fast-forward, fc9bf88). **Borrar `origin/claude/hopeful-hamilton-jt6e15` lo bloqueó el clasificador de permisos:** lo hace el autor (comando dado en el chat) o lo autoriza.
+     - **Ramas (resuelto):** `main` avanzado hasta la rama de trabajo; el autor borró `claude/hopeful-hamilton-jt6e15`. Se trabaja en `claude/wizardly-albattani-vazqyr` y se sube también a `main`.
   2. **Del 25 al 30 (sin publicar):** recomendado al autor **solo retocar** (quitar calco y lo que sobre, con las palancas de `plan-24-30.md`), sin trama divergente grande; la gran divergencia, desde el 31. El autor lo planteó como pregunta; **falta su sí definitivo**.
   3. **Rumbo (lo que el autor dijo el 18 de octubre):**
      - **No entendió R1, R2 y R3** ni los hilos H1, H2 y H3 del documento de rumbo; ya se le explicaron en el chat.
@@ -35,7 +35,7 @@
        - las visiones de conjunto de los cuatro `borradores/resumen-oficial-*.md`.
      - **Pendiente antes de la fase de ideas:** la historia entera en texto completo (del 1 al 21, revisados y publicados, y los *Year One*). El autor lo pregunta y lo da por necesario.
   6. **La oficial completa del 36 al 111** (unas 245.000 palabras; extracción del autor, comprobada) está en `referencia/oficial-en/ko-36.md` … `ko-111.md`. Los resúmenes completos están en `borradores/resumen-oficial-36-54.md`, `-55-73.md`, `-74-92.md` y `-93-111.md`. La primera extracción venía incompleta y ya está sustituida. Herramienta: `herramientas/partir_oficial.py`.
-  7. **Ramas.** `main` y `origin/claude/hopeful-hamilton-jt6e15` están enteras contenidas en `claude/wizardly-albattani-vazqyr` (comprobado). El autor quiere eliminar «la otra rama que solo confunde». **Propuesto:** pasar todo a `main` (fast-forward) y borrar `hopeful-hamilton`. Es una acción en el remoto: **pedir confirmación antes**.
+  7. **Ramas:** resuelto (ver el punto 1).
   8. **Agentes vivos:** ninguno.
 - **HECHA (17 de octubre): FUSIÓN DE VERSIONES.** Plan e informes en `docs/notas/cotejo-oficial/fusion/`. Bases:
   - revisado en el 4, 5, 8, 10, 11, 13, 18 y del 19 al 22;
