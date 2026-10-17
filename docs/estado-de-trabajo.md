@@ -7,6 +7,7 @@
 ## Ahora mismo
 
 - **SESIÓN NUEVA (preparado el 17 de octubre):** lee `docs/notas/sesion-nueva-17-oct.md` justo después de este estado. Hay dos encargos: rehacer el 24, ya publicado en Webnovel, y discutir con el autor el rumbo del 25 en adelante antes de escribir nada.
+  - **17 de octubre, sesión nueva abierta:** lectura obligatoria hecha (ver «Lecturas hechas en esta sesión», al final). Hechas al autor las tres preguntas del §4 de esa nota. **Ningún capítulo tocado; se espera su respuesta.**
 - **HECHA (17 de octubre): FUSIÓN DE VERSIONES.** Plan e informes en `docs/notas/cotejo-oficial/fusion/`. Bases:
   - revisado en el 4, 5, 8, 10, 11, 13, 18 y del 19 al 22;
   - beats nuevos en el 1, 2, 3, 14, 23 y *Year One* 1 y 2.
@@ -101,6 +102,16 @@ Se apunta aquí lo leído tras cada compactación, para que se pueda comprobar.
 - **Sesión nueva del 29 (11 de octubre), en contexto limpio, todo entero y en orden:** `CLAUDE.md`; este estado; el handoff entero (`docs/handoff-v2.0.md`, las 795 líneas); todos los manuales de `docs/capitulos/` (1 a 28 y *Year One* 1 a 4), enteros; `docs/capitulos/continuidad-transversal.md`; la historia en texto completo: `manuscrito/cap-01` a `cap-15`, `borradores/cap-16` a `cap-23`, `borradores/extra-year-one-1` a `4` y `borradores/cap-24` a `cap-28`; los coreanos 32, 33 y 34 enteros; `borradores/plan-coreano-26-35.md`; `borradores/cap-29-lector.md`; `docs/notas/critico-arranque-29.md`; la ficha del 28 como modelo de formato.
 - **Compactación del 12 de octubre, con el 30 ya escrito entero** (las cinco escenas, commiteadas antes de compactar, con la lectura completa del arco en contexto). Después de compactar se leyó solo esto: el estado, `docs/notas/arco-29-32-lectura.md`, el 30 entero, el manual del 29, la continuidad transversal y el final del handoff (§15). Se buscó con grep y se leyeron trozos del 4, del 8, del 13 y del 23 (la pluma, el «No need», el claustro y el eco del tren). **No se cumplió el protocolo entero:** quedaron sin leer el handoff completo, el resto de manuales, el 28 y el 29 en texto completo, y los coreanos 33 a 35. Con eso se hicieron la pasada de tics, los arreglos de la crítica, el manual, la continuidad y el handoff; la continuidad la comprobó además el crítico, que lo tiene todo leído. **Antes de la ficha del 31 hay que hacer el protocolo completo.**
 - **Crítico del 29:** lanzado (Opus) con `docs/critico-v2.0.md` y `docs/notas/critico-arranque-29.md`. Leyó todo lo adaptado (`docs/notas/critico-29-lectura-inicial.md`) y criticó el 29.
+- **Sesión nueva del 17 de octubre (rehacer el 24 y rumbo del 25 en adelante), en contexto limpio.** Leído entero, por la sesión principal, lo que pide `docs/notas/sesion-nueva-17-oct.md` §5:
+  - `CLAUDE.md`, este estado y `docs/notas/sesion-nueva-17-oct.md`;
+  - el handoff entero (`docs/handoff-v2.0.md`, §1 a §15);
+  - todos los manuales de `docs/capitulos/` (1 a 30 y *Year One* 1 a 4) y `continuidad-transversal.md`;
+  - el texto completo del 22, el 23 y el 24;
+  - los coreanos 27, 28 y 29;
+  - para el rumbo: `docs/notas/cotejo-oficial/plan-24-30.md` entero, `docs/notas/arco-29-32-lectura.md` y `borradores/resumen-coreano-26-35.md` entero;
+  - para el 24: `borradores/cap-24-ficha-guion.md` y `docs/notas/cap-24-critica.md`.
+
+  **Sin leer todavía:** la historia entera en texto completo (el autor la autoriza, igual que los agentes; se hará al abrir la discusión del rumbo si la decisión lo pide) y los coreanos 30 a 35 en coreano (están resumidos en `resumen-coreano-26-35.md`; se leen enteros si se planea una tanda propia desde el 31). Hechas al autor las tres preguntas del §4; se espera respuesta antes de tocar ningún capítulo.
 
 ## Texto que solo existe en contexto
 
