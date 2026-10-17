@@ -12,7 +12,7 @@ Lyra leaned in to look. Draco snatched the poster back against his chest.
 
 “No. You can’t see. It’s mine.”
 
-There was a time, not very long ago, when Lyra would simply have taken it off him. But he was ten now, and had found out about stubbornness, and on the subject of stubbornness Lyra knew she was up against the only person in the Manor with more of it than she had. So instead she reached under the table, into the bag she had been meaning to show him anyway, and brought out a pair of golden binoculars covered in little brass knobs and dials.
+There was a time, not very long ago, when Lyra would simply have taken it off him. But he was ten now, and had found out about stubbornness, and on the subject of stubbornness Lyra knew she was up against the only person in the Manor with more of it than she had. So instead she reached under the table, into the bag she had been meaning to show him anyway, and brought out a pair of brass binoculars covered in little knobs and dials.
 
 Draco’s eyes went perfectly round.
 
@@ -26,19 +26,25 @@ Draco’s eyes went perfectly round.
 
 It took him nearly a minute, a long time for Draco, to put the poster down on the table. He took the omnioculars with both hands and went to the window with them at once, to look at a peacock.
 
-Then he looked at her through them instead, and lowered them, and said, with great kindness, “These are the shop ones.”
+Lyra unrolled the poster and watched Krum come out of the dive again. He really was extraordinary. He did it with so little visible effort, as though the ground had been a suggestion. It was only the face that let it down: heavy and sullen, and rather a waste of a dive like that. If it had been a different face, somebody’s with untidy hair and glasses, say—
 
-“I beg your pardon?”
+“You *fancy* him!” Draco had the omnioculars trained on her from the window. “Girls are all the same. They see somebody good at Quidditch and they go all stupid.”
 
-“The ones in Diagon Alley. Ten Galleons, it said on the card.” He turned them over to show her the dials. “Yours have got gold on the knobs. I saw them in your bag. I don’t mind,” he added generously. “Krum won’t look any different through gold.” And he took the poster back off the table, since she had clearly not been looking at it, and went out with both his treasures held against his chest, calling from the hall that he was going to show the gentleman.
+“I do not fancy Viktor Krum,” said Lyra, with great clarity. “Not even slightly.”
 
-Lyra sat where he had left her, with the real ones in her lap: Irish team issue, made for the squad’s own training, gold leaf on every dial. There were perhaps a dozen pairs in the world. She had been outmanoeuvred by a ten-year-old with a poster, and the worst of it was that he had been nice about it.
+Draco lowered the omnioculars and looked at her over the top of them. Then he looked at the omnioculars, and turned them over, and looked at the dials for rather longer than she liked.
+
+“Are these the real ones? The Irish ones?”
+
+“Of course they are.”
+
+He looked at her a moment more, with their mother’s face, the one that asked nothing and waited. Lyra held it. Draco said, “All right,” in a voice that did not believe her and did not much mind, and took the poster back off the table. “I’m having this back as well, then. For the cheating. In case.” And he went out with both his treasures held against his chest, calling from the hall that he was going to show the gentleman.
+
+Lyra sat where he had left her, with the real ones in her lap: Irish team issue, made for the squad’s own training, gold leaf on every dial. There were perhaps a dozen pairs in the world. She was nearly sure she had won. She was much less sure what she had won, and she had certainly lost the poster.
 
 The gentleman in the east cottage still lived in the east cottage, then. She had not asked, all summer, for the same reason she had not asked at Christmas, and nobody had said.
 
-She turned the omnioculars over, and thought about the person she had actually bought them for.
-
-⁂
+She turned the omnioculars over, and thought about whom, exactly, she had bought them to look at.
 
 The ring had gone gold at a quarter past two on a Tuesday morning, and Lyra, who had not been asleep, had sat up to look at it.
 
@@ -50,7 +56,7 @@ A boy whose ring went purple at four in the morning and gold at a quarter past t
 
 The rings worked both ways. That was the part of the slip she minded most. So when she lay down at night she was careful to think about nothing in particular, her Arithmancy, or the new broom polish, or the Quidditch World Cup, which her father had got them into the top box for. She was not going to lie there thinking about anything that might come out blue.
 
-He would be at the World Cup. Everybody would be at the World Cup. She had bought the best omnioculars in the country to find him with.
+He would be at the World Cup. Everybody would be at the World Cup.
 
 ⁂
 
@@ -102,7 +108,9 @@ Lyra had read about veela. She had not been prepared for a hundred of them at on
 
 Lyra looked at all of it with deep and untroubled contempt, and then thought, *wait*, and looked at Potter.
 
-He had his omnioculars up to his eyes. He was leaning forward on the rail, perfectly still, quite absorbed, and the corner of his mouth had gone up, and stayed up. If the music was doing anything to him, it did not show, and that was somehow worse.
+He had his omnioculars up to his eyes. He was leaning forward on the rail, perfectly still, quite absorbed, and the corner of his mouth had gone up, and stayed up. If the music was doing anything to him, it did not show.
+
+Lyra’s mouth went thin.
 
 “Lyra,” said Draco dreamily, from her other side, “when I grow up I’m going to marry a veela.”
 
@@ -114,9 +122,9 @@ The Irish mascots were leprechauns, a glittering green cloud of them, and they r
 
 Then the match began, and for a while even Lyra forgot about Potter.
 
-She had never seen flying like it. The Irish Chasers moved like one person in three bodies, and they were ten goals up before the Bulgarians had worked out where they were. Krum alone was worth the price of the box. He did the Wronski Feint for real, once, as though the ground had been a suggestion, and the Irish Seeker went into it and the whole stadium stood up. It was not enough. Ireland were a hundred and sixty points ahead when Krum caught the Snitch, and everybody could count: he had caught it knowing it would lose them the match by ten, rather than go on being beaten slowly.
+She had never seen flying like it. The Irish Chasers moved like one person in three bodies, and they were ten goals up before the Bulgarians had worked out where they were. Krum alone was worth the price of the box. He did the Wronski Feint for real, once, and the Irish Seeker went into it and the whole stadium stood up. It was not enough. Ireland were a hundred and sixty points ahead when Krum caught the Snitch, and everybody could count: he had caught it knowing it would lose them the match by ten, to finish it himself rather than be beaten slowly.
 
-Lyra, who had once let go of her broom in a thunderstorm rather than win a match the wrong way, found that she quite understood him, and her fist closed on the rail.
+Lyra, who had once let go of her broom in a thunderstorm rather than win a match the wrong way, understood him perfectly, and her fist closed on the rail.
 
 “Oh, *no*, I missed it—Harry, give us a look—” Weasley had the omnioculars off Potter’s neck before Potter could stop him, and pressed the replay. Then he went quite still. After a moment he handed them back with an extraordinary expression.
 
@@ -204,7 +212,7 @@ She looked at the omnioculars in her hands. Then she hung them round her own nec
 
 “Ron paid me ten Galleons for those.”
 
-“Leprechaun gold. It’ll be gone by morning. I saw.” She folded her arms over them. “And as for the false accusation, you may put it on my account.”
+“Leprechaun gold. It’ll be gone by morning. I saw.” She put a hand flat over them. “And as for the false accusation, you may put it on my account.”
 
 “I’d rather settle now,” said Potter.
 
@@ -214,7 +222,7 @@ And behind her shut eyes, for no reason she could have given, was a tent flap fa
 
 Lyra opened her eyes.
 
-Potter had stopped, a breath away. He did not look surprised. He looked, for a moment, as though he had been expecting her to do exactly that.
+Potter had stopped, a breath away, and for a moment looked as though he could not think what he had done wrong.
 
 “Harry,” she said. “My father went out. He changed his cloak first. *Old friends*, he said. Where are they all going?”
 
@@ -230,7 +238,7 @@ He did not make a joke of it. That was how she knew it was a real question. His 
 
 Lyra was out of his arms in an instant, pushing the omnioculars down inside her robes, putting her hair back. Under a cloak, of course, but even so. *Here*, of all places, a few yards from her mother.
 
-“Too many people about,” murmured Potter, in the voice of somebody who had been given a reasonable answer and did not care for it. “Shame.” He put his hand on her hair, very briefly, and leaned in, and kissed her forehead.
+“Too many people about,” murmured Potter, and very nearly made it sound like a joke. “Shame.” He put his hand on her hair, very briefly, and leaned in, and kissed her forehead.
 
 Then the cloak slid off her shoulders and he was gone inside it, a ripple in the dark between two tents.
 
