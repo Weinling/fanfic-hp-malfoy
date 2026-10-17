@@ -32,6 +32,8 @@ Léelo justo después de `docs/estado-de-trabajo.md`. Sustituye a `sesion-nueva-
 
 ## 3. Tareas, en orden
 
+> **Actualización (18 de octubre, sesión siguiente): el autor ha elegido ideas primero.** El orden pasa a ser 2, 3, 4 y luego 1 (el 25 al 30 en una sola pasada, con semillas de las tramas elegidas). Detalle en el estado de trabajo.
+
 1. **Del 25 al 30 (sin publicar).** Recomendación dada: **solo retocar**, es decir, quitar calco y lo que sobre con las palancas de `docs/notas/cotejo-oficial/plan-24-30.md` §2. La gran divergencia, desde el 31. **Falta el sí del autor:** pregúntaselo antes de empezar. Si dice sí:
    - va capítulo a capítulo como el 24: copia de antes, retoque, revisión de un Opus nuevo (sin cambios de clase C o D; «mejor que antes»), arreglos, manual y commit;
    - el 25 y el 26 van atados por la causa de la retirada de Lyra;

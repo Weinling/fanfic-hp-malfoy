@@ -7,11 +7,17 @@
 ## Ahora mismo
 
 - **SESIÓN NUEVA (preparado el 18 de octubre): lee `docs/notas/sesion-nueva-18-oct.md` justo después de este estado.** Dice dónde estamos, qué quiere el autor, las tareas en orden y qué leer. Lo de abajo es el detalle del 17 y el 18 de octubre.
-  - **Abierta ya (18 de octubre):** lectura del §4 hecha (ver «Lecturas hechas en esta sesión», al final). Se le ha preguntado al autor si del 25 al 30 van solo retoques o alguna trama nueva; **no se toca ningún capítulo hasta que conteste.**
+  - **Abierta ya (18 de octubre):** lectura del §4 hecha (ver «Lecturas hechas en esta sesión», al final).
+  - **DECIDIDO por el autor (18 de octubre): ideas primero.** Del 25 al 30 no se toca nada todavía. Nuevo orden:
+    1. lectura completa del 1 al 23 y los *Year One* 1 a 4 (unas 121.000 palabras), por la sesión principal;
+    2. lista de lo que sabe Harry;
+    3. fase de ideas (se le propone antes el encargo y el coste);
+    4. después, el 25 al 30 retocados **en una sola pasada**: fuera el calco y lo que sobre, sin cambiar hechos, más unas pocas líneas de lectura inocente que preparen las tramas elegidas.
+  - **Revisión de esos retoques:** propuesto un Opus nuevo por grupo (25 y 26; 27 a 29; 30), tres en vez de seis.
   1. **HECHO (18 de octubre): el 24 rehecho** (`borradores/cap-24-replay.md`, ~3.930 palabras; commits 79aee8e y fc9bf88). Revisado por un Opus nuevo (calco 9 → 7; ningún D; todas las ataduras en pie) y con sus arreglos aplicados. Manual `docs/capitulos/cap-24.md` al día. La versión publicada: `git show 798a357:borradores/cap-24-replay.md`.
      - **Para Webnovel:** cambia el modo, no los hechos. Abre Draco con el póster; Draco sospecha que sus omniculares son los de tienda, no la cree y se lleva también el póster; el verano del anillo va después; **Lyra abre ella los ojos** en el casi beso (se acuerda de la capa de su padre) y la voz de Narcissa llega después. El autor decide si sube esta versión.
      - **Ramas (resuelto):** `main` avanzado hasta la rama de trabajo; el autor borró `claude/hopeful-hamilton-jt6e15`. Se trabaja en `claude/wizardly-albattani-vazqyr` y se sube también a `main`.
-  2. **Del 25 al 30 (sin publicar):** recomendado al autor **solo retocar** (quitar calco y lo que sobre, con las palancas de `plan-24-30.md`), sin trama divergente grande; la gran divergencia, desde el 31. El autor lo planteó como pregunta; **falta su sí definitivo**.
+  2. **Del 25 al 30 (sin publicar):** recomendado al autor **solo retocar** (quitar calco y lo que sobre, con las palancas de `plan-24-30.md`), sin trama divergente grande; la gran divergencia, desde el 31. El autor lo planteó como pregunta. **Contestado el 18 de octubre: retoques sí, pero después de la fase de ideas y en una sola pasada** (ver arriba).
   3. **Rumbo (lo que el autor dijo el 18 de octubre):**
      - **No entendió R1, R2 y R3** ni los hilos H1, H2 y H3 del documento de rumbo; ya se le explicaron en el chat.
      - **Lo que quiere:** **dos o tres divergencias muy fuertes** que lleven la historia por un rumbo muy distinto del original y generen sus propias subtramas, personajes y choques (fusionar, cambiar, reestructurar o eliminar partes del original). Eso dará la identidad propia.
