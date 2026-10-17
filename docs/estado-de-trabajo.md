@@ -44,7 +44,7 @@
      - **Pendiente antes de la fase de ideas:** la historia entera en texto completo (del 1 al 21, revisados y publicados, y los *Year One*). El autor lo pregunta y lo da por necesario.
   6. **La oficial completa del 36 al 111** (unas 245.000 palabras; extracción del autor, comprobada) está en `referencia/oficial-en/ko-36.md` … `ko-111.md`. Los resúmenes completos están en `borradores/resumen-oficial-36-54.md`, `-55-73.md`, `-74-92.md` y `-93-111.md`. La primera extracción venía incompleta y ya está sustituida. Herramienta: `herramientas/partir_oficial.py`.
   7. **Ramas.** `main` y `origin/claude/hopeful-hamilton-jt6e15` están enteras contenidas en `claude/wizardly-albattani-vazqyr` (comprobado). El autor quiere eliminar «la otra rama que solo confunde». **Propuesto:** pasar todo a `main` (fast-forward) y borrar `hopeful-hamilton`. Es una acción en el remoto: **pedir confirmación antes**.
-  8. **Agentes vivos:** ninguno (los cuatro de resúmenes terminaron).
+  8. **Agentes vivos:** un revisor Opus del 24 (antes contra después, hechos A-D, ataduras, Mary Sue, tics; no escribe archivos). Si se compacta antes de que vuelva, su informe llega como notificación; si se pierde, relanzar con el mismo encargo.
 - **HECHA (17 de octubre): FUSIÓN DE VERSIONES.** Plan e informes en `docs/notas/cotejo-oficial/fusion/`. Bases:
   - revisado en el 4, 5, 8, 10, 11, 13, 18 y del 19 al 22;
   - beats nuevos en el 1, 2, 3, 14, 23 y *Year One* 1 y 2.
