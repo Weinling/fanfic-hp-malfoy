@@ -9,6 +9,6 @@ for k,i in enumerate(heads):
     # quitar las líneas de ==== que rodean el título
     while body and (not body[0].strip() or set(body[0].strip()) == {'='}): body.pop(0)
     while body and (not body[-1].strip() or set(body[-1].strip()) == {'='}): body.pop()
-    hdr = f"# Traducción inglesa oficial — coreano {n}: {title}\n\nPegado por el autor el 2026-10-17 (novelpia, *The Villainess Malfoy*, del 36 al 111 en un solo archivo). Solo para consulta y cotejo; nunca para copiar.\n\n---\n\n"
+    hdr = f"# Traducción inglesa oficial — coreano {n}: {title}\n\nPegado por el autor el 2026-10-17 (novelpia, *The Villainess Malfoy*, del 36 al 111 en un solo archivo; segunda extracción, completa). Solo para consulta y cotejo; nunca para copiar.\n\n---\n\n"
     (outdir / f"ko-{n:02d}.md").write_text(hdr + "\n".join(body) + "\n", encoding='utf-8')
 print(len(heads))
