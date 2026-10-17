@@ -6,7 +6,7 @@
 
 ## Ahora mismo
 
-- **PUNTO EXACTO PARA RETOMAR (18 de octubre, antes de compactar).** Lee después de este estado, en este orden: `docs/notas/sesion-nueva-17-oct.md`, `docs/notas/rumbo-25-en-adelante.md` y este bloque entero.
+- **SESIÓN NUEVA (preparado el 18 de octubre): lee `docs/notas/sesion-nueva-18-oct.md` justo después de este estado.** Dice dónde estamos, qué quiere el autor, las tareas en orden y qué leer. Lo de abajo es el detalle del 17 y el 18 de octubre.
   1. **HECHO (18 de octubre): el 24 rehecho** (`borradores/cap-24-replay.md`, ~3.930 palabras; commits 79aee8e y fc9bf88). Revisado por un Opus nuevo (calco 9 → 7; ningún D; todas las ataduras en pie) y con sus arreglos aplicados. Manual `docs/capitulos/cap-24.md` al día. La versión publicada: `git show 798a357:borradores/cap-24-replay.md`.
      - **Para Webnovel:** cambia el modo, no los hechos. Abre Draco con el póster; Draco sospecha que sus omniculares son los de tienda, no la cree y se lleva también el póster; el verano del anillo va después; **Lyra abre ella los ojos** en el casi beso (se acuerda de la capa de su padre) y la voz de Narcissa llega después. El autor decide si sube esta versión.
      - **Ramas (resuelto):** `main` avanzado hasta la rama de trabajo; el autor borró `claude/hopeful-hamilton-jt6e15`. Se trabaja en `claude/wizardly-albattani-vazqyr` y se sube también a `main`.
