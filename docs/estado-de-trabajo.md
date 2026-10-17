@@ -6,6 +6,7 @@
 
 ## Ahora mismo
 
+- **SESIÓN NUEVA (preparado el 17 de octubre):** lee `docs/notas/sesion-nueva-17-oct.md` justo después de este estado. Hay dos encargos: rehacer el 24, ya publicado en Webnovel, y discutir con el autor el rumbo del 25 en adelante antes de escribir nada.
 - **HECHA (17 de octubre): FUSIÓN DE VERSIONES.** Plan e informes en `docs/notas/cotejo-oficial/fusion/`. Bases:
   - revisado en el 4, 5, 8, 10, 11, 13, 18 y del 19 al 22;
   - beats nuevos en el 1, 2, 3, 14, 23 y *Year One* 1 y 2.
