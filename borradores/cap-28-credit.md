@@ -96,7 +96,7 @@ She did not let it reach her face. Moody, she thought. Moody, with his eye, tell
 
 She had meant to be civil. It was plain now that civility was wasted on him.
 
-“What a charming welcome,” she said. “Your brothers manage better. “They’re loud, and they’re vulgar, and they’ve never had a thought between them that wasn’t a joke, but at least they don’t go about with a face like a wet weekend.”
+“What a charming welcome,” she said. “Your brothers manage better. They’re loud, and they’re vulgar, and they’ve never had a thought between them that wasn’t a joke, but at least they don’t go about with a face like a wet weekend.”
 
 Weasley’s ears went red, and then the rest of him.
 
