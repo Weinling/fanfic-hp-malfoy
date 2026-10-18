@@ -112,15 +112,9 @@ Moody was putting the desks back. He did it with his wand, without turning round
 
 Lyra shut the door behind her.
 
-“I’ve come to ask you to stop using my family as teaching material, Professor. Twice now. In front of the whole class.”
+“I’ve come to offer you something, Professor.” She had meant to work round to it. It came out first, and she let it. “Somebody put Potter’s name in that cup. Whoever it was, the people who’d know about it aren’t going to tell you. They’ll never tell an Auror anything. They might tell me. I’m in Slytherin, and I’m a Malfoy, and nobody in my House would think twice about saying things in front of me. I could find out.”
 
-“Thought you lot liked that. Snape’s always on about who your families are, I hear.” The desks went on knocking into place. “No? All right. What else?”
-
-She had a perfect right, she said, as a Slytherin, to ask what was being done about a fourth-year who had cheated his way into the Tournament, when they all knew what he was like—
-
-“Oh, give over,” said Moody.
-
-He turned round. The magical eye went straight to the pocket of her robes, the way it had in September, and rested there.
+The desks stopped knocking. Moody turned round, and the magical eye went straight to the pocket of her robes, the way it had in September, and rested there.
 
 “Worried about your boyfriend?”
 
@@ -140,11 +134,9 @@ He sounded almost approving. She had not expected that, and did not trust it.
 
 “Do I?”
 
-“I could help.” She had not meant to say it like that, but it was said now, and she went on. “Somebody put his name in that cup. Whoever it was, the people who’d know about it aren’t going to tell you. They’ll never tell an Auror anything. They might tell me. I’m in Slytherin, and I’m a Malfoy, and nobody in my House would think twice about saying things in front of me. I could find out.”
-
 Moody looked at her for some time with both eyes.
 
-“No,” he said.
+“No,” he said, to the offer.
 
 “Why not?”
 
@@ -152,7 +144,7 @@ Moody looked at her for some time with both eyes.
 
 Lyra had stood outside a wall like this once before, in a shack, in the dark, with her pride on the floor and Potter refusing to tell her anything for her own good. She knew the shape of it. It was not the same wall, and the man on the other side of this one was watching her through a hole.
 
-“My father has nothing to do with it.”
+“My father has nothing to do with it. And I’d thank you to stop using him as teaching material, sir. Twice now. In front of the whole class.”
 
 “Your father,” said Moody, “had people on strings once, and some of them are walking about to this day and don’t know it.” The magical eye rolled down and up again. “And here’s his girl, come out of nowhere into Harry Potter’s pocket, the year somebody wants Harry Potter dead. You see how it looks.”
 
@@ -216,9 +208,9 @@ Potter considered this. Lyra could feel him considering it, a slow rise and fall
 
 Moody looked at him for a moment. Then he snorted.
 
-“And sir,” said Potter. “I know Dumbledore told you to leave Professor Snape alone. I still think you’d do better watching him than her.”
+“And sir,” said Potter. “I’d like my map back.”
 
-“The one who looks harmless,” said Moody, “is the one you watch. Never mind the ones who look like trouble. I don’t change my methods for Dumbledore, or Snape, or you.” He jerked his head at the door. “Tomorrow, Potter, same time. Go on. Take your ferret.”
+“When I’ve finished with it.” The magical eye stayed on him a moment longer than it needed to. “I don’t change my methods for Dumbledore, Potter, and I don’t change them for you.” He jerked his head at the door. “Tomorrow, Potter, same time. Go on. Take your ferret.”
 
 Potter took his ferret.
 
@@ -298,17 +290,9 @@ She reached out a hand to stroke her. Lyra flattened herself along Potter’s ar
 
 Lyra had never been shy for a single minute, and she looked up at him to make sure he knew it.
 
-“You shouldn’t be on your own, Harry,” Granger was saying. “Not with those badges about. You ought to stay with your friends.”
+Weasley had not stopped. He had gone on along the bank without them, and was standing by himself at the edge of the water, a long way off, throwing stones in.
 
-Potter looked past her. Weasley had not stopped. He had gone on along the bank without them, with his hands in his pockets and his shoulders up round his ears, and was standing by himself at the edge of the water, a long way off, throwing stones in.
-
-“Tell him that,” said Potter.
-
-Granger sighed. “He thinks you put your name in and didn’t tell him. That’s all it is. He thinks you could have told *him*, at least.”
-
-“I didn’t put my name in.”
-
-“I know you didn’t. I *know*. He’ll come round.” She looked at Weasley’s back. “He always does.”
+“He thinks you put your name in and didn’t tell him,” said Granger. “He’ll come round. But you shouldn’t be on your own, Harry. Not with those badges about.”
 
 Lyra could have told them a good deal about the Weasleys, and what came of growing up seven to a house with nothing in it that somebody else had not had first. She could not say any of it, and found, somewhat to her surprise, that she did not much want to.
 

@@ -98,23 +98,15 @@ They were brewing antidotes. Snape came down the Slytherin bench halfway through
 
 Across the dungeon, Potter was sitting with Weasley again, and Weasley was saying something out of the side of his mouth that kept making Potter laugh into his sleeve. It was a perfectly ordinary laugh. Lyra had not heard it for a fortnight, and she put more powdered bezoar into her antidote than it wanted, and had to fix it.
 
-At the end of the lesson they took their flasks up to Snape’s desk to be marked. Potter went up early. His way there took him past the end of the Slytherin bench, and as he passed, a scrap of folded parchment came to rest against Lyra’s mortar, so neatly that Crabbe, on her left, did not look up from her cauldron.
+She had made up her mind before the lesson began. At seven o’clock tonight she had a chessboard and two Durmstrang seventh-years, one of whom had begun, last night, to look like a boy with something on the tip of his tongue; and she was not going to meet Potter anywhere with three crumbs. So she tore a corner off her parchment while the antidote simmered, and wrote on it, and folded it.
 
-This time Lyra saw him do it, and he knew she had.
+*Prior engagement. Sunday, two o’clock. The broom shed.*
 
-*Seven. The broom shed.*
+There was only one broom shed she could mean, and he would know it: she had been in it once with him, at the beginning of the longest evening of her life, among a lot of Shooting Stars with their twigs going every way at once.
 
-There was no signature. There was only one broom shed he could mean. She had been in it once, at the beginning of the longest evening of her life, among a lot of Shooting Stars with their twigs going every way at once.
+At the end of the lesson they took their flasks up to Snape’s desk to be marked. Lyra went up early. Her way there took her past the end of the Gryffindor bench, and as she passed she laid the folded corner beside his elbow without looking at him, so neatly that Weasley, at his other elbow, did not look up.
 
-At seven o’clock tonight she had a chessboard and two Durmstrang seventh-years, one of whom had begun, last night, to look like a boy with something on the tip of his tongue. And she was not going to the broom shed with three crumbs.
-
-She tore a corner off her parchment and wrote on it, and folded it, and on her way up with her own flask she laid it on the end of the Gryffindor bench, beside his elbow, without looking at him.
-
-*Prior engagement. Sunday, two o’clock.*
-
-He took it the way he took Snitches, without appearing to look. By the time she had handed her flask to Snape and turned round, he had it open under the bench.
-
-He read it twice. Then he folded it very small and put it in his pocket and sat for a moment with his hand flat on the pocket, looking at nothing, and Weasley glanced at him and stopped talking. Then Potter pushed back his stool. He was going to come across the dungeon at the bell, she saw; he was going to walk her out of the door and down the corridor and under that cloak, in front of Snape and Parkinson and every badge in the room, and argue with her there.
+She had handed her flask to Snape and turned round before she saw that Potter had a folded scrap of his own in his fingers, half out of his sleeve, as if he had been on the point of doing the same thing. He looked at the one by his elbow, and opened it under the bench, and read it twice. Then he put it in his pocket with the other one, the one he had not given her, and sat for a moment with his hand flat on the pocket, looking at nothing, and Weasley glanced at him and stopped talking. Then Potter pushed back his stool. He was going to come across the dungeon at the bell, she saw; he was going to walk her out of the door and down the corridor and under that cloak, in front of Snape and Parkinson and every badge in the room, and argue with her there.
 
 The dungeon door opened.
 
@@ -134,11 +126,11 @@ Sunday. Four days. She meant to have the whole of it by then.
 
 ⁂
 
-On Sunday morning she wrote to her mother, as she did every Sunday: two pages about Arithmancy and the weather and what the Beauxbatons girls did to their hair, and nothing whatever about anything. She did not ask about Durmstrang. Her mother had once, apparently, said no to a whole country on Lyra’s behalf and never mentioned it, and Lyra could not find a way of putting the question that did not sound like an accusation, or else like thanks. The postscript behind the tables of values went unanswered for another week. Under the letter to her mother lay a sheet that said *Dear Professor Lupin*, and nothing after it.
+On Sunday morning she wrote to her mother, as she did every Sunday: two pages about Arithmancy and the weather and what the Beauxbatons girls did to their hair, and nothing whatever about anything. She did not ask about Durmstrang. Her mother had once, apparently, said no to a whole country on Lyra’s behalf and never mentioned it, and Lyra could not find a way of putting the question that did not sound like an accusation, or else like thanks. The postscript behind the tables of values went unanswered for another week. Under the letter to her mother lay a sheet that said *Dear Professor Lupin*, and nothing after it. She did not write to her father. She had not written to him since the letter for Karkaroff, and found that she had nothing she wanted him to have.
 
 Draco had written by return about the autograph: two whole sides, all of it Krum, until the very bottom.
 
-*The gentleman says Krum shows his feint too often. He says a man who shows you his best trick has not got another one.*
+*The gentleman says Krum shows his feint too often. He says a man who shows you his best trick has not got another one. He says Father cheated much worse than me when he was my age, and got caught more.*
 
 Lyra read that twice, and put the letter away under the others.
 
@@ -166,11 +158,11 @@ He did not ask. He was looking at the lake.
 
 “One of us has to be.”
 
-“Ron saw you on the pitch on Tuesday. From the tower. On Krum’s broom.”
+“Ron saw you on the pitch on Tuesday. From the tower. On Krum’s broom.” He still did not look round. “And going down to that ship. Twice. Today as well.”
 
 “It pulls to the left,” said Lyra. “Did you get my note?”
 
-“I got it.” He did not look round. “Prior engagement.”
+“I got it,” he said. “Prior engagement.”
 
 He said it as though it tasted of something. Lyra had run all the way up from the lake, and had been charming to a Death Eater through three courses, and she was in no mood to be spoken to in that voice by a boy who had spent the week doing—what, exactly?
 

@@ -86,17 +86,19 @@ Her hand had gone to her sleeve, where her wand was. She noticed it there, and t
 
 He stopped. He looked at her as though she were one more thing the day had decided to do to him.
 
-“What do you want, Malfoy?”
+“A word,” said Lyra, in her mother’s voice for tradesmen, the cool and civil one that committed her to nothing. “If you can spare one.”
 
-“What a charming welcome. Your brothers manage better. They’re loud, and they’re vulgar, and they’ve never had a thought between them that wasn’t a joke, but at least they don’t go about with a face like a wet weekend.”
-
-It was the wrong thing to say. She saw it go in. Weasley’s ears went red, and then the rest of him.
-
-“Oh, right,” he said. “Course. You’d know all about it, wouldn’t you. Must be nice.” His voice had gone flat and nasty, in a way she had not heard from him before. “Invisibility Cloak. Secret girlfriend. Lovely life, being Harry Potter, isn’t it? Everything handed to him.”
+“Oh, right,” said Weasley. “Course. Here it comes.” His voice had gone flat and nasty, in a way she had not heard from him before. “Go on, then. You’d know all about it, wouldn’t you. Must be nice. Invisibility Cloak. Secret girlfriend. Lovely life, being Harry Potter, isn’t it? Everything handed to him.”
 
 Lyra’s hand found the ring in her pocket, and stopped there.
 
 She did not let it reach her face. Moody, she thought. Moody, with his eye, telling Gryffindors—but no. Moody would tell nobody anything; it was the one thing she was sure of about him. Then who? Then *how*?
+
+She had come up the slope meaning to be civil. It was plain now that civility was wasted on him.
+
+“Your brothers manage better,” she said. “They’re loud, and they’re vulgar, and they’ve never had a thought between them that wasn’t a joke, but at least they don’t go about with a face like a wet weekend.”
+
+Weasley’s ears went red, and then the rest of him.
 
 “Jealous, Weasley?” she said. “Is that what this is?”
 
@@ -142,7 +144,7 @@ She had written to him on Monday. It had been a very good letter. It had said th
 
 *My treasure*, her father had written back, in his long, beautiful hand, *how like you to think of your brother. Igor Karkaroff and I are old friends. I enclose a few lines for him, which you will deliver yourself; he will be delighted to see you, and I think you will find him generous. There is no need to trouble Severus with any of this. Or anybody else.*
 
-The enclosure was sealed with the Malfoy crest, in green wax.
+The enclosure was sealed with the Malfoy crest, in green wax. The name on the front of it, *Professor I. Karkaroff*, was not in her father’s hand. It was an older hand than his, with long loops in the old style and a slight unsteadiness at the ends of the letters, and she supposed he had dictated it to somebody.
 
 Lyra turned it over in her fingers, under the table, and did not break the seal.
 
@@ -154,31 +156,17 @@ Well. She knew now. And she was going to carry it anyway.
 
 ⁂
 
-The Durmstrang ship lay at anchor out in the lake, black against the black water, with a few dim lights burning behind its portholes like the windows of a house where everybody had gone to bed. Lyra went down to the shore after dinner, in her best cloak, with her father’s letter in one pocket and a square of good card for the autograph in the other, and stood at the edge of the water and did not quite know how one knocked on a ship.
+“It’s such a pity about the Goblet,” said Lyra, with a small sigh.
 
-In the end she simply said, clearly, “Lyra Malfoy, for Professor Karkaroff,” to the dark.
+She had been on Karkaroff’s ship for twenty minutes by then. She had said “Lyra Malfoy, for Professor Karkaroff” to the dark water after dinner, and a gangplank had come sliding over the lake to her feet, quite dry; and at the top of it a tall man in silver furs, with a little curling goatee and a great many yellowish teeth, had looked at her cloak, and her shoes, and the crest on her father’s letter, before he looked at her face. In his cabin, which was low and panelled and much too warm, he had read the letter by the lamp and folded it very small and put it inside his coat, and his smile had gone a little fixed.
 
-Something creaked out on the lake. A long wooden gangplank came sliding across the surface of the water towards her, quite dry, as if the lake had been told to keep its hands to itself, and settled its end on the shingle at her feet.
+“Your father,” he had said, “was a friend to me once, when I had very few friends. When I came out of—when I came back into the world, shall we say. A little money. A word in the right place. One does not forget.” And then, pressing a silver cup of something hot and full of rum into her hands: “He wished you to come to Durmstrang, you know. Your mother would not hear of it. Too far, she said. Too cold. We would have made a princess of you.”
 
-Karkaroff was waiting at the top of it. He was tall and thin, in furs of a rich silvery colour, with short white hair and a little goatee that finished in a curl, and a smile that showed a great many yellowish teeth while his pale eyes went over her cloak, and her shoes, and the crest on her father’s letter.
-
-“Lucius’s daughter!” He held out both hands to her as though she were a long-lost niece. “And the very image of him. Come in, come in, out of the cold.”
-
-His cabin was low and dark and panelled, and much too warm, with a stove in one corner and a great many furs thrown over everything. He read her father’s letter standing by the lamp, and when he had finished he folded it very small and put it inside his coat, and his smile had become a little fixed.
-
-“Your father,” he said, “was a friend to me once, when I had very few friends. When I came out of—when I came back into the world, shall we say. A little money. A word in the right place. One does not forget.” He poured something hot out of a jug into a silver cup and pressed it into her hands. It smelt very strongly of rum. “He wished you to come to Durmstrang, you know. Did he ever tell you? Your mother would not hear of it. Too far, she said. Too cold.” He laughed. “A pity. We would have made a princess of you.”
-
-Lyra had not known that. She kept it, and did not turn it over yet, and held the silver cup, and did not drink.
-
-She had a great deal of practice at men like Karkaroff. Her father had them to dinner. She praised the ship, which was hideous, and Durmstrang, which she had never seen, and above all Viktor Krum, who was a genius, an artist, the finest Seeker of his generation; and Karkaroff purred and grew expansive, and told her how he had found the boy, and trained the boy, and how the boy would bring the Triwizard Cup home to Durmstrang as surely as the sun rose.
-
-“If it had been a fair contest,” said Lyra, with a small sigh. “It’s such a pity about the Goblet.”
-
-His face changed so fast that she nearly spilt the rum.
+Lyra had not known that. She had kept it, and held the cup, and not drunk, and praised the ship, and above all Viktor Krum, until he purred. Now she watched the purr go out of him.
 
 “*Pity*? It is an outrage! Two champions! Two, for Hogwarts! And what does Dumbledore do? He shrugs, he smiles, he says the Goblet has spoken!” Karkaroff struck the table with the flat of his hand. “Behind everybody’s back. As always. That man has done nothing to my face in thirty years.”
 
-Lyra watched him rage. She had been brought up among people who lied for a living, and she had watched her father lie to the Minister for Magic across a dinner table without a hair out of place, and she knew what it looked like. This did not look like that. Karkaroff was not pretending. He did not know who had put Potter’s name in that cup, and he was furious that somebody had, and the fury was entirely real.
+Lyra had watched her father lie to the Minister for Magic across a dinner table without a hair out of place, and she knew what lying looked like. This was not it. Karkaroff did not know who had put Potter’s name in that cup, and his fury that somebody had was entirely real.
 
 So it had not been him.
 
@@ -192,9 +180,7 @@ He stopped. He glanced, for no reason Lyra could see, at the door. Then he smile
 
 Lyra smiled back, and did not ask. Her father had taught her that too: that the surest way to lose a thing a man had let slip was to bend down and pick it up in front of him. She looked into her cup instead, and said something admiring about the panelling.
 
-There was a knock, and the door opened, and Viktor Krum came in, stooping under the lintel.
-
-He was even more round-shouldered close to than he was across the Great Hall, with heavy black brows and a nose curved like a bird of prey’s, and he looked at her without much interest, as though she were one more thing Karkaroff had found to show him.
+There was a knock, and Viktor Krum came in, stooping under the lintel, and looked at her without much interest, as though she were one more thing Karkaroff had found to show him.
 
 “Viktor! Come, come. This is Lyra Malfoy, the daughter of a very dear friend of mine.”
 
