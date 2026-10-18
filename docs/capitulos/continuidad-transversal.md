@@ -76,7 +76,8 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 - Por la cicatriz, en primero (Y1-3): vio a Snape de rodillas ante Voldemort con la profecía («spare her»). **Lyra no lo sabe.**
 - Dumbledore no le contó lo de la profecía (Y1-4). Snape sabe que Harry sabe algo.
 - A Lyra le dijo «Dumbledore told me» (14), y ella no se lo cree del todo (no explica Northumberland).
-- Sabe cosas antes de que pasen (24, 25). **No se explica** hasta que lo haga el original.
+- Sabe cosas antes de que pasen (24, 25).
+- **Decidido por el autor (18 de octubre), sin revelar aún en el texto:** viaje en el tiempo. Harry viene de un mundo sin Lyra (el del canon, con Draco de su edad) y despertó en el niño de once años en el pasillo de *Year One* 3, con la cicatriz como puerta. Antes de eso es un niño sin pasado (16, *Y1* 1 y 2). Lo propio de este mundo (el juramento) se lo contó Dumbledore. Detalle y agujeros pendientes: `docs/notas/lo-que-sabe-harry.md`.
 
 ### Sirius y Pettigrew
 - **Lyra:** Sirius es inocente; Pettigrew era el guardián y vive (14); era Scabbers (19); lo vio confesar (22). En el 19 no se fijó en los dedos de la rata («I did not count its *toes*, Weasley»).

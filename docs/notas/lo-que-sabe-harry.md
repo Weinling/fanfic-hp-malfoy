@@ -68,7 +68,11 @@
 
 **El choque de la palabra «Mudblood»** (*Year One* 4) se arregla así: la otra vida no llega entera de golpe, sino a trozos, como un sueño que se recuerda por partes. Es además una herramienta útil, porque permite dosificar lo que Harry sabe.
 
-## 4. Lo que tienes que decidir tú: ¿de qué otra vida viene Harry?
+## 4. De qué otra vida viene Harry
+
+> **DECIDIDO por el autor (18 de octubre): A.** Harry viene de un mundo donde Lyra no existe: el del canon, con Draco de su edad. Ha vuelto a un mundo muy parecido, no al suyo. Llega en el pasillo de *Year One* 3, y la cicatriz es la puerta. Lo que sabe del pasado propio de este mundo (el juramento de Dumbledore y Sirius) se lo contó Dumbledore. La explicación **no se revela todavía** a los lectores: cuándo lo sabe Lyra sale de la fase de ideas.
+
+Las dos opciones que se le presentaron:
 
 - **A. De un mundo donde no existe Lyra** (el del canon: Draco como heredero, de su edad). *Recomendada.*
   - Lyra es lo único que no sabía que venía. Por eso sus predicciones fallan con ella y por eso no puede apartar los ojos de ella.
