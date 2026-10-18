@@ -2,7 +2,7 @@
 
 Adaptación al inglés de una fanfic coreana de Harry Potter con un genderbend de Draco: Lyra Malfoy. Se publica en Wattpad y Webnovel. (Título de trabajo anterior: *Harry Potter and His Malfoy Problem*.) El autor es Edén. Habla con él en español; los capítulos se escriben en inglés británico.
 
-**Antes de trabajar en la historia, lee `docs/handoff-v2.0.md`.** Es el documento vigente: motor, reglas de escritura, personajes, continuidad, plan y flujo. Los handoffs anteriores (v1.1 a v1.7) están superados. Si este archivo y el handoff se contradicen en algo de la historia, manda el handoff; en cómo se trabaja en este repositorio, manda este archivo.
+**Antes de trabajar en la historia, lee `docs/handoff-v3.0.md`.** Es el documento vigente y corto (unas 3.200 palabras): identidad, motor, reglas de escritura, rumbo, sistema y flujo. El `docs/handoff-v2.0.md` queda de archivo (cómo se llegó aquí) y no hace falta leerlo; los anteriores (v1.1 a v1.7) están superados. Si este archivo y el handoff se contradicen en algo de la historia, manda el handoff; en cómo se trabaja en este repositorio, manda este archivo.
 
 ## Mapa
 
@@ -10,7 +10,8 @@ Adaptación al inglés de una fanfic coreana de Harry Potter con un genderbend d
 |---|---|---|
 | `manuscrito/cap-NN-*.md` | Capítulos publicados (1 a 15; el resto de lo publicado sigue en `borradores/`, ver «Publicación») | Sí, solo para el cotejo con la oficial (ver reglas) |
 | `borradores/` | Capítulos sin publicar (el 16, escrito y revisado; el 17 en adelante), guiones, fichas y planes | Sí |
-| `docs/handoff-v2.0.md` | Motor y reglas | Sí, al cerrar cada capítulo |
+| `docs/handoff-v3.0.md` | Lo vigente: motor, reglas, rumbo y sistema | Sí, al cerrar cada capítulo, solo si cambia algo vigente |
+| `docs/handoff-v2.0.md` | Archivo: historia del proyecto hasta el 18 de octubre | No |
 | `docs/critico-v2.0.md` | Encargo y rúbrica del crítico | Sí |
 | `docs/guia-ilustraciones.md` | Guía para el ilustrador | Pendiente de actualizar |
 | `docs/notas/` | Notas de adaptación por capítulo | Sí |
@@ -26,7 +27,7 @@ Adaptación al inglés de una fanfic coreana de Harry Potter con un genderbend d
 - **Lo publicado no se toca (regla anterior, superada el 15 de octubre por la de arriba).** Decisión del autor (2026-10-11): ni siquiera retoques invisibles. **Excepción** (2026-10-11): el 1, el 2 y el 3 se pueden revisar, solo si enganchan más, mantienen la calidad y no chocan con lo ya leído ni con los capítulos 4 a 23 y el extra *Year One*. Hecho el mismo día: las versiones revisadas pasaron la prueba de continuidad y la crítica, y ya están en `manuscrito/`. El autor las sube a Wattpad y Webnovel con la nota «Chapter 1 revised: same story, faster start». Detalle en `docs/notas/revisiones/decisiones-1-2-3.md`. Del 4 al 15 sigue sin tocarse. Las erratas y los fallos de continuidad que se encuentren en `manuscrito/` se apuntan en `docs/notas/erratas-publicado.md`, y el autor decide si corrige y cuándo (tendría que hacerlo también en Wattpad y Webnovel).
 - **Extensión:** el techo de 4.200 palabras es orientativo. Si recortar para llegar a él pierde más de lo que gana, no se recorta (decisión del autor, 2026-10-11).
 - **Convenciones de prosa** (handoff §2): comillas y apóstrofos tipográficos (“ ” ’) desde el primer borrador, separador de escena `⁂`, cursivas con `*…*`, Mr/Mrs sin punto.
-- **Lecturas:** la sesión principal lee ella misma el estado, el handoff, los manuales y la continuidad transversal tras cada compactación, y la historia entera al empezar un arco (ver «Lectura obligatoria»). El agente `lector` queda para preguntas concretas y largas (decisión del autor, 2026-10-11).
+- **Lecturas:** la sesión principal lee ella misma lo que pide «Lectura obligatoria» tras cada compactación, y la historia entera al empezar cada tanda. El agente `lector` queda para preguntas concretas y largas (decisión del autor, 2026-10-11).
 - **Git:** haz commits con rutas explícitas al cerrar cada paso (capítulo escrito, crítica aplicada, handoff actualizado). Haz `push` al cerrar cada paso, sin preguntar (decisión del autor, 2026-10-11). El repositorio es privado y debe seguir siéndolo.
 - **Falta por traer:** los capítulos coreanos originales, que van en `coreano/` y los chats que el autor quiera conservar. Pídelos antes de adaptar el capítulo 17.
 
@@ -52,23 +53,26 @@ La sesión principal no puede apoyarse solo en el resumen de una compactación n
   - forma del final.
 
   El manual de cada capítulo nuevo se escribe al cerrarlo, en el mismo paso que el handoff.
-- **Lectura obligatoria:**
-  - **Al abrir sesión o tras compactar** (decisión del autor, 2026-10-11: **nunca se salta**; son la fuente principal de contexto y saltárselos es escribir a ciegas):
-    - el estado de trabajo;
-    - el handoff, **entero**;
-    - **todos los manuales, enteros**;
-    - `docs/capitulos/continuidad-transversal.md` (hitos de la pareja, quién sabe qué y desde cuándo, estado de cada personaje, fichas y deudas), que se actualiza al cerrar cada capítulo junto con el manual;
+- **Lectura obligatoria** (protocolo aligerado por el autor el 18 de octubre de 2026, porque la lectura completa ya costaba unos 370.000 tokens y crece unos 6.000 por capítulo; sustituye al del 11 de octubre):
+  - **Al abrir sesión o tras compactar, a mitad de tanda** (no se salta nunca):
+    - el estado de trabajo y la nota de sesión, si la hay;
+    - el handoff v3.0, **entero**;
+    - `docs/capitulos/continuidad-transversal.md` (hitos de la pareja, quién sabe qué y desde cuándo, estado de cada personaje, fichas y deudas), que se actualiza al cerrar cada capítulo;
+    - el guion de la tanda en curso;
+    - los manuales, enteros, de los capítulos ya escritos de la tanda y de los cuatro anteriores;
     - el texto completo de, como mínimo, los dos capítulos anteriores al que se va a escribir;
-    - el capítulo coreano que se va a adaptar y los dos siguientes (tres en total), completos, junto con las fichas y guiones ya hechos.
-  - Lo que se lee tras cada compactación se apunta en el estado de trabajo.
-  - **Al empezar un arco:** la historia entera, en texto completo, no los manuales. Unas 100.000 palabras; es asumible.
-  - **Antes de cerrar cada ficha:** la sesión principal busca ella misma en el texto (grep) cada nombre, objeto, lugar o «primera vez» que toque la ficha. El agente lector ya no es un paso fijo (decisión del autor, 2026-10-11): solo se usa para una pregunta concreta y larga.
+    - el coreano que se adapta y los dos siguientes, cuando el guion dice «se queda» o «cambia», y las fichas ya hechas.
+
+    El resto de los manuales se lee cuando la ficha toque algo de ese capítulo: entero el manual, y el pasaje con grep.
+  - **Al empezar una tanda:** la historia entera en texto completo, más el handoff, la continuidad y el rumbo. **Sin los manuales**, que repiten el texto. Cuando la historia pase de unas 200.000 palabras (hacia el capítulo 45), se lee entera la tanda anterior y del resto, los manuales.
+  - Lo que se lee se apunta en el estado de trabajo.
+  - **Antes de cerrar cada ficha:** la sesión principal busca ella misma en el texto (grep) cada nombre, objeto, lugar o «primera vez» que toque la ficha. El agente lector solo se usa para una pregunta concreta y larga (decisión del autor, 2026-10-11).
 - **Nunca hay texto que solo exista en el contexto.** Cada escena se commitea al escribirla, y si se compacta a mitad de capítulo, el archivo y el estado de trabajo bastan para seguir.
 - **El coreano es fuente de trama, no de continuidad.** La continuidad la dan el manuscrito, los borradores y los manuales.
 
 ## Flujo de un capítulo
 
-Es el del handoff §8, con este cambio: los capítulos se escriben en `borradores/cap-NN-titulo.md`, una escena por paso, en vez de en un documento de Claude Docs. Cuando el autor publica un capítulo, el archivo pasa a `manuscrito/`.
+Es el del handoff v3.0, §10, con este cambio: los capítulos se escriben en `borradores/cap-NN-titulo.md`, una escena por paso, en vez de en un documento de Claude Docs. Cuando el autor publica un capítulo, el archivo pasa a `manuscrito/`.
 
 ## Quién hace qué (propuesta, por cerrar con el autor)
 

@@ -1,0 +1,156 @@
+# Handoff v3.0: lo vigente
+
+18 de octubre de 2026 · @Edén
+
+Sustituye al v2.0 como documento de trabajo. Recoge **solo lo que sigue en vigor**: la identidad, el motor, las reglas de escritura, lo decidido sobre el rumbo y el sistema de trabajo. La historia de cómo se llegó aquí (estados tras cada capítulo, planes viejos, críticas) está en `docs/handoff-v2.0.md`, que queda de archivo y no hace falta leer. El estado de la historia lo dan los manuales (`docs/capitulos/`) y la continuidad transversal (`docs/capitulos/continuidad-transversal.md`). Si este documento choca con un manual o con el texto, manda el texto. En cómo se trabaja en el repositorio, manda `CLAUDE.md`.
+
+## 1. El proyecto
+
+- **Qué es:** la adaptación al inglés de una fanfic coreana de Harry Potter (unos 120 capítulos) con un genderbend de Draco: **Lyra Malfoy** (Karina en el original; Carina en la traducción oficial). Draco es su hermano, cuatro años menor. El autor es Edén; se le habla en español. Los capítulos van en inglés británico.
+- **No es una traducción.** El coreano aporta trama, escenas y relaciones, y la prosa se reconstruye para que parezca escrita en inglés. Se puede reescribir, reordenar, expandir, condensar y añadir escenas pequeñas compatibles. No se cambian acontecimientos importantes, motivaciones, relaciones ni resultados sin consultar al autor. Desde el 31, el rumbo es propio (§8) y el original solo manda donde el guion de la tanda dice «se queda» o «cambia».
+- **No se calca la traducción inglesa oficial** (`referencia/oficial-en/`, solo para comparar).
+- **Contenido:** los protagonistas tienen 14 años en el cuarto curso y como mucho 17 al final. El romance es emocional: tensión, celos, confesiones, besos breves centrados en lo que significan. Nada sexual ni sensual; si el original lo tiene, se rehace conservando la función.
+- **Escrito:** del 1 al 30 y los *Year One* 1 a 4. El 31 es el siguiente. El *Year One* 2 se va a rehacer (`borradores/extra-year-one-2-ficha-guion.md`).
+- **Publicación:** la lleva el autor; está al día en `CLAUDE.md`.
+
+## 2. Identidad: lo que no cambia
+
+La regla de oro: **subir la temperatura sin bajar la calidad**. Más emoción que el lector pueda leer, no más adjetivos.
+
+- **La prosa.** Una fanfic británica que no parezca traducción ni texto generado: párrafos con densidad de novela, frases variadas, humor que sale del carácter y del timing. Parte del humor de Lyra es que razona de forma impecable dentro de una visión del mundo muy sesgada.
+- **Lyra piensa y actúa.** Negocia, guarda secretos que le cuestan, gana enfrentamientos y Harry lo nota. No se convierte en una chica que reacciona a lo que hace él.
+- **Harry no es un galán.** Puede ser frío, manipular y equivocarse. No siempre tiene la frase justa, y cuando la tiene, le cuesta algo. Paga algo en cada arco. Protege excluyendo.
+- **Romance con thriller.** Los Horrocruxes, los Black y la familia Malfoy pesan en la trama.
+- **El lector es listo.** No se explica Hogwarts, no se resume el capítulo anterior al empezar y el narrador no traduce lo que la escena ya mostró.
+- **El canon importa.** Discrepancias clasificadas de la A a la D (§6). Las referencias canónicas se sienten como mundo, no como wiki.
+- **La contención es una virtud**, siempre que el lector sepa qué se está callando.
+- **Convenciones:** ortografía y léxico británicos; «Mr» y «Mrs» sin punto; Quidditch con mayúscula; comillas y apóstrofos tipográficos (“ ” ’) desde el primer borrador; separador de escena ⁂; cursivas con `*…*`; en el punto de vista de Lyra, Harry es «Potter» (salvo en momentos marcados, como el bucle del 21 y el 22); terminología oficial inglesa; nada posterior a 1998; nada que solo tenga sentido en Corea. En la cabeza de Lyra, Hermione sigue siendo «Mudblood» o «Granger», según el momento de su arco.
+- **Lo que no se copia de *Draconia Malfoy and the Boy Who Said No*:** la barbilla levantada y el ceño de Harry como muletillas; «for the first time in her life» en cada capítulo; Harry que siempre acierta; emociones nombradas; exposición para no lectores; resúmenes al principio; chistes repetidos hasta la fórmula; gestos grandes en todos los capítulos. **Y nada de sus escenas:** Lyra rehén en la segunda prueba; en el Baile, «Ask properly», la reverencia torpe, las clases de baile, la túnica verde y el beso en la mejilla; la carta del padre «You will not speak to the Potter boy again»; la cinta en la muñeca en la tercera prueba.
+
+## 3. El motor
+
+- **La promesa:** «Malfoys don’t do favours. We extend credit.» (7). Lyra y Harry solo saben quererse a crédito, y el romance avanza cada vez que la cuenta deja de cuadrar. **La cuenta aparece cuando la escena la pide**, como mucho un momento clave por capítulo y no en todos, y va apagándose: el arco de Lyra va del crédito al regalo.
+- **La pregunta romántica:** el lector sabe desde el 3 que se gustan. Lo que le hace seguir es **¿la dejará entrar?** y, detrás, **¿le elegirá ella a él frente a los suyos?** Lo que sabe Harry se escribe como confianza, no como acertijo: cada vez que esconde algo, a Lyra le duele como un «a ti no».
+- **El deseo del lector:** en cada capítulo el lector quiere algo concreto para la pareja, y se paga o se frustra a propósito.
+- **La escalera:** cada capítulo mueve la relación un peldaño, y se ve. Nunca dos capítulos seguidos planos. El contacto físico sube despacio y es casto; cada contacto nuevo ocurre una vez, como acontecimiento. Besos en la boca hasta el 30: cuatro (3, 19, 29 y 30); el próximo no se vende como otro «primero».
+- **Fichas:** objetos con historia que pasan de uno a otro. Como mucho una ficha nueva por arco. Las vivas están en la continuidad transversal, §5.
+- **Arcos** de cuatro a seis capítulos con pregunta propia y pago grande al final; ahora se planifican por tandas (§9).
+- **El thriller pasa factura** al menos una vez cada dos capítulos, y pone a Lyra y a Harry en el mismo bando o en bandos opuestos.
+- **Lo que sabe Harry es del mundo del canon**, y Lyra es la divergencia: cuando actúa como ella misma, sus predicciones fallan. Él pierde sin volverse tonto.
+- **Lyra gana** en su terreno (su familia, los Black, Narcissa, la casita, Draco, Slytherin), y **su prejuicio le cuesta**; no todo el cambio pasa por Harry.
+- **El obstáculo de fondo:** el chico que la salva puede ser el que amenaza a su familia.
+
+## 4. Reglas de escritura
+
+### Lo que necesita cada capítulo
+
+1. **Un motor.** Una sola cosa mueve el capítulo; los demás hilos se tocan de pasada.
+2. **Un peldaño.** La relación sube o baja, y se ve.
+3. **El deseo del lector.** Qué quiere para la pareja, y si se paga o se frustra.
+4. **Una escena de los dos.** Como máximo, un capítulo de cada cuatro sin ella, y entonces su ausencia tiene que pesar.
+5. **Un momento pantallazo**, planificado: una frase o una imagen que el lector citaría.
+6. **Calor.** Al menos un momento de humor compartido o de alegría.
+7. **El gancho final.** Variar el tipo y no repetirlo dos capítulos seguidos. Nunca Lyra acostada deduciendo.
+
+### Legibilidad
+
+**El lector siempre sabe qué siente Lyra, aunque Lyra no lo diga.** Herramientas, de más sutil a más directa: lo que hace con un objeto; un detalle corporal concreto; una mentira que el lector ve a través; un testigo que la lee y lo dice en pocas palabras (Crabbe, una intervención por capítulo como mucho); una frase verdadera que se le escapa. **Desbordamiento:** una vez por arco, como mínimo, la contención se rompe del todo. **La negación romántica:** como mucho tres momentos por capítulo, siempre transparentes; en voz alta, solo como comedia y con alguien que la desmienta.
+
+### Ritmo
+
+- **Extensión:** de 3.000 a 3.800 palabras; 4.200 de techo orientativo. Si recortar pierde más de lo que gana, no se recorta.
+- **Arranque en escena**, con una primera línea concreta.
+- **Deducción a solas:** un bloque por capítulo como mucho, unas 400 palabras, y mejor si Lyra hace algo mientras piensa.
+- **Escenas que se ganan su sitio:** si una escena solo transmite información, se funde con otra que tenga conflicto.
+
+### Tics
+
+**Prohibidos o agotados:** fragmentación en cascada; falsa trascendencia; el remate «That + reacción»; «Lyra had no answer» y variantes; comparaciones con perros; la cara que se cierra (como libro, puerta o habitación); Harry diciendo cosas graves en tono trivial; «before she had decided to» y variantes («without meaning to», «without deciding to», «she found she had…»; como mucho una por capítulo y solo si lleva el chiste); «a breath she had not been aware of holding»; la metáfora de las sumas para pensar (el libro de cuentas literal no cuenta); anclajes de edad («since she was old enough to…»); «It was not a nice smile. It was…».
+
+**Limitados:** «No X. Y.» (o «It was not X. It was Y.»), una vez por capítulo y solo cuando mejora la línea (el defecto es repetirla, no usarla); «It occurred to her» y «to her annoyance», una vez; «for some time», «for a while», una o dos; el tiempo atmosférico con intenciones, dos; la coletilla con «which», tres; «for a long moment», «clicked her tongue», «filed it away», «She put that down to», una; guardar algo en el cajón, solo con variación; «for the first time in her life», una vez por arco; «at all», dos por capítulo, mejor en diálogo; la prolepsis del narrador, una vez por arco.
+
+**Vigilar:** Lyra levantando la barbilla; la quietud como reacción; caras que cambian y vuelven; explicar un gesto dos veces; el narrador aclarando lo que una réplica ya dijo; espejos explicados; saltos fuera del punto de vista; dos metáforas para la misma emoción; repetir una lista dentro del capítulo; simetría de remates; diálogos de Harry demasiado pulidos; símiles con «the way…» en serie; reacciones corporales de catálogo; imágenes recicladas («watch his face», «nothing to do with anything», las noticias que llegan «in pieces», las orejas rojas de Harry, la mano a la cicatriz); varios arranques seguidos con Lyra de mal humor.
+
+Antes de entregar: una pasada buscando estos tics y otra de **lectura en frío** (¿dónde se cansaría un lector de Wattpad?, ¿qué frase citaría?, ¿sabe en cada momento clave qué siente Lyra?).
+
+## 5. Personajes: su función
+
+El estado de cada uno al final del último capítulo está en la continuidad transversal, §4. Aquí, solo su función:
+
+- **Lyra:** orgullosa, elitista, competitiva, teatral por dentro, valiente a ratos, leal a su familia y más vulnerable de lo que admite. Credo: «knowledge is power». Quiere en la superficie saber, controlar y mantener vivos a los Malfoy; de verdad, que la elijan y la dejen entrar. Lo convierte todo en transacción. Gestos: se muerde la uña del pulgar; tiene la cara perfectamente quieta; pelo atado en cada partido desde 1992. Oclumancia natural («very strong natural defences of the mind», 17; resiste el Imperius, 27). Patronus: un zorro.
+- **Harry:** el gamberro heredero de los Merodeadores, que sabe cosas que no debería (§7). Protege excluyendo; sus sentimientos se filtran por lo que hace. Se toca la cicatriz cuando va en serio. Patronus: un zorro, como el de ella.
+- **Vanessa Crabbe:** la testigo. Dice en muy pocas palabras lo que Lyra niega. Arco: del séquito a amiga elegida.
+- **Greer Goyle:** golosa, leal, calor y comedia.
+- **Panther Parkinson:** chico, molino de rumores, nunca un rival serio. No existe ninguna Pansy.
+- **Hermione:** espejo y rival; respeto ganado a pulso, sin amistad fácil.
+- **Ron:** leal a Harry; con Lyra, pelea de costumbre que se ablanda.
+- **Snape:** mecenas y acreedor de Lyra; vigila.
+- **Lucius:** cariñoso en casa, soberbio fuera; la amenaza que viene de casa. **Narcissa:** la puerta que todavía no se ha abierto. **Draco:** la inocencia en peligro.
+- **Moody:** el de verdad; desconfía de Lyra por ser hija de Lucius.
+- **Lupin:** dimitió; se declara en deuda con Lyra y le escribe. **Sirius:** libre de la caza, no exonerado en público. **Dumbledore:** conoce el secreto de Harry («You cannot tell her everything», 22).
+
+## 6. Canon y clasificación
+
+- **A:** error trivial, se corrige. **B:** cambio deliberado, se conserva. **C:** posiblemente deliberado, se marca y se observa. **D:** consecuencia de una decisión nuestra, se señala si causa problemas. Nunca parchear en silencio.
+- **Cambios del fic que se conservan (lista corta):** Draco cuatro años menor; Harry se libra de tía Marge sin magia; el juramento de Sirius y Dumbledore (no pueden señalar al guardián); la primera clase de Defensa solo con Slytherin; Buckbeak confinado, no condenado; Black ataca durante el banquete de Halloween; los dos Patronus, zorros; la Saeta de Fuego de Lyra (regalo de Lucius) y la de Harry, comprada después; Pettigrew en manos de Dumbledore desde el 22; el guardapelo de Regulus destruido en agosto de 1994; Ron y Hermione saben lo de los Horrocruxes desde el 14 de noviembre de 1994; Moody es Moody.
+- Las decisiones menores y las fechas están en los manuales y en la continuidad transversal.
+
+## 7. Lo que sabe Harry (decidido el 18 de octubre; no se revela aún)
+
+Viaje en el tiempo. Harry viene de un mundo donde Lyra no existe (el del canon, con Draco de su edad). Despierta en el Harry de once años en el pasillo del *Year One* 3, a finales del invierno de 1992, con la cicatriz como puerta: primero le entra el recuerdo de Voldemort con Snape y la profecía, y con él vuelve el Harry de la otra vida, a trozos. Antes de ese pasillo es un niño sin pasado. Lo propio de este mundo (el juramento) se lo contó Dumbledore, que conoce el secreto. Detalle, pruebas y agujeros: `docs/notas/lo-que-sabe-harry.md`.
+
+## 8. Rumbo aprobado (18 de octubre)
+
+Detalle en `docs/notas/ideas-divergencias.md` (crítica de Fable en `docs/fable/001-divergencias.md`; poda en `docs/notas/ideas/poda-agente.md`).
+- **La Casa.** El señor de la casita del este es **Abraxas Malfoy**, dado por muerto. Construye el regreso de Voldemort por la red de los Malfoy (sin cementerio, porque Pettigrew está con Dumbledore; la carta del 28 era una pieza). Voldemort vuelve en la casa de Northumberland, y Abraxas pierde el control esa misma noche. Lyra descubre quién es en la Navidad del quinto. Su retrato falta del despacho.
+- **Lyra deduce el secreto de Harry al final del cuarto:** que viene de otra vida, que allí ella no existía y que dejó pasar la Cámara. Rompen. La segunda capa (que es un Horrocrux) queda para el sexto.
+- **Moody es Moody.** La culpable es Crouch padre bajo el Imperius de su hijo, y lo destapa Lyra.
+- **Tercera prueba:** Harry aparta a Cedric y toca la Copa solo, preparado para un cementerio que no llega. Cedric vive.
+- **Baile:** la pareja, pública por un plan de Harry, y el enfado de Lyra.
+- **Lo que se conserva del original sí o sí:** el veneno que Lyra se bebe ante Harry (sexto); la Marca, la orden y el Voto, por la Casa; la ruptura y el anillo devuelto; Riddle dentro de Harry y la respuesta de Lyra; Lyra se ofrece y Harry se niega a matar; Bode; Narcissa reconociendo a Harry; las muertes de Sirius y de Snape; la pluma de sangre y el «I love you».
+- **Semillas ya puestas:** la silla que cruje en el palco (24), la lámpara de la casita (25), la nota de Regulus que guarda Dumbledore (26), la letra vieja de la carta lacrada (28), Lucius de niño en la carta de Draco (29), la Copa (30). Tope: no más pistas de la casita del 30 al 32.
+
+## 9. La tanda en curso y el sistema de trabajo
+
+- **Tanda del 31 al 40** (original 34 a 51, del 24 de noviembre de 1994 al final del cuarto): `borradores/guion-tanda-31-40.md`, **aprobado** el 18 de octubre con sus nueve decisiones. Resumen en el §18 del v2.0.
+- **Tres niveles,** cada uno aprobado por el autor antes del siguiente:
+  1. el rumbo de la historia entera (§8);
+  2. el guion de cada tanda (de 8 a 12 capítulos), escena por escena, que se repasa contra el texto completo antes de aprobarlo;
+  3. cada capítulo (§10).
+- **Tandas que quedan:** el final del cuarto (en curso), el verano de 1995, el quinto, el Ministerio, el sexto, Riddle y el plazo, y el final, que decide el autor. Unos 38 a 48 capítulos en total desde el 31.
+- **El coreano** es fuente de trama donde el guion dice «se queda» o «cambia». Faltan los del 36 en adelante: pedírselos al autor antes de la ficha del 33.
+
+## 10. Flujo de un capítulo
+
+1. **Lectura** según el protocolo de `CLAUDE.md`.
+2. **Ficha y guion por escenas** (`borradores/cap-NN-ficha-guion.md`): motor, peldaño, deseo del lector, escena de los dos, pantallazo, calor, gancho, fichas, cuentas (solo si la escena las pide), hilos atrasados, thriller, fechas, lo comprobado con grep. **La aprueba el autor antes de escribir.**
+3. **Escritura** en `borradores/cap-NN-titulo.md`, una escena por paso, con commit de cada una.
+4. **Pasada de tics y lectura en frío.**
+5. **Crítica de Opus** con `docs/critico-v2.0.md`. El crítico no lee el coreano, los planes, las fichas ni los capítulos futuros; se reutiliza mientras le quepa en el contexto. Las notas se aceptan, en parte o no, siempre con motivo; luego se le manda una nota con lo que se cambió.
+6. **Arreglos.**
+7. **Manual del capítulo, continuidad transversal, este handoff si cambia algo vigente, y el estado.**
+8. **Commit y push** a la rama de trabajo y a `main`.
+
+**Revisor:** lo lleva el autor en otro chat (`docs/prompt-revisor.md`); sus informes llegan a `docs/notas/revisiones/`.
+
+**Presencia de autor:** nota breve al final de cada capítulo con una sola pregunta pegada a la escena; agradecer en público a quien señale un error; pedir votos rara vez. El personaje de autora en Wattpad es Ash (skill `ash-wattpad-voice`).
+
+**Extras:** solo en pausas reales de la trama, nunca antes de un cliffhanger. Los *Year One* son de primero (1991-92); los extras de primero del original que quedan (el Bosque y el espejo de Oesed) se deciden al cerrar el cuarto.
+
+## 11. Dónde está cada cosa
+
+| Qué | Dónde |
+|---|---|
+| Estado de trabajo (lo primero que se lee) | `docs/estado-de-trabajo.md` |
+| Capítulos | `manuscrito/` (1 a 15) y `borradores/` (16 a 30, *Year One* 1 a 4) |
+| Manual de cada capítulo | `docs/capitulos/cap-NN.md` |
+| Continuidad transversal | `docs/capitulos/continuidad-transversal.md` |
+| Guion de la tanda | `borradores/guion-tanda-31-40.md` |
+| Lo que sabe Harry | `docs/notas/lo-que-sabe-harry.md` |
+| Rumbo | `docs/notas/ideas-divergencias.md` y `docs/notas/ideas/poda-agente.md` |
+| Resúmenes de la oficial | `borradores/resumen-oficial-36-54.md` y siguientes |
+| Coreano | `coreano/ko-NN.md` |
+| Encargo del crítico | `docs/critico-v2.0.md` |
+| Erratas de lo publicado | `docs/notas/erratas-publicado.md` |
+| Cotejo con la oficial | `docs/notas/cotejo-oficial/` |
+| Historia del proyecto (archivo) | `docs/handoff-v2.0.md` |
