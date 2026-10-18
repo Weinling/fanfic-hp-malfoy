@@ -199,3 +199,123 @@ Ron came clattering down after them both, red in the face and grinning all over 
 He fell in beside Harry, still grinning, and started describing at great length what Crabbe would look like going up seven flights with her ankles stuck together, and Harry laughed. It was his ordinary laugh. The face he had worn a minute ago on the stairs might never have been there.
 
 Behind them, after a moment, Harry heard Hermione make a small, furious noise on the landing, and come after them.
+
+⁂
+
+They saw him coming from the end of the corridor: Potter in front, with his hands in his pockets, and Weasley at his shoulder grinning like a dog with a stick, and Granger a few steps behind, looking as though she had lost an argument on the stairs.
+
+Lyra did not get up. Getting up would have meant something.
+
+“Looking for me, Malfoy?”
+
+He smiled as he said it. It was a very good smile, and Lyra knew good ones when she saw them; she had grown up among people who smiled for a living, at her mother’s parties, over the rims of glasses. Somebody had taught him that smile, she thought, and taught him well. It had nothing to do with being pleased.
+
+“Leg-Locker,” he said. “On *Neville*. Honestly? My cousin used to do that sort of thing when he was seven, and he didn’t even have a wand. I thought you’d come up with something a bit better than that.”
+
+People were drifting over from the library doors to see what was happening. Lyra could feel them arriving, one and two at a time, the way you can feel a room fill up behind you, and in a few words he had made her, for every one of them, a girl who jinxed people’s legs in corridors because she could not think of anything cleverer.
+
+“Potter,” she said.
+
+“That’s me.” He said it loudly, for the corridor. “Was there something you wanted to tell me? In front of everybody? Only you’ve gone a bit pink.”
+
+“In your *dreams*, Potter.”
+
+She put up a hand and swept her hair back over her shoulder.
+
+It was the oldest thing she knew how to do. She felt every eye in the corridor go with it, the way they always did, and she stood up at last, because now it would mean something. Chin up. Shoulders back. She was Lyra Malfoy, and this was a corridor in a school, and he was a boy with a scar.
+
+“You want to be careful, Potter.”
+
+“Of what?”
+
+“Of *everything*.” There were twenty people round them now, and more coming, and she raised her voice to reach the back. “You fight with older students. You answer back in Potions. You haven’t any respect for anybody. If you carry on like this, things are going to start happening. To you, and to everybody round you.” Her hand had found her wand. “Longbottom was the polite version.”
+
+Potter took a step towards her.
+
+All three of them flinched. Lyra felt Crabbe do it on one side of her and Goyle on the other, as neatly as if they had practised it, and caught herself at once and turned it into a toss of the head; but the people at the front had seen.
+
+“Hang on,” said Potter, and he looked honestly confused, like a boy asking for help with his homework. “*I* fight with older students? You mean the two third-years? Two of them, behind the greenhouses, waiting for a first-year? That’s the story you want to tell everybody? If I were them I’d be having my breakfast in the kitchens.”
+
+Somebody at the back laughed. Then several people did.
+
+“And respect.” He turned so that he was talking to all of them. “Go on, then. Which bit wasn’t true? That Snape used to be one of *his*? Ask anybody’s dad. That he takes points off you for breathing, unless you’re in Slytherin? Ask anybody.”
+
+This time the whole corridor laughed: the Gryffindors, and the Hufflepuffs who had been on their way to the library, and a knot of Ravenclaws by the window with their books held against their chests. Everybody but the Slytherins.
+
+Lyra had been laughed at before, a little, by people who did not matter. This was not that. The laughter went round her at first, the way water goes round a stone, and then it was not going round her any more. She could feel Crabbe and Goyle going quiet beside her, and her own mouth doing something she had not told it to, and she bit her lip to stop it.
+
+“Stop it! Both of you!” Granger had pushed her way to the front. She looked at the crowd and then at Potter, and pulled at his sleeve. “Harry, that isn’t why we came. We came about *Neville!*”
+
+“Speak for yourself,” muttered Weasley, and stopped when Granger looked at him.
+
+“You’re going too far as well, Harry, you know you are. But *you*—” She rounded on Lyra. “You can’t just go round jinxing people because you feel like it! You owe Neville an apology!”
+
+Lyra had just been laughed at by half the school. She was not going to apologise to anybody for anything, and least of all because a girl with bushy hair had stepped out of the crowd and told her to.
+
+“Who asked *you?*” Her voice went high, and she let it. “Go back to your Muggles, you filthy little *Mudblood*!”
+
+It was a word from home. Her father used it about the Minister’s new secretary, and about the people who had bought the house at the end of the lane, over the soup. She threw it the way you throw the last card in your hand, the one that wins; and she waited for the gasp, and for the Slytherins to laugh.
+
+The corridor changed.
+
+The laughing stopped as if somebody had shut a door on it. Granger had gone white. Weasley, who a minute ago had been grinning about Crabbe’s legs, stepped in front of her with his fists clenched and his ears scarlet, and even the Ravenclaws by the window had gone pale, and none of the Slytherins laughed at all.
+
+And Potter did not look at Lyra.
+
+He looked at Granger. He looked at her arms, first one and then the other, and at her hands, and her wrists, and then up at her face, quickly, one thing after another, the way Lyra’s mother went down the table after a large dinner to see that all the silver was still there. As though he had expected something to be missing. As though he could not believe it was not.
+
+Then he turned round, and Lyra saw his face.
+
+There was no smile on it. There was nothing on it. It had gone white and perfectly still, and it was not angry, or not in any way she knew; and it was looking at her as though she were a long way off, and as though it had come a long way to look.
+
+He moved first.
+
+“*Locomotor Mortis!*”
+
+Crabbe’s legs snapped together and she went down sideways, and her wand skittered off across the flagstones. Goyle had hers out a moment later, quicker than Lyra had ever seen her do anything; there was a crack, and Potter’s wand went spinning out of his fingers and away under the bench. Weasley went for Goyle. There was a great deal of flailing. Goyle shoved him so hard he went rolling across the floor, but he had got hold of her wand on the way, and by the time the two of them were on their feet again both wands had been flung down the corridor in opposite directions, and Weasley and Goyle stood glaring at each other with nothing in their hands.
+
+Which left Lyra.
+
+Potter walked towards her. He had no wand. He did not seem to have noticed.
+
+She had hers up. Her hand was shaking, and she did not care, because it was pointing at him, and it was a wand, and he had nothing.
+
+“*Flipendo!*”
+
+It hit him on the side of the head. She saw it hit. His head went over, and he took one step sideways to keep his feet, and then he straightened and kept coming. Something dark had started down from his eyebrow. He did not put up a hand to it.
+
+She tried again. She had the next word ready behind her teeth, and her arm would not lift. It simply stayed where it was, at the height of her chest, with the wand at the end of it, as though it had been told something she had not, and the word stayed behind her teeth with nowhere to go.
+
+He took the wand out of her fingers.
+
+He did not snatch it. He took it the way one takes a thing that is being handed over, and he did not throw it away. Then he had her by the wrist, and she went back against the wall with a thump that knocked the breath out of her.
+
+“*Ow!*”
+
+“Take that back,” said Potter.
+
+“Let—go of me!”
+
+He had her wand in his other hand. He was not pointing it at anything. He held it low and loose by his side, between two fingers and a thumb, the way her father held his across the dinner table when there was somebody at it he did not care for: the way a man holds a wand who has never once in his life needed to aim one in a hurry. Lyra had seen a great many wizards hold their wands. She had never seen a boy do it like that. She had seen men.
+
+“You’re frightened of his *name*,” said Potter, “and you’ll say *that*? You want something to be scared of, be scared of that!”
+
+“I’ll say what I *like!*” She was frightened; she could feel it in her knees. She said it anyway, straight into his face, because it was the only thing she had left that was hers. “*Mudblood!*”
+
+“*Voldemort!*”
+
+People flinched all round them, as if he had thrown something into the crowd. The dark line from his eyebrow had reached his eye, and gone into it, and he did not blink it away. Half his face had gone red, and he was looking at her through it.
+
+“He came for me when I was one,” said Potter, “and he couldn’t do it. A *baby*, Malfoy. He lost to a baby, and then he ran off and hid. And you can’t even say his name?”
+
+He was not shouting any more. That was the worst of it. He had leaned in close, and his voice had gone quiet and level, the voice of somebody explaining a thing he had explained before, to other people, in other places; and her wand was coming up in his hand, slowly, not in any hurry at all, until for the first time it was pointing at her.
+
+“That isn’t scared, Malfoy. That’s manners. You want to know what scared actually is—”
+
+His lips came apart on the next word.
+
+Her face went.
+
+It did not happen the way crying happened at home, where there was always a moment first, to decide about it in. It came up from somewhere under her ribs, all at once, like being sick, and her mouth opened by itself and the noise came out of it, high and wet and enormous, and went off the stone and came back to her, so that she could hear exactly what she sounded like. She sounded like Draco, at three, when he was lost in the garden. Her eyes had shut. She did not remember shutting them. She could feel the wall against her shoulder blades and his hand on her wrist and her own breath going in and out in great dragging pieces, and she could not stop any of it, and in the middle of all of it she heard her own voice, a long way off, saying things.
+
+“Stop it,” she said. “I hate it, I hate both of them—Vol-Voldemort, and that—that word—I hate all of it—”
