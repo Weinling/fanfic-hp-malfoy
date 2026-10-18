@@ -834,3 +834,22 @@ Aprobado por el autor: `docs/notas/ideas-divergencias.md` (crítica de Fable en 
 - **Baile:** solo la pareja hecha pública por un plan de Harry y el enfado de Lyra.
 - Sin «el mundo que rima» en sexto: la Marca y el veneno entran por la Casa.
 - Poda y lo que se conserva: `docs/notas/ideas/poda-agente.md`.
+
+## 18. La primera tanda y el sistema de trabajo (aprobado el 18 de octubre)
+
+**El guion de la tanda del 31 al 40** (original 34 a 51, del 24 de noviembre de 1994 al final del cuarto) está en `borradores/guion-tanda-31-40.md`. El autor lo aprobó el 18 de octubre, repasado contra la historia entera, con sus nueve recomendaciones. Lo que fija, en corto:
+- **Moody es Moody.** Harry da por hecho, por su otra vida, que el hijo de Crouch está detrás de Moody. Como el mapa dice «Alastor Moody», cree que lo controla con el Imperius desde dentro del baúl. Ataca el despacho con Sirius la noche del 21 de diciembre (coda del 31, desde Harry), y Moody, que les ha visto venir en el mapa, los encierra tres días convencido de que el del Imperius es Harry. Acierta el mecanismo y se equivoca de persona.
+- **El culpable lo destapa Lyra:** Crouch padre, bajo el Imperius de su hijo, que está vivo. Se lo da a Harry en la nota del anillo devuelto (40), con el truco de las cartas de su padre (9).
+- **Lyra deduce el secreto de Harry** (39) con la lista del 12, el «I was sure» de Moody, el «I know» del escarabajo y la Copa (sembrada en el 30). Rompen por dos causas a la vez. La segunda capa (el Horrocrux) queda para el sexto.
+- **El Baile:** la pareja se hace pública por un plan de Harry que ella no conocía; lo que significa en público lo decide ella («Nobody left me anywhere, Potter»).
+- **Decisiones del autor:** Narcissa recibe por fin respuesta a la posdata de 1993 (33: *It was Harry Potter who was asking*); Crouch padre muere; el barco de Durmstrang se va la noche del regreso, con Karkaroff y sin sus alumnos; la copa de Hufflepuff, al quinto; Dobby, una línea en las cocinas (36); la pista de Draco del 36 («gone abroad»); la silla que cruje en el palco del 24; los extras de primero del original (el Bosque y el espejo), para cuando se cierre el cuarto.
+- **Lo que no sale en esta tanda:** el nombre de Abraxas; que Voldemort vuelva en la casa del norte (Lyra solo oye «the north»); el Horrocrux.
+
+**El sistema, en tres niveles** (cada uno lo aprueba el autor antes de bajar al siguiente; detalle en `docs/notas/sesion-nueva-guion-31.md` §4):
+1. **El rumbo de la historia entera:** §16 y §17, `docs/notas/ideas-divergencias.md` y el mapa de la poda (`docs/notas/ideas/poda-agente.md` §7). Del 31 al final, unos 38 a 48 capítulos en tandas: el final del cuarto, el verano de 1995, el quinto, el Ministerio, el sexto, Riddle y el plazo, y el final, que decide el autor.
+2. **El guion de cada tanda** (de 8 a 12 capítulos), escena por escena, con lo que se queda, cambia, sustituye o es nuevo, las fechas, lo que pasa por detrás y las decisiones para el autor. Antes de escribirlo se lee la historia entera, o como mínimo la tanda anterior entera con los manuales. **Y se repasa contra el texto completo antes de aprobarlo:** el de esta tanda, escrito sin esa lectura, tenía trece fallos (§6 del guion).
+3. **Cada capítulo,** con el flujo del §8 y `CLAUDE.md`: ficha y guion por escenas, que aprueba el autor; escritura escena a escena, con commit de cada una; pasada de tics y lectura en frío; crítica de Opus; arreglos; manual, continuidad, handoff y estado; commit y push a la rama y a `main`.
+
+**El original coreano** sigue siendo la fuente de trama donde el guion dice «se queda» o «cambia»; donde dice «sustituye» o «nuevo», manda el guion. La continuidad la dan siempre el manuscrito, los borradores y los manuales. Faltan los coreanos del 36 en adelante: pedírselos al autor antes de la ficha del 33.
+
+**Siguiente:** el capítulo 31 (*The Triangle*, provisional), con crítico nuevo (el del 29 era de otra sesión).

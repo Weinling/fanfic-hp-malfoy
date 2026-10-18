@@ -100,6 +100,8 @@ It was still a perfectly horrible nod.
 
 Beside her, her mother arranged her robes, and looked at Lyra, and then, for a little longer, at the back of the row in front.
 
+At the far end of their own row a house-elf sat bolt upright on a gilt chair with both hands over its eyes, minding the empty one next to it for a master who was evidently too important to arrive on time. Lyra thought it very poor form to bring an elf to the top box, and worse to leave it there frightened of the drop.
+
 ⁂
 
 The Bulgarian mascots came out first, and they were veela.
@@ -120,7 +122,7 @@ In the row in front, Potter made a small snorting noise into his omnioculars.
 
 The Irish mascots were leprechauns, a glittering green cloud of them, and they rained gold on the crowd until the stands rang with it. Weasley caught an armful and pressed a fistful into Potter’s hand with a face of shining joy—“For the omnioculars, Harry! *Ten Galleons*—” and Potter put it in his pocket without looking round. He still had the omnioculars up. He was still smiling. Watching the veela again on the replay, Lyra supposed, and took a dislike to the entire Bulgarian nation.
 
-Then the match began, and for a while even Lyra forgot about Potter.
+Then the match began, and for a while even Lyra forgot about Potter. She forgot the elf as well, until the first Irish goal, when the empty chair beside it gave a creak, as though somebody had settled into it to watch.
 
 She had never seen flying like it. The Irish Chasers moved like one person in three bodies, and they were ten goals up before the Bulgarians had worked out where they were. Krum alone was worth the price of the box. He did the Wronski Feint for real, once, and the Irish Seeker went into it and the whole stadium stood up. It was not enough. Ireland were a hundred and sixty points ahead when Krum caught the Snitch, and everybody could count: he had caught it knowing it would lose them the match by ten, to finish it himself rather than be beaten slowly.
 

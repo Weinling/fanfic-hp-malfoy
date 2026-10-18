@@ -97,6 +97,7 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 - **Los números 11 y 11** (15): Granger lo sabe y calla.
 - **El horario de Granger** (15): Lyra lo vio y calla.
 - **La noche de 1992 (Y1-4):** Crabbe sabe que lloró; Lyra lo enterró.
+- **La silla del palco** (24, puesta el 18 de octubre): una elfa sin nombre guarda una silla vacía al final de la fila de los Malfoy, y la silla cruje en el primer gol irlandés. Lyra no lo comenta. Es Winky, con Crouch hijo bajo la capa; se cobra en el 36.
 - **La lámpara de la casita** (25): se apaga cuando Lucius vuelve a pie del Mundial. Semilla de Abraxas (handoff §17); nadie la comenta.
 - **La letra del sobre** (28): la carta lacrada para Karkaroff lleva una letra antigua y algo temblorosa, que no es la de Lucius. Semilla de Abraxas.
 - **Lucius de niño** (29): en la carta de Draco, el señor de la casita dice que Lucius hacía más trampas que él a su edad. Semilla de Abraxas. **No añadir más pistas de la casita en el 30 al 32** (revisor).

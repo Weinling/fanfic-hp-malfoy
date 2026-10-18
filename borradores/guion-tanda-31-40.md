@@ -357,6 +357,8 @@ El 25 de diciembre de 1994 fue domingo; el 24 de febrero de 1995, viernes, y el 
 
 ## 4. Lo que te pido que decidas
 
+> **APROBADO por el autor (18 de octubre de 2026): el guion repasado, con el cambio de Moody al Imperius, y las nueve recomendaciones tal como están.** Es decir: sí a la respuesta de Narcissa en el 33; Crouch padre muerto; el barco se va la noche del regreso; la copa de Hufflepuff al quinto; Dobby en una línea; la pista de Draco en el 36; la silla que cruje en el 24; los extras de primero, para cuando se cierre el cuarto. Se recomienda también, y entra con la aprobación, quitar la visita al barco del 34 (§6, punto 11).
+
 1. **El guion entero:** ¿lo apruebas tal como está, o con cambios?
 2. **La puerta de Narcissa en el 33.** Narcissa le devuelve su frase («I would rather have heard it from you») y Lyra contesta por fin la posdata del 7: *It was Harry Potter who was asking.* **Recomiendo sí.** Es una línea, abre la puerta que el handoff lleva diez capítulos aplazando, y deja a Narcissa sabiendo que Potter preguntó por Regulus, que es lo que necesita el quinto (la nota de Regulus que tiene Dumbledore). Si prefieres guardarla, el 33 acaba en la carta de Lucius.
 3. **Crouch padre:** ¿muerto (como en el original 50) o vivo y destrozado, como los Longbottom («when they did for the Longbottoms», 28)? **Recomiendo muerto:** es más limpio y deja al hijo suelto.
