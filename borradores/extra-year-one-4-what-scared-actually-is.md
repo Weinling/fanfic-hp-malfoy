@@ -43,3 +43,79 @@ He had expected the Headmaster to be troubled. Instead the old man looked intere
 Snape had heard the sermon before, and would hear it again. He went out without a word.
 
 The staircase carried him down, turning, at its own slow pace, and somewhere about halfway he found that his right hand had closed over his left forearm, through the sleeve, on the place where nothing had burned for ten years. He took it away. By the time the gargoyle let him out into the corridor, he had decided that he had not done it.
+
+⁂
+
+The fourth-year came in to breakfast with his hair wet.
+
+It was not wet the way hair is after a bath. It was flat and stringy and parted in all the wrong places, and he came down the Slytherin table with his eyes on his plate and sat at the very end of it, and the people nearest him moved along. By the time he had reached for the toast the smell had reached Lyra, eleven places up: the boys’ lavatory at the bottom of the dungeon stairs, the one with the cracked cistern that nobody used if they could help it.
+
+Nobody laughed. A month ago it would have been the funniest thing to happen in the dungeons since Christmas. Yesterday afternoon, on the main staircase, this same boy had put out his foot as Weasley went by, and Weasley had gone down six steps on his chin, and half of Slytherin had laughed then.
+
+Lyra found that she was looking at the Gryffindor table, and that so was everybody else.
+
+Potter was eating porridge. Somebody nudged him, and he looked down the Hall at the boy on the end of the Slytherin bench, and his face filled up with honest, interested puzzlement, like a boy who has been shown a sum he cannot do.
+
+“What happened to *him*?” he said, quite loudly. “Did he fall in the lake?”
+
+A Hufflepuff girl laughed out loud before she could stop herself. Then several more did. At the end of the Slytherin table, the fourth-year put his toast down.
+
+And for a quarter of a second, while the whole Hall was looking at the fourth-year, Potter looked at Lyra.
+
+There was nothing in it at all. That was what she could not get past, all morning. It was not a gloat, and it was not a warning. It was the look a person gives a clock, to see what time it is. Then he went back to his porridge.
+
+It had been three weeks since the Potions lesson, and in three weeks Slytherin House had learned to leave Harry Potter the whole width of a corridor.
+
+It had not been one thing. It had been a great many small ones, and the trouble with each of them was that nobody could prove it. Two third-years had cornered him behind the greenhouses to teach him some manners, and had both spent the night in the hospital wing, and neither of them would say what had happened; Potter, who had a split lip, said he had walked into a door. Whatever you did to Potter, or to anybody near him, came back. It came back worse, and it came back without a single mark on it that a teacher could pick up and look at. And all the while he went about the castle with half the school at his elbow, laughing, as though the whole thing were enormous fun.
+
+So the Slytherins had stopped. They went round him. They found things to look at in corridors when he passed. And since the whole of Slytherin had gone quiet, nobody was much frightened of Lyra any more either. She could take her wand out in a corridor now and people simply went on walking. Second-years had stopped stepping aside for her. And the worst of it, the part she would never forgive anybody for, was the game.
+
+“*Look out—Potter!*” somebody called from the far end of the corridor outside the library, a Ravenclaw by the sound of it, and three or four voices laughed.
+
+Lyra did not turn round. Goyle swung all the way round on the bench, and Lyra’s shoulders, if she was honest, gave a small jump of their own.
+
+There was nothing behind them but a suit of armour.
+
+“You jumped,” said Goyle, under her breath.
+
+“I did not jump.”
+
+“Your shoulders did.”
+
+“My shoulders were *checking the corridor*. One checks a corridor. It is called being sensible.”
+
+“It looked like jumping.”
+
+“Well, it *wasn’t!*”
+
+The name had started doing it to her too. That was the truth of it. In Slytherin they said *Potter* now very much the way grown-ups at her father’s dinners said the other name: quietly, and only when they had to.
+
+“Malfoy,” said Crabbe, in the careful voice she kept for things she thought might be unwelcome, “couldn’t we just keep out of his way? Like everybody else?” She twisted the end of one plait round her finger. “My mum says you don’t argue with a wasp. You just go into another room.”
+
+“Crabbe! Whose side are you *on?*”
+
+“Yours! I only meant—”
+
+“He is a boy with a *scar*,” said Lyra. “Somebody tried to kill him when he was too small to notice, and failed, and everybody has been clapping ever since. I do not go into other rooms for people who are famous for *not being dead*.”
+
+She believed it, too. She very nearly believed it.
+
+At the start of the year it had been different. At the flying lesson she had come off her broom at the top of an oak, which was not a thing she cared to think about, and Potter had come down out of the sky after her with his hand out and his whole face open, as though she were the only thing up there worth catching. She had been brought up to be looked at, and she knew what being looked at felt like. She had been falling off a broom in front of two Houses, and she had still been the whole point of the afternoon.
+
+Now, on the rare occasions he looked at her, his eyes went through her like something thin and cold, and then he let out one short breath through his nose, the way her father did over a disappointing wine, and looked away. *You’d have to matter first*, he had said, in Potions, to his cauldron.
+
+It was not a way she was used to being looked at. It was not, she was quite sure, a way anybody had the *right* to look at her.
+
+“I am not frightened of him,” said Lyra.
+
+Goyle said nothing. Crabbe said nothing, more loudly.
+
+“I am *not*—”
+
+And then Neville Longbottom came out of the library with an armful of books and went past them towards the stairs, walking in the anxious, hurried way he always walked, as if he expected the floor to give way under him.
+
+Lyra watched him go. It had been her plan since before Christmas, after all, and she had simply not got round to it: leave Potter alone, the only person stupid enough to say the name, and go for the people round him. Potter might be awkward. Longbottom was what Longbottom had always been.
+
+She took out her wand.
+
+“Professor Flitwick says practice makes perfect,” she said. “Who remembers the Leg-Locker Curse?”
