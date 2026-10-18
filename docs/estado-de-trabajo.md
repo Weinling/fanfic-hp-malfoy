@@ -14,6 +14,14 @@
     3. fase de ideas (se le propone antes el encargo y el coste);
     4. después, el 25 al 30 retocados **en una sola pasada**: fuera el calco y lo que sobre, sin cambiar hechos, más unas pocas líneas de lectura inocente que preparen las tramas elegidas.
   - **Revisión de esos retoques:** propuesto un Opus nuevo por grupo (25 y 26; 27 a 29; 30), tres en vez de seis.
+  - **HECHO (18 de octubre):**
+    - la lectura completa del 1 al 23 y los *Year One* 1 a 4, en texto completo, por la sesión principal;
+    - la lista de lo que sabe Harry, en `docs/notas/lo-que-sabe-harry.md`, con tabla, recomendación y agujeros.
+
+    Recomendado: **viaje en el tiempo con la cicatriz como puerta**. Llega en el pasillo de *Year One* 3 (invierno de 1992); antes es un niño sin pasado. **Falta que el autor elija de qué otra vida viene:**
+    - **A,** un mundo sin Lyra (recomendada);
+    - **B,** su propia vida, repetida.
+  - **Siguiente:** proponer al autor el encargo y el coste de la fase de ideas.
   1. **HECHO (18 de octubre): el 24 rehecho** (`borradores/cap-24-replay.md`, ~3.930 palabras; commits 79aee8e y fc9bf88). Revisado por un Opus nuevo (calco 9 → 7; ningún D; todas las ataduras en pie) y con sus arreglos aplicados. Manual `docs/capitulos/cap-24.md` al día. La versión publicada: `git show 798a357:borradores/cap-24-replay.md`.
      - **Para Webnovel:** cambia el modo, no los hechos. Abre Draco con el póster; Draco sospecha que sus omniculares son los de tienda, no la cree y se lleva también el póster; el verano del anillo va después; **Lyra abre ella los ojos** en el casi beso (se acuerda de la capa de su padre) y la voz de Narcissa llega después. El autor decide si sube esta versión.
      - **Ramas (resuelto):** `main` avanzado hasta la rama de trabajo; el autor borró `claude/hopeful-hamilton-jt6e15`. Se trabaja en `claude/wizardly-albattani-vazqyr` y se sube también a `main`.
@@ -155,7 +163,7 @@ Se apunta aquí lo leído tras cada compactación, para que se pueda comprobar.
   - `docs/notas/rumbo-25-en-adelante.md` (con la respuesta del autor, §6), `docs/notas/cotejo-oficial/plan-24-30.md` entero y `docs/notas/arco-29-32-lectura.md`;
   - el texto completo del 24 rehecho, el 25 y el 26.
 
-  **Sin leer todavía:** los coreanos 28 a 33 (solo hacen falta si el autor dice sí a los retoques del 25 al 30; se leen el de cada capítulo antes de tocarlo); el 27 al 30 en texto completo (se leen antes de retocarlos); la historia entera del 1 al 23 y los *Year One* (tarea 2 de la nota de sesión). Hecha al autor la pregunta del 25 al 30; se espera respuesta antes de tocar ningún capítulo.
+  **Después, en la misma sesión:** la historia entera del 1 al 23 y los *Year One* 1 a 4, en texto completo y en orden (unas 121.000 palabras). **Sin leer todavía:** los coreanos 28 a 33 y el 27 al 30 en texto completo (se leen antes de retocarlos). Hecha al autor la pregunta del 25 al 30; se espera respuesta antes de tocar ningún capítulo.
 
 ## Texto que solo existe en contexto
 
