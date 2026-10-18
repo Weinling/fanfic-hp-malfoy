@@ -252,9 +252,9 @@ She ate one violet, sitting on the end of her bed in her dressing gown. It taste
 
 They laid the Slytherin table for Christmas dinner as if the whole House were coming.
 
-There were twelve fat roast turkeys down the length of the Hall, and mountains of potatoes, and dishes of peas and chipolatas and gravy and cranberry sauce, and by every single plate a Christmas cracker in gold and silver paper. Two seventh-years sat at the far end of the Slytherin table, talking in low voices about somebody’s brother at the Ministry. Lyra sat at the other end. Between them were forty empty places and forty crackers.
+The elves had sent up enough for a hundred, and by every single plate there was a Christmas cracker in gold and silver paper. Two seventh-years sat at the far end of the Slytherin table, talking in low voices about somebody’s brother at the Ministry. Lyra sat at the other end. Between them were forty empty places and forty crackers.
 
-At the Gryffindor table the crackers were going off like cannon. Somebody had got a hat with an owl on it that hooted. Somebody else had got a set of wizard chessmen and was trying to make them play on a plate.
+At the Gryffindor table the crackers were going off like cannon. Somebody had got a hat with an owl on it that hooted. Somebody else had got a set of wizard chessmen out of one, and was trying to make them play on a plate.
 
 Lyra looked down at her own cracker.
 
@@ -263,3 +263,87 @@ It took two. That was the whole point of a cracker: you held one end and somebod
 She left it where it was.
 
 She ate her dinner, all of it, properly, with her back straight and her elbows in, the turkey and the potatoes and a small helping of everything else, and then the Christmas pudding, because a Malfoy did not leave the Great Hall early on Christmas Day for people to talk about. It took a long time. When at last she stood up, the cracker was still lying by her plate in its gold paper, exactly where the elves had put it.
+
+⁂
+
+Harry had woken up that morning to a pile of presents at the foot of his bed, and had sat looking at it for some time before he understood that it was his.
+
+There were five of them. There was a jumper, hand-knitted and emerald green, from Ron’s mother, who had never met him; Ron must have written home that he wasn’t expecting anything. There was a flute Hagrid had whittled himself, and a box of Chocolate Frogs from Hermione, and a fifty-pence piece from the Dursleys, sellotaped to a sheet of paper with nothing written on it. And there was a soft, light parcel with no name on it at all, and inside it something that poured over his hands like water and made them disappear.
+
+There was a note with it, in narrow, looping writing. It said that the thing in the parcel had belonged to his father, and that it was his now. It did not say who had sent it.
+
+Harry sat on the end of his bed in the empty dormitory with the jumper on and the cloak in his lap, and found that his throat had closed up and would not open. At number four, on Christmas morning, he had lain in the cupboard under the stairs and listened to Dudley opening his presents through the door: the paper going, one parcel after another, and Dudley counting them out loud to make sure there were more than last year. He had made a game of guessing what was in each one from the sound it made, so that it would be something he was doing instead of something that was happening to him. He had got quite good at it.
+
+He had five presents, and one of them had been his dad’s, and Ron was in Devon. There was nobody to show.
+
+⁂
+
+At dinner there were not enough Gryffindors left to fill a quarter of their table, so they all sat together in the middle of it, and a sixth-year prefect pulled crackers with Harry until Harry was wearing a paper crown and had won a set of wizard chessmen, who argued with each other about which of them was in charge.
+
+He was laughing at the chessmen when he looked across the Hall.
+
+The Slytherin table was nearly empty. Two older students sat at one end of it with their heads together, and at the other end, as far from them as the table went, sat Malfoy, quite alone, with her back very straight, eating her dinner as though somebody were going to mark it.
+
+There was a cracker beside her plate. She did not touch it.
+
+Harry watched her for a long time. Nobody else in the Hall was looking. She finished her turkey, and ate her pudding, small spoonful by small spoonful, and the cracker lay there in its gold paper the whole time, because there was nobody at her end of the table to hold the other end of it.
+
+*Some people have nobody who wants them at Christmas, so they have to stay at school.*
+
+She had said it to him under the fir tree, with Crabbe and Goyle at her shoulders and that bright, mean smile on her face, and he had smiled back and said Voldemort and won. He had not wondered why she was staying. It had not crossed his mind that she was.
+
+He could take his own cracker over. He could walk the length of the Hall to the Slytherin table, past the staff, past the two prefects, and hold out the other end.
+
+He thought about her face if he did. He had seen it after the flying lesson, when she had fallen and he had caught her: how she had stared down every person who mentioned it until by the end of term nobody would. If anybody ever saw her like this, if *he* saw her like this, and she knew it, she would never in her life forgive it. She would rather eat the cracker, paper and all.
+
+He stayed where he was, in his paper crown, and the prefect asked him whether he was all right, and he said he was.
+
+⁂
+
+That night, for the first time, he put on his father’s cloak.
+
+He had meant to go to the library. He went down the marble staircase instead, in the dark, with no clear idea why, and he was on the last step when a door opened on the far side of the Entrance Hall and Malfoy came out of the passage from the dungeons with a wooden box under her arm.
+
+She went straight across the hall and into an empty classroom off it, and left the door ajar.
+
+Harry crossed after her as quietly as he could and stopped in the doorway.
+
+It was a classroom nobody seemed to have used in years. The desks had been pushed back against the walls, and the blackboard still had half a sentence on it about the uses of moonstone. She had lit one lamp. She had pulled a desk out into the middle of the floor and set a chair on either side of it, and now she opened the box and took out a chessboard, and began to set out the pieces: white on her side, black on the other.
+
+They were wizard chessmen, like his, but old, and black and silver, and they bowed to her as she put them down.
+
+Then she sat down with the white, and looked across the desk at the empty chair.
+
+“Your move, Father,” she said.
+
+It was not her voice that answered. It was a lower one, lazy and amused, that Harry had never heard, and it came out of her mouth. “Knight to f6, I think, my treasure. Don’t look so cross.” And she reached across the desk and moved the black knight herself.
+
+They played. Harry stood in the doorway and watched her play both sides, the white in her own voice and the black in his, and the black kept doing the same thing with its knight, and she kept telling it so, fondly, as though it were a joke the two of them had had for years. She was winning. She did not seem to want to.
+
+“Check, Father,” she said at last.
+
+She waited, with her hands in her lap. The empty chair did not say anything.
+
+“You’d have seen that coming,” she told it, quite quietly, and did not move the black king.
+
+Harry found that his eyes had gone hot, and that there was nothing at all he could do with them, and he put his hands in his pockets under the cloak because there was nothing he could do with those either. He could not go in. There was not one thing he could say to her that she would not hate him for having been there to say. He could only stand in a doorway in the dark, the way he had stood behind the cupboard door, and listen to somebody else’s Christmas through it.
+
+After a while she got up. She left the board as it was, with the black king in check, and put out the lamp, and went past him so close that the edge of her cloak brushed his, and away across the Entrance Hall towards the dungeons. He heard a door shut somewhere below.
+
+Harry went in and sat down in the empty chair.
+
+The black pieces looked up at him, as much as chessmen can look at somebody they cannot see.
+
+“Er,” said Harry. He had only learned this term, from Ron, and he was terrible. He looked at the board for a long time and could not see any way out for the king at all, so in the end he did the only thing he could think of, and moved a pawn in front of it.
+
+Nothing happened.
+
+“Please,” said Harry.
+
+The pawn gave him a long, considering look, and then it shuffled forward one square and stood in the way.
+
+“Not *there*, you clot,” said a black bishop, with deep disgust.
+
+“Sorry,” said Harry. And then, because she would come back in the morning and ask: “Don’t tell her it was me. Will you? Please.”
+
+The black king looked at the empty air where Harry was, and at the pawn, and at the white queen, and said nothing, which Harry decided to take as a yes.
