@@ -1,6 +1,6 @@
 # *Year One*, parte 2, rehecha (coreano 24): ficha y guion
 
-Ficha del 18 de octubre de 2026, con la historia entera leída ese día en texto completo. **Encargo del autor:** que esta parte haga llorar. Alguno tiene que quedarse del todo vulnerable o impotente, aunque haya que reescribir mucho. La versión actual (`borradores/extra-year-one-2-nobody-asked-you.md`, ~2.100 palabras) está publicada en Webnovel. En Wattpad el autor la retiene: hoy sube solo la parte 1. **Sin aprobar.**
+Ficha del 18 de octubre de 2026, con la historia entera leída ese día en texto completo. **Encargo del autor:** que esta parte haga llorar. Alguno tiene que quedarse del todo vulnerable o impotente, aunque haya que reescribir mucho. La versión actual (`borradores/extra-year-one-2-nobody-asked-you.md`, ~2.100 palabras) está publicada en Webnovel. En Wattpad el autor la retiene: hoy sube solo la parte 1. **Aprobada por el autor (18 de octubre), con las cinco recomendaciones:** Ron se va a casa; las piezas guardan el secreto y Lyra cree que es el Barón; final en el «Perfectly»; nota para Webnovel. La versión publicada: `git show a87b54e:borradores/extra-year-one-2-nobody-asked-you.md`.
 
 ## Por qué no llega ahora
 

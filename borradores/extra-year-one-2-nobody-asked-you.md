@@ -70,13 +70,9 @@ She turned and walked on towards the castle, and did not look to see whether the
 
 ⁂
 
-Oliver Wood had shown Harry the Golden Snitch on a Wednesday evening, on the empty pitch, with the light going. It took Harry under five minutes to catch it. He came down with it beating in his fist like a heart, and Wood stood there with his mouth open.
+Since October, Harry had been the best at something, and it had gone to his head a bit.
 
-“That’s it,” Wood said faintly. “That’s it. We’re winning the Cup this year.”
-
-Harry had never been the best at anything before, and it went to his head a bit. He thought about his first match a great deal: the whole school looking up, and in the Slytherin stand one fair head that would have to look up with the rest.
-
-He had got what he wanted, more or less. At Hallowe’en he and Ron, with a lot of luck and a bit of Hermione, knocked out a mountain troll in a girls’ lavatory, and after that the name that had followed him about since the Leaky Cauldron, *the Boy Who Lived*, began to follow him round the corridors too. In his first match his broom went mad underneath him and tried for several minutes to buck him off, fifty feet up, with the whole school watching; then it stopped, as suddenly as it had started, and he went after the Snitch and caught it, more or less in his mouth. Gryffindor beat Slytherin. The rest of the school cheered him all the way back to the castle.
+Oliver Wood had shown him the Golden Snitch one Wednesday evening on the empty pitch, with the light going, and it had taken Harry under five minutes to catch it. At Hallowe’en he and Ron, with a lot of luck and a bit of Hermione, had knocked out a mountain troll in a girls’ lavatory. In his first match his broom had gone mad underneath him fifty feet up, and then stopped, and he had caught the Snitch more or less in his mouth, and Gryffindor had beaten Slytherin, and the rest of the school had cheered him all the way back to the castle. In the Slytherin stand there had been one fair head that had had to look up with everybody else.
 
 Malfoy took it personally. She took to being horrible to him and Ron whenever she got the chance, in corridors, at meals, outside lessons, as though she could make the cheering stop.
 
@@ -144,38 +140,4 @@ Harry found he could not enjoy it much.
 
 When everybody hated something that you liked, it turned out not to be as much fun as you would think. Not even when it made you a hero.
 
-⁂
-
-Lyra lay in the dark that night with the hangings drawn, and could not get rid of something Crabbe had said.
-
-*Both of them, gone.*
-
-She had managed perfectly well, after all. She had been without them herself.
-
-It had been when she was eight. Some business had come up, something urgent that nobody explained to her, and both her parents had had to go away at once and could not say when they would be back.
-
-She had come down in the morning to the dining room, and there had been nobody at the long table but her, and the breakfast Dobby had made, laid out in front of one chair. The table had seemed very long that day. The chair was colder than usual. Even the food did not taste of much.
-
-She had eaten a little of it, crossly, and gone to the library, and read, and gone out and flown about the grounds on her broom by herself. She had called Dobby and ordered him about for something to do. She had poked at the fire. The family portraits never said anything but dull, old-fashioned things, but that afternoon she had sat and talked to them for a whole hour, and had rather enjoyed it.
-
-Draco had been too small to count. He had cried for their mother at bedtime and been put to bed by Dobby, and Lyra, who was the eldest, had not cried, because somebody had to be the eldest.
-
-She had played chess against herself. She had had her bath, and gone to bed earlier than usual, and lain there with her eyes wide open in the dark, very much as she was lying now.
-
-Nobody knew this. Nobody would ever know it. She had thought, *What if they don’t come back tomorrow either*, and she had very nearly cried after all. Like a Malfoy, she had held it in.
-
-They had come home just before dawn, as it turned out, with a box of sugared violets from her mother’s confectioner, all for her. Her mother had not taken off her travelling cloak, and her father’s wand hand was bandaged, and nobody mentioned either. Lyra let the violets carry off the whole of that bad day, and had not thought about it since.
-
-*But what if*—
-
-What if that day came every day?
-
-It went through her like cold water. Just imagining it made her skin creep, and Lyra turned over hard and pulled the blankets up to her ears.
-
-*Rubbish. If you hadn’t got parents, you’d have elves, and relations. What a fuss about nothing.*
-
-She shook the whole picture out of her head. What mattered now was making Harry Potter sorry. Until then, no weakness of any kind. None whatever.
-
-“After Christmas, Potter,” said Lyra, to the dark. “You’ll see.”
-
-The arrow was already off the string.
+Ron was going home on Saturday, with the rest of the Weasleys. Harry had put his name on McGonagall’s list of people staying the day it went up. He had never in his life been so glad to be left somewhere.
