@@ -141,3 +141,81 @@ Harry found he could not enjoy it much.
 When everybody hated something that you liked, it turned out not to be as much fun as you would think. Not even when it made you a hero.
 
 Ron was going home on Saturday, with the rest of the Weasleys. Harry had put his name on McGonagall’s list of people staying the day it went up. He had never in his life been so glad to be left somewhere.
+
+⁂
+
+The letter came on Friday, at breakfast, by the eagle owl her father had given her in June.
+
+It came down the Great Hall low and slow, the way her father had trained it to, so that everybody would have time to see it, and it landed in front of her between the toast and the marmalade and held out its leg. Lyra opened the letter at the table. A letter from home was a thing one opened in public.
+
+*My treasure,*
+
+*Your mother and I are called away on business over the holidays, and it will keep us abroad until the New Year. It is tiresome, and it cannot be helped. You will be a great deal more comfortable at school than rattling about the Manor with nobody but the elves, and Draco will be looked after.*
+
+*Something will come for you on Christmas morning. I hear Gryffindor had the better of Slytherin last month. Work hard, and do not let it happen again.*
+
+*Your loving father*
+
+She read it twice. Then she folded it in half, and in half again, and once more, until it was a small hard square that would go into the palm of one hand, and she put it in her pocket.
+
+“Is that from home?” said Goyle. “Are they sending the carriage, or are you on the train with us?”
+
+“Neither,” said Lyra. “I’ve decided to stay.”
+
+Goyle’s mouth fell open, with porridge in it.
+
+“Somebody ought to keep an eye on Potter over the holidays.” Lyra buttered a piece of toast with great precision. “You can’t leave a boy like that alone in a castle for a fortnight. He’ll take it apart.”
+
+Goyle closed her mouth and looked at her with something close to worship. Crabbe did not say anything. She looked at Lyra, and at the pocket the letter had gone into, and went back to her porridge.
+
+In the dormitory that night Crabbe sat on the end of her own bed in her nightdress and said, to the floor, “I could stay as well. I could write to my mum.”
+
+“Your mother would have kittens,” said Lyra. “And there’s no need.”
+
+“I know there isn’t,” said Crabbe, and did not write.
+
+⁂
+
+On Saturday morning Lyra put on her cloak and went out onto the front steps, as though she had come out for the air.
+
+The carriages were drawn up along the drive in the snow, with nothing in front of them that anybody could see, and the whole school seemed to be climbing into them at once. The Slytherins went in a long green knot. Goyle waved both arms. Crabbe’s round face came to the window of the third carriage and stayed there, looking up at the steps, until the carriage moved and took it away.
+
+At the bottom of the steps Potter was seeing Weasley off. He had his hands in his pockets and no hat, and he was laughing at something Weasley shouted out of the window; and then the carriage was gone and he stood there on his own in the trodden snow, looking after it, and did not seem to mind at all. He turned round. Lyra went back inside before he could look up.
+
+She was halfway across the Entrance Hall when it came back to her. It came back in her own voice, exactly as she had said it under the fir tree, with Crabbe and Goyle at her shoulders and everybody listening.
+
+*Some people have nobody who wants them at Christmas, so they have to stay at school.*
+
+She had chosen every word of it with great care. She stood in the middle of the empty hall, where anybody might have seen her, and found that she could not walk on until she had stopped hearing it.
+
+⁂
+
+That night the dormitory was dark and very quiet, with four beds in it that nobody was sleeping in, and the lake moving green and black against the window. Lyra lay with her hangings drawn, the way she always did, though there was nobody to draw them against.
+
+She had been without them once before.
+
+It had been when she was eight. Some business had come up, something urgent that nobody explained to her, and both her parents had had to go away at once and could not say when they would be back.
+
+She had come down in the morning to the dining room, and there had been nobody at the long table but her, and the breakfast Dobby had made, laid out in front of one chair. The table had seemed very long that day. The chair was colder than usual. Even the food did not taste of much.
+
+She had eaten a little of it, crossly, and gone to the library, and read, and gone out and flown about the grounds on her broom by herself. She had called Dobby and ordered him about for something to do. She had poked at the fire. The family portraits never said anything but dull, old-fashioned things, but that afternoon she had sat and talked to them for a whole hour, and had rather enjoyed it.
+
+Draco had been too small to count. He had cried for their mother at bedtime and been put to bed by Dobby, and Lyra, who was the eldest, had not cried, because somebody had to be the eldest.
+
+She had played chess against herself. She had had her bath, and gone to bed earlier than usual, and lain there with her eyes wide open in the dark, very much as she was lying now.
+
+Nobody knew this. Nobody would ever know it. She had thought, *What if they don’t come back tomorrow either*, and she had very nearly cried after all. Like a Malfoy, she had held it in.
+
+They had come home just before dawn, as it turned out, with a box of sugared violets from her mother’s confectioner, all for her. Her mother had not taken off her travelling cloak, and her father’s wand hand was bandaged, and nobody mentioned either. Lyra had let the violets carry off the whole of that bad day, and had not thought about it since.
+
+*But what if*, she had thought then, lying in the dark at eight years old, *what if that day came every day?*
+
+She had decided it was rubbish. If you had not got parents, you had elves, and relations, and a house. What a fuss about nothing.
+
+It had come, then. Not every day: only at Christmas, and by owl, folded very small. She had the square of it under her pillow, and she did not take it out to read it again, because she knew what it said.
+
+Lyra turned over hard and pulled the blankets up to her ears. What mattered was not that. What mattered was making Harry Potter sorry, and until then she would allow herself no weakness of any kind. None whatever.
+
+“After Christmas, Potter,” said Lyra, to the dark. “You’ll see.”
+
+The arrow was already off the string.
