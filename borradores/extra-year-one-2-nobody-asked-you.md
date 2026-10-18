@@ -219,3 +219,47 @@ Lyra turned over hard and pulled the blankets up to her ears. What mattered was 
 “After Christmas, Potter,” said Lyra, to the dark. “You’ll see.”
 
 The arrow was already off the string.
+
+⁂
+
+On Christmas Eve, a little before midnight, Lyra climbed the stairs to the Owlery on her own.
+
+It was the coldest room in the castle, and the emptiest; the school owls had gone home with the school, and the few that were left sat high up in the rafters with their heads under their wings. The eagle owl came down to her the moment she held out her arm, as it had been taught to, and sat there looking at her with its great orange eyes while she took out a quill.
+
+She had brought a whole sheet of parchment. She had meant to write a proper letter, the kind her father liked, with a paragraph about her marks and one about the weather and her love to Mother at the end. She stood at the window with the parchment against the stone and the quill over it, and the wind coming in off the lake, and could not think of a single thing she wanted to say about the weather.
+
+In the end she wrote two words.
+
+*Please come.*
+
+She looked at them for a long time. It was the shortest letter she had ever written, and the only one she had ever written that asked for anything. She did not sign it. There was nobody in the world who would not know whose it was.
+
+She tore the rest of the sheet away, so that there would be no empty parchment underneath for anybody to look at, and folded what was left very small, and tied it to the owl’s leg. Then she carried it to the window and held up her arm, and the owl went out into the dark over the lake, and she stood there watching the place where it had been until the cold had got all the way through her cloak.
+
+⁂
+
+There was a box at the foot of her bed on Christmas morning.
+
+It was wrapped in silver paper, and inside the silver paper was a box she knew, from her mother’s confectioner in Diagon Alley, the one who made sugared violets to order and would not sell you anything without first enquiring after your family. On top of the violets lay a card, in her mother’s small, upright hand.
+
+*For Christmas morning.*
+
+That was all. It had been written, Lyra saw, a good while ago. It had been packed and sent before anybody could have read a letter that had gone out over the lake at midnight. The owl would hardly have reached them yet.
+
+She ate one violet, sitting on the end of her bed in her dressing gown. It tasted exactly as it had when she was eight. Then she put the lid back on the box, and got dressed, and did her hair for twenty minutes, because it was Christmas Day.
+
+⁂
+
+They laid the Slytherin table for Christmas dinner as if the whole House were coming.
+
+There were twelve fat roast turkeys down the length of the Hall, and mountains of potatoes, and dishes of peas and chipolatas and gravy and cranberry sauce, and by every single plate a Christmas cracker in gold and silver paper. Two seventh-years sat at the far end of the Slytherin table, talking in low voices about somebody’s brother at the Ministry. Lyra sat at the other end. Between them were forty empty places and forty crackers.
+
+At the Gryffindor table the crackers were going off like cannon. Somebody had got a hat with an owl on it that hooted. Somebody else had got a set of wizard chessmen and was trying to make them play on a plate.
+
+Lyra looked down at her own cracker.
+
+It took two. That was the whole point of a cracker: you held one end and somebody else held the other, and you both pulled. There was nobody at this end of the table to hold the other end. She could have pulled it with both hands, like a child, and everybody would have seen her do it.
+
+She left it where it was.
+
+She ate her dinner, all of it, properly, with her back straight and her elbows in, the turkey and the potatoes and a small helping of everything else, and then the Christmas pudding, because a Malfoy did not leave the Great Hall early on Christmas Day for people to talk about. It took a long time. When at last she stood up, the cracker was still lying by her plate in its gold paper, exactly where the elves had put it.
