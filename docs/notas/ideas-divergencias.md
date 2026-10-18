@@ -78,6 +78,8 @@ El agente de divergencias proponía otras dos cosas, y Fable las rechaza:
 
 ## 5. Lo que te pido que decidas
 
+> **APROBADO por el autor (18 de octubre): las seis recomendaciones, tal como están.** Lyra lo sabe al final del cuarto y lo deduce ella; también entra la silla que cruje del 24.
+
 1. **La combinación A + B + C.** ¿Sí?
 2. **Cuándo lo sabe Lyra:** al final del cuarto, deducido por ella (recomendado), o al final del quinto, contado por Harry.
 3. **La tercera prueba.** Harry recuerda que la Copa era un traslador y que Cedric murió. **Recomendado (Fable):**

@@ -823,3 +823,14 @@ Las notas del crítico del 19 son 9/9/9/7/7/9/7/7 (empata con el 15 en cabeza). 
 ## 16. Lo que sabe Harry: decidido (18 de octubre)
 
 Sustituye a «No inventar ninguna explicación antes de comprobar el original» (§6): el original nunca lo explica. **Decisión del autor:** viaje en el tiempo. Harry viene de un mundo donde Lyra no existe (el del canon, con Draco de su edad). Despierta en el Harry de once años en el pasillo de *Year One* 3, a finales del invierno de 1992, con la cicatriz como puerta: primero le entra el recuerdo de Voldemort con Snape y la profecía, y con él vuelve el Harry de la otra vida. La otra vida le vuelve a trozos (por eso no conoce «Mudblood» en *Y1* 4). Antes de ese pasillo es un niño sin pasado. Lo del pasado propio de este mundo (el juramento de Dumbledore y Sirius) se lo contó Dumbledore, que conoce el secreto («You cannot tell her everything», 22). **No se revela aún.** Tabla, pruebas y agujeros por tapar (la Cámara, la cueva, «Can’t», Moody, cuándo se lo contó a Dumbledore, «I’ve never lied to you»): `docs/notas/lo-que-sabe-harry.md`.
+
+## 17. Rumbo aprobado (18 de octubre)
+
+Aprobado por el autor: `docs/notas/ideas-divergencias.md` (crítica de Fable en `docs/fable/001-divergencias.md`).
+- **La Casa.** El señor de la casita es **Abraxas Malfoy**, dado por muerto. Construye el regreso de Voldemort por la red de los Malfoy (sin cementerio, porque Pettigrew está con Dumbledore; la carta del 28 era una pieza). Voldemort vuelve en la casa de Northumberland, y Abraxas pierde el control esa misma noche. Lyra descubre quién es en la Navidad del quinto. Su retrato falta del despacho (no hay regla nueva sobre retratos).
+- **Lyra deduce el secreto de Harry al final del cuarto:** que viene de otra vida, que allí ella no existía y que dejó pasar la Cámara. Rompen. La segunda capa (que es un Horrocrux) queda para el sexto.
+- **Moody es Moody.** Harry le ataca antes del Baile y se equivoca. La culpable es Crouch padre bajo el Imperius de su hijo, y lo destapa Lyra.
+- **Tercera prueba:** Harry aparta a Cedric y toca la Copa solo, preparado para un cementerio que no llega. Cedric vive.
+- **Baile:** solo la pareja hecha pública por un plan de Harry y el enfado de Lyra.
+- Sin «el mundo que rima» en sexto: la Marca y el veneno entran por la Casa.
+- Poda y lo que se conserva: `docs/notas/ideas/poda-agente.md`.
