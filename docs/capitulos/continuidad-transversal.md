@@ -1,6 +1,6 @@
 # Continuidad transversal
 
-Hecho el 11 de octubre de 2026 a partir de todos los manuales y del handoff, tras el capítulo 28. Actualizado tras el 29 y tras el 30 (12 de octubre). Recoge lo que está repartido por los manuales y se escapa con facilidad: los hitos de la pareja, quién sabe qué y desde cuándo, cómo está cada personaje, las fichas vivas y las deudas abiertas.
+Hecho el 11 de octubre de 2026 a partir de todos los manuales y del handoff, tras el capítulo 28. Actualizado tras el 29 y tras el 30 (12 de octubre), y tras el retoque del 25 al 30 (18 de octubre). Recoge lo que está repartido por los manuales y se escapa con facilidad: los hitos de la pareja, quién sabe qué y desde cuándo, cómo está cada personaje, las fichas vivas y las deudas abiertas.
 
 **Se actualiza al cerrar cada capítulo**, en el mismo paso que el manual. Si algo de aquí choca con el texto, manda el texto; corrige este archivo.
 
@@ -51,7 +51,7 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 |---|---|---|---|
 | Ron | Que salen en secreto | 21 may. 1994 | Harry se lo dijo; vio el anillo (Y1-1). Vio el *replay* (24). Lyra se lo confirmó gritando (28) |
 | Hermione | Todo lo visto | Feb. 1994 | El beso del 19; el bucle (21, quiso borrarle la memoria); el hurón (27, lo deduce) |
-| Crabbe | Que están juntos | 1994 | Le dio el anillo a Potter (21); «a rather good Cupid» (23); «You’re not even pretending any more» (30) |
+| Crabbe | Que están juntos | 1994 | Le dio el anillo a Potter (21); «a rather good Cupid» (23); «You’re not even pretending any more» (30, tras verla celosa por el *Profeta* y asustada por los dragones) |
 | Goyle | Sospecha | 1994 | «When did those two make it up?» (23) |
 | Moody | Todo, por el ojo | Sep. 1994 | Vio los dos anillos (el de él en la mano, el de ella en el bolsillo) y luego el aula de Halloween. Se lo dijo a Harry en octubre y a Lyra el 10 de noviembre (27) |
 | Diggory | Sospecha | May. 1994 | «more faithful than you look» (23) |
@@ -77,6 +77,7 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 - Dumbledore no le contó lo de la profecía (Y1-4). Snape sabe que Harry sabe algo.
 - A Lyra le dijo «Dumbledore told me» (14), y ella no se lo cree del todo (no explica Northumberland).
 - Sabe cosas antes de que pasen (24, 25).
+- **La Copa (30):** en la tienda, al oír a Bagman decir «one step nearer the Triwizard Cup» tras el huevo de Diggory, Potter vuelve la cabeza y la deja ahí un momento de más; Lyra lo achaca a ser campeón. Es la primera mención de la Copa del Torneo en el fic. Semilla de la deducción del final del cuarto (handoff §17). No añadir otra pista de la Copa hasta la tercera prueba sin decidirlo.
 - **Decidido por el autor (18 de octubre), sin revelar aún en el texto:** viaje en el tiempo. Harry viene de un mundo sin Lyra (el del canon, con Draco de su edad) y despertó en el niño de once años en el pasillo de *Year One* 3, con la cicatriz como puerta. Antes de eso es un niño sin pasado (16, *Y1* 1 y 2). Lo propio de este mundo (el juramento) se lo contó Dumbledore. Detalle y agujeros pendientes: `docs/notas/lo-que-sabe-harry.md`.
 
 ### Sirius y Pettigrew

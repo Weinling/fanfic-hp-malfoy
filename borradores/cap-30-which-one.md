@@ -2,7 +2,7 @@
 
 By breakfast on Thursday, Crabbe had asked three times.
 
-She had asked in the dormitory, with one stocking on, and on the stairs, and in the common room while Lyra was putting the last pin in her hair; and now she was eating her porridge in a patient, thoughtful silence, and Lyra knew that silence.
+She had asked in the dormitory, with one shoe on, and on the stairs, and in the common room while Lyra was putting the last pin in her hair; and now she was eating her porridge in a patient, thoughtful silence, and Lyra knew that silence.
 
 The rest of the Hall was less patient. The school had been up since six in the giddy, unsettled way of a school that has been told something tremendous will happen after lunch and nothing else, and every table was guessing. Lyra had heard sphinxes, and a maze, and a Hufflepuff whose cousin was quite certain it would be Inferi.
 
@@ -32,7 +32,7 @@ She looked across the Hall at Potter for some time, coldly.
 
 Potter, who had borne Professor Snape’s regard without turning a hair, looked up, met her eye, and shivered.
 
-The fourth time came when Goyle had settled down to her breakfast, in the low, reasonable voice Crabbe kept for questions she meant to go on asking until somebody answered them.
+Crabbe had watched all of this over her porridge without a word. She waited until Lyra had put the paper down, and then asked for the fourth time, in the low, reasonable voice she kept for questions she meant to go on asking until somebody answered them.
 
 “You do know, though. Don’t you.”
 
@@ -128,13 +128,13 @@ Out in the enclosure something roared, and the crowd made a noise like a wave go
 
 Lyra thought of the school shed, and the Shooting Stars with their twigs every which way, and a Cleansweep with a crack in the handle mended with Spellotape, and a black dragon with a tail like a mace, and went cold to the ends of her fingers.
 
-Outside, the crowd went up all at once in a roar, and then a long cheer, and Bagman’s voice came booming through the canvas: “—and there’s the egg! Mr Diggory, ladies and gentlemen, one step nearer the Triwizard Cup!”
+Outside, the crowd went up all at once in a roar, and then a long cheer, and over the top of it Bagman, at full megaphone: “—and there’s the egg! Mr Diggory, ladies and gentlemen, one step nearer the Triwizard Cup!”
 
 Beside her, Potter turned his head. He had sat through all that roaring without once doing it, and he did it now, towards the canvas and the voice, as people do when somebody across a crowded room says a name they know; and he kept it there a moment after Bagman had gone on to the marks. Lyra supposed that was what being a champion did to a person.
 
-A whistle went. Fleur stopped walking, and stood straight for a moment with her eyes shut, and went out.
+A whistle went. Fleur stopped walking, and stood very straight with her eyes shut, and went out.
 
-Under Lyra’s hand, Potter’s let go of the bench. It turned over and took hold of hers instead, hard. His forehead was damp. He was not looking at her, since he could not see her, but he had turned his face a little towards where she was.
+Under Lyra’s hand, Potter’s let go of the bench. It rolled over and took hold of hers instead, hard. His forehead was damp. He was not looking at her, since he could not see her, but he had turned his face a little towards where she was.
 
 “It’s a dragon, Lyra,” he said.
 
