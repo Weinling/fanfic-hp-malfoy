@@ -6,6 +6,7 @@
 
 ## Ahora mismo
 
+- **Guion de la primera tanda (del 31 al 40, original 34 a 51): ESCRITO (18 de octubre), en `borradores/guion-tanda-31-40.md`. Espera la aprobación del autor y sus respuestas a las nueve decisiones del §4.** No se escribe nada del 31 hasta entonces. El autor dio por buena, para este guion, la lectura de la historia entera del 18 de octubre; el resto del protocolo está hecho (ver «Lecturas hechas»).
 - **Retoque del 30: HECHO y cerrado (18 de octubre).** La nota `docs/notas/sesion-nueva-30.md` queda cumplida salvo su §4. **Siguiente:** (1) avisado el autor de lo que puede subir: del 25 al 30, retocados y cerrados, nunca publicados (Webnovel llega al 24; Wattpad, al 22), y el 24 rehecho si aún no lo ha cambiado en Webnovel; (2) preparar el **guion detallado de la primera tanda**, del 31 al final del cuarto (original 34 a 51), escena por escena, para que lo apruebe el autor antes de escribir. **Antes del 31 vuelve el protocolo completo de lectura**; preguntar al autor si basta la lectura de la historia entera del 18 de octubre.
 - (Anterior:) **SESIÓN NUEVA (preparado el 18 de octubre, al final): lee `docs/notas/sesion-nueva-30.md` justo después de este estado.** Es el retoque del 30, con una lectura reducida que ha autorizado el autor. La nota anterior (`sesion-nueva-18-oct.md`) ya está cumplida.
 - (Anterior:) **lee `docs/notas/sesion-nueva-18-oct.md`**, ya cumplida. Dice dónde estamos, qué quiere el autor, las tareas en orden y qué leer. Lo de abajo es el detalle del 17 y el 18 de octubre.
@@ -153,6 +154,7 @@ Seguir `docs/notas/arco-29-32-lectura.md` §1: el protocolo de `CLAUDE.md` más 
 ## Lecturas hechas en esta sesión (protocolo de `CLAUDE.md`)
 
 Se apunta aquí lo leído tras cada compactación, para que se pueda comprobar.
+- **Misma sesión, para el guion de la tanda (18 de octubre):** el autor autoriza a no releer la historia entera (basta la del 18 de octubre). Leído entero por la sesión principal: el handoff (§1 a §17), todos los manuales de `docs/capitulos/` (1 a 30 y *Year One* 1 a 4) y la continuidad transversal; los coreanos 34 y 35; `borradores/resumen-oficial-36-54.md` (del 36 al 51); `docs/notas/ideas-divergencias.md`, `ideas/poda-agente.md`, `ideas/divergencias-agente.md`, `ideas/ideas-sesion.md`, `docs/fable/001-divergencias.md` y `lo-que-sabe-harry.md`. Con grep, el 24 (la silla que cruje no está puesta), el 25 al 29 (el baúl, la petaca, Dobby) y `plan-coreano-26-35.md`.
 - **Sesión nueva del 30 (18 de octubre), lectura reducida autorizada por el autor** (`docs/notas/sesion-nueva-30.md` §2), leído entero por la sesión principal: `CLAUDE.md`, este estado, `sesion-nueva-30.md`; del handoff, §2, §4, §16 y §17; los manuales del 29 y del 30 y la continuidad transversal; de `plan-24-30.md`, §1 (tabla de calco, ataduras y lo que necesita el 31) y el apartado del cap. 30 en §2; el texto completo del 29 y del 30; el coreano 33. Con grep, `ideas-divergencias.md` (la semilla de la Copa y la túnica). **No leído:** el resto del handoff y de los manuales. Para el 31 vuelve el protocolo completo.
 - **Tras la última compactación (11 de octubre):** estado, handoff (§2, §4, §14 y §15; no entero), capítulo 26 entero, fichas del 25 al 27, fragmentos del 5, 14, 19 y 25. **No se leyeron todos los manuales**, como exige el protocolo. Consecuencia: en la ficha del 27, el handoff y un mensaje al autor se llamó «el beso de verdad» al del 29, cuando ya hubo dos en la boca (3 y 19, ambos en sus manuales). No llegó al texto de ningún capítulo; lo cazó el lector del 29 y está corregido.
 - **11 de octubre, después:** handoff entero y todos los manuales, enteros. Con ellos, `docs/capitulos/continuidad-transversal.md` (nuevo).
@@ -185,7 +187,7 @@ Ninguno. Todo está commiteado y subido.
 
 ## Agentes vivos
 
-- **Crítico:** el del cuarto año (criticó del 24 al 28) está retirado. **El del 29 está vivo** (Opus, arrancado con `docs/notas/critico-arranque-29.md`): leyó entero todo lo adaptado, criticó el 29 y el 30, y espera el 31. Se le reutiliza hasta que se le llene el contexto (`CLAUDE.md`). El anterior (17 a 23, *Year One*, revisión del 1 al 3) está retirado.
+- **Crítico:** el del cuarto año (criticó del 24 al 28) está retirado. El del 29 (Opus, arrancado con `docs/notas/critico-arranque-29.md`) criticó el 29 y el 30, pero era de una sesión anterior y ya no se le puede reutilizar. **Para el 31 hace falta uno nuevo**, que lea enteros todos los capítulos adaptados, con un resumen de las notas anteriores (`CLAUDE.md`). Antes de lanzarlo, avisar al autor del coste. El anterior (17 a 23, *Year One*, revisión del 1 al 3) está retirado.
 - **Fase de ideas:** terminada.
 - Ningún agente vivo.
 - **Revisor:** es el chat paralelo del autor. Sus informes llegan a `docs/notas/revisiones/`.
