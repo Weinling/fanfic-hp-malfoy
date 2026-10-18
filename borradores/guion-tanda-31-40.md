@@ -367,3 +367,14 @@ El 25 de diciembre de 1994 fue domingo; el 24 de febrero de 1995, viernes, y el 
 - **Lo que no debe salir todavía:** el nombre de Abraxas; que la casa del norte sea donde vuelve Voldemort (Lyra solo oye «the north»); el Horrocrux.
 - **Antes de cada ficha:** grep de cada nombre, objeto, lugar o «primera vez» (`CLAUDE.md`), sobre todo el anillo, el baúl, Winky, Crouch, el escreguto y la bufanda.
 - **Crítico:** el del 29 era de otra sesión y ya no se le puede reutilizar. Para el 31 hace falta uno nuevo, que lea enteros todos los capítulos adaptados, con un resumen de las notas anteriores (`CLAUDE.md`).
+
+---
+
+## 6. Sin comprobar contra el texto (aviso del 18 de octubre)
+
+Este guion se escribió con el texto completo solo del 29 y el 30. Del resto se usaron los manuales, la continuidad transversal y el rumbo. **No se aprueba hasta que una sesión nueva lea la historia entera y lo repase** (`docs/notas/sesion-nueva-guion-31.md`).
+
+Fallos ya encontrados con grep, por corregir en ese repaso:
+1. **31, escena 6:** «Es la tercera vez que la ve bajar del barco.» En el texto, Moody la ve volver del barco una sola vez (28). En el 29 no la ve.
+2. **31, coda, y 32:** «Dumbledore lleva fuera desde la primera prueba.» Viene del coreano 34. Nuestro texto no lo dice: hay que sembrarlo en el 31, no darlo por sabido.
+3. **36, escena 3:** «la elfa de Crouch, despedida después del Mundial (lo contó el *Profeta*).» Winky no aparece en ningún capítulo, y el *Profeta* no ha dicho nada de ella. Si entra, es un hecho nuevo y hay que presentarlo.
