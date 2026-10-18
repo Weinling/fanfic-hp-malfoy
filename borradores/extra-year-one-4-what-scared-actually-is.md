@@ -70,7 +70,11 @@ It had not been one thing. It had been a great many small ones, and the trouble 
 
 So the Slytherins had stopped. They went round him. They found things to look at in corridors when he passed. And since the whole of Slytherin had gone quiet, nobody was much frightened of Lyra any more either. She could take her wand out in a corridor now and people simply went on walking. Second-years had stopped stepping aside for her. And the worst of it, the part she would never forgive anybody for, was the game.
 
-“*Look out—Potter!*” somebody called from the far end of the corridor outside the library, a Ravenclaw by the sound of it, and three or four voices laughed.
+That afternoon the three of them were on the bench outside the library, under the window, when somebody called it from the far end of the corridor.
+
+“*Look out—Potter!*”
+
+It was a Ravenclaw, by the sound of it, and three or four voices laughed.
 
 Lyra did not turn round. Goyle swung all the way round on the bench, and Lyra’s shoulders, if she was honest, gave a small jump of their own.
 
@@ -119,3 +123,79 @@ Lyra watched him go. It had been her plan since before Christmas, after all, and
 She took out her wand.
 
 “Professor Flitwick says practice makes perfect,” she said. “Who remembers the Leg-Locker Curse?”
+
+⁂
+
+Neville came into the Gryffindor common room through the portrait hole with his legs stuck together, and fell flat on his face on the hearthrug.
+
+He had hopped. He had evidently hopped all the way from the library, up seven floors, with his books clutched to his chest and his knees locked, and half the common room was on its feet laughing before anybody had worked out that it was not a joke. Hermione was the first to stop. She went across the room at a run, knelt beside him and said the counter-curse, and his legs sprang apart, and he got up slowly, shaking.
+
+“Blimey, Neville,” said Ron. “There’s easier ways up the stairs.”
+
+Harry did not say anything.
+
+“Malfoy,” said Neville miserably. He sat down on the arm of the nearest chair; his knees did not trust themselves yet. “Outside the library. She said she wanted to see if she could still do it.”
+
+“Go to Professor McGonagall!” said Hermione. “Tell her!”
+
+Neville shook his head. “It’ll only make it worse.”
+
+“You can’t just let her, Neville!” said Ron. “You’ve got to hit back sometimes, or they never stop. She walks all over people, and you lie down so she doesn’t have to step so high—”
+
+Harry got up.
+
+He took out his wand, and turned it over once in his fingers, and something in the way he did it made the Gryffindors nearest to him go quiet, and look at each other, and then look back at him with a nervous, hopeful sort of interest, as at a firework somebody has just lit.
+
+“Outside the library,” said Harry. “That’s what you said, Neville?”
+
+“Yes… why?”
+
+“Well, it’s no good practising a jinx on somebody who can’t jinx you back. She won’t learn anything.” He closed his hand on the wand. “Somebody ought to give her a proper go.”
+
+“But there’s three of them,” said Neville. “There’s always three of them.”
+
+“Then she’ll have help.”
+
+“Back in a bit,” said Harry to the room, and went out through the portrait hole.
+
+He had got as far as the first staircase when he heard somebody scrambling after him.
+
+“Harry, *don’t*.” Hermione had caught him up, out of breath, her hair coming down. “You can’t do magic in the corridors. It’s against the rules.”
+
+Harry tipped his head back towards the portrait hole, behind which Neville was presumably still sitting on the arm of a chair, waiting for his legs to stop shaking. Hermione followed the look, and pressed her lips together, and changed her ground.
+
+“She’ll tell. She’s clever, Harry, she’ll go straight to a teacher and make it look like it was all you.”
+
+“Let her.”
+
+“She’ll go to *Snape!* You don’t know what he’ll do!”
+
+“Snape.” Harry’s face went cold, as though somebody had opened a window behind it. “I’d quite like a detention with Snape. Just him and me, in the dungeons, late, with nobody else about. I’d like to see what he does.”
+
+“*Harry!*”
+
+Hermione’s mouth fell open. She looked up and down the empty staircase, in case anybody had heard, and then took hold of his shoulder.
+
+“You’re being *strange*. You’ve been strange for weeks.”
+
+“Am I?” Harry spread his arms. “Everybody jumps out of their skin if you say Voldemort. Nobody jumps at the people who used to work for him. One of them marks our homework. Tell me which bit of that *isn’t* strange.”
+
+“But everything you *do* is dangerous! You know somebody wants to—Harry, somebody might really try to kill you!”
+
+“I know,” said Harry. “I keep hoping they’ll get on with it.” He smiled at her as he said it, and did not seem to know what his face was doing. “Then I’d know who’s who.”
+
+Hermione let go of his shoulder.
+
+She looked at him the way she had looked at the troll in the girls’ lavatory at Hallowe’en, which was not a way she had ever looked at Harry before. He pulled away from her and went on down the stairs.
+
+He was not angry yet. He noticed that, the way you notice the weather. He was going down the moving stairs two at a time, and he was thinking, quite calmly, that there would be three of them and that they would be on the bench under the window, because that was where they always sat; that Goyle was the quickest of the three and Crabbe the slowest; that the library doors were behind the bench and the stairs at the far end; that if it went wrong, it would go wrong by the window. He did not ask himself where any of it came from. It seemed to have been there when he went to look.
+
+“Oi! Harry! *Wait!*”
+
+Ron came clattering down after them both, red in the face and grinning all over it. He had climbed out of the portrait hole behind Hermione and come down two steps at a time.
+
+“You’re not having all the fun,” he said. “I want to see Crabbe hop.”
+
+He fell in beside Harry, still grinning, and started describing at great length what Crabbe would look like going up seven flights with her ankles stuck together, and Harry laughed. It was his ordinary laugh. The face he had worn a minute ago on the stairs might never have been there.
+
+Behind them, after a moment, Harry heard Hermione make a small, furious noise on the landing, and come after them.
