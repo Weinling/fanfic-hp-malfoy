@@ -10,7 +10,7 @@ At a little after five, with the sky going grey at the window, it turned green.
 
 She lay there looking at it for some time after that. Then she took it off and put it in the drawer, and went to the window seat, and was sitting there when her father came up the drive.
 
-He came on foot, alone, from the direction of the gates, in the travelling cloak he had not worn to the match. He walked as he always walked, unhurried, with his cane, as though the grounds belonged to him, which they did. The hem of the cloak was dark with mud to the knee. He did not look up at her window.
+He came on foot, alone, from the direction of the gates, in the travelling cloak he had not worn to the match. He walked as he always walked, unhurried, with his cane, as though the grounds belonged to him, which they did. The hem of the cloak was dark with mud to the knee. He did not look up at her window. There was a lamp lit in the east cottage, at that hour, and when he had gone past the end of its path it went out.
 
 Once, when she was eight, both her parents had gone away in the night on some business nobody explained, and come back just before dawn, her mother still in her travelling cloak and her father with his wand hand bandaged, and nobody had mentioned either. Lyra had been given a box of sugared violets and had let it carry off the whole bad day. She was not eight now. There was no bandage this morning, only the mud. She found she was looking for one all the same.
 
@@ -40,13 +40,21 @@ Lyra looked at the green skull a little longer. Saying it was a joke had not mad
 
 It took her four days to get it out of him, and in the end he wanted to tell somebody.
 
-She went about it the way he had taught her to go about anything: never the question you want answered, always the one next to it. On the first day she asked whether the Ministry would be making arrests, and he laughed and said the Ministry could not arrest its own shadow. On the second she said, idly, over the chessboard, that she supposed some people must have been very angry with the Ministry to do a thing like that, and he moved a bishop and said that a great many people had been angry with the Ministry for a very long time. On the fourth, in his study, with the door shut and the hum of the privacy charm in the walls, he put down his glass and told her.
+She went about it the way he had taught her to go about anything: never the question you want answered, always the one next to it. Three days of that got her a remark about the Ministry and its own shadow, and a bishop moved over the chessboard with the observation that a great many people had been angry with the Ministry for a very long time. On the fourth, in his study, with the door shut and the hum of the privacy charm in the walls, she broke his rule and asked the question itself.
 
-“It was a demonstration, Lyra,” he said. “Nothing more. A protest.”
+“Only the Dark Lord’s followers can cast the Mark. That’s what everybody says.” She kept her voice quite light. “Wasn’t it one of you?”
 
-“Against what?”
+“*Lyra*.” He looked round, sharply, at his own study door, in his own house, behind his own charm; and Lyra, who had never once in her life seen her father look round to see who was listening, sat very still in her chair.
 
-“Against being made to creep about.” He said it with real feeling, as though it had been sitting in him for years. “We are wizards. That was *our* festival, our sport, the greatest match in a generation, and the Ministry had us sneaking into it in our thousands like rats, in case some Muggle farmer happened to look out of his window and see a broom. Why should we hide from *them*? If the Muggles round that site were such a difficulty, they could have been moved for the week. A great many of us have been tired of Ministry nonsense for a long time. It was going to come out somewhere.”
+“That,” he said, “was not intended.” Then, lower: “Yes. Most of us were, once. Before he fell. Thirteen years ago.” He picked up his glass and did not drink from it. “But none of us cast that Mark. None of us *wanted* it. We had no intention whatever of setting the Ministry hunting for his old friends over a little high spirits. When it went up, we were as—” he paused over the word, “—surprised as anybody.”
+
+“Then who did?”
+
+“I have no idea. I should very much like to know. It must have been somebody who got carried away, I suppose, but—” He shook his head. “The Mark is not a firework, Lyra. One does not send it up because one is excited.”
+
+He set the glass down, and squared it on its coaster, and when he spoke again he had found his footing.
+
+“As for the rest of it,” he said, “it was a demonstration, Lyra. Nothing more. A protest, against being made to creep about.” He said it with real feeling, as though it had been sitting in him for years. “We are wizards. That was *our* festival, our sport, the greatest match in a generation, and the Ministry had us sneaking into it in our thousands like rats, in case some Muggle farmer happened to look out of his window and see a broom. Why should we hide from *them*? If the Muggles round that site were such a difficulty, they could have been moved for the week. A great many of us have been tired of Ministry nonsense for a long time. It was going to come out somewhere.”
 
 Lyra had grown up with that argument at the dinner table, and it had always seemed to her perfectly sensible. Wizards were what they were, and Muggles were what they were, and it was absurd that the better should have to tiptoe round the lesser. She found that she still thought so.
 
@@ -56,23 +64,7 @@ Lyra had grown up with that argument at the dinner table, and it had always seem
 
 Lyra thought of a man and a woman and two small children turning over and over in the air, in their nightclothes, while a crowd underneath them laughed. She did not care about Muggles. She had never pretended to. But she knew what it looked like to tie up something that could not fight back and parade it about for the fun of the thing, and it looked, more than anything, common.
 
-She did not say so. She said, “And the Mark?”
-
-Her father’s face went very still.
-
-“That,” he said, “was not intended.”
-
-“Only the Dark Lord’s followers can cast it. That’s what everybody says.” She kept her voice quite light. “Wasn’t it one of you?”
-
-“*Lyra*.” He looked round, sharply, at his own study door, in his own house, with the privacy charm humming in the walls; and Lyra, who had never once in her life seen her father look round to see who was listening, sat very still in her chair.
-
-“Yes,” he said, lower. “Most of us were, once. Before he fell. Thirteen years ago.” He picked up his glass and did not drink from it. “But none of us cast that Mark. None of us *wanted* it. We had no intention whatever of setting the Ministry hunting for his old friends over a little high spirits. When it went up, we were as—” he paused over the word, “—surprised as anybody.”
-
-“Then who did?”
-
-“I have no idea. I should very much like to know. It must have been somebody who got carried away, I suppose, but—” He shook his head. “The Mark is not a firework, Lyra. One does not send it up because one is excited.”
-
-Lyra looked at him across the desk.
+She did not say so. She looked at him across the desk.
 
 There it was again. She had asked him once, in July, more than a year ago, what the thing in his drawer had been, and he had told her it was an old book. She had asked him at Christmas what he would say if the Dark Lord came back for it, and he had laughed and poured a second glass. And now somebody had stood in a wood and put the Dark Lord’s sign in the sky over a hundred thousand witches and wizards, and her father had been there in a mask, and he did not know who. He did not know anything. She began to wonder whether the Dark Lord had ever told him anything either, and whether perhaps that had not been entirely an oversight.
 
@@ -95,6 +87,8 @@ She did not take it out. She sat with her hands in her lap and looked down the d
 He had known about the Tournament as well. *Especially next year. If students come from other schools.* He had said it under a cloister in May, three months before the Minister for Magic winked at her about it, and long before her father had heard a word.
 
 Her father, who had been there, did not know who had cast the Mark. Potter had known to send her inside before anything had happened.
+
+She could not lie behind her hangings every night at nine with the ring of a boy she had sworn, on the end of the bed across this very room, to turn on if it came to it. And she could not ask him how he had known. He would smile, and not answer, and she would have asked. Not yet, at any rate.
 
 Lyra sat on the window seat until the light went, and did not open the drawer.
 
@@ -178,7 +172,7 @@ It lasted perhaps a second. Then he looked away, back to the staff table, with a
 
 ⁂
 
-Professor Moody did not take a register. He stumped into the Defence classroom on the first Thursday of lessons, put a jar on his desk, and stood looking at the fourth-year Slytherins with one eye while the other went slowly along the rows, and then round, and then into the back of his own head, and came back with what it had found.
+Professor Moody did not take a register. He stumped into the Defence classroom on the first Thursday of lessons, put a jar on his desk, and stood looking at the fourth-year Slytherins with one eye while the other went slowly along the rows, and then round, and then into the back of his own head. When it came back it did not go on along the rows. It went down, quite deliberately, to the pocket of Lyra’s robes, and stayed there, and he had not yet said a word.
 
 “I know your families,” he said. His voice was a low growl, like something being dragged over gravel. “Some of your mothers and fathers sat in front of the Wizengamot because of me. If I’d had a bit more evidence, a few of you wouldn’t be sitting here at all, because you wouldn’t have been born.” The normal eye went round them, slowly. “But the sins of the parents aren’t the sins of the children. Not yet, anyway.”
 
@@ -190,7 +184,7 @@ Lyra did not put her hand up. She never did.
 
 “The Imperius Curse,” she said.
 
-The blue eye swivelled round and fixed on her. Then the other one did.
+The blue eye came up from her pocket to her face. Then the other one did.
 
 “Ah,” said Moody. “Malfoy. Lucius Malfoy’s girl. You’d know, wouldn’t you?” He leaned on his desk. “Your father did a very beautiful Imperius, Miss Malfoy. One of the best I ever came across. The best of his crowd at walking out of court, and we never did find the people he’d been working like puppets. It’s thanks to men like your father the Ministry had to start testing for it.”
 
@@ -202,11 +196,7 @@ Moody looked at her for a moment longer. Then he gave a short bark that might ha
 
 “No. Nor it has. I got carried away. Old habit.”
 
-He took a spider out of the jar, a large black one, and set it on the desk, and pointed his wand at it. “*Imperio*.”
-
-The spider began to tap-dance.
-
-It went cartwheeling across the desk on its eight thin legs, and did the splits, and swung round in circles on a thread, and the class began to laugh: Parkinson first, then the Warrington cousins, then nearly everybody. Moody let them. Then he stopped smiling.
+He took a large black spider out of the jar and pointed his wand at it. “*Imperio*.” It went tap-dancing and cartwheeling across the desk on its eight thin legs, and the class began to laugh: Parkinson first, then the Warrington cousins, then nearly everybody. Moody let them. Then he stopped smiling.
 
 “Funny, is it? You’d like it if I did it to you?” The laughter died. “Total control. I could make it jump out of the window. Drown itself. Throw itself down one of your throats. I could make *you* do it. I could make you do things you’d hang for, and you’d never know it was me.” The blue eye rested on Lyra for one moment, and went on. “Years back, there were a lot of witches and wizards claiming they’d only done the Dark Lord’s business because they’d been Imperiused. Some of them were telling the truth. Sorting out which was the Ministry’s job. Some of them we never did sort out.”
 
@@ -223,8 +213,6 @@ Moody looked at her, longer than he needed to, as though he had been about to sa
 Lyra did not look at the ceiling. She thought of a boy with untidy hair and a thin white scar, and an empty classroom in May, and a careless voice saying the Dark Lord’s name as if it were just a word.
 
 “Don’t you ever let anybody tell you those three are power,” said Moody. “They’re not. They’re something dirty, spat out of the end of a wand. If you ever see anybody using one, you come and tell me.”
-
-On her way out, with the class streaming past her, the blue eye swivelled round once more and went down, quite deliberately, to the pocket of her robes. It stayed there a moment. Then it went back.
 
 Lyra walked up the stairs to Arithmancy with her hand closed round the ring in her pocket and thought about a travelling cloak with mud on its hem, and men in masks, and a family of Muggles turning slowly in the air above a laughing crowd.
 
@@ -250,11 +238,7 @@ The flames turned red. A charred slip of parchment flew out of them and fluttere
 
 Viktor Krum for Durmstrang, which nobody had doubted; he slouched up from the Slytherin table, where the Durmstrang students had sat all week, with Parkinson clapping loudest of all. Fleur Delacour for Beauxbatons, a girl with a sheet of silver-blond hair and a face designed for making boys walk into doors, and every boy in the Hall turned to watch her go.
 
-A third time. The Hall held its breath; this one was theirs.
-
-“The Hogwarts champion,” called Dumbledore, “is Cedric Diggory!”
-
-The Hufflepuff table went off like a firework. Every one of them was on their feet, stamping and screaming, as Diggory made his way up through them, grinning, with people slapping him on the back all the way. The Slytherin sixth and seventh years booed. Montague brought his fist down on the table so hard that Goyle, who had been leaning on her elbow, slid off it.
+The third was theirs, and it was Cedric Diggory, and the Hufflepuff table went off like a firework. The Slytherin sixth and seventh years booed. Montague brought his fist down on the table so hard that Goyle, who had been leaning on her elbow, slid off it.
 
 “Well, that’s Hufflepuff insufferable till Easter,” said Lyra. But she could see why. If it had to be somebody, it might as well be the one person in the castle who was good at everything and was held, by everybody who had never played against him, to play fair while he did it.
 
