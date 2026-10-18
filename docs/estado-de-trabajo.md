@@ -27,7 +27,7 @@
     3. una consulta a Fable como revisor (solo lectura);
     4. documento final para el autor en `docs/notas/ideas-divergencias.md`.
 
-    Si se compacta: mira si los dos informes existen; si no, los agentes siguen vivos o hay que relanzarlos con el mismo encargo.
+    **HECHA (18 de octubre).** Informes de los dos agentes, ideas de la sesión, dosier y respuesta de Fable (001, «aceptable con cambios») y documento final `docs/notas/ideas-divergencias.md`. **Se espera que el autor decida** los seis puntos de su §5: la combinación, cuándo lo sabe Lyra, la tercera prueba, el Baile, el abuelo y las semillas.
   1. **HECHO (18 de octubre): el 24 rehecho** (`borradores/cap-24-replay.md`, ~3.930 palabras; commits 79aee8e y fc9bf88). Revisado por un Opus nuevo (calco 9 → 7; ningún D; todas las ataduras en pie) y con sus arreglos aplicados. Manual `docs/capitulos/cap-24.md` al día. La versión publicada: `git show 798a357:borradores/cap-24-replay.md`.
      - **Para Webnovel:** cambia el modo, no los hechos. Abre Draco con el póster; Draco sospecha que sus omniculares son los de tienda, no la cree y se lleva también el póster; el verano del anillo va después; **Lyra abre ella los ojos** en el casi beso (se acuerda de la capa de su padre) y la voz de Narcissa llega después. El autor decide si sube esta versión.
      - **Ramas (resuelto):** `main` avanzado hasta la rama de trabajo; el autor borró `claude/hopeful-hamilton-jt6e15`. Se trabaja en `claude/wizardly-albattani-vazqyr` y se sube también a `main`.
@@ -178,7 +178,7 @@ Ninguno. Todo está commiteado y subido.
 ## Agentes vivos
 
 - **Crítico:** el del cuarto año (criticó del 24 al 28) está retirado. **El del 29 está vivo** (Opus, arrancado con `docs/notas/critico-arranque-29.md`): leyó entero todo lo adaptado, criticó el 29 y el 30, y espera el 31. Se le reutiliza hasta que se le llene el contexto (`CLAUDE.md`). El anterior (17 a 23, *Year One*, revisión del 1 al 3) está retirado.
-- **Fase de ideas (18 de octubre):** dos agentes Opus vivos, el de divergencias y el de poda; escriben en `docs/notas/ideas/`.
+- **Fase de ideas:** terminada; no queda ningún agente vivo.
 - **Revisor:** es el chat paralelo del autor. Sus informes llegan a `docs/notas/revisiones/`.
 
 ## Decisiones pendientes del autor
