@@ -202,7 +202,7 @@ Behind them, after a moment, Harry heard Hermione make a small, furious noise on
 
 ⁂
 
-They saw him coming from the end of the corridor: Potter in front, with his hands in his pockets, and Weasley at his shoulder grinning like a dog with a stick, and Granger a few steps behind, looking as though she had lost an argument on the stairs.
+They saw him coming from the end of the corridor: Potter in front, with his hands in his pockets, and Weasley at his shoulder grinning all over his face, and Granger a few steps behind, looking as though she had lost an argument on the stairs.
 
 Lyra did not get up. Getting up would have meant something.
 
@@ -319,3 +319,81 @@ Her face went.
 It did not happen the way crying happened at home, where there was always a moment first, to decide about it in. It came up from somewhere under her ribs, all at once, like being sick, and her mouth opened by itself and the noise came out of it, high and wet and enormous, and went off the stone and came back to her, so that she could hear exactly what she sounded like. She sounded like Draco, at three, when he was lost in the garden. Her eyes had shut. She did not remember shutting them. She could feel the wall against her shoulder blades and his hand on her wrist and her own breath going in and out in great dragging pieces, and she could not stop any of it, and in the middle of all of it she heard her own voice, a long way off, saying things.
 
 “Stop it,” she said. “I hate it, I hate both of them—Vol-Voldemort, and that—that word—I hate all of it—”
+
+⁂
+
+“—and *you*, I hate *you*—”
+
+Harry stared at her.
+
+She had said the name. He did not think she knew. She was crying the way a very small child cries, with her eyes screwed shut and her mouth wide open, not caring who saw, because it had not yet occurred to her that anybody could; and somewhere in the middle of it the name had come out of her as easily as any other word, and gone, and she had not heard it.
+
+He had been going to say something. It was still there, behind his teeth: a short, hard shape, all ready, the way a sneeze is ready. He did not know what it was. He shut his mouth on it, and felt it go back down to wherever it had come from, and did not try to follow it.
+
+Then he looked at his own hand.
+
+It was still round her wrist, and there were red marks coming up on her skin at the edges of his fingers. That would hurt. He had not thought about that. He let go of her as fast as if she had burnt him, and took a step back, and then another.
+
+*I hate you.* It was the most babyish thing he had ever heard anybody say, and it knocked the breath out of him in a way the jinx had not. He actually stepped back from it, as though she had pushed him.
+
+Behind him, Crabbe got her legs apart. It had only been a first-year’s jinx, and it had given out. She came across the flagstones like a small round cannonball and hit him square in the chest with both hands.
+
+“*Get off her!*”
+
+He went over backwards. He was not expecting it, and he had nothing left to stop himself with; he sat down hard on the stone with his head ringing. By the time he had sorted out which way was up, Crabbe had Malfoy by one arm and Goyle had her by the other, and the three of them were going away down the corridor as fast as they could go, with Malfoy still sobbing between them.
+
+⁂
+
+Afterwards the corridor went very quiet.
+
+Harry lay on the flagstones and looked at the ceiling. By rights the corridor ought to have been cheering. The Slytherins had run; that was how these things were scored. Nobody cheered. It turned out that nobody, from any House, could watch a girl cry like that and feel they had been on the winning side, and somehow, without anybody saying a word, the whole corridor had decided that the person in the wrong was the one on the floor. People looked at him with uncomfortable faces, and looked away, and drifted off in twos and threes towards their own common rooms.
+
+Ron came and crouched beside him. “You all right? Sorry, mate. Crabbe was mine. I lost her.”
+
+“Doesn’t matter.” Harry waved a hand at him. It was better this way, really. If she had gone on standing there in front of him, he did not know what he would have done; and he found, lying there, that he meant it exactly.
+
+Hermione had not come over. She was standing by the window where the Ravenclaws had been, with Ron’s wand in one hand and Goyle’s in the other, and she was not looking at him. She had stopped being white. She had gone back to being Hermione, nearly. She still did not come over.
+
+“*What* is going on here?”
+
+Professor McGonagall came round the corner at a speed that did not seem possible in a woman her age, and stopped dead at the sight of Harry on the floor with blood all down one side of his face.
+
+“Potter! You’re *bleeding!*”
+
+“It’s nothing, Professor.” He did not feel like being funny.
+
+McGonagall’s nostrils went thin and white.
+
+“Fighting. *Again*. I warned you, Potter, in so many words. Five months, and I have had more trouble out of you than out of the Weasley twins in their first year, which I should not have thought possible. Twenty points, and a detention, and you may thank your stars it is not worse—”
+
+“Why’s it only m—”
+
+“Twenty points from every student involved in this, Mr Weasley and Miss Granger *included*, and detentions all round! Hospital wing, Potter, this minute.” She turned on a tall Hufflepuff who had been edging away towards the stairs. “Mr Diggory. Who was Potter fighting?”
+
+So Malfoy would get a detention too. Harry was glad, and ashamed of how glad.
+
+He got himself up off the floor. McGonagall was looking at him again, and then lower down, at his hand.
+
+“And whose,” she said, “is that?”
+
+Harry looked down.
+
+He was holding a wand. It was not his; his was still under the bench, where Goyle had put it. This one was lighter and paler, with a silver band at the handle, and his fingers were round it the way they went round his own, without his having to think about it. He had held it all the way through. He had held it lying on the floor. He had not noticed.
+
+“Malfoy’s, Professor,” he said, and held it out to her, handle first.
+
+McGonagall took it, and looked at it, and at him, for longer than he liked. Then she told him again to go to the hospital wing.
+
+He went. His head had gone cold and clear, now that all the heat had gone out of it, and things were coming back to him in order, one after another, the way they do after a fall. Neville on the hearthrug. The bench under the window. Her face. All of it came back in order except two things, and he kept turning them over on the stairs and could not make them fit.
+
+He had never heard that word before today. Nobody at Privet Drive had ever needed one like it. And he had known what it was before he saw a single face; he had known it the way you know a smell, and he had turned round to look at Hermione’s arms, and he could not have said, if anybody had asked him, what he had expected to see there.
+
+The other thing was the word he had not said.
+
+He could still feel the shape of it. He did not know what it was. He did not want to know, and that was the part that frightened him: not that he did not know, but that something in him did.
+
+He had decided, on a broom at the start of the year, that he was going to change her. He had put his chin up and told himself so.
+
+“I was going to change her,” Harry said, to nobody. “I made her cry.”
+
+Madam Pomfrey mended his eyebrow in about a minute, with a great deal of tutting, and in the morning there was nothing to show where it had been. That was the last anybody saw of it. The Gryffindors did not tell the story, because it was not the sort of story that made Harry look good. The Slytherins did not tell it, because it was not the sort that made Malfoy look good either. Nobody repeated what he had said about Snape. Snape himself, the next time Harry came into the dungeon, did not so much as raise his eyes, and Slytherin took its lead from him. By Easter nobody spoke of any of it.
