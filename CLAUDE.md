@@ -64,7 +64,8 @@ La sesión principal no puede apoyarse solo en el resumen de una compactación n
     - el coreano que se adapta y los dos siguientes, cuando el guion dice «se queda» o «cambia», y las fichas ya hechas.
 
     El resto de los manuales se lee cuando la ficha toque algo de ese capítulo: entero el manual, y el pasaje con grep.
-  - **Al empezar una tanda:** la historia entera en texto completo, más el handoff, la continuidad y el rumbo. **Sin los manuales**, que repiten el texto. Cuando la historia pase de unas 200.000 palabras (hacia el capítulo 45), se lee entera la tanda anterior y del resto, los manuales.
+  - **Al empezar una tanda:** la historia entera en texto completo, más el handoff, la continuidad y el rumbo. **Sin los manuales**, que repiten el texto.
+  - **Para rehacer un capítulo ya escrito** (decisión del autor, 19 de octubre de 2026): la historia entera en texto completo, sin manuales, como al empezar una tanda. Los manuales son un índice (frases citadas, quién sabe qué, continuidad) y no sustituyen al texto: pierden la voz, el subtexto y cómo se siente cada escena, que es lo que pide una reescritura. Cuando la historia pase de unas 200.000 palabras (hacia el capítulo 45), se lee entera la tanda anterior y del resto, los manuales.
   - Lo que se lee se apunta en el estado de trabajo.
   - **Antes de cerrar cada ficha:** la sesión principal busca ella misma en el texto (grep) cada nombre, objeto, lugar o «primera vez» que toque la ficha. El agente lector solo se usa para una pregunta concreta y larga (decisión del autor, 2026-10-11).
 - **Nunca hay texto que solo exista en el contexto.** Cada escena se commitea al escribirla, y si se compacta a mitad de capítulo, el archivo y el estado de trabajo bastan para seguir.

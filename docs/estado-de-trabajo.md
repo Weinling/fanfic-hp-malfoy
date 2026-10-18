@@ -6,6 +6,7 @@
 
 ## Ahora mismo
 
+- **EN CURSO (19 de octubre): el *Year One* 4 rehecho, antes del 31.** Encargo del autor: que Potter dé miedo de verdad, título «What Scared Actually Is». Análisis, propuesta y restricciones en `docs/notas/year-one-4-rehacer.md` (léelo justo después de este estado). Pasos: (1) leer la historia entera en texto completo, sin manuales (regla nueva de `CLAUDE.md`); (2) la ficha nueva, que aprueba el autor; (3) escribirlo escena a escena. Recomendado al autor retener el 4 en Wattpad (mañana subiría solo el 3); por confirmar. La nota `sesion-nueva-31.md` sigue valiendo para después.
 - **SESIÓN NUEVA (preparado el 19 de octubre): lee `docs/notas/sesion-nueva-31.md` justo después de este estado.** Dice qué leer (el protocolo corto, unos 60.000 tokens; la historia entera no) y qué hacer: la ficha del 31, que aprueba el autor; luego escribirlo; el crítico nuevo, avisando antes del coste, para el 31 y el *Year One* 2. Todo lo de abajo está hecho y subido.
 - **HECHO (18 de octubre): el *Year One* 2, rehecho y escrito** (`borradores/extra-year-one-2-nobody-asked-you.md`, ~5.520 palabras; ficha aprobada; manual y continuidad al día). Sin crítica todavía: se decide con el autor si lo lee el crítico nuevo del 31. La versión publicada en Webnovel: `git show a87b54e:borradores/extra-year-one-2-nobody-asked-you.md`. El autor lo sube a Wattpad, y en Webnovel sustituye al publicado, con una nota.
 - **Después: la ficha del 31** (guion de la tanda aprobado; handoff v3.0, §9). Antes de lanzar el crítico nuevo, avisar al autor del coste.
