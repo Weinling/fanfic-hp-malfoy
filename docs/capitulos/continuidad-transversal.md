@@ -13,6 +13,7 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 | Ago. 1991 | 16, Y1-1 | Madam Malkin’s: ella le endereza los hombros, le sube la barbilla, le dice que sonría. Él no lo olvida; ella sí | Nadie | «Shoulders back. Chin up. And smile. Like you mean it.» |
 | Sep. 1991 | 1, Y1-1 | El tren: ella le ofrece la mano y él la rechaza delante de Weasley. Él pidió Slytherin al Sombrero por ella | Weasley; el Sombrero | «work out the wrong sort for himself» |
 | Sep. 1991 | Y1-1 | Clase de vuelo: la coge en el aire y rueda con ella en brazos. **Es el «first time» del 5.** Harry pidió silencio | Ron, Hermione, la clase | «Do you think I’m going to say *thank you?*» |
+| Dic. 1991 | Y1-2 | Ella se burla de él junto al abeto («nobody who wants them at Christmas») y él gana diciendo «Voldemort». Luego es ella la que se queda sola en Navidad. Él la ve en la cena y en el aula de la piedra lunar, jugando al ajedrez con la voz de su padre, y juega con ella las negras cada noche sin que lo sepa. **Primer regalo de Harry, sin cobrar ni saberse** | Las piezas negras | «He asked us not to say, miss.» |
 | Feb. 1992 | Y1-4 | «Mudblood» / «Voldemort»: él le sujeta la muñeca contra la pared y ella llora. Lo entierran todos | Crabbe; Diggory (para McGonagall) | «You’re frightened of his *name*, and you’ll say *that*?» |
 | Nov. 1992 | 9 | El partido: él la agarra de la túnica, suelta la escoba y se rompe el brazo. Al día siguiente ella le insulta | Nadie lo vio | «some people would do anything for attention» |
 | May. 1993 | 1 | El pacto de rehén; se dan la mano | Nadie | «our hostage» |
@@ -96,6 +97,7 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 - **Buckbeak montado** (20): Snape lo deduce. Hagrid no consta.
 - **Los números 11 y 11** (15): Granger lo sabe y calla.
 - **El horario de Granger** (15): Lyra lo vio y calla.
+- **La Navidad de 1991 (Y1-2, rehecho el 18 de octubre):** Lyra se quedó sola en Hogwarts; sus padres, «on business» en el extranjero. Le escribió a su padre *Please come* y la respuesta no lo mencionó. Nadie más lo sabe. Cree que su contrincante del ajedrez fue el Barón Sanguinario; fue Harry, y las piezas no lo dicen. Harry la vio sola, pero no sabe lo de la carta.
 - **La noche de 1992 (Y1-4):** Crabbe sabe que lloró; Lyra lo enterró.
 - **La silla del palco** (24, puesta el 18 de octubre): una elfa sin nombre guarda una silla vacía al final de la fila de los Malfoy, y la silla cruje en el primer gol irlandés. Lyra no lo comenta. Es Winky, con Crouch hijo bajo la capa; se cobra en el 36.
 - **La lámpara de la casita** (25): se apaga cuando Lucius vuelve a pie del Mundial. Semilla de Abraxas (handoff §17); nadie la comenta.
