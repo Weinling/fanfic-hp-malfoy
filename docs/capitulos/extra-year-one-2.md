@@ -1,5 +1,5 @@
 # Extra «Year One», parte 2: «Nobody Asked You for Christmas»
-- **Archivo:** `borradores/extra-year-one-2-nobody-asked-you.md` · **Palabras:** ~5.520 · **Punto de vista:** Lyra (la nieve, la carta, la víspera, las negras), Harry (el abeto, la capa y el aula) · **Fecha(s) en la historia:** del miércoles 18 de diciembre de 1991 (el abeto) al domingo 5 de enero de 1992 (vuelven los carruajes); el recuerdo de Lyra, a los ocho años (1988) · **Estado:** **rehecho el 18 de octubre de 2026** por encargo del autor («que haga llorar»); ficha en `borradores/extra-year-one-2-ficha-guion.md`. La versión anterior está publicada en Webnovel (`git show a87b54e:borradores/extra-year-one-2-nobody-asked-you.md`); en Wattpad todavía no se ha subido. Sin crítica · **Coreano fuente:** 24 (extra, «10 años, la sinvergüenza y la malcriada»), solo las dos primeras escenas; el resto es nuevo
+- **Archivo:** `borradores/extra-year-one-2-nobody-asked-you.md` · **Palabras:** ~5.420 (tras la crítica del 19 de octubre) · **Punto de vista:** Lyra (la nieve, la carta, la víspera, las negras), Harry (el abeto, la capa y el aula) · **Fecha(s) en la historia:** del miércoles 18 de diciembre de 1991 (el abeto) al domingo 5 de enero de 1992 (vuelven los carruajes); el recuerdo de Lyra, a los ocho años (1988) · **Estado:** **rehecho el 18 de octubre de 2026** por encargo del autor («que haga llorar»); ficha en `borradores/extra-year-one-2-ficha-guion.md`. La versión anterior está publicada en Webnovel (`git show a87b54e:borradores/extra-year-one-2-nobody-asked-you.md`); en Wattpad todavía no se ha subido. Sin crítica · **Coreano fuente:** 24 (extra, «10 años, la sinvergüenza y la malcriada»), solo las dos primeras escenas; el resto es nuevo
 
 ## Escenas
 1. **Lyra, en la nieve, justo después del abeto.** Como en la versión anterior: «Harry Potter. How *dare* he.» El nombre, «a curse you could not block». El plan: dejar a Potter e ir a por los de alrededor (Weasley, Granger, Longbottom). Crabbe, con las trenzas: «It’s only… his parents are dead. Isn’t it a bit sad?» Lyra: «Not having parents. As if that were such a great matter.»
@@ -15,7 +15,7 @@
 - «You just answer back straight, and smile first. Then you win.»
 - «He had never in his life been so glad to be left somewhere.»
 - «It had come, then. Not every day: only at Christmas, and by owl, folded very small.»
-- «After Christmas, Potter,» said Lyra, to the dark. «You’ll see.» / «The arrow was already off the string.»
+- «After Christmas, Potter,» said Lyra, to the dark. «You’ll see.»
 - *Please come.*
 - *For Christmas morning.* (Narcissa)
 - «It took two.» (el cracker)
@@ -58,7 +58,9 @@ Crabbe (trenzas; piedad; se ofrece a quedarse; la primera en volver), Goyle (apl
 - **Lyra pasó la Navidad de 1991 en Hogwarts,** sola en primero de Slytherin. Ron y los Weasley se fueron a casa. Harry se quedó.
 - **Lucius y Narcissa estuvieron fuera «on business»** hasta Año Nuevo; Draco (siete años) se quedó «looked after». No se dice dónde estuvieron.
 - **La capa llegó a Harry el día de Navidad de 1991,** con una nota sin firma.
-- **La partida se jugó en el aula vacía junto al vestíbulo** (la del 1, con la piedra lunar en la pizarra). Lyra no sabe con quién jugó, y cree que fue el Barón.
+- **La partida se jugó en el aula vacía junto al vestíbulo** (la del 1, con la piedra lunar en la pizarra). **Lyra se sienta de espaldas a la pizarra; la frase la ve solo Harry, desde la silla del padre** (arreglo de la crítica: en el 1, Lyra lee la frase sin reconocer el aula). Lyra no sabe con quién jugó, y cree que fue el Barón.
+- **La tarjeta de Narcissa** va en su letra de invitaciones, «all loops and flourishes» (el 7: la letra pequeña y recta es la excepción).
+- El «Not *there*» del alfil se dice a la mañana siguiente, a Lyra, no de noche a Harry.
 - Lyra no llora en este capítulo («Like a Malfoy, she had held it in»); el llanto grande es el del *Y1* 4.
 - Harry no llora: se le humedecen los ojos.
 - Harry aprendió ajedrez este trimestre, con Ron, y juega fatal.

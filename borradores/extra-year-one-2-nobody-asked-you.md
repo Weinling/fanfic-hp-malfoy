@@ -14,7 +14,7 @@ He had just *said* it. The Dark Lord’s name, out loud, in the snow, in front o
 
 That was the trouble. Lyra and Crabbe and Goyle had grown up in houses where that name was not said, by parents who had stood on the Dark Lord’s side before he fell, and the fear of it had gone into them so early it was nearly reverence. Harry Potter said it the way other people asked for the salt, and there was nothing whatever they could do about it: they could not say it back. Something in them pulled away every time, like a hand from a stove.
 
-It was a curse you could not block. A thing only a child who knew nothing could do.
+It was a curse you could not block.
 
 “Even Weasley jumped,” said Goyle gloomily. “When he said it. So it’s not just us.”
 
@@ -96,7 +96,7 @@ It was meant for Harry, and everybody knew it. Ron’s face went from red to pur
 
 Harry patted Ron on the shoulder, and walked straight up to her.
 
-She was looking enormously pleased with herself, because it had worked. It was a bright, childish, superior sort of smile, like a cat’s with a bird under one paw. And Harry, who had had that sort of thing said to him at number four for as long as he could remember and had never once been allowed to answer back, was not angry. He was only, suddenly and enormously, *free*.
+She was looking enormously pleased with herself, because it had worked. It was a bright, childish, superior sort of smile, like a cat’s with a bird under one paw. And Harry, who had had that sort of thing said to him at number four for as long as he could remember and had never once been allowed to answer back, found that he was not angry at all, only, suddenly and enormously, *free*.
 
 He stopped in front of her, and to everybody’s astonishment, he smiled back. It was a perfectly friendly smile. He had been practising it since August.
 
@@ -208,11 +208,9 @@ She had decided it was rubbish. If you had not got parents, you had elves, and r
 
 It had come, then. Not every day: only at Christmas, and by owl, folded very small. She had the square of it under her pillow, and she did not take it out to read it again, because she knew what it said.
 
-Lyra turned over hard and pulled the blankets up to her ears. What mattered was not that. What mattered was making Harry Potter sorry, and until then she would allow herself no weakness of any kind. None whatever.
+Lyra turned over hard and pulled the blankets up to her ears. The thing that mattered was making Harry Potter sorry, and until then she would allow herself no weakness of any kind. None whatever.
 
 “After Christmas, Potter,” said Lyra, to the dark. “You’ll see.”
-
-The arrow was already off the string.
 
 ⁂
 
@@ -234,11 +232,11 @@ She tore the rest of the sheet away and folded what was left very small, and tie
 
 There was a box at the foot of her bed on Christmas morning.
 
-It was wrapped in silver paper, and inside the silver paper was a box she knew, from her mother’s confectioner in Diagon Alley, the one who made sugared violets to order and would not sell you anything without first enquiring after your family. On top of the violets lay a card, in her mother’s small, upright hand.
+It was wrapped in silver paper, and inside the silver paper was a box she knew: sugared violets, from her mother’s confectioner in Diagon Alley. On top of the violets lay a card, in her mother’s hand, all loops and flourishes, the way she wrote invitations.
 
 *For Christmas morning.*
 
-That was all. It had been written, Lyra saw, a good while ago. It had been packed and sent before anybody could have read a letter that had gone out over the lake at midnight. The owl would hardly have reached them yet.
+That was all. It had been written, Lyra saw, a good while ago. It had been packed and sent before anybody could have read a letter that had gone out over the lake at midnight.
 
 She ate one violet, sitting on the end of her bed in her dressing gown. It tasted exactly as it had when she was eight. Then she put the lid back on the box, and got dressed, and did her hair for twenty minutes, because it was Christmas Day.
 
@@ -276,17 +274,13 @@ At dinner there were not enough Gryffindors left to fill a quarter of their tabl
 
 He was laughing at the chessmen when he looked across the Hall.
 
-The Slytherin table was nearly empty. Two older students sat at one end of it with their heads together, and at the other end, as far from them as the table went, sat Malfoy, quite alone, with her back very straight, eating her dinner as though somebody were going to mark it.
-
-There was a cracker beside her plate. She did not touch it.
-
-Harry watched her. Nobody else in the Hall was looking. She finished her turkey, and ate her pudding, small spoonful by small spoonful, and the cracker lay there in its gold paper the whole time, because there was nobody at her end of the table to hold the other end of it.
+At the far end of the Slytherin table, as far from the two seventh-years as the table went, sat Malfoy, quite alone, with a cracker beside her plate that nobody was going to pull.
 
 *Some people have nobody who wants them at Christmas, so they have to stay at school.*
 
 She had said it to him under the fir tree, with Crabbe and Goyle at her shoulders and that bright, mean smile on her face, and he had smiled back and said Voldemort and won. He had not wondered why she was staying. It had not crossed his mind that she was.
 
-He could take his own cracker over. He could walk the length of the Hall to the Slytherin table, past the staff, past the two prefects, and hold out the other end.
+He could take his own cracker over. He could walk the length of the Hall to the Slytherin table, past the staff, past the two seventh-years, and hold out the other end.
 
 He thought about her face if he did. After the flying lesson she had stared down every person who mentioned it until nobody would. If she knew that *he* had seen her like this, she would never in her life forgive it. She would rather eat the cracker, paper and all.
 
@@ -302,11 +296,11 @@ She went straight across the hall and into an empty classroom off it, and left t
 
 Harry crossed after her as quietly as he could and stopped in the doorway.
 
-It was a classroom nobody seemed to have used in years. The desks had been pushed back against the walls, and the blackboard still had half a sentence on it about the uses of moonstone. She had lit one lamp. She had pulled a desk out into the middle of the floor and set a chair on either side of it, and now she opened the box and took out a chessboard, and began to set out the pieces: white on her side, black on the other.
+It was a classroom nobody seemed to have used in years, with the desks pushed back against the walls. She had lit one lamp. She had pulled a desk out into the middle of the floor and set a chair on either side of it, and now she opened the box and took out a chessboard, and began to set out the pieces: white on her side, black on the other.
 
 They were wizard chessmen, like his, but old, and black and silver, and they bowed to her as she put them down.
 
-Then she sat down with the white, and looked across the desk at the empty chair.
+Then she sat down with the white, with her back to the blackboard, and looked across the desk at the empty chair.
 
 “Your move, Father,” she said.
 
@@ -324,7 +318,7 @@ Harry’s eyes had gone hot, and there was nothing he could do with them, and he
 
 After a while she got up. She left the board as it was, with the black king in check, and put out the lamp, and went past him so close that the edge of her cloak brushed his, and away across the Entrance Hall towards the dungeons. He heard a door shut somewhere below.
 
-Harry went in and sat down in the empty chair.
+Harry went in and sat down in the empty chair. From there he was facing the blackboard, and somebody had left half a sentence on it, years ago, about the uses of moonstone.
 
 The black pieces looked up at him, as much as chessmen can look at somebody they cannot see.
 
@@ -336,9 +330,7 @@ Nothing happened.
 
 The pawn gave him a long, considering look, and then it shuffled forward one square and stood in the way.
 
-“Not *there*, you clot,” said a black bishop, with deep disgust.
-
-“Sorry,” said Harry. And then, because she would come back in the morning and ask: “Don’t tell her it was me. Will you? Please.”
+And then, because she would come back in the morning and ask: “Don’t tell her it was me. Will you? Please.”
 
 The black king looked at the empty air where Harry was, and at the pawn, and at the white queen, and said nothing, which Harry decided to take as a yes.
 
@@ -361,6 +353,8 @@ The black pieces looked at one another. The pawn looked at its feet, which wizar
 “*He?*”
 
 “He asked very nicely,” said the king, in the tone of one who had not been asked anything nicely by a Malfoy in some years.
+
+“He put the pawn *there*,” said a black bishop, with deep disgust. “I told him. Not *there*, I said.”
 
 Lyra opened her mouth, and shut it again. Nothing she had to say to a chessman would be worth the trouble. She sat down with the white, very straight, and took the pawn; and then she sat for a while longer, looking at the empty chair. Then she put out the lamp and left the board where it was.
 
