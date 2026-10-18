@@ -6,7 +6,8 @@
 
 ## Ahora mismo
 
-- **SESIÓN NUEVA (preparado el 18 de octubre): lee `docs/notas/sesion-nueva-18-oct.md` justo después de este estado.** Dice dónde estamos, qué quiere el autor, las tareas en orden y qué leer. Lo de abajo es el detalle del 17 y el 18 de octubre.
+- **SESIÓN NUEVA (preparado el 18 de octubre, al final): lee `docs/notas/sesion-nueva-30.md` justo después de este estado.** Es el retoque del 30, con una lectura reducida que ha autorizado el autor. La nota anterior (`sesion-nueva-18-oct.md`) ya está cumplida.
+- (Anterior:) **lee `docs/notas/sesion-nueva-18-oct.md`**, ya cumplida. Dice dónde estamos, qué quiere el autor, las tareas en orden y qué leer. Lo de abajo es el detalle del 17 y el 18 de octubre.
   - **Abierta ya (18 de octubre):** lectura del §4 hecha (ver «Lecturas hechas en esta sesión», al final).
   - **DECIDIDO por el autor (18 de octubre): ideas primero.** Del 25 al 30 no se toca nada todavía. Nuevo orden:
     1. lectura completa del 1 al 23 y los *Year One* 1 a 4 (unas 121.000 palabras), por la sesión principal;
