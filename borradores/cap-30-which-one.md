@@ -2,39 +2,9 @@
 
 By breakfast on Thursday, Crabbe had asked three times.
 
-She had asked in the dormitory, with one stocking on, and on the stairs, and in the common room while Lyra was putting the last pin in her hair; and now she was asking over the porridge, in the low, reasonable voice she kept for questions she meant to go on asking until somebody answered them.
+She had asked in the dormitory, with one stocking on, and on the stairs, and in the common room while Lyra was putting the last pin in her hair; and now she was eating her porridge in a patient, thoughtful silence, and Lyra knew that silence.
 
-“You do know, though. Don’t you.”
-
-The Great Hall wanted to know. The school had been up since six in the giddy, unsettled way of a school that has been told something tremendous will happen after lunch and nothing else, and every table was guessing. Lyra had heard sphinxes, and a maze, and a Hufflepuff whose cousin was quite certain it would be Inferi.
-
-She considered. Krum would know by now; Karkaroff was hardly going to keep it from his own champion. The Delacour girl would know. The task was in five hours, and one more person knowing was not going to make a dragon any hotter.
-
-She touched her napkin to her mouth, and behind it said, very low, “Dragons.”
-
-Crabbe’s face went through astonishment and arrived at delight. “*Really?*”
-
-“Hush. It’s a secret. I can’t explain how I know.”
-
-“Dragons,” breathed Crabbe, rather more loudly than Lyra would have liked. A little way down the table, Parkinson’s spoon stopped on its way to his mouth, and then went on. Crabbe’s face changed again. “But—won’t the champions get hurt?”
-
-Lyra had spent four days not thinking about that, with some success. She thought about it now. A dragon’s hide turned spells the way a roof turned rain. It took half a dozen grown wizards to bring one down, and you could go for the eyes, the library said, if you wanted it angrier. And the Horntail had a tail. She had looked at the picture until Madam Pince came round with the snuffer: a tail like a mace, studded with bronze spikes, and a note underneath in small print about its reach.
-
-The toast had gone cold in her fingers. She put it down.
-
-“Dumbledore will have arranged something,” said Crabbe, rather quickly. “Won’t he? He’d never just—”
-
-“He had better have.” Lyra heard her own voice go up, and did not bring it down. “If he means to stand fourteen-year-olds in front of— If there aren’t wizards on hand to stop it, I shall write to the Board myself. I shall write to the *Minister*. A man who calls himself the greatest wizard of the age, and can’t keep one boy out of—”
-
-She stopped.
-
-Crabbe was looking at her with an expression of deep and tender pity.
-
-“You’re not even pretending any more,” said Crabbe. “Are you?”
-
-“Pretending what?”
-
-Crabbe shook her head slowly and went back to her porridge, and did not explain; and Lyra was left with the uncomfortable sense of having lost an argument she had not known she was in.
+The rest of the Hall was less patient. The school had been up since six in the giddy, unsettled way of a school that has been told something tremendous will happen after lunch and nothing else, and every table was guessing. Lyra had heard sphinxes, and a maze, and a Hufflepuff whose cousin was quite certain it would be Inferi.
 
 Goyle arrived then, late and outraged, with a copy of the *Daily Prophet* folded open in both hands.
 
@@ -61,6 +31,34 @@ She took the paper back off Goyle, found the paragraph about Granger, and read i
 She looked across the Hall at Potter for some time, coldly.
 
 Potter, who had borne Professor Snape’s regard without turning a hair, looked up, met her eye, and shivered.
+
+The fourth time came when Goyle had settled down to her breakfast, in the low, reasonable voice Crabbe kept for questions she meant to go on asking until somebody answered them.
+
+“You do know, though. Don’t you.”
+
+Lyra considered. Krum would know by now; Karkaroff was hardly going to keep it from his own champion. The Delacour girl would know. The task was in five hours, and one more person knowing was not going to make a dragon any hotter.
+
+She touched her napkin to her mouth, and behind it said, very low, “Dragons.”
+
+Crabbe’s face went through astonishment and arrived at delight. “*Really?*”
+
+“Hush. It’s a secret. I can’t explain how I know.”
+
+“Dragons,” breathed Crabbe, rather more loudly than Lyra would have liked. A little way down the table, Parkinson’s spoon stopped on its way to his mouth, and then went on. Crabbe’s face changed again. “But—won’t the champions get hurt?”
+
+Lyra had spent four days not thinking about that, with some success. She thought about it now. A dragon’s hide turned spells the way a roof turned rain. It took half a dozen grown wizards to bring one down, and you could go for the eyes, the library said, if you wanted it angrier. And the Horntail had a tail. She had looked at the picture until Madam Pince came round with the snuffer: a tail like a mace, studded with bronze spikes, and a note underneath in small print about its reach.
+
+The toast had gone cold in her fingers. She put it down.
+
+“Dumbledore will have arranged something,” said Crabbe, rather quickly. “Won’t he? He’d never just—”
+
+“He had better have.” Lyra heard her own voice go up, and did not bring it down. “If he means to stand fourteen-year-olds in front of— If there aren’t wizards on hand to stop it, I shall write to the Board myself. I shall write to the *Minister*. A man who calls himself the greatest wizard of the age, and can’t keep one boy out of—”
+
+She stopped.
+
+Crabbe was looking at her with an expression of deep and tender pity.
+
+“You’re not even pretending any more,” said Crabbe. “Are you?”
 
 ⁂
 
@@ -130,7 +128,11 @@ Out in the enclosure something roared, and the crowd made a noise like a wave go
 
 Lyra thought of the school shed, and the Shooting Stars with their twigs every which way, and a Cleansweep with a crack in the handle mended with Spellotape, and a black dragon with a tail like a mace, and went cold to the ends of her fingers.
 
-Outside, the crowd went up all at once in a roar, and then a long cheer. Diggory had got his egg. A whistle went. Fleur stopped walking, and stood straight for a moment with her eyes shut, and went out.
+Outside, the crowd went up all at once in a roar, and then a long cheer, and Bagman’s voice came booming through the canvas: “—and there’s the egg! Mr Diggory, ladies and gentlemen, one step nearer the Triwizard Cup!”
+
+Beside her, Potter turned his head. He had sat through all that roaring without once doing it, and he did it now, towards the canvas and the voice, as people do when somebody across a crowded room says a name they know; and he kept it there a moment after Bagman had gone on to the marks. Lyra supposed that was what being a champion did to a person.
+
+A whistle went. Fleur stopped walking, and stood straight for a moment with her eyes shut, and went out.
 
 Under Lyra’s hand, Potter’s let go of the bench. It turned over and took hold of hers instead, hard. His forehead was damp. He was not looking at her, since he could not see her, but he had turned his face a little towards where she was.
 
@@ -233,8 +235,6 @@ The Slytherin stand drew a single breath.
 “That’s— isn’t that *Malfoy’s*?”
 
 Parkinson had turned round on his bench to stare at her. So had half the row in front.
-
-“Did you lend him yours?” said Goyle.
 
 “No,” said Lyra, and for a moment was not sure of it.
 
