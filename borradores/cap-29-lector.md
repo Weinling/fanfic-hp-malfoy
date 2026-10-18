@@ -49,7 +49,7 @@
 - Se rasca la cabeza (6:55).
 - Se echa el pelo atrás con los dedos parando en la cicatriz (12:175; 13:223; 22:149).
 - Silba dos notas y mira el techo cuando se le escapa algo (26:171).
-- La mira «sideways, which he hardly ever did» (26:119).
+- La mira de lado, con la mirada que nunca ha querido decir que sí (26, tras el retoque del 18 de octubre).
 - Cuando dice la verdad no se toca la cicatriz: «did not reach for a joke, and did not touch his scar» (26:245).
 - Dice «Sorry» de más (27:333).
 - «Mate» a Ron.

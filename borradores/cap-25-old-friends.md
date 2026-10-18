@@ -10,7 +10,7 @@ At a little after five, with the sky going grey at the window, it turned green.
 
 She lay there looking at it for some time after that. Then she took it off and put it in the drawer, and went to the window seat, and was sitting there when her father came up the drive.
 
-He came on foot, alone, from the direction of the gates, in the travelling cloak he had not worn to the match. He walked as he always walked, unhurried, with his cane, as though the grounds belonged to him, which they did. The hem of the cloak was dark with mud to the knee. He did not look up at her window. There was a lamp lit in the east cottage, at that hour, and when he had gone past the end of its path it went out.
+He came on foot, alone, from the direction of the gates, in the travelling cloak he had not worn to the match. He walked as he always walked, unhurried, with his cane, as though the grounds belonged to him, which they did. The hem of the cloak was dark with mud to the knee. There was a lamp lit in the east cottage, and when he had gone past the end of its path it went out. He did not look up at her window.
 
 Once, when she was eight, both her parents had gone away in the night on some business nobody explained, and come back just before dawn, her mother still in her travelling cloak and her father with his wand hand bandaged, and nobody had mentioned either. Lyra had been given a box of sugared violets and had let it carry off the whole bad day. She was not eight now. There was no bandage this morning, only the mud. She found she was looking for one all the same.
 
@@ -40,7 +40,7 @@ Lyra looked at the green skull a little longer. Saying it was a joke had not mad
 
 It took her four days to get it out of him, and in the end he wanted to tell somebody.
 
-She went about it the way he had taught her to go about anything: never the question you want answered, always the one next to it. Three days of that got her a remark about the Ministry and its own shadow, and a bishop moved over the chessboard with the observation that a great many people had been angry with the Ministry for a very long time. On the fourth, in his study, with the door shut and the hum of the privacy charm in the walls, she broke his rule and asked the question itself.
+She went about it the way he had taught her to go about anything: never the question you want answered, always the one next to it. Three days of that got her a laugh, and the remark that the Ministry could not arrest its own shadow, and, over the chessboard, a bishop and the observation that a great many people had been angry with the Ministry for a very long time. On the fourth, in his study, with the door shut and the hum of the privacy charm in the walls, she broke his rule and asked the question itself.
 
 “Only the Dark Lord’s followers can cast the Mark. That’s what everybody says.” She kept her voice quite light. “Wasn’t it one of you?”
 
@@ -54,7 +54,7 @@ She went about it the way he had taught her to go about anything: never the ques
 
 He set the glass down, and squared it on its coaster, and when he spoke again he had found his footing.
 
-“As for the rest of it,” he said, “it was a demonstration, Lyra. Nothing more. A protest, against being made to creep about.” He said it with real feeling, as though it had been sitting in him for years. “We are wizards. That was *our* festival, our sport, the greatest match in a generation, and the Ministry had us sneaking into it in our thousands like rats, in case some Muggle farmer happened to look out of his window and see a broom. Why should we hide from *them*? If the Muggles round that site were such a difficulty, they could have been moved for the week. A great many of us have been tired of Ministry nonsense for a long time. It was going to come out somewhere.”
+“As for the rest of it,” he said, “it was a demonstration, Lyra. Nothing more. A protest against being made to creep about.” He said it with real feeling, as though it had been sitting in him for years. “We are wizards. That was *our* festival, our sport, the greatest match in a generation, and the Ministry had us sneaking into it in our thousands like rats, in case some Muggle farmer happened to look out of his window and see a broom. Why should we hide from *them*? If the Muggles round that site were such a difficulty, they could have been moved for the week. A great many of us have been tired of Ministry nonsense for a long time. It was going to come out somewhere.”
 
 Lyra had grown up with that argument at the dinner table, and it had always seemed to her perfectly sensible. Wizards were what they were, and Muggles were what they were, and it was absurd that the better should have to tiptoe round the lesser. She found that she still thought so.
 
@@ -64,9 +64,9 @@ Lyra had grown up with that argument at the dinner table, and it had always seem
 
 Lyra thought of a man and a woman and two small children turning over and over in the air, in their nightclothes, while a crowd underneath them laughed. She did not care about Muggles. She had never pretended to. But she knew what it looked like to tie up something that could not fight back and parade it about for the fun of the thing, and it looked, more than anything, common.
 
-She did not say so. She looked at him across the desk.
+She did not say so. She looked at him across the desk. There it was again, underneath all of it: he did not know.
 
-There it was again. She had asked him once, in July, more than a year ago, what the thing in his drawer had been, and he had told her it was an old book. She had asked him at Christmas what he would say if the Dark Lord came back for it, and he had laughed and poured a second glass. And now somebody had stood in a wood and put the Dark Lord’s sign in the sky over a hundred thousand witches and wizards, and her father had been there in a mask, and he did not know who. He did not know anything. She began to wonder whether the Dark Lord had ever told him anything either, and whether perhaps that had not been entirely an oversight.
+She had asked him once, in July, more than a year ago, what the thing in his drawer had been, and he had told her it was an old book. She had asked him at Christmas what he would say if the Dark Lord came back for it, and he had laughed and poured a second glass. And now somebody had stood in a wood and put the Dark Lord’s sign in the sky over a hundred thousand witches and wizards, and her father had been there in a mask, and he did not know who. He did not know anything. She began to wonder whether the Dark Lord had ever told him anything either, and whether perhaps that had not been entirely an oversight.
 
 Her father saw something in her face that he did not like, and cleared his throat.
 
@@ -88,7 +88,7 @@ He had known about the Tournament as well. *Especially next year. If students co
 
 Her father, who had been there, did not know who had cast the Mark. Potter had known to send her inside before anything had happened.
 
-She could not lie behind her hangings every night at nine with the ring of a boy she had sworn, on the end of the bed across this very room, to turn on if it came to it. And she could not ask him how he had known. He would smile, and not answer, and she would have asked. Not yet, at any rate.
+She could not lie behind her hangings every night at nine wearing the ring of a boy she had sworn, at Christmas, sitting on the end of that bed, to turn on if it came to it. And she could not ask him how he had known. He would smile, and not answer, and she would have asked. So the ring could stay where it was. For now, at any rate.
 
 Lyra sat on the window seat until the light went, and did not open the drawer.
 
@@ -230,7 +230,7 @@ The second time, she did not stop.
 
 On the night of Hallowe’en, the Goblet of Fire stood on a stool in front of the staff table, where everyone could see it, and every eye in the Great Hall was on it.
 
-It had been standing in the Entrance Hall for a week behind a thin golden line on the floor that Dumbledore had drawn himself, so that nobody under seventeen could cross it, and the whole school had been to look. The Durmstrang students had come up out of the lake in a ship like a drowned galleon, in heavy furs, with Viktor Krum among them; and Draco, when Lyra wrote to tell him so, had written back by return, two whole sides, all of it about Krum and none of it about cards. The Beauxbatons girls had come out of a powder-blue carriage the size of a house, drawn by winged horses each as big as an elephant, and had shivered all through dinner in their silk. Lyra had watched it all, and enjoyed it more than she let anybody see, and had not once spoken to Potter. In September she had stopped putting the ring on at nine. It stayed in her pocket by day and in the drawer of her bedside table at night.
+It had been standing in the Entrance Hall for a week behind a thin golden line on the floor that Dumbledore had drawn himself, so that nobody under seventeen could cross it, and the whole school had been to look. The Durmstrang students had come up out of the lake in a ship like a drowned galleon, in heavy furs, with Viktor Krum among them; and Draco, when Lyra wrote to tell him so, had written back by return, two whole sides, all of it about Krum and none of it about cards. The Beauxbatons girls had come out of a powder-blue carriage the size of a house, drawn by winged horses each as big as an elephant, and had shivered all through dinner in their silk. Lyra had watched it all, and enjoyed it more than she let anybody see, and had not once spoken to Potter. Since the end of August she had not once put the ring on at nine. It stayed in her pocket by day and in the drawer of her bedside table at night.
 
 Now the Hallowe’en feast was over, and the plates were clean, and Dumbledore was on his feet, and the candles in the pumpkins had been put out, so that the only light in the Hall came from the Goblet: a great rough wooden cup, full to the brim with dancing blue-white flames.
 
@@ -238,7 +238,7 @@ The flames turned red. A charred slip of parchment flew out of them and fluttere
 
 Viktor Krum for Durmstrang, which nobody had doubted; he slouched up from the Slytherin table, where the Durmstrang students had sat all week, with Parkinson clapping loudest of all. Fleur Delacour for Beauxbatons, a girl with a sheet of silver-blond hair and a face designed for making boys walk into doors, and every boy in the Hall turned to watch her go.
 
-The third was theirs, and it was Cedric Diggory, and the Hufflepuff table went off like a firework. The Slytherin sixth and seventh years booed. Montague brought his fist down on the table so hard that Goyle, who had been leaning on her elbow, slid off it.
+The third was Hogwarts’ own, and it was Cedric Diggory, and the Hufflepuff table went off like a firework. The Slytherin sixth and seventh years booed. Montague brought his fist down on the table so hard that Goyle, who had been leaning on her elbow, slid off it.
 
 “Well, that’s Hufflepuff insufferable till Easter,” said Lyra. But she could see why. If it had to be somebody, it might as well be the one person in the castle who was good at everything and was held, by everybody who had never played against him, to play fair while he did it.
 

@@ -29,7 +29,8 @@
 
     **HECHA (18 de octubre).** Informes de los dos agentes, ideas de la sesión, dosier y respuesta de Fable (001, «aceptable con cambios») y documento final `docs/notas/ideas-divergencias.md`. **APROBADO por el autor (18 de octubre): las seis recomendaciones.** En marcha: los retoques del 25 al 30 en una sola pasada, con las semillas (25: la lámpara de la casita; 26: la nota de Regulus; 28: la letra vieja; 29: Lucius de niño; 30: la Copa; 24, opcional: la silla que cruje).
     - Orden: el 25 y el 26 juntos, luego del 27 al 29 y por último el 30. En cada grupo: copia de antes en el scratchpad, retoque, revisión de un Opus nuevo, arreglos, manuales y commit.
-    - **25 y 26: retocados (936b719)**, con las semillas de la lámpara y de la nota de Regulus. Copias de antes: `scratchpad/25-antes-retoque.md` y `26-antes-retoque.md` (o `git show 12c5270:borradores/…`). Revisión de un Opus nuevo en marcha: escribe `docs/notas/cotejo-oficial/revision-25-26-retoque.md`. Faltan sus arreglos y los manuales del 25 y el 26.
+    - **25 y 26: retocados (936b719)**, con las semillas de la lámpara y de la nota de Regulus. Copias de antes: `scratchpad/25-antes-retoque.md` y `26-antes-retoque.md` (o `git show 12c5270:borradores/…`). **Cerrados:** revisión de un Opus nuevo (`docs/notas/cotejo-oficial/revision-25-26-retoque.md`: los dos, mejor que antes; ni C ni D), arreglos aplicados (todos menos la pulla a Smith, que se queda), manuales del 25 y el 26 y continuidad al día. El anillo se deja de poner a las nueve «desde finales de agosto», ya no «desde septiembre».
+    - **Siguiente: del 27 al 29**, juntos. Antes: leer los coreanos 30 (resto), 31 y 32, el texto del 27 al 29 y su tabla de ataduras (`plan-24-30.md` §1). Semillas: la letra vieja de la carta lacrada (28) y Lucius de niño en la carta de Draco (29). Opcional en el 27: Moody hablando desde dentro del Imperius (con la decisión de que Moody es Moody, que diga algo que solo sabe quien lo ha sufrido de verdad, compatible con un auror auténtico).
   1. **HECHO (18 de octubre): el 24 rehecho** (`borradores/cap-24-replay.md`, ~3.930 palabras; commits 79aee8e y fc9bf88). Revisado por un Opus nuevo (calco 9 → 7; ningún D; todas las ataduras en pie) y con sus arreglos aplicados. Manual `docs/capitulos/cap-24.md` al día. La versión publicada: `git show 798a357:borradores/cap-24-replay.md`.
      - **Para Webnovel:** cambia el modo, no los hechos. Abre Draco con el póster; Draco sospecha que sus omniculares son los de tienda, no la cree y se lleva también el póster; el verano del anillo va después; **Lyra abre ella los ojos** en el casi beso (se acuerda de la capa de su padre) y la voz de Narcissa llega después. El autor decide si sube esta versión.
      - **Ramas (resuelto):** `main` avanzado hasta la rama de trabajo; el autor borró `claude/hopeful-hamilton-jt6e15`. Se trabaja en `claude/wizardly-albattani-vazqyr` y se sube también a `main`.
@@ -181,7 +182,7 @@ Ninguno. Todo está commiteado y subido.
 
 - **Crítico:** el del cuarto año (criticó del 24 al 28) está retirado. **El del 29 está vivo** (Opus, arrancado con `docs/notas/critico-arranque-29.md`): leyó entero todo lo adaptado, criticó el 29 y el 30, y espera el 31. Se le reutiliza hasta que se le llene el contexto (`CLAUDE.md`). El anterior (17 a 23, *Year One*, revisión del 1 al 3) está retirado.
 - **Fase de ideas:** terminada.
-- **Revisor Opus del 25 y el 26** (retoques): vivo.
+- Ningún agente vivo.
 - **Revisor:** es el chat paralelo del autor. Sus informes llegan a `docs/notas/revisiones/`.
 
 ## Decisiones pendientes del autor

@@ -14,9 +14,9 @@ The one person who did not seem to have any of it was Potter. He looked annoyed.
 
 Lyra closed her eyes.
 
-She did not need them. She knew that voice, and she knew what it would do next, and she found she would rather not watch it do it. So she heard it instead: the Hall drawing breath, and a bench scraping somewhere along the Hufflepuff table, where ten seconds ago they had had their first champion in living memory and had just been told, as far as they could tell, that they would have to share him with Harry Potter, as Harry Potter had to have everything.
+She did not need them. She knew that voice, and what it was about to do, and she would rather not watch it happen. So she listened instead: the Hall drawing breath, and a bench scraping somewhere along the Hufflepuff table, where ten seconds ago they had had their first champion in living memory and had just been told, as far as they could tell, that they would have to share him with Harry Potter, as Harry Potter had to have everything.
 
-“Liar.” It was not loud, but it was the kind of silence that carried. Zacharias Smith: she knew the voice from Herbology, where it disapproved of things. “He’s cheated his way over the line somehow. He’ll have got *special treatment*. Because he’s the Boy Who Lived—”
+“Liar.” It was not loud, but it came in the kind of silence that carried. Zacharias Smith, whose voice she had from Herbology, where it disapproved of things. “He’s cheated his way over the line somehow. He’ll have got *special treatment*. Because he’s the Boy Who Lived—”
 
 “Sorry, it’s—Zacharias, isn’t it?” said Potter. “Zebedee? Something like that.” Somebody near Smith sniggered and stopped. “Why would I want to be in it? Seriously. I don’t need special treatment for something I don’t even want.”
 
@@ -114,7 +114,7 @@ So she was not cleverer than Dumbledore and Mad-Eye Moody put together. Lyra fou
 
 He did not say anything. He looked at her sideways, and she knew that look. She had seen it across classrooms for three years, and it had never once meant *yes*.
 
-“No,” said Lyra slowly. “You’re going to do it properly. Aren’t you. You’re going to stand there in the middle of it on purpose and let them come. Because if somebody wants to hurt you in the Tournament, they’ll have to do it *during* the Tournament, where you can see them.”
+“No,” said Lyra slowly. “You’re going to do it properly. Aren’t you. You’re going to stand there in the middle of it on purpose and let them come. Whoever it is. Somewhere in this castle, waiting for you to do exactly that.”
 
 “Well,” said Potter. “Yes.”
 
@@ -154,9 +154,9 @@ Lyra stared at him. Mercifully the name was so absurd that she was too baffled t
 
 “Except Dobby.”
 
-“Except Dobby. Who is peculiar. You can’t found a society on one peculiar elf.” She was warming to it. “And you needn’t tell me about Dobby, Potter. He was *ours*. When Pobble came to us, she cried for a week in the scullery, because she was quite sure we would send her back. Her old family couldn’t keep her. That was the worst thing that had ever happened to her: not being wanted any more.” She folded her arms. “You can’t set a thing free that is crying to stay.”
+“Except Dobby. Who is peculiar. You can’t found a society on one peculiar elf.” She was warming to it. “And you needn’t tell me about Dobby, Potter. He was *ours*. When Pobble came to us, she cried for a week in the scullery, because she was quite sure we would send her away too. Her old family couldn’t keep her. That was the worst thing that had ever happened to her: not being wanted any more.” She folded her arms. “You can’t set a thing free that is crying to stay.”
 
-He had no answer to Pobble. She watched him not have one, and enjoyed it.
+He had no answer to Pobble. She let him look for one.
 
 He looked away. “No. Maybe you’re right. Setting them all free would be crueller than anything. I just think—they ought to be treated a bit better. They’re not furniture. They’ve got feelings.” He was losing, and he knew it, and he put down the only card he had left, a little too quickly. “And it’s different, the loyalty you get because there’s a contract, and the sort you get because somebody means it. I saw that this summer, when we went to find the Horcr—”
 
@@ -184,7 +184,7 @@ Lyra stood there with her hands wrapped in her own sleeves. He was standing in f
 
 The elf had seen it and begun to howl. And Dumbledore had knelt down beside the creature, on the wet rock, and asked it questions very gently, until the whole thing came out. Regulus Black had found out what the Dark Lord had done to his own soul, and had turned against him. He had come to that cave to steal the thing and destroy it, and he had drunk the basin dry to get it, and had known when he had done it that he was not going to be able to get back across the lake. So he had given it to his elf, and ordered him to take it home and destroy it, and to tell nobody, and to go. And Kreacher had gone, because he had been told to, and left his master lying on the rock.
 
-“Kreacher tried,” said Potter. “For fifteen years. On his own. He tried everything he could think of, and he couldn’t do it, and he never told a soul, because he’d been told not to. Dumbledore promised him we’d finish it for Regulus. And then he let him off the order.” He looked down at his hands. “It was a locket. We destroyed it.” He stopped. “Dumbledore drank the stuff in the basin, in the end. He wouldn’t let anybody else. Kreacher had the locket, so it wasn’t for that. There was a copy at the bottom, a fake, with a bit of paper folded up inside it. Regulus’s writing.” He looked at his hands. “Dumbledore’s kept it.”
+“Kreacher tried,” said Potter. “For fifteen years. On his own. He tried everything he could think of, and he couldn’t do it, and he never told a soul, because he’d been told not to. Dumbledore promised him we’d finish it for Regulus. And then he let him off the order.” He looked down at his hands. “It was a locket. We destroyed it. Dumbledore drank the stuff in the basin, in the end. He wouldn’t let anybody else. Kreacher said his master had left something at the bottom, and Dumbledore wanted to see what. It was a copy of the locket, a fake, with a bit of paper folded up inside it. Regulus’s writing.” He stopped. “Dumbledore’s kept it.”
 
 He looked almost proud, she thought, and almost sick, and was trying to be only one of them.
 

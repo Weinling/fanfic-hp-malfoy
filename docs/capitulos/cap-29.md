@@ -87,7 +87,7 @@ Weasley (reconciliado, «Gerroff»), Granger (llora, sabe, comparte libros), Cra
 - El cobertizo es el de las escobas del colegio (22), no el de Quidditch.
 - La pesa de varitas es el miércoles 16, durante Pociones doble con Gryffindor.
 - Lyra sabe las cuatro razas de dragón; no conoce el asunto del huevo de oro.
-- Lyra no se ha puesto el anillo a las nueve desde septiembre.
+- Lyra no se ha puesto el anillo a las nueve desde finales de agosto.
 - Krum le habló dos días después del barco (domingo 13 → martes 15).
 - La Saeta estuvo en su estuche desde septiembre hasta el martes 15.
 - Moody tiene el mapa desde poco después de Halloween.
