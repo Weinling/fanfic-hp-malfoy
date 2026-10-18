@@ -48,7 +48,7 @@ The staircase carried him down, turning, at its own slow pace, and somewhere abo
 
 The fourth-year came in to breakfast with his hair wet.
 
-It was not wet the way hair is after a bath. It was flat and stringy and parted in all the wrong places, and he came down the Slytherin table with his eyes on his plate and sat at the very end of it, and the people nearest him moved along. By the time he had reached for the toast the smell had reached Lyra, eleven places up: the boys’ lavatory at the bottom of the dungeon stairs, the one with the cracked cistern that nobody used if they could help it.
+It was flat and stringy and parted in all the wrong places, and it had not been near a bath. He came down the Slytherin table with his eyes on his plate and sat at the very end of it, and the people nearest him moved along. By the time he had reached for the toast the smell had reached Lyra, eleven places up: the boys’ lavatory at the bottom of the dungeon stairs, the one with the cracked cistern that nobody used if they could help it.
 
 Nobody laughed. A month ago it would have been the funniest thing to happen in the dungeons since Christmas. Yesterday afternoon, on the main staircase, this same boy had put out his foot as Weasley went by, and Weasley had gone down six steps on his chin, and half of Slytherin had laughed then.
 
@@ -188,7 +188,7 @@ Hermione let go of his shoulder.
 
 She looked at him the way she had looked at the troll in the girls’ lavatory at Hallowe’en, which was not a way she had ever looked at Harry before. He pulled away from her and went on down the stairs.
 
-He was not angry yet. He noticed that, the way you notice the weather. He was going down the moving stairs two at a time, and he was thinking, quite calmly, that there would be three of them and that they would be on the bench under the window, because that was where they always sat; that Goyle was the quickest of the three and Crabbe the slowest; that the library doors were behind the bench and the stairs at the far end; that if it went wrong, it would go wrong by the window. He did not ask himself where any of it came from. It seemed to have been there when he went to look.
+He was not angry yet. He noticed that, as you might notice the weather. He was going down the moving stairs two at a time, and he was thinking, quite calmly, that there would be three of them and that they would be on the bench under the window, because that was where they always sat; that Goyle was the quickest of the three and Crabbe the slowest; that the library doors were behind the bench and the stairs at the far end; that if it went wrong, it would go wrong by the window. He did not ask himself where any of it came from. It seemed to have been there when he went to look.
 
 “Oi! Harry! *Wait!*”
 
@@ -212,7 +212,7 @@ He smiled as he said it. It was a very good smile, and Lyra knew good ones when 
 
 “Leg-Locker,” he said. “On *Neville*. Honestly? My cousin used to do that sort of thing when he was seven, and he didn’t even have a wand. I thought you’d come up with something a bit better than that.”
 
-People were drifting over from the library doors to see what was happening. Lyra could feel them arriving, one and two at a time, the way you can feel a room fill up behind you, and in a few words he had made her, for every one of them, a girl who jinxed people’s legs in corridors because she could not think of anything cleverer.
+People were drifting over from the library doors to see what was happening. Lyra could feel them arriving behind her, one and two at a time, and in a few words he had made her, for every one of them, a girl who jinxed people’s legs in corridors because she could not think of anything cleverer.
 
 “Potter,” she said.
 
@@ -222,7 +222,7 @@ People were drifting over from the library doors to see what was happening. Lyra
 
 She put up a hand and swept her hair back over her shoulder.
 
-It was the oldest thing she knew how to do. She felt every eye in the corridor go with it, the way they always did, and she stood up at last, because now it would mean something. Chin up. Shoulders back. She was Lyra Malfoy, and this was a corridor in a school, and he was a boy with a scar.
+It was the oldest thing she knew how to do. She felt every eye in the corridor go with it, as they always did, and she stood up at last, because now it would mean something. Chin up. Shoulders back. She was Lyra Malfoy, and this was a corridor in a school, and he was a boy with a scar.
 
 “You want to be careful, Potter.”
 
@@ -242,7 +242,7 @@ Somebody at the back laughed. Then several people did.
 
 This time the whole corridor laughed: the Gryffindors, and the Hufflepuffs who had been on their way to the library, and a knot of Ravenclaws by the window with their books held against their chests. Everybody but the Slytherins.
 
-Lyra had been laughed at before, a little, by people who did not matter. This was not that. The laughter went round her at first, the way water goes round a stone, and then it was not going round her any more. She could feel Crabbe and Goyle going quiet beside her, and her own mouth doing something she had not told it to, and she bit her lip to stop it.
+Lyra had been laughed at before, a little, by people who did not matter. The laughter went round her at first, the way water goes round a stone, and then it was not going round her any more. She could feel Crabbe and Goyle going quiet beside her, and her own mouth doing something she had not told it to, and she bit her lip to stop it.
 
 “Stop it! Both of you!” Granger had pushed her way to the front. She looked at the crowd and then at Potter, and pulled at his sleeve. “Harry, that isn’t why we came. We came about *Neville!*”
 
@@ -254,11 +254,11 @@ Lyra had just been laughed at by half the school. She was not going to apologise
 
 “Who asked *you?*” Her voice went high, and she let it. “Go back to your Muggles, you filthy little *Mudblood*!”
 
-It was a word from home. Her father used it about the Minister’s new secretary, and about the people who had bought the house at the end of the lane, over the soup. She threw it the way you throw the last card in your hand, the one that wins; and she waited for the gasp, and for the Slytherins to laugh.
+It was a word from home. Her father used it about the Minister’s new secretary, and about the people who had bought the house at the end of the lane, over the soup. She threw it like the last card in her hand, the one that wins; and she waited for the gasp, and for the Slytherins to laugh.
 
 The corridor changed.
 
-The laughing stopped as if somebody had shut a door on it. Granger had gone white. Weasley, who a minute ago had been grinning about Crabbe’s legs, stepped in front of her with his fists clenched and his ears scarlet, and even the Ravenclaws by the window had gone pale, and none of the Slytherins laughed at all.
+The laughing stopped as if somebody had shut a door on it. Granger had gone white. Weasley, who a minute ago had been grinning about Crabbe’s legs, stepped in front of her with his fists clenched and his ears scarlet, and even the Ravenclaws by the window had gone pale, and not one of the Slytherins laughed.
 
 And Potter did not look at Lyra.
 
@@ -288,7 +288,7 @@ She tried again. She had the next word ready behind her teeth, and her arm would
 
 He took the wand out of her fingers.
 
-He did not snatch it. He took it the way one takes a thing that is being handed over, and he did not throw it away. Then he had her by the wrist, and she went back against the wall with a thump that knocked the breath out of her.
+He did not snatch it. He took it as though she had been holding it out to him, and he did not throw it away. Then he had her by the wrist, and she went back against the wall with a thump that knocked the breath out of her.
 
 “*Ow!*”
 
@@ -296,7 +296,7 @@ He did not snatch it. He took it the way one takes a thing that is being handed 
 
 “Let—go of me!”
 
-He had her wand in his other hand. He was not pointing it at anything. He held it low and loose by his side, between two fingers and a thumb, the way her father held his across the dinner table when there was somebody at it he did not care for: the way a man holds a wand who has never once in his life needed to aim one in a hurry. Lyra had seen a great many wizards hold their wands. She had never seen a boy do it like that. She had seen men.
+He had her wand in his other hand. He was not pointing it at anything. He held it low and loose by his side, between two fingers and a thumb, the way her father held his across the dinner table when there was somebody at it he did not care for, like a man who has never once in his life needed to aim in a hurry. Lyra had seen a great many wizards hold their wands. She had never seen a boy do it like that. She had seen men.
 
 “You’re frightened of his *name*,” said Potter, “and you’ll say *that*? You want something to be scared of, be scared of that!”
 
@@ -308,7 +308,7 @@ People flinched all round them, as if he had thrown something into the crowd. Th
 
 “He came for me when I was one,” said Potter, “and he couldn’t do it. A *baby*, Malfoy. He lost to a baby, and then he ran off and hid. And you can’t even say his name?”
 
-He was not shouting any more. That was the worst of it. He had leaned in close, and his voice had gone quiet and level, the voice of somebody explaining a thing he had explained before, to other people, in other places; and her wand was coming up in his hand, slowly, not in any hurry at all, until for the first time it was pointing at her.
+He was not shouting any more. He had leaned in close, and his voice had gone quiet and level, the voice of somebody explaining a thing he had explained before, to other people, in other places; and her wand was coming up in his hand, slowly, in no hurry, until at last it was pointing at her.
 
 “That isn’t scared, Malfoy. That’s manners. You want to know what scared actually is—”
 
@@ -316,7 +316,7 @@ His lips came apart on the next word.
 
 Her face went.
 
-It did not happen the way crying happened at home, where there was always a moment first, to decide about it in. It came up from somewhere under her ribs, all at once, like being sick, and her mouth opened by itself and the noise came out of it, high and wet and enormous, and went off the stone and came back to her, so that she could hear exactly what she sounded like. She sounded like Draco, at three, when he was lost in the garden. Her eyes had shut. She did not remember shutting them. She could feel the wall against her shoulder blades and his hand on her wrist and her own breath going in and out in great dragging pieces, and she could not stop any of it, and in the middle of all of it she heard her own voice, a long way off, saying things.
+At home, crying came with a moment first, to decide about it in. This came up from somewhere under her ribs, all at once, like being sick, and her mouth opened by itself and the noise came out of it, high and wet and enormous, and went off the stone and came back to her, so that she could hear exactly what she sounded like. She sounded like Draco, at three, when he was lost in the garden. Her eyes had shut. She did not remember shutting them. She could feel the wall against her shoulder blades and his hand on her wrist and her own breath going in and out in great dragging pieces, and she could not stop any of it, and in the middle of all of it she heard her own voice, a long way off, saying things.
 
 “Stop it,” she said. “I hate it, I hate both of them—Vol-Voldemort, and that—that word—I hate all of it—”
 
@@ -326,13 +326,13 @@ It did not happen the way crying happened at home, where there was always a mome
 
 Harry stared at her.
 
-She had said the name. He did not think she knew. She was crying the way a very small child cries, with her eyes screwed shut and her mouth wide open, not caring who saw, because it had not yet occurred to her that anybody could; and somewhere in the middle of it the name had come out of her as easily as any other word, and gone, and she had not heard it.
+She had said the name. He did not think she knew. She was crying like a very small child, with her eyes screwed shut and her mouth wide open, not caring who saw, because she had not yet remembered that anybody could; and somewhere in the middle of it the name had come out of her as easily as any other word, and gone, and she had not heard it.
 
-He had been going to say something. It was still there, behind his teeth: a short, hard shape, all ready, the way a sneeze is ready. He did not know what it was. He shut his mouth on it, and felt it go back down to wherever it had come from, and did not try to follow it.
+He had been going to say something. It was still there, behind his teeth: a short, hard shape, all ready, like a sneeze. He did not know what it was. He shut his mouth on it, and felt it go back down to wherever it had come from, and did not try to follow it.
 
 Then he looked at his own hand.
 
-It was still round her wrist, and there were red marks coming up on her skin at the edges of his fingers. That would hurt. He had not thought about that. He let go of her as fast as if she had burnt him, and took a step back, and then another.
+It was still round her wrist, and there were red marks coming up on her skin at the edges of his fingers. That would hurt. He had not thought about that. He let go of her as fast as if she had burnt him.
 
 *I hate you.* It was the most babyish thing he had ever heard anybody say, and it knocked the breath out of him in a way the jinx had not. He actually stepped back from it, as though she had pushed him.
 
@@ -346,7 +346,7 @@ He went over backwards. He was not expecting it, and he had nothing left to stop
 
 Afterwards the corridor went very quiet.
 
-Harry lay on the flagstones and looked at the ceiling. By rights the corridor ought to have been cheering. The Slytherins had run; that was how these things were scored. Nobody cheered. It turned out that nobody, from any House, could watch a girl cry like that and feel they had been on the winning side, and somehow, without anybody saying a word, the whole corridor had decided that the person in the wrong was the one on the floor. People looked at him with uncomfortable faces, and looked away, and drifted off in twos and threes towards their own common rooms.
+Harry lay on the flagstones and looked at the ceiling. By rights it ought to have been cheering. The Slytherins had run; that was how these things were scored. Nobody cheered. It turned out that nobody, from any House, could watch a girl cry like that and feel they had been on the winning side, and somehow, without anybody saying a word, the whole corridor had decided that the person in the wrong was the one on the floor. People looked at him with uncomfortable faces, and looked away, and drifted off in twos and threes towards their own common rooms.
 
 Ron came and crouched beside him. “You all right? Sorry, mate. Crabbe was mine. I lost her.”
 
@@ -378,15 +378,15 @@ He got himself up off the floor. McGonagall was looking at him again, and then l
 
 Harry looked down.
 
-He was holding a wand. It was not his; his was still under the bench, where Goyle had put it. This one was lighter than his, and paler, and his fingers were round it the way they went round his own, without his having to think about it. He had held it all the way through. He had held it lying on the floor. He had not noticed.
+He was holding a wand. It was not his; his was still under the bench, where Goyle had put it. This one was lighter than his, and paler, and his fingers had settled round it as they settled round his own, without his having to think about it. He had held it all the way through. He had held it lying on the floor. He had not noticed.
 
 “Malfoy’s, Professor,” he said, and held it out to her, handle first.
 
 McGonagall took it, and looked at it, and at him, for longer than he liked. Then she told him again to go to the hospital wing.
 
-He went. His head had gone cold and clear, now that all the heat had gone out of it, and things were coming back to him in order, one after another, the way they do after a fall. Neville on the hearthrug. The bench under the window. Her face. All of it came back in order except two things, and he kept turning them over on the stairs and could not make them fit.
+He went. His head had gone cold and clear, now that all the heat had gone out of it, and things were coming back to him in order, one after another. Neville on the hearthrug. The bench under the window. Her face. All of it came back in order except two things, and he kept turning them over on the stairs and could not make them fit.
 
-He had never heard that word before today. Nobody at Privet Drive had ever needed one like it. And he had known what it was before he saw a single face; he had known it the way you know a smell, and he had turned round to look at Hermione’s arms, and he could not have said, if anybody had asked him, what he had expected to see there.
+He had never heard that word before today. Nobody at Privet Drive had ever needed one like it. And he had known what it was before he saw a single face; he had known it like a smell, and he had turned round to look at Hermione’s arms, and he could not have said, if anybody had asked him, what he had expected to see there.
 
 The other thing was the word he had not said.
 
