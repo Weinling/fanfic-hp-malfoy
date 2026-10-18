@@ -6,11 +6,7 @@ The Headmaster pointed him to a chair with the air of a man who had been expecti
 
 “What,” he said, “did you tell the boy?”
 
-“That you owe James and Lily Potter a debt you can never repay,” said Dumbledore, “and that until it is paid, you will keep their son alive.” He folded his hands. “He came all the way up here on his own, you know, to complain about you. He did not know the password. He stood at the bottom and recited sweets until the gargoyle gave in. It took him eleven.”
-
-“He is eleven. He complains about everything.”
-
-“He looked me in the eye and told me that you are unfair. Not very elegantly. But I could not find anything in it to correct.”
+“That you owe James and Lily Potter a debt you can never repay,” said Dumbledore, “and that until it is paid, you will keep their son alive.” He folded his hands. “He came all the way up here on his own, you know, to complain about you. He looked me in the eye and told me that you are unfair. Not very elegantly. But I could not find anything in it to correct.”
 
 Snape did not trouble to deny it.
 
@@ -66,7 +62,7 @@ There was nothing in it at all. That was what she could not get past, all mornin
 
 It had been three weeks since the Potions lesson, and in three weeks Slytherin House had learned to leave Harry Potter the whole width of a corridor.
 
-It had not been one thing. It had been a great many small ones, and the trouble with each of them was that nobody could prove it. Two third-years had cornered him behind the greenhouses to teach him some manners, and had both spent the night in the hospital wing, and neither of them would say what had happened; Potter, who had a split lip, said he had walked into a door. Whatever you did to Potter, or to anybody near him, came back. It came back worse, and it came back without a single mark on it that a teacher could pick up and look at. And all the while he went about the castle with half the school at his elbow, laughing, as though the whole thing were enormous fun.
+It had been a great many small things, and the trouble with each of them was that nobody could prove it. Two third-years had cornered him behind the greenhouses to teach him some manners, and had both spent the night in the hospital wing, and neither of them would say what had happened; Potter, who had a split lip, said he had walked into a door. Whatever you did to Potter, or to anybody near him, came back. It came back worse, and it came back without a single mark on it that a teacher could pick up and look at. And all the while he went about the castle with half the school at his elbow, laughing, as though the whole thing were enormous fun.
 
 So the Slytherins had stopped. They went round him. They found things to look at in corridors when he passed. And since the whole of Slytherin had gone quiet, nobody was much frightened of Lyra any more either. She could take her wand out in a corridor now and people simply went on walking. Second-years had stopped stepping aside for her. And the worst of it, the part she would never forgive anybody for, was the game.
 
@@ -106,7 +102,7 @@ She believed it, too. She very nearly believed it.
 
 At the start of the year it had been different. At the flying lesson she had come off her broom at the top of an oak, which was not a thing she cared to think about, and Potter had come down out of the sky after her with his hand out and his whole face open, as though she were the only thing up there worth catching. She had been brought up to be looked at, and she knew what being looked at felt like. She had been falling off a broom in front of two Houses, and she had still been the whole point of the afternoon.
 
-Now, on the rare occasions he looked at her, his eyes went through her like something thin and cold, and then he let out one short breath through his nose, the way her father did over a disappointing wine, and looked away. *You’d have to matter first*, he had said, in Potions, to his cauldron.
+Now, on the rare occasions he looked at her, his eyes went through her like something thin and cold, and then he let out one short breath through his nose and looked away. *You’d have to matter first*, he had said, in Potions, to his cauldron.
 
 It was not a way she was used to being looked at. It was not, she was quite sure, a way anybody had the *right* to look at her.
 
@@ -232,7 +228,7 @@ It was the oldest thing she knew how to do. She felt every eye in the corridor g
 
 Potter took a step towards her.
 
-All three of them flinched. Lyra felt Crabbe do it on one side of her and Goyle on the other, as neatly as if they had practised it, and caught herself at once and turned it into a toss of the head; but the people at the front had seen.
+All three of them flinched. Lyra felt Crabbe do it on one side of her and Goyle on the other, as neatly as a drill, and caught herself at once and turned it into a toss of the head; but the people at the front had seen.
 
 “Hang on,” said Potter, and he looked honestly confused, like a boy asking for help with his homework. “*I* fight with older students? You mean the two third-years? Two of them, behind the greenhouses, waiting for a first-year? That’s the story you want to tell everybody? If I were them I’d be having my breakfast in the kitchens.”
 
@@ -258,7 +254,7 @@ It was a word from home. Her father used it about the Minister’s new secretary
 
 The corridor changed.
 
-The laughing stopped as if somebody had shut a door on it. Granger had gone white. Weasley, who a minute ago had been grinning about Crabbe’s legs, stepped in front of her with his fists clenched and his ears scarlet, and even the Ravenclaws by the window had gone pale, and not one of the Slytherins laughed.
+The laughing stopped all at once. Granger had gone white. Weasley, who a minute ago had been grinning about Crabbe’s legs, stepped in front of her with his fists clenched and his ears scarlet, and even the Ravenclaws by the window had gone pale, and not one of the Slytherins laughed.
 
 And Potter did not look at Lyra.
 
@@ -288,7 +284,7 @@ She tried again. She had the next word ready behind her teeth, and her arm would
 
 He took the wand out of her fingers.
 
-He did not snatch it. He took it as though she had been holding it out to him, and he did not throw it away. Then he had her by the wrist, and she went back against the wall with a thump that knocked the breath out of her.
+He took it without snatching, as though she had been holding it out to him, and he did not throw it away. Then he had her by the wrist, and she went back against the wall with a thump that knocked the breath out of her.
 
 “*Ow!*”
 
@@ -304,11 +300,11 @@ He had her wand in his other hand. He was not pointing it at anything. He held i
 
 “*Voldemort!*”
 
-People flinched all round them, as if he had thrown something into the crowd. The dark line from his eyebrow had reached his eye, and gone into it, and he did not blink it away. Half his face had gone red, and he was looking at her through it.
+People flinched all round them. The dark line from his eyebrow had reached his eye, and gone into it, and he did not blink it away. Half his face had gone red, and he was looking at her through it.
 
 “He came for me when I was one,” said Potter, “and he couldn’t do it. A *baby*, Malfoy. He lost to a baby, and then he ran off and hid. And you can’t even say his name?”
 
-He was not shouting any more. He had leaned in close, and his voice had gone quiet and level, the voice of somebody explaining a thing he had explained before, to other people, in other places; and her wand was coming up in his hand, slowly, in no hurry, until at last it was pointing at her.
+He was not shouting any more. He had leaned in close, and his voice had gone quiet and level, the voice of somebody explaining a thing that should not need explaining; and her wand was coming up in his hand, slowly, in no hurry, until at last it was pointing at her.
 
 “That isn’t scared, Malfoy. That’s manners. You want to know what scared actually is—”
 
@@ -392,11 +388,9 @@ The other thing was the word he had not said.
 
 He could still feel the shape of it. He did not know what it was. He did not want to know, and that was the part that frightened him: not that he did not know, but that something in him did.
 
-He had decided, on a broom at the start of the year, that he was going to change her. He had put his chin up and told himself so.
-
 “I was going to change her,” Harry said, to nobody. “I made her cry.”
 
-Madam Pomfrey mended his eyebrow in about a minute, with a great deal of tutting, and in the morning there was nothing to show where it had been. That was the last anybody saw of it. The Gryffindors did not tell the story, because it was not the sort of story that made Harry look good. The Slytherins did not tell it, because it was not the sort that made Malfoy look good either. Nobody repeated what he had said about Snape. Snape himself, the next time Harry came into the dungeon, did not so much as raise his eyes, and Slytherin took its lead from him. By Easter nobody spoke of any of it.
+Madam Pomfrey mended his eyebrow in about a minute, with a great deal of tutting, and in the morning there was nothing to show where it had been. Neither House told the story; it did not make anybody look good. Snape, the next time Harry came into the dungeon, did not so much as raise his eyes, and Slytherin took its lead from him.
 
 ⁂
 
@@ -406,7 +400,7 @@ Lyra had the hangings drawn. She did not open them.
 
 “McGonagall gave me this,” said Crabbe, very low. “For you.”
 
-Something came through the gap in the curtains, handle first. Lyra took it. It was her own wand, and for a moment, in her hand, in the dark, it did not feel like hers: it felt like a thing that had been somewhere without her, and had come back, and was not going to say where. Then it was only her wand again. She put it under her pillow.
+Something came through the gap in the curtains. Lyra took it. It was her own wand, and for a moment, in her hand, in the dark, it did not feel like hers: it felt like a thing that had been somewhere without her, and had come back, and was not going to say where. Then it was only her wand again. She put it under her pillow.
 
 “I didn’t cry,” she said.
 
