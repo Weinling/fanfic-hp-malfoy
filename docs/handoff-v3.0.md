@@ -10,7 +10,7 @@ Sustituye al v2.0 como documento de trabajo. Recoge **solo lo que sigue en vigor
 - **No es una traducción.** El coreano aporta trama, escenas y relaciones, y la prosa se reconstruye para que parezca escrita en inglés. Se puede reescribir, reordenar, expandir, condensar y añadir escenas pequeñas compatibles. No se cambian acontecimientos importantes, motivaciones, relaciones ni resultados sin consultar al autor. Desde el 31, el rumbo es propio (§8) y el original solo manda donde el guion de la tanda dice «se queda» o «cambia».
 - **No se calca la traducción inglesa oficial** (`referencia/oficial-en/`, solo para comparar).
 - **Contenido:** los protagonistas tienen 14 años en el cuarto curso y como mucho 17 al final. El romance es emocional: tensión, celos, confesiones, besos breves centrados en lo que significan. Nada sexual ni sensual; si el original lo tiene, se rehace conservando la función.
-- **Escrito:** del 1 al 30 y los *Year One* 1 a 4. El 31 es el siguiente. El *Year One* 2 se va a rehacer (`borradores/extra-year-one-2-ficha-guion.md`).
+- **Escrito:** del 1 al 30 y los *Year One* 1 a 4. El 31 es el siguiente. El *Year One* 2 y el 4 están rehechos (18 y 19 de octubre).
 - **Publicación:** la lleva el autor; está al día en `CLAUDE.md`.
 
 ## 2. Identidad: lo que no cambia

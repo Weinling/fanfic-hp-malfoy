@@ -217,10 +217,14 @@ Las dos opciones que se le presentaron:
 - **Pociones:** «By Easter there was nothing in his work Snape could find to fault» (lo repite el 6). En el canon, Harry solo brilla en Pociones en sexto, con el libro del Príncipe. Encaja con V.
 - Deja de fiarse de Dumbledore durante mucho tiempo.
 
-### *Year One* 4, *Two Words* (febrero de 1992)
+### *Year One* 4, *What Scared Actually Is* (febrero de 1992; rehecho el 19 de octubre)
 - **«I keep hoping they’ll get on with it. Then I’d know who’s who.»** Lo dice un niño de once años que habla como un veterano. Hermione le mira «the way she had looked at the troll».
 - Represalias sin marcas contra Slytherin. «He meant it the way you mean a punch.»
-- Pero no conoce la palabra «Mudblood» («So it was that sort of word»). **Ojo:** un Harry de vuelta la conocería. Bajo V, o se finge o la llegada no trae todo de golpe (recuerdos que vuelven por partes). Es el único choque con V en los extras.
+- **Resuelto en la versión rehecha:** no había oído nunca «Mudblood» y supo lo que era «like a smell», antes de ver las caras; lo primero que hizo fue mirar los brazos y las manos de Granger, sin saber qué esperaba ver (la otra vida: Hermione en el salón de los Malfoy). Es la llegada a trozos.
+- Bajando a la biblioteca cuenta en frío a los tres, la ventana, la salida, y no se pregunta de dónde le viene.
+- Sostiene la varita de Lyra «like a man»; al final del pasillo tenía en la boca una palabra que no dijo y que no sabe cuál es (no se nombra; el lector del canon pensará en el Cruciatus de Harry contra Carrow). «not that he did not know, but that something in him did».
+- **Lo que aún no le ha vuelto:** el recuerdo de la lealtad de Snape. Cree que Snape mató a sus padres. Cuando le vuelva, hay que decidirlo (no antes del segundo curso, por lo del verano de 1993).
+- Snape a Dumbledore: «He watches me… the way one watches a man one has already seen make a mistake, and is waiting for him to make it again.» Pista de V, ambigua.
 
 ### Del 24 al 30 (texto completo del 24, el 25 y el 26; del 27 al 30, por los manuales)
 - **24: «Go back to your mum… Stay with her tonight»** antes del disturbio del Mundial. C no (fue Crouch hijo; Voldemort no estaba). D no. **Solo V.**
