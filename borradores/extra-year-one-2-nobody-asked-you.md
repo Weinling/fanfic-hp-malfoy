@@ -268,7 +268,7 @@ She ate her dinner, all of it, properly, with her back straight and her elbows i
 
 Harry had woken up that morning to a pile of presents at the foot of his bed, and had sat looking at it for some time before he understood that it was his.
 
-There were five of them. There was a jumper, hand-knitted and emerald green, from Ron’s mother, who had never met him; Ron must have written home that he wasn’t expecting anything. There was a flute Hagrid had whittled himself, and a box of Chocolate Frogs from Hermione, and a fifty-pence piece from the Dursleys, sellotaped to a sheet of paper with nothing written on it. And there was a soft, light parcel with no name on it at all, and inside it something that poured over his hands like water and made them disappear.
+There were five of them. There was a jumper, hand-knitted and emerald green, from Ron’s mother, who had never met him; Ron must have written home that he wasn’t expecting anything. There was a flute Hagrid had whittled himself, and a box of Chocolate Frogs from Hermione, and a fifty-pence piece from the Dursleys, sellotaped to a sheet of paper with nothing written on it. And there was a soft, light parcel with no name on it, and inside it something that poured over his hands like water and made them disappear.
 
 There was a note with it, in narrow, looping writing. It said that the thing in the parcel had belonged to his father, and that it was his now. It did not say who had sent it.
 
@@ -326,7 +326,7 @@ She waited, with her hands in her lap. The empty chair did not say anything.
 
 “You’d have seen that coming,” she told it, quite quietly, and did not move the black king.
 
-Harry found that his eyes had gone hot, and that there was nothing at all he could do with them, and he put his hands in his pockets under the cloak because there was nothing he could do with those either. He could not go in. There was not one thing he could say to her that she would not hate him for having been there to say. He could only stand in a doorway in the dark, the way he had stood behind the cupboard door, and listen to somebody else’s Christmas through it.
+Harry found that his eyes had gone hot, and that there was nothing at all he could do with them, and he put his hands in his pockets under the cloak because there was nothing he could do with those either. He could not go in. There was not one thing he could say to her that she would not hate him for having been there to say. He could only stand in a doorway in the dark, the way he had lain behind the cupboard door, and listen to somebody else’s Christmas through it.
 
 After a while she got up. She left the board as it was, with the black king in check, and put out the lamp, and went past him so close that the edge of her cloak brushed his, and away across the Entrance Hall towards the dungeons. He heard a door shut somewhere below.
 
@@ -334,7 +334,7 @@ Harry went in and sat down in the empty chair.
 
 The black pieces looked up at him, as much as chessmen can look at somebody they cannot see.
 
-“Er,” said Harry. He had only learned this term, from Ron, and he was terrible. He looked at the board for a long time and could not see any way out for the king at all, so in the end he did the only thing he could think of, and moved a pawn in front of it.
+“Er,” said Harry. He had only learned this term, from Ron, and he was terrible. He looked at the board for a long time and could not see any way out for the king, so in the end he did the only thing he could think of, and moved a pawn in front of it.
 
 Nothing happened.
 
@@ -347,3 +347,69 @@ The pawn gave him a long, considering look, and then it shuffled forward one squ
 “Sorry,” said Harry. And then, because she would come back in the morning and ask: “Don’t tell her it was me. Will you? Please.”
 
 The black king looked at the empty air where Harry was, and at the pawn, and at the white queen, and said nothing, which Harry decided to take as a yes.
+
+⁂
+
+Lyra came back after breakfast on Boxing Day to put the chessmen away, and found that the black king was no longer in check.
+
+A black pawn had moved into the way. It was a stupid move. It lost the pawn, and it left the black king exactly as stuck as before, only a square further from the edge of the board; but somebody had made it, and it had not been her.
+
+She stood over the desk and looked at it.
+
+“Who did that?”
+
+The black pieces looked at one another. The pawn looked at its feet, which wizard chessmen do not strictly have.
+
+“I asked you a question.”
+
+“He asked us not to say, miss,” said the black king at last, with enormous dignity.
+
+“*He?*”
+
+“He asked very nicely,” said the king, in the tone of one who had not been asked anything nicely by a Malfoy in some years.
+
+Lyra opened her mouth, and found that nothing she had to say to a chessman would be worth the trouble of saying. She sat down with the white, very straight, and took the pawn; and then she sat for a while longer, looking at the empty chair. Then she put out the lamp and left the board where it was.
+
+The next morning the black had moved again. It was a worse move than the first.
+
+It went on like that. Every morning, when she came in, one black piece had moved in the night, and every morning it was the wrong piece, to the wrong square, for no reason that Lyra could discover. The black bishop complained to her about it. A black knight told her, unasked, that the new general did not know an opening from a door. None of them would say who he was. Lyra made her own move each morning, the right one, and took whatever he had left lying about, and was perfectly polite to the pieces, and did not ask again.
+
+She worked out who it was on the third day, on the stairs down to the dungeons, when the Bloody Baron came drifting through the wall beside her with his chains and his great silver bloodstains, and did not look at her, which was what the Bloody Baron did to everybody. He was the Slytherin ghost. He went where he liked, at night, and nobody ever saw him do it, and he had never been asked a question in his life that he had answered.
+
+Lyra stopped on the stairs and sank into her best curtsy, the one for great-great-grandmothers in oils.
+
+“Thank you, sir,” she said, “for your company.”
+
+The Baron turned his blank, terrible eyes on her for a moment, as though she were a draught. Then he went on down through the floor without a word. Lyra took that for modesty, and was pleased.
+
+⁂
+
+Her father’s answer came on the Friday.
+
+It came by the eagle owl, and it was a whole page long, in his beautiful, careful hand. It said that they were well, and that the weather abroad was tiresome. It said that the Board of Governors met in January and that he expected to give them a great deal of trouble. It said that he trusted she was working, and that the elves at school were not to feed her on pudding, and that her mother sent her love.
+
+Lyra read it twice, from the top to the bottom, to be quite sure.
+
+Of *Please come* there was not one word.
+
+She folded the letter in half, and in half again, and again, until it was smaller than the first one had been. Then she put it in her pocket with the other, and went down to the classroom.
+
+The black had moved its queen in the night. It had moved her out into the middle of the board, a square in front of a white pawn, where anybody in the world could take her for nothing, and it was so completely stupid, so magnificently and helplessly wrong, that Lyra stood over the desk and laughed out loud. It went round the empty classroom and came back to her off the blackboard. She had not heard herself laugh since the Friday before.
+
+“He’s doing his best, miss,” said the black king, a little stiffly.
+
+“I know he is,” said Lyra, and took the queen.
+
+⁂
+
+On the last morning of the holidays, the black king was lying on his side in the middle of the board.
+
+Black had resigned. Somebody had laid him down very carefully in the night, the way you are supposed to, so that he would not roll.
+
+Lyra stood him up again, and looked at him for a while, and he looked back. Then she put the pieces in their box, black and silver, every one in its own place, and shut the lid, and carried it down to the dungeons under her arm; and at eleven o’clock she was on the front steps in her good cloak when the carriages came up the drive out of the snow.
+
+Crabbe was the first one out of the third carriage. She came up the steps two at a time, with her plaits coming undone, and stopped in front of Lyra, out of breath, and looked at her face.
+
+“Did you have a nice Christmas?”
+
+“Perfectly,” said Lyra.
