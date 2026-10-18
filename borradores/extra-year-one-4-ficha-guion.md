@@ -1,6 +1,6 @@
 # *Year One*, parte 4, rehecha (coreano 26): ficha y guion
 
-Ficha del 19 de octubre de 2026, escrita con la historia entera leída ese día en texto completo (sin manuales). **Encargo del autor:** que Potter dé miedo de verdad, que el capítulo incomode un poco y que sea de los que marcan, aunque haya que reescribir mucho; título, **«What Scared Actually Is»**. El llanto se queda. Análisis previo: `docs/notas/year-one-4-rehacer.md`. La ficha anterior y el texto publicado en Webnovel: `git show 9746d09:borradores/extra-year-one-4-ficha-guion.md` y `git show 9746d09:borradores/extra-year-one-4-two-words.md`. **No se escribe hasta que el autor la apruebe.**
+Ficha del 19 de octubre de 2026, escrita con la historia entera leída ese día en texto completo (sin manuales). **Encargo del autor:** que Potter dé miedo de verdad, que el capítulo incomode un poco y que sea de los que marcan, aunque haya que reescribir mucho; título, **«What Scared Actually Is»**. El llanto se queda. Análisis previo: `docs/notas/year-one-4-rehacer.md`. La ficha anterior y el texto publicado en Webnovel: `git show 9746d09:borradores/extra-year-one-4-ficha-guion.md` y `git show 9746d09:borradores/extra-year-one-4-two-words.md`. **APROBADA por el autor (19 de octubre), con las cuatro recomendaciones:** la varita de ella levantada, con la palabra sin decir; Snape corto, con la mano en el antebrazo; la mirada a los brazos de Granger; la nota de Webnovel. El autor retiene el 4 en Wattpad.
 
 ## Por qué no llega ahora
 
