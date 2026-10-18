@@ -136,7 +136,7 @@ He sounded almost approving. She had not expected that, and did not trust it.
 
 Moody looked at her for some time with both eyes.
 
-“No,” he said, to the offer.
+“And the answer’s no,” he said.
 
 “Why not?”
 
@@ -210,7 +210,7 @@ Moody looked at him for a moment. Then he snorted.
 
 “And sir,” said Potter. “I’d like my map back.”
 
-“When I’ve finished with it.” The magical eye stayed on him a moment longer than it needed to. “I don’t change my methods for Dumbledore, Potter, and I don’t change them for you.” He jerked his head at the door. “Tomorrow, Potter, same time. Go on. Take your ferret.”
+“When I’ve finished with it.” The magical eye stayed on him a moment longer than it needed to, and then dropped to the ferret. “The one who looks harmless is the one you watch.” He jerked his head at the door. “Tomorrow, Potter, same time. Go on. Take your ferret.”
 
 Potter took his ferret.
 
@@ -240,11 +240,11 @@ He took her down to the lake, to the big beech on the bank above the water, wher
 
 Lyra sat up on her hind legs and looked at him with all the contempt a ferret could manage, which turned out to be a surprising amount.
 
-“A very nice one,” said Potter. “I mean that. Your ears are good.” He held out one finger, and she considered biting it, and decided that she would rather save it for something that deserved it. “You went to see him on your own. Because of what he said in your lesson.”
+“A very nice one,” said Potter. “I mean that. Your ears are good.” He held out one finger, and she considered biting it, and decided that she would rather save it for something that deserved it. “You went to see him on your own.”
 
-She had not told him what Moody said in her lesson. Moody must have. Or Potter had simply guessed, from the look of her, which was worse.
+She had not told him that, or what Moody had said in her lesson. Moody must have. Or Potter had simply guessed, from the look of her, which was worse.
 
-“And then you offered to help, didn’t you,” said Potter. “Spy on Slytherin for him. Find out who put my name in.”
+“You went to offer him something, didn’t you,” said Potter. “Spy on Slytherin for him. Find out who put my name in.”
 
 She squeaked. It was meant to convey that he had no business knowing that either, and that she had been perfectly entitled to offer, and that she would do it anyway, with or without Mad-Eye Moody’s blessing. Potter seemed to understand at least the last part. He looked at her for a while without saying anything, and rubbed his thumb once along the top of her head, between the good ears.
 
@@ -294,7 +294,7 @@ Weasley had not stopped. He had gone on along the bank without them, and was sta
 
 “He thinks you put your name in and didn’t tell him,” said Granger. “He’ll come round. But you shouldn’t be on your own, Harry. Not with those badges about.”
 
-Lyra could have told them a good deal about the Weasleys, and what came of growing up seven to a house with nothing in it that somebody else had not had first. She could not say any of it, and found, somewhat to her surprise, that she did not much want to.
+Lyra could have told them a good deal about the Weasleys, and what came of growing up seven to a house with nothing in it that somebody else had not had first. She could not say any of it, and did not much want to.
 
 “Go after him,” said Potter. “I’m all right. Honestly.” He lifted the arm with the ferret in it, a little. “I’m not on my own. I’ve got her.”
 

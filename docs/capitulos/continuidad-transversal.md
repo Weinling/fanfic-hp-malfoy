@@ -97,6 +97,9 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 - **El horario de Granger** (15): Lyra lo vio y calla.
 - **La noche de 1992 (Y1-4):** Crabbe sabe que lloró; Lyra lo enterró.
 - **La lámpara de la casita** (25): se apaga cuando Lucius vuelve a pie del Mundial. Semilla de Abraxas (handoff §17); nadie la comenta.
+- **La letra del sobre** (28): la carta lacrada para Karkaroff lleva una letra antigua y algo temblorosa, que no es la de Lucius. Semilla de Abraxas.
+- **Lucius de niño** (29): en la carta de Draco, el señor de la casita dice que Lucius hacía más trampas que él a su edad. Semilla de Abraxas. **No añadir más pistas de la casita en el 30 al 32** (revisor).
+- **Lyra no escribe a su padre** desde que llevó su carta a Karkaroff (29).
 - **La nota de Regulus** (26): en la copia falsa del guardapelo; la tiene Dumbledore. Lyra sabe que existe y no qué dice.
 - **Lucius y la Marca** (25): Lyra sabe que su padre estaba en el desfile y no sabe quién la lanzó.
 - **Karkaroff** (28): Lyra sabe que él no metió el nombre, que Crouch mandó a su hijo a Azkaban «to die» y que algo pasó con los Longbottom; que Lucius quería mandarla a Durmstrang. Se lo dijo a Harry el domingo 20 (29). Él no preguntó qué les pasó a los Longbottom, y Lyra se dio cuenta de que no lo necesitaba.
@@ -104,7 +107,7 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 - **La pluma de Skeeter** (30): Lyra deduce que Potter la confundió («the sleek-haired bachelor Professor Snape»). Nadie se lo ha dicho.
 - **La Saeta de Potter** (30): Lyra deduce por el número de matrícula que es suya y no la de ella, y que se la compró después del «No need» del 23. Slytherin discute si la robó o se la pagó Dumbledore.
 - **Los dragones en Slytherin** (30): Lyra se lo dijo a Crabbe en el desayuno; Parkinson lo oyó y lo contó a todos antes de la prueba.
-- **Moody** sospecha que Lucius la manda o la controla (27) y la vio volver del barco (28). **Tiene el mapa de Harry** desde poco después de Halloween («Not names», 29); Lyra lo sabe y no le gusta. En la prueba, su ojo pasó por Lyra bajo la capa sin pararse (30); no consta si la vio.
+- **Moody** sospecha que Lucius la manda o la controla (27) y la vio volver del barco (28). **Tiene el mapa de Harry** desde poco después de Halloween («Not names», 29); Lyra lo sabe desde el 27, porque Potter se lo pidió delante del hurón («When I’ve finished with it»), y no le gusta. En la prueba, su ojo pasó por Lyra bajo la capa sin pararse (30); no consta si la vio.
 - **El escarabajo** (30): gordo y brillante, en la tienda de los campeones; oyó todo y zumbó junto a Lyra al salir. Sin explicar.
 
 ## 4. Cómo está cada uno (al final del 30)

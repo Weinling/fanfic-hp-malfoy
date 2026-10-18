@@ -88,15 +88,15 @@ He stopped. He looked at her as though she were one more thing the day had decid
 
 “A word,” said Lyra, in her mother’s voice for tradesmen, the cool and civil one that committed her to nothing. “If you can spare one.”
 
-“Oh, right,” said Weasley. “Course. Here it comes.” His voice had gone flat and nasty, in a way she had not heard from him before. “Go on, then. You’d know all about it, wouldn’t you. Must be nice. Invisibility Cloak. Secret girlfriend. Lovely life, being Harry Potter, isn’t it? Everything handed to him.”
+“Oh, right,” said Weasley. “Course. Here it comes.” His voice had gone flat and nasty, in a way she had not heard from him before. “Go on, then. Must be nice. Invisibility Cloak. Secret girlfriend. Lovely life, being Harry Potter, isn’t it? Everything handed to him.”
 
 Lyra’s hand found the ring in her pocket, and stopped there.
 
 She did not let it reach her face. Moody, she thought. Moody, with his eye, telling Gryffindors—but no. Moody would tell nobody anything; it was the one thing she was sure of about him. Then who? Then *how*?
 
-She had come up the slope meaning to be civil. It was plain now that civility was wasted on him.
+She had meant to be civil. It was plain now that civility was wasted on him.
 
-“Your brothers manage better,” she said. “They’re loud, and they’re vulgar, and they’ve never had a thought between them that wasn’t a joke, but at least they don’t go about with a face like a wet weekend.”
+“What a charming welcome,” she said. “Your brothers manage better. “They’re loud, and they’re vulgar, and they’ve never had a thought between them that wasn’t a joke, but at least they don’t go about with a face like a wet weekend.”
 
 Weasley’s ears went red, and then the rest of him.
 
@@ -144,7 +144,7 @@ She had written to him on Monday. It had been a very good letter. It had said th
 
 *My treasure*, her father had written back, in his long, beautiful hand, *how like you to think of your brother. Igor Karkaroff and I are old friends. I enclose a few lines for him, which you will deliver yourself; he will be delighted to see you, and I think you will find him generous. There is no need to trouble Severus with any of this. Or anybody else.*
 
-The enclosure was sealed with the Malfoy crest, in green wax. The name on the front of it, *Professor I. Karkaroff*, was not in her father’s hand. It was an older hand than his, with long loops in the old style and a slight unsteadiness at the ends of the letters, and she supposed he had dictated it to somebody.
+The enclosure was sealed with the Malfoy crest, in green wax. The name on the front of it, *Professor I. Karkaroff*, was not in her father’s hand. It was written in a hand she did not know, an old-fashioned one with long loops, a little unsteady at the ends of the letters, and she supposed he had had somebody address it for him.
 
 Lyra turned it over in her fingers, under the table, and did not break the seal.
 
@@ -158,11 +158,11 @@ Well. She knew now. And she was going to carry it anyway.
 
 “It’s such a pity about the Goblet,” said Lyra, with a small sigh.
 
-She had been on Karkaroff’s ship for twenty minutes by then. She had said “Lyra Malfoy, for Professor Karkaroff” to the dark water after dinner, and a gangplank had come sliding over the lake to her feet, quite dry; and at the top of it a tall man in silver furs, with a little curling goatee and a great many yellowish teeth, had looked at her cloak, and her shoes, and the crest on her father’s letter, before he looked at her face. In his cabin, which was low and panelled and much too warm, he had read the letter by the lamp and folded it very small and put it inside his coat, and his smile had gone a little fixed.
+She had been on Karkaroff’s ship for twenty minutes by then. She had said “Lyra Malfoy, for Professor Karkaroff” to the dark water after dinner, for want of any better way of knocking on a ship, and a gangplank had come sliding over the lake to her feet, quite dry; and at the top of it a tall man in silver furs, with a little curling goatee and a great many yellowish teeth, had looked at her cloak, and her shoes, and the crest on her father’s letter, before he looked at her face. In his cabin, which was low and panelled and much too warm, he had read the letter by the lamp and folded it very small and put it inside his coat, and his smile had gone a little fixed.
 
 “Your father,” he had said, “was a friend to me once, when I had very few friends. When I came out of—when I came back into the world, shall we say. A little money. A word in the right place. One does not forget.” And then, pressing a silver cup of something hot and full of rum into her hands: “He wished you to come to Durmstrang, you know. Your mother would not hear of it. Too far, she said. Too cold. We would have made a princess of you.”
 
-Lyra had not known that. She had kept it, and held the cup, and not drunk, and praised the ship, and above all Viktor Krum, until he purred. Now she watched the purr go out of him.
+Lyra had not known that. She had kept it, and held the cup, and not drunk, and praised the ship, which was hideous, and above all Viktor Krum, until he purred. Now she watched the purr go out of him.
 
 “*Pity*? It is an outrage! Two champions! Two, for Hogwarts! And what does Dumbledore do? He shrugs, he smiles, he says the Goblet has spoken!” Karkaroff struck the table with the flat of his hand. “Behind everybody’s back. As always. That man has done nothing to my face in thirty years.”
 
@@ -200,11 +200,11 @@ He considered this. “Then perhaps one day we fly,” he said, and nodded to he
 
 “There!” said Karkaroff, delighted. “What a pair you would make!”
 
-Lyra smiled her mother’s smile, the one that meant precisely nothing, and thought that Viktor Krum was undoubtedly a genius on a broom, and on a broom only; but he had looked at her hands before her face, and she found she rather respected that. She stood up to go.
+Lyra smiled the smile that meant precisely nothing, and thought that Viktor Krum was undoubtedly a genius on a broom, and on a broom only; but he had looked at her hands before her face, and she found she rather respected that. She stood up to go.
 
 ⁂
 
-The gangplank slid away behind her into the dark as soon as her feet were on the shingle, and the lights in the portholes went out one by one.
+The gangplank slid away behind her into the dark as soon as her feet were on the shingle, and the few dim lights in its portholes went out one by one.
 
 She went up the slope towards the castle with the signed card in her pocket, and the silver cup still full on Karkaroff’s table, and turned it all over as she climbed.
 
