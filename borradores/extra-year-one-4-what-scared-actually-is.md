@@ -378,7 +378,7 @@ He got himself up off the floor. McGonagall was looking at him again, and then l
 
 Harry looked down.
 
-He was holding a wand. It was not his; his was still under the bench, where Goyle had put it. This one was lighter and paler, with a silver band at the handle, and his fingers were round it the way they went round his own, without his having to think about it. He had held it all the way through. He had held it lying on the floor. He had not noticed.
+He was holding a wand. It was not his; his was still under the bench, where Goyle had put it. This one was lighter than his, and paler, and his fingers were round it the way they went round his own, without his having to think about it. He had held it all the way through. He had held it lying on the floor. He had not noticed.
 
 “Malfoy’s, Professor,” he said, and held it out to her, handle first.
 
@@ -397,3 +397,25 @@ He had decided, on a broom at the start of the year, that he was going to change
 “I was going to change her,” Harry said, to nobody. “I made her cry.”
 
 Madam Pomfrey mended his eyebrow in about a minute, with a great deal of tutting, and in the morning there was nothing to show where it had been. That was the last anybody saw of it. The Gryffindors did not tell the story, because it was not the sort of story that made Harry look good. The Slytherins did not tell it, because it was not the sort that made Malfoy look good either. Nobody repeated what he had said about Snape. Snape himself, the next time Harry came into the dungeon, did not so much as raise his eyes, and Slytherin took its lead from him. By Easter nobody spoke of any of it.
+
+⁂
+
+Crabbe came up to the dormitory after lights out, when the others were asleep, and sat down on the end of Lyra’s bed in the dark.
+
+Lyra had the hangings drawn. She did not open them.
+
+“McGonagall gave me this,” said Crabbe, very low. “For you.”
+
+Something came through the gap in the curtains, handle first. Lyra took it. It was her own wand, and for a moment, in her hand, in the dark, it did not feel like hers: it felt like a thing that had been somewhere without her, and had come back, and was not going to say where. Then it was only her wand again. She put it under her pillow.
+
+“I didn’t cry,” she said.
+
+There was a pause on the other side of the curtain. Crabbe, who was the worst liar in Slytherin, and possibly in the castle, took a long time over it.
+
+“No,” she said at last. “You didn’t.”
+
+She went on sitting there. After a while Lyra put her hand out between the hangings, without meaning anything by it, and Crabbe took hold of it and held on, and neither of them said another word until Lyra was asleep.
+
+She did not say the word again that year. The next time was the following autumn, on a Quidditch pitch, about some brooms, and that time it was Weasley who went for his wand. She went on flinching at the other one, the name, as everybody she had grown up with flinched at it. But there was a particular face that she flinched from more: a boy’s face, white and set, with blood running into one eye and the Dark Lord’s name in its mouth.
+
+She was very good, by the summer, at not thinking about it, or about the cold weeks before it. She was so good at it that, a year and a half later, when she watched that cold face turn on her father at the foot of the marble staircase, she thought she was seeing it for the first time; and when, that same September, a mild man in patched robes sat in a shabby armchair and asked her whether Harry Potter had ever given her a really bad fright, it did not so much as occur to her that there might be an answer.
