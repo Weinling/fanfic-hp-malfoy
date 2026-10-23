@@ -12,7 +12,7 @@ It was purple. It had gone purple at half past seven, when the champions came ou
 
 *On guard.*
 
-She had seen it purple before, all one night in August, behind her bed-hangings at the Manor, the night of the World Cup. It had not frightened her then as much as it frightened her now, and she could not have said why, except that then she had been at the bottom of a hill with her mother, and now she was here, and he was down there.
+She had seen it purple before, all one night in August, behind her bed-hangings at the Manor, the night of the World Cup. It had not frightened her then as much as it frightened her now, and she could not have said why, except that then she had been a hundred miles off in a four-poster bed, and now she was here, and he was down there.
 
 The whistle went.
 
