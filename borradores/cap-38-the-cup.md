@@ -41,3 +41,55 @@ Lyra did not look at her. She looked at the ring. Purple. She looked at the spar
 “That’s Krum,” said Goyle. “Has to be. That leaves—”
 
 “I know what it leaves,” said Lyra.
+
+⁂
+
+For a long time after that, nothing happened at all.
+
+The stands talked themselves quiet. Down on the grass the patrolling teachers stood at the edges of the maze with their wands lit, and Bagman stood on the podium with his megaphone hanging from one hand and nothing to say into it, and the blue glimmer at the heart of the maze went on glimmering. Inside those two walls of hedge somewhere, two boys were walking towards it. Lyra could not see either of them. She sat with Crabbe’s hand in hers and the ring under her thumb, and counted her own breathing, and lost count, and began again.
+
+Then there was a flash on the podium.
+
+It was blue-white and very sudden, like a cracker going off, and when it had gone there was somebody standing in the middle of the judges’ platform where nobody had been a moment before.
+
+It was Potter.
+
+He was alone. He had the Cup in his left hand, gripped by one of its handles so hard that she could see it from the top of the stand, and his wand up in his right; and he was not standing, quite. He was crouched, low, with his knees bent and his weight on the balls of his feet, the way a man stands who expects the ground to go out from under him; and he was turning. He turned all the way round on the spot, slowly, with his wand held out in front of him, looking: at the judges’ table, at the stands, at the black edge of the Forest beyond them, at the sky. He was looking for something. Lyra watched him look, all the way round, and come back to where he had started, and not find it.
+
+Then he looked down at the Cup in his hand.
+
+He looked at it for a long moment, without moving, with an expression she was too far away to read and could read perfectly well all the same. It was the way you might look at a person who had promised you something, very solemnly, and had not done it.
+
+The stands had not made a sound. Then Bagman found his voice.
+
+“Harry Potter!” he roared, into the megaphone. “Harry Potter, ladies and gentlemen—the Triwizard Champion!”
+
+The Gryffindors went up first. Then the rest of the stands, raggedly, not all at once, as a crowd does when it has been given the answer to something and is not sure it has heard the question right. Potter lowered his wand. He did not lower it very far.
+
+On Lyra’s finger, under her thumb, the ring went green.
+
+*Safe.*
+
+She stared at it. She looked back at the podium, where Potter was standing with the Cup in one hand and his wand in the other and the cheers coming down round him like rain, with the face of somebody who has been told he is safe by a person he has stopped believing; and then the cheering at the Hufflepuff end of the stands changed its note, and broke, and turned into something else.
+
+Cedric Diggory had come out of the maze.
+
+He came out of a gap in the hedge on the northern side, on his own feet, but only just. There were leaves in his hair and a long scratch down one side of his face, and he was swaying, and he had his wand in his hand; and as he came into the light of the patrolling teachers’ wands he raised his head and shouted something at the podium that the whole of that side of the pitch could hear.
+
+“—from *behind*! He Stunned me from *behind*, and threw me in the—I was right there, I had my hand on it, and he—”
+
+The Hufflepuffs began to boo.
+
+It started at their end of the stands, low and ugly, and spread. It went along the Ravenclaw benches, some of them, and a few of the Durmstrang boys took it up for the noise of the thing. The Gryffindors cheered louder to drown it, and that made it worse. In the middle of it, down on the grass, Professor Sprout had reached Diggory and had an arm round him, and he was still shouting, and pointing; and up on the podium, Potter stood with the Cup in his hand and looked at Diggory, and did not say anything, and did not look away.
+
+He had won the Triwizard Tournament. He had won it in the ugliest way it was possible to win anything, in front of three schools and the Ministry of Magic, and he did not look as though he had won anything at all.
+
+“He cheated,” whispered Crabbe, beside her. “Didn’t he? He—”
+
+“He won,” said Lyra.
+
+She was remembering a tent. A bench at the back of it, and a dragon outside, and Bagman’s voice coming through the canvas, *one step nearer the Triwizard Cup!*; and a boy who had sat through all the roaring without once turning his head, and had turned it then, at that, towards the voice, and kept it there a moment too long, as people do when somebody across a crowded room says a name they know.
+
+She had thought it was what being a champion did to a person.
+
+She held that, and looked at him on the podium with the Cup in his hand, and put the two of them side by side, and did not know yet what they made.
