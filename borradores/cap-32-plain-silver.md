@@ -10,13 +10,11 @@ Viktor Krum said it from the door of the cabin, with snow melting on the shoulde
 
 Then he nodded to her, as one nods across a pitch to a Seeker one has nothing against, and went back out into the snow.
 
-Lyra put down the cup she had not been drinking from.
-
 She had come down to the ship because the Ball was in three days and Viktor Krum had not said one word to her in eleven, and Slytherin had begun to notice. Montague had asked at breakfast, with great innocence, whether they did it by owl in Bulgaria. A thing said in front of the whole of Slytherin had to come true, or else she was a liar; and Lyra Malfoy was a great many things in that common room, but she had never once been caught out in that.
 
 “Miss Malfoy.” Karkaroff had gone a curious colour over his beard. “A misunderstanding. The boy is young, he has his head full of— But we are not without resources! There is Poliakoff. A very good family. His father and your father have done business together for—”
 
-“Do I look,” said Lyra, “like something off a sale table, sir?”
+“I was not aware,” said Lyra, “that I was being auctioned, sir.”
 
 She did not wait for the answer. She went out on to the deck, past three Durmstrang boys who had very obviously been listening at the porthole and who straightened up as she passed as though they might be in with a chance, and down the gangplank, one wet step at a time.
 
@@ -34,7 +32,7 @@ He looked at her then, sharply, and she saw him remember the library, and the gi
 
 “I generally do,” said Lyra.
 
-Krum considered that, as he had considered everything she had ever said to him, as though it were a broom that pulled to one side and he meant to find out which. Then he nodded once, and went back up the gangplank to his ship.
+Krum turned that over, slowly, like a broom that pulled to one side when he meant to find out which. Then he nodded once, and went back up the gangplank to his ship.
 
 Lyra walked up the slope.
 
@@ -42,11 +40,11 @@ She did not mind that Viktor Krum was taking somebody else to the Ball. She told
 
 What she minded was having been refused.
 
-Nobody refused her. It was not a thing that happened. Boys asked, and she said no, kindly or otherwise, and they went away and asked Daphne; and today she had swallowed every scrap of pride she possessed and walked up a gangplank in the snow to let it be known, in the right quarter, that she would not be displeased; and she had been turned down, politely, in front of a man with yellow teeth who would very likely write to her father about it.
+Nobody refused her. It was not a thing that happened. Boys asked, and she said no, kindly or otherwise, and they went away and asked Daphne; and today she had swallowed every scrap of pride she possessed and walked up a gangplank in the snow to offer herself, as near as made no difference, to a boy who had not asked; and she had been turned down, politely, in front of a man with yellow teeth who would very likely write to her father about it.
 
-She had done it because Potter had asked her to. *Only go with Krum. Or look as if you are.*
+And all for a boy on a desk with his feet on a chair. *Only go with Krum. Or look as if you are.*
 
-He had a plan. He had said so. She did not know what it was, and he had not told her, and she had walked up that gangplank anyway; and now she wanted him to come round the corner of the greenhouses with that infuriating face and explain it to her, very pleased with himself, so that she could be extremely cold to him for about a minute and a half and then forgive him.
+He would sort something out. He had said so. She did not know what it was, and he had not told her, and she had walked up that gangplank anyway; and now she wanted him to come round the corner of the greenhouses with that infuriating face and explain it to her, very pleased with himself, so that she could be extremely cold to him for about a minute and a half and then forgive him.
 
 He did not come round the corner of the greenhouses.
 
@@ -80,7 +78,7 @@ Weasley opened his mouth, and Granger kicked him under the table, and he shut it
 
 “Wednesday night.” Weasley shrugged. “After dinner. Said not to make a fuss.”
 
-Granger said, “He said he’d be back for the Ball,” and looked down at her book while she said it, and turned a page she had not finished, and Lyra, who knew precisely what it looked like when a person was keeping something back, saw her do it, and could not for the life of her think what it was.
+Granger said, “He said he’d be back for the Ball,” and looked down at her book while she said it, and did not look up again, and Lyra, who knew precisely what it looked like when a person was keeping something back, saw her do it, and could not for the life of her think what it was.
 
 “Did he,” she said, and left them.
 
@@ -88,7 +86,7 @@ In the corridor outside, where there was nobody, she took the ring out of her po
 
 She had not worn it on her hand since August. It went on to the fourth finger of her left hand, where he had put it under a cloister in May, and shrank to fit, as it had then, and sat there cool and quiet: the plainest thing she owned.
 
-It had worked all summer. That was the thing she kept coming back to, all that Friday morning, through a lunch she did not eat and an afternoon she spent walking. Every night at nine, behind the hangings of her bed at the Manor, it had told her how he was, from Surrey to Wiltshire, a hundred miles and more: purple at four in the morning, gold at a quarter past two, green by breakfast. Distance had never troubled it in the least. She had read the slip in Zonko’s and remembered every line of it, because she remembered everything she read, and she went through it now, colour by colour. Red, for mortal danger. Purple. Gold. Green. The slip said what each one meant, and which way to look.
+It had worked all summer. That was the thing she kept coming back to, all that Friday morning, through a lunch she did not eat and an afternoon she spent walking. Every night at nine, behind the hangings of her bed at the Manor, it had told her how he was, from Surrey, and once from a cave on a coast she had never seen: purple at four in the morning, gold at a quarter past two, green by breakfast. Distance had never troubled it in the least. She knew the slip from Zonko’s by heart, and she went through it now, colour by colour. Red, for mortal danger. Purple. Gold. Green. The slip said what each one meant, and which way to look.
 
 It did not say anything about a ring that stopped. It did not say what colour a ring went when the person wearing the other one was dead.
 
@@ -102,7 +100,7 @@ It came round the corner before the rest of him: a long clunk on the flagstones,
 
 “Your ring, Miss Malfoy,” he said. “What’s it showing?”
 
-Lyra did not put her hand behind her back. It would not have made the slightest difference, and he would have enjoyed it.
+Lyra did not put her hand behind her back. It would have been no use whatever, and he would have enjoyed it.
 
 “Nothing.”
 
@@ -112,17 +110,17 @@ Lyra did not put her hand behind her back. It would not have made the slightest 
 
 Moody grunted. The blue eye left her hand and rolled away, up and backwards into his head, as though it had remembered something several floors off that it wanted to look at; it stayed there a moment, fixed on whatever it was, and then came swivelling back.
 
-“Then wherever he is,” said Moody, “it isn’t this castle.”
+“Then wherever he is,” said Moody, “that ring can’t reach him.”
 
 He shifted his weight on to the wooden leg, and turned.
 
 “Do you know where he is?”
 
-It came out much too high. Moody stopped, with his back to her, and for a moment she thought he would not bother to answer.
+Her voice went up on the last word and she could not stop it. Moody stopped, with his back to her, and for a moment she thought he would not bother to answer.
 
-“I know where he isn’t,” he said, and stumped away down the corridor, *clunk*, and step, and *clunk*, until the sound went round the corner and was gone.
+“I know where he isn’t,” he said.
 
-Lyra stood in the empty corridor for some time after that.
+He did not move off. He stood there with his back to her, waiting, and she understood that he meant to stand there until she went; so Lyra turned round and walked away first, down the empty corridor, with her hands at her sides. The leg did not follow her. She did not hear it once, the whole length of the corridor, and that was worse than if it had.
 
 He had not said Potter was safe. He had not said he was in danger either. He had asked about the ring as a man asks the time of somebody whose watch he does not trust, and gone away with the answer, and he had not once in the whole of it looked as if he cared which. She tried to be angry about that, and could not get it to take.
 
@@ -134,7 +132,7 @@ Saturday was the same, all day, and then it was Christmas.
 
 At half past seven on Christmas night Lyra was sitting on the end of her bed in the fourth-year dormitory, dressed, with her hands in her lap.
 
-She had done everything. She had begun at four o’clock, out of nothing but habit, because a thing that is going to take three hours does not care whether one wants to do it. She had washed her hair and dried it and put it up, in the style her mother’s maid did for the opera, which she had practised in August until she could do it blind; it had taken an hour and a half and every pin was where it should be. She had put on the violet silk. It fitted as if it had been poured. There was a looking-glass by the door, and she had looked in it once on her way past and seen exactly what she had meant to see since the night of the dragons, and it had not helped in the least.
+She had done everything. She had begun at four o’clock, out of nothing but habit, because a thing that is going to take three hours does not care whether one wants to do it. She had washed her hair and dried it and put it up, in the style her mother’s maid did for the opera; she had practised it in August until she could do it blind, and it had taken an hour and a half and every pin was where it should be. She had put on the violet silk. It fitted as if it had been poured. There was a looking-glass by the door, and she had looked in it once on her way past and seen exactly what she had meant to see since the night of the dragons, and it had not helped in the least.
 
 Her presents were in a heap at the foot of the bed, unopened, except for Draco’s, which had turned out to be a Chocolate Frog card of Viktor Krum with a note to say that he had three.
 
@@ -154,11 +152,11 @@ Crabbe drew a breath to say something about that, and then, visibly, did not. Sh
 
 “Malfoy,” said Crabbe, in a low, frightened voice. “Is it the Imperius?”
 
-Lyra very nearly laughed. She had thrown the thing off on top of a desk in front of the whole of Slytherin.
+Lyra very nearly laughed. She had thrown the thing off in the middle of a classroom, rather than climb on a desk, in front of the whole of Slytherin.
 
 “No.”
 
-Crabbe’s eyes went down to the ring. She knew that ring. She had paid for the box.
+Crabbe’s eyes went down to the ring. She knew that ring. She had once been told to bin it.
 
 “Then what’s Potter done?”
 
@@ -170,7 +168,7 @@ Crabbe’s eyes went down to the ring. She knew that ring. She had paid for the 
 
 Crabbe stood up.
 
-Lyra had known her since they were eleven, and had never once seen her angry; she had not been sure that Crabbe knew how. She found out now. Crabbe went red from her collar to her parting, and stood in the middle of the dormitory in her yellow robes with her fists shut, and was angry, thoroughly and without a scrap of dignity, as though somebody had to be and Lyra had plainly forgotten how.
+Lyra had known her since they were eleven, and had never once seen her angry; she had not been sure that Crabbe knew how. She found out now. Crabbe stood in the middle of the dormitory with her fists shut, and was angry, thoroughly and without a scrap of dignity, as though somebody had to be and Lyra had plainly forgotten how.
 
 “It’s *Christmas*,” said Crabbe. “It’s the *Ball*. He can’t do *nothing*, not tonight, not after you’ve— after all that— he can’t just *not come*! I’ll— if he’s in that castle somewhere I will find him and I will—”
 
@@ -180,7 +178,7 @@ Lyra looked up at her.
 
 “How long have you known?”
 
-It was not the question she had meant to ask. Crabbe had given him the ring. Crabbe had sat at breakfast the week the Firebolt came and called herself a rather good Cupid. There was no use asking whether she knew; but Lyra found that she wanted, very badly, to know since when.
+It was not the question she had meant to ask. Crabbe had given him the ring. There was no use asking whether she knew; but Lyra found that she wanted, very badly, to know since when.
 
 “Since the lawn,” said Crabbe.
 
@@ -194,7 +192,7 @@ She remembered the lawn. She remembered the grass in his hair and the blood on h
 
 “You never said.”
 
-“You’d have stopped,” said Crabbe simply.
+“You’d have stopped,” said Crabbe.
 
 Then she wiped her face with the back of her wrist, and was Crabbe again, and held out her hand.
 
@@ -206,7 +204,7 @@ Then she wiped her face with the back of her wrist, and was Crabbe again, and he
 
 Lyra laughed.
 
-It surprised them both. It came out of her quite loud, in the empty dormitory, the first time in three days, and it went on for longer than the joke deserved; and Crabbe stood over her in her yellow robes with her hand held out, beaming as though she had done something clever, which she had.
+It surprised them both. It came out of her quite loud, in the empty dormitory, the first time in three days, and it went on for longer than the joke deserved; and Crabbe stood over her with her hand held out, beaming, as though she had done something clever.
 
 Lyra took the hand, and got up.
 
@@ -232,7 +230,7 @@ They had done it well; she could give them that. The walls were covered in a sil
 
 A Ravenclaw girl in pink smiled at her across two tables, the small, satisfied smile of somebody who has been waiting for years to see a particular thing happen to a particular person. Lyra looked back at her pleasantly until it went away.
 
-She took a table near the wall, and sat at it alone. Goyle arrived a minute later on the arm of Blaise Zabini, which explained a good deal, Zabini having lost to her at chess three times in November without once appearing to mind. Goyle looked at the empty chairs round Lyra and opened her mouth, and Zabini, who was cleverer than he let on, steered her away to the next table before she could say anything into it.
+She took a table near the wall, and sat at it alone. Goyle arrived a minute later on the arm of Blaise Zabini, which explained a good deal, Zabini having lost to Goyle at chess three times in November without once appearing to mind. Goyle looked at the empty chairs round Lyra and opened her mouth, and Zabini, who was cleverer than he let on, steered her away to the next table before she could say anything into it.
 
 Up at the staff table, the Headmaster’s chair was not empty.
 
@@ -254,9 +252,7 @@ So that was whom Krum had asked; she had known that since the shingle. What she 
 
 *Only go with Krum. Or look as if you are.*
 
-Krum asks Granger. Krum turns Lyra down. Potter, whom everybody expects to bring Granger, has nobody, and nor has Lyra Malfoy; and a champion must have a partner to open the dancing. There they would both be, left over, with no choice in the matter, in front of anybody who might be writing to Lucius Malfoy about it.
-
-The whole thing stood on Viktor Krum asking Granger, and Potter had been sure of that a month ago, in a classroom on the third floor. He had built his plan on top of a sentence of hers, *She is not Potter’s anything*, and had not told her that either.
+The whole thing stood on Viktor Krum asking Granger. It stood on a sentence of hers at the edge of a Quidditch pitch, *She is not Potter’s anything*; and Potter had been sure of it a month ago, in a classroom on the third floor, and had not told her that either.
 
 “*Malfoy*.” Goyle had come back, Zabini or no Zabini, and was standing over her table, scarlet. “Granger stole your partner!”
 
@@ -292,7 +288,7 @@ Lyra stood up.
 
 “Nobody left me anywhere, Potter,” she said.
 
-She did not say it loudly. She did not need to. The next table had gone quiet to listen to him, and it stayed quiet to listen to her, and so did the one beyond it.
+She did not say it loudly. The next table had gone quiet to listen to him, and it stayed quiet to listen to her, and so did the one beyond it.
 
 “I turned Krum down.”
 
@@ -304,13 +300,13 @@ Out on the floor, ten yards away, Viktor Krum turned his head.
 
 He looked at Lyra, and then at Potter, and then, gravely, at the Hall in general.
 
-“Is true,” said Krum. “She refuse me.”
+“Is true,” said Krum. “She refuse me.” He looked down at Granger. “Is lucky for me.”
 
-Granger, on his arm, looked up at him with her mouth a little open. She did not look at Lyra.
+Granger, on his arm, looked up at him with her mouth a little open, and went pink to the roots of her smooth hair. She did not look at Lyra.
 
-Lyra had lied to him at the edge of a Quidditch pitch, and on the shingle she had told him she generally told the truth, which was not the same thing, and he had gone away to think about it; and here he was, in front of three schools, telling a lie for her without a flicker, in that flat heavy voice that nobody in the world would ever think to doubt. She did not know why. She thought it might be the broom. She inclined her head to him, very slightly, across the floor, and Krum turned back to Granger.
+She had told him the truth at the edge of a Quidditch pitch, for the worst of reasons, and on the shingle she had not quite answered him; and here he was, in front of three schools, telling a lie for her without a flicker, in that flat heavy voice that nobody in the world would ever think to doubt. She thought he had just given her his answer to the shingle. She inclined her head to him, very slightly, across the floor, and Krum turned back to Granger.
 
-The Hall had heard it. She could feel it hearing it: the tables turning, the whisper going outward from the wall in rings. *Lyra Malfoy turned down Viktor Krum.* And then, a moment after, the rest of it. *For Potter.* In front of Slytherin, and Durmstrang, and Beauxbatons, and the judges’ table, and anybody who cared to write it down.
+The Hall had heard it. She could feel it hearing it: the tables turning, the whisper going outward from the wall in rings. *Lyra Malfoy turned down Viktor Krum.* And then, a moment after, the rest of it. *For Potter.* In front of Slytherin, and Durmstrang, and Beauxbatons, and the judges’ table, and anybody who cared to write it down. Her mother, at least, would not have to ask whom the violet had been for.
 
 She held out her hand.
 
@@ -328,12 +324,12 @@ He did not have anything ready for that. She watched him look for something, and
 
 “I know,” he said.
 
-On her finger, against his hand, the ring was not silver any more. It had gone pink, a clear foolish Zonko’s pink, the colour on the slip for *in the company of their sweetheart*, and she did not take her hand away to hide it. On his hand, the other one had gone the same.
+On her finger, against his hand, the ring was not silver any more. It had gone pink, a clear foolish Zonko’s pink, and she did not take her hand away to hide it. On his hand, the other one had gone the same.
 
 “Lyra—”
 
 “They’re waiting,” said Lyra. “Dance, Potter.”
 
-He led her out into the empty space beside the champions, with her hand in his and the whole Hall watching, and the band, which had been waiting a long time, began.
+He led her out into the empty space beside the champions, with her hand in his and the whole Hall watching, and the band, at long last, began.
 
 She put her other hand on his shoulder. Over it, at the judges’ table, between Madame Maxime and Ludo Bagman, Professor Karkaroff had stopped clapping.
