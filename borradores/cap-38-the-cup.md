@@ -58,7 +58,7 @@ He was alone. He had the Cup in his left hand, gripped by one of its handles so 
 
 Then he looked down at the Cup in his hand.
 
-He looked at it for a long moment, without moving, with an expression she was too far away to read and could read perfectly well all the same. It was the way you might look at a person who had promised you something, very solemnly, and had not done it.
+He looked at it for a long moment, without moving, as you might look at a person who had promised you something, very solemnly, and had not done it.
 
 The stands had not made a sound. Then Bagman found his voice.
 
@@ -96,7 +96,7 @@ She held that, and looked at him on the podium with the Cup in his hand, and put
 
 ⁂
 
-Then the stands began to empty on to the grass, the way stands do, all at once, and Lyra went down with them.
+Then the stands began to empty on to the grass, as stands do, all at once, and Lyra went down with them.
 
 Crabbe had let go of her hand to stand up, and then the whole Slytherin bench was moving, and the steps were full of people going down, and she was among them, going down too, with Crabbe somewhere behind her saying *Malfoy* and *wait*. At the bottom the crowd spread out across the trampled grass towards the podium like water finding a level, Gryffindors in front, shouting, and Ministry wizards trying to hold them back, and Lyra went through all of it as she went through crowds at her father’s parties, sideways, without touching anybody, until there was nobody between her and the edge of the judges’ platform but two Ministry men with their backs to her.
 
@@ -192,7 +192,7 @@ The grounds were grey and wet and empty. There was mist lying on the grass in lo
 
 She went down the steps and across the lawn to where she could see the lake.
 
-It was flat and grey and perfectly still, and it went all the way out to the mountains on the other side without anything on it at all.
+It was flat and grey and perfectly still, and it went all the way out to the mountains on the other side with nothing on it.
 
 The Durmstrang ship was gone.
 
