@@ -10,7 +10,7 @@ Potter waited until the leg had gone right down to the fourth floor.
 
 Lyra did not stop climbing. “What for?”
 
-“Moody. Sort of.” He was quiet for half a flight. The portraits on that stretch of staircase had given up leaning out to watch them by the end of January, which was a mercy. “He wanted to know how sure I’d been. About the trunk. Before I went in.”
+“Moody. Sort of.” He was quiet for half a flight. The portraits on that stretch of staircase had given up leaning out to watch them by the end of January. “He wanted to know how sure I’d been. About the trunk. Before I went in.”
 
 “And what did you say?”
 
@@ -24,7 +24,7 @@ Potter shifted the bag on his shoulder.
 
 Lyra climbed two more steps.
 
-She put it with the rest. It went in beside *I know* and *I was sure* and a dead man said twice, and it did not settle there, it lay on top of the others and would not go down; and she noticed, besides, the thing that was stranger than any of it, which was that he had told her. She had not asked. She had not so much as looked at him in the way that meant *ask me*. He had simply come up the stairs beside her on a Tuesday morning and told her what Dumbledore had said to him in the night, as though it were the most natural thing in the world, as though they did that.
+She put it with the rest. It went in beside *I know* and *I was sure* and a dead man said twice, and it did not settle there, it lay on top of the others and would not go down; and she noticed, besides, the thing that was stranger than any of it: he had told her. She had not asked. She had not so much as looked at him in the way that meant *ask me*. He had simply come up the stairs beside her on a Tuesday morning and told her what Dumbledore had said to him in the night, as though it were the most natural thing in the world, as though they did that.
 
 She did not say any of that, in case he stopped.
 
@@ -54,7 +54,7 @@ He went off down the corridor with his hands in his pockets, and Lyra went in to
 
 The Hogsmeade weekend was the second Saturday in March, and it was the first time they had ever walked down the drive together in daylight with nobody under anything.
 
-It was not, Lyra decided, at all what she had imagined. She had imagined it a great many times, in the summer, behind her bed-hangings, and in every version they had been alone. In none of them had Weasley been there, walking on Potter’s other side with his hands in his pockets, complaining about the Chudley Cannons, and Granger behind them reading a book as she walked and somehow never falling into a puddle; and in none of them had half the school been coming down the drive behind them in a long, cheerful, staring procession, with Parkinson somewhere in the middle of it telling anybody who would listen that it was all for her father.
+It was not, Lyra decided, what she had imagined. She had imagined it a great many times, in the summer, behind her bed-hangings, and in every version they had been alone. In none of them had Weasley been there, walking on Potter’s other side with his hands in his pockets, complaining about the Chudley Cannons, and Granger behind them reading a book as she walked and somehow never falling into a puddle; and in none of them had half the school been coming down the drive behind them in a long, cheerful, staring procession, with Parkinson somewhere in the middle of it telling anybody who would listen that it was all for her father.
 
 She did not mind as much as she would have expected. She minded Weasley, a little.
 
@@ -86,7 +86,7 @@ Weasley took his hand out of his pocket, empty. Granger, without looking up from
 
 “Nobody’s. I’m reading.”
 
-They argued about it for ten minutes, and then about the Chudley Cannons for another ten, and then about whether Krum would have caught the Snitch at the World Cup if Lynch had not hit the ground first, which was not an argument at all since Lyra had been in the top box and Weasley had been in the row in front of her, and they both knew perfectly well what had happened; and somewhere in the middle of it Lyra realised that she was enjoying herself. It was a peculiar feeling. She had quarrelled with Weasley at intervals for nearly four years, on staircases and in the grounds and on the gravel outside the doors, and every one of those quarrels had been meant. This one was not. They were both doing it because it was what they did, like two old men on a village bench who would be lost without the other one to be wrong.
+They argued about it for ten minutes, and then about the Chudley Cannons for another ten, and then about whether Krum would have caught the Snitch at the World Cup if Lynch had not hit the ground first. It was not an argument; Lyra had been in the top box and Weasley had been in the row in front of her, and they both knew perfectly well what had happened; and somewhere in the middle of it Lyra realised that she was enjoying herself. It was a peculiar feeling. She had quarrelled with Weasley at intervals for nearly four years, on staircases and in the grounds and on the gravel outside the doors, and every one of those quarrels had been meant. This one was not. They were both doing it because it was what they did, like two old men on a village bench who would be lost without the other one to be wrong.
 
 She thought of saying so, and decided he would take it badly, and said instead that the Chudley Cannons had not won a match since the reign of Queen Victoria, which he took worse.
 
@@ -94,7 +94,7 @@ Potter did not say much. He sat between them with his butterbeer and looked from
 
 She let him.
 
-When they came out it had begun, very lightly, to rain, the fine silvery rain of March that hardly seemed to fall at all, and the High Street was full of students going from Honeydukes to Zonko’s and back with their collars up. Granger had gone ahead with her book over her head. Weasley had stopped to look in the window of Dervish and Banges.
+When they came out it had begun, very lightly, to rain, the fine silvery rain of March that hardly seemed to fall, and the High Street was full of students going from Honeydukes to Zonko’s and back with their collars up. Granger had gone ahead with her book over her head. Weasley had stopped to look in the window of Dervish and Banges.
 
 They were outside the post office. Lyra had stopped to pull her hood up, and Potter had stopped because she had, and he looked at her, in the rain, with drops on his glasses and the High Street going past on either side of them; and then he bent his head and kissed her.
 
@@ -144,7 +144,7 @@ It lay directly under the Great Hall, as she ought to have guessed, and it was t
 
 Then they rushed at her with trays.
 
-She took a cup of tea, since it was simpler than refusing, and said, “Thank you,” to the elf who gave it to her, as she said it at home to Pobble, which seemed to astonish it very much. At the edge of her eye, something moved. A very small elf in a tea-cosy hat and two odd socks had been carrying a stack of plates past the end of the Ravenclaw table; it had seen her, and dropped behind a cauldron as though it had been shot, plates and all, and a pair of huge green eyes looked out at her over the rim.
+She took a cup of tea, since it was simpler than refusing, and said, “Thank you,” to the elf who gave it to her, as she said it at home to Pobble. It seemed to astonish the elf very much. At the edge of her eye, something moved. A very small elf in a tea-cosy hat and two odd socks had been carrying a stack of plates past the end of the Ravenclaw table; it had seen her, and dropped behind a cauldron as though it had been shot, plates and all, and a pair of huge green eyes looked out at her over the rim.
 
 She knew those eyes. She had known them all her life, at the end of the long table at the Manor, until the summer a boy had tricked her father into handing over a sock.
 
@@ -174,7 +174,7 @@ Lyra did not pat her.
 
 “Sit up, Winky,” she said.
 
-She said it in her mother’s voice: the voice for the drawing room when something had been spilt, quiet and certain and not at all unkind. It went through Winky like a bell. The elf sat up, all at once, on her stool, with her hands in her lap and her ears up, and stopped crying in the middle of a sob, as she must have stopped a thousand times before in another house, for another voice.
+She said it in her mother’s voice: the voice for the drawing room when something had been spilt, quiet and certain and not unkind. It went through Winky like a bell. The elf sat up, all at once, on her stool, with her hands in her lap and her ears up, and stopped crying in the middle of a sob, as she must have stopped a thousand times before in another house, for another voice.
 
 “That’s better. Drink your butterbeer, if you must. And tell me about Mr Crouch.”
 
@@ -226,7 +226,7 @@ When Lyra went back up the three steps and out past the pear, there was an écla
 
 She went back to the kitchens once more, in the first week of April, and came away with a raw steak wrapped in brown paper, which the elves gave her with an air of having always known she would ask.
 
-She took it down the lawn on a bright, cold morning to the pumpkin patch behind Hagrid’s cabin, where the hippogriff was tethered, and stopped at the proper distance, and bowed. Buckbeak looked at her for a long moment with one fierce orange eye. Then he bent his scaly knees and bowed back, and she went up to him and unwrapped the paper and held it out on the flat of her hand, and he took it as delicately as a cat, and ate it, and allowed her to touch his neck.
+She took it down the lawn on a bright, cold morning to the pumpkin patch behind Hagrid’s cabin, where the hippogriff was tethered, and stopped at the proper distance, and bowed. Buckbeak looked at her with one fierce orange eye. Then he bent his scaly knees and bowed back, and she went up to him and unwrapped the paper and held it out on the flat of her hand, and he took it as delicately as a cat, and ate it, and allowed her to touch his neck.
 
 It had been on the books for fourteen months. She felt a good deal better.
 
