@@ -180,7 +180,7 @@ Lyra looked up at her.
 
 “How long have you known?”
 
-It was not the question she had meant to ask. Crabbe had given him the ring. Crabbe had stood in the Great Hall in May and called herself a rather good Cupid. There was no use asking whether she knew; but Lyra found that she wanted, very badly, to know since when.
+It was not the question she had meant to ask. Crabbe had given him the ring. Crabbe had sat at breakfast the week the Firebolt came and called herself a rather good Cupid. There was no use asking whether she knew; but Lyra found that she wanted, very badly, to know since when.
 
 “Since the lawn,” said Crabbe.
 
