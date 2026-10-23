@@ -148,7 +148,7 @@ Him, and now you. He said it as though it were something he was giving her. She 
 
 ⁂
 
-She had meant to stop there. She had meant to take the letter out of her sleeve and say what she had come to say, and go. But there was a thing at the back of all of it that she had not looked at yet, and she found that she was going to look at it whether she liked it or not.
+She had meant to stop there. She had meant to take the letter out of her sleeve and say what she had come to say, and go. But there was a thing at the back of all of it that she had not looked at yet, and she was going to look at it whether she liked it or not.
 
 “The diary,” said Lyra.
 
@@ -176,9 +176,9 @@ Lyra said nothing for a moment.
 
 She thought of a girl she had never once spoken to, with red hair and a second-hand cauldron, writing to a book every night for a year. She thought of an empty classroom on the night the Chamber was closed, and a boy putting her father’s diary down on a desk between them, and a word. *Hostage.* The whole of it. The pact, and the lake, and the Owlery, and the credit, every single thing between the two of them in four years, had grown up out of a thing he had watched happen to an eleven-year-old and decided to let be.
 
-She had liked him for it. That was the worst of it. She had sat on that cold desk in that classroom with her heart going, and thought him the cleverest person she had ever met, and liked him for it.
+She had liked him for it. She had stood in that classroom with her heart going, and thought him the cleverest person she had ever met, and liked him for it.
 
-“You said to me once,” said Lyra, “in a shack, with the snow coming down outside, that you had never lied to me.”
+“You said to me once,” said Lyra, “in a shack, with the sleet coming down outside, that you had never lied to me.”
 
 He shut his eyes.
 
@@ -201,3 +201,65 @@ He opened his eyes.
 He looked at her across the straw, with the light behind him and the owls all round, and for the first time since she had come through the door he looked as though it hurt him to be looked at.
 
 “I wanted you to have it,” said Potter.
+
+⁂
+
+*I wanted you to have it.*
+
+She had said those words to herself once, by a broom shed in the sunshine, about a thing she had carried up a hill for him from a ship. She had not said them aloud. She did not say them now.
+
+She took the letter out of her sleeve.
+
+She did not give it to him. She unfolded it, and held it up so that he could see her father’s hand across the page, and the *L* that the nib had caught on, and she read him the first line of it, in a voice she did not recognise.
+
+“*Our master has returned.*”
+
+Potter did not move. She saw it go into him, and saw that it was not news, and saw that it was worse than news, because he had been standing on a podium on Saturday night with his wand up, waiting for it, and it had happened somewhere else.
+
+“He’s back,” said Lyra. “Since Saturday. My father says our family stands very high in his favour. Higher than he’d dared to hope.” She folded the letter again, along the same creases. “Thanks in no small measure to me. My errand in November was a piece of a great work, he says, and he knows whose hand carried it.”
+
+“Lyra—”
+
+“You’re going to let me finish,” said Lyra. “You owe me that, at the very least, and you know it.”
+
+He stopped.
+
+“My family is in it,” she said. “All the way in. They were in it before I ever went up that gangplank, and I carried it up there for them, and now they’re in his favour because of me. That’s the first thing.” She put the letter back into her sleeve. “And I lied to you. In the classroom, with the moon on the lake, when I’d made you swear. You kept your word and I lied to you, and I am not going to tell you what about. Not now. Probably not ever. That’s the second thing.”
+
+He took a step towards her through the straw, and she held up one hand, and he stopped again.
+
+“And the third thing is you.” Her voice was quite steady. She did not know how. “You had me on credit for four years, Potter, and you never once told me the terms. You knew what I’d be before I was it. You moved me about like a piece on a board, from the first night, knowing exactly what every square was for, and the only reason I ever got anywhere you didn’t expect is that you didn’t know me. That was all I was to you, at the start. The one piece you couldn’t read.”
+
+“That isn’t—”
+
+“Isn’t it?”
+
+He did not finish.
+
+“I can’t be with you,” said Lyra.
+
+It was very simple, said aloud. She had thought it would be harder. It came out quite cleanly into the cold air of the Owlery, and the owls looked down at it, and nothing in the room fell down.
+
+“They’ll want things from you,” said Potter. He said it fast and low, as though he had known for some time that he would have to say it and had worked out the words in advance. “Your father, and him. They’ll want you to tell them things. About me, about Dumbledore. Let them. I’ll make sure you’ve got enough to give them—enough that they keep you, enough that you’re useful—and nothing that costs you anything. Nothing that can come back on you. I can do that. I can keep you safe inside it, Lyra. You only have to—”
+
+“Don’t push your luck, Potter.”
+
+He stopped.
+
+“I don’t need your protection,” said Lyra. “I never have. If I am going to be on the other side of this, then I shall be on the other side of it, all the way, as myself. I am not going to stand in my father’s house being handed scraps by you to feed to my own family, like a dog you’ve trained to fetch. I’d rather be nothing at all.”
+
+He looked at her for a long time.
+
+Then something in his face gave way, very slightly, and he looked, for a moment, exactly fourteen.
+
+“One more, then,” said Potter. “Standing up. You don’t have to.”
+
+She did not have to. She knew that. She stood by the door of the Owlery with her father’s letter in her sleeve and the ring warm on her finger, and looked at him in the straw, and for a moment did not move at all; and then she went across the floor to him, through the feathers and the light, and put her hands on his shoulders, and kissed him.
+
+It was not like the others. It was not quick, and it was not careful, and nobody needed stopping. His hands came up and held her arms, very hard, and she felt him shaking, or herself, and could not tell which; and all round them the owls sat in their rows in the evening light and watched, and did not make a sound.
+
+When it stopped, she did not step back at once.
+
+“It’s the last time,” said Lyra, against his collar.
+
+“We’ll see,” said Potter.
