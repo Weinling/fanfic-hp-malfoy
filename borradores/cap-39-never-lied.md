@@ -96,7 +96,7 @@ He said it to the floor first, and then he lifted his head and said it to her.
 
 “Yes. I have.”
 
-Lyra stood quite still by the door. She had known. She had known since Saturday night on a trampled lawn, and before that, if she was honest, since a beetle and a word; and it made no difference at all to hear it. It went into her like cold water all the same.
+Lyra stood by the door. She had known. She had known since Saturday night on a trampled lawn, and before that, if she was honest, since a beetle and a word; and it made no difference to hear it. It went into her like cold water all the same.
 
 “Not here,” said Potter. “Not this—it wasn’t this. Somewhere very like it.” He took his hands out of his pockets, and looked at them, as though he were not sure what to do with them, and put them back. “I don’t know how to say it so it doesn’t sound mad.”
 
@@ -104,7 +104,7 @@ Lyra stood quite still by the door. She had known. She had known since Saturday 
 
 He tried.
 
-He told it badly. He told it the way he had told her about the trunk, at Christmas, going back to put in things he had left out, as though he had never said it aloud to anybody and had no idea what order it went in. There had been another life. He had lived it. It had gone on a long way past where they were now, years past it; he did not say how far. And then he had been eleven, in a corridor, in the winter of their first year, with his scar splitting open and Quirrell walking past with a turban on, and he had remembered it. Not all at once. In pieces, like a dream you go on remembering all morning. That February he had been a boy who had never heard the word *Mudblood* in his life; by Easter he had known nearly all of it.
+He told it badly, as he had told her about the trunk at Christmas. There had been another life. He had lived it. It had gone on a long way past where they were now, years past it; he did not say how far. And then he had been eleven, in a corridor, in the winter of their first year, with his scar splitting open and Quirrell walking past with a turban on, and he had remembered it. Not all at once. In pieces, like a dream you go on remembering all morning. That February he had been a boy who had never heard the word *Mudblood* in his life; by Easter he had known nearly all of it.
 
 “Everything,” said Lyra.
 
@@ -138,7 +138,7 @@ He did not say what. She did not ask. She stood by the door with her back agains
 
 “Can’t.” He held her eyes. “That one I can’t. Not won’t. It isn’t— Lyra, I can’t. Not yet.”
 
-It was the word he had used at Hallowe’en, she remembered, in an empty classroom, when she had asked him whether he had known about the Goblet. *Can’t.* She had thought then that he meant somebody had forbidden him. He had not meant that at all. He had meant that if he said yes, he would have had to tell her how.
+It was the word he had used at Hallowe’en, she remembered, in an empty classroom, when she had asked him whether he had known about the Goblet. *Can’t.* She had thought then that he meant somebody had forbidden him. He had not meant that. He had meant that if he said yes, he would have had to tell her how.
 
 “Dumbledore knows,” she said.
 
@@ -168,7 +168,7 @@ He went still.
 
 “Then why?”
 
-He looked at her for a long time before he answered, and when he did, he did not try to make it sound better than it was.
+He looked at her before he answered, and when he did, he did not try to make it sound better than it was.
 
 “Because if I’d stopped it,” said Potter, “I’d have stopped knowing what came next. That’s all I had. Knowing. If I changed one big thing, everything after it would come out different, and I’d be as blind as everybody else, and I wasn’t— I didn’t dare. Not with him coming back.” He swallowed. “And I needed it. The diary. I needed it to happen the way it happened, so I could get it, and the fang. You can’t— there aren’t many things that will break one of those. That was one.”
 
@@ -246,17 +246,17 @@ It was very simple, said aloud. She had thought it would be harder. It came out 
 
 He stopped.
 
-“I don’t need your protection,” said Lyra. “I never have. If I am going to be on the other side of this, then I shall be on the other side of it, all the way, as myself. I am not going to stand in my father’s house being handed scraps by you to feed to my own family, like a dog you’ve trained to fetch. I’d rather be nothing at all.”
+“I don’t need your protection,” said Lyra. “I never have. If I am going to be on the other side of this, then I shall be on the other side of it, all the way, as myself. I am not going to stand in my father’s house being handed scraps by you to feed to my own family, like a bird you’ve trained to come to the window. I’d rather be nothing at all.”
 
-He looked at her for a long time.
+He looked at her.
 
 Then something in his face gave way, very slightly, and he looked, for a moment, exactly fourteen.
 
 “One more, then,” said Potter. “Standing up. You don’t have to.”
 
-She did not have to. She knew that. She stood by the door of the Owlery with her father’s letter in her sleeve and the ring warm on her finger, and looked at him in the straw, and for a moment did not move at all; and then she went across the floor to him, through the feathers and the light, and put her hands on his shoulders, and kissed him.
+She did not have to. She knew that. She stood by the door of the Owlery with her father’s letter in her sleeve and the ring warm on her finger, and looked at him in the straw, and for a moment did not move; and then she went across the floor to him, through the feathers and the light, and put her hands on his shoulders, and kissed him.
 
-It was not like the others. It was not quick, and it was not careful, and nobody needed stopping. His hands came up and held her arms, very hard, and she felt him shaking, or herself, and could not tell which; and all round them the owls sat in their rows in the evening light and watched, and did not make a sound.
+It was slow, and not careful. His hands came up and held her arms, very hard, and she felt him shaking, or herself, and could not tell which; and all round them the owls sat in their rows in the evening light and watched, and did not make a sound.
 
 When it stopped, she did not step back at once.
 
