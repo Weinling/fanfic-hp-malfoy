@@ -2,7 +2,7 @@
 
 From the top of the stands the maze looked like writing.
 
-It had been growing all month, a quarter of an inch at a time and then, in the last week, a foot a night, and now in the long June dusk it stood twenty feet high across the whole of the Quidditch pitch: dark, dense, close-clipped walls of hedge, ruled out in lines that turned and crossed and doubled back on themselves and went nowhere, and somewhere in the middle of them, on a plinth, a small blue glimmer that was the Cup. From up here you could see the whole shape of it. You could see every turning. What you could not see was anything that was in it.
+It had been growing all month, slowly and then, in the last week, a foot a night, and now in the long June dusk it stood twenty feet high across the whole of the Quidditch pitch: dark, dense, close-clipped walls of hedge, ruled out in lines that turned and crossed and doubled back on themselves and went nowhere, and somewhere in the middle of them, on a plinth, a small blue glimmer that was the Cup. From up here you could see the whole shape of it. You could see every turning. What you could not see was anything that was in it.
 
 “The Cup,” Bagman was saying, through his megaphone, from the judges’ podium at the edge of the grass, “will bring its winner back to us here, ladies and gentlemen, right here, the moment it is touched! So keep your eyes on this podium! The first champion to lay a hand on it—”
 
@@ -12,7 +12,7 @@ It was purple. It had gone purple at half past seven, when the champions came ou
 
 *On guard.*
 
-She had seen it purple before, all one night in August, behind her bed-hangings at the Manor, the night of the World Cup. It had not frightened her then as much as it frightened her now, and she could not have said why, except that then she had been a hundred miles off in a four-poster bed, and now she was here, and he was down there.
+She had seen it purple before, all one night in August, behind her bed-hangings at the Manor, the night of the World Cup. It frightened her more now, because then she had been a hundred miles off in a four-poster bed, and now she was here, and he was down there.
 
 The whistle went.
 
@@ -26,7 +26,7 @@ The ring stayed purple.
 
 It was a little after nine when the first red sparks went up out of the maze, on the western side, high and bright against the dark blue sky.
 
-The stands went up with them. Lyra was on her feet before she had looked at the ring; then she looked at it, and it was purple still, not red, not red at all, and she sat down again rather fast with her hand pressed flat over it.
+The stands went up with them. Lyra was on her feet; then she looked at the ring, and it was purple still, not red, not red at all, and she sat down with her hand pressed flat over it.
 
 “Delacour,” said somebody along the bench. “It’s Delacour, look, they’re bringing her out—”
 
@@ -54,7 +54,7 @@ It was blue-white and very sudden, like a cracker going off, and when it had gon
 
 It was Potter.
 
-He was alone. He had the Cup in his left hand, gripped by one of its handles so hard that she could see it from the top of the stand, and his wand up in his right; and he was not standing, quite. He was crouched, low, with his knees bent and his weight on the balls of his feet, the way a man stands who expects the ground to go out from under him; and he was turning. He turned all the way round on the spot, slowly, with his wand held out in front of him, looking: at the judges’ table, at the stands, at the black edge of the Forest beyond them, at the sky. He was looking for something. Lyra watched him look, all the way round, and come back to where he had started, and not find it.
+He was alone. He had the Cup in his left hand, gripped by one of its handles so hard that she could see it from the top of the stand, and his wand up in his right; and he was not standing, quite. He was crouched, low, with his knees bent and his weight on the balls of his feet, braced for the ground to go out from under him; and he was turning. He turned all the way round on the spot, slowly, with his wand held out in front of him, looking: at the judges’ table, at the stands, at the black edge of the Forest beyond them, at the sky. He was looking for something. Lyra watched him look, all the way round, and come back to where he had started, and not find it.
 
 Then he looked down at the Cup in his hand.
 
@@ -64,13 +64,13 @@ The stands had not made a sound. Then Bagman found his voice.
 
 “Harry Potter!” he roared, into the megaphone. “Harry Potter, ladies and gentlemen—the Triwizard Champion!”
 
-The Gryffindors went up first. Then the rest of the stands, raggedly, not all at once, as a crowd does when it has been given the answer to something and is not sure it has heard the question right. Potter lowered his wand. He did not lower it very far.
+The Gryffindors went up first. Then the rest of the stands, raggedly, as a crowd does when it has been given the answer to something and is not sure it has heard the question right. Potter lowered his wand. He did not lower it very far.
 
 On Lyra’s finger, under her thumb, the ring went green.
 
 *Safe.*
 
-She stared at it. She looked back at the podium, where Potter was standing with the Cup in one hand and his wand in the other and the cheers coming down round him like rain, with the face of somebody who has been told he is safe by a person he has stopped believing; and then the cheering at the Hufflepuff end of the stands changed its note, and broke, and turned into something else.
+She stared at it. She looked back at the podium, where Potter was standing with the Cup in one hand and his wand in the other, still up, and the cheers coming down round him like rain; and then the cheering at the Hufflepuff end of the stands changed its note, and broke, and turned into something else.
 
 Cedric Diggory had come out of the maze.
 
@@ -82,21 +82,19 @@ The Hufflepuffs began to boo.
 
 It started at their end of the stands, low and ugly, and spread. It went along the Ravenclaw benches, some of them, and a few of the Durmstrang boys took it up for the noise of the thing. The Gryffindors cheered louder to drown it, and that made it worse. In the middle of it, down on the grass, Professor Sprout had reached Diggory and had an arm round him, and he was still shouting, and pointing; and up on the podium, Potter stood with the Cup in his hand and looked at Diggory, and did not say anything, and did not look away.
 
-He had won the Triwizard Tournament. He had won it in the ugliest way it was possible to win anything, in front of three schools and the Ministry of Magic, and he did not look as though he had won anything.
+He had won the Triwizard Tournament, in the ugliest way it was possible to win anything, in front of three schools and the Ministry of Magic.
 
 “He cheated,” whispered Crabbe, beside her. “Didn’t he? He—”
 
 “He won,” said Lyra.
 
-She was remembering a tent. A bench at the back of it, and a dragon outside, and Bagman’s voice coming through the canvas, *one step nearer the Triwizard Cup!*; and a boy who had sat through all the roaring without once turning his head, and had turned it then, at that, towards the voice, and kept it there a moment too long, as people do when somebody across a crowded room says a name they know.
+She was remembering a tent. A bench at the back of it, and a dragon outside, and Bagman’s voice coming through the canvas, *one step nearer the Triwizard Cup!*; and a boy who had sat through all the roaring without once turning his head, and had turned it then, at that, towards the voice, and kept it there a moment too long.
 
 She had thought it was what being a champion did to a person.
 
-She held that, and looked at him on the podium with the Cup in his hand, and put the two of them side by side, and did not know yet what they made.
-
 ⁂
 
-Then the stands began to empty on to the grass, as stands do, all at once, and Lyra went down with them.
+Then the stands began to empty on to the grass, and Lyra went down with them.
 
 Crabbe had let go of her hand to stand up, and then the whole Slytherin bench was moving, and the steps were full of people going down, and she was among them, going down too, with Crabbe somewhere behind her saying *Malfoy* and *wait*. At the bottom the crowd spread out across the trampled grass towards the podium like water finding a level, Gryffindors in front, shouting, and Ministry wizards trying to hold them back, and Lyra went through all of it as she went through crowds at her father’s parties, sideways, without touching anybody, until there was nobody between her and the edge of the judges’ platform but two Ministry men with their backs to her.
 
@@ -130,7 +128,7 @@ He let go of Potter’s hand. He turned his head, very stiffly, and looked at th
 
 “Then it will have to be examined. Interference with a champion in the course of a task.” Mr Crouch went to the crate and put both hands on it. “The Department will see to it. I shall take it myself.”
 
-Nobody argued. Bagman opened his mouth and shut it. Dumbledore looked at Mr Crouch over his half-moon spectacles, for a moment, with an expression Lyra could not see; and then a whole crowd of Gryffindors broke through the Ministry men at the other end of the platform and swarmed up on to the boards shouting Potter’s name, and in the noise and the press of it Mr Crouch lifted the crate in both arms, and walked away along the edge of the platform with it, very straight, past where Lyra was standing.
+Nobody argued. Bagman opened his mouth and shut it. Dumbledore looked at Mr Crouch over his half-moon spectacles, for a moment, with an expression Lyra could not see; and then a whole crowd of Gryffindors broke through the Ministry men at the other end of the platform and swarmed up on to the boards shouting Potter’s name, and in the noise and the press of it Mr Crouch lifted the crate in both arms, and walked away along the edge of the platform with it, very straight, past where Lyra was standing. Potter took a step after him, on the bad leg, and the leg went, and the Gryffindors were on him.
 
 He passed within a yard of her. She saw his face quite clearly, in the light of a dozen wands.
 
@@ -144,9 +142,11 @@ Mr Crouch walked on down the steps of the platform with the crate in his arms an
 
 Lyra stood where she was.
 
+She looked for Dumbledore on the platform, and found him, three yards off, with his back to her, bending over Potter. She thought of the north, and her father’s green wax, and a word she had said in a classroom with the moon on the lake; and she did not go.
+
 On the podium, over the heads of the Gryffindors, Potter had turned. He was not looking after Crouch. He was looking at her.
 
-He had found her in a crowd of several hundred people as if there had been nobody else on the pitch, and he looked at her across all their heads, with his weight off his bad leg and the Cup in his arms and the blanket sliding off one shoulder. She had not spoken to him, except across a classroom, since a desk on the third floor and a single word. He did not smile. He only looked, for as long as it took Weasley to reach him and throw an arm round his neck, and then he turned his head and was gone into the red and gold.
+He had found her over several hundred heads, and he looked at her across all of them, with his weight off his bad leg and the Cup in his arms and the blanket sliding off one shoulder. She had not spoken to him, except across a classroom, since a desk on the third floor and a single word. He did not smile. He only looked, for as long as it took Weasley to reach him and throw an arm round his neck, and then he turned his head and was gone into the red and gold.
 
 ⁂
 
@@ -154,11 +154,13 @@ They went back up to the castle in a long, noisy, lantern-lit stream, and Lyra w
 
 At the foot of the slope she looked back.
 
-The stands were emptying. The maze stood dark and enormous behind them, with its writing that meant nothing, and the podium was a little lit island at the edge of it, with a few Ministry wizards still on it and Bagman talking to one of them with his arms going. Up in the staff stand, at the end of the front row, somebody had not moved.
+The stands were emptying. The maze stood dark and enormous behind them, and the podium was a little lit island at the edge of it, with a few Ministry wizards still on it and Bagman talking to one of them with his arms going. Up in the staff stand, at the end of the front row, somebody had not moved.
 
-It was Professor Snape. He was on his feet, but only just. He was standing with his right hand clamped round his left forearm, over the sleeve, so tightly that she could see it from the bottom of the slope, and his face in the lantern-light had gone a colour she had never seen a living face go, a dreadful yellowish white, like old candle-wax. As she watched, he closed his eyes. He stood quite still in the emptying stand, holding his own arm, with his eyes shut, as a man stands who has just heard something a long way off that nobody else can hear.
+It was Professor Snape. He was on his feet, but only just. He was standing with his right hand clamped round his left forearm, over the sleeve, so tightly that she could see it from the bottom of the slope, and his face in the lantern-light had gone a colour she had never seen a living face go, a dreadful yellowish white, like old candle-wax. As she watched, he closed his eyes. He stood in the emptying stand, holding his own arm, with his eyes shut, listening.
 
 Then he opened them, and let go of his arm, and walked down out of the stand and away towards the castle, very fast, without looking at anybody.
+
+She had seen a man hold his arm like that once before, in a cabin, with the lamp swinging.
 
 Lyra looked along the judges’ table, from habit.
 
