@@ -38,21 +38,21 @@ She sat on Lyra’s other side, sewing a button back on her cardigan with her to
 
 Lyra turned a page she had not read.
 
-Crabbe, she thought, had stopped asking her things she already knew the answer to. She could not remember when. That was the trouble with Crabbe. You never saw her do anything; you only looked up and found it done.
+Crabbe, she thought, had stopped asking her things she already knew the answer to. She could not remember when. You never saw Crabbe do anything. You only looked up and found it done.
 
 ⁂
 
 Professor Dumbledore’s chair at the staff table had been empty since the night of the dragons. Nobody had said why. Professor McGonagall, asked at breakfast on the Friday by a Hufflepuff prefect who was braver than he looked, had said “The Headmaster has been called away,” in a voice that closed the subject and locked it; and Potter, who had gone into the hospital wing on the Thursday night with a hole in his shoulder, had come out of it on the Friday morning without one, and was eating toast at the Gryffindor table as though dragons were something that happened to other people.
 
-So on Tuesday morning, when Goyle came down late with the *Daily Prophet* folded open in both hands and a face like a burst pipe, there was no Headmaster to look up from the staff table and see it.
+So on Tuesday morning, when the post came and Montague unfolded his *Daily Prophet* and said a word that would have cost him ten points anywhere else, there was no Headmaster to look up from the staff table and see it.
 
-“Rita Skeeter,” said Goyle. “*Again.*”
+“Rita Skeeter,” said Montague, and looked down the table at Lyra. “*Again.*”
 
-Lyra held out her hand for it. She had found, the last time, that it was better to read these things oneself than to have them read aloud by Goyle, who did the voices.
+Lyra held out her hand for it. She had found, the last time, that it was better to read these things oneself than to have them read aloud, with the voices.
 
 **HARRY POTTER: A TRIANGLE?**
 
-*It is barely a week since this paper brought its readers the touching story of Harry Potter and his devoted Hermione Granger, and already this correspondent can reveal that the Boy Who Lived has a secret even closer to his heart.*
+*It is barely a week since this paper brought its readers the touching story of the youngest champion’s attachment to Miss Hermione Granger (owing to a regrettable error, attributed in some copies to a member of staff), and already this correspondent can reveal that the Boy Who Lived has a secret even closer to his heart.*
 
 *Before the First Task, while his fellow champions waited in grim silence, young Harry was overheard whispering sweet nothings to an unseen companion by means of a long-range Listening Charm. They were apart in body, it seems, but not in spirit. The companion was identified to this correspondent, by a fellow student, as none other than the Princess of Slytherin herself: Miss Lyra Malfoy, daughter of Lucius Malfoy, whose family needs no introduction.*
 
@@ -126,9 +126,9 @@ She did not think she would tell anybody. Not Crabbe. Not Potter, either; not ye
 
 She walked on.
 
-It was not the article she minded, not really. She minded the Ball.
+The article she could bear. It was the Ball she minded.
 
-She had known for a month what she would look like at it. She had not told herself so in as many words, but she had known: which way her hair would go, and that her mother would choose the robes, and that she would come down the marble staircase a little after everybody else, so that the Hall had time to turn round. That part was old. She had always meant to be the best-looking girl in any room she walked into, and she generally was.
+She had known what she would look like at it since Thursday night, in the time it took to read the notice twice. She had not told herself so in as many words, but she had known: which way her hair would go, and that her mother would choose the robes, and that she would come up the dungeon steps a little after everybody else, so that the Entrance Hall had time to turn round. That part was old. She had always meant to be the best-looking girl in any room she walked into, and she generally was.
 
 The new part was smaller, and worse, and she had not known it was there until this morning, when Rita Skeeter took it away. She had wanted him to see her first. Before the Hall, before anybody. She had wanted to watch his face do whatever it was going to do, and then to take his arm as if she had not noticed.
 
@@ -140,9 +140,9 @@ The wind came off the lake and found the back of her neck, and Lyra put her coll
 
 The ring began in Charms.
 
-It was in her pocket, where it lived now, and halfway through Cheering Charms it started up against her fingers: warm, and then cool, and then warm again. The other one was looking for her. Twice in October she had felt it do that and gone the other way.
+It was in her pocket, where it lived now, and halfway through Cheering Charms it started up against her fingers: warm, and then cool, and then warm again. The other one was looking for her. Twice in October she had felt it do that and gone the other way, and on Hallowe’en she had stopped going the other way.
 
-This time she went. When the bell rang she let Crabbe and Goyle go on down to lunch, and turned on the stairs with her hand in her pocket until the ring grew warm towards the first floor, and followed it to the classroom with the bad window, where a door that had been shut that morning stood an inch open.
+When the bell rang she let Crabbe and Goyle go on down to lunch, and turned on the stairs with her hand in her pocket until the ring grew warm towards the first floor, and followed it to the classroom with the bad window, where a door that had been shut that morning stood an inch open.
 
 Potter was sitting on a desk with his feet on a chair. He did not get up.
 
@@ -180,7 +180,7 @@ She was at the door with her hand on it when he said, “Wait.”
 
 She did not turn round. She waited, which was not the same thing.
 
-She had said it quite lightly, like a list of errands. She heard it now from the inside of his silence, the way he must have heard it: the robes, and the scent, and the hair. A month of it. She had not meant him to hear any of that, or she had, and she found she did not know which, and that she was not going to look at him until she did.
+She had said it quite lightly, like a list of errands. She heard it now from the inside of his silence, the way he must have heard it: the robes, and the scent, and the hair, and five days of thinking about nothing else. She had not meant him to hear any of that, or she had, and she found she did not know which, and that she was not going to look at him until she did.
 
 “Lyra,” said Potter. “Do you trust me?”
 
@@ -188,7 +188,7 @@ That made her turn.
 
 “Why on earth would I?”
 
-He laughed. It was not his loud laugh; it came out of him short and surprised, as if she had trodden on his foot and he had found he did not mind.
+He laughed, short and surprised, nothing like his loud laugh, as if she had trodden on his foot and he had found he did not mind.
 
 “Thanks,” he said. “Honestly. Look. I’ll sort something out. I don’t know what yet, but I will. Only go with Krum.” He held up a hand before she could speak. “Or look as if you are. Let everybody think you are. Can you do that?”
 
