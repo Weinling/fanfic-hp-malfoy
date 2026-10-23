@@ -53,3 +53,43 @@ He did not come round the corner of the greenhouses.
 Lyra stopped at the top of the slope, out of sight of the ship, and put her hand in her pocket and took hold of the ring, and for once she did the looking. She held it in her fist and thought, quite hard, of a boy on a desk with his feet on a chair, and waited for it to warm towards him.
 
 It did not warm. It did not pulse. When she opened her hand it was lying in her palm exactly as it had come out of the box in Zonko’s: plain silver, and cold, and pointing nowhere at all.
+
+⁂
+
+He was not at dinner.
+
+The Great Hall was fuller than it usually was at Christmas, since nobody from the fourth year up had gone home who could possibly avoid it, and the Gryffindor table was a long, noisy stretch of red and gold with Weasley at the middle of it, eating, and Granger beside him, not eating, with a book propped against the water jug. Lyra looked once, as one looks at a clock. There was a space on Granger’s other side where nobody sat.
+
+He was not at breakfast on Friday either.
+
+She found them in the library afterwards, at the table by the window, Granger behind a wall of books and Weasley in front of a sheet of parchment with nothing on it, looking as if he had been sentenced to it. The library was nearly empty. Madam Pince was dusting something at the far end with the expression of a woman who would rather be dusting it in an empty building.
+
+“Where is he?”
+
+Weasley looked up. “Who?”
+
+“Don’t,” said Lyra.
+
+Weasley opened his mouth, and Granger kicked him under the table, and he shut it again and looked aggrieved.
+
+“He’s gone off for a few days,” said Granger. “With his godfather. It was something for Dumbledore, he said.”
+
+“It’s the holidays, Malfoy,” said Weasley. “People go places.”
+
+“He told you that.”
+
+“Wednesday night.” Weasley shrugged. “After dinner. Said not to make a fuss.”
+
+Granger said, “He said he’d be back for the Ball,” and looked down at her book while she said it, and turned a page she had not finished, and Lyra, who knew precisely what it looked like when a person was keeping something back, saw her do it, and could not for the life of her think what it was.
+
+“Did he,” she said, and left them.
+
+In the corridor outside, where there was nobody, she took the ring out of her pocket and put it on.
+
+She had not worn it on her hand since August. It went on to the fourth finger of her left hand, where he had put it under a cloister in May, and it sat there, cool and a little too loose, the plainest thing she owned.
+
+It had worked all summer. That was the thing she kept coming back to, all that Friday morning, through a lunch she did not eat and an afternoon she spent walking. Every night at nine, behind the hangings of her bed at the Manor, it had told her how he was, from Surrey to Wiltshire, a hundred miles and more: purple at four in the morning, gold at a quarter past two, green by breakfast. Distance had never troubled it in the least. She had read the slip in Zonko’s and remembered every line of it, because she remembered everything she read, and she went through it now, colour by colour. Red, for mortal danger. Purple. Gold. Green. The slip said what each one meant, and which way to look.
+
+It did not say anything about a ring that stopped. It did not say what colour a ring went when the person wearing the other one was dead.
+
+She looked down at her hand perhaps a hundred times that day. It was silver every time.
