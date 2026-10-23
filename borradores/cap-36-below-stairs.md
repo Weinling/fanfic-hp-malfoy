@@ -56,7 +56,7 @@ The Hogsmeade weekend was the second Saturday in March, and it was the first tim
 
 It was not, Lyra decided, at all what she had imagined. She had imagined it a great many times, in the summer, behind her bed-hangings, and in every version they had been alone. In none of them had Weasley been there, walking on Potter’s other side with his hands in his pockets, complaining about the Chudley Cannons, and Granger behind them reading a book as she walked and somehow never falling into a puddle; and in none of them had half the school been coming down the drive behind them in a long, cheerful, staring procession, with Parkinson somewhere in the middle of it telling anybody who would listen that it was all for her father.
 
-She found she did not mind as much as she would have expected. She minded Weasley, a little.
+She did not mind as much as she would have expected. She minded Weasley, a little.
 
 The Three Broomsticks was as hot and crowded and loud as it had been the first time, in her third year, when she had come in out of the rain and seen Potter across the room and not looked at him for an hour. Today he went to the bar for four butterbeers and came back with them, and sat down next to her at a table in the middle of the room where everybody could see, and the whole pub watched him do it. A table of Ravenclaws by the window had stopped talking altogether. Two Slytherin sixth-years at the bar were looking at her as though she had come in wearing a hat made of cabbages.
 
@@ -86,7 +86,7 @@ Weasley took his hand out of his pocket, empty. Granger, without looking up from
 
 “Nobody’s. I’m reading.”
 
-They argued about it for ten minutes, and then about the Chudley Cannons for another ten, and then about whether Krum would have caught the Snitch at the World Cup if Lynch had not hit the ground first, which was not an argument at all since Lyra had been in the top box and Weasley had been in the row in front of her, and they both knew perfectly well what had happened; and somewhere in the middle of it Lyra realised that she was enjoying herself. It was a peculiar feeling. She had quarrelled with Weasley at intervals for nearly four years, on staircases and in the grounds and on the gravel outside the doors, and every one of those quarrels had been meant. This one was not. They were both doing it because it was what they did, the way two dogs from neighbouring houses go to the fence every morning to bark at each other, and would be lost without it.
+They argued about it for ten minutes, and then about the Chudley Cannons for another ten, and then about whether Krum would have caught the Snitch at the World Cup if Lynch had not hit the ground first, which was not an argument at all since Lyra had been in the top box and Weasley had been in the row in front of her, and they both knew perfectly well what had happened; and somewhere in the middle of it Lyra realised that she was enjoying herself. It was a peculiar feeling. She had quarrelled with Weasley at intervals for nearly four years, on staircases and in the grounds and on the gravel outside the doors, and every one of those quarrels had been meant. This one was not. They were both doing it because it was what they did, like two old men on a village bench who would be lost without the other one to be wrong.
 
 She thought of saying so, and decided he would take it badly, and said instead that the Chudley Cannons had not won a match since the reign of Queen Victoria, which he took worse.
 
@@ -98,7 +98,7 @@ When they came out it had begun, very lightly, to rain, the fine silvery rain of
 
 They were outside the post office. Lyra had stopped to pull her hood up, and Potter had stopped because she had, and he looked at her, in the rain, with drops on his glasses and the High Street going past on either side of them; and then he bent his head and kissed her.
 
-It was very short. It was not for luck, or to stop her saying anything, or because there was a dragon. It was in the middle of Hogsmeade on a wet Saturday afternoon, between the post office and a shop that sold quills, and there was no reason for it at all.
+It was very short. It was not for luck, or to stop her saying anything, or because there was a dragon. It was in the middle of Hogsmeade on a wet Saturday afternoon, between the post office and a shop that sold quills, and there was no reason for it.
 
 “Oh, *honestly*,” said Weasley, from the window of Dervish and Banges.
 
@@ -106,6 +106,6 @@ Lyra stepped back, and straightened her hood.
 
 “Not,” she said, with great dignity, “in front of the post office.”
 
-“Right,” said Potter. “Sorry.” He did not look sorry. He looked as if somebody had given him something, and he had not expected it, and did not know where to put it. “Where, then?”
+“Right,” said Potter. “Sorry.” He did not look sorry. “Where, then?”
 
 Lyra walked on up the street without answering, with her hood up and her face perfectly composed, and did not look back to see whether he was following, because she could hear that he was.
