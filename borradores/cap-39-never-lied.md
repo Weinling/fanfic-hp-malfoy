@@ -62,9 +62,9 @@ He did not move.
 
 The owls shifted on their perches.
 
-“You knew a hippogriff was going to go for somebody, the week after, before it had so much as lifted a claw. You were on your knees beside it before anybody else had moved. You told me to feed a dog, on a train, before you had ever met it; and when I met it, it was starving, exactly as you said. You knew what Flint was going to do with that match before Flint had thought of it, and he only thought of it at lunch. You went out on Hallowe’en and came back and said *just missed him*, and I thought you meant you were unlucky. You weren’t unlucky. You were early. You knew what night he would come.”
+“You knew a hippogriff was going to go for somebody before it had so much as lifted a claw. You were on your knees beside it before anybody else had moved. You told me to feed a dog, on a train, before you had ever met it; and when I met it, it was starving, exactly as you said. You knew what Flint was going to do with that match before Flint had thought of it, and he only thought of it at lunch. You went out on Hallowe’en and came back and said *just missed him*, and I thought you meant you were unlucky. You weren’t unlucky. You were early. You knew what night he would come.”
 
-She had not raised her voice. She found that she did not need to; she had been saying it in her head for two days and nights, and it came out of her in order, one piece after another, like coins counted on to a table.
+She had not raised her voice. She had been saying it in her head for two days and nights, and it came out in order, one piece after another.
 
 “You stood on a pitch in November with your wand already out and looked at the gates and said *rotten weather, I’ll be quick*. And there were Dementors. You came and found me at the World Cup in the middle of the night, under a cloak, and told me to go back to my mother and stay with her, and an hour later there were Muggles in the air over the tents.” She took a breath. “You were *sure* about Moody. You told me so. You were so sure that you broke into his office with a wanted man, and you were wrong; and you still couldn’t tell me why you’d been sure. You knew about the beetle, when I’d told nobody, not one living soul. You knew Krum would ask Granger a month before Krum did. When I solved your egg for you, you weren’t surprised. You were pleased. Not surprised. And you said a dead man was dead twice, and you have never in your life needed to say anything twice.”
 
@@ -87,3 +87,61 @@ The wind came in at the window and lifted the straw round his feet.
 It was not a question. She had meant it to be one. It came out flat, like the last line of a sum, and stayed in the air between them, and all round the walls the owls looked down at it with their great round eyes, and nobody in that room said anything for a long time.
 
 He did not deny it.
+
+⁂
+
+“Yes,” said Potter.
+
+He said it to the floor first, and then he lifted his head and said it to her.
+
+“Yes. I have.”
+
+Lyra stood quite still by the door. She had known. She had known since Saturday night on a trampled lawn, and before that, if she was honest, since a beetle and a word; and it made no difference at all to hear it. It went into her like cold water all the same.
+
+“Not here,” said Potter. “Not this—it wasn’t this. Somewhere very like it.” He took his hands out of his pockets, and looked at them, as though he were not sure what to do with them, and put them back. “I don’t know how to say it so it doesn’t sound mad.”
+
+“Try.”
+
+He tried.
+
+He told it badly. He told it the way he had told her about the trunk, at Christmas, going back to put in things he had left out, as though he had never said it aloud to anybody and had no idea what order it went in. There had been another life. He had lived it. It had gone on a long way past where they were now, years past it; he did not say how far. And then he had been eleven, in a corridor, in the winter of their first year, with his scar splitting open and Quirrell walking past with a turban on, and he had remembered it. Not all at once. In pieces, like a dream you go on remembering all morning. He had been a boy who did not know what a Mudblood was on the Tuesday, and on the Thursday he had known everything.
+
+“Everything,” said Lyra.
+
+“Nearly everything. Not you.”
+
+She waited.
+
+“You weren’t there,” said Potter. “In the other one. There wasn’t any Lyra Malfoy. There was a Malfoy in our year, but it wasn’t you.” He looked at her steadily. “It was Draco.”
+
+The owls had gone quiet.
+
+“He was in Madam Malkin’s,” said Potter, “the day I got my robes. On a stool, being pinned. He talked at me the whole time about Quidditch and Houses and people who oughtn’t to be let in. He offered me his hand on the train and I said no. He was in Slytherin, and he hated me, and I hated him, for seven years.” He stopped. “That’s why I couldn’t stop looking at you. When I came back. When it all came back, in that corridor, and I went down to breakfast the next morning knowing exactly who everybody was, and what they were going to do, and how most of them were going to die—and there was a girl sitting at the Slytherin table where Draco ought to have been, and I didn’t know one single thing about her.”
+
+Lyra could not have spoken if she had tried.
+
+“You said once,” she managed at last, “that Draco hadn’t done a thing to anybody.”
+
+“He hasn’t.” Potter’s voice was very quiet. “Not here. He’s ten, and he plays cards, and he writes you letters about Krum.”
+
+“And in yours?”
+
+“In mine,” said Potter, “he had.”
+
+He did not say what. She did not ask. She stood by the door with her back against the wood and looked at him, at the boy who had been sitting in the same rooms as her for four years with seven of them already behind his eyes, and tried to make the two fit, and could not.
+
+“How did it end?” she said. “Your other one.”
+
+“Can’t.”
+
+“*Can’t?*”
+
+“Can’t.” He held her eyes. “That one I can’t. Not won’t. It isn’t— Lyra, I can’t. Not yet.”
+
+It was the word he had used at Hallowe’en, she remembered, in an empty classroom, when she had asked him whether he had known about the Goblet. *Can’t.* She had thought then that he meant somebody had forbidden him. He had not meant that at all. He had meant that if he said yes, he would have had to tell her how.
+
+“Dumbledore knows,” she said.
+
+“Since second year. The summer before the cave.” He rubbed his face. “He’s the only one. Not Sirius. Not Ron, not Hermione. Him, and now you.”
+
+Him, and now you. He said it as though it were something he was giving her. She supposed it was.
