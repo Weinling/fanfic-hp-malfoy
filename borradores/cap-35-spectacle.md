@@ -36,7 +36,7 @@ The lake was grey and still, and frozen at the edges in thin plates that cracked
 
 “You won’t fall in.”
 
-She knelt down beside him on the rock, which was so cold it went straight through her robes, and took hold of the back of his collar with both hands. She took hold of it properly, his robes and the shirt underneath and a good deal of the jumper, and wound it round her fist, and braced her knees.
+She knelt down beside him on the rock. It was so cold it went straight through her robes. She took hold of the back of his collar with both hands. She took hold of it properly, his robes and the shirt underneath and a good deal of the jumper, and wound it round her fist, and braced her knees.
 
 “Go on.”
 
@@ -48,7 +48,7 @@ He came up gasping, with the egg shut in his hands and water pouring off his hai
 
 “Well?”
 
-“Hang on—” He coughed, and shook his head like a dog, which she did not appreciate, since most of it went on her. “There’s a song. Singing. Under the water, it’s singing.” He shut his eyes, to get it right. “*Come seek us where our voices sound.* Something about the surface— we can’t sing above it. *An hour long you’ll have to look, to recover what we took.*”
+“Hang on—” He coughed, and shook his head hard, and most of it went on her. “There’s a song. Singing. Under the water, it’s singing.” He shut his eyes, to get it right. “*Come seek us where our voices sound.* Something about the surface— we can’t sing above it. *An hour long you’ll have to look, to recover what we took.*”
 
 “What you’ll sorely miss,” said Lyra.
 
@@ -94,7 +94,7 @@ It was the cashmere one, grey, the one his owl had once tried to eat in the Owle
 
 ⁂
 
-Professor McGonagall came for her on the Thursday night, at a quarter past eight, which was the first time in four years that any Head of House but Professor Snape had set foot in the Slytherin common room.
+Professor McGonagall came for her on the Thursday night, at a quarter past eight. It was the first time in four years that any Head of House but Professor Snape had set foot in the Slytherin common room.
 
 The room went silent. McGonagall stood just inside the door in her tartan dressing gown, with her hair in its net, and looked round it as though she were counting the exits, and said, “Miss Malfoy. A word, if you please,” and went back out into the corridor without waiting to see whether Lyra would come.
 
@@ -124,11 +124,11 @@ No.
 
 “I see,” said Professor McGonagall.
 
-She looked at Lyra for a moment longer than she needed to, over the top of her square spectacles, with an expression that Lyra could not read at all; and then, quite suddenly, it changed, and for an instant it looked almost like approval.
+She looked at Lyra for a moment longer than she needed to, over the top of her square spectacles, with an expression that Lyra could not read; and then, quite suddenly, it changed, and for an instant it looked almost like approval.
 
 “Very well, Miss Malfoy. I shall tell the Headmaster.” She drew her dressing gown round her. “I believe Mr Weasley will do very well instead. He is unlikely to have any objection to an hour’s sleep.”
 
-She went away down the dungeon corridor, with her slippers making no sound at all on the stone.
+She went away down the dungeon corridor, with her slippers making no sound on the stone.
 
 Lyra stood outside the wall for a while, with her arms folded.
 
@@ -160,7 +160,7 @@ Then the sound reached them across the water: a far-off crack, and a long tinkli
 
 It was. Harry Potter had flown a Firebolt through the window of the Potions master’s private office in the middle of the second task, in front of the whole school and two foreign ones and the *Daily Prophet*, and he was inside it now.
 
-Lyra sat quite still.
+Lyra took her hands out of her sleeves.
 
 She did not know what she felt. It was the office of her own Head of House, the one room in the castle into which no Slytherin had ever gone uninvited and come out unmarked; it held, to her certain knowledge, a jar of something with eyes in it that she had dreamt about in her first year. He had smashed his way into it on a broomstick. It was the most outrageous thing she had ever seen a student do, and she had grown up hearing about her father’s schooldays.
 
@@ -188,7 +188,7 @@ The surface closed again.
 
 Lyra could not look at it. Every time she looked at it she thought of a boy who could not swim, gone into it on a broomstick with a mouthful of weed from Snape’s cupboard, and of what she had not told him on a rock a week ago, and her hands began to do things in her sleeves that she did not care for. So she stopped looking at the water, and looked at the judges instead, because they were the only other thing there was.
 
-Dumbledore, at the end of the table, with his hands folded on the gold cloth, watching the lake with an expression of mild and perfect patience. Madame Maxime, back in her seat, wrapping her own fur round her shoulders as though it were she who had been in the water. Karkaroff, beside her, leaning forward with his fists on his knees, watching for Krum. Bagman, on his feet, with the megaphone.
+Dumbledore, with his hands folded on the gold cloth, watching the lake with mild and perfect patience. Madame Maxime, wrapping her fur round her shoulders as though it were she who had been in the water. Karkaroff, with his fists on his knees, watching for Krum. Bagman, with the megaphone.
 
 And at the other end, a man she had never seen before.
 
@@ -198,7 +198,7 @@ He was not what she had expected. She had expected somebody hard and grand and f
 
 He did not move.
 
-That was the thing she noticed, after a while, and once she had noticed it she could not stop noticing it. Everybody else at that table moved. Bagman bounced. Karkaroff fidgeted, and muttered, and twice half rose out of his chair when something stirred out on the water. Even Dumbledore turned his head now and then, and once said something to Madame Maxime that made her laugh. Barty Crouch sat with his hands flat on the cloth and looked straight in front of him, at nothing, and did not turn his head towards the lake at all. Not when Fleur came up screaming. Not when the squid surfaced. Not once.
+That was the thing she noticed, after a while, and once she had noticed it she could not stop noticing it. Everybody else at that table moved. Bagman bounced. Karkaroff fidgeted, and muttered, and twice half rose out of his chair when something stirred out on the water. Even Dumbledore turned his head now and then, and once said something to Madame Maxime that made her laugh. Barty Crouch sat with his hands flat on the cloth and looked straight in front of him, at nothing, and did not turn his head towards the lake. Not when Fleur came up screaming. Not when the squid surfaced. Not once.
 
 He looked like a man waiting to be told that he might.
 
@@ -216,17 +216,17 @@ The hour went past. Bagman said so, into his megaphone, sounding worried. Nothin
 
 At an hour and four minutes, the lake broke open in front of the jetty and a Firebolt came out of it.
 
-It came out sideways and very low, streaming water, with a great deal more on it than it had been built for. Potter was flat along the handle, and in front of him, slumped across it with his arms round them, were Weasley, blinking and spluttering, and a small girl with silvery hair whom Lyra had never seen in her life. The broom laboured up to the jetty, and dumped all three of them on it in a heap, and lay down in the water beside them like a dog that has fetched a stick much larger than itself.
+It came out sideways and very low, streaming water, with a great deal more on it than it had been built for. Potter was flat along the handle, and in front of him, slumped across it with his arms round them, were Weasley, blinking and spluttering, and a small girl with silvery hair whom Lyra had never seen in her life. The broom laboured up to the jetty, and dumped all three of them on it in a heap, and settled in the water beside them, as though it had done its part and wished to hear no more about it.
 
 Fleur Delacour gave a shriek that could have been heard in Beauxbatons, and ran.
 
-Lyra was down out of the stand and on the bank before she had properly thought about it. She did not run. A Malfoy did not run on to a jetty in front of three schools. She walked, very fast, through the crowd of people in towels and people with blankets and Madam Pomfrey shouting about hypothermia, and stopped a yard from the end of the planks, where Potter was sitting up in a puddle with a blanket round him, coughing, and her own grey scarf, which he had plainly gone into the lake in, wound twice round his neck and hanging off him like weed.
+Lyra was down out of the stand and on the bank. She did not run. A Malfoy did not run on to a jetty in front of three schools. She walked, very fast, through the crowd of people in towels and people with blankets and Madam Pomfrey shouting about hypothermia, and stopped a yard from the end of the planks, where Potter was sitting up in a puddle with a blanket round him, coughing, and her own grey scarf, which he had plainly gone into the lake in, wound twice round his neck and hanging off him like weed.
 
 It was cashmere. She decided to say so later.
 
 Bagman was standing over him, beaming, with the megaphone under his arm. “Harry! Harry, my boy! The merpeople tell us you were down there with them the best part of the hour! Waiting for the others—making sure they all came up—a lovely bit of sportsmanship, lovely, the judges will—” He clapped Potter on his wet shoulder. “What a show!”
 
-Potter looked up at him. He was white with cold, and his lips were blue, and there was something in his face that Lyra had seen there only on the bad days.
+Potter looked up at him. He was white with cold, and his lips were blue.
 
 “It’s not a task,” he said. “It’s a spectacle.”
 
