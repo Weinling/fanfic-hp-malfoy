@@ -218,6 +218,28 @@ She knew a house where an elf had cried for a week in the scullery because she w
 
 “A house is a house,” said Lyra at last. “Even when the master is a fool.”
 
-Winky put her bottle down on the hearth, and folded her hands, and looked up at her with her drowned eyes as though nobody had said anything sensible to her in eight months.
+Winky put her bottle down on the hearth, and folded her hands, and looked up at her with her drowned eyes as though nobody had said anything sensible to her in seven months.
 
 When Lyra went back up the three steps and out past the pear, there was an éclair in a napkin in her hand that the elf with the tray had pressed on her at the door, and a secret of Mr Crouch’s in her head that she did not know what to do with; and behind her, from behind a cauldron at the end of the Ravenclaw table, a pair of green eyes watched her all the way out.
+
+⁂
+
+She went back to the kitchens once more, in the first week of April, and came away with a raw steak wrapped in brown paper, which the elves gave her with an air of having always known she would ask.
+
+She took it down the lawn on a bright, cold morning to the pumpkin patch behind Hagrid’s cabin, where the hippogriff was tethered, and stopped at the proper distance, and bowed. Buckbeak looked at her for a long moment with one fierce orange eye. Then he bent his scaly knees and bowed back, and she went up to him and unwrapped the paper and held it out on the flat of her hand, and he took it as delicately as a cat, and ate it, and allowed her to touch his neck.
+
+It had been on the books for fourteen months. She felt a good deal better.
+
+Hagrid was at his window. She saw the curtain move. He did not come out, and she did not go to the door, and they left it at that; but when she looked back from the top of the slope, the curtain had been pulled right back, and he was still there.
+
+That week she finished the letter to Professor Lupin, which had said *Dear Professor Lupin* and nothing else since November. It came to a page. It did not ask him anything, and it did not tell him anything he would not already know, and she thought, reading it over, that he would understand it perfectly.
+
+Draco’s letter came on the Saturday.
+
+It was short, for Draco, and almost all of it was about the Falmouth Falcons, who had lost to Puddlemere on a disgraceful decision by the referee, and about a broom he had seen in a catalogue that Father said he was too young for and that he was not too young for, and would she please write to Father and say so. At the bottom, squeezed in where he had run out of room:
+
+*The gentleman has gone abroad for a few weeks, to see some old friends. He says he has not seen them in a very long time and it is high time he did. He left me his chess set to practise on while he is away, the one with the pieces that argue, and he says when he comes back he will beat me in twelve moves instead of nine, so I am practising very hard.*
+
+Lyra laughed at the twelve moves.
+
+She wrote back to him that night, a whole page, to tell him that she would write to Father about the broom when the Falcons had won a match, and that if he lost in twelve moves he was not trying, and that he should keep his queen at home until the gentleman had brought his out.
