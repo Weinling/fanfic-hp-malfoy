@@ -38,10 +38,32 @@ He had heard it himself. She saw him hear it: the word going out of his mouth in
 
 Lyra did not let it reach her own.
 
-There was only one house in the north. There had only ever been one, in her whole life: a house on a cold coast that was in no register in the country, which her father had made very sure of, and where she had been taken exactly once, at seven, and told afterwards never to mention to anybody, not even Crabbe. A boy on a train had once said *somewhere up north* to her as carelessly as if he were remarking on the weather, and she had spent two years wondering how he could possibly know.
+There was only one house in the north. There had only ever been one, in her whole life: a house on a cold coast that was in no register in the country, which her father had made very sure of, and where she had been taken exactly once, at seven, and told afterwards never to mention to anybody, not even Crabbe. A boy in an empty classroom had once said *somewhere up north* to her, the night the Chamber was closed, as carelessly as if he were remarking on the weather, and she had spent two years wondering how he could possibly know.
 
 “Of course, sir,” said Lyra. “I’ll tell him.”
 
 She smiled at him. It was her mother’s smile, the one for the wives of junior ministers, and it had never once failed her. Karkaroff looked at it as a drowning man looks at a rope, and let out his breath, and poured himself another glass.
 
 She walked back up the slope in the rain with her hood down and her charm in pieces, and did not bother to mend it. By the time she reached the doors she was wet to the skin, and she did not feel any of it.
+
+⁂
+
+The Entrance Hall was full of Gryffindors.
+
+They had come in from Herbology a few minutes before her, by the look of it, and were standing about in a wet, cheerful knot at the foot of the marble staircase, shaking out their cloaks, with Potter in the middle of it. Somebody had made him laugh. Lyra saw it from the doors: his head back, his hair plastered flat with rain, one of the Weasley twins with an arm round his neck.
+
+“—telling you, he’ll put Skrewts in it. He’ll have been saving them. He’ll put in the biggest one he’s got and tell you it’s *misunderstood*—”
+
+“He wouldn’t.” Potter was grinning. “They’re not even legal. Even Hagrid—” He stopped, and considered. “He would, wouldn’t he.”
+
+The whole knot of them collapsed laughing.
+
+Lyra had taken two steps across the flagstones towards them before she knew she was doing it. Her mouth was already open on his name. It was what she did now; it was what she had done every morning since January, at the foot of the dungeon steps, in front of anybody who cared to look.
+
+“Har—”
+
+She shut her mouth on it.
+
+A man on a ship had just told her that those who were already there would be remembered. Half the school had seen her take Potter’s hand at Christmas; half of Durmstrang, too, and that man was their headmaster, and he had looked at her, not an hour ago, as though she were the last rope over the side. If she walked into the middle of those Gryffindors now, wet through, with that face, and took hold of Potter’s sleeve in front of all of them, there was no saying who would see it, or who they would write to.
+
+Nobody had heard her. Nobody had turned round. Lyra stood in the doorway with the rain running off her into a puddle on the flagstones, and watched him laugh, and then turned and went down the dungeon steps the other way, quickly, before he could look up.
