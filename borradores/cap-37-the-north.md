@@ -72,7 +72,7 @@ Nobody had heard her. Nobody had turned round. Lyra stood in the doorway with th
 
 She did not go down to dinner.
 
-She changed out of her wet things, and sat on her bed with the hangings drawn and the ring in her hand, and for a long while did nothing at all. Then she put it on, and held it, and thought of him, hard, as she had thought of him once on a slope above a ship in December, when it had lain in her palm as cold as a coin; and this time it warmed. It warmed, and pulsed, warm and cool and warm, and somewhere up in a tower the other one would be doing the same against his finger.
+She changed out of her wet things, and sat on her bed with the hangings drawn and the ring in her hand, and for a long while did nothing. Then she put it on, and held it, and thought of him, hard, as she had thought of him once on a slope above a ship in December, when it had lain in her palm as cold as a coin; and this time it warmed. It warmed, and pulsed, warm and cool and warm, and somewhere up in a tower the other one would be doing the same against his finger.
 
 She had never once called him to her for something like this. She went up to the classroom on the third floor, behind the tapestry of the knight asleep on his horse, and sat down at a desk by the window to wait.
 
@@ -128,7 +128,7 @@ She had known what he would say. She had known since the lake, at least; probabl
 
 “Lyra—”
 
-“No. You’ve said yours. Now I’ll say mine, and you will listen to it, because nobody has ever said it to you, I imagine, and somebody ought to.” She did not raise her voice. She found she did not need to. “I understand my father.”
+“No. You’ve said yours. Now I’ll say mine, and you will listen to it, because nobody has ever said it to you, I imagine, and somebody ought to.” She did not raise her voice. “I understand my father.”
 
 He did not interrupt.
 
@@ -160,7 +160,7 @@ She thought of the lamp swinging, and the bottle, and a man holding on to his ow
 
 “Nothing,” said Lyra.
 
-Somewhere, she thought, a Sneakoscope would have gone off. Potter looked at her. She held his eyes and did not look away, as she had held Moody’s, and after a long moment he nodded slowly, as though he had been given a coin and had decided not to bite it.
+Somewhere, she thought, a Sneakoscope would have gone off. Potter looked at her. She held his eyes and did not look away, as she had held Moody’s, and after a long moment he nodded slowly, as though he had been handed something and had decided not to turn it over.
 
 “Right,” he said.
 
@@ -169,3 +169,23 @@ He did not ask again. He picked up his cloak from the desk, and stood there with
 Lyra sat by the window until the moon had gone right across the lake.
 
 She had made him swear. That was the part she kept coming back to. She had made him swear not to lie, and he had kept it, every word, even the ones that cost him; and then she had looked him in the face and lied, in one word, about the only thing that mattered.
+
+⁂
+
+In the morning he was not at the foot of the dungeon steps.
+
+Lyra came up them at the usual time, with Crabbe and Goyle, and looked, once, at the place by the wall where he had leaned every morning since January with his hands in his pockets; and there was nobody there but a Hufflepuff second-year doing up a shoe. Crabbe looked too, and then at Lyra, and said nothing whatever, and went in to breakfast.
+
+Lyra went up to Arithmancy by herself.
+
+On the seventh floor the windows of the long corridor looked south, over the grounds, and the storm had left everything rinsed and sharp and very green. She stopped at the third window, as she sometimes did, to see what the weather meant to do; and she stood there instead with her bag on her shoulder and her hand flat on the cold stone of the sill.
+
+The Quidditch pitch had gone.
+
+The stands were still there, and the goal hoops at either end. But the long smooth oval of grass between them, where she had flown every autumn and spring since her second year, was not grass any more. It had been ruled across, overnight, with lines: long low dark lines, crossing and turning and doubling back on themselves, running everywhere and nowhere, like writing in a language she did not know. Hedges. Little hedges, no higher than a man’s knee, planted in the night. A wizard in Ministry robes was walking slowly down one of the alleys between them with a tape measure, and another was following him with a clipboard, and behind them, even as she watched, the hedge they had just passed was very slightly taller than it had been.
+
+It was growing.
+
+By the end of the month, she thought, it would be over their heads. Over anybody’s head. Somebody would walk into the middle of it, on the last night of term, and the walls would close up behind him, and nobody in the stands would be able to see what was in there with him.
+
+Lyra stood at the window with her hand on the sill and watched the hedges grow, a quarter of an inch at a time, in the clean wet light; and thought about the north.
