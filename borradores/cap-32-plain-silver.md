@@ -213,3 +213,59 @@ Lyra took the hand, and got up.
 At the door she stopped, and looked down at the ring. A sensible girl would take it off. Half of Slytherin would be at the next table, and Potter wore the other one where anybody could see it.
 
 She left it where it was.
+
+⁂
+
+Theodore Nott was waiting at the top of the dungeon steps in a dark green dress robe, looking as if he had been told to wait and would go on doing so until the castle fell down. Lyra sent Crabbe to him with a small push between the shoulder blades.
+
+“Go on. He’s come all this way to tell you about his horse.”
+
+Then she went into the Great Hall by herself.
+
+They had done it well; she could give them that. The walls were covered in a silvery frost that glittered, and there were garlands of mistletoe and ivy all across the starry black ceiling, and the House tables had gone, and in their place stood a hundred little round ones, each with a lantern on it that smelt faintly of cloves. A band was setting up on a stage at the far end. It was the most beautiful room she had ever been in that she had not been born to, and she walked into the middle of it in violet silk with every pin in place, and heard it begin.
+
+“—*Malfoy*, isn’t that—”
+
+“—thought she was going with Krum—”
+
+“—saw Krum earlier, he had somebody, I didn’t see who—”
+
+A Ravenclaw girl in pink smiled at her across two tables, the small, satisfied smile of somebody who has been waiting for years to see a particular thing happen to a particular person. Lyra looked back at her pleasantly until it went away.
+
+She took a table near the wall, and sat at it alone. Goyle arrived a minute later on the arm of Blaise Zabini, which explained a good deal, Zabini having lost to her at chess three times in November without once appearing to mind. Goyle looked at the empty chairs round Lyra and opened her mouth, and Zabini, who was cleverer than he let on, steered her away to the next table before she could say anything into it.
+
+Up at the staff table, the Headmaster’s chair was not empty.
+
+Dumbledore was in it, in robes the colour of plums, smiling at the room over the tops of his half-moon spectacles as though he had never been anywhere in his life. Lyra looked at him for a long moment. Moody was at the far end of the same table, with his flask, and his blue eye going round and round the Hall; it passed over her once and did not stop.
+
+“The champions,” said Professor McGonagall, from the doors.
+
+Everybody stood up.
+
+They came in two by two. Cedric Diggory first, with Cho Chang of Ravenclaw, the pair of them so used to each other already that they forgot to look at anybody else. Then Fleur Delacour in silver-grey, like something off the top of a cake, on the arm of Roger Davies, who was gazing at her with his mouth slightly open and appeared to have no idea where he was. And then Viktor Krum, scowling at the floor; and on his arm, a girl that nobody knew.
+
+The Hall murmured. Who was that? Was she from Beauxbatons? Had anybody ever seen her before?
+
+Lyra had.
+
+She had sat across a library table from her a month ago, behind a wall of dragon books, and passed her nothing, and been passed page three hundred and twelve. It was Granger. It was Granger with her hair smooth and shining and put up at the back of her head, in robes of a soft periwinkle blue, walking carefully because she was not used to the shoes, and smiling at the floor when she nearly turned an ankle as though she was not used to being looked at either. Lyra had always suspected there was a face somewhere under all that hair. She had not expected Granger to be the one who found it.
+
+So that was whom Krum had asked. She had known that since the shingle. What she had not seen until this moment was all the rest of it, and now that she saw it, it was so simple that she was annoyed with herself.
+
+*Only go with Krum. Or look as if you are.*
+
+Krum asks Granger, who says yes. Krum turns Lyra down, because he has already asked Granger. Potter, whom everybody expects to bring Granger, has nobody. Lyra Malfoy has nobody. A champion must have a partner to open the dancing; and there they would both be, left over, with no choice in the matter, in front of the whole school and anybody who might be writing to Lucius Malfoy about it.
+
+The entire thing stood on Viktor Krum asking Granger. And Potter had been sure that he would, a month ago, in a classroom on the third floor, when nobody in the castle had seen Krum look at Granger except Lyra, who had told Krum that she was not Potter’s anything.
+
+He had built his plan on top of a sentence of hers, and had not told her that either.
+
+“*Malfoy*.” Goyle had come back, Zabini or no Zabini, and was standing over her table, scarlet. “Granger stole your partner!”
+
+“So it appears.”
+
+“But she— he— I’ll—”
+
+“You’ll do nothing whatever, Greer,” said Lyra. “Go and dance with Zabini.”
+
+Out on the floor, the champions had taken their places for the first dance: Diggory and Chang, Delacour and Davies, Krum and Granger. There was a space beside them, and the band was waiting, and nobody stood in it. Professor McGonagall had turned round in the doorway and was looking out into the Entrance Hall with her mouth gone very thin.
