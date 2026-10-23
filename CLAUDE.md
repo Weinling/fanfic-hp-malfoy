@@ -2,6 +2,8 @@
 
 Adaptación al inglés de una fanfic coreana de Harry Potter con un genderbend de Draco: Lyra Malfoy. Se publica en Wattpad y Webnovel. (Título de trabajo anterior: *Harry Potter and His Malfoy Problem*.) El autor es Edén. Habla con él en español; los capítulos se escriben en inglés británico.
 
+**Modo autónomo (decisión del autor, 23 de octubre de 2026):** el autor delega la historia entera; la sesión principal adapta y escribe del 32 en adelante sin pedir aprobación, con el crítico y, para el rumbo, `fable-revisor`. **Al empezar, tras compactar o al volver de un subagente o de un temporizador, lee primero `docs/notas/autonomo/ARRANQUE.md`**, que manda sobre los pasos de aprobación de este archivo y del handoff. Todo brief a un subagente termina con la línea del §4 de ese documento.
+
 **Antes de trabajar en la historia, lee `docs/handoff-v3.0.md`.** Es el documento vigente y corto (unas 3.200 palabras): identidad, motor, reglas de escritura, rumbo, sistema y flujo. El `docs/handoff-v2.0.md` queda de archivo (cómo se llegó aquí) y no hace falta leerlo; los anteriores (v1.1 a v1.7) están superados. Si este archivo y el handoff se contradicen en algo de la historia, manda el handoff; en cómo se trabaja en este repositorio, manda este archivo.
 
 ## Mapa
