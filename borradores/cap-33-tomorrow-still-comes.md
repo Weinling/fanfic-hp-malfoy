@@ -139,3 +139,89 @@ Lyra turned and looked at the fairies on the Christmas tree for a while, since t
 Granger did not pretend not to understand. She looked across the Hall to where Karkaroff had Krum backed against a pillar and was talking at him very fast, and Krum was listening with the patient, unmoved face of a man waiting for a storm to finish.
 
 “I don’t know. I didn’t ask him to.” She hesitated. “He said once that you fly like a Bulgarian. I think it’s the nicest thing he knows how to say about anybody.”
+
+⁂
+
+Potter came back on his own, with three bottles of butterbeer held in a triangle between his fingers and an air of having escaped from something.
+
+“Karkaroff’s got Krum,” he said, sitting down next to Lyra. “I don’t think he’s getting him back before midnight.”
+
+Lyra took her bottle, and drank from it, and set it down on the table rather hard.
+
+“You might as well tell us now.”
+
+“Tell you what?”
+
+She looked at him.
+
+“Right,” said Potter. He glanced round. The tables nearest them had been glancing back all evening, and at the next one along a Hufflepuff fifth-year was leaning so far out of her chair to listen that her partner had a hand on her sash. “There are a lot of people about.”
+
+Lyra slid her wand out of her sleeve, where it had lain along the inside of her wrist all evening under the violet silk, and gave it a small flick under the table.
+
+“*Muffliato.*”
+
+There was a faint buzzing in the air round the three of them, like a bee in a jar, and then nothing. The Hufflepuff fifth-year frowned, and shook her head as if she had water in her ear, and gave up.
+
+Potter looked impressed in spite of himself. He leaned out a little and said, quite loudly, “Seamus, your flies are undone,” to a boy at the next table but one, who did not so much as glance down.
+
+“Where did you learn that?”
+
+“From my father,” said Lyra. “Talk.”
+
+He talked.
+
+He told it to the table, mostly, and to the butterbeer, and now and then to Granger, who had gone very still; and he did not tell it well, because he kept going back to put in things he had left out, as though he had not told it to anybody before and had not decided which order it went in.
+
+He had thought somebody was working Moody. Not a disguise: Moody was Moody, the map had said so all through September, *Alastor Moody* in his office every night. But a body could be Moody and the rest of him somebody else’s, if somebody had him under the Imperius, and was close, and hidden somewhere the map could not see. Moody had a trunk with seven locks. There was a place inside it, Potter said, that the map did not show.
+
+“How did you—” Granger began.
+
+“I just thought it.” He went on before she could ask anything else. On Wednesday night he had gone into Moody’s office with Sirius, while Moody was on his rounds, and opened the seventh lock, and gone down into it with his wand lit, looking for—he did not say what he had been looking for. *Somebody who wasn’t there*, he said. It had been empty. And Moody had been standing behind them in the dark with the map in his hand, because Moody had been watching Harry Potter watch his office for a week.
+
+“He thought it was me,” said Potter. “Under the Imperius. A champion who breaks into his office at midnight with Sirius Black and goes through his trunk looking for somebody who isn’t there.” He made a short, unhappy noise that was not quite a laugh. “I’d have thought so too.”
+
+So Moody had put them in the trunk, both of them, and locked it. He trusted nobody but Dumbledore, and Dumbledore was abroad, and he was not going to hand Sirius Black to Professor McGonagall to hand to the Ministry, which still had a cell with his name on it. So he had waited. He had fed them, and asked Harry questions twice a day with his wand out, and once, on the second night, tried to throw a curse off him that was not there. There were seven compartments. In the sixth there was a plant Moody had confiscated from somebody in nineteen seventy-something, which did not like being woken.
+
+“That’s what that is,” said Potter, and turned his wrist over on the table. “Dumbledore got back this afternoon. He had us out by six. He says it’ll heal if I let somebody look at it.”
+
+“And Moody?” said Lyra.
+
+“Moody’s Moody.” Potter looked at his bottle. “He’s just Moody.”
+
+Nobody said anything for a moment.
+
+“You told us,” said Granger, very quietly, “that you were going somewhere with Dumbledore.”
+
+“I know. I’m sorry, Hermione.”
+
+He said it to her quite easily, the whole word, and Granger nodded and looked at the tablecloth. Lyra noticed that, and noticed herself noticing it, and put it aside.
+
+It was the *Prophet*, then. She could see it now. Something in that article had sent him down the seventh lock in the middle of the night, a fortnight early, with Dumbledore away; something about a voice in a tent that nobody had seen. And Moody could see through a cloak. Moody, of all the people in this castle, could have stood outside that tent and seen exactly who was inside it.
+
+She had been carrying the answer for a month. She sat up a little straighter, and let herself enjoy it.
+
+“Moody can see through a cloak, Potter,” said Lyra. “He can’t see into a beetle.”
+
+Potter looked up.
+
+“There was a beetle in the tent. On the canvas, near the roof, the whole time. It went past my ear when I ran out.” She folded her hands on the table. “It was Skeeter. She’s an Animagus. She isn’t on any register, or she couldn’t do it; Black wasn’t, and nor was Pettigrew. She sits on the wall and listens, and then she makes up a charm to explain how.”
+
+“I know,” said Potter.
+
+Granger said, “She’s *what*? She can’t be. There have only been seven registered this century, I looked them up in third year, there’s a list, and she isn’t—” and stopped, because she had heard herself.
+
+Lyra did not look at Granger. She was looking at Potter.
+
+He had said it quite simply. Not *I wondered*, nor *I thought so*. *I know.* As one says the time. She had worked it out on a wet path with her collar up, from a beetle and a stupid lie and two men who had spent years in fur, and she had told nobody, not even Crabbe, and had been pleased with it every day for a month; and he had known.
+
+“Then you knew it wasn’t Moody,” she said. “Listening. In the tent.”
+
+“Yes.”
+
+“So why did you go after Moody at all?”
+
+Potter turned the butterbeer bottle round on the tablecloth, once, and then again.
+
+“I was sure,” he said.
+
+That was all. He did not say what of, or how. Lyra waited, and he did not say anything else, and after a while she took the two things, *I know* and *I was sure*, and set them down side by side somewhere inside her, next to a list she had made once in a hospital wing about a dog and a hippogriff and a number seven, and left them there.
