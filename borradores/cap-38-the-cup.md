@@ -93,3 +93,57 @@ She was remembering a tent. A bench at the back of it, and a dragon outside, and
 She had thought it was what being a champion did to a person.
 
 She held that, and looked at him on the podium with the Cup in his hand, and put the two of them side by side, and did not know yet what they made.
+
+⁂
+
+Then the stands began to empty on to the grass, the way stands do, all at once, and Lyra went down with them.
+
+She did not decide to. Crabbe had let go of her hand to stand up, and then the whole Slytherin bench was moving, and the steps were full of people going down, and she was among them, going down too, with Crabbe somewhere behind her saying *Malfoy* and *wait*. At the bottom the crowd spread out across the trampled grass towards the podium like water finding a level, Gryffindors in front, shouting, and Ministry wizards trying to hold them back, and Lyra went through all of it as she went through crowds at her father’s parties, sideways, without touching anybody, until there was nobody between her and the edge of the judges’ platform but two Ministry men with their backs to her.
+
+She was two paces from the podium. She could see everything.
+
+Potter was standing at the front of it, still holding the Cup. Somebody had put a blanket over his shoulders that he did not seem to know about. He was standing oddly, with his weight off his left leg, and below the knee the leg of his trousers was black and wet and torn, and there was blood on the boards under his shoe.
+
+“—a Skrewt, Albus, in the last stretch, one of Hagrid’s, it’s had a go at his leg—”
+
+“Then he will go to Madam Pomfrey, Ludo, as soon as we have done.”
+
+Two of the patrolling teachers had brought something up on to the platform behind the judges: a wooden crate with holes in the lid, out of which came a smell of burning and a muffled, furious ticking. Something inside it was hitting the walls of the crate with its tail, and every so often there was a small explosion and a puff of smoke out of the holes.
+
+Mr Crouch had come forward.
+
+He had come along the platform from the far end of the judges’ table, very upright, in his neat dark suit, and he stopped in front of Potter and held out his hand. Potter, after a moment, shifted the Cup into his other arm and shook it.
+
+“Congratulations, Mr Potter,” said Mr Crouch. His voice was clipped and dry, a voice for committees. “A most remarkable performance. The Ministry is very—the Ministry is—”
+
+He stopped.
+
+It was not a pause. Lyra had heard a great many men pause, at her father’s table, for effect. This was different. He simply stopped, in the middle of the word, with his hand still holding Potter’s and his eyes on nothing; and for a second, two, three, nothing at all happened behind his face. Then he started again, a beat late, exactly where he had left off, as though somebody had wound him up.
+
+“—very proud. In you, I find—” another stop; another beat “—reason to hope.”
+
+He let go of Potter’s hand. He turned his head, very stiffly, and looked at the crate.
+
+“That creature,” said Mr Crouch. “It drew blood?”
+
+“It stung me,” said Potter. He was looking at Crouch now, very hard. “In the leg.”
+
+“Then it will have to be examined. Interference with a champion in the course of a task.” Mr Crouch went to the crate and put both hands on it. “The Department will see to it. I shall take it myself.”
+
+Nobody argued. Bagman opened his mouth and shut it. Dumbledore looked at Mr Crouch over his half-moon spectacles, for a moment, with an expression Lyra could not see; and then a whole crowd of Gryffindors broke through the Ministry men at the other end of the platform and swarmed up on to the boards shouting Potter’s name, and in the noise and the press of it Mr Crouch lifted the crate in both arms, and walked away along the edge of the platform with it, very straight, past where Lyra was standing.
+
+He passed within a yard of her. She saw his face quite clearly, in the light of a dozen wands.
+
+It was calm. That was what she saw. It was perfectly, stupidly calm: smoothed out, like a sheet pulled straight across a bed, with nothing left in it anywhere, the mouth a little slack and the eyes fixed on some point a long way in front of him that he had been told to walk towards.
+
+She had seen that face before. She had seen it on Panther Parkinson, in a classroom in November, a moment before he crouched down and began to hop across the floor like a frog. She had seen it on Crabbe, with her hands clasped in front of her, singing Celestina Warbeck in a voice like a choirboy’s. She had felt it, for one long second, settling on her own face from the inside, before she threw it off.
+
+She knew exactly what it was.
+
+Mr Crouch walked on down the steps of the platform with the crate in his arms and the Skrewt ticking furiously inside it, and the crowd let him through, and closed behind him, and he was gone.
+
+Lyra stood where she was.
+
+On the podium, over the heads of the Gryffindors, Potter had turned. He was not looking after Crouch. He was looking at her.
+
+He had found her in a crowd of several hundred people as if there had been nobody else on the pitch, and he looked at her across all their heads, with his weight off his bad leg and the Cup in his arms and the blanket sliding off one shoulder. She had not spoken to him, except across a classroom, since a desk on the third floor and a single word. He did not smile. He did not do anything at all. He only looked, for as long as it took Ron Weasley to reach him and throw an arm round his neck, and then he turned his head and was gone into the red and gold.
