@@ -6,7 +6,7 @@ Lyra had cast the Impervius Charm on her cloak at the top of the slope, and it h
 
 Karkaroff did not get up.
 
-He was sitting at his table in his shirtsleeves, with no furs on, which she had never seen; and he had not shaved, and the goatee had gone ragged at the edges, and he looked as if he had not slept since Easter. There was a glass at his elbow with something brown in it, and a bottle beside the glass, and he did not offer her any.
+He was sitting at his table in his shirtsleeves, with no furs on; she had never seen him without them; and he had not shaved, and the goatee had gone ragged at the edges, and he looked as if he had not slept since Easter. There was a glass at his elbow with something brown in it, and a bottle beside the glass, and he did not offer her any.
 
 “Miss Malfoy.” He waved her to the chair opposite. “Sit. Sit. You will forgive me. It is not a night for ceremony.”
 
@@ -14,7 +14,7 @@ She sat.
 
 “The time has come,” said Karkaroff, “to choose.”
 
-He said it to the glass, not to her. Then he looked up, and his eyes were very bright and not at all steady.
+He said it to the glass, not to her. Then he looked up, and his eyes were very bright and not steady.
 
 “You read the *Prophet*. You will have seen that a woman from the Ministry has gone missing. Jorkins. Bertha Jorkins. She went off on her holidays last summer and has not come back, and your Ministry, which cannot keep its own clerks, says she has got lost.” He laughed, a short, unpleasant sound. “I have friends abroad. Not many, now. Enough. She was seen in Albania, Miss Malfoy. In a village inn, at the edge of the forest. And then she was not seen anywhere.”
 
@@ -38,7 +38,7 @@ He had heard it himself. She saw him hear it: the word going out of his mouth in
 
 Lyra did not let it reach her own.
 
-There was only one house in the north. There had only ever been one, in her whole life: a house on a cold coast that was in no register in the country, which her father had made very sure of, and where she had been taken exactly once, at seven, and told afterwards never to mention to anybody, not even Crabbe. A boy in an empty classroom had once said *somewhere up north* to her, the night the Chamber was closed, as carelessly as if he were remarking on the weather, and she had spent two years wondering how he could possibly know.
+There was only one house in the north. There had only ever been one, in her whole life: a house on a cold coast that was in no register in the country, where she had been taken exactly once, at seven, and told afterwards never to mention to anybody, not even Crabbe. A boy in an empty classroom had once said *somewhere up north* to her, the night the Chamber was closed, as carelessly as if he were remarking on the weather, and she had spent two years wondering how he could possibly know.
 
 “Of course, sir,” said Lyra. “I’ll tell him.”
 
@@ -138,7 +138,7 @@ She leaned forward.
 
 “Some people are better at things than other people. That isn’t wickedness, Potter. It’s arithmetic. The Muggles know it perfectly well; they put the clever ones and the rich ones at the top and take their hats off to them, and nobody calls it a crime. And we can do things no Muggle has ever been able to do, not one, not since the beginning of the world, and what does the Ministry do with us? It makes us hide. There are families in this country older than this castle living in two rooms on nothing, because the Statute won’t let them lift a finger, and on the other side of their hedge there is a Muggle with a motor car and a television and no idea he’s next door to anything at all. That’s not the natural order of things. That’s the order turned upside down, on purpose, by people who are frightened of what we are.”
 
-It came out of her very clearly, in her own voice, as she had heard it said at her father’s table since before she could sit at it; and the odd thing was that, saying it, she believed it, all of it, every word, and at the same time could hear it, from the outside, the way he must be hearing it.
+It came out of her very clearly, in her own voice, as she had heard it said at her father’s table, over the port, a hundred times; and the odd thing was that, saying it, she believed it, all of it, every word, and at the same time could hear it, from the outside, the way he must be hearing it.
 
 Potter was quiet for a moment.
 
@@ -148,7 +148,7 @@ Lyra opened her mouth.
 
 She shut it again. She looked at the window, where the moon had come out properly now and laid a long white road across the lake towards the Durmstrang ship.
 
-Potter did not press it. He sat on the desk with his hands between his knees and let it lie there between them, which was worse.
+Potter did not press it. He sat on the desk with his hands between his knees and let it lie there between them.
 
 After a while, he said, in a different voice, “You’ve been on that ship.”
 
@@ -186,6 +186,6 @@ The stands were still there, and the goal hoops at either end. But the long smoo
 
 It was growing.
 
-By the end of the month, she thought, it would be over their heads. Over anybody’s head. Somebody would walk into the middle of it, on the last night of term, and the walls would close up behind him, and nobody in the stands would be able to see what was in there with him.
+By the end of the month, she thought, it would be over their heads. Over anybody’s head. Somebody would walk into the middle of it, on the twenty-fourth, and the walls would close up behind him, and nobody in the stands would be able to see what was in there with him.
 
 Lyra stood at the window with her hand on the sill and watched the hedges grow, a quarter of an inch at a time, in the clean wet light; and thought about the north.
