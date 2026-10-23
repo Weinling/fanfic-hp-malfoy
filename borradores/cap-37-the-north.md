@@ -36,13 +36,15 @@ He stopped.
 
 He had heard it himself. She saw him hear it: the word going out of his mouth into the swinging lamplight, and his face, a moment after, as a man’s face goes when he has stepped on something in the dark and it has moved.
 
-Lyra did not let it reach her own.
+Lyra kept her face where it was.
 
 There was only one house in the north. There had only ever been one, in her whole life: a house on a cold coast that was in no register in the country, where she had been taken exactly once, at seven, and told afterwards never to mention to anybody, not even Crabbe. A boy in an empty classroom had once said *somewhere up north* to her, the night the Chamber was closed, as carelessly as if he were remarking on the weather, and she had spent two years wondering how he could possibly know.
 
+*Everything the letter asked.* She had carried it up his gangplank herself, in November, in green wax, addressed in a hand she did not know.
+
 “Of course, sir,” said Lyra. “I’ll tell him.”
 
-She smiled at him. It was her mother’s smile, the one for the wives of junior ministers, and it had never once failed her. Karkaroff looked at it as a drowning man looks at a rope, and let out his breath, and poured himself another glass.
+She smiled at him. It was the smile her mother used on bishops, and it had never once failed her. Karkaroff looked at it as a drowning man looks at a rope thrown from the bank, and let out his breath, and poured himself another glass.
 
 She walked back up the slope in the rain with her hood down and her charm in pieces, and did not bother to mend it. By the time she reached the doors she was wet to the skin, and she did not feel any of it.
 
@@ -64,7 +66,7 @@ Lyra had taken two steps across the flagstones towards them. Her mouth was alrea
 
 She shut her mouth on it.
 
-A man on a ship had just told her that those who were already there would be remembered. Half the school had seen her take Potter’s hand at Christmas; half of Durmstrang, too, and that man was their headmaster, and he had looked at her, not an hour ago, as though she were the last rope over the side. If she walked into the middle of those Gryffindors now, wet through, with that face, and took hold of Potter’s sleeve in front of all of them, there was no saying who would see it, or who they would write to.
+*Those who are already there will be remembered.*
 
 Nobody had heard her. Nobody had turned round. Lyra stood in the doorway with the rain running off her into a puddle on the flagstones, and watched him laugh, and then turned and went down the dungeon steps the other way, quickly, before he could look up.
 
@@ -110,7 +112,7 @@ He had not expected that. She saw it go into him and stop.
 
 “Not that.”
 
-She knew what that was. Her father’s diary, in her hand, on a desk in an empty classroom two years ago; a piece of whatever Potter was hunting, delivered to him by the man who would least have wanted him to have it. She did not want that answer. She had sworn him for the other one.
+She knew what that was: the diary. She had sworn him for the other one.
 
 Potter took off his glasses and rubbed his eyes, and put them back on, and looked at her through them, and his face had gone cool and steady and a long way off, the face he wore for things that mattered.
 
@@ -118,7 +120,7 @@ Potter took off his glasses and rubbed his eyes, and put them back on, and looke
 
 “I want the truth.”
 
-“A man who lives off the Ministry,” said Potter, “and spends his money trying to pull it down. Who stood in a field last summer in a mask, with a Muggle family turning upside down in the air over his head, and shook hands with Fudge the next week at a charity lunch. Who put a diary in an eleven-year-old girl’s cauldron to get even with her father, and very nearly killed her with it.” He paused. “And who gave the diary to us, in the end. Without meaning to. Through you.” He held her eyes. “A useful enemy.”
+“A man who lives off the Ministry’s favours,” said Potter, “and spends his money trying to pull it down. Who stood in a field last summer in a mask, with a Muggle family turning upside down in the air over his head, and shook hands with Fudge the next week at a charity lunch. Who put a diary in an eleven-year-old girl’s cauldron to get even with her father, and very nearly killed her with it.” He paused. “And who brought the diary into this castle, in the end, where it could be got at. Without meaning to.” He held her eyes. “A useful enemy.”
 
 Lyra nodded.
 
@@ -138,15 +140,13 @@ She leaned forward.
 
 “Some people are better at things than other people. That isn’t wickedness, Potter. It’s arithmetic. The Muggles know it perfectly well; they put the clever ones and the rich ones at the top and take their hats off to them, and nobody calls it a crime. And we can do things no Muggle has ever been able to do, not one, not since the beginning of the world, and what does the Ministry do with us? It makes us hide. There are families in this country older than this castle living in two rooms on nothing, because the Statute won’t let them lift a finger, and on the other side of their hedge there is a Muggle with a motor car and a television and no idea he’s next door to anything at all. That’s not the natural order of things. That’s the order turned upside down, on purpose, by people who are frightened of what we are.”
 
-It came out of her very clearly, in her own voice, as she had heard it said at her father’s table, over the port, a hundred times; and the odd thing was that, saying it, she believed it, all of it, every word, and at the same time could hear it, from the outside, the way he must be hearing it.
+She said it in her own voice, as she had heard it said at her father’s table, over the port, a hundred times; and the odd thing was that, saying it, she believed it, all of it, every word, and at the same time could hear it, from the outside, the way he must be hearing it.
 
 Potter was quiet for a moment.
 
 “Hermione’s parents are dentists,” he said. “In Hampstead. They’re the Muggles on the other side of the hedge.” He said it quite evenly. “If your father ever gets the world turned the right way up, the way you mean it—where’s she?”
 
-Lyra opened her mouth.
-
-She shut it again. She looked at the window, where the moon had come out properly now and laid a long white road across the lake towards the Durmstrang ship.
+Lyra looked at the window, where the moon had come out properly now and laid a long white road across the lake towards the Durmstrang ship.
 
 Potter did not press it. He sat on the desk with his hands between his knees and let it lie there between them.
 
@@ -168,7 +168,7 @@ He did not ask again. He picked up his cloak from the desk, and stood there with
 
 Lyra sat by the window until the moon had gone right across the lake.
 
-She had made him swear. That was the part she kept coming back to. She had made him swear not to lie, and he had kept it, every word, even the ones that cost him; and then she had looked him in the face and lied, in one word, about the only thing that mattered.
+She had made him swear, and he had kept it, every word. She had needed only one.
 
 ⁂
 
@@ -186,6 +186,6 @@ The stands were still there, and the goal hoops at either end. But the long smoo
 
 It was growing.
 
-By the end of the month, she thought, it would be over their heads. Over anybody’s head. Somebody would walk into the middle of it, on the twenty-fourth, and the walls would close up behind him, and nobody in the stands would be able to see what was in there with him.
+By the end of the month it would be over their heads. Over anybody’s head. Somebody would walk into the middle of it, on the twenty-fourth, and the walls would close up behind him, and nobody in the stands would be able to see what was in there with him.
 
 Lyra stood at the window with her hand on the sill and watched the hedges grow, a quarter of an inch at a time, in the clean wet light; and thought about the north.
