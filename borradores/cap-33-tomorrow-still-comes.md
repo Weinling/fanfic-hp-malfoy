@@ -225,3 +225,47 @@ Potter turned the butterbeer bottle round on the tablecloth, once, and then agai
 “I was sure,” he said.
 
 That was all. He did not say what of, or how. Lyra waited, and he did not say anything else, and after a while she took the two things, *I know* and *I was sure*, and set them down side by side somewhere inside her, next to a question she had worked on all one summer on a window seat at the Manor, about a diary and a number seven and a house up north, and had never asked; and left them there.
+
+⁂
+
+The buzzing round the table broke like a bubble. Professor Dumbledore was standing beside the Christmas tree, in his plum-coloured robes, with his hands folded in front of him and the fairies lighting up his beard.
+
+“Forgive me, Miss Malfoy,” he said. “I must borrow your partner. Madam Pomfrey has been very patient, and that arm has been out of her hands for long enough.”
+
+Lyra turned and looked at Potter. Potter found something interesting in the Christmas tree.
+
+“It’s a curse, I’m afraid,” said Dumbledore, quite pleasantly, to the table at large. “The plant in question was confiscated from a gentleman in Lima a long time ago, and it has had a great many years in the dark to think about its grievances. If it is left, the mark will stay.”
+
+“Professor,” said Potter, “surely a man can have one scar that isn’t on his forehead.”
+
+“Hospital wing,” said Lyra. “Now. If you come back with that on your arm for good, Potter, I shan’t look at it, and I shan’t look at you either.”
+
+Potter got up. He did it slowly, like somebody leaving a fire on a cold night, and looked down at her as though there were a great deal more he had meant to say and the evening had run out first.
+
+Dumbledore was looking at her too.
+
+She knew the look. She had met it once before, at the end of a long night in a corridor, with a rat in ropes on the floor between them, and it had gone through her like a hand through cobwebs and seemed quite able to take her apart and lay the pieces out on a table. This was not that. It rested on her for a moment, mild and blue and in no hurry, and then it went to Potter, and rested on him in exactly the same way, and then came back to her; and it was not taking anybody apart. It was asking something. She had no idea what, and she did not think, from his face, that Dumbledore knew the answer either.
+
+Potter was still standing there.
+
+Lyra reached up, took hold of the end of his tie, which had never been straight all evening, and pulled, so that he had to bend down to her.
+
+“Tomorrow still comes,” she said, into his ear.
+
+He had said it to her once, at the end of a February night, in a voice as gentle as he had: *go to bed, Malfoy. Tomorrow I’ll tell you everything.* Tomorrow had come, and brought Dumbledore with it, and a great many things had gone on not being told. She did not say any of that. She did not need to. She felt him hear it.
+
+“Tomorrow,” said Potter.
+
+She let go of the tie. He straightened it, which made it worse, and went off across the Hall at Dumbledore’s side, looking back twice before the crowd closed over him.
+
+Granger had her chin in her hand again.
+
+“Don’t,” said Lyra.
+
+“I didn’t say anything.”
+
+“You were going to.”
+
+“I was going to say,” said Granger, “that I’ve never seen anybody tell Harry to go to the hospital wing and have him actually go.” She picked up her butterbeer. “You should do it more often. It would save Madam Pomfrey a great deal of trouble.”
+
+Lyra drank her own butterbeer, and did not answer, and found she did not mind the corner table quite as much as she had.
