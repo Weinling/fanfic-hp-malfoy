@@ -4,16 +4,25 @@ Lo pone al día cada sesión autónoma al terminar. Lo más nuevo, arriba.
 
 ## 23 de octubre de 2026, noche (sesión autónoma 1, desde las 20:37)
 
-**Listo para subir a Webnovel:**
-- **Capítulo 32, «Plain Silver»** (`borradores/cap-32-plain-silver.md`, ~4.590 palabras). Criticado (primero del cuarto curso para el crítico) y con arreglos. Tiempo: ficha a las 20:44, escrito a las 20:49, cerrado a las 21:02 (horas de los commits).
+**Listos para subir a Webnovel** (todos criticados por un Opus y con los arreglos aplicados; horas de los commits: ficha → borrador → cerrado):
+- **32, «Plain Silver»** (`borradores/cap-32-plain-silver.md`, ~4.590 palabras). 20:44 → 20:49 → 21:02. Para el crítico, el primero del cuarto curso.
+- **33, «Tomorrow Still Comes»** (`borradores/cap-33-tomorrow-still-comes.md`, ~3.880). 20:53 → 20:56 → 21:07.
+- **34, «Sneakoscope»** (`borradores/cap-34-sneakoscope.md`, ~3.100). 21:02 → 21:05 → 21:15.
+- **35, «Spectacle»** (`borradores/cap-35-spectacle.md`, ~4.350). 21:09 → 21:13 → 21:21.
+- **36, «Below Stairs»** (`borradores/cap-36-below-stairs.md`, ~3.220). 21:17 → 21:20 → 21:25.
+- (Las horas son las del reloj de la máquina; cada capítulo lleva ficha, escritura escena a escena con commit, pasada de tics, crítica, arreglos, manual y continuidad.)
 
 **Decisiones tomadas:**
-- **32:** el guion, tal cual, con un gesto nuevo: Lyra se pone el anillo en el dedo durante los tres días y lo lleva a la vista en el Baile (al final se pone rosa, y el de Harry también). Moody no miente: «that ring can’t reach him». Krum, además de «She refuse me», dice «Is lucky for me» mirando a Granger, para que ella no quede de segunda.
-- **33:** Percy («Ron’s brother») en el sitio de Crouch en el Baile, como en el canon; la semilla de Winky la trae Granger por él.
+- **32:** Lyra se pone el anillo en el dedo los tres días que Harry está en el baúl y lo lleva a la vista en el Baile (al final, rosa, y el de él también). Moody no miente: «that ring can’t reach him». Krum, además de «She refuse me», dice «Is lucky for me» mirando a Granger.
+- **33:** Percy («Ron’s brother») en el sitio de Crouch en el Baile, como en el canon; la semilla de Winky la trae Granger por él. Harry no le pide perdón a Lyra (para no dejarla en deuda), y sí a Granger.
+- **34:** el interrogatorio de Moody es en su despacho, sin secuestro ni Skeeter atada; la confesión («I accepted because I *wanted* to!») es elección de Lyra, no obligación.
+- **35:** Lyra resuelve el huevo con un libro (el sirenio suena a chillido fuera del agua); se niega a ser rehén y el rehén es Weasley. La bufanda de cachemir del 7 se queda con Harry.
+- **36:** Lyra y Winky en las cocinas (sin Granger); Dobby, una línea. Lyra paga el filete de Buckbeak y contesta a Lupin. El quinto beso en la boca, corto, en Hogsmeade. La pista de la casita: el señor se va «to see some old friends… high time».
+- **37 (en crítica):** Karkaroff dice «when we are all together in the north»; Lyra piensa en Northumberland y se lo calla a Harry, al que antes ha hecho jurar que no mentiría.
 
-**Cambios del rumbo:** ninguno.
+**Cambios del rumbo:** ninguno. Todo sigue el guion aprobado de la tanda.
 
-**Preguntas que no bloquean:** el 32 queda en ~4.590 palabras (techo orientativo 4.200); el crítico no bajaría de 4.450.
+**Preguntas que no bloquean:** el 32 y el 35 pasan del techo orientativo (4.590 y 4.350); el crítico no los bajaría más.
 
 ## 23 de octubre de 2026 (sesión principal, antes de dormir)
 
