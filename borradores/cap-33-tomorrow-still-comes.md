@@ -12,7 +12,7 @@ Lyra had suspected it, and she found out in the first eight bars. He did not tre
 
 She had been taught to waltz at five years old, in the long room at the Manor, by a little man with a fiddle who rapped her ankles with his bow when she looked at her feet. She did not look at her feet. She took the lead from underneath, without appearing to, so that from the tables it would look as if Harry Potter had been dancing all his life, and after a while he noticed what she was doing and stopped fighting it, and they went round rather better.
 
-It was the middle of the Great Hall on Christmas night, with the frost glittering on the walls and every eye in the room on her, and it was what she had pictured on the night of the dragons, nearly to the last pin. She found she was not thinking about the room at all.
+It was the middle of the Great Hall on Christmas night, with the frost glittering on the walls and every eye in the room on her, and it was what she had pictured on the night of the dragons, nearly to the last pin; and she was not thinking about the room.
 
 “Why did you do that?” said Potter, under the music.
 
@@ -66,7 +66,7 @@ He did not want that between them. She watched him decide so.
 
 Lyra stepped on his foot. She did it neatly, with her heel, on the beat, and he made a small noise and did not let go of her, and she felt a good deal better.
 
-The music ended. The Hall clapped, the way halls do for champions, and Potter stood in the middle of it holding her hand and looking at her as though he had forgotten there was anybody else in the room, which was very bad for her composure and, she thought, for his reputation.
+The music ended. The Hall clapped, the way halls do for champions, and Potter stood in the middle of it and went on holding her hand for some while after the clapping had stopped, which was very bad for her composure and, she thought, for his reputation.
 
 “Malfoy.”
 
@@ -274,7 +274,7 @@ Lyra drank her own butterbeer, and did not answer, and found she did not mind th
 
 Her father’s owl came on the Thursday.
 
-It came down the length of the Great Hall at breakfast, the big eagle owl from the Manor with the white ruff, and it landed beside her plate as though the plate had been laid for it, and held out its leg, and waited. Half the Slytherin table stopped eating to watch her take the letter off. It had been thirty days. She had counted, without meaning to, the way one counts the steps of a staircase in the dark.
+It came down the length of the Great Hall at breakfast, the big eagle owl from the Manor with the white ruff, and it landed beside her plate as though the plate had been laid for it, and held out its leg, and waited. Half the Slytherin table stopped eating to watch her take the letter off. It had been thirty days. She had not counted them; she simply knew.
 
 She read it at the table, because not reading it would have been a statement, and she was not ready to make one.
 
