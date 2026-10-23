@@ -218,9 +218,9 @@ She went out, and shut it behind her, and did not hurry on the stairs.
 
 The robes came on the second Saturday in December, by the Manor’s grey owl, in a long flat box tied with silver ribbon.
 
-Lyra opened it on her bed with the hangings drawn. Inside, in tissue paper, was a fall of dark violet silk, the colour of the sugared violets her mother had bought her since she was small, cut close and plain and very expensive, with nothing on it anywhere that a person could point to and call decoration. It was perfect. Her mother did not make mistakes about clothes.
+Lyra opened it on her bed with the hangings drawn. Inside, in tissue paper, was a fall of dark violet silk, the colour of the sugared violets from her mother’s confectioner, cut close and plain and very expensive, with nothing on it anywhere that a person could point to and call decoration. It was perfect. Her mother did not make mistakes about clothes.
 
-On top of the tissue lay a card. It was not in the hand her mother used for invitations, with the loops. It was the other one, small and upright, the one Lyra had seen exactly once before, at the bottom of a letter about Regulus Black.
+On top of the tissue lay a card. It was not in the hand her mother used for invitations, with the loops. It was the other one, small and upright, the one Lyra had seen exactly once before, on a letter about Regulus Black that she had been told to burn.
 
 *I chose the colour. You will tell me, I hope, whom it is for.*
 
@@ -257,3 +257,35 @@ She had met him here once before. She did not stop, this time. She walked straig
 Then he went stumping off along the bank into the dark, *clunk*, *clunk*, and left her standing on the path.
 
 She had been alone in that cabin with Karkaroff. There had been nobody else on that ship within three walls of them.
+
+⁂
+
+On the last Wednesday before Christmas, a little after midnight, Harry Potter let himself into Mad-Eye Moody’s office with Sirius at his back and his father’s cloak over both of them.
+
+Dumbledore had been gone for four weeks. Nobody would say where. At ten o’clock Harry had watched Moody stump off down the marble staircase on his rounds, and Moody’s rounds took an hour; he had taken them every night of term, as regular as the flask.
+
+“Trust me,” Harry had said, on the stairs, when Sirius asked how he could be so sure. He had said it to Lyra once, in a shack, and it had not helped then either. He did not tell Sirius where the certainty came from. He did not tell anybody that.
+
+What he had seen, he could have told anybody. He had seen the flask, every hour, on the hour, in lessons and at meals and on the edge of the pitch. He had seen the map in September, with a dot in this office labelled *Alastor Moody*, night after night, and nowhere on any floor of the castle a dot labelled *Bartemius Crouch*. And he knew about the trunk.
+
+So it was Moody. It was Moody’s body, and Moody’s eye, and Moody’s name on the map, and somebody else at the other end of the strings, somewhere the map could not see. The Imperius did not need you to be in the room. It only needed you to be close. And there was one place in this office, he was sure of it, that the map could not see into.
+
+That was why he had lent the map. A man who had the map would think he could see Harry coming.
+
+He would not have moved tonight. He might have waited until after Christmas, until Dumbledore was back, if it had not been for a newspaper on a Tuesday, and something Moody had said to him in October with both eyes on him: *A sweetheart’s the first thing a Dark wizard goes for.* Whoever was working Moody had read the *Prophet* too.
+
+The trunk stood against the far wall under the window. Seven locks down the front of it, seven keyholes, brass going green.
+
+“Harry,” Sirius breathed. “If you’re wrong—”
+
+“Then I’ll say sorry.”
+
+He did not go to the first lock. He went straight to the seventh, and laid his wand against it, and said the word, and the lid swung up.
+
+There was no room inside. There was a square shaft going down, ten feet or more, into a stone floor that should not have fitted inside a trunk, and Harry put his lit wand over the edge and looked.
+
+It was empty. It had been swept.
+
+Behind him, from the dark corner of the office where there had been nothing a minute ago, something creaked like a wooden leg taking weight, and a piece of parchment rustled, as if somebody were folding up a map.
+
+“Looking for somebody, Potter?”
