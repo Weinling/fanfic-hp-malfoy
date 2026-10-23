@@ -1,6 +1,6 @@
 # Continuidad transversal
 
-Hecho el 11 de octubre de 2026 a partir de todos los manuales y del handoff, tras el capítulo 28. Actualizado tras el 29 y tras el 30 (12 de octubre), tras el retoque del 25 al 30 (18 de octubre) tras el 31 al 38 (23 de octubre). Recoge lo que está repartido por los manuales y se escapa con facilidad: los hitos de la pareja, quién sabe qué y desde cuándo, cómo está cada personaje, las fichas vivas y las deudas abiertas.
+Hecho el 11 de octubre de 2026 a partir de todos los manuales y del handoff, tras el capítulo 28. Actualizado tras el 29 y tras el 30 (12 de octubre), tras el retoque del 25 al 30 (18 de octubre) tras el 31 al 39 (23 de octubre). Recoge lo que está repartido por los manuales y se escapa con facilidad: los hitos de la pareja, quién sabe qué y desde cuándo, cómo está cada personaje, las fichas vivas y las deudas abiertas.
 
 **Se actualiza al cerrar cada capítulo**, en el mismo paso que el manual. Si algo de aquí choca con el texto, manda el texto; corrige este archivo.
 
@@ -47,8 +47,9 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 | Mar. 1995 | 36 | Él le cuenta sin que pregunte lo que le dijo Dumbledore («That is what troubles me»). Hogsmeade con Weasley y Granger; él le coge la mano bajo la mesa. **Quinto beso en la boca**, muy corto, en la calle, delante de la oficina de correos, sin razón | Weasley, Hogsmeade | «Not in front of the post office.» / «Where, then?» |
 | Jun. 1995 | 37 | Ella le llama con el anillo; le hace jurar que no mentirá. Él: «A useful enemy» (de Lucius). Ella defiende lo que piensa su familia (el Estatuto, los dotados arriba). Él: «where’s she?» (Granger). **Ella le miente** («Nothing») sobre Karkaroff y el norte. Al día siguiente él no está en la escalera | Nadie | «She had needed only one.» |
 | 24 jun. 1995 | 38 | La tercera prueba: él gana feo (aturde a Diggory); en el podio la busca y la encuentra entre cientos; se miran. Sin palabras | Toda la escuela | — |
+| 26 jun. 1995 | 39 | **La lechucería.** Ella le pone delante la lista y deduce: «You’ve done this before»; él lo admite (otra vida, sin Lyra; Draco). Ella saca la Cámara («She was *eleven*») y el huevo. **Rompen:** su familia está dentro; ella le mintió (no dice sobre qué); él la tuvo a crédito sin decirle las condiciones. **Sexto beso en la boca, el de despedida**, de pie | Nadie | «It’s the last time.» / «We’ll see.» |
 
-**Besos en la boca hasta ahora: cinco (3, 19, 29, 30 y 36).** Además: la frente (24), el hocico (27, «no cuenta»). El del 29 es el primero elegido por los dos, sin excusa: él lo pide y ella dice «Yes». El del 30 es el primero que empieza ella, a través de la capa. **Racha:** el 26, el 27, el 29 y el 30 tienen pago romántico; el 31 no; el 32 sí (en público, sin beso); el 33 sí (el baile, sin beso); el 34 no (la confesión es ante Moody); el 35 sí (la orilla, sin beso); el 36 sí (Hogsmeade, el quinto beso); el 37 no (baja); el 38 no (solo una mirada); y el próximo beso no se vende como otro «primero» (crítico).
+**Besos en la boca hasta ahora: seis (3, 19, 29, 30, 36 y 39, el de despedida).** Además: la frente (24), el hocico (27, «no cuenta»). El del 29 es el primero elegido por los dos, sin excusa: él lo pide y ella dice «Yes». El del 30 es el primero que empieza ella, a través de la capa. **Racha:** el 26, el 27, el 29 y el 30 tienen pago romántico; el 31 no; el 32 sí (en público, sin beso); el 33 sí (el baile, sin beso); el 34 no (la confesión es ante Moody); el 35 sí (la orilla, sin beso); el 36 sí (Hogsmeade, el quinto beso); el 37 no (baja); el 38 no (solo una mirada); el 39, la ruptura; y el próximo beso no se vende como otro «primero» (crítico).
 
 **Traslados en brazos:** primero (Y1-1, rodando), el 5 (corriendo bajo la capa), el 27 (hurón, andando).
 
@@ -89,7 +90,7 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 - A Lyra le dijo «Dumbledore told me» (14), y ella no se lo cree del todo (no explica Northumberland).
 - Sabe cosas antes de que pasen (24, 25).
 - **La Copa (30):** en la tienda, al oír a Bagman decir «one step nearer the Triwizard Cup» tras el huevo de Diggory, Potter vuelve la cabeza y la deja ahí un momento de más; Lyra lo achaca a ser campeón. Es la primera mención de la Copa del Torneo en el fic. Semilla de la deducción del final del cuarto (handoff §17). No añadir otra pista de la Copa hasta la tercera prueba sin decidirlo.
-- **Decidido por el autor (18 de octubre), sin revelar aún en el texto:** viaje en el tiempo. Harry viene de un mundo sin Lyra (el del canon, con Draco de su edad) y despertó en el niño de once años en el pasillo de *Year One* 3, con la cicatriz como puerta. Antes de eso es un niño sin pasado (16, *Y1* 1 y 2). Lo propio de este mundo (el juramento) se lo contó Dumbledore. Detalle y agujeros pendientes: `docs/notas/lo-que-sabe-harry.md`.
+- **Decidido por el autor (18 de octubre); revelado a Lyra en el 39 (primera capa):** viaje en el tiempo. Harry viene de un mundo sin Lyra (el del canon, con Draco de su edad) y despertó en el niño de once años en el pasillo de *Year One* 3, con la cicatriz como puerta. Antes de eso es un niño sin pasado (16, *Y1* 1 y 2). Lo propio de este mundo (el juramento) se lo contó Dumbledore. Detalle y agujeros pendientes: `docs/notas/lo-que-sabe-harry.md`.
 
 ### Sirius y Pettigrew
 - **Lyra:** Sirius es inocente; Pettigrew era el guardián y vive (14); era Scabbers (19); lo vio confesar (22). En el 19 no se fijó en los dedos de la rata («I did not count its *toes*, Weasley»).
@@ -208,6 +209,13 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 - **Lyra** ha visto de cerca la cara de Crouch: **el Imperius**, sin duda. Ha visto a **Snape apretarse el antebrazo izquierdo**, blanco, la noche de la prueba. **Karkaroff se fue esa noche con el barco**, dejando a sus alumnos en tierra (en la fiesta del castillo) y el abrigo en la silla. Lyra no se lo ha dicho a nadie; no fue a Dumbledore.
 - **El anillo:** verde desde el podio.
 - **Durmstrang:** sin barco ni director; Krum, en la orilla al amanecer, junto a Lyra.
+
+### Lo que cambia en el 39 (23 de octubre)
+- **ROTOS** desde el lunes 26 de junio de 1995, en la lechucería. Ella lo dejó.
+- **Lyra sabe el secreto de Harry (primera capa):** viene de otra vida en un mundo muy parecido, donde ella no existía y el Malfoy de su curso era Draco; volvió a trozos en un pasillo en el invierno de primero, con Quirrell; dejó pasar la Cámara (para no perder lo que sabía y para conseguir el diario y el colmillo); le dejó resolver el huevo; Dumbledore lo sabe desde el final de segundo (y nadie más: ni Sirius, ni Ron, ni Hermione). **No sabe** cómo acabó esa vida («Can’t»): la segunda capa, el Horrocrux, para el sexto.
+- **Lucius** (carta de dos capas, 26 de junio): «Our master has returned»; la familia, muy alta en su favor por el recado de noviembre; le dijo al Señor Tenebroso que el diario se perdió en las redadas del Ministerio (la tapadera de Lyra, 17), y Lyra dirá lo mismo; «you are a Malfoy». **El voto del 17 deja de ser una idea.**
+- **Harry** sabe que Lyra le mintió en el 37 (no sobre qué) y que ella lo sabe todo menos la segunda capa. Le ofreció protegerla; ella se negó.
+- **El anillo:** Lyra no se lo quitó en la lechucería.
 
 ## 5. Fichas vivas
 

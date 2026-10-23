@@ -1,5 +1,7 @@
 # Lo que sabe Harry: lista capítulo a capítulo
 
+> **Actualización (23 de octubre de 2026, modo autónomo): en el 39 Lyra lo deduce y Harry lo admite** (la primera capa: otra vida, sin Lyra, con Draco; volvió a trozos en el pasillo del *Year One* 3; dejó pasar la Cámara por el diario y el colmillo y para no perder lo que sabía; le dejó resolver el huevo; Dumbledore lo sabe desde el final de segundo). Agujeros tapados en el texto: el 1 (la Cámara), el 3 («Can’t», a medias: «That one I can’t… Not yet») y el 5 (Dumbledore). La segunda capa (el Horrocrux) queda para el sexto.
+
 *18 de octubre de 2026. Hecha durante la lectura completa (del 1 al 26 y los* Year One *1 a 4 en texto completo; del 27 al 30, por sus manuales). Tarea 3 de `sesion-nueva-18-oct.md`. Para el autor.*
 
 **Las cuatro explicaciones que se prueban** (en las notas de abajo van abreviadas):
