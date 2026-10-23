@@ -1,6 +1,6 @@
 # Continuidad transversal
 
-Hecho el 11 de octubre de 2026 a partir de todos los manuales y del handoff, tras el capítulo 28. Actualizado tras el 29 y tras el 30 (12 de octubre), tras el retoque del 25 al 30 (18 de octubre) tras el 31 al 35 (23 de octubre). Recoge lo que está repartido por los manuales y se escapa con facilidad: los hitos de la pareja, quién sabe qué y desde cuándo, cómo está cada personaje, las fichas vivas y las deudas abiertas.
+Hecho el 11 de octubre de 2026 a partir de todos los manuales y del handoff, tras el capítulo 28. Actualizado tras el 29 y tras el 30 (12 de octubre), tras el retoque del 25 al 30 (18 de octubre) tras el 31 al 36 (23 de octubre). Recoge lo que está repartido por los manuales y se escapa con facilidad: los hitos de la pareja, quién sabe qué y desde cuándo, cómo está cada personaje, las fichas vivas y las deudas abiertas.
 
 **Se actualiza al cerrar cada capítulo**, en el mismo paso que el manual. Si algo de aquí choca con el texto, manda el texto; corrige este archivo.
 
@@ -44,8 +44,9 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 | 25 dic. 1994 | 33 | El baile: «Why did you do that?»; la disculpa que él no pide («No. You’d only have to forgive me»). **Por primera vez le cuenta dónde ha estado** (el baúl de Moody, tres días), delante de ella y de Granger; se guarda a quién buscaba. Ella le da el escarabajo y él ya lo sabía («I know»; «I was sure»). «Tomorrow still comes» | Granger (el relato); Dumbledore (la mirada) | «That isn’t an apology.» |
 | 9–20 ene. 1995 | 34 | Pareja pública: él la acompaña a Aritmancia cada mañana. Ante el chivatoscopio de Moody, ella dice **«I accepted because I *wanted* to!»**; él no lo sabe. En la coda él le coge la mano y mira el anillo rosa; ella pregunta por el hijo de Crouch y él miente («He’s dead», dos veces) | Moody (la confesión) | «Stay away from Moody.» |
 | 18–24 feb. 1995 | 35 | La orilla: ella resuelve el huevo y le sujeta del cuello de la túnica con la cabeza en el lago; **él le cuenta la alacena y que no sabe nadar** («He’s still my uncle»); ella le seca el pelo con su bufanda de cachemir y se la deja. Ella se niega a ser rehén. En la prueba, él sale con la bufanda puesta; ella le roba a Fleur el segundo beso, a la francesa | Weasley, Fleur, la escuela (la orilla) | «I didn’t want to lose it.» |
+| Mar. 1995 | 36 | Él le cuenta sin que pregunte lo que le dijo Dumbledore («That is what troubles me»). Hogsmeade con Weasley y Granger; él le coge la mano bajo la mesa. **Quinto beso en la boca**, muy corto, en la calle, delante de la oficina de correos, sin razón | Weasley, Hogsmeade | «Not in front of the post office.» / «Where, then?» |
 
-**Besos en la boca hasta ahora: cuatro (3, 19, 29 y 30).** Además: la frente (24), el hocico (27, «no cuenta»). El del 29 es el primero elegido por los dos, sin excusa: él lo pide y ella dice «Yes». El del 30 es el primero que empieza ella, a través de la capa. **Racha:** el 26, el 27, el 29 y el 30 tienen pago romántico; el 31 no; el 32 sí (en público, sin beso); el 33 sí (el baile, sin beso); el 34 no (la confesión es ante Moody); el 35 sí (la orilla, sin beso); y el próximo beso no se vende como otro «primero» (crítico).
+**Besos en la boca hasta ahora: cinco (3, 19, 29, 30 y 36).** Además: la frente (24), el hocico (27, «no cuenta»). El del 29 es el primero elegido por los dos, sin excusa: él lo pide y ella dice «Yes». El del 30 es el primero que empieza ella, a través de la capa. **Racha:** el 26, el 27, el 29 y el 30 tienen pago romántico; el 31 no; el 32 sí (en público, sin beso); el 33 sí (el baile, sin beso); el 34 no (la confesión es ante Moody); el 35 sí (la orilla, sin beso); el 36 sí (Hogsmeade, el quinto beso); y el próximo beso no se vende como otro «primero» (crítico).
 
 **Traslados en brazos:** primero (Y1-1, rodando), el 5 (corriendo bajo la capa), el 27 (hurón, andando).
 
@@ -189,6 +190,12 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 - **Weasley** fue el rehén de Harry.
 - **Snape** mira a Lyra tras lo de su ventana (la cuenta del 20).
 
+### Lo que cambia en el 36 (23 de octubre)
+- **Lyra** sabe por Winky que Crouch «is not well», no come, y que Winky guardaba un asiento en el palco del Mundial; recuerda la silla vacía que crujió en el primer gol irlandés (24) y no lo interpreta. Sabe por Harry que Dumbledore le preguntó lo seguro que estaba («That is what troubles me»). Ha pagado el filete de Buckbeak y contestado a Lupin. Sabe por Draco que el señor de la casita se ha ido unas semanas al extranjero «to see some old friends… high time»; se ríe «a little late».
+- **Dobby** está en las cocinas de Hogwarts y se esconde de Lyra.
+- **Hagrid** la vio con Buckbeak (la cortina descorrida); siguen sin hablarse.
+- **Draco** tiene el ajedrez del señor de la casita.
+
 ## 5. Fichas vivas
 
 | Ficha | Dónde está | Última vez | Nota |
@@ -201,7 +208,7 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 | Los anillos | **Lyra, en el anular izquierdo, a la vista, desde el 23 de diciembre**; Harry, el suyo en la derecha | 32 | Colores: rojo (peligro de muerte), rosa (con su pareja), morado (en guardia), dorado (éxito), verde (a salvo), azul (solo insinuado en el 24: «anything that might come out blue»; el plan dice «te echa de menos»), azul oscuro (dormido, sin nombrar en el texto). Parpadeo: el otro le busca. Se calienta hacia el otro. Plata lisa: el otro está donde el anillo no llega (el baúl de Moody, 32) |
 | Los omniculares de Potter | Lyra; en la Manor, bajo la almohada (25) | 25 | Dos horas de ella grabadas. **No son ficha** (autor): no vuelven como tal |
 | La insignia S.P.E.W. | Bolsillo de Lyra | 26 | Los dos galeones: prometidos, no consta que se pagaran |
-| La carta de Lupin | Bolsa de Lyra | 29 | Sin contestar: la respuesta está empezada («*Dear Professor Lupin*») |
+| La carta de Lupin | Bolsa de Lyra | 36 | **Contestada** en abril de 1995 (una página, firmada *Yours sincerely*) |
 | La Saeta de Fuego de Lyra | En su estuche, en las mazmorras | 29 | Sin Quidditch este curso. Salió el martes 15 para volar con Krum |
 | La Saeta de Fuego de Harry | Harry | 30 | Comprada tras el «No need» del 23; convocada en la primera prueba. Lyra la distingue por el número de matrícula |
 | La capa | **Harry** (se la devolvió Lyra el 29 de noviembre) | 31 | Se la dio Harry en la comida del 24 de noviembre; no consta que se la haya devuelto. Moody ve a través de ella |
@@ -219,7 +226,7 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 - **Lyra → Snape:** la mentira de la orilla; cuenta abierta y vigilada.
 - **Lyra → Narcissa:** la posdata, contestada (33). Narcissa no ha respondido aún.
 - **Lyra → Granger:** el insulto del 7, sin disculpa. Lo de los onces y el horario quedó «square» (15).
-- **Lyra → Buckbeak:** un filete.
+- **Lyra → Buckbeak:** un filete, **pagado** en abril de 1995 (36).
 - **Lyra → Crabbe:** respuesta a medias (23); el anillo.
 - **Lucius ↔ Lyra:** la Saeta (cariño y correa); la carta lacrada a Karkaroff (la usa; Lyra no la abrió).
 - **Karkaroff → Lucius:** dinero, un puesto, una palabra.
