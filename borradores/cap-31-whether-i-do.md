@@ -8,7 +8,7 @@ He had combed his hair. She could not think when he had found the time.
 
 “The Ball,” said Parkinson. “Christmas. I thought, since we’re both— since everybody knows we’d look—” He gave it up and went straight at it, like a Beater at a Bludger. “Will you go with me?”
 
-The common room had gone quiet in the particular way of a room that has stopped talking in order to listen better. Somebody by the fire put down a chess piece without moving it.
+The common room had stopped talking in order to listen better. Somebody by the fire put down a chess piece without moving it.
 
 “Panther,” said Lyra, “that is very kind of you.”
 
@@ -16,9 +16,9 @@ He brightened.
 
 “And I wouldn’t dream of it,” said Lyra, with exactly the same warmth, “because you would spend the whole evening watching me for my reaction to things, and you deserve a girl who will let you look at the decorations.” She smiled at him, the smile her mother kept for the wives of junior ministers. “Ask Daphne. She’s been wanting you to for a week.”
 
-Daphne Greengrass, on the sofa, went the colour of a radish and hit the girl next to her for laughing. Parkinson looked at Daphne, and then at Lyra, and then at Daphne again, like a man who has been handed his own coat and is not sure he was leaving; and the common room, which had been holding its breath, let it out all at once and began to guess.
+Daphne Greengrass, on the sofa, went the colour of a radish and hit the girl next to her for laughing. Parkinson looked at Daphne, and then at Lyra, and then at Daphne again, like a man who has been handed his own coat and is not sure he was leaving; and the common room, which had been holding its breath, let it go and began to guess.
 
-It guessed all evening. It guessed Montague, who was in sixth year and had a moustache, and Warrington, who had asked three people already; it guessed a Durmstrang seventh-year with a scar through one eyebrow, and somebody at the back said *Diggory* and was told not to be disgusting. Lyra let it guess. She sat in her chair by the fire with her Arithmancy open on her knee and did not turn a page, and every time a new name went round she looked mildly amused, which was the only expression that did not confirm anything.
+It guessed all evening. It guessed Montague, who was in sixth year and had a moustache, and Warrington, who had asked three people already; it guessed a Durmstrang seventh-year with a scar through one eyebrow, and somebody at the back said *Diggory* and was told not to be disgusting. Lyra let it guess. She sat in her chair by the fire with a book she had no intention of reading, and every time a new name went round she looked mildly amused, which was the only expression that did not confirm anything.
 
 “I’ve got one already,” said Goyle, beside her, to nobody in particular.
 
@@ -36,9 +36,9 @@ Crabbe said nothing at all.
 
 She sat on Lyra’s other side, sewing a button back on her cardigan with her tongue between her teeth, and she did not ask whom Lyra was going with. Lyra waited for it. It was the first thing Crabbe would want to know, ahead of Goyle’s secret and well ahead of the button, and Lyra had her answer ready, the light one, the one that committed her to nothing; and Crabbe bit off the thread, and held the cardigan up to look at it, and still did not ask.
 
-Lyra turned a page she had not read.
+Lyra moved her book an inch on her knee, and went on not reading it.
 
-Crabbe, she thought, had stopped asking her things she already knew the answer to. She could not remember when. You never saw Crabbe do anything. You only looked up and found it done.
+Crabbe, she thought, had stopped asking her things she already knew the answer to.
 
 ⁂
 
@@ -68,7 +68,7 @@ She looked down the table. Parkinson had seen her face and was finding something
 
 Lyra took out her wand, laid the tip of it against the corner of the *Prophet*, and said, “*Incendio.*”
 
-It went up in a single soft rush, like the last of her father’s letters, and left nothing behind on the table but a faint smell of hot ink and a ring of silence that went most of the way down the Slytherin bench.
+It burned without a sound, like the last of her father’s letters, and left nothing behind on the table but a faint smell of hot ink and a ring of silence that went most of the way down the Slytherin bench.
 
 “Gossip,” said Lyra. “I shan’t trouble to deny it. It doesn’t deserve it.”
 
@@ -82,9 +82,9 @@ Parkinson cleared his throat.
 
 “So it isn’t true,” he said. “Any of it. So you haven’t got— so you’re not going with—”
 
-Crabbe and Goyle turned and looked at him with deep and identical pity.
+Crabbe and Goyle turned and looked at him, both at once, as one looks at a man walking into a lake.
 
-She did not weigh it. It came out because the whole table was waiting for it, and because there was only one answer she could give that nobody in Slytherin would dream of doubting.
+She said it because the whole table was waiting for it, and because there was only one answer she could give that nobody in Slytherin would dream of doubting.
 
 “I’m going with Viktor Krum,” she said.
 
@@ -120,7 +120,7 @@ There had been a beetle. A fat, glossy, bluish thing, blundering about against t
 
 A beetle was a stupid idea, and she turned it over carefully because of that. Sirius Black had spent a year as a dog, eating chocolate out of her hand, and not a soul in the Ministry had known he could do it. Peter Pettigrew had spent twelve years as a rat on a Gryffindor’s pillow. Neither of them had been in any register. If two of them could do it, so could a third; and if the third was a woman who made her living by being in rooms she had not been invited to—
 
-She was nearly sure. She did not know how she would ever prove it, and she did not need to prove it. She only needed to know it, and to know that nobody else did, and she stood there on the wet path and felt it settle into her like a coin into a purse.
+She was nearly sure. She did not know how she would ever prove it, and she did not need to prove it. She only needed to know it, and to know that nobody else did, and she stood there on the wet path and felt it settle in her, small and heavy and hers.
 
 She did not think she would tell anybody. Not Crabbe. Not Potter, either; not yet. Potter had told her a great many things since the summer, and every one of them had arrived a little late, after he had already decided what to do with it. She could be late too.
 
@@ -140,9 +140,9 @@ The wind came off the lake and found the back of her neck, and Lyra put her coll
 
 The ring began in Charms.
 
-It was in her pocket, where it lived now, and halfway through Cheering Charms it started up against her fingers: warm, and then cool, and then warm again. The other one was looking for her. Twice in October she had felt it do that and gone the other way, and on Hallowe’en she had stopped going the other way.
+It was in her pocket, where it lived now, and halfway through Cheering Charms it started up against her fingers: warm, and then cool, and then warm again. The other one was looking for her. Twice in October she had felt it do that and gone the other way, and since Hallowe’en she had mostly stopped.
 
-When the bell rang she let Crabbe and Goyle go on down to lunch, and turned on the stairs with her hand in her pocket until the ring grew warm towards the first floor, and followed it to the classroom with the bad window, where a door that had been shut that morning stood an inch open.
+When the bell rang she let Crabbe and Goyle go on down to lunch, and turned on the stairs with her hand in her pocket until the ring grew warm towards the third floor, and followed it to an empty classroom behind a tapestry of a knight asleep on his horse, where a door that had been shut that morning stood an inch open.
 
 Potter was sitting on a desk with his feet on a chair. He did not get up.
 
@@ -152,7 +152,7 @@ Potter was sitting on a desk with his feet on a chair. He did not get up.
 
 She had been carrying his cloak in her bag for five days. She took it out, and shook it once, and dropped the whole cold slippery armful of it into his lap, as he had dropped it into hers outside the Great Hall.
 
-Potter looked down at it. He did not say *thanks*. He looked tired, the way he had looked on the train with the frost on the window, and she disliked that and did not let it show.
+Potter looked down at it. He looked tired, the way he had looked on the train with the frost on the window, and she disliked that and did not let it show.
 
 “It was in the tent,” he said. “Somebody was. I didn’t see anybody.”
 
@@ -170,9 +170,7 @@ He shut his mouth. For a moment he looked as if he had a great deal more of it r
 
 “Well. Not a cupboard.”
 
-“Potter,” said Lyra, “do I look like something that waits under the table for whatever is left on somebody else’s plate?”
-
-He looked at her. Whatever he had been about to say, he did not say it.
+“Potter,” said Lyra, “do I look like a girl who eats what other people have left on their plates?”
 
 “I thought not.” She picked up her bag. “Well. I shan’t keep you. I have a great deal to do before Christmas, as it happens. I have dress robes to try on, if my mother ever sends them, and a scent to find, because the one I have is for daytime, and I shall have to do something about my hair that takes rather longer than this.” She settled the strap on her shoulder. “So if you don’t mind.”
 
@@ -180,7 +178,7 @@ She was at the door with her hand on it when he said, “Wait.”
 
 She did not turn round. She waited, which was not the same thing.
 
-She had said it quite lightly, like a list of errands. She heard it now from the inside of his silence, the way he must have heard it: the robes, and the scent, and the hair, and five days of thinking about nothing else. She had not meant him to hear any of that, or she had, and she found she did not know which, and that she was not going to look at him until she did.
+She had said it quite lightly, like a list of errands. She heard it now from the inside of his silence, the way he must have heard it: the robes, and the scent, and the hair. She had not meant him to hear any of that, or she had, and she found she did not know which, and that she was not going to look at him until she did.
 
 “Lyra,” said Potter. “Do you trust me?”
 
@@ -191,6 +189,8 @@ That made her turn.
 He laughed, short and surprised, nothing like his loud laugh, as if she had trodden on his foot and he had found he did not mind.
 
 “Thanks,” he said. “Honestly. Look. I’ll sort something out. I don’t know what yet, but I will. Only go with Krum.” He held up a hand before she could speak. “Or look as if you are. Let everybody think you are. Can you do that?”
+
+Lyra’s hand had closed on the strap of her bag. She made it open again.
 
 “I already have.”
 
@@ -226,9 +226,9 @@ On top of the tissue lay a card. It was not in the hand her mother used for invi
 
 Lyra read it twice. Then she put it inside the cover of her Arithmancy book, behind the tables of values, next to a strip of paper in the same hand that said *You may tell me anything*, and closed the book on both of them.
 
-She did not write back. She did not know what she would say.
+She did not write back.
 
-There was nothing from her father. That was the other thing, and she had been not thinking about it for eleven days. The *Prophet* went to the Manor every morning with his breakfast, and her father had answered every letter she had ever sent him within two days, usually within one, and generally at greater length than she wanted. She had not written to him since the ship. He had not written to her since the *Prophet*. It sat in the box beside the violet silk like a second present, and it was much heavier.
+There was nothing from her father. That was the other thing, and she had been not thinking about it for eleven days. The *Prophet* went to the Manor every morning with his breakfast, and her father had never in her life let a thing about her go unremarked for more than a day or two. She had not written to him since the ship. He had not written to her since the *Prophet*. It sat in the box beside the violet silk like a second present, and it was much heavier.
 
 ⁂
 
@@ -248,31 +248,21 @@ Lyra thought of a green skull over a field of tents, and a serpent sliding out b
 
 “Yes.” Karkaroff’s hand stayed where it was. “Yes, of course. Carried away.”
 
-She went back down the gangplank in the early dark with her collar up. The lamps were lit in the windows of the castle, a long way up the slope, and halfway there, on the path, there was a staff, and a shape leaning on it, and an eye.
-
-She had met him here once before. She did not stop, this time. She walked straight on, and he let her get level with him before he spoke, and he did not ask after Igor.
-
-“Krum, is it?” said Moody.
-
-Then he went stumping off along the bank into the dark, *clunk*, *clunk*, and left her standing on the path.
-
-She had been alone in that cabin with Karkaroff. There had been nobody else on that ship within three walls of them.
-
 ⁂
 
 On the last Wednesday before Christmas, a little after midnight, Harry Potter let himself into Mad-Eye Moody’s office with Sirius at his back and his father’s cloak over both of them.
 
 Dumbledore had been gone for four weeks. Nobody would say where. At ten o’clock Harry had watched Moody stump off down the marble staircase on his rounds, and Moody’s rounds took an hour; he had taken them every night of term, as regular as the flask.
 
-“Trust me,” Harry had said, on the stairs, when Sirius asked how he could be so sure. He had said it to Lyra once, in a shack, and it had not helped then either. He did not tell Sirius where the certainty came from. He did not tell anybody that.
+“Trust me,” Harry had said, on the stairs, when Sirius asked how he could be so sure. He had said it to Lyra once, in a shack, and it had not helped then either. He did not look at where the certainty came from. He had stopped looking, a long time ago.
 
-What he had seen, he could have told anybody. He had seen the flask, every hour, on the hour, in lessons and at meals and on the edge of the pitch. He had seen the map in September, with a dot in this office labelled *Alastor Moody*, night after night, and nowhere on any floor of the castle a dot labelled *Bartemius Crouch*. And he knew about the trunk.
+What he had seen, he could have told anybody. He had seen the flask, every hour, on the hour, in lessons and at meals and on the edge of the pitch. He had seen the map in September, with a dot in this office labelled *Alastor Moody*, night after night, and nowhere on any floor of the castle a dot labelled *Bartemius Crouch*. And there was the trunk.
 
 So it was Moody. It was Moody’s body, and Moody’s eye, and Moody’s name on the map, and somebody else at the other end of the strings, somewhere the map could not see. The Imperius did not need you to be in the room. It only needed you to be close. And there was one place in this office, he was sure of it, that the map could not see into.
 
 That was why he had lent the map. A man who had the map would think he could see Harry coming.
 
-He would not have moved tonight. He might have waited until after Christmas, until Dumbledore was back, if it had not been for a newspaper on a Tuesday, and something Moody had said to him in October with both eyes on him: *A sweetheart’s the first thing a Dark wizard goes for.* Whoever was working Moody had read the *Prophet* too.
+He would not have moved tonight. He might have waited until after Christmas, until Dumbledore was back, if it had not been for a newspaper on a Tuesday, and what Moody had told him in October, with both eyes on him, when he let Harry know he had seen the rings: that a sweetheart was the first thing a Dark wizard went for. Whoever was working Moody had read the *Prophet* too.
 
 The trunk stood against the far wall under the window. Seven locks down the front of it, seven keyholes, brass going green.
 
