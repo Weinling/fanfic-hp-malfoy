@@ -20,11 +20,11 @@ She took a book out of her bag and opened it at the place she had marked, and tu
 
 *The language of the merpeople is beautiful and musical below the surface, but to the ear above water it is almost wholly unpleasant, and has been compared by more than one unfortunate listener to a shriek.*
 
-Potter read it. He read it again. Then he looked up at her, and his face did something she had not expected. He did not look surprised. He looked, for a moment, purely and simply pleased, as though somebody he was very fond of had just done something clever in front of a great many people, and he had been waiting to see them do it.
+Potter read it. He read it again. He did not ask her where she had found it, or how, or whether she was sure; he shut the book carefully, with his hand flat on the cover, and sat looking at the hand.
 
 “There are merpeople in the lake,” said Lyra, in case he had not got there.
 
-“I know.” He shut the book carefully, with his hand flat on it. “Lyra. That’s brilliant.”
+“I know,” said Potter. He looked up, and he was grinning. “Lyra. That’s brilliant.”
 
 “I know,” said Lyra. “Get your cloak.”
 
@@ -56,6 +56,8 @@ He opened his eyes.
 
 “It was the next line,” said Lyra. “I heard it. Just. Through the water.” She sat back on her heels, and let go of his collar at last, and found that her fingers had gone white. “The lake, then. An hour. And they’re going to take something of yours.”
 
+*One of you dies*, said Moody, somewhere at the back of her head, *you or Potter*. She did not say it. She had not said any of it, in three weeks; and she sat on the frozen rock with the words in her mouth and let them stay there, and it was like holding a coal.
+
 Potter rolled over on to his back on the rock and lay there with the egg on his chest and the water running out of his hair into his ears, looking up at the sky.
 
 “I can’t swim, you know,” he said.
@@ -70,9 +72,7 @@ He said it to the sky, not to her, in an ordinary voice.
 
 “Nowhere. I stayed in.” He turned his head on the rock, and looked at the frozen edge of the lake. “There’s a cupboard under the stairs. At theirs. That’s where I slept, till I was eleven. They’d lock it when they went to the seaside, so I wouldn’t touch anything.”
 
-Lyra did not say anything at all.
-
-She had known that he had nobody at Christmas. She had known that his letters in the summer came by birds she had never seen before, and that he signed them with an ugly name, and that he never went home at Easter. She had not known this. She sat on her heels on the frozen rock and looked at him lying there, the most famous boy in Britain, with lake-water in his ears, telling the sky about a cupboard; and something went through her so hot and so fast that for a moment she could not see properly.
+She had known that he had nobody at Christmas. She had known that his letters in the summer came by birds she had never seen before, and that he signed them with an ugly name, and that he never went home at Easter. She had not known this. She sat on her heels on the frozen rock and looked at him lying there, the most famous boy in Britain, with lake-water in his ears, telling the sky about a cupboard; and her hands had shut into fists on her knees before she knew it.
 
 “I shall curse them,” said Lyra. “Both of them. And the cousin.”
 
@@ -84,7 +84,7 @@ She had known that he had nobody at Christmas. She had known that his letters in
 
 She stared at him.
 
-He looked back at her steadily, with his hair in his eyes and the egg in his lap, and she saw that he meant it; that it was not a joke, nor modesty, nor some Gryffindor thing about turning the other cheek, but something he had decided a long time ago and was not going to explain to her, because it was his.
+He looked back at her steadily, with his hair in his eyes and the egg in his lap. Whatever it was, he had decided it a long time ago, and he was not going to explain it to her, because it was his.
 
 Lyra unwound her scarf from her neck.
 
