@@ -90,9 +90,9 @@ Lyra looked at the judges’ table. Madame Maxime, Bagman, Dumbledore, and Karka
 
 “How very loyal of him.”
 
-“He thinks Mr Crouch is the most marvellous man in the Ministry.” Granger’s mouth went thin. “He *sacked his elf*. At the World Cup. She hadn’t done anything, she was frightened of heights and she was minding his seat, and he gave her clothes in front of everybody, and she’s down in the kitchens now, and she cries all the time. Ron’s brother thinks that’s quite right. That’s why I started—” She stopped, and looked at the badge Lyra was not wearing. “Never mind.”
+“He thinks Mr Crouch is the most marvellous man in the Ministry.” Granger’s mouth went thin. “He *sacked his elf*. At the World Cup. She hadn’t done anything, she was only frightened, and he gave her clothes in front of everybody, and she’s down in the kitchens now, and she cries all the time. Ron’s brother thinks that’s quite right. That’s why I started—” She stopped, and looked at the badge Lyra was not wearing. “Never mind.”
 
-Lyra thought of an elf at the Manor who had worn a pillowcase until a boy tricked her father into a sock, and did not say anything. She had nothing ready about elves, and Granger was looking at her as if she might, so she changed the subject.
+Lyra thought of Dobby, who had worn a pillowcase every day of her childhood until a boy tricked her father into handing him a sock, and did not say anything. She had nothing ready about elves, and Granger was looking at her as if she might, so she changed the subject.
 
 “And Weasley?”
 
@@ -112,7 +112,7 @@ Lyra let that go, since she could see exactly what lay at the end of it.
 
 “Did you know?” she said instead. “What he was doing. The plan.”
 
-“Only that I wasn’t to tell anybody who I was going with. He asked me a month ago. I thought he meant because of the *Prophet*.” Granger took her hands down. “I didn’t know you’d— I didn’t know about the rest of it. He didn’t tell us anything. He told us he was off with Snuffles for a few days and not to fuss.”
+“Only that I wasn’t to tell anybody who I was going with. He asked me a month ago. I thought he meant because of the *Prophet*.” Granger took her hands down. “I didn’t know you’d— I didn’t know about the rest of it. He didn’t tell us anything. He told us he was off with his godfather for a few days and not to fuss.”
 
 “He moved me about,” said Lyra, “like a piece on a board.”
 
