@@ -48,11 +48,9 @@ And she could not even be angry with him properly. He had gone off and done some
 
 He stopped.
 
-She felt him stop. It went through his hand and his shoulder and his feet, which lost the beat entirely, so that for a step or two she was steering a boy who had gone quite still in the middle of a waltz.
+She felt him stop. It went through his hand and his shoulder and his feet, which lost the beat entirely, so that for a step or two she was steering a boy who had forgotten he was in a waltz.
 
-Lyra knew why. She had been brought up on it. *Never apologise*, her father said, *it hands the other party the pen.* An apology was a bill presented backwards. If he said it, she would have to answer it, one way or the other; and if she forgave him, she would be the one extending credit, and he would owe her for it, and they would both know it.
-
-He did not want that between them. She watched him decide so.
+Lyra knew why. *Never apologise*, her father said, *it hands the other party the pen.*
 
 “I should have told you,” he said instead.
 
@@ -92,7 +90,7 @@ Lyra looked at the judges’ table. Madame Maxime, Bagman, Dumbledore, and Karka
 
 “He thinks Mr Crouch is the most marvellous man in the Ministry.” Granger’s mouth went thin. “He *sacked his elf*. At the World Cup. She hadn’t done anything, she was only frightened, and he gave her clothes in front of everybody, and she’s down in the kitchens now, and she cries all the time. Ron’s brother thinks that’s quite right. That’s why I started—” She stopped, and looked at the badge Lyra was not wearing. “Never mind.”
 
-Lyra thought of Dobby, who had worn a pillowcase every day of her childhood until a boy tricked her father into handing him a sock, and did not say anything. She had nothing ready about elves, and Granger was looking at her as if she might, so she changed the subject.
+Lyra thought of Pobble crying for a week in the scullery at the Manor, and for once had nothing ready about elves; and Granger was looking at her as if she might, so she changed the subject.
 
 “And Weasley?”
 
@@ -106,7 +104,7 @@ Then Granger turned back and looked at her, and went on looking, with her chin i
 
 “What?”
 
-“Nothing,” said Granger, and put both hands over her mouth.
+“Nothing,” said Granger, and became very interested in her butterbeer.
 
 Lyra let that go, since she could see exactly what lay at the end of it.
 
@@ -116,11 +114,11 @@ Lyra let that go, since she could see exactly what lay at the end of it.
 
 “He moved me about,” said Lyra, “like a piece on a board.”
 
-It came out much more quietly than she had meant, and Granger stopped smiling.
+Granger stopped smiling.
 
-“He didn’t say a single word to me. Not one. He had me walk up a gangplank and get turned down by a man who wanted to sell me a Poliakoff instead, and then he vanished, and I didn’t know for three days whether he was— whether he was anywhere at all. And then he walks in late, in his school trousers, and holds a door open for me, and thinks that’s—” She stopped. “A dance doesn’t settle that. He needn’t think it does. I’ve given him a truce, that’s all. A short one.”
+“Not a word. And then I didn’t know for three days whether he was— whether he was anywhere at all.” She picked up her bottle, and put it down again. “I’ve given him a truce. That’s all. A short one.”
 
-Granger considered this.
+Granger thought about that.
 
 “It did help, though,” she said. “A bit. Didn’t it.”
 
@@ -188,15 +186,21 @@ So Moody had put them in the trunk, both of them, and locked it. He trusted nobo
 
 “Moody’s Moody.” Potter looked at his bottle. “He’s just Moody.”
 
+On Friday, on the fourth floor, Moody had stood in the grey light and asked her what her ring was showing. *I know where he isn’t.* He had, too. He had known to the inch. Lyra put her hand flat on the tablecloth and kept it there.
+
 Nobody said anything for a moment.
 
 “You told us,” said Granger, very quietly, “that you were going somewhere with Dumbledore.”
 
-“I know. I’m sorry, Hermione.”
+“I know. I’m sorry, Hermione.” He rubbed his face. “If I’d found him, I’d have had to take him straight to Dumbledore, wherever Dumbledore was. I didn’t know how long it would be. I didn’t want you two looking for me.”
 
-He said it to her quite easily, the whole word, and Granger nodded and looked at the tablecloth. Lyra noticed that, and noticed herself noticing it, and put it aside.
+He said it to her easily, the whole word, and Granger nodded and looked at the tablecloth.
 
-It was the *Prophet*, then. She could see it now. Something in that article had sent him down the seventh lock in the middle of the night, a fortnight early, with Dumbledore away; something about a voice in a tent that nobody had seen. And Moody could see through a cloak. Moody, of all the people in this castle, could have stood outside that tent and seen exactly who was inside it.
+“Where’s Sirius now?” she said.
+
+“Gone. Dumbledore saw to it. Before Moody had finished shouting.”
+
+It was the *Prophet*, then. She could see it now. Something in that article had sent him down the seventh lock in the middle of the night, with Dumbledore away; something about a voice in a tent that nobody had seen. And Moody could see through a cloak. Moody, of all the people in this castle, could have stood outside that tent and seen exactly who was inside it.
 
 She had been carrying the answer for a month. She sat up a little straighter, and let herself enjoy it.
 
@@ -212,7 +216,7 @@ Granger said, “She’s *what*? She can’t be. There have only been seven regi
 
 Lyra did not look at Granger. She was looking at Potter.
 
-He had said it quite simply. Not *I wondered*, nor *I thought so*. *I know.* As one says the time. She had worked it out on a wet path with her collar up, from a beetle and a stupid lie and two men who had spent years in fur, and she had told nobody, not even Crabbe, and had been pleased with it every day for a month; and he had known.
+She had worked it out on a wet path with her collar up, from a beetle and a stupid lie and two men who had spent years in fur, and she had told nobody, not even Crabbe, and had been pleased with it every day for a month; and he had known.
 
 “Then you knew it wasn’t Moody,” she said. “Listening. In the tent.”
 
@@ -244,7 +248,7 @@ Potter got up. He did it slowly, like somebody leaving a fire on a cold night, a
 
 Dumbledore was looking at her too.
 
-She knew the look. She had met it once before, at the end of a long night in a corridor, with Pettigrew trussed in ropes beside them, and it had gone through her like a hand through cobwebs and seemed quite able to take her apart and lay the pieces out on a table. This was not that. It rested on her for a moment, mild and blue and in no hurry, and then it went to Potter, and rested on him in exactly the same way, and then came back to her; and it was not taking anybody apart. It was asking something. She had no idea what, and she did not think, from his face, that Dumbledore knew the answer either.
+She had met that look once, in a corridor, with Pettigrew trussed beside them. This time it rested on her, mild and in no hurry, then on Potter in exactly the same way, then on her again; and it was asking something. She had no idea what, and she did not think, from his face, that Dumbledore knew the answer either.
 
 Potter was still standing there.
 
@@ -252,11 +256,11 @@ Lyra reached up, took hold of the end of his tie, which had never been straight 
 
 “Tomorrow still comes,” she said, into his ear.
 
-He had said it to her once, at the end of a February night, quite gently: *Go to bed, Malfoy. Tomorrow I’ll tell you everything.* Tomorrow had come, and brought Dumbledore with it, and a great many things had gone on not being told. She did not say any of that. She felt him hear it.
+*Go to bed, Malfoy. Tomorrow I’ll tell you everything.* She felt him hear it.
 
 “Tomorrow,” said Potter.
 
-She let go of the tie. He straightened it, which made it worse, and went off across the Hall at Dumbledore’s side, looking back twice before the crowd closed over him.
+She let go of the tie. He straightened it, crooked, and went off across the Hall at Dumbledore’s side, looking back twice before the crowd closed over him.
 
 Granger had her chin in her hand again.
 
@@ -292,9 +296,9 @@ She read it at the table, because not reading it would have been a statement, an
 
 Lyra read it twice, and folded it along its creases, and put it in her pocket.
 
-He had not forbidden her anything. She had been braced for a month for the letter that forbade her, and had her answer ready, cold and short and very well spelt; and he had not written it. He had written this instead. *A boy worth sitting beside.* As though she had found a door in Potter, and he was pleased with her for finding it, and would like, in due course, to be shown where it went.
+He had not forbidden her anything. She had been braced for a month for the letter that forbade her, and had her answer ready, cold and short and very well spelt; and he had not written it. He had written this instead. *A boy worth sitting beside.* As though she had been clever, and he would like, in due course, to be shown what she had been clever about.
 
-She had used him that way herself, in November, with a sealed letter and a ship. She knew precisely what it looked like from the other side.
+She had used her father that way herself, in November, with a sealed letter and a ship. She knew precisely what it looked like from the other side.
 
 She did not answer it.
 

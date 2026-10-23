@@ -156,7 +156,7 @@ The Sneakoscope went off.
 
 It spun on its brass point so fast it blurred, and lit up from inside, and gave a high, thin, furious shriek like a kettle left on a fire, and went on shrieking, and spun itself across the blotter until it fetched up against a stack of papers and stood there screaming at her.
 
-Moody did not look at it. He did not need to. He watched her.
+Moody did not look at it. He watched her.
 
 “Again,” he said, when the noise had died to a whine. “Change the part that isn’t true. Leave the rest.”
 
@@ -170,7 +170,7 @@ She stopped.
 
 “And I accepted,” said Lyra, “because I *wanted* to!”
 
-It came out of her much louder than anything she had said all term, and much too fast, and there was no taking it back, because there it was in the room: said, to the last person in the world she would have said it to, before she had ever once said it to anybody else. Not to Crabbe. Not to him.
+It came out louder than anything she had said all term, and there was no taking it back, because there it was in the room: said, to the last person in the world she would have said it to, before she had ever once said it to anybody else. Not to Crabbe. Not to him.
 
 The Sneakoscope stood quite still on the blotter.
 
