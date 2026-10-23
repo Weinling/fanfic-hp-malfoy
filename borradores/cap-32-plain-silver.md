@@ -86,7 +86,7 @@ Granger said, “He said he’d be back for the Ball,” and looked down at her 
 
 In the corridor outside, where there was nobody, she took the ring out of her pocket and put it on.
 
-She had not worn it on her hand since August. It went on to the fourth finger of her left hand, where he had put it under a cloister in May, and it sat there, cool and a little too loose, the plainest thing she owned.
+She had not worn it on her hand since August. It went on to the fourth finger of her left hand, where he had put it under a cloister in May, and shrank to fit, as it had then, and sat there cool and quiet: the plainest thing she owned.
 
 It had worked all summer. That was the thing she kept coming back to, all that Friday morning, through a lunch she did not eat and an afternoon she spent walking. Every night at nine, behind the hangings of her bed at the Manor, it had told her how he was, from Surrey to Wiltshire, a hundred miles and more: purple at four in the morning, gold at a quarter past two, green by breakfast. Distance had never troubled it in the least. She had read the slip in Zonko’s and remembered every line of it, because she remembered everything she read, and she went through it now, colour by colour. Red, for mortal danger. Purple. Gold. Green. The slip said what each one meant, and which way to look.
 
