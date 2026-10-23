@@ -1,6 +1,6 @@
 # Continuidad transversal
 
-Hecho el 11 de octubre de 2026 a partir de todos los manuales y del handoff, tras el capítulo 28. Actualizado tras el 29 y tras el 30 (12 de octubre), tras el retoque del 25 al 30 (18 de octubre) tras el 31 al 39 (23 de octubre). Recoge lo que está repartido por los manuales y se escapa con facilidad: los hitos de la pareja, quién sabe qué y desde cuándo, cómo está cada personaje, las fichas vivas y las deudas abiertas.
+Hecho el 11 de octubre de 2026 a partir de todos los manuales y del handoff, tras el capítulo 28. Actualizado tras el 29 y tras el 30 (12 de octubre), tras el retoque del 25 al 30 (18 de octubre) tras el 31 al 40 (23 de octubre): la tanda 31-40 y el cuarto curso, cerrados. Recoge lo que está repartido por los manuales y se escapa con facilidad: los hitos de la pareja, quién sabe qué y desde cuándo, cómo está cada personaje, las fichas vivas y las deudas abiertas.
 
 **Se actualiza al cerrar cada capítulo**, en el mismo paso que el manual. Si algo de aquí choca con el texto, manda el texto; corrige este archivo.
 
@@ -48,8 +48,9 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 | Jun. 1995 | 37 | Ella le llama con el anillo; le hace jurar que no mentirá. Él: «A useful enemy» (de Lucius). Ella defiende lo que piensa su familia (el Estatuto, los dotados arriba). Él: «where’s she?» (Granger). **Ella le miente** («Nothing») sobre Karkaroff y el norte. Al día siguiente él no está en la escalera | Nadie | «She had needed only one.» |
 | 24 jun. 1995 | 38 | La tercera prueba: él gana feo (aturde a Diggory); en el podio la busca y la encuentra entre cientos; se miran. Sin palabras | Toda la escuela | — |
 | 26 jun. 1995 | 39 | **La lechucería.** Ella le pone delante la lista y deduce: «You’ve done this before»; él lo admite (otra vida, sin Lyra; Draco). Ella saca la Cámara («She was *eleven*») y el huevo. **Rompen:** su familia está dentro; ella le mintió (no dice sobre qué); él la tuvo a crédito sin decirle las condiciones. **Sexto beso en la boca, el de despedida**, de pie | Nadie | «It’s the last time.» / «We’ll see.» |
+| 27 jun.–1 jul. 1995 | 40 | Ella le devuelve el anillo en una lata, con la nota de dos capas (Crouch, el Imperius, «His son is alive»); se queda el pañuelo. En el andén, él la mira entre los Weasley; ella aparta la cara | Goyle (la lata); Dumbledore y Moody (la nota) | «This is where we end. The time we had was not entirely dull.» |
 
-**Besos en la boca hasta ahora: seis (3, 19, 29, 30, 36 y 39, el de despedida).** Además: la frente (24), el hocico (27, «no cuenta»). El del 29 es el primero elegido por los dos, sin excusa: él lo pide y ella dice «Yes». El del 30 es el primero que empieza ella, a través de la capa. **Racha:** el 26, el 27, el 29 y el 30 tienen pago romántico; el 31 no; el 32 sí (en público, sin beso); el 33 sí (el baile, sin beso); el 34 no (la confesión es ante Moody); el 35 sí (la orilla, sin beso); el 36 sí (Hogsmeade, el quinto beso); el 37 no (baja); el 38 no (solo una mirada); el 39, la ruptura; y el próximo beso no se vende como otro «primero» (crítico).
+**Besos en la boca hasta ahora: seis (3, 19, 29, 30, 36 y 39, el de despedida).** Además: la frente (24), el hocico (27, «no cuenta»). El del 29 es el primero elegido por los dos, sin excusa: él lo pide y ella dice «Yes». El del 30 es el primero que empieza ella, a través de la capa. **Racha:** el 26, el 27, el 29 y el 30 tienen pago romántico; el 31 no; el 32 sí (en público, sin beso); el 33 sí (el baile, sin beso); el 34 no (la confesión es ante Moody); el 35 sí (la orilla, sin beso); el 36 sí (Hogsmeade, el quinto beso); el 37 no (baja); el 38 no (solo una mirada); el 39, la ruptura; el 40 no (rotos); y el próximo beso no se vende como otro «primero» (crítico).
 
 **Traslados en brazos:** primero (Y1-1, rodando), el 5 (corriendo bajo la capa), el 27 (hurón, andando).
 
@@ -217,16 +218,27 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 - **Harry** sabe que Lyra le mintió en el 37 (no sobre qué) y que ella lo sabe todo menos la segunda capa. Le ofreció protegerla; ella se negó.
 - **El anillo:** Lyra no se lo quitó en la lechucería.
 
+### Lo que cambia en el 40 (23 de octubre): fin del cuarto
+- **El anillo de Lyra lo tiene Harry** (devuelto en una lata de Honeydukes, verde). **El pañuelo** (18) se lo queda Lyra.
+- **La nota de dos capas** (truco del 9) le dio a Harry: Crouch metió el nombre en el Cáliz, está bajo el Imperius, **su hijo vive**. Potter se la llevó a Dumbledore el martes; Moody y dos más llegaron a casa de Crouch una hora tarde: **Crouch, muerto** (martes 27 por la noche). El *Prophet*: buscan a **Karkaroff**. Nadie dice en público que Crouch tuviera un hijo vivo.
+- **Dumbledore** anunció en el banquete del viernes 30 que **Voldemort ha vuelto**, sin decir dónde; **el Ministerio lo niega** («irresponsible rumours»).
+- **Moody se ha ido** de Hogwarts; a Lyra: «Three for three» y «Watch yourself in that house». Le preguntó si su padre está marcado; **ella le mintió**: «never had anything on his arm in his life».
+- **Lucius está marcado:** Lyra le vio la Marca negra en el andén, el 1 de julio.
+- **Draco:** el señor de la casita «came back on Sunday» (25 de junio) y «never felt better in his life».
+- **Narcissa** miró hacia Potter en el andén. No ha contestado a la posdata.
+- **Crabbe** sabe que lo de Potter no ha acabado para Lyra.
+- **Slytherin:** algunos tienen miedo; algunos están contentos y lo esconden. Lyra los sostuvo («Nobody makes himself small in this room»).
+
 ## 5. Fichas vivas
 
 | Ficha | Dónde está | Última vez | Nota |
 |---|---|---|---|
 | La pluma de azúcar | **Harry**, en el bolsillo de la varita | 30 | Comprada el Halloween de 1993; entregada en la tienda (30): «You eat it afterwards. If you’ve been sensible.» / «…Which one?». Hilo cerrado |
 | El calentador de botón | Harry, junto a la varita | 16 | Lyra no sabe que lo recuperó |
-| El pañuelo (18) | Lyra; lavado y planchado | 23 | Sabe que es de Potter; no se lo ha devuelto |
+| El pañuelo (18) | Lyra; lavado y planchado, en el cajón de su mesilla | 40 | Lo metió en la lata del anillo y lo volvió a sacar: se lo queda |
 | La posdata de Narcissa | **Enviada a Narcissa** con la respuesta de Lyra debajo (*It was Harry Potter who was asking*) | 33 | Contestada el 29 de diciembre de 1994 |
 | El papel de los onces | El mismo libro | 15 | — |
-| Los anillos | **Lyra, en el anular izquierdo, a la vista, desde el 23 de diciembre**; Harry, el suyo en la derecha | 32 | Colores: rojo (peligro de muerte), rosa (con su pareja), morado (en guardia), dorado (éxito), verde (a salvo), azul (solo insinuado en el 24: «anything that might come out blue»; el plan dice «te echa de menos»), azul oscuro (dormido, sin nombrar en el texto). Parpadeo: el otro le busca. Se calienta hacia el otro. Plata lisa: el otro está donde el anillo no llega (el baúl de Moody, 32) |
+| Los anillos | **Harry, los dos** (Lyra le devolvió el suyo en una lata de galletas, 40) | 40 | Colores: rojo (peligro de muerte), rosa (con su pareja), morado (en guardia), dorado (éxito), verde (a salvo), azul (solo insinuado en el 24: «anything that might come out blue»; el plan dice «te echa de menos»), azul oscuro (dormido, sin nombrar en el texto). Parpadeo: el otro le busca. Se calienta hacia el otro. Plata lisa: el otro está donde el anillo no llega (el baúl de Moody, 32) |
 | Los omniculares de Potter | Lyra; en la Manor, bajo la almohada (25) | 25 | Dos horas de ella grabadas. **No son ficha** (autor): no vuelven como tal |
 | La insignia S.P.E.W. | Bolsillo de Lyra | 26 | Los dos galeones: prometidos, no consta que se pagaran |
 | La carta de Lupin | Bolsa de Lyra | 36 | **Contestada** en abril de 1995 (una página, firmada *Yours sincerely*) |
