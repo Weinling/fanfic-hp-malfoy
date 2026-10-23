@@ -16,11 +16,7 @@ The third-years looked at Lyra, in her chair by the window, to see whether this 
 
 Lyra turned a page of her Arithmancy, and let them look.
 
-It was useful, Parkinson’s theory. It was the most useful thing he had ever said. It was also, almost to the word, what her father had written to her on the twenty-ninth of December, and she sat with her book open on her knee and the ring on her finger and did not read anything for some time.
-
-“I knew,” said Crabbe, with dignity, to a second-year at breakfast. “I’ve known since we were eleven.”
-
-Lyra got up from the table and left.
+It was useful, Parkinson’s theory. It was the most useful thing he had ever said. It was also, in other words, what her father had written to her on the twenty-ninth of December, and she sat with her book open on her knee and the ring on her finger and did not read anything for some time.
 
 Potter, for his part, appeared to have decided that if the whole school knew, the whole school might as well watch. He was at the foot of the dungeon steps on the Monday morning when she came up to breakfast, leaning against the wall with his hands in his pockets, in full view of the Entrance Hall.
 
@@ -142,7 +138,7 @@ There was a pause. Moody made a sound in his throat that might, in another man, 
 
 “Clever,” he said. “Your father’s good at that too.”
 
-She did not answer that, and he did not seem to expect her to. He straightened up off his fists, and looked at her for a long moment with both eyes at once. Very few people could do that, and she did not enjoy it.
+She did not answer that, and he did not seem to expect her to. He straightened up off his fists, and looked at her for a long moment, the dark eye and the blue one together. Very few people could do that, and she did not enjoy it.
 
 “Why Potter?”
 
@@ -162,7 +158,7 @@ Moody did not look at it. He watched her.
 
 Lyra sat in the chair with her hands in her lap.
 
-There was nothing she could do. That was the extraordinary thing; she went through it, very quickly, and there was nothing. She could not lie, with that on the desk, and she could not refuse, with the flask beside it; she could only say it again, with the wrong part taken out, to Mad-Eye Moody, in his office, with the trunk in the corner where Potter had spent Christmas.
+She could refuse. She saw, very clearly, what refusing would say in that room, with that thing on the desk and the trunk in the corner where Potter had spent Christmas; and she had never once in her life been caught out.
 
 “He asked first,” said Lyra slowly. The Sneakoscope was silent. “He always asks first. And I—”
 
@@ -170,11 +166,11 @@ She stopped.
 
 “And I accepted,” said Lyra, “because I *wanted* to!”
 
-It came out louder than anything she had said all term, and there was no taking it back, because there it was in the room: said, to the last person in the world she would have said it to, before she had ever once said it to anybody else. Not to Crabbe. Not to him.
+To the last person in the world she would have said it to. Weasley had had half of it, once, on the gravel. Not Crabbe. Not him.
 
 The Sneakoscope stood quite still on the blotter.
 
-She could feel her face. It had gone hot from the collar up and there was nothing she could do about that either; so she did the only thing that was left, which was to lift it, and look Mad-Eye Moody in both his eyes, and hold them, as though she had said something perfectly ordinary and was waiting for him to have the manners to go on.
+She could feel her face, and there was nothing she could do about that; so she looked Mad-Eye Moody in the eye, the dark one and the blue, and held them, as though she had said something perfectly ordinary and was waiting for him to have the manners to go on.
 
 ⁂
 
@@ -190,7 +186,7 @@ Lyra waited.
 
 *A man who sent his own son to Azkaban. His own son, to die there.*
 
-Lyra kept her face exactly where it was. She had been doing it all her life; it was the one thing she had always been able to do better than anybody, better than her father, and she did it now with the whole of her attention, so that Mad-Eye Moody, who was looking for something in it, should not find it. Inside, behind the face, Karkaroff’s yellow teeth were saying *to die there*, and stopping, and looking at the door.
+Lyra did not let it reach her face. Mad-Eye Moody was looking for something there, and she gave him nothing to find. Inside, Karkaroff’s yellow teeth were saying *to die there*, and stopping, and looking at the door.
 
 “He wouldn’t tell me how he knew the name,” said Moody. “I asked him twice a day for three days. He wouldn’t tell me why he thought a dead boy was sitting in my trunk, and he wouldn’t tell me who’d put it in his head. He just looked at me. Like he was sorry for me.” His mouth went sideways. “Albus says the boy has his reasons. Albus has been getting a good many reasons from that boy, this past year, and I’ll tell you something for nothing, Miss Malfoy. He doesn’t like it any more than I do.”
 
@@ -212,15 +208,15 @@ He sat back.
 
 “I’ll tell you one thing more, and then you can go and do whatever it is you do in that dungeon. Igor’s arm has been itching since the summer. You’ll have seen him rub it. He’s not the only one with something under his sleeve that itches, and you know as well as I do who else has.” He let that sit. “He’s coming back. I don’t know how and I don’t know when. But I’ve been at this thirty years, and I know the smell of it.”
 
-Lyra said nothing. There was nothing in her mouth to say.
+Lyra said nothing.
 
-“And when he does,” said Moody, “one of you dies. You or Potter. I’ve seen it go that way more times than I can count, girl, and I’ve never once seen it go any other.” The magical eye had stopped moving. Both eyes were on her, and there was something in them she had not seen there before and did not want: not suspicion. Something worse than suspicion. “Can you keep your heart in one piece? Between him and Dumbledore’s lot? With your family on one side and that boy on the other?”
+“And when he does,” said Moody, “one of you dies. You or Potter.” The magical eye had stopped moving, and there was something in it she had not seen there before and did not want, and it was worse than suspicion. “Can you keep your heart in one piece, girl?”
 
 He did not wait for an answer.
 
 “I couldn’t,” said Moody. “And I’d nobody on the other side at all.”
 
-Then he jerked his head at the door, and she got up, and went down the three stone steps into the empty classroom on legs that did not seem to belong to her, and out into the corridor, where Crabbe was sitting on the floor against the wall with her bag in her lap, waiting.
+Then he jerked his head at the door, and she got up, and went down the three stone steps into the empty classroom, and out into the corridor, where Crabbe was sitting on the floor against the wall with her bag in her lap, waiting.
 
 Crabbe looked up at her face, and got up, and did not ask.
 
@@ -228,23 +224,23 @@ Crabbe looked up at her face, and got up, and did not ask.
 
 The ring began a little after nine that night, warm and then cool and then warm, and she went.
 
-He was in the classroom on the third floor, behind the tapestry of the knight asleep on his horse, sitting on a desk with his feet on a chair, exactly as he had sat there in November. He got up when she came in. That was new.
+He was in the classroom on the third floor, behind the tapestry of the knight asleep on his horse, sitting on a desk with his feet on a chair, exactly as he had sat there in November. He got up when she came in. That was new. He took her left hand, without asking, and turned it over and looked at the ring, which had gone pink the moment she came through the door; and he seemed to find that satisfactory, and did not let go of the hand.
 
 “Moody kept you behind,” said Potter. “Ron saw.”
 
-“Ron sees a great deal, for somebody who never looks at anything.”
+“Weasley sees a great deal, for somebody who never looks at anything.”
 
 “What did he want?”
 
 “To know about Karkaroff,” said Lyra. “And my father. And the ship.”
 
-All of it was true. The Sneakoscope would have stood still for every word. She did not tell him about the glass top, or the flask, or what she had said in that office with her face on fire; she found that she could not imagine telling him, not in any version, not even the one where she was very cool about it and he laughed. He would know, one day, perhaps. He was not going to know it from her, and certainly not tonight.
+All of it was true. The Sneakoscope would have stood still for every word. She did not tell him about the glass top, or the flask, or what she had said in that office with her face on fire; she could not imagine telling him, not in any version, not even the one where she was very cool about it and he laughed. He would know, one day, perhaps. He was not going to know it from her, and certainly not tonight.
 
 He was watching her. She let him.
 
 “Potter,” she said. “Who is Barty Crouch’s son?”
 
-He did not move. Then he did, all at once: he came round the desk, and stood in front of her, too close, and his face had gone a way she had seen only once, in a corridor at night, when they were both eleven and she had been frightened of him.
+He let go of her hand, and came half a step nearer, too close, and his face had gone a way she had first seen in a corridor at night, when they were both eleven and she had been frightened of him.
 
 “Who told you that name?”
 
@@ -254,8 +250,8 @@ He did not move. Then he did, all at once: he came round the desk, and stood in 
 
 “I shall stay,” said Lyra, “wherever I like. Who is he?”
 
-He looked at her. She watched him decide, as she had watched him decide on the floor of the Great Hall not to say he was sorry; and this time she watched him decide the other way.
+He looked at her. She watched him decide.
 
 “He’s dead,” said Potter. “Moody told you. He died in Azkaban. He’s dead.”
 
-He said it quite quietly, the way he had once said *it’s a dragon, Lyra*, on a bench in a tent; and she understood that he did not believe a word of it.
+He had said it twice. In three years she had never known him need to say anything twice.
