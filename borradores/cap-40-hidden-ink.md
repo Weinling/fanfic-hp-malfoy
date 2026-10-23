@@ -182,15 +182,15 @@ Crabbe and Goyle drew back a step without being asked.
 
 She did not say anything.
 
-“Potter brought it to Albus on Tuesday, before it was dark. Two layers. Nice work; I’ve not seen that done since your grandfather’s time.” His mouth moved. “Albus sent me and two others to Crouch’s house that night. We were an hour too late.”
+“Potter brought it to Albus on Tuesday, before it was dark. Two layers. Nice work. I’ve not seen that done in thirty years.” His mouth moved. “Albus sent me and two others to Crouch’s house that night. We were an hour too late.”
 
-Lyra held his eye.
+Lyra waited.
 
 “The son,” said Moody, very low. “You wrote that his son was alive. I stood at that boy’s grave.” He waited. “How did you know?”
 
 “I didn’t,” said Lyra. “Not until I wrote it.”
 
-The Sneakoscope, she thought, would not have moved. Moody seemed to think so too. He looked at her for a while with both eyes, in the middle of the noise and the trunks and the owls, and then he grunted.
+The Sneakoscope, she thought, would not have moved. Moody seemed to think so too. He looked at her for a while, in the middle of the noise and the trunks and the owls, and then he grunted.
 
 “I’ve been at this thirty years,” he said. “I took you for your father’s errand girl. I took that boy of yours for a fool. And I took Barty Crouch for the only honest man in the Ministry.” He shifted his weight on to the wooden leg. “Three for three.”
 
@@ -202,10 +202,10 @@ Lyra looked at him.
 
 “My father,” she said, “has never had anything on his arm in his life, Professor. He was under the Imperius. Everybody knows that.”
 
-She said it beautifully. Her voice did not shake. Her face did not move. She said it in exactly the tone her mother used for the wives of men who asked about the family’s money, and she did not know, as she said it, whether it was true or not; she only knew that she would say it, and had, and would go on saying it, for as long as anybody asked.
+She said it beautifully. Her voice did not shake. Her face did not move. She said it in the voice she would use, she supposed, for the rest of her life, and she did not know, as she said it, whether it was true or not; she only knew that she would say it, and had, and would go on saying it, for as long as anybody asked.
 
-The blue eye rested on her for a long moment.
+The blue eye rested on her.
 
 “Watch yourself in that house,” said Moody. “Watch it better than I watched this one.”
 
-Then he turned, and stumped away across the Hall with his trunk floating behind him, *clunk*, and step, and out through the great doors into the sunshine, and did not look back.
+Then he turned, and went away across the Hall with his trunk floating behind him, and out through the great doors into the sunshine, and did not look back.
