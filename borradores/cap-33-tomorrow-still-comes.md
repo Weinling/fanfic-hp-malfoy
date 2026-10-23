@@ -224,4 +224,4 @@ Potter turned the butterbeer bottle round on the tablecloth, once, and then agai
 
 “I was sure,” he said.
 
-That was all. He did not say what of, or how. Lyra waited, and he did not say anything else, and after a while she took the two things, *I know* and *I was sure*, and set them down side by side somewhere inside her, next to a list she had made once in a hospital wing about a dog and a hippogriff and a number seven, and left them there.
+That was all. He did not say what of, or how. Lyra waited, and he did not say anything else, and after a while she took the two things, *I know* and *I was sure*, and set them down side by side somewhere inside her, next to a question she had worked on all one summer on a window seat at the Manor, about a diary and a number seven and a house up north, and had never asked; and left them there.
