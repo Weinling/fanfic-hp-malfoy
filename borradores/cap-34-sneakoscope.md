@@ -84,7 +84,7 @@ Her mother had not answered her at all.
 
 “Miss Malfoy,” said Moody, at the end of Defence on Friday. “Stay behind.”
 
-The Slytherins went out past her with their eyes down and their ears open. Crabbe hesitated at the door, and Lyra moved her head a quarter of an inch, and Crabbe went.
+The Slytherins went out past her with their eyes down and their ears open.
 
 Moody did not keep her in the classroom. He jerked his head at the door behind his desk, the one that led up into his office, and stumped up the three stone steps ahead of her without looking round to see whether she followed; and she followed, because there was no version of not following that did not end in a ferret.
 
@@ -186,7 +186,7 @@ She had been ready for that, too, and it did not come. He picked up the little f
 
 Lyra waited.
 
-“Barty Crouch’s son. Bartemius.” Moody said the name as if it had a bad taste he was used to. “I put him in front of the Wizengamot myself, with three others, and his father sent him down for life. He died in Azkaban a year after. I saw him buried, girl. I stood at the grave.” The blue eye swivelled, very slowly, round to the trunk in the corner, and back. “And your boy comes in here in the middle of the night with Sirius Black and goes straight to the seventh lock, as if he’d been told where to look, to find a lad who’s been in the ground thirteen years.”
+“Barty Crouch’s son. Bartemius.” Moody said the name as if it had a bad taste he was used to. “I put him in front of the Wizengamot myself, with three others, and his father sent him down for life. He died in Azkaban a year after. I saw him buried, girl. I stood at the grave.” The blue eye swivelled, very slowly, round to the trunk in the corner, and back. “And your boy comes in here in the middle of the night with Sirius Black and goes straight to the seventh lock, as if he’d been told where to look, to find a lad who’s been in the ground twelve years.”
 
 *A man who sent his own son to Azkaban. His own son, to die there.*
 
@@ -202,7 +202,7 @@ He leaned forward over the desk.
 
 The Sneakoscope did not stir.
 
-Moody looked at it, and then at her, for a long moment, and grunted.
+Moody looked at it, and then at her, and grunted.
 
 “No,” he said. “Didn’t think you did.”
 
@@ -223,3 +223,39 @@ He did not wait for an answer.
 Then he jerked his head at the door, and she got up, and went down the three stone steps into the empty classroom on legs that did not seem to belong to her, and out into the corridor, where Crabbe was sitting on the floor against the wall with her bag in her lap, waiting.
 
 Crabbe looked up at her face, and got up, and did not ask.
+
+⁂
+
+The ring began a little after nine that night, warm and then cool and then warm, and she went.
+
+He was in the classroom on the third floor, behind the tapestry of the knight asleep on his horse, sitting on a desk with his feet on a chair, exactly as he had sat there in November. He got up when she came in. That was new.
+
+“Moody kept you behind,” said Potter. “Ron saw.”
+
+“Ron sees a great deal, for somebody who never looks at anything.”
+
+“What did he want?”
+
+“To know about Karkaroff,” said Lyra. “And my father. And the ship.”
+
+All of it was true. The Sneakoscope would have stood still for every word. She did not tell him about the glass top, or the flask, or what she had said in that office with her face on fire; she found that she could not imagine telling him, not in any version, not even the one where she was very cool about it and he laughed. He would know, one day, perhaps. He was not going to know it from her, and certainly not tonight.
+
+He was watching her. She let him.
+
+“Potter,” she said. “Who is Barty Crouch’s son?”
+
+He did not move. Then he did, all at once: he came round the desk, and stood in front of her, much too close, and his face had gone a way she had seen only once, on a staircase in the dark a long time ago, when he had been eleven and she had been frightened of him.
+
+“Who told you that name?”
+
+“Moody.”
+
+“Stay away from Moody.”
+
+“I shall stay,” said Lyra, “wherever I like. Who is he?”
+
+He looked at her for a long moment. She watched him decide, as she had watched him decide on the floor of the Great Hall not to say he was sorry; and this time she watched him decide the other way, and close the door, and stand in front of it.
+
+“He’s dead,” said Potter. “Moody told you. He died in Azkaban. He’s dead.”
+
+He said it quite quietly, the way he had once said *it’s a dragon, Lyra*, on a bench in a tent; and she understood that he did not believe a word of it.
