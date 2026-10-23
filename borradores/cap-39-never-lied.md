@@ -104,7 +104,7 @@ Lyra stood quite still by the door. She had known. She had known since Saturday 
 
 He tried.
 
-He told it badly. He told it the way he had told her about the trunk, at Christmas, going back to put in things he had left out, as though he had never said it aloud to anybody and had no idea what order it went in. There had been another life. He had lived it. It had gone on a long way past where they were now, years past it; he did not say how far. And then he had been eleven, in a corridor, in the winter of their first year, with his scar splitting open and Quirrell walking past with a turban on, and he had remembered it. Not all at once. In pieces, like a dream you go on remembering all morning. He had been a boy who did not know what a Mudblood was on the Tuesday, and on the Thursday he had known everything.
+He told it badly. He told it the way he had told her about the trunk, at Christmas, going back to put in things he had left out, as though he had never said it aloud to anybody and had no idea what order it went in. There had been another life. He had lived it. It had gone on a long way past where they were now, years past it; he did not say how far. And then he had been eleven, in a corridor, in the winter of their first year, with his scar splitting open and Quirrell walking past with a turban on, and he had remembered it. Not all at once. In pieces, like a dream you go on remembering all morning. That February he had been a boy who had never heard the word *Mudblood* in his life; by Easter he had known nearly all of it.
 
 “Everything,” said Lyra.
 
@@ -142,6 +142,62 @@ It was the word he had used at Hallowe’en, she remembered, in an empty classro
 
 “Dumbledore knows,” she said.
 
-“Since second year. The summer before the cave.” He rubbed his face. “He’s the only one. Not Sirius. Not Ron, not Hermione. Him, and now you.”
+“Since the end of second year. A year before the cave.” He rubbed his face. “He’s the only one. Not Sirius. Not Ron, not Hermione. Him, and now you.”
 
 Him, and now you. He said it as though it were something he was giving her. She supposed it was.
+
+⁂
+
+She had meant to stop there. She had meant to take the letter out of her sleeve and say what she had come to say, and go. But there was a thing at the back of all of it that she had not looked at yet, and she found that she was going to look at it whether she liked it or not.
+
+“The diary,” said Lyra.
+
+He went still.
+
+“If you knew everything. If you’d done it all before.” She heard her voice go very level, as her father’s did across a desk when somebody had made him a bad offer. “Then you knew about the diary before it ever got to Hogwarts. You knew my father had it. You knew he was going to put it in that little Weasley girl’s cauldron, in Flourish and Blotts, in front of everybody.”
+
+“Yes.”
+
+“And you let him.”
+
+“Yes.”
+
+“She was *eleven*.”
+
+“I know.” It was barely a word. “I know she was.”
+
+“Then why?”
+
+He looked at her for a long time before he answered, and when he did, he did not try to make it sound better than it was.
+
+“Because if I’d stopped it,” said Potter, “I’d have stopped knowing what came next. That’s all I had. Knowing. If I changed one big thing, everything after it would come out different, and I’d be as blind as everybody else, and I wasn’t— I didn’t dare. Not with him coming back.” He swallowed. “And I needed it. The diary. I needed it to happen the way it happened, so I could get it, and the fang. You can’t— there aren’t many things that will break one of those. That was one.”
+
+Lyra said nothing for a moment.
+
+She thought of a girl she had never once spoken to, with red hair and a second-hand cauldron, writing to a book every night for a year. She thought of an empty classroom on the night the Chamber was closed, and a boy putting her father’s diary down on a desk between them, and a word. *Hostage.* The whole of it. The pact, and the lake, and the Owlery, and the credit, every single thing between the two of them in four years, had grown up out of a thing he had watched happen to an eleven-year-old and decided to let be.
+
+She had liked him for it. That was the worst of it. She had sat on that cold desk in that classroom with her heart going, and thought him the cleverest person she had ever met, and liked him for it.
+
+“You said to me once,” said Lyra, “in a shack, with the snow coming down outside, that you had never lied to me.”
+
+He shut his eyes.
+
+“*I’ve never lied to you, Malfoy*,” said Lyra. She said it exactly as he had, and she watched it land. “You hadn’t, either. Had you? Not once. Not one word. You only ever let me find out what you wanted me to find out, in the order you wanted me to find it, and you never had to lie at all.”
+
+He did not answer. There was nothing he could have answered.
+
+And then, because it was there, and because she could see it now, as she could see everything now, she said the last of it.
+
+“The egg.”
+
+He opened his eyes.
+
+“You knew,” said Lyra. “You knew what was in it before you ever opened it. You knew about the lake, and the merpeople, and the song. You sat in that library and read the page I gave you, and you let me—” Her voice did something, and she stopped it. “You let me solve it.”
+
+“Yes.”
+
+“*Why?*”
+
+He looked at her across the straw, with the light behind him and the owls all round, and for the first time since she had come through the door he looked as though it hurt him to be looked at.
+
+“I wanted you to have it,” said Potter.
