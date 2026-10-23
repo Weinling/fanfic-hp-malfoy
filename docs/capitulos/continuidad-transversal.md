@@ -1,6 +1,6 @@
 # Continuidad transversal
 
-Hecho el 11 de octubre de 2026 a partir de todos los manuales y del handoff, tras el capítulo 28. Actualizado tras el 29 y tras el 30 (12 de octubre), tras el retoque del 25 al 30 (18 de octubre) tras el 31, el 32, el 33 y el 34 (23 de octubre). Recoge lo que está repartido por los manuales y se escapa con facilidad: los hitos de la pareja, quién sabe qué y desde cuándo, cómo está cada personaje, las fichas vivas y las deudas abiertas.
+Hecho el 11 de octubre de 2026 a partir de todos los manuales y del handoff, tras el capítulo 28. Actualizado tras el 29 y tras el 30 (12 de octubre), tras el retoque del 25 al 30 (18 de octubre) tras el 31 al 35 (23 de octubre). Recoge lo que está repartido por los manuales y se escapa con facilidad: los hitos de la pareja, quién sabe qué y desde cuándo, cómo está cada personaje, las fichas vivas y las deudas abiertas.
 
 **Se actualiza al cerrar cada capítulo**, en el mismo paso que el manual. Si algo de aquí choca con el texto, manda el texto; corrige este archivo.
 
@@ -43,8 +43,9 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 | 25 dic. 1994 | 32 | El Baile. Tres días sin él (el anillo en plata lisa; Lyra se lo pone en el dedo el 23). Él llega tarde con la tapadera de «los dos plantados»; **ella la rompe en público**: «Nobody left me anywhere, Potter. I turned Krum down» (mentira; Krum la confirma: «She refuse me»). Le coge la mano delante de todos; la marca de la muñeca. **La pareja es pública.** Los anillos, rosas, a la vista. Abren el baile | Todo el colegio, Durmstrang, Beauxbatons, los jueces (Karkaroff) | «You make me miserable.» / «I know.» |
 | 25 dic. 1994 | 33 | El baile: «Why did you do that?»; la disculpa que él no pide («No. You’d only have to forgive me»). **Por primera vez le cuenta dónde ha estado** (el baúl de Moody, tres días), delante de ella y de Granger; se guarda a quién buscaba. Ella le da el escarabajo y él ya lo sabía («I know»; «I was sure»). «Tomorrow still comes» | Granger (el relato); Dumbledore (la mirada) | «That isn’t an apology.» |
 | 9–20 ene. 1995 | 34 | Pareja pública: él la acompaña a Aritmancia cada mañana. Ante el chivatoscopio de Moody, ella dice **«I accepted because I *wanted* to!»**; él no lo sabe. En la coda él le coge la mano y mira el anillo rosa; ella pregunta por el hijo de Crouch y él miente («He’s dead», dos veces) | Moody (la confesión) | «Stay away from Moody.» |
+| 18–24 feb. 1995 | 35 | La orilla: ella resuelve el huevo y le sujeta del cuello de la túnica con la cabeza en el lago; **él le cuenta la alacena y que no sabe nadar** («He’s still my uncle»); ella le seca el pelo con su bufanda de cachemir y se la deja. Ella se niega a ser rehén. En la prueba, él sale con la bufanda puesta; ella le roba a Fleur el segundo beso, a la francesa | Weasley, Fleur, la escuela (la orilla) | «I didn’t want to lose it.» |
 
-**Besos en la boca hasta ahora: cuatro (3, 19, 29 y 30).** Además: la frente (24), el hocico (27, «no cuenta»). El del 29 es el primero elegido por los dos, sin excusa: él lo pide y ella dice «Yes». El del 30 es el primero que empieza ella, a través de la capa. **Racha:** el 26, el 27, el 29 y el 30 tienen pago romántico; el 31 no; el 32 sí (en público, sin beso); el 33 sí (el baile, sin beso); el 34 no (la confesión es ante Moody); y el próximo beso no se vende como otro «primero» (crítico).
+**Besos en la boca hasta ahora: cuatro (3, 19, 29 y 30).** Además: la frente (24), el hocico (27, «no cuenta»). El del 29 es el primero elegido por los dos, sin excusa: él lo pide y ella dice «Yes». El del 30 es el primero que empieza ella, a través de la capa. **Racha:** el 26, el 27, el 29 y el 30 tienen pago romántico; el 31 no; el 32 sí (en público, sin beso); el 33 sí (el baile, sin beso); el 34 no (la confesión es ante Moody); el 35 sí (la orilla, sin beso); y el próximo beso no se vende como otro «primero» (crítico).
 
 **Traslados en brazos:** primero (Y1-1, rodando), el 5 (corriendo bajo la capa), el 27 (hurón, andando).
 
@@ -182,6 +183,12 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 - **Parkinson** dice que la pareja es una alianza política de Lyra.
 - **Karkaroff** se disculpó por Krum (vestíbulo).
 
+### Lo que cambia en el 35 (23 de octubre)
+- **Lyra** sabe que Potter durmió en una alacena bajo la escalera de los Dursley hasta los once y que no sabe nadar. Se negó a ser rehén (McGonagall lo sabe). Ha visto a **Crouch** por primera vez de verdad: no mira el agua, contesta tarde, «like a man waiting to be told that he might». No lo interpreta.
+- **Harry:** la segunda prueba con branquialgas de Snape (la ventana del despacho, reventada); con Weasley y la hermana de Fleur; empatado con Diggory en cabeza. Lleva la bufanda de cachemir de Lyra.
+- **Weasley** fue el rehén de Harry.
+- **Snape** mira a Lyra tras lo de su ventana (la cuenta del 20).
+
 ## 5. Fichas vivas
 
 | Ficha | Dónde está | Última vez | Nota |
@@ -202,6 +209,7 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 | El mapa | **Moody**, prestado por Harry tras el Cáliz | 31 | «Not names». En la coda del 31 se oye doblarse en la oscuridad del despacho |
 | El diario | Dumbledore (o Harry) | 14 | «Not ever» |
 | La tarjeta de Krum | Lyra, para Draco | 28 | — |
+| La bufanda de cachemir gris | **Harry** (se la puso Lyra en la orilla, 35; se tiró al lago con ella) | 35 | Del 7 (la lechuza la mordisqueó). **No vuelve como ficha** (crítico) |
 
 ## 6. Deudas abiertas
 
