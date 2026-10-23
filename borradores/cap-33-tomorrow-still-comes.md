@@ -22,7 +22,7 @@ It was the middle of the Great Hall on Christmas night, with the frost glitterin
 
 She turned under his arm, and came back.
 
-“Because I had no intention of being left over in front of Slytherin,” said Lyra, “like a coat nobody came back for. And because I had three days.”
+“Because I had no intention of being left over in front of Slytherin,” said Lyra, “like the odd glove in a drawer. And because I had three days.”
 
 He did not say anything for a few bars.
 
@@ -252,7 +252,7 @@ Lyra reached up, took hold of the end of his tie, which had never been straight 
 
 “Tomorrow still comes,” she said, into his ear.
 
-He had said it to her once, at the end of a February night, quite gently: *Go to bed, Malfoy. Tomorrow I’ll tell you everything.* Tomorrow had come, and brought Dumbledore with it, and a great many things had gone on not being told. She did not say any of that. She did not need to. She felt him hear it.
+He had said it to her once, at the end of a February night, quite gently: *Go to bed, Malfoy. Tomorrow I’ll tell you everything.* Tomorrow had come, and brought Dumbledore with it, and a great many things had gone on not being told. She did not say any of that. She felt him hear it.
 
 “Tomorrow,” said Potter.
 
