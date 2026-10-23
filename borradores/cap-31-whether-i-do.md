@@ -156,7 +156,7 @@ Potter looked down at it. He did not say *thanks*. He looked tired, the way he h
 
 “It was in the tent,” he said. “Somebody was. I didn’t see anybody.”
 
-“No,” said Lyra, who had. She let it pass.
+“No,” said Lyra, and kept the beetle to herself.
 
 “It’s not just the Ball, Lyra. If people know—”
 
@@ -213,3 +213,47 @@ Lyra opened the door.
 “Whether I do,” she said, “is my decision, Potter.”
 
 She went out, and shut it behind her, and did not hurry on the stairs.
+
+⁂
+
+The robes came on the second Saturday in December, by the Manor’s grey owl, in a long flat box tied with silver ribbon.
+
+Lyra opened it on her bed with the hangings drawn. Inside, in tissue paper, was a fall of dark violet silk, the colour of the sugared violets her mother had bought her since she was small, cut close and plain and very expensive, with nothing on it anywhere that a person could point to and call decoration. It was perfect. Her mother did not make mistakes about clothes.
+
+On top of the tissue lay a card. It was not in the hand her mother used for invitations, with the loops. It was the other one, small and upright, the one Lyra had seen exactly once before, at the bottom of a letter about Regulus Black.
+
+*I chose the colour. You will tell me, I hope, whom it is for.*
+
+Lyra read it twice. Then she put it inside the cover of her Arithmancy book, behind the tables of values, next to a strip of paper in the same hand that said *You may tell me anything*, and closed the book on both of them.
+
+She did not write back. She did not know what she would say.
+
+There was nothing from her father. That was the other thing, and she had been not thinking about it for eleven days. The *Prophet* went to the Manor every morning with his breakfast, and her father had answered every letter she had ever sent him within two days, usually within one, and generally at greater length than she wanted. She had not written to him since the ship. He had not written to her since the *Prophet*. It sat in the box beside the violet silk like a second present, and it was much heavier.
+
+⁂
+
+On Sunday she went down to the ship.
+
+She did it because Potter had asked her to, and she had told him it was her decision, and it was: she had decided. That did not make the gangplank any shorter. A girl did not ask a boy to a Ball. A girl let it be known, in the right quarter, that she would not be displeased to be asked, and then she waited; and the right quarter, in this case, was a man with yellow teeth who called her father his friend.
+
+Professor Karkaroff was delighted. He was so delighted that he did not seem to notice she had come to him, rather than Krum to her, and Lyra let him not notice. He poured her something hot that she did not drink. He told her that Viktor was out on the water with the others, that Viktor was a serious boy and would be honoured, that he would speak to Viktor himself that very evening; he answered for Viktor so fluently, and at such length, that by the end of it Lyra was not sure Viktor would be required to say anything at all.
+
+Then he stopped in the middle of a sentence about dress robes, and rubbed his left forearm through his sleeve, slowly, as a man rubs a place where an old injury has started to ache in cold weather.
+
+“Your father,” he said. “He is well? He has said nothing to you, I suppose. About the Mark.”
+
+Lyra thought of a green skull over a field of tents, and a serpent sliding out between its teeth.
+
+“Nothing at all, sir,” she said. “He says it was somebody who got carried away.”
+
+“Yes.” Karkaroff’s hand stayed where it was. “Yes, of course. Carried away.”
+
+She went back down the gangplank in the early dark with her collar up. The lamps were lit in the windows of the castle, a long way up the slope, and halfway there, on the path, there was a staff, and a shape leaning on it, and an eye.
+
+She had met him here once before. She did not stop, this time. She walked straight on, and he let her get level with him before he spoke, and he did not ask after Igor.
+
+“Krum, is it?” said Moody.
+
+Then he went stumping off along the bank into the dark, *clunk*, *clunk*, and left her standing on the path.
+
+She had been alone in that cabin with Karkaroff. There had been nobody else on that ship within three walls of them.
