@@ -8,7 +8,7 @@ On the Monday her father’s owl came down the Great Hall at breakfast.
 
 It landed by her plate as it always did, and held out its leg as it always did, and the letter was in her father’s hand, the beautiful sloping hand that had written to her every week of her life; and she knew before she had broken the seal. She knew from the way he had written her name on the outside. He had pressed so hard on the *L* that the nib had caught.
 
-She read it at the table, with the Slytherins round her eating their kippers, and kept her face exactly where it was.
+She read it at the table, with the Slytherins round her eating their kippers.
 
 *My treasure,*
 
@@ -37,3 +37,53 @@ It had been an idea, then. A thing a girl promised herself in a bedroom, in the 
 It had come.
 
 Crabbe, across the table, had stopped eating and was watching her. Lyra put down the rest of the toast, and stood up, and on her finger, under the table, she turned the ring once round with her thumb and thought, very clearly and very coldly, of a boy; and felt it begin to warm.
+
+⁂
+
+He was in the Owlery when she got there.
+
+She had known he would be. The ring had pulled her up the west staircase and out along the cold stone passage and up the last winding flight to the top of the tower, warm and then warmer, and it had stopped pulling at the door; and when she pushed it open he was standing at the far window, in the straw, with his back to the light and his hands in his pockets, and every owl in the place awake and watching him.
+
+He did not come towards her. He had not waited for her at the foot of the dungeon steps for three weeks, and he did not come towards her now. He looked at her face, and whatever he saw in it, he stayed where he was.
+
+“You called,” said Potter.
+
+“Yes.”
+
+She shut the door behind her. It was very quiet up there, at that hour: the wind, and the shuffle of feathers, and somewhere above them in the rafters an owl turning a mouse over and over in its beak. The last time she had stood in this room with him she had been thirteen, and the light had been the same, and his owl had been eating her scarf; and she had told him what Malfoys did instead of favours, and he had agreed to her terms.
+
+She did not take out the letter. Not yet.
+
+“I want to tell you something,” said Lyra, “and you are going to stand there and let me get to the end of it.”
+
+He did not move.
+
+“You knew about the diary,” she said. “The night the Chamber was closed. You knew what it was before anybody had told you anything, and you knew there were seven, and you knew about a house in the north that is in no register in this country. My father made sure of that. You said *somewhere up north* as if it were the weather.”
+
+The owls shifted on their perches.
+
+“You knew a hippogriff was going to go for somebody, the week after, before it had so much as lifted a claw. You were on your knees beside it before anybody else had moved. You told me to feed a dog, on a train, before you had ever met it; and when I met it, it was starving, exactly as you said. You knew what Flint was going to do with that match before Flint had thought of it, and he only thought of it at lunch. You went out on Hallowe’en and came back and said *just missed him*, and I thought you meant you were unlucky. You weren’t unlucky. You were early. You knew what night he would come.”
+
+She had not raised her voice. She found that she did not need to; she had been saying it in her head for two days and nights, and it came out of her in order, one piece after another, like coins counted on to a table.
+
+“You stood on a pitch in November with your wand already out and looked at the gates and said *rotten weather, I’ll be quick*. And there were Dementors. You came and found me at the World Cup in the middle of the night, under a cloak, and told me to go back to my mother and stay with her, and an hour later there were Muggles in the air over the tents.” She took a breath. “You were *sure* about Moody. You told me so. You were so sure that you broke into his office with a wanted man, and you were wrong; and you still couldn’t tell me why you’d been sure. You knew about the beetle, when I’d told nobody, not one living soul. You knew Krum would ask Granger a month before Krum did. When I solved your egg for you, you weren’t surprised. You were pleased. Not surprised. And you said a dead man was dead twice, and you have never in your life needed to say anything twice.”
+
+He had gone very pale. He did not look away from her.
+
+“And the Cup,” said Lyra.
+
+She heard her own voice change on it, and could not stop it.
+
+“In the tent, before the dragon. Bagman shouted it through the canvas, *one step nearer the Triwizard Cup*, and you turned your head. You had sat through every roar of that dragon without moving, and you turned your head at that, as if somebody had said your name. And on Saturday you came up out of that maze on to the podium crouched like a cat, with your wand up, looking round you for something that wasn’t there. And then you looked at the Cup in your hand as if it had lied to you.” She stopped. “You thought it was going to take you somewhere else.”
+
+Potter said nothing.
+
+“None of it surprised you,” said Lyra. “Not one thing, in four years. Not Black, not the Dementors, not dragons, not the Goblet. The only thing that has ever surprised you is me.”
+
+The wind came in at the window and lifted the straw round his feet.
+
+“You’ve done this before,” said Lyra.
+
+It was not a question. She had meant it to be one. It came out flat, like the last line of a sum, and stayed in the air between them, and all round the walls the owls looked down at it with their great round eyes, and nobody in that room said anything for a long time.
+
+He did not deny it.
