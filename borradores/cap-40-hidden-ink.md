@@ -38,7 +38,7 @@ She wrote, very small, with the finest nib she had:
 
 She looked at it.
 
-*His son is alive.* She had not known she knew that until she wrote it. She had known it the way she knew where the stairs were in the dark: a man who sent his son to Azkaban *to die there*, and stopped, and looked at the door; a dead man said twice; a grave Moody had stood at; a chair in the top box that had creaked at the first Irish goal, beside an elf with her hands over her eyes, minding a seat for somebody nobody could see; a man walking very straight with a crate in his arms, as though somebody had told him where to put his eyes. She did not know how. She knew who.
+*His son is alive.* She had not known she knew that until she wrote it. She had known it the way she knew where the stairs were in the dark: an elf with her hands over her eyes, minding a seat in the top box for somebody nobody could see, and the seat creaking at the first Irish goal. She did not know how. She knew who.
 
 She did not write anything about the north. She held the nib above the parchment for a long moment, and did not.
 
