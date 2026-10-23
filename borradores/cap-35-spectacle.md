@@ -150,7 +150,7 @@ He stood at the end of the jetty by himself, and raised his wand, and Lyra heard
 
 “Where’s he *going*?” said Goyle.
 
-Lyra did not know. She watched the small dark shape go up the slope and across the grounds towards the great grey bulk of the castle, and rise along its face, and level out; and she saw, a moment before it happened, which window he was making for. She had stood at that window herself, two years ago, in the dark, with a werewolf’s potion on her conscience, looking down at the lake.
+Lyra did not know. She watched the small dark shape go up the slope and across the grounds towards the great grey bulk of the castle, and rise along its face, and level out; and she saw, a moment before it happened, which window he was making for. She had looked out of that window herself, a year ago almost to the week, with the light going and a werewolf’s potion on the desk behind her.
 
 There was a tiny, distant, glittering burst, like frost knocked off a branch.
 
@@ -172,6 +172,6 @@ The stands went mad.
 
 At the end of the staff bench, Professor Snape had not moved. He had watched his window go without a flicker, as he watched cauldrons boil over in the dungeons, as though it were what he had always expected and only a little earlier than he had expected it. Now he turned his head, slowly, the whole length of the stands, past the Gryffindors and the Hufflepuffs and the Ravenclaws, until he found the Slytherin bench, and Lyra on it.
 
-He looked at her for a moment, as he had looked at her once across a shore in the dark with grey feathers on the front of her robes: as if he were adding something to a bill.
+He looked at her for a moment, as he had looked at her once by a lake in the dark, with grey feathers on the front of her robes: as if he were adding something to a bill.
 
 Then he looked back at the water.
