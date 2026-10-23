@@ -7,8 +7,9 @@ Sustituye al v2.0 como documento de trabajo. Recoge **solo lo que sigue en vigor
 ## 1. El proyecto
 
 - **Qué es:** la adaptación al inglés de una fanfic coreana de Harry Potter (unos 120 capítulos) con un genderbend de Draco: **Lyra Malfoy** (Karina en el original; Carina en la traducción oficial). Draco es su hermano, cuatro años menor. El autor es Edén; se le habla en español. Los capítulos van en inglés británico.
-- **No es una traducción.** El coreano aporta trama, escenas y relaciones, y la prosa se reconstruye para que parezca escrita en inglés. Se puede reescribir, reordenar, expandir, condensar y añadir escenas pequeñas compatibles. No se cambian acontecimientos importantes, motivaciones, relaciones ni resultados sin consultar al autor. Desde el 31, el rumbo es propio (§8) y el original solo manda donde el guion de la tanda dice «se queda» o «cambia».
-- **No se calca la traducción inglesa oficial** (`referencia/oficial-en/`, solo para comparar).
+- **No es una traducción.** El coreano aporta trama, escenas y relaciones, y la prosa se reconstruye para que parezca escrita en inglés. Se puede reescribir, reordenar, expandir, condensar y añadir escenas pequeñas compatibles. No se cambian acontecimientos importantes, motivaciones, relaciones ni resultados sin consultar al autor. Desde el 31, el rumbo es propio (§8), y el original es la guía de cada capítulo (ver abajo).
+- **Capítulos de referencia (decisión del autor, 23 de octubre de 2026).** Desde el 31, cada capítulo nuestro tiene uno o dos capítulos de referencia del original (la tabla del §1 del guion de la tanda). La ficha se construye **leyendo enteros esos capítulos**: sus escenas, su orden, su corazón emocional y sus momentos clave son el punto de partida, como un cóctel. Luego se readapta todo a nuestra historia, que es más compleja: otras causas, otras reacciones de los personajes, nuestras tramas y divergencias, el orden de los sucesos cambiado, momentos que se quitan porque aquí no pueden pasar (falta lo que los provoca) o porque no rinden, y la forma de narrar cada momento a nuestro estilo, para que sea más adictivo, con personajes más queridos o más interesantes. El resultado puede tener el aire del original y no ser lo mismo; unos capítulos se parecerán más que otros. Cada escena lleva su etiqueta («se queda», «cambia», «sustituye», «nuevo») y la ficha cierra con **lo que se quita del original y por qué**.
+- **Las fuentes:** el coreano (`coreano/`, hasta el 35) y, del 36 en adelante, **la traducción inglesa oficial** (`referencia/oficial-en/`, del mismo autor), que el autor autoriza como capítulo de referencia. **No se calca:** se lee para la trama, las escenas y lo que siente cada uno, nunca para la frase; ninguna línea nuestra sale de una suya.
 - **Contenido:** los protagonistas tienen 14 años en el cuarto curso y como mucho 17 al final. El romance es emocional: tensión, celos, confesiones, besos breves centrados en lo que significan. Nada sexual ni sensual; si el original lo tiene, se rehace conservando la función.
 - **Escrito:** del 1 al 30 y los *Year One* 1 a 4. El 31 es el siguiente. El *Year One* 2 y el 4 están rehechos (18 y 19 de octubre).
 - **Publicación:** la lleva el autor; está al día en `CLAUDE.md`.
@@ -118,12 +119,12 @@ Detalle en `docs/notas/ideas-divergencias.md` (crítica de Fable en `docs/fable/
   2. el guion de cada tanda (de 8 a 12 capítulos), escena por escena, que se repasa contra el texto completo antes de aprobarlo;
   3. cada capítulo (§10).
 - **Tandas que quedan:** el final del cuarto (en curso), el verano de 1995, el quinto, el Ministerio, el sexto, Riddle y el plazo, y el final, que decide el autor. Unos 38 a 48 capítulos en total desde el 31.
-- **El coreano** es fuente de trama donde el guion dice «se queda» o «cambia». Faltan los del 36 en adelante: pedírselos al autor antes de la ficha del 33.
+- **El original** es la guía de cada capítulo (§1, «Capítulos de referencia»): el coreano hasta el 35 y la traducción oficial del 36 en adelante.
 
 ## 10. Flujo de un capítulo
 
 1. **Lectura** según el protocolo de `CLAUDE.md`.
-2. **Ficha y guion por escenas** (`borradores/cap-NN-ficha-guion.md`): motor, peldaño, deseo del lector, escena de los dos, pantallazo, calor, gancho, fichas, cuentas (solo si la escena las pide), hilos atrasados, thriller, fechas, lo comprobado con grep. **La aprueba el autor antes de escribir.**
+2. **Ficha y guion por escenas** (`borradores/cap-NN-ficha-guion.md`), a partir de la lectura entera de los capítulos de referencia (§1): motor, peldaño, deseo del lector, escena de los dos, pantallazo, calor, gancho, fichas, cuentas (solo si la escena las pide), hilos atrasados, thriller, fechas, lo comprobado con grep, y lo que se quita del original y por qué. **La aprueba el autor antes de escribir.**
 3. **Escritura** en `borradores/cap-NN-titulo.md`, una escena por paso, con commit de cada una.
 4. **Pasada de tics y lectura en frío.**
 5. **Crítica de Opus** con `docs/critico-v2.0.md`. El crítico no lee el coreano, los planes, las fichas ni los capítulos futuros; se reutiliza mientras le quepa en el contexto. Las notas se aceptan, en parte o no, siempre con motivo; luego se le manda una nota con lo que se cambió.

@@ -1,6 +1,6 @@
 # Capítulo 31 (coreano 34), desde Lyra, con coda desde Harry
 
-Ficha del 19 de octubre de 2026, escrita en la misma sesión en que se leyó la historia entera en texto completo (del 1 al 30 y los cuatro *Year One*, sin manuales). Leído además para ella: el guion de la tanda (`borradores/guion-tanda-31-40.md`, el §0, el capítulo 31 con sus **[Repaso]**, el 32 y los §3 a §7), la continuidad transversal, el handoff v3.0, los coreanos 34 y 35 y el apartado del 36 de `borradores/resumen-oficial-36-54.md`. Sale del capítulo 31 del guion aprobado el 18 de octubre. **No se escribe hasta que el autor la apruebe.**
+Ficha del 19 de octubre de 2026, escrita en la misma sesión en que se leyó la historia entera en texto completo (del 1 al 30 y los cuatro *Year One*, sin manuales). Leído además para ella: el guion de la tanda (`borradores/guion-tanda-31-40.md`, el §0, el capítulo 31 con sus **[Repaso]**, el 32 y los §3 a §7), la continuidad transversal, el handoff v3.0, los coreanos 34 y 35 y el apartado del 36 de `borradores/resumen-oficial-36-54.md`. Sale del capítulo 31 del guion aprobado el 18 de octubre. **APROBADA por el autor (19 y 23 de octubre), con las recomendaciones:** la nota de Narcissa en su letra pequeña y recta; la túnica violeta; «Krum, is it?»; el título *Whether I Do*; y lo recuperado del coreano 34 (el deseo de Lyra y la pregunta de Crabbe).
 
 ## Comprobado en la lectura y con grep
 
@@ -98,3 +98,11 @@ Total: unas 3.850 palabras.
 3. **La túnica violeta** (el color de las violetas de su madre). **Recomiendo sí.** Alternativa: morada, como el original.
 4. **Moody: «Krum, is it?»** en vez de nada. **Recomiendo sí:** es un escalofrío pequeño que prepara el baúl y el mapa.
 5. **El título.** *The Triangle* (el del guion); *Whether I Do*; *Princess of Slytherin*. **Recomiendo *Whether I Do*:** es la frase de Lyra, y el capítulo es suyo.
+
+## Lo que se quita del original 34 y por qué
+
+- **La reflexión del narrador sobre las disculpas entre novios** y Harry pidiendo perdón al empezar: aquí es Lyra la que le quita la frase de la boca; un narrador que explica el amor no es nuestro estilo.
+- **La conversación de Harry con Sirius por la chimenea**: cuenta la sospecha en vez de enseñarla. La sustituye la coda en el despacho de Moody, con el error en escena.
+- **La sospecha porque Moody «no vio» a Skeeter:** aquí Moody es Moody; la sospecha de Harry nace del mapa, de la petaca, del baúl y del *Profeta*.
+- **«Harry le había contado lo de la pareja a Moody»:** aquí Moody lo vio solo (27).
+- **Las Navidades del castillo descritas al principio** (los calcetines, las campanas, los carámbanos): el capítulo empieza en escena, con Parkinson.
