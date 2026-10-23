@@ -93,3 +93,37 @@ It had worked all summer. That was the thing she kept coming back to, all that F
 It did not say anything about a ring that stopped. It did not say what colour a ring went when the person wearing the other one was dead.
 
 She looked down at her hand perhaps a hundred times that day. It was silver every time.
+
+⁂
+
+She was on the fourth floor at about four o’clock, in a corridor that nobody used even in term, when she heard the leg.
+
+It came round the corner before the rest of him: a long clunk on the flagstones, and then the good foot, and then the staff. Mad-Eye Moody stopped a few yards off, in the grey light from the window, and looked at her with both eyes. The dark one stayed on her face. The blue one went down to her left hand, and stayed there.
+
+“Your ring, Miss Malfoy,” he said. “What’s it showing?”
+
+Lyra did not put her hand behind her back. It would not have made the slightest difference, and he would have enjoyed it.
+
+“Nothing.”
+
+“Nothing at all?”
+
+“It’s silver, sir.” She heard her own voice and did not like it. “It’s just silver.”
+
+Moody grunted. The blue eye left her hand and rolled away, up and backwards into his head, as though it had remembered something several floors off that it wanted to look at; it stayed there a moment, fixed on whatever it was, and then came swivelling back.
+
+“Then wherever he is,” said Moody, “it isn’t this castle.”
+
+He shifted his weight on to the wooden leg, and turned.
+
+“Do you know where he is?”
+
+It came out of her before she had decided to let it, and much too high. Moody stopped, with his back to her, and for a moment she thought he would not bother to answer.
+
+“I know where he isn’t,” he said, and stumped away down the corridor, *clunk*, and step, and *clunk*, until the sound went round the corner and was gone.
+
+Lyra stood in the empty corridor for some time after that.
+
+He had not said Potter was safe. He had not said he was in danger either. He had asked about the ring as a man asks the time of somebody whose watch he does not trust, and gone away with the answer, and he had not once in the whole of it looked as if he cared which. She tried to be angry about that, and could not get it to take.
+
+In August she had lain awake a whole night watching the ring go purple. That night she lay awake and watched it do nothing, and found it was much worse.
