@@ -66,7 +66,7 @@ On Thursday the *Daily Prophet* had it on the front page.
 
 Lyra read it at the Slytherin table with her tea going cold, and folded it, and passed it on.
 
-*Acting on information received.* She did not look at the Gryffindor table. She did not need to; she could feel where he was sitting, as she had always been able to, without the ring.
+*Acting on information received.* She did not look at the Gryffindor table. She could feel where he was sitting, as she had always been able to, without the ring.
 
 Nobody in the article had a son. Nobody had ever had one. Mr Crouch had lived alone.
 
@@ -89,5 +89,3 @@ Dumbledore did not say where. He did not say how. He said that it would be the w
 Then he sat down, and the feast was over.
 
 Along the Slytherin table, nobody said anything. That was the thing she would remember, afterwards, when she remembered that night: not the scream, but the silence on her own side of the Hall. It was not the silence of the other three tables, which was the silence of people who were frightened. Some of it was that. Some of it, here and there along the bench, in a face she had sat beside for four years, was something else entirely, held very carefully, so as not to show.
-
-On the Saturday morning, the *Prophet* said that the Minister for Magic deeply regretted that Professor Dumbledore had seen fit to alarm a hall full of children on the eve of their holidays with irresponsible rumours, at a time when the Ministry was doing everything in its power to bring Mr Crouch’s murderer to justice; and that the Minister had every confidence that Igor Karkaroff would be found.
