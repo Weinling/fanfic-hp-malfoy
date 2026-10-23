@@ -175,3 +175,35 @@ At the end of the staff bench, Professor Snape had not moved. He had watched his
 He looked at her for a moment, as he had looked at her once by a lake in the dark, with grey feathers on the front of her robes: as if he were adding something to a bill.
 
 Then he looked back at the water.
+
+⁂
+
+After that there was nothing to look at for an hour.
+
+That was the part nobody had thought about, Lyra decided, when they planned the second task: that the whole school would sit on cold benches above a flat grey lake and watch nothing happen to it. The surface closed over the four of them and lay there. Now and then a bubble came up somewhere and burst, and the stands leaned towards it, and it was a bubble. A giant squid put up one lazy tentacle near the far bank and took it down again. Bagman told jokes into his megaphone. Nobody laughed at them.
+
+At twenty minutes, Fleur Delacour came up, alone, without whatever she had gone down for, and was hauled out on to the jetty by Madame Maxime, and stood there in her bathing costume with a towel round her shoulders, shaking and screaming in French about the *grindylows*. Lyra’s French was very good. It was not, on the whole, a speech she would have translated for Goyle.
+
+The surface closed again.
+
+Lyra found that she could not look at it. Every time she looked at it she thought of a boy who could not swim, gone into it on a broomstick with a mouthful of weed from Snape’s cupboard, and of what she had not told him on a rock a week ago, and her hands began to do things in her sleeves that she did not care for. So she stopped looking at the water, and looked at the judges instead, because they were the only other thing there was.
+
+Dumbledore, at the end of the table, with his hands folded on the gold cloth, watching the lake with an expression of mild and perfect patience. Madame Maxime, back in her seat, wrapping her own fur round her shoulders as though it were she who had been in the water. Karkaroff, beside her, leaning forward with his fists on his knees, watching for Krum. Bagman, on his feet, with the megaphone.
+
+And at the other end, a man she had never seen before.
+
+There was a little card in front of him on the gold cloth, the same as all the others, and it said *B. Crouch, Department of International Magical Co-operation*. So that was Barty Crouch. The man who had sent his son to Azkaban. The man whose son had died there.
+
+He was not what she had expected. She had expected somebody hard and grand and frightening, to go with the story Karkaroff had told and the grave Moody had stood at. He was a thin, elderly, very upright man in a suit of dark Muggle cloth so neat it might have been ironed on him, with a moustache clipped like a toothbrush and a parting in his grey hair so straight it looked drawn with a ruler. He might have been going to a wedding at the Ministry. He sat quite upright, with his hands flat on the table in front of him, one on either side of his card.
+
+He did not move.
+
+That was the thing she noticed, after a while, and once she had noticed it she could not stop noticing it. Everybody else at that table moved. Bagman bounced. Karkaroff fidgeted, and muttered, and twice half rose out of his chair when something stirred out on the water. Even Dumbledore turned his head now and then, and once said something to Madame Maxime that made her laugh. Barty Crouch sat with his hands flat on the cloth and looked straight in front of him, at nothing, and did not turn his head towards the lake at all. Not when Fleur came up screaming. Not when the squid surfaced. Not once.
+
+He looked like a man waiting to be told that he might.
+
+Bagman bent down to him, at forty minutes, and said something with a grin and a jerk of his thumb at the water; and Mr Crouch answered him. Lyra could not hear what he said. She saw his mouth move. But she saw, too, that he answered a beat late, a full second after Bagman had stopped speaking, like a man who has had to wait for the question to arrive from a long way off.
+
+She did not know what it meant. She did not think it meant anything, yet.
+
+She looked at him anyway, for the rest of the hour, because it was better than looking at the lake.
