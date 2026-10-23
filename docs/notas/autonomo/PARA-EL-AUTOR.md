@@ -2,6 +2,19 @@
 
 Lo pone al día cada sesión autónoma al terminar. Lo más nuevo, arriba.
 
+## 23 de octubre de 2026, noche (sesión autónoma 1, desde las 20:37)
+
+**Listo para subir a Webnovel:**
+- **Capítulo 32, «Plain Silver»** (`borradores/cap-32-plain-silver.md`, ~4.590 palabras). Criticado (primero del cuarto curso para el crítico) y con arreglos. Tiempo: ficha a las 20:44, escrito a las 20:49, cerrado a las 21:02 (horas de los commits).
+
+**Decisiones tomadas:**
+- **32:** el guion, tal cual, con un gesto nuevo: Lyra se pone el anillo en el dedo durante los tres días y lo lleva a la vista en el Baile (al final se pone rosa, y el de Harry también). Moody no miente: «that ring can’t reach him». Krum, además de «She refuse me», dice «Is lucky for me» mirando a Granger, para que ella no quede de segunda.
+- **33:** Percy («Ron’s brother») en el sitio de Crouch en el Baile, como en el canon; la semilla de Winky la trae Granger por él.
+
+**Cambios del rumbo:** ninguno.
+
+**Preguntas que no bloquean:** el 32 queda en ~4.590 palabras (techo orientativo 4.200); el crítico no bajaría de 4.450.
+
 ## 23 de octubre de 2026 (sesión principal, antes de dormir)
 
 **Listo para subir a Webnovel:**

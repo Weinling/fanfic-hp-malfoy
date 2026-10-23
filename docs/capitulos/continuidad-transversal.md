@@ -1,6 +1,6 @@
 # Continuidad transversal
 
-Hecho el 11 de octubre de 2026 a partir de todos los manuales y del handoff, tras el capítulo 28. Actualizado tras el 29 y tras el 30 (12 de octubre), tras el retoque del 25 al 30 (18 de octubre) y tras el 31 (23 de octubre). Recoge lo que está repartido por los manuales y se escapa con facilidad: los hitos de la pareja, quién sabe qué y desde cuándo, cómo está cada personaje, las fichas vivas y las deudas abiertas.
+Hecho el 11 de octubre de 2026 a partir de todos los manuales y del handoff, tras el capítulo 28. Actualizado tras el 29 y tras el 30 (12 de octubre), tras el retoque del 25 al 30 (18 de octubre) tras el 31 y tras el 32 (23 de octubre). Recoge lo que está repartido por los manuales y se escapa con facilidad: los hitos de la pareja, quién sabe qué y desde cuándo, cómo está cada personaje, las fichas vivas y las deudas abiertas.
 
 **Se actualiza al cerrar cada capítulo**, en el mismo paso que el manual. Si algo de aquí choca con el texto, manda el texto; corrige este archivo.
 
@@ -40,14 +40,17 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 | 20 nov. 1994 | 29 | Bajo la capa, de día, junto al cobertizo de escobas del colegio: **tercer beso en la boca, el primero elegido por los dos** («Can I kiss you?» / «Yes.»). Largo, torpe, de pie. Ella le da lo de Karkaroff y los dragones y no deja que se lo deba («Don’t») | Nadie (el ojo de Moody podría) | «That one counted.» / «You knew first.» |
 | 24 nov. 1994 | 30 | La tienda de los campeones, antes del dragón: ella entra bajo la capa y le pone la mano encima; él se la coge. Le da la pluma de azúcar («Since Hallowe’en» / «…Which one?»). **Cuarto beso en la boca, el primero que empieza ella**, a través de la capa, un segundo, de despedida. Harry se queda deshecho: la mano contra la boca, rojo, riéndose sin ruido, «Lyra—» a nadie. Sin etiqueta de «cuenta» | Nadie (el escarabajo; el ojo de Moody, fuera, pasó de largo) | «It’s a dragon, Lyra.» / «She had sent him out to a dragon with *that* on his face.» |
 | 29 nov. 1994 | 31 | Tras el *Prophet* («A TRIANGLE?»), en un aula del tercer piso: él dice «We can’t go together»; ella le devuelve la capa, le gana la mano con Krum («Most things worth doing, I do before you ask») y se va con «Whether I do is my decision». **Sin pago romántico** (baja) | Nadie | «Do you trust me?» / «Why on earth would I?» |
+| 25 dic. 1994 | 32 | El Baile. Tres días sin él (el anillo en plata lisa; Lyra se lo pone en el dedo el 23). Él llega tarde con la tapadera de «los dos plantados»; **ella la rompe en público**: «Nobody left me anywhere, Potter. I turned Krum down» (mentira; Krum la confirma: «She refuse me»). Le coge la mano delante de todos; la marca de la muñeca. **La pareja es pública.** Los anillos, rosas, a la vista. Abren el baile | Todo el colegio, Durmstrang, Beauxbatons, los jueces (Karkaroff) | «You make me miserable.» / «I know.» |
 
-**Besos en la boca hasta ahora: cuatro (3, 19, 29 y 30).** Además: la frente (24), el hocico (27, «no cuenta»). El del 29 es el primero elegido por los dos, sin excusa: él lo pide y ella dice «Yes». El del 30 es el primero que empieza ella, a través de la capa. **Racha:** el 26, el 27, el 29 y el 30 tienen pago romántico; el 31 no lo tendrá, y el próximo beso no se vende como otro «primero» (crítico).
+**Besos en la boca hasta ahora: cuatro (3, 19, 29 y 30).** Además: la frente (24), el hocico (27, «no cuenta»). El del 29 es el primero elegido por los dos, sin excusa: él lo pide y ella dice «Yes». El del 30 es el primero que empieza ella, a través de la capa. **Racha:** el 26, el 27, el 29 y el 30 tienen pago romántico; el 31 no; el 32 sí (en público, sin beso); y el próximo beso no se vende como otro «primero» (crítico).
 
 **Traslados en brazos:** primero (Y1-1, rodando), el 5 (corriendo bajo la capa), el 27 (hurón, andando).
 
-**Manos:** él le coge la mano entre las dos (14); ella se la tiende primero (22); bajo la capa (22); el anillo en el dedo (23); en la tienda, ella pone la suya sobre la de él y él la coge (30).
+**Manos:** él le coge la mano entre las dos (14); ella se la tiende primero (22); bajo la capa (22); el anillo en el dedo (23); en la tienda, ella pone la suya sobre la de él y él la coge (30); en el Baile, ella se la tiende delante de todos y abren el baile (32).
 
 ## 2. Quién sabe que son pareja
+
+**Desde el Baile (25 de diciembre de 1994, cap. 32) es público:** todo el colegio, Durmstrang, Beauxbatons y los jueces la vieron elegirle (Lyra dijo haber rechazado a Krum). Lo de abajo es quién lo sabía antes y cómo.
 
 | Quién | Qué sabe | Desde | Cómo |
 |---|---|---|---|
@@ -148,6 +151,16 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 - **Crabbe:** cubre a Lyra con lo de Krum («I’ll tell people that»). **Goyle** tiene pareja secreta. **Parkinson,** mandado a por Daphne.
 - **Moody** no la vio volver del barco en el 31.
 
+### Lo que cambia en el 32 (23 de octubre)
+- **Público:** la pareja. Lyra dijo en voz alta «I turned Krum down» (mentira) y Krum la respaldó («Is true. She refuse me… Is lucky for me»). Karkaroff lo vio y dejó de aplaudir.
+- **Lyra:** lleva el anillo en el anular izquierdo desde el viernes 23 de diciembre, a la vista. Rechazada por Krum en el barco el jueves 22 (Karkaroff le ofreció a **Poliakoff**). Sabe que el plan de Potter estaba montado sobre su «She is not Potter’s anything» y que él estaba seguro de que Krum pediría a Granger. No sabe dónde estuvo Potter.
+- **Harry:** tres días en el baúl de Moody (del jueves 22 al domingo 25); llega tarde al Baile con la túnica de gala verde botella y los pantalones del uniforme; una marca en relieve en la muñeca derecha.
+- **Crabbe:** «Since the lawn» (la manga de Potter en la clase de vuelo de primero); fue al Baile con **Nott**. **Goyle**, con **Zabini**.
+- **Krum** fue con **Granger** (azul pervinca, pelo liso). Le mintió a todos por Lyra.
+- **Moody:** sabía dónde estaba Potter; a Lyra le dijo «that ring can’t reach him» y «I know where he isn’t».
+- **Dumbledore** ha vuelto el día de Navidad.
+- **Los anillos:** el baúl hechizado los tapa (plata lisa); en el baile, rosas los dos.
+
 ## 5. Fichas vivas
 
 | Ficha | Dónde está | Última vez | Nota |
@@ -157,7 +170,7 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 | El pañuelo (18) | Lyra; lavado y planchado | 23 | Sabe que es de Potter; no se lo ha devuelto |
 | La posdata de Narcissa | Libro de Aritmancia, tras las tablas | 17 | Sin respuesta |
 | El papel de los onces | El mismo libro | 15 | — |
-| Los anillos | Lyra, en el bolsillo de día; Harry, el suyo | 28 | Colores: rojo (peligro de muerte), rosa (con su pareja), morado (en guardia), dorado (éxito), verde (a salvo), azul (solo insinuado en el 24: «anything that might come out blue»; el plan dice «te echa de menos»), azul oscuro (dormido, sin nombrar en el texto). Parpadeo: el otro le busca. Se calienta hacia el otro |
+| Los anillos | **Lyra, en el anular izquierdo, a la vista, desde el 23 de diciembre**; Harry, el suyo en la derecha | 32 | Colores: rojo (peligro de muerte), rosa (con su pareja), morado (en guardia), dorado (éxito), verde (a salvo), azul (solo insinuado en el 24: «anything that might come out blue»; el plan dice «te echa de menos»), azul oscuro (dormido, sin nombrar en el texto). Parpadeo: el otro le busca. Se calienta hacia el otro. Plata lisa: el otro está donde el anillo no llega (el baúl de Moody, 32) |
 | Los omniculares de Potter | Lyra; en la Manor, bajo la almohada (25) | 25 | Dos horas de ella grabadas. **No son ficha** (autor): no vuelven como tal |
 | La insignia S.P.E.W. | Bolsillo de Lyra | 26 | Los dos galeones: prometidos, no consta que se pagaran |
 | La carta de Lupin | Bolsa de Lyra | 29 | Sin contestar: la respuesta está empezada («*Dear Professor Lupin*») |
