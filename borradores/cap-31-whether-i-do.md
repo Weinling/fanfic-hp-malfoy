@@ -54,7 +54,7 @@ Lyra held out her hand for it. She had found, the last time, that it was better 
 
 *It is barely a week since this paper brought its readers the touching story of Harry Potter and his devoted Hermione Granger, and already this correspondent can reveal that the Boy Who Lived has a secret even closer to his heart.*
 
-*Before the First Task, while his fellow champions waited in grim silence, young Harry was overheard whispering sweet nothings to an unseen companion by means of a long-range Listening Charm. They were apart in body, it seems, but not in spirit. The companion was identified to this correspondent, by a fellow student, as none other than the Princess of Slytherin herself: Miss Lyra Malfoy, the elder daughter of Lucius Malfoy, whose family needs no introduction.*
+*Before the First Task, while his fellow champions waited in grim silence, young Harry was overheard whispering sweet nothings to an unseen companion by means of a long-range Listening Charm. They were apart in body, it seems, but not in spirit. The companion was identified to this correspondent, by a fellow student, as none other than the Princess of Slytherin herself: Miss Lyra Malfoy, daughter of Lucius Malfoy, whose family needs no introduction.*
 
 *“Potter and Malfoy?” laughs Panther Parkinson, fourteen, of Slytherin House. “They’ve loathed each other since first year. Ask anybody.”*
 
@@ -74,9 +74,9 @@ It went up in a single soft rush, like the last of her father’s letters, and l
 
 “No,” said Goyle, a little too quickly. “No. Course not.”
 
-“A *triangle*.” Lyra buttered a piece of toast. “With Potter. And a Listening Charm. If I wanted to whisper sweet nothings to anybody, which I do not, I should hardly do it by charm, like a Muggle with a telephone.”
+“A *triangle*.” Lyra buttered a piece of toast. “With Potter. And a Listening Charm. If I wanted to whisper sweet nothings to anybody, which I do not, I should hardly do it by charm, through a tent, like a scullery maid with a two-way mirror.”
 
-Nobody knew what a telephone was. It did not matter. The tone was the thing, and the tone was right, and she could feel the bench begin, cautiously, to believe her, or at least to see that it was wiser to look as if it did.
+The tone was the thing, and the tone was right, and she could feel the bench begin, cautiously, to believe her, or at least to see that it was wiser to look as if it did.
 
 Parkinson cleared his throat.
 
@@ -84,7 +84,7 @@ Parkinson cleared his throat.
 
 Crabbe and Goyle turned and looked at him with deep and identical pity.
 
-It came out of Lyra before she had weighed it. It came out because the whole table was waiting for it, and because there was only one answer she could give that nobody in Slytherin would dream of doubting.
+She did not weigh it. It came out because the whole table was waiting for it, and because there was only one answer she could give that nobody in Slytherin would dream of doubting.
 
 “I’m going with Viktor Krum,” she said.
 
