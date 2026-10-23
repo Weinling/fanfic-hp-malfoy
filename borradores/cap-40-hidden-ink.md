@@ -144,11 +144,11 @@ It was very quiet. The bathroom was under the lake, like everything else down th
 
 She went to the nearest basin and put both hands on the edge of it, and looked.
 
-It was her own face. That was the surprising thing. She had thought, somehow, that it would look different, after a week like this one; that something would show. It did not. It was the face she had made in the mirror every morning since she was eleven, smooth and pale and perfectly composed, and it looked back at her quite calmly, with nothing in it anywhere.
+It was her own face. That was the surprising thing. She had thought, somehow, that it would look different, after a week like this one; that something would show. It did not. It was the face she made in that mirror every morning, smooth and pale and perfectly composed, and it looked back at her quite calmly, with nothing in it anywhere.
 
 She watched it for a while. Then she watched it go.
 
-It did not go all at once. It went at the mouth first, at one corner, and she put her hand up over it, hard, and held it there; and then her eyes went, and she could not see the mirror any more, and her shoulders, and then the whole of her, all of it, bent over the basin with her hand clamped over her mouth so that not one sound would get out under the door, and not one did. She cried as she had not cried since she was a small child, in a long, silent, dreadful heave that went on and on and would not stop, though she told it to, though she held on to the edge of the basin with her other hand until her fingers ached and told it, again and again, to *stop*.
+It did not go at once. It went at the mouth first, at one corner, and she put her hand up over it, hard, and held it there; and then her eyes went, and she could not see the mirror any more, and her shoulders, and then the whole of her, all of it, bent over the basin with her hand clamped over her mouth so that not one sound would get out under the door, and not one did. She cried in a long, silent, dreadful heave that went on and on and would not stop, though she told it to, though she held on to the edge of the basin with her other hand until her fingers ached and told it, again and again, to *stop*.
 
 It did not stop for a long time.
 
@@ -165,3 +165,47 @@ She ran the cold tap, and washed her face in it, twice, until it stung. She drie
 It was her own face. There was nothing in it anywhere.
 
 She unlocked the door and went to bed.
+
+⁂
+
+Moody found her in the Entrance Hall on the Saturday morning, among the trunks.
+
+The whole school was in it, or seemed to be: the trunks stacked by the doors for the carriages, owls in cages hooting, first-years running about after toads, Hagrid at the top of the steps bellowing at somebody about a crate. Moody came through all of it like a ship through small boats, with his own trunk floating behind him at the height of his knee, seven locks and all, and stopped in front of her.
+
+Crabbe and Goyle drew back a step without being asked.
+
+“Miss Malfoy,” said Moody.
+
+“Professor.”
+
+“Not for much longer.” He jerked his head at the trunk. “I’m off. One year, Albus asked me for. He’s had it.” The blue eye went round the Hall, once, and came back to her. “Your note.”
+
+She did not say anything.
+
+“Potter brought it to Albus on Tuesday, before it was dark. Two layers. Nice work; I’ve not seen that done since your grandfather’s time.” His mouth moved. “Albus sent me and two others to Crouch’s house that night. We were an hour too late.”
+
+Lyra held his eye.
+
+“The son,” said Moody, very low. “You wrote that his son was alive. I stood at that boy’s grave.” He waited. “How did you know?”
+
+“I didn’t,” said Lyra. “Not until I wrote it.”
+
+The Sneakoscope, she thought, would not have moved. Moody seemed to think so too. He looked at her for a while with both eyes, in the middle of the noise and the trunks and the owls, and then he grunted.
+
+“I’ve been at this thirty years,” he said. “I took you for your father’s errand girl. I took that boy of yours for a fool. And I took Barty Crouch for the only honest man in the Ministry.” He shifted his weight on to the wooden leg. “Three for three.”
+
+It was not an apology. She did not think Mad-Eye Moody had ever made one in his life. It was something else, and she knew what it cost him, and she inclined her head to it, very slightly, as she would have to a duellist who had bowed.
+
+“One thing more,” said Moody. He leaned closer; she could smell the flask. “Your father. Is he marked?”
+
+Lyra looked at him.
+
+“My father,” she said, “has never had anything on his arm in his life, Professor. He was under the Imperius. Everybody knows that.”
+
+She said it beautifully. Her voice did not shake. Her face did not move. She said it in exactly the tone her mother used for the wives of men who asked about the family’s money, and she did not know, as she said it, whether it was true or not; she only knew that she would say it, and had, and would go on saying it, for as long as anybody asked.
+
+The blue eye rested on her for a long moment.
+
+“Watch yourself in that house,” said Moody. “Watch it better than I watched this one.”
+
+Then he turned, and stumped away across the Hall with his trunk floating behind him, *clunk*, and step, and out through the great doors into the sunshine, and did not look back.
