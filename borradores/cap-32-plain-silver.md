@@ -256,7 +256,7 @@ So that was whom Krum had asked. She had known that since the shingle. What she 
 
 Krum asks Granger, who says yes. Krum turns Lyra down, because he has already asked Granger. Potter, whom everybody expects to bring Granger, has nobody. Lyra Malfoy has nobody. A champion must have a partner to open the dancing; and there they would both be, left over, with no choice in the matter, in front of the whole school and anybody who might be writing to Lucius Malfoy about it.
 
-The entire thing stood on Viktor Krum asking Granger. And Potter had been sure that he would, a month ago, in a classroom on the third floor, when nobody in the castle had seen Krum look at Granger except Lyra, who had told Krum that she was not Potter’s anything.
+The entire thing stood on Viktor Krum asking Granger. And Potter had been sure that he would, a month ago, in a classroom on the third floor, when, as far as Lyra knew, nobody but herself had seen Krum look at Granger; and she was the one who had told Krum that she was not Potter’s anything.
 
 He had built his plan on top of a sentence of hers, and had not told her that either.
 
@@ -269,3 +269,73 @@ He had built his plan on top of a sentence of hers, and had not told her that ei
 “You’ll do nothing whatever, Greer,” said Lyra. “Go and dance with Zabini.”
 
 Out on the floor, the champions had taken their places for the first dance: Diggory and Chang, Delacour and Davies, Krum and Granger. There was a space beside them, and the band was waiting, and nobody stood in it. Professor McGonagall had turned round in the doorway and was looking out into the Entrance Hall with her mouth gone very thin.
+
+⁂
+
+The ring went warm.
+
+It happened on her finger, under the table, between one breath and the next: three days of nothing, and then heat, as if somebody had breathed on it, and with the heat a small definite pull, like a hand on her sleeve, towards the doors. Lyra turned her head before anybody else in the Hall had thought to.
+
+Potter was standing behind Professor McGonagall in the doorway, out of breath.
+
+His hair was wet, as though he had put his head under a tap and called that dressing, and his tie was not straight. He had dress robes on, bottle green and very new; and under the hem of them, for anybody who cared to look down, were the grey trousers of his school uniform. He was holding his right hand a little away from his side, and the fingers of it did not quite open. McGonagall said something to him, short and furious, and he said, “Sorry, Professor. I know. I’ll sort it,” and came into the Hall.
+
+He did not look round for her. He did not need to. He came straight across the floor between the little tables, past the champions and the empty space beside them, past Goyle, whose mouth had fallen open, to the table by the wall where Lyra sat alone in violet silk; and half the Slytherins in the Hall turned in their chairs to watch him do it.
+
+“Malfoy,” said Potter. “Evening.”
+
+He said it a little too loudly, for the next table, and she understood at once that he had practised it.
+
+“I don’t suppose you’ve heard. I was going to bring Hermione, as it happens, and it turns out Krum got in first.” He had the rueful smile ready, and put it on. “And you’ve been left as well, by the look of it. Champions have to have a partner, apparently. It’s in the rules. So I thought, since we’re both stuck—”
+
+It was kind. That was the worst of it. She could see every piece of it, and every piece was there for her: the borrowed bad luck, the rules, the two of them thrown together with no choice in the matter, so that a man reading about it in Wiltshire would find nothing anywhere that his daughter had chosen. He had built her a door to walk out of, and stood there holding it open, with his hair wet and his hand that would not open, three days late.
+
+Lyra stood up.
+
+“Nobody left me anywhere, Potter,” she said.
+
+She did not say it loudly. She did not need to. The next table had gone quiet to listen to him, and it stayed quiet to listen to her, and so did the one beyond it.
+
+“I turned Krum down.”
+
+Potter stopped.
+
+The rueful smile went on for half a second without him, and then it went, and there was nothing on his face at all but plain astonishment, as if somebody had walked off the edge of a staircase with him in the dark.
+
+Out on the floor, ten yards away, Viktor Krum turned his head.
+
+He looked at Lyra, and then at Potter, and then, gravely, at the Hall in general.
+
+“Is true,” said Krum. “She refuse me.”
+
+Granger, on his arm, looked up at him with her mouth a little open. She did not look at Lyra at all.
+
+Lyra had not told him the truth on the shingle. She had told him she generally did, which was not the same thing, and he had gone away to think about it; and here he was, in front of three schools, telling a lie for her without a flicker, in that flat heavy voice that nobody in the world would ever think to doubt. She did not know why. She thought it might be the broom. She inclined her head to him, very slightly, as her mother did at the opera to people in other boxes, and Krum turned back to Granger as though nothing had happened.
+
+The Hall had heard it. She could feel it hearing it: the tables turning, the whisper going outward from the wall in rings. *Lyra Malfoy turned down Viktor Krum.* And then, a moment after, the rest of it. *For Potter.* In front of Slytherin, and Durmstrang, and Beauxbatons, and the judges’ table, and anybody who cared to write it down.
+
+She held out her hand.
+
+Potter looked at it as though he had never seen one before. Then he took it, with his right, carefully; and as his cuff slid back she felt it under her fingers, on the inside of his wrist: a raised ridge of skin, hot to the touch, running round the bone like the mark of a whip.
+
+She turned his wrist a quarter of an inch towards the light, and looked, and turned it back.
+
+“Later,” said Potter, under his breath.
+
+Lyra smiled at him, beautifully, for the benefit of the room. Behind the smile she said, so low that only he could hear it:
+
+“You make me miserable.”
+
+He did not have anything ready for that. She watched him look for something, and not find it, and give up looking.
+
+“I know,” he said.
+
+On her finger, against his hand, the ring was not silver any more. It had gone pink, a clear foolish Zonko’s pink, the colour on the slip for *with their sweetheart*, and she did not take her hand away to hide it. On his hand, the other one had gone the same.
+
+“Lyra—”
+
+“They’re waiting,” said Lyra. “Dance, Potter.”
+
+He led her out into the empty space beside the champions, with her hand in his and the whole Hall watching, and the band, which had been waiting a long time, began.
+
+She put her other hand on his shoulder. Over it, at the judges’ table, between Madame Maxime and Ludo Bagman, Professor Karkaroff had stopped clapping.
