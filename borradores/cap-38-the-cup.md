@@ -166,8 +166,6 @@ Madame Maxime’s chair was empty; she had gone with her pupils. Bagman’s, Dum
 
 It was June, and warm. But Karkaroff had worn that coat to every meal since October.
 
-“Malfoy?” said Crabbe.
-
 A knot of Durmstrang boys went past them up the slope, laughing, with their arms round each other’s necks, still in their red robes. One of them was Poliakoff. He saw Lyra and waved at her extravagantly, as at an old friend.
 
 “Party!” he called. “In the castle, the big hall. All night! The headmaster says go, go up, enjoy, he does not want us on the ship tonight.” He beamed. “He is a very good headmaster tonight.”
@@ -179,3 +177,33 @@ Lyra stood at the foot of the slope with her hand over the ring on her finger, w
 “Malfoy,” said Crabbe again, more gently. “Come on.”
 
 She went.
+
+⁂
+
+She did not sleep. She had not expected to.
+
+The Durmstrang boys were still singing somewhere above the dungeons at three in the morning, and the Slytherin common room was full until two of people going over and over the podium, and Diggory, and whether a champion who Stunned another champion from behind could keep a cup, and whether the Hufflepuffs would ever speak to Gryffindor again. Lyra sat by the fire with a book until they had all gone to bed. Then she went to bed herself, and lay behind her hangings with the ring on her hand, and watched it be green.
+
+It stayed green all night. Safe. Wherever he was, up in his tower with his leg bandaged and the Cup on the end of his bed, he was safe, and it said so, steadily, hour after hour, as if that settled anything.
+
+At a little after four the window of the dormitory, which looked out under the lake, went from black to a deep greenish grey, and Lyra got up and dressed and went up through the sleeping castle and out of the front doors on to the steps.
+
+The grounds were grey and wet and empty. There was mist lying on the grass in long low skeins, and the maze stood up out of it on the far side of the lawn, dark and dripping, and the sky over the Forest was the colour of pewter going pale. Nothing moved anywhere. It was so quiet she could hear the water.
+
+She went down the steps and across the lawn to where she could see the lake.
+
+It was flat and grey and perfectly still, and it went all the way out to the mountains on the other side without anything on it at all.
+
+The Durmstrang ship was gone.
+
+There was no light in its stern. There was no stern. Where it had lain at anchor since October, with its sails furled and its portholes lit and the smoke going up from its funnel, there was only a wide patch of water a little darker than the rest, turning very slowly round on itself, as water turns where something large has gone down through it, or out of it, not long ago.
+
+Lyra stood on the wet grass and looked at it.
+
+Behind her, the front doors of the castle had opened. She heard voices, and feet, and turned, and there were Durmstrang boys coming out on to the steps in ones and twos, in their red robes over their pyjamas, rumpled and yawning, some of them with blankets round their shoulders from wherever they had slept on the floor of the Great Hall. They came down the steps and stopped, one after another, and looked at the lake.
+
+Nobody said anything.
+
+Viktor Krum came out last. He walked down past the others, and across the lawn, and stopped a little way off from Lyra at the edge of the grass, with his arms folded, and stood looking at the empty water where his ship had been.
+
+After a while he turned his head and looked at her. She did not know what he saw in her face. He looked at her for some time, and then he looked back at the lake, and the two of them stood there in the grey morning, a yard apart, with the mist on the grass and the water turning slowly round and round over the place where the ship had been.
