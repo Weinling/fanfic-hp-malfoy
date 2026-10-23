@@ -56,7 +56,7 @@ He opened his eyes.
 
 “It was the next line,” said Lyra. “I heard it. Just. Through the water.” She sat back on her heels, and let go of his collar at last, and found that her fingers had gone white. “The lake, then. An hour. And they’re going to take something of yours.”
 
-*One of you dies*, said Moody, somewhere at the back of her head, *you or Potter*. She did not say it. She had not said any of it, in three weeks; and she sat on the frozen rock with the words in her mouth and let them stay there, and it was like holding a coal.
+*One of you dies*, said Moody, somewhere at the back of her head, *you or Potter*. She did not say it. She had not said any of it, in four weeks; and she sat on the frozen rock with the words in her mouth and let them stay there, and it was like holding a coal.
 
 Potter rolled over on to his back on the rock and lay there with the egg on his chest and the water running out of his hair into his ears, looking up at the sky.
 
@@ -72,7 +72,7 @@ He said it to the sky, not to her, in an ordinary voice.
 
 “Nowhere. I stayed in.” He turned his head on the rock, and looked at the frozen edge of the lake. “There’s a cupboard under the stairs. At theirs. That’s where I slept, till I was eleven. They’d lock it when they went to the seaside, so I wouldn’t touch anything.”
 
-She had known that he had nobody at Christmas. She had known that his letters in the summer came by birds she had never seen before, and that he signed them with an ugly name, and that he never went home at Easter. She had not known this. She sat on her heels on the frozen rock and looked at him lying there, the most famous boy in Britain, with lake-water in his ears, telling the sky about a cupboard; and her hands had shut into fists on her knees before she knew it.
+She had known that he had nobody at Christmas. She had known that his letters in the summer came by birds she had never seen before, and that he signed them with an ugly name, and that he never went home at Easter. She had not known this. She sat on her heels on the frozen rock and looked at him lying there, the most famous boy in Britain, with lake-water in his ears, telling the sky about a cupboard; and her hands had shut into fists on her knees.
 
 “I shall curse them,” said Lyra. “Both of them. And the cousin.”
 
@@ -91,3 +91,45 @@ Lyra unwound her scarf from her neck.
 It was the cashmere one, grey, the one his owl had once tried to eat in the Owlery, which had cost a great deal more than anything he was wearing. She pulled it off, and put it over his head, and dried his hair with it, hard, rather harder than was necessary, as if his hair had personally offended her. He let her. He sat on the rock with his eyes shut and his head bowed and let her do it, and when she had finished, and his hair was standing up in every direction like a hedgehog’s, she wound the scarf twice round his neck, and tied it, and left it there.
 
 “You’ll catch your death,” said Lyra, “and then where will I be.”
+
+⁂
+
+Professor McGonagall came for her on the Thursday night, at a quarter past eight, which was the first time in four years that any Head of House but Professor Snape had set foot in the Slytherin common room.
+
+The room went silent. McGonagall stood just inside the door in her tartan dressing gown, with her hair in its net, and looked round it as though she were counting the exits, and said, “Miss Malfoy. A word, if you please,” and went back out into the corridor without waiting to see whether Lyra would come.
+
+Lyra came.
+
+“The Headmaster has asked me,” said McGonagall, when the stone wall had slid shut behind them, “to ask you a favour. It concerns tomorrow’s task. Each of the champions will be required to recover something from the lake. Something that will be taken from them tonight.” Her lips thinned. “It has been decided that it should be a person. You would be put into an enchanted sleep. You would be perfectly safe; the Headmaster has seen to that himself. You would wake when you were brought out of the water. Mr Potter would be required to—”
+
+“No,” said Lyra.
+
+McGonagall stopped.
+
+“Thank you, Professor,” said Lyra. “It’s very kind of the Headmaster to think of me. But no.”
+
+She had known what it was before McGonagall reached the end of the second sentence. *To recover what we took. What you’ll sorely miss.* She had knelt on a rock in the wind and heard it with her own ears, through the water.
+
+She was not going to do it.
+
+She was not going to spend an hour asleep at the bottom of a lake, tied to something, with weed in her hair and fish looking at her, so that Harry Potter could swim down and fetch her up again in front of three schools and the *Daily Prophet*, like a cup somebody had dropped in a well. She was Lyra Malfoy. She did not get fetched.
+
+That was the reason she gave herself, and it was a perfectly good one, and it was true. There was another one under it, and she did not give herself that one, because she did not have to: she could feel it there, the whole time McGonagall was talking, like a stone in a shoe.
+
+*A sweetheart’s the first thing a Dark wizard goes for. Easiest lever there is.*
+
+Somebody in this castle wanted Potter dead. Somebody had put his name in a cup to get him killed, and would very likely be sitting in the stands tomorrow morning with everybody else, watching the water. And Dumbledore wanted to put her at the bottom of the lake, asleep, tied by the ankle, for that person to look at for an hour, and for Potter to have to come and get.
+
+No.
+
+“I see,” said Professor McGonagall.
+
+She looked at Lyra for a moment longer than she needed to, over the top of her square spectacles, with an expression that Lyra could not read at all; and then, quite suddenly, it changed, and for an instant it looked almost like approval.
+
+“Very well, Miss Malfoy. I shall tell the Headmaster.” She drew her dressing gown round her. “I believe Mr Weasley will do very well instead. He is unlikely to have any objection to an hour’s sleep.”
+
+She went away down the dungeon corridor, with her slippers making no sound at all on the stone.
+
+Lyra stood outside the wall for a while, with her arms folded.
+
+Weasley, then. At the bottom of the lake, for Potter. She found, rather to her surprise, that she did not mind that in the least; and then, examining it more closely, that she was glad. Weasley had been his first. It seemed only right that Weasley should be the one he went down for.
