@@ -105,3 +105,33 @@ Crabbe had not said a word. She was looking at Lyra with her head slightly on on
 “Vanessa,” said Lyra, “you don’t believe the *Prophet*, surely.”
 
 “No,” said Crabbe slowly. “No. I’ll tell people that.”
+
+⁂
+
+She had a free period after Herbology and spent it on the shore path, walking fast, with the Durmstrang ship lying out on the grey water like something that had drowned and been too proud to stay down.
+
+A Listening Charm. It was a stupid lie, and it was a very particular kind of stupid lie: the kind you told when you had heard something and could not explain how. Nobody had seen her in that tent. She had been under the cloak from the moment she went down the slope to the moment she came running back up it, and the only people in the tent had been Krum, who had looked at the floor, and Delacour, who had looked at nothing, and Potter, who could not have seen her if he had tried. *It’s a dragon, Lyra.* He had said her name twice. Anybody listening would have heard a boy on a bench talking to the air, and a girl’s voice answering out of nowhere.
+
+So somebody had been listening, and had not been seen either.
+
+Lyra stopped on the path.
+
+There had been a beetle. A fat, glossy, bluish thing, blundering about against the canvas near the roof, the whole time, and nobody had minded it. And on her way out, running, something had gone droning past her ear, close, and she had not stopped for it.
+
+A beetle was a stupid idea, and she turned it over carefully because of that. Sirius Black had spent a year as a dog, eating chocolate out of her hand, and not a soul in the Ministry had known he could do it. Peter Pettigrew had spent twelve years as a rat on a Gryffindor’s pillow. Neither of them had been in any register. If two of them could do it, so could a third; and if the third was a woman who made her living by being in rooms she had not been invited to—
+
+She was nearly sure. She did not know how she would ever prove it, and she did not need to prove it. She only needed to know it, and to know that nobody else did, and she stood there on the wet path and felt it settle into her like a coin into a purse.
+
+She did not think she would tell anybody. Not Crabbe. Not Potter, either; not yet. Potter had told her a great many things since the summer, and every one of them had arrived a little late, after he had already decided what to do with it. She could be late too.
+
+She walked on.
+
+It was not the article she minded, not really. She minded the Ball.
+
+She had known for a month what she would look like at it. She had not told herself so in as many words, but she had known: which way her hair would go, and that her mother would choose the robes, and that she would come down the marble staircase a little after everybody else, so that the Hall had time to turn round. That part was old. She had wanted to be the best-looking girl in any room since she was old enough to know there were rooms.
+
+The new part was smaller, and worse, and she had not known it was there until this morning, when Rita Skeeter took it away. She had wanted him to see her first. Before the Hall, before anybody. She had wanted to watch his face do whatever it was going to do, and then to take his arm as if she had not noticed.
+
+There was no chance of that now. The *Prophet* had seen to it.
+
+The wind came off the lake and found the back of her neck, and Lyra put her collar up and went back to the castle for Charms.
