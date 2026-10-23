@@ -135,3 +135,33 @@ Crabbe said nothing.
 She did not believe it. Lyra could feel her not believing it, the whole length of her, sitting there on the arm of the chair. Crabbe had seen a hand on a sleeve on a lawn when they were eleven, and had kept her mouth shut about it for three and a half years so as not to make her stop; and she sat there now and heard the lie, and knew it for what it was, and did not say so.
 
 She only put her hand on Lyra’s arm, and left it there.
+
+⁂
+
+She waited until the common room had emptied, and Crabbe had gone up, and the fire had burned down to a red seam in the grate. Then she went up the girls’ staircase, past the fourth-year dormitory, where somebody was still whispering behind the hangings, to the bathroom at the top, and went in, and turned the key.
+
+It was very quiet. The bathroom was under the lake, like everything else down there, and the light that came in through the high green window was the colour of deep water, and moved, very slightly, all the time. There was a long mirror over the basins. She had stood in front of it every morning for four years, doing her hair.
+
+She went to the nearest basin and put both hands on the edge of it, and looked.
+
+It was her own face. That was the surprising thing. She had thought, somehow, that it would look different, after a week like this one; that something would show. It did not. It was the face she had made in the mirror every morning since she was eleven, smooth and pale and perfectly composed, and it looked back at her quite calmly, with nothing in it anywhere.
+
+She watched it for a while. Then she watched it go.
+
+It did not go all at once. It went at the mouth first, at one corner, and she put her hand up over it, hard, and held it there; and then her eyes went, and she could not see the mirror any more, and her shoulders, and then the whole of her, all of it, bent over the basin with her hand clamped over her mouth so that not one sound would get out under the door, and not one did. She cried as she had not cried since she was a small child, in a long, silent, dreadful heave that went on and on and would not stop, though she told it to, though she held on to the edge of the basin with her other hand until her fingers ached and told it, again and again, to *stop*.
+
+It did not stop for a long time.
+
+When it did, she was sitting on the cold stone floor with her back against the wall under the basins, with her knees drawn up, and her face wet, and her hand still over her mouth. She took it away. Her fingers left marks.
+
+“I wanted to stay,” said Lyra, aloud, to nobody.
+
+It was the only thing she said. It sounded very small in the green bathroom, and very silly, and very true, and she sat and listened to it go, and did not say anything else.
+
+After a while she got up.
+
+She ran the cold tap, and washed her face in it, twice, until it stung. She dried it on the towel. She took the pins out of her hair, one after another, and laid them in a row on the edge of the basin, and brushed it out, and put it up again, slowly, with every pin where it should be. Then she looked in the mirror.
+
+It was her own face. There was nothing in it anywhere.
+
+She unlocked the door and went to bed.
