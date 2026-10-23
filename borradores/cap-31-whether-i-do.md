@@ -39,3 +39,69 @@ She sat on Lyra’s other side, sewing a button back on her cardigan with her to
 Lyra turned a page she had not read.
 
 Crabbe, she thought, had stopped asking her things she already knew the answer to. She could not remember when. That was the trouble with Crabbe. You never saw her do anything; you only looked up and found it done.
+
+⁂
+
+Professor Dumbledore’s chair at the staff table had been empty since the night of the dragons. Nobody had said why. Professor McGonagall, asked at breakfast on the Friday by a Hufflepuff prefect who was braver than he looked, had said “The Headmaster has been called away,” in a voice that closed the subject and locked it; and Potter, who had gone into the hospital wing on the Thursday night with a hole in his shoulder, had come out of it on the Friday morning without one, and was eating toast at the Gryffindor table as though dragons were something that happened to other people.
+
+So on Tuesday morning, when Goyle came down late with the *Daily Prophet* folded open in both hands and a face like a burst pipe, there was no Headmaster to look up from the staff table and see it.
+
+“Rita Skeeter,” said Goyle. “*Again.*”
+
+Lyra held out her hand for it. She had found, the last time, that it was better to read these things oneself than to have them read aloud by Goyle, who did the voices.
+
+**HARRY POTTER: A TRIANGLE?**
+
+*It is barely a week since this paper brought its readers the touching story of Harry Potter and his devoted Hermione Granger, and already this correspondent can reveal that the Boy Who Lived has a secret even closer to his heart.*
+
+*Before the First Task, while his fellow champions waited in grim silence, young Harry was overheard whispering sweet nothings to an unseen companion by means of a long-range Listening Charm. They were apart in body, it seems, but not in spirit. The companion was identified to this correspondent, by a fellow student, as none other than the Princess of Slytherin herself: Miss Lyra Malfoy, the elder daughter of Lucius Malfoy, whose family needs no introduction.*
+
+*“Potter and Malfoy?” laughs Panther Parkinson, fourteen, of Slytherin House. “They’ve loathed each other since first year. Ask anybody.”*
+
+*But this correspondent has asked, and the answer is rather different. Like Romeo and Juliet before them, these two young lovers have hidden behind the ancient hatred of their Houses. And one cannot help but wonder whether poor Miss Granger was ever more than a plaything, a pretty decoy for the eyes of the world . . .* (continued on page seven)
+
+Lyra read it once. Then she read the paragraph with Parkinson in it again, because it had her own words in it, in his mouth, in print, and she wanted to be sure.
+
+She looked down the table. Parkinson had seen her face and was finding something of enormous interest in his porridge.
+
+“She asked me who *Lyra* was,” he said to the porridge. “Last week. Outside the library. I didn’t know she was going to *print* it.”
+
+Lyra took out her wand, laid the tip of it against the corner of the *Prophet*, and said, “*Incendio.*”
+
+It went up in a single soft rush, like the last of her father’s letters, and left nothing behind on the table but a faint smell of hot ink and a ring of silence that went most of the way down the Slytherin bench.
+
+“Gossip,” said Lyra. “I shan’t trouble to deny it. It doesn’t deserve it.”
+
+“No,” said Goyle, a little too quickly. “No. Course not.”
+
+“A *triangle*.” Lyra buttered a piece of toast. “With Potter. And a Listening Charm. If I wanted to whisper sweet nothings to anybody, which I do not, I should hardly do it by charm, like a Muggle with a telephone.”
+
+Nobody knew what a telephone was. It did not matter. The tone was the thing, and the tone was right, and she could feel the bench begin, cautiously, to believe her, or at least to see that it was wiser to look as if it did.
+
+Parkinson cleared his throat.
+
+“So it isn’t true,” he said. “Any of it. So you haven’t got— so you’re not going with—”
+
+Crabbe and Goyle turned and looked at him with deep and identical pity.
+
+It came out of Lyra before she had weighed it. It came out because the whole table was waiting for it, and because there was only one answer she could give that nobody in Slytherin would dream of doubting.
+
+“I’m going with Viktor Krum,” she said.
+
+The bench went still.
+
+She knew exactly whom Viktor Krum looked at over the top of his library books, and it was not her. She said it anyway. Krum ate at their table every day of the week. Nobody here had ever seen him so much as look at a girl from another House, and nobody would think to ask him.
+
+“*Krum?*” said Goyle.
+
+“Naturally. My father and Professor Karkaroff are old friends.” Lyra bit into her toast. “It’s a little obvious, I grant you. But it would be absurd to go with anybody less than a champion.”
+
+Parkinson put down his spoon and went away towards the end of the table with the air of a man who had expected nothing better and had got it.
+
+Crabbe had not said a word. She was looking at Lyra with her head slightly on one side, as she looked at a Transfiguration problem that would not come out, and it went on for so long that Lyra was obliged to raise her eyebrows at her.
+
+“What about Harry Potter?” said Crabbe at last, very carefully. “He’s a champion too.”
+
+“Vanessa,” said Lyra, “you don’t believe the *Prophet*, surely.”
+
+“No,” said Crabbe slowly. “No. I’ll tell people that.”
