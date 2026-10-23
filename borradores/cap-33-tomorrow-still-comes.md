@@ -42,7 +42,7 @@ She looked at it, and then at him.
 
 He had been somewhere. For three days, while she sat in a library and stood in a corridor and walked up a gangplank in the snow to be refused, he had been somewhere doing something that left marks like that on a person, and she had not known. She had not been told. Nobody would have told her if he had not come back.
 
-And she could not even be angry about it properly. That was what made her throat go tight. He had gone off and done something dangerous for everybody, for the whole school, for her, and there was nothing she could say against that which would not make her small. She could not stand in the middle of the Great Hall and complain that he had been brave without asking her first.
+And she could not even be angry with him properly. He had gone off and done something dangerous for everybody, for the whole school, for her, and there was nothing she could say against that which would not make her small. She could not stand in the middle of the Great Hall and complain that he had been brave without asking her first.
 
 “Lyra,” said Potter. His voice had changed. “I’m sor—”
 
@@ -70,6 +70,72 @@ The music ended. The Hall clapped, the way halls do for champions, and Potter st
 
 “Malfoy.”
 
-It was Granger, at her elbow, pink from dancing, with Krum looming behind her like a wardrobe in dress robes.
+It was Granger, at her elbow, pink from dancing, with Krum behind her like a bear that had been put into dress robes against its will.
 
 “There’s a table,” said Granger. “In the corner. If you like.”
+
+⁂
+
+The table in the corner was half hidden by a Christmas tree hung with live fairies, and it was the only one in the Hall that nobody else had wanted, since it was a long way from the food. Granger sat down with the air of somebody who had chosen it on purpose.
+
+“Butterbeer?” said Potter.
+
+“I will come,” said Krum.
+
+They went off together across the floor, and Lyra watched them go: the youngest champion and the oldest, side by side, neither of them saying a word. They had got about halfway to the drinks when Professor Karkaroff rose from the judges’ table, came down the steps with surprising speed for a man in so much fur, and took Krum by the elbow. Potter, who knew a trap when he saw one, kept walking.
+
+Lyra looked at the judges’ table. Madame Maxime, Bagman, Dumbledore, and Karkaroff’s empty chair; and at the end, in the place where Mr Crouch of the Ministry ought to have been sitting, a tall young man with horn-rimmed glasses and red hair, very upright, explaining something to Madame Maxime that she was not listening to.
+
+“Ron’s brother,” said Granger, following her eyes. “Percy. He works for Mr Crouch. He’s been telling everybody all evening that Mr Crouch is overworked and sends his apologies.”
+
+“How very loyal of him.”
+
+“He thinks Mr Crouch is the most marvellous man in the Ministry.” Granger’s mouth went thin. “He *sacked his elf*. At the World Cup. She hadn’t done anything, she was frightened of heights and she was minding his seat, and he gave her clothes in front of everybody, and she’s down in the kitchens now, and she cries all the time. Ron’s brother thinks that’s quite right. That’s why I started—” She stopped, and looked at the badge Lyra was not wearing. “Never mind.”
+
+Lyra thought of an elf at the Manor who had worn a pillowcase until a boy tricked her father into a sock, and did not say anything. She had nothing ready about elves, and Granger was looking at her as if she might, so she changed the subject.
+
+“And Weasley?”
+
+“Oh.” Granger glanced across the Hall to a table near the band, where Weasley sat on his own in a set of dress robes that had plainly belonged to somebody’s great-aunt, glaring at Krum’s back. She shrugged. “He can sort himself out.”
+
+“Can he.”
+
+“Eventually.”
+
+Then Granger turned back and looked at her, and went on looking, with her chin in her hand and an expression Lyra did not care for in the least. It was the expression of a girl who has been handed a very small, very cross kitten and is trying not to laugh at it.
+
+“What?”
+
+“Nothing,” said Granger, and put both hands over her mouth.
+
+Lyra let that go, since she could see exactly what lay at the end of it.
+
+“Did you know?” she said instead. “What he was doing. The plan.”
+
+“Only that I wasn’t to tell anybody who I was going with. He asked me a month ago. I thought he meant because of the *Prophet*.” Granger took her hands down. “I didn’t know you’d— I didn’t know about the rest of it. He didn’t tell us anything. He told us he was off with Snuffles for a few days and not to fuss.”
+
+“He moved me about,” said Lyra, “like a piece on a board.”
+
+It came out much more quietly than she had meant, and Granger stopped smiling.
+
+“He didn’t say a single word to me. Not one. He had me walk up a gangplank and get turned down by a man who wanted to sell me a Poliakoff instead, and then he vanished, and I didn’t know for three days whether he was— whether he was anywhere at all. And then he walks in late, in his school trousers, and holds a door open for me, and thinks that’s—” She stopped. “A dance doesn’t settle that. He needn’t think it does. I’ve given him a truce, that’s all. A short one.”
+
+Granger considered this.
+
+“It did help, though,” she said. “A bit. Didn’t it.”
+
+“Not in the least.”
+
+“You didn’t come with anybody else,” said Granger. “Even when you thought he wasn’t coming. You came by yourself.”
+
+“There was nobody else worth the trouble.”
+
+“No,” said Granger. “Of course not.”
+
+Lyra turned and looked at the fairies on the Christmas tree for a while, since they were the only things in the room that were not looking at her as though she were a kitten.
+
+“Why did he say it?” she asked the tree. “Krum.”
+
+Granger did not pretend not to understand. She looked across the Hall to where Karkaroff had Krum backed against a pillar and was talking at him very fast, and Krum was listening with the patient, unmoved face of a man waiting for a storm to finish.
+
+“I don’t know. I didn’t ask him to.” She hesitated. “He said once that you fly like a Bulgarian. I think it’s the nicest thing he knows how to say about anybody.”
