@@ -6,6 +6,8 @@
 
 ## Ahora mismo
 
+- **SESIÓN AUTÓNOMA EN CURSO (23 de octubre, desde las 20:37; cerrojo puesto).** El autor pide 4 o 5 capítulos si caben y apuntar cuánto tarda cada uno. Lectura del §2 hecha (CLAUDE.md, arranque, estado, handoff entero, continuidad, guion §0-§7, manuales 27 a 31, texto del 29 al 31, coreano 35, oficial 36, ficha del 31). **Ficha del 32 hecha** (`borradores/cap-32-ficha-guion.md`, 20:55). Siguiente: escribir el 32, escena 1 (`borradores/cap-32-plain-silver.md`).
+
 - **MODO AUTÓNOMO ACTIVO (23 de octubre).** Lee primero `docs/notas/autonomo/ARRANQUE.md`. Temporizador: la tarea programada «Never Owe: sesión autónoma nocturna» arranca una sesión nueva cada noche a la 1:07 y a las 4:07. **Siguiente paso exacto:** la ficha del 32 (`borradores/cap-32-ficha-guion.md`), con el guion de la tanda (cap. 32) y el coreano 35 entero como referencia (y el resumen de la oficial del 36 para saber adónde va). Agentes vivos: ninguno que sirva a una sesión nueva (el crítico del 31 muere con esta sesión). Para el autor: `docs/notas/autonomo/PARA-EL-AUTOR.md`.
 
 - **HECHO (23 de octubre): el 31, «Whether I Do», cerrado** (`borradores/cap-31-whether-i-do.md`, ~4.080 palabras). Criticado por el crítico vivo (`docs/notas/cap-31-critica.md`; ranking: junto al 30) y arreglos aplicados; nota enviada. **Cambio sobre la ficha aprobada:** el «Krum, is it?» de Moody se quitó (lo de Krum ya era público, así que no probaba nada) y la escena del barco acaba en Karkaroff. Manual (`docs/capitulos/cap-31.md`), continuidad y handoff al día. **Siguiente: la ficha del 32**, leyendo entero el coreano 35 como capítulo de referencia (la regla nueva) y el guion de la tanda. El crítico sigue vivo y espera el 32.
