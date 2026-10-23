@@ -78,7 +78,7 @@ She did not take long over it. She wrote it at the breakfast table, on a page to
 
 She tied it to the owl’s leg herself. The owl looked at her with great orange eyes, as if it had read it, and went.
 
-Her mother had not answered her at all.
+Her mother had not answered.
 
 ⁂
 
@@ -96,7 +96,7 @@ It was a large, old, scarred trunk with seven locks down the front of it, seven 
 
 There was a chair in front of the desk. She sat on it.
 
-He did not sit. He put two things down on the blotter between them, one after the other, the way a man lays down cards. The first was a glass top, something like a spinning top, with a little brass point at the bottom; it stood upright on the blotter by itself and did not fall over. The second was a crystal flask about the length of her finger, stoppered, with a clear liquid in it that might have been water.
+He did not sit. He put two things down on the blotter between them, one after the other, as a man lays down cards. The first was a glass top, something like a spinning top, with a little brass point at the bottom; it stood upright on the blotter by itself and did not fall over. The second was a crystal flask about the length of her finger, stoppered, with a clear liquid in it that might have been water.
 
 “Know what that is?”
 
@@ -106,7 +106,7 @@ She knew what the second one was. She had read about it in the restricted sectio
 
 “Three drops,” said Moody, “and you’d tell me what you had for breakfast on your sixth birthday, and who you’d like to kill, and in what order.” He tapped the flask with a scarred finger. “I won’t. Not without Albus’s say-so, and Albus won’t give it, not for a student. But I’ve got it. I thought you should see it.”
 
-She saw it. She thought, quite clearly and quite fast, of a diary in a girl’s cauldron, and her father’s hand putting it there, and seven of something, and a cave; and of what three drops of that would do to her family; and she made her face do nothing at all.
+She saw it. She thought, quite clearly and quite fast, of a diary in a girl’s cauldron, and her father’s hand putting it there, and seven of something, and a cave; and of what three drops of that would do to her family; and she made her face do nothing.
 
 “And the other one?”
 
@@ -142,7 +142,7 @@ There was a pause. Moody made a sound in his throat that might, in another man, 
 
 “Clever,” he said. “Your father’s good at that too.”
 
-She did not answer that, and he did not seem to expect her to. He straightened up off his fists, and looked at her for a long moment with both eyes at once, which very few people could do and which she did not enjoy.
+She did not answer that, and he did not seem to expect her to. He straightened up off his fists, and looked at her for a long moment with both eyes at once. Very few people could do that, and she did not enjoy it.
 
 “Why Potter?”
 
@@ -174,7 +174,7 @@ It came out louder than anything she had said all term, and there was no taking 
 
 The Sneakoscope stood quite still on the blotter.
 
-She could feel her face. It had gone hot from the collar up and there was nothing at all she could do about that either; so she did the only thing that was left, which was to lift it, and look Mad-Eye Moody in both his eyes, and hold them, as though she had said something perfectly ordinary and was waiting for him to have the manners to go on.
+She could feel her face. It had gone hot from the collar up and there was nothing she could do about that either; so she did the only thing that was left, which was to lift it, and look Mad-Eye Moody in both his eyes, and hold them, as though she had said something perfectly ordinary and was waiting for him to have the manners to go on.
 
 ⁂
 
@@ -244,7 +244,7 @@ He was watching her. She let him.
 
 “Potter,” she said. “Who is Barty Crouch’s son?”
 
-He did not move. Then he did, all at once: he came round the desk, and stood in front of her, much too close, and his face had gone a way she had seen only once, on a staircase in the dark a long time ago, when he had been eleven and she had been frightened of him.
+He did not move. Then he did, all at once: he came round the desk, and stood in front of her, too close, and his face had gone a way she had seen only once, in a corridor at night, when they were both eleven and she had been frightened of him.
 
 “Who told you that name?”
 
@@ -254,7 +254,7 @@ He did not move. Then he did, all at once: he came round the desk, and stood in 
 
 “I shall stay,” said Lyra, “wherever I like. Who is he?”
 
-He looked at her for a long moment. She watched him decide, as she had watched him decide on the floor of the Great Hall not to say he was sorry; and this time she watched him decide the other way, and close the door, and stand in front of it.
+He looked at her. She watched him decide, as she had watched him decide on the floor of the Great Hall not to say he was sorry; and this time she watched him decide the other way.
 
 “He’s dead,” said Potter. “Moody told you. He died in Azkaban. He’s dead.”
 
