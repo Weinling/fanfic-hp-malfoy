@@ -175,3 +175,51 @@ It came out louder than anything she had said all term, and there was no taking 
 The Sneakoscope stood quite still on the blotter.
 
 She could feel her face. It had gone hot from the collar up and there was nothing at all she could do about that either; so she did the only thing that was left, which was to lift it, and look Mad-Eye Moody in both his eyes, and hold them, as though she had said something perfectly ordinary and was waiting for him to have the manners to go on.
+
+⁂
+
+Moody did not laugh.
+
+She had been ready for that, too, and it did not come. He picked up the little flask of Veritaserum and put it away inside his coat, and righted the Sneakoscope, which had fallen over on its side and was humming to itself, and set it back in the middle of the blotter. Then he lowered himself into the chair behind the desk, with the wooden leg stuck out stiffly to one side, and sat looking at her for a while.
+
+“Your boy,” he said, “came into this office looking for a dead man.”
+
+Lyra waited.
+
+“Barty Crouch’s son. Bartemius.” Moody said the name as if it had a bad taste he was used to. “I put him in front of the Wizengamot myself, with three others, and his father sent him down for life. He died in Azkaban a year after. I saw him buried, girl. I stood at the grave.” The blue eye swivelled, very slowly, round to the trunk in the corner, and back. “And your boy comes in here in the middle of the night with Sirius Black and goes straight to the seventh lock, as if he’d been told where to look, to find a lad who’s been in the ground thirteen years.”
+
+*A man who sent his own son to Azkaban. His own son, to die there.*
+
+Lyra kept her face exactly where it was. She had been doing it all her life; it was the one thing she had always been able to do better than anybody, better than her father, and she did it now with the whole of her attention, so that Mad-Eye Moody, who was looking for something in it, should not find it. Inside, behind the face, Karkaroff’s yellow teeth were saying *to die there*, and stopping, and looking at the door.
+
+“He wouldn’t tell me how he knew the name,” said Moody. “I asked him twice a day for three days. He wouldn’t tell me why he thought a dead boy was sitting in my trunk, and he wouldn’t tell me who’d put it in his head. He just looked at me. Like he was sorry for me.” His mouth went sideways. “Albus says the boy has his reasons. Albus has been getting a good many reasons from that boy, this past year, and I’ll tell you something for nothing, Miss Malfoy. He doesn’t like it any more than I do.”
+
+He leaned forward over the desk.
+
+“Do you know? What’s in his head?”
+
+“No,” said Lyra.
+
+The Sneakoscope did not stir.
+
+Moody looked at it, and then at her, for a long moment, and grunted.
+
+“No,” he said. “Didn’t think you did.”
+
+She did not know what to make of the way he said it. It was not triumphant. It sounded, if anything, as though he had wanted her to.
+
+He sat back.
+
+“I’ll tell you one thing more, and then you can go and do whatever it is you do in that dungeon. Igor’s arm has been itching since the summer. You’ll have seen him rub it. He’s not the only one with something under his sleeve that itches, and you know as well as I do who else has.” He let that sit. “He’s coming back. I don’t know how and I don’t know when. But I’ve been at this thirty years, and I know the smell of it.”
+
+Lyra said nothing. There was nothing in her mouth to say.
+
+“And when he does,” said Moody, “one of you dies. You or Potter. I’ve seen it go that way more times than I can count, girl, and I’ve never once seen it go any other.” The magical eye had stopped moving. Both eyes were on her, and there was something in them she had not seen there before and did not want: not suspicion. Something worse than suspicion. “Can you keep your heart in one piece? Between him and Dumbledore’s lot? With your family on one side and that boy on the other?”
+
+He did not wait for an answer.
+
+“I couldn’t,” said Moody. “And I’d nobody on the other side at all.”
+
+Then he jerked his head at the door, and she got up, and went down the three stone steps into the empty classroom on legs that did not seem to belong to her, and out into the corridor, where Crabbe was sitting on the floor against the wall with her bag in her lap, waiting.
+
+Crabbe looked up at her face, and got up, and did not ask.
