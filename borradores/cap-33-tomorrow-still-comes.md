@@ -244,7 +244,7 @@ Potter got up. He did it slowly, like somebody leaving a fire on a cold night, a
 
 Dumbledore was looking at her too.
 
-She knew the look. She had met it once before, at the end of a long night in a corridor, with a rat in ropes on the floor between them, and it had gone through her like a hand through cobwebs and seemed quite able to take her apart and lay the pieces out on a table. This was not that. It rested on her for a moment, mild and blue and in no hurry, and then it went to Potter, and rested on him in exactly the same way, and then came back to her; and it was not taking anybody apart. It was asking something. She had no idea what, and she did not think, from his face, that Dumbledore knew the answer either.
+She knew the look. She had met it once before, at the end of a long night in a corridor, with Pettigrew trussed in ropes beside them, and it had gone through her like a hand through cobwebs and seemed quite able to take her apart and lay the pieces out on a table. This was not that. It rested on her for a moment, mild and blue and in no hurry, and then it went to Potter, and rested on him in exactly the same way, and then came back to her; and it was not taking anybody apart. It was asking something. She had no idea what, and she did not think, from his face, that Dumbledore knew the answer either.
 
 Potter was still standing there.
 
@@ -252,7 +252,7 @@ Lyra reached up, took hold of the end of his tie, which had never been straight 
 
 “Tomorrow still comes,” she said, into his ear.
 
-He had said it to her once, at the end of a February night, in a voice as gentle as he had: *go to bed, Malfoy. Tomorrow I’ll tell you everything.* Tomorrow had come, and brought Dumbledore with it, and a great many things had gone on not being told. She did not say any of that. She did not need to. She felt him hear it.
+He had said it to her once, at the end of a February night, quite gently: *Go to bed, Malfoy. Tomorrow I’ll tell you everything.* Tomorrow had come, and brought Dumbledore with it, and a great many things had gone on not being told. She did not say any of that. She did not need to. She felt him hear it.
 
 “Tomorrow,” said Potter.
 
@@ -269,3 +269,51 @@ Granger had her chin in her hand again.
 “I was going to say,” said Granger, “that I’ve never seen anybody tell Harry to go to the hospital wing and have him actually go.” She picked up her butterbeer. “You should do it more often. It would save Madam Pomfrey a great deal of trouble.”
 
 Lyra drank her own butterbeer, and did not answer, and found she did not mind the corner table quite as much as she had.
+
+⁂
+
+Her father’s owl came on the Thursday.
+
+It came down the length of the Great Hall at breakfast, the big eagle owl from the Manor with the white ruff, and it landed beside her plate as though the plate had been laid for it, and held out its leg, and waited. Half the Slytherin table stopped eating to watch her take the letter off. It had been thirty days. She had counted, without meaning to, the way one counts the steps of a staircase in the dark.
+
+She read it at the table, because not reading it would have been a statement, and she was not ready to make one.
+
+*My dear Lyra,*
+
+*I have read the article in the Daily Prophet of the twenty-ninth of November. It was vulgar, and inaccurate, and beneath the notice of anyone in this family, and I have taken steps. The woman will not be writing for that paper again. You need give her no further thought.*
+
+*I hear, too, that you were at the Ball. I hear a good deal, even at this distance.*
+
+*I find that I am not displeased. You will have your reasons, and I imagine they are good ones; you have always had a head for where to stand. A boy who confides is a boy worth sitting beside. I shall be interested to hear, in due course, what he confides.*
+
+*Your mother sends her love.*
+
+*Your father.*
+
+Lyra read it twice, and folded it along its creases, and put it in her pocket.
+
+He had not forbidden her anything. She had been braced for a month for the letter that forbade her, and had her answer ready, cold and short and very well spelt; and he had not written it. He had written this instead. *A boy worth sitting beside.* As though she had found a door in Potter, and he was pleased with her for finding it, and would like, in due course, to be shown where it went.
+
+She had used him that way herself, in November, with a sealed letter and a ship. She knew precisely what it looked like from the other side.
+
+She did not answer it.
+
+Her mother’s letter came that evening, by the grey owl, when Lyra was alone in the dormitory with the hangings drawn. It was short. It was not in the hand with the loops.
+
+*You did not tell me. I would rather have heard it from you.*
+
+There was nothing else on the page: no news, no love, no signature, only that, in the small upright hand that had chosen the violet, and the white space round it.
+
+Lyra sat with it on her knee for a long time.
+
+Then she took down her Arithmancy book, and opened it at the back, behind the tables of values, where the papers were: a scrap with two elevens on it, and a card about a colour, and a strip that had been folded and unfolded so often it had gone soft as cloth. She unfolded it once more.
+
+*P.S. Who is asking? You may tell me anything. I would rather hear it from you.*
+
+Fourteen months. She had carried it through two years and two houses, behind the tables of values and in the inside pocket of her robes, against her ribs, and she had never once answered it, because there had been no answer she could give that did not hand her mother something she could not take back.
+
+She found a quill. She smoothed the strip out flat on the cover of the book, and underneath her mother’s question, in her own hand, as small and as upright as she could make it, she wrote:
+
+*It was Harry Potter who was asking.*
+
+She sent it in the morning, with a school owl, so that it would not go past her father’s window.
