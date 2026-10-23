@@ -18,7 +18,7 @@ She looked at it there, for some time.
 
 Then she took it out again, and folded it smaller, and put it back in the drawer, and shut the drawer.
 
-The note she wrote at the desk by the window, in her best hand: the small, upright, perfect hand her governess had taught her at six and her mother had taught her to be proud of.
+The note she wrote at the desk by the window, in her best hand, the one her mother had taught her to be proud of.
 
 *Congratulations on the Cup.*
 
@@ -30,7 +30,7 @@ She left a gap in the second line. Between *we end* and *The time*: a blank in t
 
 She took out her wand and touched its tip to the blank.
 
-The parchment gave a soft crack, like a seal breaking, and split along its own thickness into two thin layers that lifted apart at the edge, exactly as her father’s letters did; he had shown her how when she was eight, for a birthday treasure hunt, and she had never once used it for anything until now. Between the layers the parchment was clean and pale, like the inside of a shell.
+The parchment gave a soft crack, like a seal breaking, and split along its own thickness into two thin layers that lifted apart at the edge, exactly as her father’s letters did; he had shown her how, years ago, for a birthday treasure hunt, and she had never once used it for anything until now. Between the layers the parchment was clean and pale, like the inside of a shell.
 
 She wrote, very small, with the finest nib she had:
 
@@ -48,7 +48,7 @@ Then she touched the blank again, and the two layers came together with a small 
 
 Goyle’s head came round the edge of them almost at once, as though it had been waiting.
 
-“Take this to the hospital wing,” said Lyra. “Give it to Potter. Don’t say who it’s from. Don’t wait for an answer.”
+“Take this to the hospital wing,” said Lyra. Pomfrey had kept him there since Monday night, for the leg. “Give it to Potter. Don’t say who it’s from. Don’t wait for an answer.”
 
 Goyle looked at the tin, and at Lyra’s face, and at Lyra’s hand, which had no ring on it; and for once Greer Goyle did not say anything. She took the tin in both hands as though it might go off, and went.
 
@@ -56,11 +56,11 @@ She came back twenty minutes later, scarlet to the ears, out of breath from the 
 
 ⁂
 
-On Thursday the *Daily Prophet* had it on the front page.
+On Wednesday the *Daily Prophet* had it on the front page.
 
 **MINISTRY OFFICIAL FOUND DEAD AT HOME**
 
-*Bartemius Crouch, Head of the Department of International Magical Co-operation and a judge of this year’s Triwizard Tournament, was found dead at his house yesterday evening by officers of the Ministry, acting on information received. The cause of death has not been released. Mr Crouch, who lived alone, is understood to have been in poor health for some months. His house-elf was not present, having been dismissed last summer.*
+*Bartemius Crouch, Head of the Department of International Magical Co-operation and a judge of this year’s Triwizard Tournament, was found dead at his house late last night by officers of the Ministry, acting on information received. The cause of death has not been released. Mr Crouch, who lived alone, is understood to have been in poor health for some months. His house-elf was not present, having been dismissed last summer.*
 
 *Ministry sources confirm that Igor Karkaroff, Headmaster of the Durmstrang Institute, who has not been seen since the night of the Third Task, is being sought for questioning . . .*
 
@@ -74,7 +74,7 @@ Down in the kitchens, she supposed, under her feet, an elf in a stained blue ski
 
 The leaving feast was on the Friday night.
 
-The Great Hall was hung in black. Not for Mr Crouch: Lyra did not think Hogwarts had ever hung anything in black for Mr Crouch. It was Dumbledore’s doing, and nobody knew what for until he stood up at the end of the meal, with the plates cleared and the candles burning low, and the whole school went quiet without being asked.
+The Great Hall was hung in black, for Mr Crouch, everybody supposed; and nobody knew what else it was for until Dumbledore stood up at the end of the meal, with the plates cleared and the candles burning low, and the whole school went quiet without being asked.
 
 He did not make a long speech. He spoke of the Tournament, and of the champions, and of Cedric Diggory, who had shown great courage and great fairness and was sitting at the Hufflepuff table with a bandage round his head; and of Harry Potter, who had won it. He did not say how. Then he looked out over the four tables, and was silent for a moment, and when he spoke again his voice was quite different.
 
@@ -82,13 +82,13 @@ He did not make a long speech. He spoke of the Tournament, and of the champions,
 
 Somebody at the Hufflepuff table screamed.
 
-It was a short scream, and it stopped at once, and after it the silence in the Great Hall was worse than any noise could have been. Lyra sat at the Slytherin table with her hands folded in front of her on the cloth and did not move.
+It was a short scream, and it stopped at once, and after it the silence in the Great Hall was worse than any noise could have been. Lyra sat at the Slytherin table with her hands folded in front of her on the cloth.
 
 Dumbledore did not say where. He did not say how. He said that it would be the work of everybody in that room to remember, in the months to come, that the strongest weapon Lord Voldemort possessed was the ability to set people apart from one another, and that they would be well advised not to let him; and he looked, as he said it, at the Slytherin table, steadily and without any unkindness at all, and Lyra felt the whole length of the bench go still under it.
 
 Then he sat down, and the feast was over.
 
-Along the Slytherin table, nobody said anything. That was the thing she would remember, afterwards, when she remembered that night: not the scream, but the silence on her own side of the Hall. It was not the silence of the other three tables, which was the silence of people who were frightened. Some of it was that. Some of it, here and there along the bench, in a face she had sat beside for four years, was something else entirely, held very carefully, so as not to show.
+Along the Slytherin table, nobody said anything at all.
 
 ⁂
 
@@ -96,7 +96,7 @@ The Slytherin common room, that night, was full and very quiet.
 
 Nobody had gone up to bed. They were sitting about in the green lamplight in twos and threes, the way people sit at a funeral before the family comes in, and talking in voices so low that the fire was the loudest thing in the room; and every few minutes somebody looked up at the stone wall that was the door, as if they expected it to open and let something in. In one corner a knot of sixth-years whose fathers Lyra knew were sitting very close together, not talking at all. At the table by the window two second-years were crying, quietly, into a book, and pretending not to. Parkinson was standing by the fire with his hands in his pockets, explaining to nobody in particular that it was all nonsense, that Dumbledore was an old man who wanted attention, in the high fast voice of somebody who did not believe a word of it.
 
-And here and there, in a face she knew, there was the other thing. Not fear. A kind of bright, careful stillness, like somebody holding a cup that was too full.
+And here and there, in a face she knew, there was something that was not fear: a bright, careful stillness, like somebody holding a cup that was too full.
 
 Lyra stood in the doorway and looked at them all.
 
@@ -132,7 +132,7 @@ Lyra looked at the fire.
 
 Crabbe said nothing.
 
-She did not believe it. Lyra could feel her not believing it, the whole length of her, sitting there on the arm of the chair. Crabbe had seen a hand on a sleeve on a lawn when they were eleven, and had kept her mouth shut about it for three and a half years so as not to make her stop; and she sat there now and heard the lie, and knew it for what it was, and did not say so.
+She did not believe it. Lyra could feel her not believing it, the whole length of her, sitting there on the arm of the chair. Crabbe had kept a hand on a sleeve to herself for three and a half years; and she sat there now and heard the lie, and knew it for what it was, and did not say so.
 
 She only put her hand on Lyra’s arm, and left it there.
 
@@ -156,7 +156,7 @@ When it did, she was sitting on the cold stone floor with her back against the w
 
 “I wanted to stay,” said Lyra, aloud, to nobody.
 
-It was the only thing she said. It sounded very small in the green bathroom, and very silly, and very true, and she sat and listened to it go, and did not say anything else.
+It was the only thing she said. It sounded very small in the green bathroom, and she sat and listened to it go, and did not say anything else.
 
 After a while she got up.
 
@@ -190,11 +190,11 @@ Lyra waited.
 
 “I didn’t,” said Lyra. “Not until I wrote it.”
 
-The Sneakoscope, she thought, would not have moved. Moody seemed to think so too. He looked at her, in the middle of the noise and the trunks and the owls, and then he grunted.
+“Sneakoscope wouldn’t twitch at that,” said Moody, half to himself. He looked at her, in the middle of the noise and the trunks and the owls, and then he grunted.
 
 “I’ve been at this thirty years,” he said. “I took you for your father’s errand girl. I took that boy of yours for a fool. And I took Barty Crouch for the only honest man in the Ministry.” He shifted his weight on to the wooden leg. “Three for three.”
 
-It was not an apology. She did not think Mad-Eye Moody had ever made one in his life. It was something else, and she knew what it cost him, and she inclined her head to it, very slightly, as she would have to a duellist who had bowed.
+It was not an apology. She inclined her head to it, very slightly, as she would have to a duellist who had bowed.
 
 “One thing more,” said Moody. He leaned closer; she could smell the flask. “Your father. Is he marked?”
 
@@ -202,7 +202,7 @@ Lyra looked at him.
 
 “My father,” she said, “has never had anything on his arm in his life, Professor. He was under the Imperius. Everybody knows that.”
 
-She said it beautifully. Her voice did not shake. Her face did not move. She said it in the voice she would use, she supposed, for the rest of her life, and she did not know, as she said it, whether it was true or not; she only knew that she would say it, and had, and would go on saying it, for as long as anybody asked.
+She said it beautifully. Her voice did not shake. She did not know, as she said it, whether it was true or not.
 
 The blue eye rested on her.
 
@@ -232,9 +232,9 @@ And her father was smiling.
 
 He came forward through the steam with both hands out, as he always did, as he had every summer of her life, with his silver-topped cane under his arm and his hair like pale silk and his face lit up with a joy he did not try to hide; and he put his arms round her, there on the platform, in front of everybody, and held her tight.
 
-As he lifted his arms, his left sleeve slid back an inch from his wrist.
+As he lifted his arms, his left sleeve slid back from his wrist.
 
-It was only an inch. Nobody else on that platform would have seen it. Lyra saw it, at the edge of her eye, as he folded her in: on the pale inside of his forearm, where she had never once thought to look, the edge of something dark.
+It was only for a moment. Nobody else on that platform would have seen it. Lyra saw it, at the edge of her eye, as he folded her in: on the pale inside of his forearm, where she had never once thought to look, the edge of something dark.
 
 Black.
 
