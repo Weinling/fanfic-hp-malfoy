@@ -1,6 +1,6 @@
 # Continuidad transversal
 
-Hecho el 11 de octubre de 2026 a partir de todos los manuales y del handoff, tras el capítulo 28. Actualizado tras el 29 y tras el 30 (12 de octubre), tras el retoque del 25 al 30 (18 de octubre) tras el 31 y tras el 32 (23 de octubre). Recoge lo que está repartido por los manuales y se escapa con facilidad: los hitos de la pareja, quién sabe qué y desde cuándo, cómo está cada personaje, las fichas vivas y las deudas abiertas.
+Hecho el 11 de octubre de 2026 a partir de todos los manuales y del handoff, tras el capítulo 28. Actualizado tras el 29 y tras el 30 (12 de octubre), tras el retoque del 25 al 30 (18 de octubre) tras el 31, el 32 y el 33 (23 de octubre). Recoge lo que está repartido por los manuales y se escapa con facilidad: los hitos de la pareja, quién sabe qué y desde cuándo, cómo está cada personaje, las fichas vivas y las deudas abiertas.
 
 **Se actualiza al cerrar cada capítulo**, en el mismo paso que el manual. Si algo de aquí choca con el texto, manda el texto; corrige este archivo.
 
@@ -41,8 +41,9 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 | 24 nov. 1994 | 30 | La tienda de los campeones, antes del dragón: ella entra bajo la capa y le pone la mano encima; él se la coge. Le da la pluma de azúcar («Since Hallowe’en» / «…Which one?»). **Cuarto beso en la boca, el primero que empieza ella**, a través de la capa, un segundo, de despedida. Harry se queda deshecho: la mano contra la boca, rojo, riéndose sin ruido, «Lyra—» a nadie. Sin etiqueta de «cuenta» | Nadie (el escarabajo; el ojo de Moody, fuera, pasó de largo) | «It’s a dragon, Lyra.» / «She had sent him out to a dragon with *that* on his face.» |
 | 29 nov. 1994 | 31 | Tras el *Prophet* («A TRIANGLE?»), en un aula del tercer piso: él dice «We can’t go together»; ella le devuelve la capa, le gana la mano con Krum («Most things worth doing, I do before you ask») y se va con «Whether I do is my decision». **Sin pago romántico** (baja) | Nadie | «Do you trust me?» / «Why on earth would I?» |
 | 25 dic. 1994 | 32 | El Baile. Tres días sin él (el anillo en plata lisa; Lyra se lo pone en el dedo el 23). Él llega tarde con la tapadera de «los dos plantados»; **ella la rompe en público**: «Nobody left me anywhere, Potter. I turned Krum down» (mentira; Krum la confirma: «She refuse me»). Le coge la mano delante de todos; la marca de la muñeca. **La pareja es pública.** Los anillos, rosas, a la vista. Abren el baile | Todo el colegio, Durmstrang, Beauxbatons, los jueces (Karkaroff) | «You make me miserable.» / «I know.» |
+| 25 dic. 1994 | 33 | El baile: «Why did you do that?»; la disculpa que él no pide («No. You’d only have to forgive me»). **Por primera vez le cuenta dónde ha estado** (el baúl de Moody, tres días), delante de ella y de Granger; se guarda a quién buscaba. Ella le da el escarabajo y él ya lo sabía («I know»; «I was sure»). «Tomorrow still comes» | Granger (el relato); Dumbledore (la mirada) | «That isn’t an apology.» |
 
-**Besos en la boca hasta ahora: cuatro (3, 19, 29 y 30).** Además: la frente (24), el hocico (27, «no cuenta»). El del 29 es el primero elegido por los dos, sin excusa: él lo pide y ella dice «Yes». El del 30 es el primero que empieza ella, a través de la capa. **Racha:** el 26, el 27, el 29 y el 30 tienen pago romántico; el 31 no; el 32 sí (en público, sin beso); y el próximo beso no se vende como otro «primero» (crítico).
+**Besos en la boca hasta ahora: cuatro (3, 19, 29 y 30).** Además: la frente (24), el hocico (27, «no cuenta»). El del 29 es el primero elegido por los dos, sin excusa: él lo pide y ella dice «Yes». El del 30 es el primero que empieza ella, a través de la capa. **Racha:** el 26, el 27, el 29 y el 30 tienen pago romántico; el 31 no; el 32 sí (en público, sin beso); el 33 sí (el baile, sin beso); y el próximo beso no se vende como otro «primero» (crítico).
 
 **Traslados en brazos:** primero (Y1-1, rodando), el 5 (corriendo bajo la capa), el 27 (hurón, andando).
 
@@ -113,6 +114,9 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 - **Karkaroff** (28): Lyra sabe que él no metió el nombre, que Crouch mandó a su hijo a Azkaban «to die» y que algo pasó con los Longbottom; que Lucius quería mandarla a Durmstrang. Se lo dijo a Harry el domingo 20 (29). Él no preguntó qué les pasó a los Longbottom, y Lyra se dio cuenta de que no lo necesitaba.
 - **Los dragones de la primera prueba** (29): Karkaroff los vio siguiendo a Madame Maxime y a Hagrid la noche del sábado 19. Se lo contó a Lyra en el barco, creyendo que serviría a Lucius contra Potter. Lyra se lo dio a Harry, y Harry a Ron y Hermione esa tarde. Son cuatro (galés, sueco, chino y un Horntail húngaro), hembras con nido. Lyra no sabe lo del huevo de oro.
 - **La pluma de Skeeter** (30): Lyra deduce que Potter la confundió («the sleek-haired bachelor Professor Snape»). Nadie se lo ha dicho.
+- **Skeeter, animaga escarabajo sin registrar:** Lyra lo dedujo (31) y se lo dijo a Potter y a Granger en el Baile (33). **Potter ya lo sabía («I know»).** Granger lo sabe desde el 33.
+- **«I was sure»** (33): Potter no explica por qué estaba seguro de Moody. Lyra guarda *I know* y *I was sure* con su pregunta del 12. Piezas para el 39.
+- **Winky** (33): Granger cuenta que Crouch despidió a su elfa en el Mundial y que está en las cocinas, llorando; por eso fundó la P.E.D.D.O. Lyra lo sabe. Percy («Ron’s brother») trabaja para Crouch y le excusa; Crouch no fue al Baile.
 - **La Saeta de Potter** (30): Lyra deduce por el número de matrícula que es suya y no la de ella, y que se la compró después del «No need» del 23. Slytherin discute si la robó o se la pagó Dumbledore.
 - **Los dragones en Slytherin** (30): Lyra se lo dijo a Crabbe en el desayuno; Parkinson lo oyó y lo contó a todos antes de la prueba.
 - **Moody** sospecha que Lucius la manda o la controla (27) y la vio volver del barco (28). **Tiene el mapa de Harry** desde poco después de Halloween («Not names», 29); Lyra lo sabe desde el 27, porque Potter se lo pidió delante del hurón («When I’ve finished with it»), y no le gusta. En la prueba, su ojo pasó por Lyra bajo la capa sin pararse (30); no consta si la vio.
@@ -161,6 +165,14 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 - **Dumbledore** ha vuelto el día de Navidad.
 - **Los anillos:** el baúl hechizado los tapa (plata lisa); en el baile, rosas los dos.
 
+### Lo que cambia en el 33 (23 de octubre)
+- **Lyra y Granger** saben lo del baúl (Harry lo cuenta: Imperius supuesto, Sirius, la séptima cerradura, tres días, la planta del sexto compartimento; Moody es Moody). Harry no dice a quién buscaba («somebody who wasn’t there»).
+- **Narcissa** sabe que fue Harry Potter quien preguntó por Regulus (la posdata contestada el 29 de diciembre, por lechuza del colegio).
+- **Lucius** (carta del 29 de diciembre): «I have taken steps» con Skeeter; sabe lo del Baile; «A boy who confides is a boy worth sitting beside»; quiere que Lyra le cuente. Sin contestar.
+- **Sirius** fuera del castillo («Gone. Dumbledore saw to it»).
+- **Dumbledore** mira a los dos con una pregunta.
+- **El eco de «tomorrow»** (19, 21, 33) está gastado.
+
 ## 5. Fichas vivas
 
 | Ficha | Dónde está | Última vez | Nota |
@@ -168,7 +180,7 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 | La pluma de azúcar | **Harry**, en el bolsillo de la varita | 30 | Comprada el Halloween de 1993; entregada en la tienda (30): «You eat it afterwards. If you’ve been sensible.» / «…Which one?». Hilo cerrado |
 | El calentador de botón | Harry, junto a la varita | 16 | Lyra no sabe que lo recuperó |
 | El pañuelo (18) | Lyra; lavado y planchado | 23 | Sabe que es de Potter; no se lo ha devuelto |
-| La posdata de Narcissa | Libro de Aritmancia, tras las tablas | 17 | Sin respuesta |
+| La posdata de Narcissa | **Enviada a Narcissa** con la respuesta de Lyra debajo (*It was Harry Potter who was asking*) | 33 | Contestada el 29 de diciembre de 1994 |
 | El papel de los onces | El mismo libro | 15 | — |
 | Los anillos | **Lyra, en el anular izquierdo, a la vista, desde el 23 de diciembre**; Harry, el suyo en la derecha | 32 | Colores: rojo (peligro de muerte), rosa (con su pareja), morado (en guardia), dorado (éxito), verde (a salvo), azul (solo insinuado en el 24: «anything that might come out blue»; el plan dice «te echa de menos»), azul oscuro (dormido, sin nombrar en el texto). Parpadeo: el otro le busca. Se calienta hacia el otro. Plata lisa: el otro está donde el anillo no llega (el baúl de Moody, 32) |
 | Los omniculares de Potter | Lyra; en la Manor, bajo la almohada (25) | 25 | Dos horas de ella grabadas. **No son ficha** (autor): no vuelven como tal |
@@ -184,11 +196,11 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 
 ## 6. Deudas abiertas
 
-- **Harry → Lyra:** «You held on» (12; «two I owe you»): **reclamada por Lyra en el 19** («You owe me two… And you have never once asked me for anything») y pagada con «Tomorrow I’ll tell you everything», que se cumple **a medias**: en el 22 Dumbledore le corta con «You cannot tell her everything» y Harry sigue sin contárselo todo. Lo del Torneo («Can’t»). Lo de Moody (no se lo dijo: «You weren’t answering»). Lo de Karkaroff y los dragones (29), que Lyra no deja apuntar («Don’t»). La pluma de azúcar (30), dada sin precio.
+- **Harry → Lyra:** «You held on» (12; «two I owe you»): **reclamada por Lyra en el 19** («You owe me two… And you have never once asked me for anything») y pagada con «Tomorrow I’ll tell you everything», que se cumple **a medias**: en el 22 Dumbledore le corta con «You cannot tell her everything» y Harry sigue sin contárselo todo. Lo del Torneo («Can’t»). Lo de Moody (no se lo dijo: «You weren’t answering»). Lo de Karkaroff y los dragones (29), que Lyra no deja apuntar («Don’t»). La pluma de azúcar (30), dada sin precio. Los tres días sin avisar (32): no pide perdón para no dejarla en deuda (33); «Tomorrow still comes».
 - **Lyra → Harry:** 1992 (nunca reconocida). La capa (otra vez en su bolsa desde el 30), el pañuelo. «Put it on my account» (24).
 - **Lyra ↔ Lupin:** su «Then I’m in your debt» (19), por su silencio desde el 13 de noviembre; ella no se lo cobra, y él le cuenta lo de los Merodeadores y Peter sin que se lo pida. Luego ella le debe la poción (20, 22); pagada con la verdad (27), aunque él insiste en que sigue en deuda con ella («I find that I still am», 27).
 - **Lyra → Snape:** la mentira de la orilla; cuenta abierta y vigilada.
-- **Lyra → Narcissa:** la posdata.
+- **Lyra → Narcissa:** la posdata, contestada (33). Narcissa no ha respondido aún.
 - **Lyra → Granger:** el insulto del 7, sin disculpa. Lo de los onces y el horario quedó «square» (15).
 - **Lyra → Buckbeak:** un filete.
 - **Lyra → Crabbe:** respuesta a medias (23); el anillo.
