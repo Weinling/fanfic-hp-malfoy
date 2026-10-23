@@ -186,7 +186,7 @@ At twenty minutes, Fleur Delacour came up, alone, without whatever she had gone 
 
 The surface closed again.
 
-Lyra found that she could not look at it. Every time she looked at it she thought of a boy who could not swim, gone into it on a broomstick with a mouthful of weed from Snape’s cupboard, and of what she had not told him on a rock a week ago, and her hands began to do things in her sleeves that she did not care for. So she stopped looking at the water, and looked at the judges instead, because they were the only other thing there was.
+Lyra could not look at it. Every time she looked at it she thought of a boy who could not swim, gone into it on a broomstick with a mouthful of weed from Snape’s cupboard, and of what she had not told him on a rock a week ago, and her hands began to do things in her sleeves that she did not care for. So she stopped looking at the water, and looked at the judges instead, because they were the only other thing there was.
 
 Dumbledore, at the end of the table, with his hands folded on the gold cloth, watching the lake with an expression of mild and perfect patience. Madame Maxime, back in her seat, wrapping her own fur round her shoulders as though it were she who had been in the water. Karkaroff, beside her, leaning forward with his fists on his knees, watching for Krum. Bagman, on his feet, with the megaphone.
 
@@ -207,3 +207,59 @@ Bagman bent down to him, at forty minutes, and said something with a grin and a 
 She did not know what it meant. She did not think it meant anything, yet.
 
 She looked at him anyway, for the rest of the hour, because it was better than looking at the lake.
+
+⁂
+
+Diggory came up first, at the end of the hour, with a bubble round his head and Cho Chang in his arms, and the Hufflepuffs nearly brought their stand down. Then Krum, or most of Krum: his body was his own, in a pair of black bathing trunks, but his head was the head of a shark, which he appeared to have tried to change back too early, and he came up through the water with Granger under one arm and his great grey snout pointing at the sky. Granger woke up on the surface and saw what was carrying her and screamed, and then saw who it was and stopped, and Lyra, who had been on her feet since the first bubble, sat down again rather suddenly.
+
+The hour went past. Bagman said so, into his megaphone, sounding worried. Nothing came up.
+
+At an hour and four minutes, the lake broke open in front of the jetty and a Firebolt came out of it.
+
+It came out sideways and very low, streaming water, with a great deal more on it than it had been built for. Potter was flat along the handle, and in front of him, slumped across it with his arms round them, were Weasley, blinking and spluttering, and a small girl with silvery hair whom Lyra had never seen in her life. The broom laboured up to the jetty, and dumped all three of them on it in a heap, and lay down in the water beside them like a dog that has fetched a stick much larger than itself.
+
+Fleur Delacour gave a shriek that could have been heard in Beauxbatons, and ran.
+
+Lyra was down out of the stand and on the bank before she had properly thought about it. She did not run. A Malfoy did not run on to a jetty in front of three schools. She walked, very fast, through the crowd of people in towels and people with blankets and Madam Pomfrey shouting about hypothermia, and stopped a yard from the end of the planks, where Potter was sitting up in a puddle with a blanket round him, coughing, and her own grey scarf, which he had plainly gone into the lake in, wound twice round his neck and hanging off him like weed.
+
+It was cashmere. She decided to say so later.
+
+Bagman was standing over him, beaming, with the megaphone under his arm. “Harry! Harry, my boy! The merpeople tell us you were down there with them the best part of the hour! Waiting for the others—making sure they all came up—a lovely bit of sportsmanship, lovely, the judges will—” He clapped Potter on his wet shoulder. “What a show!”
+
+Potter looked up at him. He was white with cold, and his lips were blue, and there was something in his face that Lyra had seen there only on the bad days.
+
+“It’s not a task,” he said. “It’s a spectacle.”
+
+Bagman’s smile stayed exactly where it was, as smiles do on men who have not heard what was said to them, and he went off to tell the judges.
+
+Then Fleur arrived.
+
+She came down the jetty with her little sister already clutched to her front, the two of them dripping on each other and talking in very fast French, and she stopped in front of Potter and looked down at him with her lovely face all wet. “You saved ’er,” said Fleur. “She was not even yours to save, and you saved ’er—” and she bent down, and took his face in both her hands, and kissed him on the left cheek.
+
+She was turning his face, quite clearly, for the right.
+
+Lyra stepped forward.
+
+She did it beautifully. She had been doing it since she was four years old, at her mother’s parties, to women who wore more diamonds than Fleur Delacour would see in her life. She put one hand lightly on each of Fleur’s shoulders, so that Fleur had to let go of Potter’s face to turn round, and she kissed Fleur on the right cheek, and on the left, and on the right again, as they did in Paris, before Fleur had quite worked out what was happening.
+
+“*Merci*,” said Lyra warmly, in a French so perfect that two people from Beauxbatons turned round, “*de me l’avoir rendu.*” Thank you for giving him back to me.
+
+Fleur looked at her. For a moment she looked very much as though she might be offended; and then she began to laugh, a real laugh, quite helplessly, with her sister still in her arms. She said something in French that Lyra decided to take as a compliment, and went away up the jetty, still laughing, with Gabrielle.
+
+Potter sat in his puddle in his blanket and looked up at Lyra. He did not seem to know where to look; he looked at her, and at Fleur’s back, and at the planks, and at her again.
+
+“You’re wearing my scarf,” said Lyra.
+
+“You put it on me.”
+
+“A week ago.”
+
+“I didn’t want to lose it,” said Potter, and his blue lips went up at one corner, and she turned away from him quickly before it could do anything to her face.
+
+When the marks went up, he was level with Diggory at the top of the table, and the whole of Gryffindor was screaming, and Weasley was being sick into the lake.
+
+Lyra looked for the judges, out of habit, before she went back up to the stand.
+
+They were rising from the gold-draped table, one after another, in the noise: Bagman bouncing, Madame Maxime gathering her furs, Karkaroff hurrying, Dumbledore smiling at everybody. At the far end, Mr Crouch got to his feet with the others, very straight, and buttoned his neat dark coat, and walked away along the bank towards the castle, past the edge of the water, with his eyes fixed in front of him.
+
+He had not looked at the lake in an hour. He did not look at it now.
