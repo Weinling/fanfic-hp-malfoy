@@ -132,4 +132,46 @@ She went away down the dungeon corridor, with her slippers making no sound at al
 
 Lyra stood outside the wall for a while, with her arms folded.
 
-Weasley, then. At the bottom of the lake, for Potter. She found, rather to her surprise, that she did not mind that in the least; and then, examining it more closely, that she was glad. Weasley had been his first. It seemed only right that Weasley should be the one he went down for.
+Weasley, then. At the bottom of the lake, for Potter. She did not mind that in the least. Examining it more closely, she was glad. Weasley had been his first. It seemed only right that Weasley should be the one he went down for.
+
+⁂
+
+The stands had been put up along the far shore of the lake, in the night, and by half past nine on the Friday morning the whole school was packed into them, in scarves and hats and gloves, stamping its feet, with its breath going up in clouds. The water was grey and flat and gave away nothing. Out at the end of a little wooden jetty stood the four champions, and the judges’ table, draped in gold, with Bagman behind it already on his feet.
+
+Lyra sat in the Slytherin stand between Crabbe and Goyle with her hands in her sleeves. Her neck was cold. She had not got the scarf back, and had not asked for it.
+
+“—*one hour* to recover what has been taken from them,” Bagman was booming, his voice magically magnified over the water. “On my whistle, then! One— two—”
+
+On the whistle, Diggory and Delacour and Krum went into the lake.
+
+Potter did not.
+
+He stood at the end of the jetty by himself, and raised his wand, and Lyra heard it come across the water, thin and clear: “*Accio Firebolt!*” A ripple of laughter went along the stands. Somebody in the Hufflepuff stand shouted that it was a lake, Potter, not a pitch. Then the Firebolt came streaking out over the trees from the direction of the castle, and stopped beside him in the air, and he swung his leg over it and shot away, not out over the water but back the way the broom had come, low and very fast, towards the school.
+
+“Where’s he *going*?” said Goyle.
+
+Lyra did not know. She watched the small dark shape go up the slope and across the grounds towards the great grey bulk of the castle, and rise along its face, and level out; and she saw, a moment before it happened, which window he was making for. She had stood at that window herself, two years ago, in the dark, with a werewolf’s potion on her conscience, looking down at the lake.
+
+There was a tiny, distant, glittering burst, like frost knocked off a branch.
+
+Then the sound reached them across the water: a far-off crack, and a long tinkling crash, and a great many people in the stands all saying *what* at once.
+
+“That’s—” Somebody along the Slytherin bench had stood up. “That’s the *dungeons*—that’s Snape’s—”
+
+It was. Harry Potter had flown a Firebolt through the window of the Potions master’s private office in the middle of the second task, in front of the whole school and two foreign ones and the *Daily Prophet*, and he was inside it now.
+
+Lyra sat quite still.
+
+She did not know what she felt. It was the office of her own Head of House, the one room in the castle into which no Slytherin had ever gone uninvited and come out unmarked; it held, to her certain knowledge, a jar of something with eyes in it that she had dreamt about in her first year. He had smashed his way into it on a broomstick. It was the most outrageous thing she had ever seen a student do, and she had grown up hearing about her father’s schooldays.
+
+She was, she realised, very nearly proud of him.
+
+He came out again almost at once, through the same jagged hole, with something stuffed in his mouth that trailed out of it like a grey-green moustache, and dived straight down the face of the castle towards the lake. He went over the stands so low that Lyra felt the wind of him, and hit the water broom and all, flat, at a speed that sent a sheet of spray up over the jetty and the judges; and the lake closed over him, and he was gone.
+
+The stands went mad.
+
+At the end of the staff bench, Professor Snape had not moved. He had watched his window go without a flicker, as he watched cauldrons boil over in the dungeons, as though it were what he had always expected and only a little earlier than he had expected it. Now he turned his head, slowly, the whole length of the stands, past the Gryffindors and the Hufflepuffs and the Ravenclaws, until he found the Slytherin bench, and Lyra on it.
+
+He looked at her for a moment, as he had looked at her once across a shore in the dark with grey feathers on the front of her robes: as if he were adding something to a bill.
+
+Then he looked back at the water.
