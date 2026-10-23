@@ -209,3 +209,35 @@ The blue eye rested on her.
 “Watch yourself in that house,” said Moody. “Watch it better than I watched this one.”
 
 Then he turned, and went away across the Hall with his trunk floating behind him, and out through the great doors into the sunshine, and did not look back.
+
+⁂
+
+On the train somebody had the *Prophet*.
+
+It went round their compartment twice before they reached the moors, and Goyle read the best bit out, in the Minister’s voice: that the Minister deeply regretted that Professor Dumbledore had seen fit to alarm a hall full of children on the eve of their holidays with irresponsible rumours, at a time when the Ministry was doing everything in its power to bring Mr Crouch’s murderer to justice. Nobody laughed. Crabbe took it off her, after the second time, and folded it up small, and sat on it.
+
+Lyra looked out of the window most of the way, at the hills going by and then the fields and then the backs of houses, and did not take part in the conversation, and nobody asked her to.
+
+At King’s Cross the platform was full of steam and noise and parents. She got down with her trunk and stood for a moment on the step, in the press, getting her bearings; and at the far end of the train, through the steam, she saw a crowd of red hair, Weasleys, a great many of them, and in the middle of them a boy with untidy black hair and a trunk, standing quite still, looking at her.
+
+She did not look back. She turned her head away, quite naturally, as one turns from a draught, and looked for her own people instead; and found them.
+
+They were by the pillar, where they always stood. Her mother was a little behind, very upright, in grey, with her hands folded, looking at Lyra with the small, careful, unreadable face she had worn at the top of the drive every summer of Lyra’s life; and then her mother’s eyes went past her, down the platform, to where the red hair was, and stayed there a moment, and came back. Draco was hopping. He had grown an inch and lost a tooth and was waving with his whole arm.
+
+“Lyra! *Lyra!* The gentleman came back! On Sunday! He says he’s never felt better in his life, and he’s brought me—”
+
+“Draco,” said their mother.
+
+And her father was smiling.
+
+He came forward through the steam with both hands out, as he always did, as he had every summer of her life, with his silver-topped cane under his arm and his hair like pale silk and his face lit up with a joy she had never once in her life seen him try to hide; and he put his arms round her, there on the platform, in front of everybody, and held her tight.
+
+As he lifted his arms, his left sleeve slid back an inch from his wrist.
+
+It was only an inch. Nobody else on that platform would have seen it. Lyra saw it, at the edge of her eye, against the pale skin of the inside of his forearm, as he folded her in: the edge of something dark. Not grey. Not faded, as it had been all her life, if it had been anything at all, under every sleeve she had ever seen him wear.
+
+Black.
+
+Her father held her very close, and said into her hair, warmly, “My treasure. My clever, clever girl.”
+
+Lyra put her arms round him, and held on.
