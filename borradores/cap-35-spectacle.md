@@ -80,7 +80,7 @@ She had known that he had nobody at Christmas. She had known that his letters in
 
 “I shall. I know some very good ones. My father taught me one for boils that he says the Ministry has never been able to prove—”
 
-“Don’t,” said Potter again, and sat up. He was not smiling. “He’s still my uncle.”
+“No,” said Potter, and sat up. He was not smiling. “He’s still my uncle.”
 
 She stared at him.
 

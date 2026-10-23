@@ -1,6 +1,6 @@
 # Continuidad transversal
 
-Hecho el 11 de octubre de 2026 a partir de todos los manuales y del handoff, tras el capítulo 28. Actualizado tras el 29 y tras el 30 (12 de octubre), tras el retoque del 25 al 30 (18 de octubre) tras el 31, el 32 y el 33 (23 de octubre). Recoge lo que está repartido por los manuales y se escapa con facilidad: los hitos de la pareja, quién sabe qué y desde cuándo, cómo está cada personaje, las fichas vivas y las deudas abiertas.
+Hecho el 11 de octubre de 2026 a partir de todos los manuales y del handoff, tras el capítulo 28. Actualizado tras el 29 y tras el 30 (12 de octubre), tras el retoque del 25 al 30 (18 de octubre) tras el 31, el 32, el 33 y el 34 (23 de octubre). Recoge lo que está repartido por los manuales y se escapa con facilidad: los hitos de la pareja, quién sabe qué y desde cuándo, cómo está cada personaje, las fichas vivas y las deudas abiertas.
 
 **Se actualiza al cerrar cada capítulo**, en el mismo paso que el manual. Si algo de aquí choca con el texto, manda el texto; corrige este archivo.
 
@@ -42,8 +42,9 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 | 29 nov. 1994 | 31 | Tras el *Prophet* («A TRIANGLE?»), en un aula del tercer piso: él dice «We can’t go together»; ella le devuelve la capa, le gana la mano con Krum («Most things worth doing, I do before you ask») y se va con «Whether I do is my decision». **Sin pago romántico** (baja) | Nadie | «Do you trust me?» / «Why on earth would I?» |
 | 25 dic. 1994 | 32 | El Baile. Tres días sin él (el anillo en plata lisa; Lyra se lo pone en el dedo el 23). Él llega tarde con la tapadera de «los dos plantados»; **ella la rompe en público**: «Nobody left me anywhere, Potter. I turned Krum down» (mentira; Krum la confirma: «She refuse me»). Le coge la mano delante de todos; la marca de la muñeca. **La pareja es pública.** Los anillos, rosas, a la vista. Abren el baile | Todo el colegio, Durmstrang, Beauxbatons, los jueces (Karkaroff) | «You make me miserable.» / «I know.» |
 | 25 dic. 1994 | 33 | El baile: «Why did you do that?»; la disculpa que él no pide («No. You’d only have to forgive me»). **Por primera vez le cuenta dónde ha estado** (el baúl de Moody, tres días), delante de ella y de Granger; se guarda a quién buscaba. Ella le da el escarabajo y él ya lo sabía («I know»; «I was sure»). «Tomorrow still comes» | Granger (el relato); Dumbledore (la mirada) | «That isn’t an apology.» |
+| 9–20 ene. 1995 | 34 | Pareja pública: él la acompaña a Aritmancia cada mañana. Ante el chivatoscopio de Moody, ella dice **«I accepted because I *wanted* to!»**; él no lo sabe. En la coda él le coge la mano y mira el anillo rosa; ella pregunta por el hijo de Crouch y él miente («He’s dead», dos veces) | Moody (la confesión) | «Stay away from Moody.» |
 
-**Besos en la boca hasta ahora: cuatro (3, 19, 29 y 30).** Además: la frente (24), el hocico (27, «no cuenta»). El del 29 es el primero elegido por los dos, sin excusa: él lo pide y ella dice «Yes». El del 30 es el primero que empieza ella, a través de la capa. **Racha:** el 26, el 27, el 29 y el 30 tienen pago romántico; el 31 no; el 32 sí (en público, sin beso); el 33 sí (el baile, sin beso); y el próximo beso no se vende como otro «primero» (crítico).
+**Besos en la boca hasta ahora: cuatro (3, 19, 29 y 30).** Además: la frente (24), el hocico (27, «no cuenta»). El del 29 es el primero elegido por los dos, sin excusa: él lo pide y ella dice «Yes». El del 30 es el primero que empieza ella, a través de la capa. **Racha:** el 26, el 27, el 29 y el 30 tienen pago romántico; el 31 no; el 32 sí (en público, sin beso); el 33 sí (el baile, sin beso); el 34 no (la confesión es ante Moody); y el próximo beso no se vende como otro «primero» (crítico).
 
 **Traslados en brazos:** primero (Y1-1, rodando), el 5 (corriendo bajo la capa), el 27 (hurón, andando).
 
@@ -172,6 +173,14 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 - **Sirius** fuera del castillo («Gone. Dumbledore saw to it»).
 - **Dumbledore** mira a los dos con una pregunta.
 - **El eco de «tomorrow»** (19, 21, 33) está gastado.
+
+### Lo que cambia en el 34 (23 de octubre)
+- **Lyra** sabe el nombre del hijo de Crouch (Bartemius), «muerto» en Azkaban un año después de la condena (Moody estuvo en el entierro), y que Potter lo buscó en el baúl. Lo junta con el «to die there» de Karkaroff (28). Le ha confesado a Moody, ante un chivatoscopio, que aceptó a Potter «because I *wanted* to»; no se lo ha contado a nadie. Moody le dijo que el Señor Tenebroso volverá y que entonces morirá uno de los dos.
+- **Harry** le mintió o no se cree lo que dice («He’s dead», dos veces); «Stay away from Moody».
+- **Lucius:** vociferador en voz baja (lunes 16 de enero); Lyra contestó: *He confides very little. I find I don’t mind.* **Narcissa** no ha contestado a la posdata.
+- **Moody** tiene un chivatoscopio y Veritaserum; no lo usa sin Dumbledore. Dice que Dumbledore está incómodo con lo que sabe Harry.
+- **Parkinson** dice que la pareja es una alianza política de Lyra.
+- **Karkaroff** se disculpó por Krum (vestíbulo).
 
 ## 5. Fichas vivas
 
