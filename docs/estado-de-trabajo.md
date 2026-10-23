@@ -2,9 +2,14 @@
 
 **Léelo lo primero** al abrir sesión o tras compactar. Se actualiza en cada paso (escena escrita, crítica aplicada, capítulo cerrado) y va en el mismo commit que el paso.
 
-Última actualización: 19 de octubre de 2026.
+Última actualización: 23 de octubre de 2026.
 
 ## Ahora mismo
+
+- **EN CURSO (23 de octubre): el 31, «Whether I Do», ESCRITO** (`borradores/cap-31-whether-i-do.md`, ~4.200 palabras; ficha aprobada; siete escenas commiteadas; pasada de tics y lectura en frío hechas). **En crítica:** se lo he pasado al crítico vivo (el mismo de los *Year One* 2 y 4). Al volver: guardar la crítica en `docs/notas/cap-31-critica.md`, decidir, aplicar y mandarle la nota; luego manual (`docs/capitulos/cap-31.md`), continuidad, handoff si cambia algo y este estado.
+- **Regla nueva (23 de octubre), ya en el handoff §1 y en `CLAUDE.md`:** desde el 31, la ficha de cada capítulo se hace leyendo enteros sus uno o dos capítulos de referencia del original (el coreano hasta el 35; del 36 en adelante, la traducción oficial de `referencia/oficial-en/`, del mismo autor, como guía de trama y escenas, nunca para la frase) y readaptándolos. La ficha cierra con lo que se quita del original y por qué.
+- **Publicación (23 de octubre):** en Webnovel está todo hasta el 30 y los cuatro *Year One*. El autor subió por error el *Year One* 4 antiguo como «actualización» y lo sustituye por el texto bueno, con una nota de disculpa. Hace falta el 31 y los siguientes.
+- **La nota `sesion-nueva-31.md` queda cumplida** (ficha del 31 hecha y aprobada; crítico nuevo lanzado). Siguiente tras el 31: la ficha del 32, con el coreano 35 entero como referencia.
 
 - **HECHO (19 de octubre): el *Year One* 4 rehecho, «What Scared Actually Is»** (`borradores/extra-year-one-4-what-scared-actually-is.md`, ~6.100 palabras; ficha aprobada con las cuatro recomendaciones; escrito escena a escena; pasada de tics hecha; manual, continuidad, `lo-que-sabe-harry.md` y handoff al día). El archivo se renombró desde `extra-year-one-4-two-words.md`; la versión publicada en Webnovel: `git show 9746d09:borradores/extra-year-one-4-two-words.md`. **Sin crítica todavía.** El autor retiene el 4 en Wattpad (el 20 sube solo el 3) y lo sustituirá en Webnovel con la nota *Year One, Part 4 revised: same corridor, a different fear.* **Pendiente del autor:** si se queda con 6.100 palabras o se recorta; si el crítico nuevo lee también este (además del *Year One* 2 y el 31), avisando antes del coste. Análisis previo: `docs/notas/year-one-4-rehacer.md`.
 - **CRÍTICA HECHA (19 de octubre): los *Year One* 2 y 4 rehechos**, por el crítico nuevo (Opus; vivo, se reutiliza para el 31; ya tiene la nota). Crítica y decisiones: `docs/notas/extra-year-one-2-y-4-rehechos-critica.md`. Arreglos aplicados en los dos y en sus manuales. El 4 entra en el grupo de cabeza del ranking; el 2 sube a la mitad alta. Ahora: el 2, ~5.420 palabras; el 4, ~6.000. El autor sube los dos a Webnovel con nota cuando quiera (el 2: *Year One, Part 2 revised: same fir tree, a different Christmas*; el 4: *Year One, Part 4 revised: same corridor, a different fear*).
