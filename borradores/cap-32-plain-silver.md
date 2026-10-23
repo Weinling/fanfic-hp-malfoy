@@ -118,7 +118,7 @@ He shifted his weight on to the wooden leg, and turned.
 
 “Do you know where he is?”
 
-It came out of her before she had decided to let it, and much too high. Moody stopped, with his back to her, and for a moment she thought he would not bother to answer.
+It came out much too high. Moody stopped, with his back to her, and for a moment she thought he would not bother to answer.
 
 “I know where he isn’t,” he said, and stumped away down the corridor, *clunk*, and step, and *clunk*, until the sound went round the corner and was gone.
 
@@ -127,3 +127,89 @@ Lyra stood in the empty corridor for some time after that.
 He had not said Potter was safe. He had not said he was in danger either. He had asked about the ring as a man asks the time of somebody whose watch he does not trust, and gone away with the answer, and he had not once in the whole of it looked as if he cared which. She tried to be angry about that, and could not get it to take.
 
 In August she had lain awake a whole night watching the ring go purple. That night she lay awake and watched it do nothing, and found it was much worse.
+
+⁂
+
+Saturday was the same, all day, and then it was Christmas.
+
+At half past seven on Christmas night Lyra was sitting on the end of her bed in the fourth-year dormitory, dressed, with her hands in her lap.
+
+She had done everything. She had begun at four o’clock, out of nothing but habit, because a thing that is going to take three hours does not care whether one wants to do it. She had washed her hair and dried it and put it up, in the style her mother’s maid did for the opera, which she had practised in August until she could do it blind; it had taken an hour and a half and every pin was where it should be. She had put on the violet silk. It fitted as if it had been poured. There was a looking-glass by the door, and she had looked in it once on her way past and seen exactly what she had meant to see since the night of the dragons, and it had not helped in the least.
+
+Her presents were in a heap at the foot of the bed, unopened, except for Draco’s, which had turned out to be a Chocolate Frog card of Viktor Krum with a note to say that he had three.
+
+The others had gone down long ago, in a cloud of scent and complaint. Daphne Greengrass had asked twice whether she was coming, and been told *presently*, and gone. Lyra sat on the end of the bed with the ring on her finger, and looked at it, and did not get up.
+
+The door opened.
+
+“Malfoy,” said Crabbe. “It’s half past seven.”
+
+She was in robes of a deep, warm yellow that her mother had chosen, and she looked, Lyra thought distantly, like somebody you would be glad to see coming up the path. She stood in the doorway for a moment. Then she came in and shut the door and sat down on the bed beside Lyra, carefully, so as not to crush anything.
+
+“Krum’ll be waiting.”
+
+“Krum is not waiting,” said Lyra. “Krum is taking somebody else.”
+
+Crabbe drew a breath to say something about that, and then, visibly, did not. She looked at Lyra instead. She looked at her hair, and at the silk, and at her hands lying still in her lap; and Lyra saw her take it all in, in her slow, thorough way: that Lyra had not sent anybody for anything all day, nor complained about the bathroom, nor said one cutting word about Daphne’s shoes, which had deserved several.
+
+“Malfoy,” said Crabbe, in a low, frightened voice. “Is it the Imperius?”
+
+Lyra very nearly laughed. She had thrown the thing off on top of a desk in front of the whole of Slytherin.
+
+“No.”
+
+Crabbe’s eyes went down to the ring. She knew that ring. She had paid for the box.
+
+“Then what’s Potter done?”
+
+“Nothing.”
+
+“*Nothing?*” said Crabbe.
+
+“He’s not here. He hasn’t been here since Wednesday. He hasn’t done anything at all.”
+
+Crabbe stood up.
+
+Lyra had known her since they were eleven, and had never once seen her angry; she had not been sure that Crabbe knew how. She found out now. Crabbe went red from her collar to her parting, and stood in the middle of the dormitory in her yellow robes with her fists shut, and was angry, thoroughly and without a scrap of dignity, as though somebody had to be and Lyra had plainly forgotten how.
+
+“It’s *Christmas*,” said Crabbe. “It’s the *Ball*. He can’t do *nothing*, not tonight, not after you’ve— after all that— he can’t just *not come*! I’ll— if he’s in that castle somewhere I will find him and I will—”
+
+She ran out of things she would do, and stood there breathing.
+
+Lyra looked up at her.
+
+“How long have you known?”
+
+It was not the question she had meant to ask. Crabbe had given him the ring. Crabbe had stood in the Great Hall in May and called herself a rather good Cupid. There was no use asking whether she knew; but Lyra found that she wanted, very badly, to know since when.
+
+“Since the lawn,” said Crabbe.
+
+“What lawn?”
+
+“First year. The first flying lesson.” Crabbe unclenched one fist, and looked at it, and seemed to wonder what it had been for. “When he caught you. Afterwards you went and stood over him and shouted at him to go to the hospital wing, and you had hold of his sleeve. You had hold of it till Professor McGonagall came. I was there. I was the one shouting your name.”
+
+Lyra did not say anything for a moment.
+
+She remembered the lawn. She remembered the grass in his hair and the blood on his sleeves, and being furious, and the wind. She had not known that anybody saw her hand.
+
+“You never said.”
+
+“You’d have stopped,” said Crabbe simply.
+
+Then she wiped her face with the back of her wrist, and was Crabbe again, and held out her hand.
+
+“Get up. Come on. If he doesn’t come, I’ll go with you.”
+
+“You’re going with Nott.”
+
+“I’ll stand him up.” Crabbe considered this, and found she had no objection to it. “He’ll only talk about his horse.”
+
+Lyra laughed.
+
+It surprised them both. It came out of her quite loud, in the empty dormitory, the first time in three days, and it went on for longer than the joke deserved; and Crabbe stood over her in her yellow robes with her hand held out, beaming as though she had done something clever, which she had.
+
+Lyra took the hand, and got up.
+
+At the door she stopped, and looked down at the ring. A sensible girl would take it off. Half of Slytherin would be at the next table, and Potter wore the other one where anybody could see it.
+
+She left it where it was.
