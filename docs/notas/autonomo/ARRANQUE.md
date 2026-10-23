@@ -26,7 +26,7 @@ Léelo tú, en este orden, entero salvo que se diga otra cosa. Apunta en el esta
 3. `docs/estado-de-trabajo.md`, **la sección «Ahora mismo»** (lo de más abajo es historia).
 4. `docs/handoff-v3.0.md`, entero (motor, reglas de escritura, tics, rumbo, capítulos de referencia).
 5. `docs/capitulos/continuidad-transversal.md`, entero.
-6. El guion de la tanda en curso: `borradores/guion-tanda-31-40.md` (§0, el capítulo que toca y el siguiente, §5 «Avisos para escribir» y §7 «Hilos»).
+6. El guion de la tanda en curso: `borradores/guion-tanda-31-40.md` (§0, el capítulo que toca y el siguiente, §5 «Avisos para escribir» y §7 «Hilos»). **La tanda 31-40 quedó cerrada el 23 de octubre de 2026; hasta que exista `borradores/guion-tanda-41-50.md`, lo que toca es escribirlo: `docs/notas/sesion-nueva-tanda-41.md`.**
 7. Los manuales enteros (`docs/capitulos/cap-NN.md`) de los capítulos ya escritos de la tanda y de los cuatro anteriores.
 8. **El texto completo de los tres capítulos anteriores** al que vas a escribir: son la voz. Si el anterior tiene coda desde Harry, también.
 9. **Los capítulos de referencia del original** del que vas a escribir, enteros (la tabla del §1 del guion de la tanda): el coreano de `coreano/` hasta el 35; del 36 en adelante, la traducción oficial de `referencia/oficial-en/`. Más el siguiente, para saber hacia dónde va.

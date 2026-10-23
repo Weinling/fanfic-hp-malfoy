@@ -4,7 +4,7 @@ Lo pone al día cada sesión autónoma al terminar. Lo más nuevo, arriba.
 
 ## 23 de octubre de 2026, noche (sesión autónoma 1, de las 20:37 a las 22:00 por el reloj de la máquina)
 
-**Hecho: la tanda del 31 al 40 está terminada.** El cuarto curso acaba en el 40. Del 32 al 40 los he escrito yo en esta sesión, uno detrás de otro, cada uno con ficha (leyendo enteros sus capítulos de referencia del original), escritura escena a escena con commit, pasada de tics, crítica de un Opus (el mismo para los nueve), arreglos con decisión y motivo, manual y continuidad. Al despertar tienes la revisión de la tanda que mencionaste.
+**Hecho: la tanda del 31 al 40 está terminada.** El cuarto curso acaba en el 40. Del 32 al 40 los he escrito yo en esta sesión, uno detrás de otro, cada uno con ficha (leyendo enteros sus capítulos de referencia del original), escritura escena a escena con commit, pasada de tics, crítica de un Opus (el mismo para los nueve), arreglos con decisión y motivo, manual y continuidad. Al despertar tienes la revisión de la tanda que mencionaste. El crítico dejó una valoración del arco entero (lo mejor, lo peor y qué vigilar) al final de `docs/notas/cap-40-critica.md`.
 
 **Listos para subir a Webnovel** (horas de los commits: ficha → borrador → cerrado):
 
@@ -18,7 +18,7 @@ Lo pone al día cada sesión autónoma al terminar. Lo más nuevo, arriba.
 | 37 | *The North* | ~2.870 | 21:26 → 21:28 → 21:35 | «el mejor capítulo de coste del arco» |
 | 38 | *The Cup* | ~3.570 | 21:31 → 21:34 → 21:42 | «de lo mejor del arco en trama» |
 | 39 | *Never Lied* | ~3.770 | 21:38 → 21:40 → 21:49 | «el mejor capítulo del cuarto curso» |
-| 40 | *Hidden Ink* | ~3.760 | 21:43 → 21:47 → (en crítica) | — |
+| 40 | *Hidden Ink* | ~3.560 | 21:43 → 21:47 → 21:58 | «a la altura del 39»; gancho 10; «el mejor final del cuarto curso» |
 
 Unos 8-12 minutos por capítulo de reloj de la máquina, sin contar la lectura del principio (el reloj de la máquina parece ir más rápido que el real: tómalo como proporción, no como minutos de verdad).
 
