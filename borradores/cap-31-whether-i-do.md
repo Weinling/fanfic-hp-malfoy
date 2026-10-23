@@ -128,10 +128,88 @@ She walked on.
 
 It was not the article she minded, not really. She minded the Ball.
 
-She had known for a month what she would look like at it. She had not told herself so in as many words, but she had known: which way her hair would go, and that her mother would choose the robes, and that she would come down the marble staircase a little after everybody else, so that the Hall had time to turn round. That part was old. She had wanted to be the best-looking girl in any room since she was old enough to know there were rooms.
+She had known for a month what she would look like at it. She had not told herself so in as many words, but she had known: which way her hair would go, and that her mother would choose the robes, and that she would come down the marble staircase a little after everybody else, so that the Hall had time to turn round. That part was old. She had always meant to be the best-looking girl in any room she walked into, and she generally was.
 
 The new part was smaller, and worse, and she had not known it was there until this morning, when Rita Skeeter took it away. She had wanted him to see her first. Before the Hall, before anybody. She had wanted to watch his face do whatever it was going to do, and then to take his arm as if she had not noticed.
 
 There was no chance of that now. The *Prophet* had seen to it.
 
 The wind came off the lake and found the back of her neck, and Lyra put her collar up and went back to the castle for Charms.
+
+⁂
+
+The ring began in Charms.
+
+It was in her pocket, where it lived now, and halfway through Cheering Charms it started up against her fingers: warm, and then cool, and then warm again. The other one was looking for her. Twice in October she had felt it do that and gone the other way.
+
+This time she went. When the bell rang she let Crabbe and Goyle go on down to lunch, and turned on the stairs with her hand in her pocket until the ring grew warm towards the first floor, and followed it to the classroom with the bad window, where a door that had been shut that morning stood an inch open.
+
+Potter was sitting on a desk with his feet on a chair. He did not get up.
+
+“We can’t go together,” he said. “Not now. Not after—”
+
+“I know.” She shut the door behind her. “I read it. So did every Durmstrang boy at our table, out loud, and two of them did the voices.”
+
+She had been carrying his cloak in her bag for five days. She took it out, and shook it once, and dropped the whole cold slippery armful of it into his lap, as he had dropped it into hers outside the Great Hall.
+
+Potter looked down at it. He did not say *thanks*. He looked tired, the way he had looked on the train with the frost on the window, and she disliked that and did not let it show.
+
+“It was in the tent,” he said. “Somebody was. I didn’t see anybody.”
+
+“No,” said Lyra, who had. She let it pass.
+
+“It’s not just the Ball, Lyra. If people know—”
+
+“If people know, it’s dangerous, and not for you. For all of us.” She had heard this speech under a cloister in May, with a ring in it. “You needn’t do it again. I remember it.”
+
+He shut his mouth. For a moment he looked as if he had a great deal more of it ready and nowhere to put it.
+
+“I could get away,” he said. “Halfway through. Meet you somewhere. Nobody would know, and we could—”
+
+“Dance in a broom cupboard?”
+
+“Well. Not a cupboard.”
+
+“Potter,” said Lyra, “do I look like something that waits under the table for whatever is left on somebody else’s plate?”
+
+He looked at her. Whatever he had been about to say, he did not say it.
+
+“I thought not.” She picked up her bag. “Well. I shan’t keep you. I have a great deal to do before Christmas, as it happens. I have dress robes to try on, if my mother ever sends them, and a scent to find, because the one I have is for daytime, and I shall have to do something about my hair that takes rather longer than this.” She settled the strap on her shoulder. “So if you don’t mind.”
+
+She was at the door with her hand on it when he said, “Wait.”
+
+She did not turn round. She waited, which was not the same thing.
+
+She had said it quite lightly, like a list of errands. She heard it now from the inside of his silence, the way he must have heard it: the robes, and the scent, and the hair. A month of it. She had not meant him to hear any of that, or she had, and she found she did not know which, and that she was not going to look at him until she did.
+
+“Lyra,” said Potter. “Do you trust me?”
+
+That made her turn.
+
+“Why on earth would I?”
+
+He laughed. It was not his loud laugh; it came out of him short and surprised, as if she had trodden on his foot and he had found he did not mind.
+
+“Thanks,” he said. “Honestly. Look. I’ll sort something out. I don’t know what yet, but I will. Only go with Krum.” He held up a hand before she could speak. “Or look as if you are. Let everybody think you are. Can you do that?”
+
+“I already have.”
+
+“What?”
+
+“At breakfast. In front of the whole of Slytherin.” She watched it reach him. “Parkinson asked again, and the entire bench was waiting, and Krum was the only name nobody would dare laugh at. So they think I’m going with Krum. They have for four hours.”
+
+Potter stared at her. Then he put his face in his hands, on top of the cloak, and laughed properly, the real one, so that his shoulders went.
+
+“You did it before I asked,” he said, through his fingers.
+
+“Most things worth doing, I do before you ask.”
+
+He took his hands away. He was still grinning, and it was the first time since the dragon that she had seen it, and she would not have admitted for anything that she had been waiting to.
+
+“Then make it true,” he said. “Or make it look true.”
+
+Lyra opened the door.
+
+“Whether I do,” she said, “is my decision, Potter.”
+
+She went out, and shut it behind her, and did not hurry on the stairs.
