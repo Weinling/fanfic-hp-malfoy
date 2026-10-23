@@ -44,7 +44,7 @@ Lyra did not look at her. She looked at the ring. Purple. She looked at the spar
 
 ⁂
 
-For a long time after that, nothing happened at all.
+For a long time after that, nothing happened.
 
 The stands talked themselves quiet. Down on the grass the patrolling teachers stood at the edges of the maze with their wands lit, and Bagman stood on the podium with his megaphone hanging from one hand and nothing to say into it, and the blue glimmer at the heart of the maze went on glimmering. Inside those two walls of hedge somewhere, two boys were walking towards it. Lyra could not see either of them. She sat with Crabbe’s hand in hers and the ring under her thumb, and counted her own breathing, and lost count, and began again.
 
@@ -82,7 +82,7 @@ The Hufflepuffs began to boo.
 
 It started at their end of the stands, low and ugly, and spread. It went along the Ravenclaw benches, some of them, and a few of the Durmstrang boys took it up for the noise of the thing. The Gryffindors cheered louder to drown it, and that made it worse. In the middle of it, down on the grass, Professor Sprout had reached Diggory and had an arm round him, and he was still shouting, and pointing; and up on the podium, Potter stood with the Cup in his hand and looked at Diggory, and did not say anything, and did not look away.
 
-He had won the Triwizard Tournament. He had won it in the ugliest way it was possible to win anything, in front of three schools and the Ministry of Magic, and he did not look as though he had won anything at all.
+He had won the Triwizard Tournament. He had won it in the ugliest way it was possible to win anything, in front of three schools and the Ministry of Magic, and he did not look as though he had won anything.
 
 “He cheated,” whispered Crabbe, beside her. “Didn’t he? He—”
 
@@ -98,7 +98,7 @@ She held that, and looked at him on the podium with the Cup in his hand, and put
 
 Then the stands began to empty on to the grass, the way stands do, all at once, and Lyra went down with them.
 
-She did not decide to. Crabbe had let go of her hand to stand up, and then the whole Slytherin bench was moving, and the steps were full of people going down, and she was among them, going down too, with Crabbe somewhere behind her saying *Malfoy* and *wait*. At the bottom the crowd spread out across the trampled grass towards the podium like water finding a level, Gryffindors in front, shouting, and Ministry wizards trying to hold them back, and Lyra went through all of it as she went through crowds at her father’s parties, sideways, without touching anybody, until there was nobody between her and the edge of the judges’ platform but two Ministry men with their backs to her.
+Crabbe had let go of her hand to stand up, and then the whole Slytherin bench was moving, and the steps were full of people going down, and she was among them, going down too, with Crabbe somewhere behind her saying *Malfoy* and *wait*. At the bottom the crowd spread out across the trampled grass towards the podium like water finding a level, Gryffindors in front, shouting, and Ministry wizards trying to hold them back, and Lyra went through all of it as she went through crowds at her father’s parties, sideways, without touching anybody, until there was nobody between her and the edge of the judges’ platform but two Ministry men with their backs to her.
 
 She was two paces from the podium. She could see everything.
 
@@ -118,7 +118,7 @@ He had come along the platform from the far end of the judges’ table, very upr
 
 He stopped.
 
-It was not a pause. Lyra had heard a great many men pause, at her father’s table, for effect. This was different. He simply stopped, in the middle of the word, with his hand still holding Potter’s and his eyes on nothing; and for a second, two, three, nothing at all happened behind his face. Then he started again, a beat late, exactly where he had left off, as though somebody had wound him up.
+It was not a pause. Lyra had heard a great many men pause, at her father’s table, for effect. This was different. He simply stopped, in the middle of the word, with his hand still holding Potter’s and his eyes on nothing; and for a second, two, three, nothing happened behind his face. Then he started again, a beat late, exactly where he had left off, as though somebody had wound him up.
 
 “—very proud. In you, I find—” another stop; another beat “—reason to hope.”
 
@@ -146,4 +146,36 @@ Lyra stood where she was.
 
 On the podium, over the heads of the Gryffindors, Potter had turned. He was not looking after Crouch. He was looking at her.
 
-He had found her in a crowd of several hundred people as if there had been nobody else on the pitch, and he looked at her across all their heads, with his weight off his bad leg and the Cup in his arms and the blanket sliding off one shoulder. She had not spoken to him, except across a classroom, since a desk on the third floor and a single word. He did not smile. He did not do anything at all. He only looked, for as long as it took Ron Weasley to reach him and throw an arm round his neck, and then he turned his head and was gone into the red and gold.
+He had found her in a crowd of several hundred people as if there had been nobody else on the pitch, and he looked at her across all their heads, with his weight off his bad leg and the Cup in his arms and the blanket sliding off one shoulder. She had not spoken to him, except across a classroom, since a desk on the third floor and a single word. He did not smile. He only looked, for as long as it took Weasley to reach him and throw an arm round his neck, and then he turned his head and was gone into the red and gold.
+
+⁂
+
+They went back up to the castle in a long, noisy, lantern-lit stream, and Lyra went with it, with Crabbe at her elbow, not talking.
+
+At the foot of the slope she looked back.
+
+The stands were emptying. The maze stood dark and enormous behind them, with its writing that meant nothing, and the podium was a little lit island at the edge of it, with a few Ministry wizards still on it and Bagman talking to one of them with his arms going. Up in the staff stand, at the end of the front row, somebody had not moved.
+
+It was Professor Snape. He was on his feet, but only just. He was standing with his right hand clamped round his left forearm, over the sleeve, so tightly that she could see it from the bottom of the slope, and his face in the lantern-light had gone a colour she had never seen a living face go, a dreadful yellowish white, like old candle-wax. As she watched, he closed his eyes. He stood quite still in the emptying stand, holding his own arm, with his eyes shut, as a man stands who has just heard something a long way off that nobody else can hear.
+
+Then he opened them, and let go of his arm, and walked down out of the stand and away towards the castle, very fast, without looking at anybody.
+
+Lyra looked along the judges’ table, from habit.
+
+Madame Maxime’s chair was empty; she had gone with her pupils. Bagman’s, Dumbledore’s, empty. Mr Crouch’s, empty. And at the far end, Professor Karkaroff’s chair was empty too, and his great fur coat was still hanging over the back of it, silvery in the lantern-light, as though he had stood up in the middle of the evening to go somewhere for a moment, and had not stopped to put it on.
+
+It was June, and warm. But Karkaroff had worn that coat to every meal since October.
+
+“Malfoy?” said Crabbe.
+
+A knot of Durmstrang boys went past them up the slope, laughing, with their arms round each other’s necks, still in their red robes. One of them was Poliakoff. He saw Lyra and waved at her extravagantly, as at an old friend.
+
+“Party!” he called. “In the castle, the big hall. All night! The headmaster says go, go up, enjoy, he does not want us on the ship tonight.” He beamed. “He is a very good headmaster tonight.”
+
+They went on up, singing something in Bulgarian.
+
+Lyra stood at the foot of the slope with her hand over the ring on her finger, which had been green since the podium and was green still; and looked out across the dark grounds to the lake, where the Durmstrang ship lay at anchor with one light burning in its stern, and the water black and quiet all round it.
+
+“Malfoy,” said Crabbe again, more gently. “Come on.”
+
+She went.
