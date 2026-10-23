@@ -232,7 +232,7 @@ A Ravenclaw girl in pink smiled at her across two tables, the small, satisfied s
 
 She took a table near the wall, and sat at it alone. Goyle arrived a minute later on the arm of Blaise Zabini, which explained a good deal, Zabini having lost to Goyle at chess three times in November without once appearing to mind. Goyle looked at the empty chairs round Lyra and opened her mouth, and Zabini, who was cleverer than he let on, steered her away to the next table before she could say anything into it.
 
-Up at the staff table, the Headmaster’s chair was not empty.
+Up at the top table, where the judges sat tonight among the staff, the Headmaster’s chair was not empty.
 
 Dumbledore was in it, in robes the colour of plums, smiling at the room over the tops of his half-moon spectacles as though he had never been anywhere in his life. Lyra looked at him for a long moment. Moody was at the far end of the same table, with his flask, and his blue eye going round and round the Hall; it rested on her for a moment, and on her left hand, and moved on.
 
