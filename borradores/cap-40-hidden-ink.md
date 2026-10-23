@@ -2,7 +2,7 @@
 
 The ring did not want to come off.
 
-It had shrunk to fit her finger under a cloister thirteen months ago, and again in a corridor in December, and it had been there ever since, and now that she wanted it gone it held on. Lyra sat on the end of her bed with the hangings drawn on the Tuesday morning and worked at it with her thumb, round and round, until the skin under it was red; and then it gave, all at once, and slid off over the knuckle, and lay in her palm. It was green. It had been green since the podium.
+It had shrunk to fit her finger under a cloister thirteen months ago, and again in a corridor in December, and it had been there ever since, and now that she wanted it gone it held on. Lyra sat on the end of her bed with the hangings drawn on the Tuesday morning and worked at it with her thumb, round and round, until the skin under it was red; and then it gave, and slid off over the knuckle, and lay in her palm. It was green. It had been green since the podium.
 
 She wrapped it in a twist of tissue paper so that she would not have to look at what colour it went next.
 
@@ -50,7 +50,7 @@ Goyle’s head came round the edge of them almost at once, as though it had been
 
 “Take this to the hospital wing,” said Lyra. “Give it to Potter. Don’t say who it’s from. Don’t wait for an answer.”
 
-Goyle looked at the tin, and at Lyra’s face, and at Lyra’s hand, which had no ring on it; and for once in her life Greer Goyle did not say anything at all. She took the tin in both hands as though it might go off, and went.
+Goyle looked at the tin, and at Lyra’s face, and at Lyra’s hand, which had no ring on it; and for once Greer Goyle did not say anything. She took the tin in both hands as though it might go off, and went.
 
 She came back twenty minutes later, scarlet to the ears, out of breath from the stairs. She did not say anything then, either. She sat down on her own bed, and took a Chocolate Frog out of her pocket, and did not eat it.
 
@@ -122,7 +122,7 @@ Lyra let it. She went across to the fire and sat down in her own chair, as she d
 
 Crabbe came and sat on the arm of it.
 
-She sat there for a while without saying anything. Then she leaned down, so that nobody else would hear, and said, very low:
+She sat there without saying anything. Then she leaned down, so that nobody else would hear, and said, very low:
 
 “Is it over? With Potter?”
 
@@ -190,7 +190,7 @@ Lyra waited.
 
 “I didn’t,” said Lyra. “Not until I wrote it.”
 
-The Sneakoscope, she thought, would not have moved. Moody seemed to think so too. He looked at her for a while, in the middle of the noise and the trunks and the owls, and then he grunted.
+The Sneakoscope, she thought, would not have moved. Moody seemed to think so too. He looked at her, in the middle of the noise and the trunks and the owls, and then he grunted.
 
 “I’ve been at this thirty years,” he said. “I took you for your father’s errand girl. I took that boy of yours for a fool. And I took Barty Crouch for the only honest man in the Ministry.” He shifted his weight on to the wooden leg. “Three for three.”
 
@@ -230,11 +230,11 @@ They were by the pillar, where they always stood. Her mother was a little behind
 
 And her father was smiling.
 
-He came forward through the steam with both hands out, as he always did, as he had every summer of her life, with his silver-topped cane under his arm and his hair like pale silk and his face lit up with a joy she had never once in her life seen him try to hide; and he put his arms round her, there on the platform, in front of everybody, and held her tight.
+He came forward through the steam with both hands out, as he always did, as he had every summer of her life, with his silver-topped cane under his arm and his hair like pale silk and his face lit up with a joy he did not try to hide; and he put his arms round her, there on the platform, in front of everybody, and held her tight.
 
 As he lifted his arms, his left sleeve slid back an inch from his wrist.
 
-It was only an inch. Nobody else on that platform would have seen it. Lyra saw it, at the edge of her eye, against the pale skin of the inside of his forearm, as he folded her in: the edge of something dark. Not grey. Not faded, as it had been all her life, if it had been anything at all, under every sleeve she had ever seen him wear.
+It was only an inch. Nobody else on that platform would have seen it. Lyra saw it, at the edge of her eye, as he folded her in: on the pale inside of his forearm, where she had never once thought to look, the edge of something dark.
 
 Black.
 
