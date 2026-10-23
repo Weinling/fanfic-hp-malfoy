@@ -1,12 +1,8 @@
 # Chapter 36: Below Stairs
 
-Mad-Eye Moody passed them on the fifth-floor landing on the first Tuesday in March, coming down as they went up, and did not say a word.
+“Dumbledore sent for me,” said Potter, on the fifth-floor landing. “Last night.”
 
-The blue eye came round as he passed and settled on the two of them, Lyra on the inside by the banister and Potter on the outside with his bag over one shoulder, and stayed on them, swivelling slowly backwards in his head as he went on down the stairs, *clunk* and step, until the turn of the staircase took him out of sight. It was the look a man gives two coins he suspects of being forged. Lyra had been getting it twice a week since January, in lessons, and had stopped minding it in February, more or less.
-
-Potter waited until the leg had gone right down to the fourth floor.
-
-“Dumbledore sent for me,” he said. “Last night.”
+It was the first Tuesday in March. Moody had gone down past them a moment before without a word, the blue eye turning backwards in his head to keep them in it, as a man keeps an eye on two coins he suspects of being forged; Lyra had been getting that look twice a week since January, and had stopped minding it in February, more or less.
 
 Lyra did not stop climbing. “What for?”
 
@@ -24,9 +20,7 @@ Potter shifted the bag on his shoulder.
 
 Lyra climbed two more steps.
 
-She put it with the rest. It went in beside *I know* and *I was sure* and a dead man said twice, and it did not settle there, it lay on top of the others and would not go down; and she noticed, besides, the thing that was stranger than any of it: he had told her. She had not asked. She had not so much as looked at him in the way that meant *ask me*. He had simply come up the stairs beside her on a Tuesday morning and told her what Dumbledore had said to him in the night, as though it were the most natural thing in the world, as though they did that.
-
-She did not say any of that, in case he stopped.
+He had told her. She had not asked. She did not say so, in case he stopped.
 
 “Well,” said Lyra. “He’s quite right. It *is* troubling. You’re very rarely completely anything. You’re usually only completely wrong.”
 
@@ -48,7 +42,7 @@ He laughed, and they went on up to the seventh floor, and at the door of the Ari
 
 “Nothing,” said Potter. “See you at lunch.”
 
-He went off down the corridor with his hands in his pockets, and Lyra went in to Arithmancy and sat down in her usual place by the window, and opened her book at the right page, and looked at the tables of values for some time without reading them.
+He went off down the corridor with his hands in his pockets, and Lyra went in to Arithmancy and sat down in her usual place by the window, and opened her book at the right page, and sat with her quill in her hand until Professor Vector had to say her name twice.
 
 ⁂
 
@@ -58,7 +52,7 @@ It was not, Lyra decided, what she had imagined. She had imagined it a great man
 
 She did not mind as much as she would have expected. She minded Weasley, a little.
 
-The Three Broomsticks was as hot and crowded and loud as it had been the first time, in her third year, when she had come in out of the rain and seen Potter across the room and not looked at him for an hour. Today he went to the bar for four butterbeers and came back with them, and sat down next to her at a table in the middle of the room where everybody could see, and the whole pub watched him do it. A table of Ravenclaws by the window had stopped talking altogether. Two Slytherin sixth-years at the bar were looking at her as though she had come in wearing a hat made of cabbages.
+The Three Broomsticks was as hot and crowded and loud as it had been the first time, in her third year, when she had looked for him in it and not found him. Today he went to the bar for four butterbeers and came back with them, and sat down next to her at a table in the middle of the room where everybody could see, and the whole pub watched him do it. A table of Ravenclaws by the window had stopped talking altogether. Two Slytherin sixth-years at the bar were staring at her over their tankards.
 
 Lyra took her butterbeer, and looked at the table of Ravenclaws until they started talking again.
 
@@ -78,15 +72,13 @@ Lyra took her butterbeer, and looked at the table of Ravenclaws until they start
 
 Weasley went red. “It is *not*—”
 
-“You have one Sickle in your pocket,” said Lyra, “and you’ve been holding it since the gates, because you think nobody can see you doing it.”
-
-Weasley took his hand out of his pocket, empty. Granger, without looking up from her book, said, “She’s got you there, Ron,” and turned a page.
+Granger, without looking up from her book, said, “She’s got you there, Ron,” and turned a page.
 
 “Whose side are you on?”
 
 “Nobody’s. I’m reading.”
 
-They argued about it for ten minutes, and then about the Chudley Cannons for another ten, and then about whether Krum would have caught the Snitch at the World Cup if Lynch had not hit the ground first. It was not an argument; Lyra had been in the top box and Weasley had been in the row in front of her, and they both knew perfectly well what had happened; and somewhere in the middle of it Lyra realised that she was enjoying herself. It was a peculiar feeling. She had quarrelled with Weasley at intervals for nearly four years, on staircases and in the grounds and on the gravel outside the doors, and every one of those quarrels had been meant. This one was not. They were both doing it because it was what they did, like two old men on a village bench who would be lost without the other one to be wrong.
+They argued about it for ten minutes, and then about the Chudley Cannons for another ten, and then about whether Krum would have caught the Snitch at the World Cup if Lynch had not hit the ground first. It was not an argument; Lyra had been in the top box and Weasley had been in the row in front of her, and they both knew perfectly well what had happened; and somewhere in the middle of it Lyra realised that she was enjoying herself. She had quarrelled with Weasley at intervals for nearly four years, on staircases and in the grounds and on the gravel outside the doors, and every one of those quarrels had been meant. This one was not. They were both doing it because it was what they did, like two old men on a village bench who would be lost without the other one to be wrong.
 
 She thought of saying so, and decided he would take it badly, and said instead that the Chudley Cannons had not won a match since the reign of Queen Victoria, which he took worse.
 
@@ -98,7 +90,7 @@ When they came out it had begun, very lightly, to rain, the fine silvery rain of
 
 They were outside the post office. Lyra had stopped to pull her hood up, and Potter had stopped because she had, and he looked at her, in the rain, with drops on his glasses and the High Street going past on either side of them; and then he bent his head and kissed her.
 
-It was very short. It was not for luck, or to stop her saying anything, or because there was a dragon. It was in the middle of Hogsmeade on a wet Saturday afternoon, between the post office and a shop that sold quills, and there was no reason for it.
+It was very short, in the middle of Hogsmeade on a wet Saturday afternoon, between the post office and a shop that sold quills.
 
 “Oh, *honestly*,” said Weasley, from the window of Dervish and Banges.
 
@@ -174,7 +166,7 @@ Lyra did not pat her.
 
 “Sit up, Winky,” she said.
 
-She said it in her mother’s voice: the voice for the drawing room when something had been spilt, quiet and certain and not unkind. It went through Winky like a bell. The elf sat up, all at once, on her stool, with her hands in her lap and her ears up, and stopped crying in the middle of a sob, as she must have stopped a thousand times before in another house, for another voice.
+She said it in her mother’s voice: the voice for the drawing room when something had been spilt, quiet and certain and not unkind. It went through Winky like a bell. The elf sat up on her stool, with her hands in her lap and her ears up, and stopped crying in the middle of a sob, as she must have stopped a thousand times before in another house, for another voice.
 
 “That’s better. Drink your butterbeer, if you must. And tell me about Mr Crouch.”
 
@@ -214,7 +206,7 @@ Winky looked at her.
 
 Lyra looked at the fire.
 
-She knew a house where an elf had cried for a week in the scullery because she was sure she would be sent away; and a girl who had sat on the end of her bed in that house at Christmas and sworn to be first on her knees, if it came to it, for the family at the head of the table. She knew what it was to want to stay in a house, even a house with something wrong in it. She had never heard anybody say it so plainly.
+She knew a house where an elf had cried for a week in the scullery because she was sure she would be sent away. She knew what it was to want to stay in a house, even a house with something wrong in it. She had never heard anybody say it so plainly.
 
 “A house is a house,” said Lyra at last. “Even when the master is a fool.”
 
@@ -228,11 +220,11 @@ She went back to the kitchens once more, in the first week of April, and came aw
 
 She took it down the lawn on a bright, cold morning to the pumpkin patch behind Hagrid’s cabin, where the hippogriff was tethered, and stopped at the proper distance, and bowed. Buckbeak looked at her with one fierce orange eye. Then he bent his scaly knees and bowed back, and she went up to him and unwrapped the paper and held it out on the flat of her hand, and he took it as delicately as a cat, and ate it, and allowed her to touch his neck.
 
-It had been on the books for fourteen months. She felt a good deal better.
+It had been on the books for fourteen months. She walked back up the lawn lighter by a steak.
 
 Hagrid was at his window. She saw the curtain move. He did not come out, and she did not go to the door, and they left it at that; but when she looked back from the top of the slope, the curtain had been pulled right back, and he was still there.
 
-That week she finished the letter to Professor Lupin, which had said *Dear Professor Lupin* and nothing else since November. It came to a page. It did not ask him anything, and it did not tell him anything he would not already know, and she thought, reading it over, that he would understand it perfectly.
+That week she finished the letter to Professor Lupin, which had said *Dear Professor Lupin* and nothing else since November. It came to a page, about Buckbeak, mostly, and the weather, and she signed it *Yours sincerely*, exactly as he had, and thought he would understand that perfectly.
 
 Draco’s letter came on the Saturday.
 
@@ -240,6 +232,6 @@ It was short, for Draco, and almost all of it was about the Falmouth Falcons, wh
 
 *The gentleman has gone abroad for a few weeks, to see some old friends. He says he has not seen them in a very long time and it is high time he did. He left me his chess set to practise on while he is away, the one with the pieces that argue, and he says when he comes back he will beat me in twelve moves instead of nine, so I am practising very hard.*
 
-Lyra laughed at the twelve moves.
+Lyra laughed at the twelve moves, a little late.
 
 She wrote back to him that night, a whole page, to tell him that she would write to Father about the broom when the Falcons had won a match, and that if he lost in twelve moves he was not trying, and that he should keep his queen at home until the gentleman had brought his out.
