@@ -89,3 +89,49 @@ Dumbledore did not say where. He did not say how. He said that it would be the w
 Then he sat down, and the feast was over.
 
 Along the Slytherin table, nobody said anything. That was the thing she would remember, afterwards, when she remembered that night: not the scream, but the silence on her own side of the Hall. It was not the silence of the other three tables, which was the silence of people who were frightened. Some of it was that. Some of it, here and there along the bench, in a face she had sat beside for four years, was something else entirely, held very carefully, so as not to show.
+
+⁂
+
+The Slytherin common room, that night, was full and very quiet.
+
+Nobody had gone up to bed. They were sitting about in the green lamplight in twos and threes, the way people sit at a funeral before the family comes in, and talking in voices so low that the fire was the loudest thing in the room; and every few minutes somebody looked up at the stone wall that was the door, as if they expected it to open and let something in. In one corner a knot of sixth-years whose fathers Lyra knew were sitting very close together, not talking at all. At the table by the window two second-years were crying, quietly, into a book, and pretending not to. Parkinson was standing by the fire with his hands in his pockets, explaining to nobody in particular that it was all nonsense, that Dumbledore was an old man who wanted attention, in the high fast voice of somebody who did not believe a word of it.
+
+And here and there, in a face she knew, there was the other thing. Not fear. A kind of bright, careful stillness, like somebody holding a cup that was too full.
+
+Lyra stood in the doorway and looked at them all.
+
+She was tired to the bone. She had not slept properly since the lake. She wanted, more than she had ever wanted anything, to walk through that room without a word and up the stairs and draw the hangings round her bed and not come out until the train. Nobody in that room would have stopped her.
+
+She did not do it.
+
+“What is this?” said Lyra.
+
+They looked round at her, all of them, every face in the room.
+
+“Look at you. Huddled in corners like chickens in the rain. Whispering.” She came into the middle of the room, under the green lamp, where all of them could see her. “What do you think you are?”
+
+Nobody answered.
+
+“I’ll tell you what you are,” said Lyra. “Every one of you in this room is the heir of a house. A *great* house, most of you. Older than the Ministry. Older than half this castle. Whatever is going on out there, and whatever anybody says about it, and whoever is or isn’t back, that has not changed, and it is not going to change, and I will not have you sitting in the Slytherin common room looking as though you’d like to crawl under the furniture.” She looked round at them, slowly, one face after another. “Nobody makes himself small in this room. Not tonight. Not ever. Do you understand me?”
+
+There was a pause.
+
+Then one of the crying second-years wiped her face with the back of her hand and sat up straight. One of the sixth-years by the window laughed, short and surprised, and said, “Yes, Your Highness,” and two or three people laughed with him; and the room, very gradually, began to sound like a room again.
+
+Lyra let it. She went across to the fire and sat down in her own chair, as she did every night, as though nothing whatever had happened.
+
+Crabbe came and sat on the arm of it.
+
+She sat there for a while without saying anything. Then she leaned down, so that nobody else would hear, and said, very low:
+
+“Is it over? With Potter?”
+
+Lyra looked at the fire.
+
+“Yes,” she said. “It was a short romance. That’s all. It was never going to be anything else.”
+
+Crabbe said nothing.
+
+She did not believe it. Lyra could feel her not believing it, the whole length of her, sitting there on the arm of the chair. Crabbe had seen a hand on a sleeve on a lawn when they were eleven, and had kept her mouth shut about it for three and a half years so as not to make her stop; and she sat there now and heard the lie, and knew it for what it was, and did not say so.
+
+She only put her hand on Lyra’s arm, and left it there.
