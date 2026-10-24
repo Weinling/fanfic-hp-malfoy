@@ -166,7 +166,7 @@ He went through it again. He went through it a third time, slowly, the whole yea
 
 He did not know.
 
-It was a very strange feeling. He sat in the dark and turned it over and could not get used to it. He had not not-known anything that mattered for so long that he had forgotten what it was like: the cold of it, the size. It was like stepping off the last stair in the dark and finding there was one more.
+It was a very strange feeling. He sat in the dark and turned it over and could not get used to it. He had not not-known anything that mattered for so long that he had forgotten what it was like: the cold of it, the size. It was like reaching for a banister in the dark and finding the wall.
 
 “Harry,” said Sirius, after a long while, from the other side of the dark. “You all right?”
 
@@ -180,13 +180,13 @@ On the Sunday the locks began at the wrong time.
 
 It was not morning; the morning basket had come and gone hours ago. Harry was on his feet before the third lock had turned. The lid went up, and the light that came down the shaft was the low gold of a winter afternoon, and the face that looked over the edge of it was not Moody’s.
 
-It was long, and old, and bearded, and it wore half-moon spectacles, and it looked down at the two of them for a moment without saying anything at all.
+It was long, and old, and bearded, and it wore half-moon spectacles, and it looked down at the two of them for a moment without saying anything.
 
 “I gather,” said Professor Dumbledore, “that you have been looking for somebody, Harry.”
 
 Harry looked up at him.
 
-He knew that look. He had known it all his life, both of his— he had known it for years: the blue eyes over the half-moon glasses, light and kind and seeing straight through to the back of whatever you had decided not to say. It was not that look. It was something else. It rested on him from the top of the shaft, and it was kind still, and underneath the kindness, for the first time Harry could remember, there was a question.
+He knew that look. He had known it for years: the blue eyes over the half-moon glasses, light and kind and seeing straight through to the back of whatever you had decided not to say. It was not that look. It was something else. It rested on him from the top of the shaft, and it was kind still, and underneath the kindness, for the first time Harry could remember, there was a question.
 
 “Yes, sir,” said Harry. “I got it wrong.”
 
@@ -196,8 +196,36 @@ He knew that look. He had known it all his life, both of his— he had known it 
 
 Dumbledore blinked.
 
-“A little after six.”
+“Nearly six.”
 
 The Ball. It was Christmas Day. It was six o’clock on Christmas Day, and the Ball was at eight, and Krum would be there, and Hermione, and all of Slytherin, and Malfoy in whatever her mother had sent her, on her own, at a table, with everybody looking.
 
 “Go,” said Sirius, behind him, and pushed.
+
+⁂
+
+The dormitory was empty. Everybody was downstairs, or dressing in the bathroom, or being shouted at by Lavender Brown in the common room about cufflinks; and Harry stood under the cold tap in the boys’ washroom with his head in the basin until he could think again, and came up streaming, and did not bother with a towel.
+
+The dress robes were on his bed, where Mrs Weasley’s parcel had been sitting since Tuesday: bottle green, very new, folded in tissue paper, with a note that said *To bring out your eyes, dear*. He got them on. He could not find the trousers that went with them. He looked under the bed, and in his trunk, and under Ron’s bed, and then he looked at the clock, and put the robes on over his school trousers, and did up the fastenings with his left hand, because the fingers of his right would not close properly over anything smaller than a doorknob.
+
+His tie would not go straight. He gave up on it.
+
+There was a long looking-glass by the door. He stopped in front of it, dripping on the floorboards, and looked at the boy in it: wet hair standing up, green robes, grey trousers, a red welt like a bracelet round one wrist, and the face of somebody who had spent three days at the bottom of a hole being wrong.
+
+He had something to say. He had made it up in the dark, on the Saturday, to have something to make up, and he had said it over in his head so many times that the words had gone smooth, like a stone you carry in your pocket. It was a good speech. It gave her a door. It meant that whatever anybody wrote to Wiltshire, there would be nothing in it, anywhere, that she had chosen.
+
+He said it to the glass.
+
+“I don’t suppose you’ve heard. I was going to bring Hermione, as it happens, and it turns out Krum got in first—” He put on the smile. “And you’ve been left as well, by the look of it. Champions have to have a partner, apparently. So I thought, since we’re both stuck—”
+
+“Less teeth, dear,” said the mirror.
+
+Harry looked at it.
+
+“And do something about that hair,” it added kindly. “You look as if you’ve been dragged up a drain.”
+
+“I have,” said Harry.
+
+He went down the stairs three at a time, and through the common room, and out of the portrait hole past the Fat Lady, who said something about the time that he did not stop for; and all the way down the moving staircases, with his hair dripping down the back of his neck and his hand not quite opening at his side, he said it over and over under his breath, the rueful bit and the bit about the rules and the bit about being stuck, like a spell he had not quite learned and meant to get right before he reached the bottom.
+
+On his right hand, as he came down the last flight into the Entrance Hall and the noise of the Ball came out to meet him through the great doors, the ring began, very faintly, to warm.
