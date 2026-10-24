@@ -6,6 +6,8 @@
 
 ## Ahora mismo
 
+- **EN CURSO (24 de octubre): reescribir los calcos de la oficial en el 33-40 y sus ecos**, por encargo del autor, que quiere verlos antes de cerrar. **Si se compacta, lee `docs/notas/sesion-calcos-31-40.md`**: reglas, lista de frases con su línea y casillas de estado. Hasta que el autor apruebe, commit y push solo a la rama. Cerrojo creado.
+
 - **HECHO (24 de octubre, sesión de revisión, sin tocar capítulos): revisión de la tanda 31-40 y del plan de la 41-50**, en `docs/notas/revisiones/revision-tanda-31-40.md` (leída la historia entera en texto, lo planeado, el rumbo, los resúmenes y los originales que pedía el encargo; consulta a Fable 003, «aceptable con cambios»). Lo principal: una docena de frases del 33 al 40 calcan la oficial (reescribir antes de publicar); el 41 debería abrir desde Lyra en la Mansión y cobrar el coste de Crouch; la tanda 41-50, hasta la Navidad del quinto, con un pago a mitad; faltan en el plan Draco en Hogwarts, Sirius y su muerte sabida, Pettigrew, el mapa, Snape y el Ministerio en el colegio. **Nueve decisiones para el autor en el §4 del informe.** El guion 41-50 espera a que las tome. Script de cotejo con la oficial: `docs/notas/cotejo-oficial/ngramas.py`.
 
 - **HECHO (24 de octubre, con el autor):** decisiones de Fable 002 (handoff §7 y §10; dos líneas en el 39) y el ***Interludio 1*, «The Seventh Lock»**, desde Harry, entre el 32 y el 33 (`borradores/interludio-1-the-seventh-lock.md`; ficha, crítica y manual `docs/capitulos/interludio-1.md`); el relato del baúl del 33, recortado. El siguiente paso exacto no cambia (abajo).
