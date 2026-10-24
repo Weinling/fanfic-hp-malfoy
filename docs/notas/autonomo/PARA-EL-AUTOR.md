@@ -2,6 +2,20 @@
 
 Lo pone al día cada sesión autónoma al terminar. Lo más nuevo, arriba.
 
+## 24 de octubre de 2026 (contigo delante)
+
+**Decisiones tomadas** (las pediste «directamente»; las revisó Fable, `docs/fable/002-mundo-harry-y-tanda-41.md`, «aceptable con cambios», y acepté sus cambios):
+- **Por qué Harry acierta tanto del 1 al 4:** no es destino, es él: no se atrevió a cambiar lo grande y fue sosteniendo el tablero; a Lyra le llega lo que el canon le hizo a Draco porque él no lo impide. Se rompe desde el regreso sin cementerio. Lo dirá Lyra en el quinto.
+- **Cómo acabó su otra vida:** el bosque y la luz verde, y nada después; no sabe si sirvió. Se revela en el sexto, con el Horrocrux. **No está decidido si Voldemort ganó en su mundo:** eso queda para el final, que es tuyo.
+- **Por qué existe Lyra:** es la premisa, «una moneda que cayó del otro lado»; no se explica con mecánica.
+- **Harry tendrá capítulos propios:** uno por tanda. El primero, el arranque del 41 (Harry abre la lata). **El 40 no se toca:** Fable rechazó ponerle una coda porque estropeaba el «held on».
+- **Ron y Hermione:** Hermione descubre en el quinto que Harry esconde algo y se lo saca antes que Ron.
+- **Extras:** *Year One* 5 y 6 (el Bosque y el espejo de Oesed) en la primera pausa del verano; *Year Two* 1 y 2 (las babosas y el Harry que finge morir) en una pausa del quinto.
+- **Capítulos propios, sin original:** permitidos, como mucho dos o tres de cada diez.
+- **Faltan unos 32 capítulos** (de 29 a 35), más 2 a 4 extras.
+
+**Lo que cambió en lo escrito:** solo dos líneas en el 39 («Half of what I knew happened to Draco.» y, al «Can’t», «His eyes went to the window, where the Forest was.»). Si ya subiste el 39 a Webnovel, cámbialas también allí.
+
 ## 23 de octubre de 2026, noche (sesión autónoma 1, de las 20:37 a las 22:00 por el reloj de la máquina)
 
 **Hecho: la tanda del 31 al 40 está terminada.** El cuarto curso acaba en el 40. Del 32 al 40 los he escrito yo en esta sesión, uno detrás de otro, cada uno con ficha (leyendo enteros sus capítulos de referencia del original), escritura escena a escena con commit, pasada de tics, crítica de un Opus (el mismo para los nueve), arreglos con decisión y motivo, manual y continuidad. Al despertar tienes la revisión de la tanda que mencionaste. El crítico dejó una valoración del arco entero (lo mejor, lo peor y qué vigilar) al final de `docs/notas/cap-40-critica.md`.

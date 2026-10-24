@@ -118,7 +118,7 @@ She waited.
 
 The owls had gone quiet.
 
-“He was in Madam Malkin’s,” said Potter, “the day I got my robes. On a stool, being pinned. He talked at me the whole time about Quidditch and Houses and people who oughtn’t to be let in. He offered me his hand on the train and I said no. He was in Slytherin, and he hated me, and I hated him, for seven years.” He stopped. “I’d been looking at you since Madam Malkin’s. After the corridor I couldn’t stop. When it all came back, in that corridor, and I went down to breakfast the next morning knowing exactly who everybody was, and what they were going to do, and how most of them were going to die—and there was a girl sitting at the Slytherin table where Draco ought to have been, and I didn’t know one single thing about her.”
+“He was in Madam Malkin’s,” said Potter, “the day I got my robes. On a stool, being pinned. He talked at me the whole time about Quidditch and Houses and people who oughtn’t to be let in. He offered me his hand on the train and I said no. He was in Slytherin, and he hated me, and I hated him, for seven years. Half of what I knew happened to Draco.” He stopped. “I’d been looking at you since Madam Malkin’s. After the corridor I couldn’t stop. When it all came back, in that corridor, and I went down to breakfast the next morning knowing exactly who everybody was, and what they were going to do, and how most of them were going to die—and there was a girl sitting at the Slytherin table where Draco ought to have been, and I didn’t know one single thing about her.”
 
 “You said once,” she managed at last, “that Draco hadn’t done a thing to anybody.”
 
@@ -132,7 +132,7 @@ He did not say what. She did not ask. She stood by the door with her back agains
 
 “How did it end?” she said. “Your other one.”
 
-“Can’t.”
+“Can’t.” His eyes went to the window, where the Forest was.
 
 “*Can’t?*”
 

@@ -53,8 +53,26 @@ Veredicto por decisión (sí / con cambios / no), con el porqué en dos líneas,
 
 ## Respuesta de Fable
 
-(pendiente)
+**Veredicto: aceptable con cambios.** Las ocho decisiones van en la dirección del rumbo aprobado y no chocan con el 001: D1 no es «el mundo rima», es su contrario (causa humana, y una ventaja que se hunde). Fallan dos cosas: la coda al 40 estropea el mejor final del cuarto y repite lo que el lector ya sabe por Moody; y D2, tal como estaba, cerraba la segunda capa antes de tiempo y ataba un final que el autor no ha decidido.
+
+- **Patrones:** no sembrar desde Harry lo que Lyra debe deducir sola; no meter material de su punto de vista en escenas de Lyra; no cerrar el pasado de Harry como hecho mientras la historia no tiene final; no añadir nada después de una imagen que ya sella.
+- **D1 — sí, con un recorte.** El tablero no rima solo: lo sostiene él, y se rompe cuando cambia lo grande. La primera grieta es suya: Pettigrew en manos de Dumbledore (22); el cuarto entero es Harry fingiendo que el mapa aún vale. Fuera «o lo empuja»: en el 6 la empuja a quitarse el vendaje para *evitar* el truco de Flint, y en el 5 Buckbeak la hiere por su propio insulto; si Harry carga con todo, Lyra pierde «su prejuicio le cuesta».
+- **D2 — con cambios.** Fijar el bosque y la cicatriz como puerta, no el resultado: fue al bosque a morir y no recuerda nada después de la luz verde. «Can’t» sigue siendo verdad por dos razones (contarlo es contar que debe morir, y no sabe si sirvió). Revelación, solo en el sexto, con la segunda capa; en el quinto, fragmentos sin sentido para ella.
+- **D3 — sí.** Premisa, no mecánica. Que Harry lo diga una vez, como moneda, y nadie vuelva a preguntarlo.
+- **D4 — sí al capítulo de Harry por tanda; no a la coda del 40.** «Held on» es el cierre; la coda volvería atrás en el tiempo; Moody ya contó lo de la nota. Esa escena, al arranque del 41 (Harry con la lata, Granger mirándole, la mentira). Regla: lo que siente y hace; la segunda capa, guardada como en el 16.
+- **D5 — sí,** y que enterarse Ron el último le cueste algo visible a Harry; y que Lyra sepa que Granger lo sabe (el «Him, and now you» deja de ser exclusivo).
+- **D6 — con cambios de sitio.** Los *Year One* 5 y 6 tras el primer capítulo del verano que no acabe en gancho (el 40 acaba en uno). El espejo: lo que ve Lyra en 1992, citable y compatible con 1995. Del original 77, fuera la escena final de sexto; los de segundo, que cuadren con el 1 y el 2 (grep antes de la ficha).
+- **D7 — sí, con tope:** dos o tres de diez sin referencia; la ficha de un capítulo propio dice qué capítulo del original salta y por qué.
+- **D8 — con cambios.** En el 39, solo «Half of what I knew happened to Draco.»; al «Can’t», la mirada a la ventana y el Bosque. En el 40, nada.
+- **Huecos que la tanda 41-50 tiene que cerrar:** (1) la cuenta de los Horrocruxes al empezar el verano (diario y guardapelo destruidos; la copa, la diadema, el anillo de Gaunt, Nagini, Harry) y qué hace Harry con el anillo de Gaunt, que sabe dónde está y que maldijo la mano de Dumbledore: es el motor de un Harry activo en el verano; (2) el anillo de Lyra, devuelto: si vuelve y cómo; (3) la mentira de Lyra del 37, en la cuenta de «quién sabe qué»; (4) Narcissa mirando a los Weasley en el andén: la puerta del quinto.
 
 ## Decisión y qué se hizo
 
-(pendiente)
+Se acepta todo (24 de octubre de 2026, sesión principal, con el autor delante: pidió decidirlo ya y sembrarlo desde la tanda anterior).
+- **D1:** decidido con el recorte. La causa la dirá Lyra en el quinto; la primera grieta, Pettigrew (22).
+- **D2:** el bosque, la luz verde y nada después; «Can’t» por las dos razones; revelación en el sexto con la segunda capa.
+- **D3:** premisa; Harry lo dirá una vez, como una moneda.
+- **D4:** un capítulo desde Harry por tanda. La coda del 40 **no** se pone; el borrador pasa a `borradores/cap-41-arranque-harry-borrador.md` como material del arranque del 41.
+- **D5, D6, D7:** como dice Fable.
+- **D8:** hecho en el 39 («Half of what I knew happened to Draco.»; «His eyes went to the window, where the Forest was.»). El 40 no se toca.
+- **Huecos:** apuntados en `docs/notas/sesion-nueva-tanda-41.md` para el guion de la tanda.

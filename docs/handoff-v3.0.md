@@ -100,6 +100,13 @@ El estado de cada uno al final del último capítulo está en la continuidad tra
 
 Viaje en el tiempo. Harry viene de un mundo donde Lyra no existe (el del canon, con Draco de su edad). Despierta en el Harry de once años en el pasillo del *Year One* 3, a finales del invierno de 1992, con la cicatriz como puerta: primero le entra el recuerdo de Voldemort con Snape y la profecía, y con él vuelve el Harry de la otra vida, a trozos. Antes de ese pasillo es un niño sin pasado. Lo propio de este mundo (el juramento) se lo contó Dumbledore, que conoce el secreto. Detalle, pruebas y agujeros: `docs/notas/lo-que-sabe-harry.md`.
 
+**Decidido el 24 de octubre (Fable 002), además:**
+- **Por qué acierta tanto del 1 al 4, y por qué a Lyra le pasan cosas de Draco:** no es destino, es Harry. No se atrevió a cambiar lo grande y fue sosteniendo el tablero donde lo conocía; Lyra ocupa el sitio social de Draco, y lo que el canon le hizo a Draco le llega a ella porque él no lo impide (no porque lo empuje: en el 5 Buckbeak la hiere por su propio insulto, y en el 6 él intenta evitar el truco de Flint). La primera grieta es suya: Pettigrew en manos de Dumbledore (22). Desde el regreso sin cementerio el tablero está roto. **La causa la formula Lyra, en el quinto**, no Harry. Sembrado en el 39: «Half of what I knew happened to Draco.»
+- **Cómo acabó la otra vida:** fue al bosque a morir, como en el canon, y no recuerda nada después de la luz verde; no sabe si sirvió. «Can’t» es verdad por dos razones (contarlo es contar que tiene que morir, y no sabe si funcionó). Se revela en el sexto, con la segunda capa; en el quinto, como mucho fragmentos sin sentido para Lyra. Sembrado en el 39: al «Can’t», «His eyes went to the window, where the Forest was.» **No se decide si Voldemort ganó en su mundo.**
+- **Por qué existe Lyra:** es la premisa, sin mecánica: una moneda que en este mundo cayó del otro lado antes de que Harry naciera. Harry lo dirá una vez, así, y nadie vuelve a preguntarlo.
+- **Puntos de vista de Harry:** desde el 39, un capítulo desde Harry por tanda (y alguna coda), con lo que siente y hace y fragmentos de su otra vida ligados a Lyra; la segunda capa se guarda como en el 16. El primero, el arranque del 41 (material: `borradores/cap-41-arranque-harry-borrador.md`). En su punto de vista la llama «Malfoy» o «she» (16); «Lyra», en momentos marcados (31).
+- **Ron y Hermione:** Hermione nota que Harry esconde algo que Lyra sabe y se lo saca a él en el quinto, antes que Ron; Ron se entera el último y a Harry le cuesta algo visible; Lyra sabrá que Granger lo sabe. Ron y Hermione, despacio, como en el canon.
+
 ## 8. Rumbo aprobado (18 de octubre)
 
 Detalle en `docs/notas/ideas-divergencias.md` (crítica de Fable en `docs/fable/001-divergencias.md`; poda en `docs/notas/ideas/poda-agente.md`).
@@ -138,7 +145,9 @@ Detalle en `docs/notas/ideas-divergencias.md` (crítica de Fable en `docs/fable/
 
 **Presencia de autor:** nota breve al final de cada capítulo con una sola pregunta pegada a la escena; agradecer en público a quien señale un error; pedir votos rara vez. El personaje de autora en Wattpad es Ash (skill `ash-wattpad-voice`).
 
-**Extras:** solo en pausas reales de la trama, nunca antes de un cliffhanger. Los *Year One* son de primero (1991-92); los extras de primero del original que quedan (el Bosque y el espejo de Oesed) se deciden al cerrar el cuarto.
+**Extras:** solo en pausas reales de la trama, nunca antes de un cliffhanger. **Decidido (24 de octubre, Fable 002):** *Year One* 5 y 6 (original 52, el Bosque, y 53, el espejo de Oesed, con lo que ve Lyra cambiado, citable y compatible con 1995) tras el primer capítulo del verano de 1995 que no acabe en gancho; *Year Two* 1 y 2 (original 76 y 77, sin la escena final de sexto del 77, cuadrando con el 1 y el 2) en una pausa del quinto.
+
+**Capítulos propios** (sin capítulo de referencia, etiqueta «nuevo»): como mucho dos o tres de cada diez; la ficha dice qué capítulo del original salta y por qué. Sobre todo para la Casa y la Mansión.
 
 ## 11. Dónde está cada cosa
 

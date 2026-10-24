@@ -30,6 +30,25 @@
 - **Diggory** vivo y enemistado con Harry (38).
 - **Hilos sin tocar en la tanda:** el calentador del 13; la nota de Regulus; Lupin (contestada en el 36); Sirius (fuera desde el 33).
 
+## Decidido el 24 de octubre (con el autor; Fable 002) que el guion tiene que recoger
+
+Detalle en `docs/fable/002-mundo-harry-y-tanda-41.md` y en el handoff §7 y §10.
+- **D1, el tablero de Harry:** no es destino, es él; Lyra lo formula en el quinto («You kept the world the shape you knew, and I was standing where he stood», o parecido). Ya sembrado en el 39.
+- **D2, la otra vida:** el bosque, la luz verde, nada después. Fragmentos en el quinto; la revelación, en el sexto. No decidir si Voldemort ganó allí.
+- **D3, Lyra:** premisa; Harry lo dice una vez, como moneda.
+- **D4, Harry:** un capítulo desde Harry por tanda. **El 41 abre desde Harry** con la lata, Granger mirándole leer y la mentira: material en `borradores/cap-41-arranque-harry-borrador.md` (tiene que ganar algo que el lector no sepa ya por Moody).
+- **D5, Ron y Hermione:** Hermione se lo saca a Harry en el quinto, antes que Ron; Ron, el último, con coste; Lyra sabe que Granger lo sabe.
+- **D6, extras:** *Year One* 5 y 6 tras el primer capítulo del verano sin gancho; *Year Two* 1 y 2 en una pausa del quinto.
+- **D7, capítulos propios:** dos o tres de diez como mucho.
+- **Recuento:** quedan unos 32 capítulos (de 29 a 35), más 2 a 4 extras: verano y quinto hasta el Ministerio (original 54-74), 11-13; sexto (75-89, sin los extras), 8-10; Riddle, el plazo y el final (90-106), 9-11.
+
+## Huecos que el guion 41-50 tiene que cerrar (Fable 002)
+
+1. **La cuenta de los Horrocruxes** al empezar el verano: diario y guardapelo destruidos; la copa (pasada al quinto), la diadema, el anillo de Gaunt, Nagini y Harry. Qué hace Harry con el anillo de Gaunt, que sabe dónde está y que maldijo la mano de Dumbledore: motor de un Harry activo en el verano.
+2. **El anillo de Lyra**, devuelto en la lata (40): si vuelve y cómo.
+3. **La mentira de Lyra** (37; confesada sin contenido en el 39), en la cuenta de «quién sabe qué».
+4. **Narcissa** mirando a los Weasley en el andén (40): la puerta que se abre en el quinto.
+
 ## Avisos del crítico de la tanda 31-40 (para no repetir)
 
 - Tics que volvieron una y otra vez: «She did not need to», «she found (that)», «at all», «the way…» en serie, «for a long moment», «all at once», lecturas de cara, guardar algo «por dentro» junto a otras cosas, la cara quieta, «held his eyes», la sonrisa de la madre para las mujeres de los ministros, Moody yéndose con *clunk*, «Lyra read it twice», «It came out…».
