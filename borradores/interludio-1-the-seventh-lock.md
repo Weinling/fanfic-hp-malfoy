@@ -58,7 +58,7 @@ Moody came down twice a day.
 
 They learned to tell the time by him, since there was no other way. The locks would start, far above, one after another, and then the lid would go up and there would be a square of grey light, which was morning, or yellow, which was night; and then Moody would come down a ladder that had not been there before, very slowly, wooden leg first, with his wand out and a covered basket on his arm.
 
-He fed them. That was the thing Harry had not expected. Bread, and cheese, and cold sausages, and a jug of water, and once a slab of fruit cake that Sirius said must have come from the kitchens and Moody said had come from his sister. He put the basket down on the stone and stood back from it, and watched them eat, both eyes at once; and when they had finished he asked his questions.
+He fed them. That was the thing Harry had not expected. Bread, and cheese, and cold sausages, and a jug of water, and once a slab of fruit cake that Sirius said must have come from the kitchens and Moody said was none of his business. He put the basket down on the stone and stood back from it, and watched them eat; and when they had finished he asked his questions.
 
 “Who’s working you, Potter?”
 
@@ -74,13 +74,17 @@ That got him nothing but a long look from the blue eye, which went over Harry as
 
 Harry told him the truth, as far as it went. That he had thought somebody was working Moody. That he had thought they were close, and hidden. That the trunk was the one place in the office the map did not show.
 
-“And you thought,” said Moody, “that I’d not know if there was a man living in my own trunk.”
+“And you thought,” said Moody, “that I’d not know if there was a man living in my own trunk.” The blue eye narrowed. “Who?”
 
-Harry said nothing.
+Harry had not meant to say it. He was cold, and tired, and he had been wrong, and the name was the only thing he had left that was still true.
 
-“Why that trunk? Why the seventh? Why would there be anybody in it at all?”
+“Barty Crouch’s son.”
 
-He did not answer that. He sat on the cold stone with his back to the wall and looked up at the old man on the ladder, with his scarred face and his nose with the chunk out of it and his leg, and there were things he could have told Moody about trunks, and about what could be done to a man in the bottom of one for the best part of a year, and he did not tell him any of them. He only looked at him. He was sorry for him. It was not a thing he could explain.
+Moody went quite still on the ladder.
+
+“Barty Crouch’s son,” he said at last, very quietly, “has been in the ground twelve years. I stood at the grave, boy. I watched them fill it in.” He came down one more rung. “You weren’t born when they put him away. How do you know his name?”
+
+Harry did not answer that. He sat on the cold stone with his back to the wall and looked up at the old man on the ladder, with his scarred face and the chunk out of his nose and his leg, and there were things he could have told Moody about trunks, and he did not tell him any of them. He only looked at him. He was sorry for him, and it was not a thing he could explain.
 
 Moody looked back for a long time. Then he took the basket and went up the ladder, and the lid came down, and the locks went one by one.
 
