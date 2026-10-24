@@ -101,3 +101,57 @@ Moody lowered his wand.
 “I’m clean,” said Harry, through his teeth.
 
 “Maybe.” Moody put the wand away. “The ones who are good at it always are.”
+
+⁂
+
+The ring on his right hand had been cold since the lid came down.
+
+He had not noticed at first. Then, on the Thursday, sitting in the dark after the first basket, he had turned it on his finger out of habit and felt nothing at all: no warmth, no pull, nothing. He had held it up in front of his face and lit the tip of a wand he did not have, and remembered he did not have it, and sat there with his hand up in the black, feeling for the thing that had told him for a year and a half, every night, where she was and how.
+
+Nothing. Plain silver, as though it had never been anything else.
+
+He thought about her, hard, the way you were supposed to. He thought about her on a desk in a classroom on the third floor with the moon on the lake behind her, saying *whether I do is my decision*, and on the edge of a Quidditch pitch on a borrowed black broom with her hair coming down, and bent over a library table, upside down, correcting his Arithmancy without being asked. It did not warm. Wherever this was, the ring did not think it was anywhere.
+
+So she would be holding hers, he thought. Up there. She would be holding it and it would be silver, and she would not know why.
+
+That was worse than the floor, and the cold, and the cheese.
+
+He went over the plan instead, because it was something to do with his head. It was a good plan. It had been a good plan on the Wednesday afternoon, and it was a good plan now, as long as he was out by Sunday. Krum would ask Hermione; Krum always— Krum would ask Hermione, and Hermione would say yes, and keep it to herself, because he had asked her to. And Malfoy would go down to that ship and do what he had asked, because he had asked; and Krum would turn her down, because he had already asked somebody else; and on Sunday night the two of them would be the only champion and the only girl in the Great Hall without anybody, and nobody in Slytherin, or in Wiltshire, would be able to say she had chosen it.
+
+He had not told her. He had told himself there would be time, afterwards, when it was done.
+
+He thought of her going up that gangplank on her own. She would hate it. She would do it beautifully and hate every step.
+
+That night Sirius changed, without a word, and lay down against him in the dark, a great warm heavy weight of dog with his chin on Harry’s knee, and after a while Harry stopped shivering.
+
+He did not sleep. In the small hours he got up.
+
+The shaft went up into the dark, and the walls were rough stone, and he had been feeling them for two days. There were handholds, if you looked; and at the top of the seventh compartment, on the left, a foot below the lid, there was a gap, narrow and black, where one level of the trunk opened on to the next. Moody kept things up there. Harry had heard them moving.
+
+He climbed. He got his fingers over the lip of the gap and his elbow after them, and pulled, and put his head and his right arm through into a dry, close, leafy-smelling dark where something enormous was asleep.
+
+It did not stay asleep.
+
+Something came out of the black like a whip and wound round his wrist and *pulled*, and his wrist was on fire. He did not shout. He had his teeth shut on it. He hung there by one arm in the gap with the thing hauling at him and his feet going on the rough stone, and then there was a weight on his ankle, and teeth in the back of his jeans, and Sirius dragged him down bodily out of the gap and the pair of them fell the last six feet on to the floor of the seventh compartment in a heap.
+
+Far above them, something rustled furiously for a while in the dark, and then went quiet.
+
+Harry lay on his back on the stone, holding his wrist. It was swelling already. He could feel the ridge of it coming up under his fingers, hot as a stove.
+
+“Well,” said Sirius, human again, out of breath, somewhere near his feet. “That’s the way out ruled out, then.”
+
+In the morning Moody came down the ladder with the basket, and looked at the wrist, and did not say *I told you so*, because he had not told them anything.
+
+“South American,” he said. “Took it off a man in Lima in seventy-three. It holds a grudge.” He put the basket down. “Your girl was on the fourth floor yesterday afternoon, Potter. Asking her ring where you were.”
+
+Harry sat up.
+
+“It’s silver, she says. Just silver.” The blue eye rested on him. “Frightened her, I should think. She’s Lucius Malfoy’s, but she’s fourteen.”
+
+“What did you tell her?”
+
+“The truth. That wherever you are, that ring can’t reach you.”
+
+“That isn’t the truth.”
+
+“Every word of it,” said Moody, and went back up the ladder.
