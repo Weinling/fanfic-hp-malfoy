@@ -20,7 +20,7 @@ She put her wand under the table, and touched its tip to the blank, and the parc
 
 *He has asked after a certain book. I have told him what we know: that it was taken in the Ministry’s raids, the summer that Weasley’s people went through our cellars, and never seen again. You will say the same, if you are asked.*
 
-*Whatever anyone says to you, in that school or out of it, you are a Malfoy. I have never doubted it for a moment.*
+*You were never anything but ours. I have not doubted it for a moment.*
 
 *Your father.*
 
@@ -222,7 +222,7 @@ He stopped.
 
 He took a step towards her through the straw, and she held up one hand, and he stopped again.
 
-“And the third thing is you.” Her voice was quite steady. She did not know how. “You had me on credit for four years, Potter, and you never once told me the terms. You knew what I’d be before I was it. You moved me about like a piece on a board, from the first night, knowing exactly what every square was for, and the only reason I ever got anywhere you didn’t expect is that you didn’t know me. That was all I was to you, at the start. The one piece you couldn’t read.”
+“And the third thing is you.” Her voice was quite steady. She did not know how. “You had me on credit for four years, Potter, and you never once told me the terms. You knew what I’d be before I was it. You moved me about like furniture, from the first night, knowing exactly which room I would end up in, and the only reason I ever got anywhere you didn’t expect is that you didn’t know me. That was all I was to you, at the start. The one thing in the house you couldn’t place.”
 
 “That isn’t—”
 
@@ -238,11 +238,11 @@ She looked down at the ring on her finger. She did not take it off. Not here; no
 
 “They’ll want things from you,” said Potter. He said it fast and low, as though he had known for some time that he would have to say it and had worked out the words in advance. “Your father, and him. They’ll want you to tell them things. About me, about Dumbledore. Let them. I’ll make sure you’ve got enough to give them—enough that they keep you, enough that you’re useful—and nothing that costs you anything. Nothing that can come back on you. I can do that. I can keep you safe inside it, Lyra. You only have to—”
 
-“Don’t push your luck, Potter.”
+“Don’t insult me, Potter.”
 
 He stopped.
 
-“I don’t need your protection,” said Lyra. “I never have. If I am going to be on the other side of this, then I shall be on the other side of it, all the way, as myself. I am not going to stand in my father’s house being handed scraps by you to feed to my own family, like a bird you’ve trained to come to the window. I’d rather be nothing at all.”
+“I have never in my life needed looking after,” said Lyra, “and I am not going to start with you. If I am going to be on the other side of this, then I shall be on the other side of it, all the way, as myself. I am not going to stand in my father’s house being handed scraps by you to feed to my own family, like a bird you’ve trained to come to the window. I’d rather be nothing at all.”
 
 He looked at her.
 
@@ -256,6 +256,6 @@ It was slow, and not careful. His hands came up and held her arms, very hard, an
 
 When it stopped, she did not step back at once.
 
-“It’s the last time,” said Lyra, against his collar.
+“That was the last one,” said Lyra, against his collar.
 
-“We’ll see,” said Potter.
+“This year,” said Potter.

@@ -80,7 +80,7 @@ She had known that he had nobody at Christmas. She had known that his letters in
 
 “I shall. I know some very good ones. My father taught me one for boils that he says the Ministry has never been able to prove—”
 
-“No,” said Potter, and sat up. He was not smiling. “He’s still my uncle.”
+“No,” said Potter, and sat up. He was not smiling. “He’s the only uncle I’ve got.”
 
 She stared at him.
 
@@ -228,7 +228,7 @@ Bagman was standing over him, beaming, with the megaphone under his arm. “Harr
 
 Potter looked up at him. He was white with cold, and his lips were blue.
 
-“It’s not a task,” he said. “It’s a spectacle.”
+“You tied four people to the bottom of a lake,” he said, “so the stands would have something to look at.”
 
 Bagman’s smile stayed exactly where it was, as smiles do on men who have not heard what was said to them, and he went off to tell the judges.
 

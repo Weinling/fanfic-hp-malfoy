@@ -164,7 +164,7 @@ She could refuse. She saw, very clearly, what refusing would say in that room, w
 
 She stopped.
 
-“And I accepted,” said Lyra, “because I *wanted* to!”
+“And every time,” said Lyra, “I *wanted* him to!”
 
 To the last person in the world she would have said it to. Weasley had had half of it, once, on the gravel. Not Crabbe. Not him.
 
@@ -210,7 +210,7 @@ He sat back.
 
 Lyra said nothing.
 
-“And when he does,” said Moody, “one of you dies. You or Potter.” The magical eye had stopped moving, and there was something in it she had not seen there before and did not want, and it was worse than suspicion. “Can you keep your heart in one piece, girl?”
+“And when he does,” said Moody, “one of you dies. You or Potter.” The magical eye had stopped moving, and there was something in it she had not seen there before and did not want, and it was worse than suspicion. “Could you bear either one, girl?”
 
 He did not wait for an answer.
 

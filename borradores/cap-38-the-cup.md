@@ -118,7 +118,7 @@ He stopped.
 
 It was not a pause. Lyra had heard a great many men pause, at her father’s table, for effect. This was different. He simply stopped, in the middle of the word, with his hand still holding Potter’s and his eyes on nothing; and for a second, two, three, nothing happened behind his face. Then he started again, a beat late, exactly where he had left off, as though somebody had wound him up.
 
-“—very proud. In you, I find—” another stop; another beat “—reason to hope.”
+“—very proud. You are, I think—” another stop; another beat “—a credit to your school.”
 
 He let go of Potter’s hand. He turned his head, very stiffly, and looked at the crate.
 

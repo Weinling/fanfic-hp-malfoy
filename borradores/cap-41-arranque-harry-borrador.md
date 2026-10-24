@@ -14,7 +14,7 @@ The ring was on top, in a twist of tissue. Green. He held it in his palm for a w
 
 Then the note.
 
-He read it twice, because the first time the words would not stay still. *Congratulations on the Cup. This is where we end. The time we had was not entirely dull.* It was her best hand, the one she used for Snape’s essays and for being right. It was perfect. Every line of it was perfect, all the way across the page, except in the middle of the second line, where there was a gap.
+The first time, the words would not stay still. *Congratulations on the Cup. That will be all, Potter. You were, on the whole, worth the ink.* It was her best hand, the one she used for Snape’s essays and for being right. It was perfect. Every line of it was perfect, all the way across the page, except in the middle of the second line, where there was a gap.
 
 She did not leave gaps. He had watched her write for four years, upside down across library tables, and she had never once in her life left a space she had not meant.
 
@@ -24,7 +24,7 @@ He did not know what it was. He took out his wand anyway, and touched it to the 
 
 Harry sat very still in the hospital bed.
 
-In the other life he had walked past Barty Crouch for a year without once seeing him, because the man had worn another man’s face. In this one he had gone down a trunk with his wand lit, looking for the son, so sure of where the son would be that he had never once looked at the father; and the father had stood on a podium an arm’s length from him on Saturday night, and shaken his hand, and said *reason to hope*, and walked away with a crate of his blood. And she had seen it. She had stood in a crowd and looked at a face, and known it, because she had worn it once herself, on top of a desk, and thrown it off.
+In the other life he had walked past Barty Crouch for a year without once seeing him, because the man had worn another man’s face. In this one he had gone down a trunk with his wand lit, looking for the son, so sure of where the son would be that he had never once looked at the father; and the father had stood on a podium an arm’s length from him on Saturday night, and shaken his hand, and said *a credit to your school*, and walked away with a crate of his blood. And she had seen it. She had stood in a crowd and looked at a face, and known it, because she had felt it settle on her own face once, in the middle of a classroom, and thrown it off.
 
 He had spent four years being the one who knew things. He thought of all the times he had dealt them out to her, one at a time, in the order he chose. Nobody in either of his lives had ever sent him anything hidden.
 

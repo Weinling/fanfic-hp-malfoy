@@ -22,11 +22,11 @@ The note she wrote at the desk by the window, in her best hand, the one her moth
 
 *Congratulations on the Cup.*
 
-*This is where we end. The time we had was not entirely dull.*
+*That will be all, Potter. You were, on the whole, worth the ink.*
 
 *L. M.*
 
-She left a gap in the second line. Between *we end* and *The time*: a blank in the middle of the sentence, the width of two fingers, where nothing was written. No one who had ever seen her hand would believe she had left it by accident. She did not leave gaps.
+She left a gap in the second line. Between *Potter.* and *You were*: a blank in the middle of the sentence, the width of two fingers, where nothing was written. No one who had ever seen her hand would believe she had left it by accident. She did not leave gaps.
 
 She took out her wand and touched its tip to the blank.
 
@@ -108,11 +108,11 @@ She did not do it.
 
 They looked round at her, all of them, every face in the room.
 
-“Look at you. Huddled in corners like chickens in the rain. Whispering.” She came into the middle of the room, under the green lamp, where all of them could see her. “What do you think you are?”
+“Look at you. Whispering in corners like servants who think the house is on fire.” She came into the middle of the room, under the green lamp, where all of them could see her. “What do you think you are?”
 
 Nobody answered.
 
-“I’ll tell you what you are,” said Lyra. “Every one of you in this room is the heir of a house. A *great* house, most of you. Older than the Ministry. Older than half this castle. Whatever is going on out there, and whatever anybody says about it, and whoever is or isn’t back, that has not changed, and it is not going to change, and I will not have you sitting in the Slytherin common room looking as though you’d like to crawl under the furniture.” She looked round at them, slowly, one face after another. “Nobody makes himself small in this room. Not tonight. Not ever. Do you understand me?”
+“I’ll tell you what you are,” said Lyra. “Every one of you in this room carries a name that was old when the Ministry was a desk and an inkpot. Older than half this castle. Whatever is going on out there, and whatever anybody says about it, and whoever is or isn’t back, that has not changed, and it is not going to change, and I will not have you sitting in the Slytherin common room looking as though you’d like to crawl under the furniture.” She looked round at them, slowly, one face after another. “This is our house, and nobody in it lowers his voice. Not tonight. Not ever. Do you understand me?”
 
 There was a pause.
 
@@ -128,7 +128,7 @@ She sat there without saying anything. Then she leaned down, so that nobody else
 
 Lyra looked at the fire.
 
-“Yes,” she said. “It was a short romance. That’s all. It was never going to be anything else.”
+“Yes,” she said. “A passing fancy. It has passed. That’s all.”
 
 Crabbe said nothing.
 

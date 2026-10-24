@@ -12,7 +12,7 @@ He was sitting at his table in his shirtsleeves, with no furs on; she had never 
 
 She sat.
 
-“The time has come,” said Karkaroff, “to choose.”
+“Soon,” said Karkaroff, “everybody will have to choose.”
 
 He said it to the glass, not to her. Then he looked up, and his eyes were very bright and not steady.
 
@@ -62,7 +62,7 @@ The whole knot of them collapsed laughing.
 
 Lyra had taken two steps across the flagstones towards them. Her mouth was already open on his name. It was what she did now; it was what she had done every morning since January, at the foot of the dungeon steps, in front of anybody who cared to look.
 
-“Har—”
+“Pot—”
 
 She shut her mouth on it.
 
@@ -108,11 +108,11 @@ She folded her hands on the desk.
 
 He had not expected that. She saw it go into him and stop.
 
-“A man I owe something to,” said Potter.
+“He has very good taste in brooms,” said Potter.
 
-“Not that.”
+“Potter.”
 
-She knew what that was: the diary. She had sworn him for the other one.
+She knew what that was: a door left open, so that she need not hear the rest. She had sworn him so that he could not leave her one.
 
 Potter took off his glasses and rubbed his eyes, and put them back on, and looked at her through them, and his face had gone cool and steady and a long way off, the face he wore for things that mattered.
 
@@ -120,7 +120,7 @@ Potter took off his glasses and rubbed his eyes, and put them back on, and looke
 
 “I want the truth.”
 
-“A man who lives off the Ministry’s favours,” said Potter, “and spends his money trying to pull it down. Who stood in a field last summer in a mask, with a Muggle family turning upside down in the air over his head, and shook hands with Fudge the next week at a charity lunch. Who put a diary in an eleven-year-old girl’s cauldron to get even with her father, and very nearly killed her with it.” He paused. “And who brought the diary into this castle, in the end, where it could be got at. Without meaning to.” He held her eyes. “A useful enemy.”
+“He put a diary in an eleven-year-old girl’s cauldron because he’d lost an argument with her father,” said Potter, “and she very nearly died of it, and he has never once said so to anybody. Last summer he stood in a field in a mask, with a Muggle family turning over and over in the air above his head, and the week after that he was at a charity lunch with Fudge, having his photograph taken.” He held her eyes. “I’d like to see him in Azkaban. And I’d like you never to have to visit.”
 
 Lyra nodded.
 
@@ -138,7 +138,7 @@ He did not interrupt.
 
 She leaned forward.
 
-“Some people are better at things than other people. That isn’t wickedness, Potter. It’s arithmetic. The Muggles know it perfectly well; they put the clever ones and the rich ones at the top and take their hats off to them, and nobody calls it a crime. And we can do things no Muggle has ever been able to do, not one, not since the beginning of the world, and what does the Ministry do with us? It makes us hide. There are families in this country older than this castle living in two rooms on nothing, because the Statute won’t let them lift a finger, and on the other side of their hedge there is a Muggle with a motor car and a television and no idea he’s next door to anything at all. That’s not the natural order of things. That’s the order turned upside down, on purpose, by people who are frightened of what we are.”
+“There are families in this country older than this castle living in two rooms on nothing, because the Statute won’t let them lift a finger to help themselves, and on the other side of their hedge there is a Muggle with a motor car and a television and no idea he’s living next door to anything at all. We can do things no Muggle has ever done, not one, not since the beginning of the world, and the Ministry’s answer is to make us hide it and be poor. That isn’t the natural order of things. That’s the order turned upside down, on purpose, by people who are frightened of what we are.” She held up a hand before he could speak. “Some people are better at things than other people, Potter. That isn’t wickedness. Nobody calls it wicked when the best Seeker gets the broom.”
 
 She said it in her own voice, as she had heard it said at her father’s table, over the port, a hundred times; and the odd thing was that, saying it, she believed it, all of it, every word, and at the same time could hear it, from the outside, the way he must be hearing it.
 

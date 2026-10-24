@@ -1,4 +1,4 @@
-# Chapter 33: Tomorrow Still Comes
+# Chapter 33: The Corner Table
 
 Potter could not dance.
 
@@ -94,11 +94,11 @@ Lyra thought of Pobble crying for a week in the scullery at the Manor, and for o
 
 “And Weasley?”
 
-“Oh.” Granger glanced across the Hall to a table near the band, where Weasley sat on his own in a set of dress robes that had plainly belonged to somebody’s great-aunt, glaring at Krum’s back. She shrugged. “He can sort himself out.”
+“Oh.” Granger glanced across the Hall to a table near the band, where Weasley sat on his own in a set of dress robes that had plainly belonged to somebody’s great-aunt, glaring at Krum’s back. She shrugged. “He’s a big boy.”
 
-“Can he.”
+“Is he.”
 
-“Eventually.”
+“Mostly.”
 
 Then Granger turned back and looked at her, and went on looking, with her chin in her hand and an expression Lyra did not care for in the least. It was the expression of a girl who has been handed a very small, very cross kitten and is trying not to laugh at it.
 
@@ -112,7 +112,7 @@ Lyra let that go, since she could see exactly what lay at the end of it.
 
 “Only that I wasn’t to tell anybody who I was going with. He asked me a month ago. I thought he meant because of the *Prophet*.” Granger took her hands down. “I didn’t know you’d— I didn’t know about the rest of it. He didn’t tell us anything. He told us he was off with his godfather for a few days and not to fuss.”
 
-“He moved me about,” said Lyra, “like a piece on a board.”
+“He moved me about,” said Lyra, “like furniture.”
 
 Granger stopped smiling.
 
@@ -146,9 +146,9 @@ Potter came back on his own, with three bottles of butterbeer held in a triangle
 
 Lyra took her bottle, and drank from it, and set it down on the table rather hard.
 
-“You might as well tell us now.”
+“I’m waiting.”
 
-“Tell you what?”
+“For what?”
 
 She looked at him.
 
@@ -236,7 +236,7 @@ Lyra turned and looked at Potter. Potter found something interesting in the Chri
 
 “It’s a curse, I’m afraid,” said Dumbledore, quite pleasantly, to the table at large. “The plant in question was confiscated from a gentleman in Lima a long time ago, and it has had a great many years in the dark to think about its grievances. If it is left, the mark will stay.”
 
-“Professor,” said Potter, “surely a man can have one scar that isn’t on his forehead.”
+“Professor,” said Potter, “I’ve only got the one scar. I was thinking of starting a collection.”
 
 “Hospital wing,” said Lyra. “Now. If you come back with that on your arm for good, Potter, I shan’t look at it, and I shan’t look at you either.”
 
@@ -250,11 +250,11 @@ Potter was still standing there.
 
 Lyra reached up, took hold of the end of his tie, which had never been straight all evening, and pulled, so that he had to bend down to her.
 
-“Tomorrow still comes,” she said, into his ear.
+“You still owe me a tomorrow,” she said, into his ear.
 
 *Go to bed, Malfoy. Tomorrow I’ll tell you everything.* She felt him hear it.
 
-“Tomorrow,” said Potter.
+“I hadn’t forgotten,” said Potter.
 
 She let go of the tie. He straightened it, crooked, and went off across the Hall at Dumbledore’s side, looking back twice before the crowd closed over him.
 
