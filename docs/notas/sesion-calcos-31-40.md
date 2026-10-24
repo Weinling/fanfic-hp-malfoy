@@ -42,4 +42,4 @@
 - [x] Ecos en el borrador del 41 y en los documentos (manuales del 33 al 40, continuidad, PARA-EL-AUTOR, `sesion-nueva-tanda-41.md`).
 - [x] Cotejo final: sin coincidencias que no sean genéricas.
 - [x] Tabla en `docs/notas/cotejo-oficial/calcos-31-40.md`.
-- [ ] Enseñado al autor; aprobado; push a `main`; cerrojo borrado.
+- [x] Enseñado al autor y **aprobado** (24 de octubre); push a `main`; cerrojo borrado. Nota cumplida.
