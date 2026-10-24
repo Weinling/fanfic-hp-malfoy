@@ -2,6 +2,14 @@
 
 Lo pone al día cada sesión autónoma al terminar. Lo más nuevo, arriba.
 
+## 24 de octubre de 2026, más tarde: el interludio desde Harry
+
+**Listo para subir:** ***Interlude: The Seventh Lock*** (`borradores/interludio-1-the-seventh-lock.md`, ~3.240 palabras), **entre el 32 y el 33**. Harry, sus tres días en el baúl de Moody: el anillo mudo desde su lado, Moody interrogándole («Clean. Or good.»), Sirius de perro, la planta, Moody contándole que Lyra preguntó al anillo, el «I got it wrong», Dumbledore abriendo la tapa y el discurso del Baile ensayado ante un espejo que se burla. No revela la otra vida (el crítico vigiló las frases que la delataban). Para el crítico, «el mejor de los dos interludios», en el grupo del 32 y el 37. Crítica: `docs/notas/interludio-1-critica.md`.
+
+**El 33 cambia:** el relato del baúl queda en unas líneas (~3.630 palabras ahora). Si ya lo habías subido, súbelo otra vez.
+
+**Orden de publicación** de la tanda: 31, 32, *Interlude*, 33, 34… 40.
+
 ## 24 de octubre de 2026 (contigo delante)
 
 **Decisiones tomadas** (las pediste «directamente»; las revisó Fable, `docs/fable/002-mundo-harry-y-tanda-41.md`, «aceptable con cambios», y acepté sus cambios):

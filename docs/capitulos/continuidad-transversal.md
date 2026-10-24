@@ -1,6 +1,6 @@
 # Continuidad transversal
 
-Hecho el 11 de octubre de 2026 a partir de todos los manuales y del handoff, tras el capítulo 28. Actualizado tras el 29 y tras el 30 (12 de octubre), tras el retoque del 25 al 30 (18 de octubre) tras el 31 al 40 (23 de octubre): la tanda 31-40 y el cuarto curso, cerrados. Recoge lo que está repartido por los manuales y se escapa con facilidad: los hitos de la pareja, quién sabe qué y desde cuándo, cómo está cada personaje, las fichas vivas y las deudas abiertas.
+Hecho el 11 de octubre de 2026 a partir de todos los manuales y del handoff, tras el capítulo 28. Actualizado tras el 29 y tras el 30 (12 de octubre), tras el retoque del 25 al 30 (18 de octubre) tras el 31 al 40 (23 de octubre): la tanda 31-40 y el cuarto curso, cerrados. Añadido el *Interludio 1* (24 de octubre), entre el 32 y el 33. Recoge lo que está repartido por los manuales y se escapa con facilidad: los hitos de la pareja, quién sabe qué y desde cuándo, cómo está cada personaje, las fichas vivas y las deudas abiertas.
 
 **Se actualiza al cerrar cada capítulo**, en el mismo paso que el manual. Si algo de aquí choca con el texto, manda el texto; corrige este archivo.
 
@@ -41,6 +41,7 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 | 24 nov. 1994 | 30 | La tienda de los campeones, antes del dragón: ella entra bajo la capa y le pone la mano encima; él se la coge. Le da la pluma de azúcar («Since Hallowe’en» / «…Which one?»). **Cuarto beso en la boca, el primero que empieza ella**, a través de la capa, un segundo, de despedida. Harry se queda deshecho: la mano contra la boca, rojo, riéndose sin ruido, «Lyra—» a nadie. Sin etiqueta de «cuenta» | Nadie (el escarabajo; el ojo de Moody, fuera, pasó de largo) | «It’s a dragon, Lyra.» / «She had sent him out to a dragon with *that* on his face.» |
 | 29 nov. 1994 | 31 | Tras el *Prophet* («A TRIANGLE?»), en un aula del tercer piso: él dice «We can’t go together»; ella le devuelve la capa, le gana la mano con Krum («Most things worth doing, I do before you ask») y se va con «Whether I do is my decision». **Sin pago romántico** (baja) | Nadie | «Do you trust me?» / «Why on earth would I?» |
 | 25 dic. 1994 | 32 | El Baile. Tres días sin él (el anillo en plata lisa; Lyra se lo pone en el dedo el 23). Él llega tarde con la tapadera de «los dos plantados»; **ella la rompe en público**: «Nobody left me anywhere, Potter. I turned Krum down» (mentira; Krum la confirma: «She refuse me»). Le coge la mano delante de todos; la marca de la muñeca. **La pareja es pública.** Los anillos, rosas, a la vista. Abren el baile | Todo el colegio, Durmstrang, Beauxbatons, los jueces (Karkaroff) | «You make me miserable.» / «I know.» |
+| 22–25 dic. 1994 | Int. 1 | Desde Harry, en el baúl: su anillo, también plata lisa; piensa en ella; Moody le cuenta que ella preguntó a su anillo («That isn’t the truth.» / «Every word of it»); al llegar al vestíbulo del Baile, el anillo se calienta | Moody, Sirius | «She would do it beautifully and hate every step.» |
 | 25 dic. 1994 | 33 | El baile: «Why did you do that?»; la disculpa que él no pide («No. You’d only have to forgive me»). **Por primera vez le cuenta dónde ha estado** (el baúl de Moody, tres días), delante de ella y de Granger; se guarda a quién buscaba. Ella le da el escarabajo y él ya lo sabía («I know»; «I was sure»). «Tomorrow still comes» | Granger (el relato); Dumbledore (la mirada) | «That isn’t an apology.» |
 | 9–20 ene. 1995 | 34 | Pareja pública: él la acompaña a Aritmancia cada mañana. Ante el chivatoscopio de Moody, ella dice **«I accepted because I *wanted* to!»**; él no lo sabe. En la coda él le coge la mano y mira el anillo rosa; ella pregunta por el hijo de Crouch y él miente («He’s dead», dos veces) | Moody (la confesión) | «Stay away from Moody.» |
 | 18–24 feb. 1995 | 35 | La orilla: ella resuelve el huevo y le sujeta del cuello de la túnica con la cabeza en el lago; **él le cuenta la alacena y que no sabe nadar** («He’s still my uncle»); ella le seca el pelo con su bufanda de cachemir y se la deja. Ella se niega a ser rehén. En la prueba, él sale con la bufanda puesta; ella le roba a Fleur el segundo beso, a la francesa | Weasley, Fleur, la escuela (la orilla) | «I didn’t want to lose it.» |
@@ -171,6 +172,13 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 - **Moody:** sabía dónde estaba Potter; a Lyra le dijo «that ring can’t reach him» y «I know where he isn’t».
 - **Dumbledore** ha vuelto el día de Navidad.
 - **Los anillos:** el baúl hechizado los tapa (plata lisa); en el baile, rosas los dos.
+
+### Lo que añade el Interludio 1 (24 de octubre; entre el 32 y el 33)
+- **Moody** sabe que Harry buscaba en su baúl al **hijo de Crouch** (Harry se lo dijo) y que no dice cómo sabe el nombre; le pasó un contramaleficio del Imperius el viernes por la noche («Clean. Or good.»). Les dio de comer dos veces al día.
+- **Harry** sabe que Lyra preguntó a su anillo el viernes (Moody se lo contó el sábado por la mañana). Se dio cuenta de que **no sabe quién mueve los hilos** («I got it wrong.» / «Not to me.»). Hay un sitio de su cabeza al que no va.
+- La **planta** del sexto compartimento: Moody se la quitó a un hombre en Lima en 1973.
+- **Dumbledore** volvió el domingo 25 por la tarde (Moody se lo contaba desde las cuatro) y los sacó hacia las seis; le dijo a Sirius que se fuera lejos.
+- La túnica de gala de Harry es de la señora Weasley; no encontró los pantalones de gala.
 
 ### Lo que cambia en el 33 (23 de octubre)
 - **Lyra y Granger** saben lo del baúl (Harry lo cuenta: Imperius supuesto, Sirius, la séptima cerradura, tres días, la planta del sexto compartimento; Moody es Moody). Harry no dice a quién buscaba («somebody who wasn’t there»).
