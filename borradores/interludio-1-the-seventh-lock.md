@@ -1,6 +1,6 @@
 # Interlude: The Seventh Lock
 
-The voice came out of the dark corner of the office, where there had been nothing a moment before, and Harry did not turn round at once.
+The voice came out of the dark corner of Moody’s office, three nights before the Ball, where there had been nothing a moment before, and Harry did not turn round at once.
 
 He knew whose it was. He had known, he thought afterwards, from the creak of the wooden leg, before the voice had said a word; and he stood with his lit wand held out over the edge of the empty shaft and looked down at the swept stone floor ten feet below, where somebody ought to have been, and let himself have one more second of not having to turn round.
 
@@ -50,7 +50,7 @@ Harry nearly laughed. It came up into his throat and stuck there, and turned int
 
 *Then I’ll say sorry.*
 
-He had said it on the stairs, an hour ago, quite easily. He had been so sure that he would not have to.
+He had said it by the trunk, a minute ago, quite easily. He had been so sure that he would not have to.
 
 ⁂
 
@@ -70,7 +70,7 @@ He fed them. That was the thing Harry had not expected. Bread, and cheese, and c
 
 That got him nothing but a long look from the blue eye, which went over Harry as though it were reading the inside of his head off the back of his skull, and found nothing there it liked.
 
-“A champion,” said Moody, on the Thursday night, “that nobody put in for, out of a cup that can’t be fooled. A boy who walks round with his godfather, who’s supposed to be in hiding, and doesn’t tell his own Head of House. Who lends me his map and then watches my door every night for a week. Who goes to the seventh lock of my trunk at midnight like a man going to his own front gate.” He leaned on his staff. “You tell me what that looks like, Potter, from where I’m standing.”
+“A champion,” said Moody, on the Thursday night, “that nobody put in for, out of a cup that can’t be fooled. A boy who walks round with his godfather, who’s supposed to be keeping out of sight, and doesn’t tell his own Head of House. Who lends me his map and then watches my door every night for a week. Who goes straight to the seventh lock of my trunk at midnight.” He leaned on his staff. “You tell me what that looks like, Potter, from where I’m standing.”
 
 Harry told him the truth, as far as it went. That he had thought somebody was working Moody. That he had thought they were close, and hidden. That the trunk was the one place in the office the map did not show.
 
@@ -80,11 +80,11 @@ Harry had not meant to say it. He was cold, and tired, and he had been wrong, an
 
 “Barty Crouch’s son.”
 
-Moody went quite still on the ladder.
+Moody stopped on the ladder.
 
 “Barty Crouch’s son,” he said at last, very quietly, “has been in the ground twelve years. I stood at the grave, boy. I watched them fill it in.” He came down one more rung. “You weren’t born when they put him away. How do you know his name?”
 
-Harry did not answer that. He sat on the cold stone with his back to the wall and looked up at the old man on the ladder, with his scarred face and the chunk out of his nose and his leg, and there were things he could have told Moody about trunks, and he did not tell him any of them. He only looked at him. He was sorry for him, and it was not a thing he could explain.
+Harry did not answer that. He sat on the cold stone with his back to the wall and looked up at the old man on the ladder, with his scarred face and the chunk out of his nose and his leg, and there were things he could have told Moody, and he did not tell him any of them. He only looked at him. He was sorry for him, and it was not a thing he could explain.
 
 Moody looked back for a long time. Then he took the basket and went up the ladder, and the lid came down, and the locks went one by one.
 
@@ -106,17 +106,17 @@ Moody lowered his wand.
 
 The ring on his right hand had been cold since the lid came down.
 
-He had not noticed at first. Then, on the Thursday, sitting in the dark after the first basket, he had turned it on his finger out of habit and felt nothing: no warmth, no pull. He had held it up in front of his face and lit the tip of a wand he did not have, and remembered he did not have it, and sat there with his hand up in the black, feeling for the thing that had told him since February, every night, where she was and how.
+He had not noticed at first. Then, on the Thursday, sitting in the dark after the first basket, he had turned it on his finger out of habit and felt nothing: no warmth, no pull. He had held it up in front of his face and lit the tip of a wand he did not have, and remembered he did not have it, and sat there with his hand up in the black, feeling for the thing that had told him, on and off since February, where she was and how.
 
 Nothing. Plain silver, as though it had never been anything else.
 
-He thought about her, hard, the way you were supposed to. He thought about her at the door of a classroom on the third floor, saying *whether I do is my decision*, and invisible in a tent with her hand over his, and bent over a library table, upside down, correcting his Arithmancy without being asked. It did not warm. Wherever this was, the ring did not think it was anywhere.
+He thought about her, hard, the way you were supposed to. He thought about her at the door of a classroom on the third floor, saying *whether I do is my decision*, and invisible in a tent with her hand over his, and across a library table with the lamp between them, reading his Potions essay upside down and correcting it without being asked. It did not warm. Wherever this was, the ring did not think it was anywhere.
 
 So she would be holding hers, he thought. Up there. She would be holding it and it would be silver, and she would not know why.
 
 That was worse than the floor, and the cold, and the cheese.
 
-He went over the plan instead, because it was something to do with his head. It was a good plan. It had been a good plan on the Wednesday afternoon, and it was a good plan now, as long as he was out by Sunday. Krum would ask Hermione; Krum always— Krum would ask Hermione, and Hermione would say yes, and keep it to herself, because he had asked her to. And Malfoy would go down to that ship and do what he had asked, because he had asked; and Krum would turn her down, because he had already asked somebody else; and on Sunday night the two of them would be the only champion and the only girl in the Great Hall without anybody, and nobody in Slytherin, or in Wiltshire, would be able to say she had chosen it.
+He went over the plan instead, because it was something to do with his head. It was a good plan, as long as he was out by Sunday.
 
 He had not told her. He had told himself there would be time, afterwards, when it was done.
 
@@ -160,9 +160,11 @@ Harry sat up.
 
 On the Saturday he did not climb anything. He sat against the wall with his wrist in his lap, and thought.
 
-If Moody was Moody, and he was; if the trunk was empty, and it had been swept, and had been empty a long time; then the strings were somewhere else. Somebody had put his name in the Goblet. Somebody had stood in the top box at the World Cup and sent that thing up into the sky over the tents. Somebody was close, and hidden, and close enough to do it again; and it was not in this trunk, and it was not the man on the ladder.
+If Moody was Moody, and he was; if the trunk was empty, and it had been swept, and had been empty a long time; then the strings were somewhere else. Somebody had put his name in the Goblet. Somebody had sent that thing up into the sky over the tents. Somebody was close, and hidden, and close enough to do it again; and it was not in this trunk, and it was not the man on the ladder.
 
 He went through it again. He went through it a third time, slowly, the whole year, every face at every table, as if he were going through a pocket for a key he knew he had put there.
+
+There was a place in his head he did not go, and had not gone for years; he did not go there now, in the dark, though it would have been the obvious place to look.
 
 He did not know.
 
@@ -186,7 +188,7 @@ It was long, and old, and bearded, and it wore half-moon spectacles, and it look
 
 Harry looked up at him.
 
-He knew that look. He had known it for years: the blue eyes over the half-moon glasses, light and kind and seeing straight through to the back of whatever you had decided not to say. It was not that look. It was something else. It rested on him from the top of the shaft, and it was kind still, and underneath the kindness, for the first time Harry could remember, there was a question.
+He knew that look. He had known it for years: the blue eyes over the half-moon glasses, light and kind and seeing straight through to the back of whatever you had decided not to say. It rested on him from the top of the shaft, and it was kind still, and underneath the kindness there was a question.
 
 “Yes, sir,” said Harry. “I got it wrong.”
 
@@ -216,7 +218,7 @@ He had something to say. He had made it up in the dark, on the Saturday, to have
 
 He said it to the glass.
 
-“I don’t suppose you’ve heard. I was going to bring Hermione, as it happens, and it turns out Krum got in first—” He put on the smile. “And you’ve been left as well, by the look of it. Champions have to have a partner, apparently. So I thought, since we’re both stuck—”
+“I don’t suppose you’ve heard. I was going to bring Hermione, as it happens, and it turns out Krum got in first—” He put on the smile. “And you’ve been left as well, by the look of it. Champions have to have a partner, apparently. It’s in the rules. So I thought, since we’re both stuck—”
 
 “Less teeth, dear,” said the mirror.
 

@@ -168,7 +168,7 @@ Potter looked impressed in spite of himself. He leaned out a little and said, qu
 
 He talked.
 
-He did not tell it well, and he did not tell it long. He had thought somebody was working Moody: not a disguise, since the map had said *Alastor Moody* all through September, but the Imperius, from close by, from somewhere the map did not show. Moody had a trunk with seven locks.
+He did not tell it well, and he did not tell it long. He told them about Moody, and the Imperius he had thought was on him, and a trunk with seven locks, and a place in it the map did not show.
 
 “How did you—” Granger began.
 
@@ -176,7 +176,7 @@ He did not tell it well, and he did not tell it long. He had thought somebody wa
 
 “He thought it was me,” said Potter. “Under the Imperius. A champion who breaks into his office at midnight with Sirius Black and goes through his trunk looking for somebody who isn’t there.” He made a short, unhappy noise that was not quite a laugh. “I’d have thought so too.”
 
-Three days, he said. Dumbledore had got back that afternoon and had them out by six. He turned his wrist over on the table, and the welt on it, and did not explain it, and Lyra did not ask.
+Three days, he said. Dumbledore had got back that afternoon and had them out by six. He turned his wrist over on the table, so that the welt showed, and did not explain it; and Lyra, who had asked once already, did not ask again.
 
 “And Moody?” said Lyra.
 
