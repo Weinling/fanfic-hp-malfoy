@@ -33,7 +33,7 @@ Lo pone al día cada sesión autónoma al terminar. Lo más nuevo, arriba.
 | Cap. | Título | Palabras | Ficha → borrador → cerrado | Para el crítico |
 |---|---|---|---|---|
 | 32 | *Plain Silver* | ~4.590 | 20:44 → 20:49 → 21:02 | a la cabeza del cuarto curso |
-| 33 | *Tomorrow Still Comes* | ~3.880 | 20:53 → 20:56 → 21:07 | «el más cálido desde el 27» |
+| 33 | *The Corner Table* (antes *Tomorrow Still Comes*) | ~3.880 | 20:53 → 20:56 → 21:07 | «el más cálido desde el 27» |
 | 34 | *Sneakoscope* | ~3.100 | 21:02 → 21:05 → 21:15 | gancho 9 |
 | 35 | *Spectacle* | ~4.350 | 21:09 → 21:13 → 21:21 | «lo mejor de Harry en el fic» (los Dursley) |
 | 36 | *Below Stairs* | ~3.220 | 21:17 → 21:20 → 21:25 | Winky, «la mejor escena secundaria del arco» |

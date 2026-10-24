@@ -38,8 +38,8 @@
 
 ## Estado
 
-- [ ] Reescritura en los capítulos.
-- [ ] Ecos en el borrador del 41 y en los documentos.
-- [ ] Cotejo final.
-- [ ] Tabla en `docs/notas/cotejo-oficial/calcos-31-40.md`.
+- [x] Reescritura en los capítulos (commit be44bc6, solo en la rama).
+- [x] Ecos en el borrador del 41 y en los documentos (manuales del 33 al 40, continuidad, PARA-EL-AUTOR, `sesion-nueva-tanda-41.md`).
+- [x] Cotejo final: sin coincidencias que no sean genéricas.
+- [x] Tabla en `docs/notas/cotejo-oficial/calcos-31-40.md`.
 - [ ] Enseñado al autor; aprobado; push a `main`; cerrojo borrado.

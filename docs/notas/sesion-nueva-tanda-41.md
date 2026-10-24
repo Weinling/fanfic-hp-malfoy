@@ -17,7 +17,7 @@
 
 ## Lo que la tanda siguiente tiene que recoger (de la tanda 31-40)
 
-- **Rotos.** «It’s the last time.» / «We’ll see.» (39). El crítico: nada de reencuentro rápido.
+- **Rotos.** «That was the last one.» / «This year.» (39). El crítico: nada de reencuentro rápido.
 - **El verano en la Mansión** con un padre marcado y un señor de la casita que «came back on Sunday» y «never felt better» (40, Draco). Abraxas pierde el control la noche del regreso (rumbo §8): tiene que notarse en casa.
 - **Lyra y el norte:** sabe la palabra y la casa; no lo ha dicho; la culpa del recado de noviembre.
 - **Harry, a ciegas por primera vez** (rumbo: Abraxas no existe en su mundo; el regreso no fue en un cementerio). Tiene que pedirle ayuda a ella (el motor, dado la vuelta).

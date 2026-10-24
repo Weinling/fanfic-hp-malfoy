@@ -1,0 +1,36 @@
+# Calcos de la oficial en el 33-40: frase vieja → nueva → dónde se cita
+
+*24 de octubre de 2026. Encargo del autor tras `docs/notas/revisiones/revision-tanda-31-40.md` (§2.2 y §2.8). Regla: cambia la frase, no el gesto ni el hecho; ninguna línea nueva sale de `referencia/oficial-en/`. Comprobado al acabar con `ngramas.py` (frases de cinco palabras) y con grep de cada frase nueva en toda la oficial: no queda ninguna coincidencia que no sea genérica («the Slytherin common room», «the hospital wing», «put your name in the Goblet»). **Pendiente de aprobación del autor.***
+
+| Cap. | Frase vieja | Oficial | Frase nueva | Ecos cambiados |
+|---|---|---|---|---|
+| 33 | Título: *Tomorrow Still Comes* | 36: «Tomorrow… is still coming» | *The Corner Table* (el archivo conserva su nombre) | Manual del 33; PARA-EL-AUTOR |
+| 33 | «He can sort himself out.» / «Can he.» / «Eventually.» | 36: «He can sort himself out.» | «He’s a big boy.» / «Is he.» / «Mostly.» | — |
+| 33 | «He moved me about like a piece on a board.» | 36: «like a piece on a board» | «He moved me about like furniture.» (eco de nuestro 23: «move her about like a piece of furniture») | 39; manuales del 33 y el 39 |
+| 33 | «You might as well tell us now.» / «Tell you what?» | 36: «You might as well tell us now.» | «I’m waiting.» / «For what?» | Manual del 33 |
+| 33 | «surely a man can have one scar that isn’t on his forehead» | 36: «surely a man can have a scar or two» | «I’ve only got the one scar. I was thinking of starting a collection.» | Manual del 33 |
+| 33 | «Tomorrow still comes.» / «Tomorrow.» | 36: «Tomorrow… is still coming…» / «Yes. Tomorrow.» | «You still owe me a tomorrow.» / «I hadn’t forgotten.» | Manual del 33 |
+| 34 | «And I accepted because I *wanted* to!» | 40: «I accepted because I wanted to!» | «He always asks first. And I—… And every time, I *wanted* him to!» | Manual del 34; continuidad §1 |
+| 34 | «Can you keep your heart in one piece, girl?» | 40: «can you keep your heart intact?» | «Could you bear either one, girl?» (a «one of you dies. You or Potter»; sigue «I couldn’t…») | Manual del 34 |
+| 35 | «He’s still my uncle.» | 37: «He’s still my uncle.» | «He’s the only uncle I’ve got.» | Manual del 35; continuidad §1 |
+| 35 | «It’s not a task. It’s a spectacle.» | 38: «It’s not a task, it’s a spectacle.» | «You tied four people to the bottom of a lake, so the stands would have something to look at.» (el título *Spectacle* se queda) | Manual del 35 |
+| 37 | «The time has come… to choose.» | 46: «The time has come to make a choice.» | «Soon… everybody will have to choose.» | Manual del 37 |
+| 37 | «Har—» | 46: «Har—» | «Pot—» (en público le llama Potter) | Manual del 37 |
+| 37 | «A man I owe something to.» / «Not that.» / «She knew what that was: the diary.» | 46: «A man I owe a debt of gratitude to.» / «Not that.» | «He has very good taste in brooms.» / «Potter.» / «a door left open, so that she need not hear the rest. She had sworn him so that he could not leave her one.» | Manual del 37 |
+| 37 | Harry: «A man who lives off the Ministry’s favours… shook hands with Fudge… Who put a diary… And who brought the diary into this castle… A useful enemy.» | 46: «A fool who lives off the Ministry’s favour… A hypocrite… the man who handed us the diary. A useful enemy.» | Empieza por el diario y por que nunca lo ha dicho; luego el campo y la foto con Fudge; cierra: «I’d like to see him in Azkaban. And I’d like you never to have to visit.» | Manual del 37; continuidad §1 y §4 |
+| 37 | Lyra: el principio («Some people are better… It’s arithmetic»), los muggles que ponen arriba a los listos, la magia, el Estatuto, las familias pobres | 46: el mismo orden de argumentos | Empieza por lo concreto (las familias en dos cuartos, el muggle del otro lado del seto), sigue con el Estatuto («make us hide it and be poor») y acaba en el principio: «Nobody calls it wicked when the best Seeker gets the broom.» Fuera los muggles que se quitan el sombrero | Manual del 37 |
+| 38 | «In you, I find— … —reason to hope.» | 49: «In you, I find… reason to hope…» | «You are, I think— … —a credit to your school.» | Manual del 38; borrador del 41 |
+| 39 | Lucius: «*Whatever anyone says to you… you are a Malfoy. I have never doubted it for a moment.*» | 46: «Whatever anyone says, you are a Malfoy.» | «*You were never anything but ours. I have not doubted it for a moment.*» (eco del «us» del 9) | Manual del 39; continuidad §4 |
+| 39 | «You moved me about like a piece on a board… knowing exactly what every square was for… The one piece you couldn’t read.» | 36 | «You moved me about like furniture… knowing exactly which room I would end up in… The one thing in the house you couldn’t place.» | Manual del 39 |
+| 39 | «Don’t push your luck, Potter.» / «I don’t need your protection. I never have.» | 46: «Don’t push your luck, Potter. Do you honestly think I need your protection?» | «Don’t insult me, Potter.» / «I have never in my life needed looking after, and I am not going to start with you.» | Manual del 39 |
+| 39 | «It’s the last time.» / «We’ll see.» | 46: «This is the last time.» / «We’ll see about that.» | «That was the last one.» / «This year.» | Manual del 39; continuidad §1; `sesion-nueva-tanda-41.md` |
+| 40 | La nota: *This is where we end. The time we had was not entirely dull.* (y el hueco «Between *we end* and *The time*») | 49: «This is where we end. The time we had wasn’t entirely dull.» | *That will be all, Potter. You were, on the whole, worth the ink.* (eco de su «That will be all, Potter» del 6; el hueco, entre *Potter.* y *You were*) | Manual del 40; continuidad §1; borrador del 41 |
+| 40 | «Huddled in corners like chickens in the rain.» | 50: «Huddled in your little corners… What are you, chicks?» | «Whispering in corners like servants who think the house is on fire.» | Manual del 40 |
+| 40 | «the heir of a house. A *great* house, most of you. Older than the Ministry.» | 50: «Each of you is the heir of a great house.» | «carries a name that was old when the Ministry was a desk and an inkpot.» | Manual del 40 |
+| 40 | «Nobody makes himself small in this room.» | 50: «do not cower and make themselves small» | «This is our house, and nobody in it lowers his voice.» | Manual del 40; continuidad §4 |
+| 40 | «It was a short romance. That’s all. It was never going to be anything else.» | 50: «It was just a brief romance.» | «A passing fancy. It has passed. That’s all.» | Manual del 40; continuidad §1 |
+| Borrador 41 | «on top of a desk» (error: en el 27 no se subió) y «He read it twice» (tic) | — | «felt it settle on her own face once, in the middle of a classroom»; «The first time, the words would not stay still.» | — |
+
+**No se tocan:** las críticas, las fichas y el informe de revisión, que son registro de lo que había. Del 31 y el 32, lo que viene del coreano («Do you trust me?», «You make me miserable», «Proof of hard work?») es adaptación del original coreano, no calco de la oficial inglesa.
+
+**Una duda que queda para el autor:** en el 37, Karkaroff dice de Albania «a very quiet country… A good country for a man who wishes to be quiet for a long time»; la oficial 46 dice «A quiet country… Quite ideal for a wizard in hiding». No es literal, pero la idea va en el mismo orden. Se puede dejar o cambiar.
