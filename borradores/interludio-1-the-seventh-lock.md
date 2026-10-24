@@ -106,7 +106,7 @@ Moody lowered his wand.
 
 The ring on his right hand had been cold since the lid came down.
 
-He had not noticed at first. Then, on the Thursday, sitting in the dark after the first basket, he had turned it on his finger out of habit and felt nothing at all: no warmth, no pull, nothing. He had held it up in front of his face and lit the tip of a wand he did not have, and remembered he did not have it, and sat there with his hand up in the black, feeling for the thing that had told him for a year and a half, every night, where she was and how.
+He had not noticed at first. Then, on the Thursday, sitting in the dark after the first basket, he had turned it on his finger out of habit and felt nothing at all: no warmth, no pull, nothing. He had held it up in front of his face and lit the tip of a wand he did not have, and remembered he did not have it, and sat there with his hand up in the black, feeling for the thing that had told him since February, every night, where she was and how.
 
 Nothing. Plain silver, as though it had never been anything else.
 
@@ -155,3 +155,49 @@ Harry sat up.
 “That isn’t the truth.”
 
 “Every word of it,” said Moody, and went back up the ladder.
+
+⁂
+
+On the Saturday he did not climb anything. He sat against the wall with his wrist in his lap, and thought.
+
+If Moody was Moody, and he was; if the trunk was empty, and it had been swept, and had been empty a long time; then the strings were somewhere else. Somebody had put his name in the Goblet. Somebody had stood in the top box at the World Cup and sent that thing up into the sky over the tents. Somebody was close, and hidden, and close enough to do it again; and it was not in this trunk, and it was not the man on the ladder.
+
+He went through it again. He went through it a third time, slowly, the whole year, every face at every table, as if he were going through a pocket for a key he knew he had put there.
+
+He did not know.
+
+It was a very strange feeling. He sat in the dark and turned it over and could not get used to it. He had not not-known anything that mattered for so long that he had forgotten what it was like: the cold of it, the size. It was like stepping off the last stair in the dark and finding there was one more.
+
+“Harry,” said Sirius, after a long while, from the other side of the dark. “You all right?”
+
+“I got it wrong.”
+
+“Yes.” Sirius did not try to make it better. Harry was grateful for that. “Happens.”
+
+“Not to me,” said Harry, and heard how it sounded, and did not take it back.
+
+On the Sunday the locks began at the wrong time.
+
+It was not morning; the morning basket had come and gone hours ago. Harry was on his feet before the third lock had turned. The lid went up, and the light that came down the shaft was the low gold of a winter afternoon, and the face that looked over the edge of it was not Moody’s.
+
+It was long, and old, and bearded, and it wore half-moon spectacles, and it looked down at the two of them for a moment without saying anything at all.
+
+“I gather,” said Professor Dumbledore, “that you have been looking for somebody, Harry.”
+
+Harry looked up at him.
+
+He knew that look. He had known it all his life, both of his— he had known it for years: the blue eyes over the half-moon glasses, light and kind and seeing straight through to the back of whatever you had decided not to say. It was not that look. It was something else. It rested on him from the top of the shaft, and it was kind still, and underneath the kindness, for the first time Harry could remember, there was a question.
+
+“Yes, sir,” said Harry. “I got it wrong.”
+
+“So I understand.” Dumbledore’s voice was very mild. “Alastor has been telling me so, at some length, since a little after four.” He looked at Sirius. “Sirius, I think you had better go, and go a long way, and quickly. Harry—”
+
+“What time is it?”
+
+Dumbledore blinked.
+
+“A little after six.”
+
+The Ball. It was Christmas Day. It was six o’clock on Christmas Day, and the Ball was at eight, and Krum would be there, and Hermione, and all of Slytherin, and Malfoy in whatever her mother had sent her, on her own, at a table, with everybody looking.
+
+“Go,” said Sirius, behind him, and pushed.
