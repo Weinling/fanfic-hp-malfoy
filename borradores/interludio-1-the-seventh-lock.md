@@ -14,7 +14,7 @@ Moody was standing by the window. He had the Marauder’s Map in one hand, folde
 
 “Alastor—” said Sirius.
 
-“Not a word from you. Not one.” Moody did not raise his voice. He had never needed to. “You’re a man the Ministry’s stopped looking for, Black. That isn’t the same thing as a man the Ministry’s finished with, and well you know it. You’re in my office at one in the morning with a champion of this Tournament, and he’s just opened the seventh lock of my trunk as if he’d been given the key.” The blue eye swivelled, very slowly, to the shaft, and back. “What were you looking for, Potter?”
+“Not a word from you. Not one.” Moody did not raise his voice. He had never needed to. “You’re a man the Ministry’s stopped looking for, Black. That isn’t the same thing as a man the Ministry’s finished with, and well you know it. You’re in my office in the middle of the night with a champion of this Tournament, and he’s just opened the seventh lock of my trunk as if he’d been given the key.” The blue eye swivelled, very slowly, to the shaft, and back. “What were you looking for, Potter?”
 
 Harry said nothing.
 
@@ -32,7 +32,7 @@ It was ten feet. Sirius went first, lowering himself over the lip and dropping t
 
 He went down.
 
-The lid came over. The light went, all of it, all at once, and then in the dark they heard the locks: seven of them, one after another, each with its own small sound, a click and a turn and a click, unhurried, like a man doing up the buttons on a coat.
+The lid came over. The light went, all of it, and then in the dark they heard the locks: seven of them, one after another, each with its own small sound, a click and a turn and a click, unhurried, like a man doing up the buttons on a coat.
 
 Then nothing.
 
@@ -51,3 +51,49 @@ Harry nearly laughed. It came up into his throat and stuck there, and turned int
 *Then I’ll say sorry.*
 
 He had said it on the stairs, an hour ago, quite easily. He had been so sure that he would not have to.
+
+⁂
+
+Moody came down twice a day.
+
+They learned to tell the time by him, since there was no other way. The locks would start, far above, one after another, and then the lid would go up and there would be a square of grey light, which was morning, or yellow, which was night; and then Moody would come down a ladder that had not been there before, very slowly, wooden leg first, with his wand out and a covered basket on his arm.
+
+He fed them. That was the thing Harry had not expected. Bread, and cheese, and cold sausages, and a jug of water, and once a slab of fruit cake that Sirius said must have come from the kitchens and Moody said had come from his sister. He put the basket down on the stone and stood back from it, and watched them eat, both eyes at once; and when they had finished he asked his questions.
+
+“Who’s working you, Potter?”
+
+“Nobody.”
+
+“Who’s working you?”
+
+“Nobody. Who’s working *you*?”
+
+That got him nothing but a long look from the blue eye, which went over Harry as though it were reading the inside of his head off the back of his skull, and found nothing there it liked.
+
+“A champion,” said Moody, on the Thursday night, “that nobody put in for, out of a cup that can’t be fooled. A boy who walks round with his godfather, who’s supposed to be in hiding, and doesn’t tell his own Head of House. Who lends me his map and then watches my door every night for a week. Who goes to the seventh lock of my trunk at midnight like a man going to his own front gate.” He leaned on his staff. “You tell me what that looks like, Potter, from where I’m standing.”
+
+Harry told him the truth, as far as it went. That he had thought somebody was working Moody. That he had thought they were close, and hidden. That the trunk was the one place in the office the map did not show.
+
+“And you thought,” said Moody, “that I’d not know if there was a man living in my own trunk.”
+
+Harry said nothing.
+
+“Why that trunk? Why the seventh? Why would there be anybody in it at all?”
+
+He did not answer that. He sat on the cold stone with his back to the wall and looked up at the old man on the ladder, with his scarred face and his nose with the chunk out of it and his leg, and there were things he could have told Moody about trunks, and about what could be done to a man in the bottom of one for the best part of a year, and he did not tell him any of them. He only looked at him. He was sorry for him. It was not a thing he could explain.
+
+Moody looked back for a long time. Then he took the basket and went up the ladder, and the lid came down, and the locks went one by one.
+
+On the Friday night he tried something new.
+
+He came down without the basket, and told Sirius to stand against the far wall and stay there, and pointed his wand at Harry’s chest, and said a word Harry did not know.
+
+Harry felt it go into him. It was cold and very thorough, like water running through a pipe, looking for something to push out; it went through him from his chest to his fingers and down into his feet, and searched, and found nothing to push against, and ran out of him again and was gone. He sat and shivered on the stone afterwards and could not stop for some time.
+
+Moody lowered his wand.
+
+“Clean,” he said. He sounded, for the first time, uncertain. “Or good.”
+
+“I’m clean,” said Harry, through his teeth.
+
+“Maybe.” Moody put the wand away. “The ones who are good at it always are.”
