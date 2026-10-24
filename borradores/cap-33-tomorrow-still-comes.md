@@ -168,19 +168,15 @@ Potter looked impressed in spite of himself. He leaned out a little and said, qu
 
 He talked.
 
-He told it to the table, mostly, and to the butterbeer, and now and then to Granger, who had gone very still; and he did not tell it well, because he kept going back to put in things he had left out, as though he had not told it to anybody before and had not decided which order it went in.
-
-He had thought somebody was working Moody. Not a disguise: Moody was Moody, the map had said so all through September, *Alastor Moody* in his office every night. But a body could be Moody and the rest of him somebody else’s, if somebody had him under the Imperius, and was close, and hidden somewhere the map could not see. Moody had a trunk with seven locks. There was a place inside it, Potter said, that the map did not show.
+He did not tell it well, and he did not tell it long. He had thought somebody was working Moody: not a disguise, since the map had said *Alastor Moody* all through September, but the Imperius, from close by, from somewhere the map did not show. Moody had a trunk with seven locks.
 
 “How did you—” Granger began.
 
-“I just thought it.” He went on before she could ask anything else. On Wednesday night he had gone into Moody’s office with Sirius, while Moody was on his rounds, and opened the seventh lock, and gone down into it with his wand lit, looking for—he did not say what he had been looking for. *Somebody who wasn’t there*, he said. It had been empty. And Moody had been standing behind them in the dark with the map in his hand, because Moody had been watching Harry Potter watch his office for a week.
+“I just thought it.” He went on before she could ask anything else. Wednesday night; Sirius; the seventh lock; his wand lit over a shaft with nobody at the bottom of it, looking for—he did not say what. *Somebody who wasn’t there*, he said. And Moody behind them in the dark, with the map.
 
 “He thought it was me,” said Potter. “Under the Imperius. A champion who breaks into his office at midnight with Sirius Black and goes through his trunk looking for somebody who isn’t there.” He made a short, unhappy noise that was not quite a laugh. “I’d have thought so too.”
 
-So Moody had put them in the trunk, both of them, and locked it. He trusted nobody but Dumbledore, and Dumbledore was abroad, and he was not going to hand Sirius Black to Professor McGonagall to hand to the Ministry, which still had a cell with his name on it. So he had waited. He had fed them, and asked Harry questions twice a day with his wand out, and once, on the second night, tried to throw a curse off him that was not there. There were seven compartments. In the sixth there was a plant Moody had confiscated from somebody in nineteen seventy-something, which did not like being woken.
-
-“That’s what that is,” said Potter, and turned his wrist over on the table. “Dumbledore got back this afternoon. He had us out by six. He says it’ll heal if I let somebody look at it.”
+Three days, he said. Dumbledore had got back that afternoon and had them out by six. He turned his wrist over on the table, and the welt on it, and did not explain it, and Lyra did not ask.
 
 “And Moody?” said Lyra.
 
