@@ -106,11 +106,11 @@ Moody lowered his wand.
 
 The ring on his right hand had been cold since the lid came down.
 
-He had not noticed at first. Then, on the Thursday, sitting in the dark after the first basket, he had turned it on his finger out of habit and felt nothing at all: no warmth, no pull, nothing. He had held it up in front of his face and lit the tip of a wand he did not have, and remembered he did not have it, and sat there with his hand up in the black, feeling for the thing that had told him since February, every night, where she was and how.
+He had not noticed at first. Then, on the Thursday, sitting in the dark after the first basket, he had turned it on his finger out of habit and felt nothing: no warmth, no pull. He had held it up in front of his face and lit the tip of a wand he did not have, and remembered he did not have it, and sat there with his hand up in the black, feeling for the thing that had told him since February, every night, where she was and how.
 
 Nothing. Plain silver, as though it had never been anything else.
 
-He thought about her, hard, the way you were supposed to. He thought about her on a desk in a classroom on the third floor with the moon on the lake behind her, saying *whether I do is my decision*, and on the edge of a Quidditch pitch on a borrowed black broom with her hair coming down, and bent over a library table, upside down, correcting his Arithmancy without being asked. It did not warm. Wherever this was, the ring did not think it was anywhere.
+He thought about her, hard, the way you were supposed to. He thought about her at the door of a classroom on the third floor, saying *whether I do is my decision*, and invisible in a tent with her hand over his, and bent over a library table, upside down, correcting his Arithmancy without being asked. It did not warm. Wherever this was, the ring did not think it was anywhere.
 
 So she would be holding hers, he thought. Up there. She would be holding it and it would be silver, and she would not know why.
 
