@@ -42,6 +42,18 @@ Detalle en `docs/fable/002-mundo-harry-y-tanda-41.md` y en el handoff §7 y §10
 - **D7, capítulos propios:** dos o tres de diez como mucho.
 - **Recuento:** quedan unos 32 capítulos (de 29 a 35), más 2 a 4 extras: verano y quinto hasta el Ministerio (original 54-74), 11-13; sexto (75-89, sin los extras), 8-10; Riddle, el plazo y el final (90-106), 9-11.
 
+## Decidido el 28 de octubre (autor: las decisiones 2 a 9 del §4 de la revisión 31-40, todas como se recomendaban)
+
+Detalle en el handoff §7, §8 y §10. **Sustituye a D4 en el arranque:** el 41 abre desde Lyra.
+- **2.** El 41 abre desde Lyra en la Mansión, cobrando la Marca del andén (y el coste de Crouch, con una decisión suya). El borrador desde Harry pasa al 42 o al 43, como recuerdo.
+- **3.** La tanda acaba en la Navidad del quinto, con Lyra descubriendo quién es el señor de la casita; pago a mitad (45-46).
+- **4.** Pettigrew, en Azkaban sin registro; la fuga del quinto lo suelta y tiene que hacer algo antes del Ministerio; si no, sigue con Dumbledore.
+- **5.** Moody se lleva el mapa: Harry, sin él en el verano y el otoño.
+- **6.** Horrocruxes del canon, movidos desde 1995 por la red de los Malfoy: Harry va adonde recuerda y no los encuentra; la pista, en casa de Lyra.
+- **7.** «Never felt better» es una cura: Voldemort le curó la viruela de dragón a Abraxas, y eso lo ata.
+- **8.** Draco, en Slytherin.
+- **9.** Los *Year Two*, rehechos sobre lo nuestro, en la tanda 51-60.
+
 ## Huecos que el guion 41-50 tiene que cerrar (Fable 002)
 
 1. **La cuenta de los Horrocruxes** al empezar el verano: diario y guardapelo destruidos; la copa (pasada al quinto), la diadema, el anillo de Gaunt, Nagini y Harry. Qué hace Harry con el anillo de Gaunt, que sabe dónde está y que maldijo la mano de Dumbledore: motor de un Harry activo en el verano.

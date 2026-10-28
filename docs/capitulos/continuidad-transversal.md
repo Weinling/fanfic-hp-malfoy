@@ -97,6 +97,7 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 ### Sirius y Pettigrew
 - **Lyra:** Sirius es inocente; Pettigrew era el guardián y vive (14); era Scabbers (19); lo vio confesar (22). En el 19 no se fijó en los dedos de la rata («I did not count its *toes*, Weasley»).
 - **El Ministerio calla** (23). Pettigrew lo tiene Dumbledore (22); su destino público no consta.
+- **Decidido (autor, 28 de octubre; aún no está en el texto):** Dumbledore lo entregó en silencio y el Ministerio lo tiene en **Azkaban sin registro**; por eso no puede exonerar a Sirius sin confesar el error. Harry y Sirius lo saben; Lyra no. La fuga del quinto lo suelta.
 
 ### Lupin y la poción
 - **Lyra** sabe que es hombre lobo desde el 13 de noviembre de 1993 (12) y se lo dijo (19). Él se declara en deuda con ella («Then I’m in your debt, Miss Malfoy, which I suspect you’ll enjoy»); ella no le cobra nada. Llevó la poción con huellas de rata (19), lo supo en la orilla (20), lo oyó confesar a Pettigrew (22).
@@ -254,7 +255,7 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 | La Saeta de Fuego de Harry | Harry | 30 | Comprada tras el «No need» del 23; convocada en la primera prueba. Lyra la distingue por el número de matrícula |
 | La capa | **Harry** (se la devolvió Lyra el 29 de noviembre) | 31 | Se la dio Harry en la comida del 24 de noviembre; no consta que se la haya devuelto. Moody ve a través de ella |
 | El aviso del Baile | Tablón de Slytherin | 30 | Navidad, a las ocho; de cuarto en adelante; «*The champions and their partners will open the dancing.*» |
-| El mapa | **Moody**, prestado por Harry tras el Cáliz | 31 | «Not names». En la coda del 31 se oye doblarse en la oscuridad del despacho |
+| El mapa | **Moody**, prestado por Harry tras el Cáliz | 31 | «Not names». En la coda del 31 se oye doblarse en la oscuridad del despacho. **Decidido (autor, 28 de octubre):** Moody se lo lleva a la Orden; Harry, sin él en el verano y el otoño del quinto. Falta la línea en el texto (41 o 42) |
 | El diario | Dumbledore (o Harry) | 14 | «Not ever» |
 | La tarjeta de Krum | Lyra, para Draco | 28 | — |
 | La bufanda de cachemir gris | **Harry** (se la puso Lyra en la orilla, 35; se tiró al lago con ella) | 35 | Del 7 (la lechuza la mordisqueó). **No vuelve como ficha** (crítico) |

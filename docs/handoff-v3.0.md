@@ -106,6 +106,7 @@ Viaje en el tiempo. Harry viene de un mundo donde Lyra no existe (el del canon, 
 - **Por qué existe Lyra:** es la premisa, sin mecánica: una moneda que en este mundo cayó del otro lado antes de que Harry naciera. Harry lo dirá una vez, así, y nadie vuelve a preguntarlo.
 - **Puntos de vista de Harry:** desde el 39, un capítulo desde Harry por tanda (y alguna coda), con lo que siente y hace y fragmentos de su otra vida ligados a Lyra; la segunda capa se guarda como en el 16. El primero, el arranque del 41 (material: `borradores/cap-41-arranque-harry-borrador.md`). En su punto de vista la llama «Malfoy» o «she» (16); «Lyra», en momentos marcados (31).
 - **Ron y Hermione:** Hermione nota que Harry esconde algo que Lyra sabe y se lo saca a él en el quinto, antes que Ron; Ron se entera el último y a Harry le cuesta algo visible; Lyra sabrá que Granger lo sabe. Ron y Hermione, despacio, como en el canon.
+- **Decidido el 28 de octubre (autor, decisión 2 de la revisión 31-40):** el 41 abre desde Lyra en la Mansión, cobrando la Marca del andén y el coste de Crouch; el capítulo desde Harry de la tanda 41-50 es el 42 o el 43 (Privet Drive, Grimmauld y Sirius), con el material de `borradores/cap-41-arranque-harry-borrador.md` como recuerdo, no como arranque.
 
 ## 8. Rumbo aprobado (18 de octubre)
 
@@ -117,6 +118,13 @@ Detalle en `docs/notas/ideas-divergencias.md` (crítica de Fable en `docs/fable/
 - **Baile:** la pareja, pública por un plan de Harry, y el enfado de Lyra.
 - **Lo que se conserva del original sí o sí:** el veneno que Lyra se bebe ante Harry (sexto); la Marca, la orden y el Voto, por la Casa; la ruptura y el anillo devuelto; Riddle dentro de Harry y la respuesta de Lyra; Lyra se ofrece y Harry se niega a matar; Bode; Narcissa reconociendo a Harry; las muertes de Sirius y de Snape; la pluma de sangre y el «I love you».
 - **Semillas ya puestas:** la silla que cruje en el palco (24; pagada en el 36 y el 40), la lámpara de la casita (25), la nota de Regulus que guarda Dumbledore (26), la letra vieja de la carta lacrada (28), Lucius de niño en la carta de Draco (29), la Copa (30; pagada en el 38 y el 39), el señor de la casita que se va al extranjero (36) y vuelve el domingo 25 de junio «never felt better» (40).
+- **Decidido el 28 de octubre (autor; decisiones 3 a 8 de `docs/notas/revisiones/revision-tanda-31-40.md` §4, todas las recomendaciones):**
+  - **Tanda 41-50:** acaba en la Navidad del quinto, cuando Lyra descubre quién es el señor de la casita; con un pago a mitad de tanda (hacia el 45 o el 46).
+  - **Pettigrew:** Dumbledore lo entregó en silencio y el Ministerio lo tiene en Azkaban sin registro (por eso no puede exonerar a Sirius sin confesar su error). La fuga del quinto lo suelta, y tiene que hacer algo antes del Ministerio (llevarle a Voldemort lo que sabe de Harry y de Sirius, o abrir la puerta de Grimmauld). Si no se le encuentra función, sigue con Dumbledore. Harry y Sirius saben dónde está; Lyra no.
+  - **El mapa:** Moody se lo lleva (a la Orden). Harry pasa el verano y el otoño sin él.
+  - **Los Horrocruxes:** la cuenta del canon (diario y guardapelo destruidos; anillo de Gaunt, copa, diadema, Nagini y Harry), pero desde 1995 la red de los Malfoy ha movido lo que guardaba: Harry va adonde recuerda y no encuentra nada; la pista está en casa de Lyra.
+  - **«Never felt better»:** es una cura. Voldemort le curó a Abraxas la viruela de dragón, y eso lo tiene atado: por eso se somete la noche del regreso sin volverse tonto.
+  - **Draco:** entra en Slytherin, sin sorpresa; el conflicto sale de dónde le pone Abraxas.
 - **Hecho en la tanda 31-40 (rumbo cumplido):** Moody es Moody y la culpable, Crouch padre bajo el Imperius de su hijo, lo destapa Lyra (40); Harry aparta a Cedric y toca la Copa solo (38); Cedric vive; la pareja, pública en el Baile (32); Lyra deduce el secreto (39) y rompen; Voldemort vuelve sin cementerio (38-40); el barco se va con Karkaroff (38).
 
 ## 9. La tanda en curso y el sistema de trabajo
@@ -145,7 +153,7 @@ Detalle en `docs/notas/ideas-divergencias.md` (crítica de Fable en `docs/fable/
 
 **Presencia de autor:** nota breve al final de cada capítulo con una sola pregunta pegada a la escena; agradecer en público a quien señale un error; pedir votos rara vez. El personaje de autora en Wattpad es Ash (skill `ash-wattpad-voice`).
 
-**Extras:** solo en pausas reales de la trama, nunca antes de un cliffhanger. **Decidido (24 de octubre, Fable 002):** *Year One* 5 y 6 (original 52, el Bosque, y 53, el espejo de Oesed, con lo que ve Lyra cambiado, citable y compatible con 1995) tras el primer capítulo del verano de 1995 que no acabe en gancho; *Year Two* 1 y 2 (original 76 y 77, sin la escena final de sexto del 77, cuadrando con el 1 y el 2) en una pausa del quinto.
+**Extras:** solo en pausas reales de la trama, nunca antes de un cliffhanger. **Decidido (24 de octubre, Fable 002):** *Year One* 5 y 6 (original 52, el Bosque, y 53, el espejo de Oesed, con lo que ve Lyra cambiado, citable y compatible con 1995) tras el primer capítulo del verano de 1995 que no acabe en gancho; *Year Two* 1 y 2 (original 76 y 77, sin la escena final de sexto del 77, cuadrando con el 1 y el 2) en una pausa del quinto. **Decidido el 28 de octubre (autor, decisión 9):** los *Year Two* se rehacen sobre lo nuestro (el 1, la recaída de Lyra en la palabra, con Granger encogiéndose y un Harry que se contiene; el 2, la cena del «kneeling» y Lyra defendiéndole), sin el Harry que finge morir con la poción, en la tanda 51-60.
 
 **Capítulos propios** (sin capítulo de referencia, etiqueta «nuevo»): como mucho dos o tres de cada diez; la ficha dice qué capítulo del original salta y por qué. Sobre todo para la Casa y la Mansión.
 
