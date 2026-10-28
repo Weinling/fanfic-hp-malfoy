@@ -2,6 +2,17 @@
 
 Lo pone al día cada sesión autónoma al terminar. Lo más nuevo, arriba.
 
+## 28 de octubre de 2026: el guion de la tanda 41-50
+
+**Tus decisiones 2 a 9**, apuntadas tal como las aceptaste (handoff §7, §8 y §10).
+
+**Guion escrito y revisado por Fable** (`borradores/guion-tanda-41-50.md`; Fable 004, «aceptable con cambios», todos aceptados): diez capítulos (41-50), un *Interlude* desde Harry y los *Year One* 5 y 6, del 2 de julio a la Navidad de 1995.
+
+- ⚠ **La diadema: Harry ya la destruyó en el verano de 1994**, con el colmillo, y dejó los restos en la Sala de los Menesteres (solo lo sabe Dumbledore). En el quinto, **Draco la saca rota** por encargo del señor de la casita, y en Navidad el Señor Tenebroso sabrá que alguien de Hogwarts conoce sus Horrocruxes. Fable lo propuso para que Harry no pasara tres años sin tocar lo que sabía. Es un cambio de rumbo: el Señor Tenebroso se entera antes que en el canon.
+- ⚠ **Por qué se mueven los Horrocruxes:** la mentira del diario «perdido en las redadas» (de Lyra, en el 17; de Lucius, en el 39) le inquieta y manda recoger los demás. El anillo de Gaunt lo recogieron la noche del hueso; Harry llega tarde en agosto. Dumbledore le había prohibido tocarlo.
+- **«I love you» en el 45** (la pluma de sangre, con Lyra vigilando la detención), sin reencuentro; **el norte en el 46** (Harry, ciego, le pide ayuda y ella le da la mentira del 37, y le esconde a Draco); **ningún beso** en la tanda.
+- **El abuelo existe en el texto desde el 41** (Lucius brinda ante su retrato dormido, muerto de viruela de dragón); en el 50 el retrato está quitado y Lyra dice «Grandfather».
+
 ## 24 de octubre de 2026, más tarde: el interludio desde Harry
 
 **Listo para subir:** ***Interlude: The Seventh Lock*** (`borradores/interludio-1-the-seventh-lock.md`, ~3.240 palabras), **entre el 32 y el 33**. Harry, sus tres días en el baúl de Moody: el anillo mudo desde su lado, Moody interrogándole («Clean. Or good.»), Sirius de perro, la planta, Moody contándole que Lyra preguntó al anillo, el «I got it wrong», Dumbledore abriendo la tapa y el discurso del Baile ensayado ante un espejo que se burla. No revela la otra vida (el crítico vigiló las frases que la delataban). Para el crítico, «el mejor de los dos interludios», en el grupo del 32 y el 37. Crítica: `docs/notas/interludio-1-critica.md`.
