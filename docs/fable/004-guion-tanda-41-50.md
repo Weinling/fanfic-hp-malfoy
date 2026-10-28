@@ -41,3 +41,21 @@ Veredicto (aceptable / con cambios / no) y, en dos líneas cada uno:
 
 Al final de tu respuesta, escribe esta línea tal cual:
 «SESIÓN PRINCIPAL: antes de seguir, relee /Users/eden/Documents/fanfic-hp-malfoy/docs/notas/autonomo/ARRANQUE.md y la sección "Ahora mismo" de docs/estado-de-trabajo.md; si has compactado, haz la lectura obligatoria del §2.»
+
+---
+
+## Respuesta de Fable
+
+*Resumida con fidelidad; los cambios concretos, casi literales.*
+
+**Veredicto: aceptable con cambios.** Cumple 002, 003 y §2.7; la columna (la mentira del diario mueve los Horrocruxes) es buena y nuestra. Falla en lo que no mira: Harry y la diadema, piezas que tiene Lyra y no el lector, y capítulos con dos motores.
+
+1. **La diadema por Draco:** causa del mundo a medias. Se contesta sola por qué esa (la única que pide una mano dentro del castillo). Pero Harry sabe desde 1992 dónde está, tiene colmillo y destruyó el guardapelo en 1994, y en tres años no ha subido: choca con «Harry actúa sobre el pasado mientras está ciego al futuro» (001). Salidas: (a), la mejor, que Harry ya la destruyera y Draco baje a casa una diadema partida (la Navidad, de revelación a amenaza; «somebody talked» se vuelve «somebody knows»); (b) una razón en escena para no tocarla. El anillo de Gaunt, que lo recoja quien fue a por el hueso, a una milla, esa noche; cambiar el «olor a algo caro». Abraxas no sabe lo que son; quitar «cuando tenía su edad» (la lista es de Riddle). Decir por qué Draco y no Lyra (una línea en el 42).
+2. **El 45 y el 46:** el 45 aguanta si él no la recupera. Que el 46 dependa del 45 en escena; sacar del 46 el tablero (D1), que es frase de pelea: al 48, bajo «You used my brother». El norte parte la pregunta del libro (a él, el Señor Tenebroso; a los suyos, Draco): apoyarse en ese reparto.
+3. **El 50:** cojo como capítulo (sin calor, tres escenas de tránsito): una escena de casa con peso (Lucius, invitados, el padre de Crabbe) y Draco contento con su secreto. El lector no sabe que Abraxas existe ni que murió de viruela (grep: cero): sembrarlo en el 41 o el 42. El retrato: que vea que lo han **quitado**, no que falta. El nombre lo dice ella («Grandfather»).
+4. **Lo que falta:** Sirius necesita más presencia antes de junio (47 o 49); entre el 48 y el 49 falta la escena de mirar la caja. El 43 tiene motor flojo (cuatro escenas, Draco con el Sombrero en el centro); el 47 es un contenedor (fundir partido y carta; el grupo de Diggory, al 48). Las cartas de casa, escritas como casa.
+5. **Patrones:** Harry pasivo sobre lo que sabe; piezas que solo tiene Lyra; dos motores en un capítulo; hilos «de una línea» (tres como mucho por capítulo; el resto, entierro); decisiones dejadas en «o»; lo reportado. **Criterios que faltaban:** cada pieza que el lector necesita para la deducción de Lyra está antes en el texto; Harry hace algo con cada Horrocrux que sabe dónde está, o el texto dice por qué no.
+
+## Decisión y qué se hizo
+
+Se acepta todo (28 de octubre de 2026, sesión principal). De las dos salidas de la diadema, la (a): **Harry la destruyó en el verano de 1994**, con el colmillo, y dejó los restos en la Sala; Draco se lleva una diadema rota y el Señor Tenebroso sabrá en Navidad que alguien de Hogwarts conoce sus Horrocruxes. Por qué no tocó el anillo: Dumbledore se lo prohibió (sabe por Harry lo que el anillo le hizo en la otra vida) y lo fue aplazando. Todo lo demás, como dice Fable; detalle en el §8 del guion. Apuntado con ⚠ en `PARA-EL-AUTOR.md` (toca el rumbo: la diadema y que el Señor Tenebroso lo sepa en el quinto).

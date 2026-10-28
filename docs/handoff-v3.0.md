@@ -125,6 +125,7 @@ Detalle en `docs/notas/ideas-divergencias.md` (crítica de Fable en `docs/fable/
   - **Los Horrocruxes:** la cuenta del canon (diario y guardapelo destruidos; anillo de Gaunt, copa, diadema, Nagini y Harry), pero desde 1995 la red de los Malfoy ha movido lo que guardaba: Harry va adonde recuerda y no encuentra nada; la pista está en casa de Lyra.
   - **«Never felt better»:** es una cura. Voldemort le curó a Abraxas la viruela de dragón, y eso lo tiene atado: por eso se somete la noche del regreso sin volverse tonto.
   - **Draco:** entra en Slytherin, sin sorpresa; el conflicto sale de dónde le pone Abraxas.
+  - **La diadema (sesión principal con Fable 004, 28 de octubre; ⚠ para el autor):** Harry la destruyó en el verano de 1994, con el colmillo, como el guardapelo, y dejó los restos en la Sala de los Menesteres; solo lo sabe Dumbledore. En el quinto, Draco la saca rota por encargo del señor de la casita, y en Navidad el Señor Tenebroso sabrá que alguien de Hogwarts conoce sus Horrocruxes. Harry no tocó antes el anillo de Gaunt porque Dumbledore se lo prohibió y lo fue aplazando; lo recogieron la noche del hueso.
 - **Hecho en la tanda 31-40 (rumbo cumplido):** Moody es Moody y la culpable, Crouch padre bajo el Imperius de su hijo, lo destapa Lyra (40); Harry aparta a Cedric y toca la Copa solo (38); Cedric vive; la pareja, pública en el Baile (32); Lyra deduce el secreto (39) y rompen; Voldemort vuelve sin cementerio (38-40); el barco se va con Karkaroff (38).
 
 ## 9. La tanda en curso y el sistema de trabajo
