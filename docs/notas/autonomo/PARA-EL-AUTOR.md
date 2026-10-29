@@ -13,6 +13,8 @@ Lo pone al día cada sesión autónoma al terminar. Lo más nuevo, arriba.
 - **«I love you» en el 45** (la pluma de sangre, con Lyra vigilando la detención), sin reencuentro; **el norte en el 46** (Harry, ciego, le pide ayuda y ella le da la mentira del 37, y le esconde a Draco); **ningún beso** en la tanda.
 - **El abuelo existe en el texto desde el 41** (Lucius brinda ante su retrato dormido, muerto de viruela de dragón); en el 50 el retrato está quitado y Lyra dice «Grandfather».
 
+**Listo para subir:** ***41, The Sleeve*** (`borradores/cap-41-the-sleeve.md`, ~3.060 palabras). Domingo 2 de julio en la Mansión: Lyra cuenta en el mantel los cuatro días que le costaron la vida a Crouch y esa noche le pide a su padre que le enseñe el brazo; él se sube la manga, orgulloso. Aparece por primera vez el abuelo, Abraxas, «muerto» de viruela de dragón, con su retrato siempre dormido. Criticado y arreglado (crítico nuevo; ranking junto al 33 y el 36, y sube con los arreglos).
+
 ## 24 de octubre de 2026, más tarde: el interludio desde Harry
 
 **Listo para subir:** ***Interlude: The Seventh Lock*** (`borradores/interludio-1-the-seventh-lock.md`, ~3.240 palabras), **entre el 32 y el 33**. Harry, sus tres días en el baúl de Moody: el anillo mudo desde su lado, Moody interrogándole («Clean. Or good.»), Sirius de perro, la planta, Moody contándole que Lyra preguntó al anillo, el «I got it wrong», Dumbledore abriendo la tapa y el discurso del Baile ensayado ante un espejo que se burla. No revela la otra vida (el crítico vigiló las frases que la delataban). Para el crítico, «el mejor de los dos interludios», en el grupo del 32 y el 37. Crítica: `docs/notas/interludio-1-critica.md`.

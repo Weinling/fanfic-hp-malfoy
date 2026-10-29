@@ -238,13 +238,19 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 - **Crabbe** sabe que lo de Potter no ha acabado para Lyra.
 - **Slytherin:** algunos tienen miedo; algunos están contentos y lo esconden. Lyra los sostuvo («This is our house, and nobody in it lowers his voice»).
 
+### Lo que cambia en el 41 (29 de octubre)
+- **Lyra** ha visto la Marca de su padre entera (se la enseñó él, orgulloso, cuando ella se lo pidió); sabe que volvió la noche de la tercera prueba; que el Señor Tenebroso preguntó por ella por su nombre; que Snape llegó dos horas tarde; que el señor de la casita hace «errands for the Dark Lord… collecting some old things of his, that were left with friends». Ha nombrado su culpa: cuatro días de silencio, Crouch muerto. Lucius la trata como «one of us» y le pide que contenga a Slytherin y que deje a Potter «come back to the window».
+- **El abuelo, Abraxas Malfoy**, sembrado: muerto oficialmente de viruela de dragón cuando Lyra era muy pequeña; su retrato, el más bajo de los cuatro del despacho, duerme siempre.
+- **El señor de la casita:** ya no le tiemblan las manos; «better than he has in forty years»; ya no juega los domingos; se llevó el ajedrez; quiere que Draco le escriba cada semana desde Hogwarts.
+- **Narcissa:** «It’s going to be a long one.» No ha abierto la puerta todavía.
+
 ## 5. Fichas vivas
 
 | Ficha | Dónde está | Última vez | Nota |
 |---|---|---|---|
 | La pluma de azúcar | **Harry**, en el bolsillo de la varita | 30 | Comprada el Halloween de 1993; entregada en la tienda (30): «You eat it afterwards. If you’ve been sensible.» / «…Which one?». Hilo cerrado |
 | El calentador de botón | Harry, junto a la varita | 16 | Lyra no sabe que lo recuperó |
-| El pañuelo (18) | Lyra; lavado y planchado, en el cajón de su mesilla | 40 | Lo metió en la lata del anillo y lo volvió a sacar: se lo queda |
+| El pañuelo (18) | Lyra; lavado y planchado, en el cajón de su mesilla de la Mansión | 41 | Lo metió en la lata del anillo y lo volvió a sacar: se lo queda |
 | La posdata de Narcissa | **Enviada a Narcissa** con la respuesta de Lyra debajo (*It was Harry Potter who was asking*) | 33 | Contestada el 29 de diciembre de 1994 |
 | El papel de los onces | El mismo libro | 15 | — |
 | Los anillos | **Harry, los dos** (Lyra le devolvió el suyo en una lata de galletas, 40) | 40 | Colores: rojo (peligro de muerte), rosa (con su pareja), morado (en guardia), dorado (éxito), verde (a salvo), azul (solo insinuado en el 24: «anything that might come out blue»; el plan dice «te echa de menos»), azul oscuro (dormido, sin nombrar en el texto). Parpadeo: el otro le busca. Se calienta hacia el otro. Plata lisa: el otro está donde el anillo no llega (el baúl de Moody, 32) |
