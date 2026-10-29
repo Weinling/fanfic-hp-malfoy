@@ -6,7 +6,7 @@ Draco had been up since six, and by breakfast he had already been to the east co
 
 “Work,” said Lyra.
 
-“For somebody. He didn’t say who.” Draco buttered with tremendous energy, mostly the tablecloth. “But he’s much better. He used to spill his tea, you know, when he held the cup. His hands went like this.” He demonstrated, with the butter knife, and a pat of butter left it and landed in the sugar. “They don’t now. Not even holding a cup. He says he’s never felt better in his life.”
+“For somebody. He didn’t say who.” Draco buttered with tremendous energy, mostly the tablecloth. “But he’s much better. He used to spill his tea, you know, when he held the cup. His hands went like this.” He demonstrated, with the butter knife, and a pat of butter left it and landed in the sugar. “They don’t now. Not even holding a cup. He says he feels better than he has in forty years.”
 
 “Draco,” said their mother. “The sugar.”
 
@@ -26,19 +26,27 @@ Lyra had her cup in her hand. She kept it there.
 
 *We were an hour too late*, Moody had said, in the Entrance Hall, among the trunks. And she had stood there and inclined her head to it, as to a bow, as if the hour had been his.
 
-Under the edge of the toast rack, where nobody could see, she counted it on the tablecloth with one finger. Saturday, the podium, and a man in a neat dark suit walking past her with a crate in his arms and a face smoothed out like a sheet. Dumbledore three yards off, with his back to her. Three yards. She had looked at his back and thought of the north and her father’s green wax, and she had not gone. Sunday, nothing. Monday, her father’s letter in her sleeve all day, and the Owlery. Tuesday morning, the tin, and Goyle running up the stairs with it; and Potter, she supposed, out of his bed before it was dark; and Dumbledore; and Moody and two others, up a path, an hour after a son had gone down it.
+Under the edge of the toast rack, where nobody could see, she counted it on the tablecloth with one finger. Saturday, the podium, and Dumbledore three yards off with his back to her. Three yards. She had looked at his back and thought of whose house a word like *north* belonged to, and she had not gone. Sunday. Monday. Tuesday, and Moody and two others going up a path an hour after a son had come down it.
 
-If she had gone down off that platform on the Saturday night, Barty Crouch would be alive.
+If she had gone up on to that platform on the Saturday night, Barty Crouch would be alive.
 
 She counted it again, from the Saturday, in case she had dropped a day somewhere. She had not. Four days, and the last of them an hour short.
 
+At the head of the table her father reached for the coffee pot, and the sleeve of his dressing gown fell back from his left wrist, and slid down again. Lyra looked at the wrist until it was covered.
+
+She had kept a thing to herself for four days once, because of whose house it was, and a man had died in them. She was not going to do it twice.
+
 “Lyra,” said Draco. “The marmalade. I’ve asked you *twice*.”
 
-She passed it to him. Her hand was quite steady, which was something.
+She passed it to him.
 
-“Thank you,” said Draco, with heavy irony, and their father laughed again, at that, as he laughed at everything Draco said this summer; and her mother turned from the window and looked, not at Draco, but at Lyra, and at the cup Lyra was still holding, which had gone cold some time ago.
+“Thank you,” said Draco, with heavy irony, and their father laughed again, at that, as he laughed at everything Draco said this summer; and her mother turned from the window and looked, not at Draco, but at Lyra, and at the cup Lyra was still holding.
 
-Lyra drank from it, cold, to have something to do, and asked Draco what work an old man in a cottage could possibly have.
+Lyra drank from it to have something to do, and asked Draco what work an old man in a cottage could possibly have.
+
+“*Secret* work,” said Draco, with enormous satisfaction, and then, because he had never kept a secret for longer than a pudding course in his life: “He says when I’m at Hogwarts I’m to write to him every week. Not just to Mother. Him. And tell him everything, because he hasn’t been at school for simply ages and he wants to know if they’ve moved anything.”
+
+“They will have moved everything, darling,” said their father, without looking up from the paper. “They always do. Eat your egg.”
 
 ⁂
 
@@ -54,7 +62,7 @@ She sat. He stayed in front of the desk, leaning on it, with the glass in his ha
 
 Lyra waited.
 
-“By name.” He let it sit there between them, like a gift on a table. “He knows whose hand carried the letter in November. He spoke of it. He said that Lucius Malfoy’s daughter had done in an evening what grown men had failed to do in a year, and that he would remember it.” His voice dropped a little, not for secrecy, since the walls were humming, but because there were things he said more quietly out of reverence. “He has never once asked after anybody’s child, Lyra. Not in all the years. Do you understand what that is?”
+“By name.” He let it sit there between them. “He knows whose hand carried the letter in November. He spoke of it. He said that Lucius Malfoy’s daughter had done in an evening what grown men had failed to do in a year, and that he would remember it.” His voice dropped a little, not for secrecy, since the walls were humming, but because there were things he said more quietly out of reverence. “He has never asked after anybody’s child, Lyra. Not in all the years. Do you understand what that is?”
 
 “Yes, Father.”
 
@@ -64,19 +72,19 @@ She did. She understood it a great deal better than he did. A man who remembered
 
 “I can do that,” said Lyra.
 
-She had done it already, in a green-lit room on the last night of term, to a lot of frightened second-years and a knot of sixth-years with their fathers’ faces. He had not been there. She discovered that she would rather keep it.
+She had done it already, in a green-lit room on the last night of term, to a lot of frightened second-years and a knot of sixth-years with their fathers’ faces. He had not been there. She would rather keep it hers.
 
 “And the second,” said her father, “is the Potter boy.”
 
 She had known it was coming since the platform. She had her face ready for it.
 
-“We’ve parted.”
+She said it to the glass in his hand. “We’ve parted.”
 
-“Have you.” He turned the glass a little in his fingers, watching the light move in it. “A boy who confides is worth sitting beside, I said. I still think so. Parting is not a door shut, my darling, it is only a door, and you are a great deal cleverer than he is.” He smiled at her, fondly. “If he should wish to confide in you again, let him.”
+“Have you.” He turned the glass a little in his fingers, watching the light move in it. “A boy who confides is worth sitting beside, I said. I still think so. Parting is not a door shut, my darling, it is only a door, and you are a great deal cleverer than he is.” He smiled at her, fondly. “If he should come back to the window, my darling, leave it open.”
 
-He did not believe her. That was plain. And it mattered to him not in the least, which was worse.
+He did not believe her. That was plain. And it mattered to him not in the least.
 
-He looked at her for a moment longer, quite carefully, as he looked across a dinner table at a man he was about to buy something from, to see what the man was keeping back. Lyra let him look. Behind her face, somewhere he could not reach, there was a tablecloth and a finger counting days on it, and a platform, and a man walking past her with a crate. She was not hiding it, exactly. She simply kept it from coming up to the surface, as one does not let a cough come up in church; and her father looked, and found his daughter, and seemed satisfied.
+He looked at her for a moment longer, quite carefully, as he looked across a dinner table at a man he was about to buy something from, to see what the man was keeping back. Lyra let him look. What he was looking for was there, somewhere behind her face, and she kept it down, as one keeps a cough down in church; and her father looked, and found his daughter, and seemed satisfied.
 
 “Severus was late,” he said, in a different voice, almost idly, turning to the window. “On the night. Did you know? Two hours. He came in when it was nearly over, with mud on him, and said that Dumbledore had kept him at the castle and he had come the moment he could get away.” He shrugged. “He had his reasons, he says. The Dark Lord accepted them. I suppose I must.”
 
@@ -84,13 +92,13 @@ He sounded as though he supposed nothing of the kind, and Lyra thought of a man 
 
 Then her father lifted his glass, not to her, but to the wall.
 
-She followed it. It was the nearest of the four portraits, the one hung lowest, in the darkest corner, where the curtain’s shadow fell: an old man in grey with his chin sunk on his chest and his hands folded on the head of a cane, asleep. He was always asleep. Lyra had never once in her life seen him open his eyes, though the great-uncle above him cleared his throat at silences, and the ladies at the far end talked to each other about hats. She had supposed, when she was small, that some portraits simply came out sleepy, as some children did.
+She followed it. It was the nearest of the four portraits, the one hung lowest, in the darkest corner, where the curtain’s shadow fell: an old man in grey with his chin sunk on his chest and his hands folded on the head of a cane, asleep. He was always asleep. Lyra had never seen him open his eyes, though the great-uncle above him cleared his throat at silences, and the ladies at the far end talked to each other about hats. She had supposed, when she was small, that some portraits simply came out sleepy, as some children did.
 
 “Your grandfather,” said her father, “would have given a great deal to see this summer.”
 
-He drank. Lyra looked at the sleeping face, which had her father’s long chin and nothing else she could see of anybody.
+He drank. Lyra looked at the sleeping face, which had her father’s long chin and, so far as she could tell, nothing else of his.
 
-She knew the story, as one knows the story of a house: Abraxas Malfoy, who had been at school with half the old names in the country and had outlived most of them, and had died of dragon pox when she was too small to remember him, very fast, in the east wing, with the doors shut, so that it should not spread. There had been no lying in state. She had been told that the dragon pox did dreadful things to a face, and that it was better to remember him as the painter had.
+She knew the story, as one knows the story of a house: Abraxas Malfoy had died of dragon pox when she was too small to remember him, very fast, with the doors shut, so that it should not spread. There had been no lying in state. She had been told that the dragon pox did dreadful things to a face, and that it was better to remember him as the painter had.
 
 “He would have been proud of you,” said her father, and finished his glass, and put it down. “Run along. Your mother will want you for something, I expect. She generally does.”
 
@@ -106,7 +114,7 @@ Lyra put a hand to it. It was perfectly all right down.
 
 “For what?”
 
-Her mother looked at her. It was not the careful, unreadable face from the top of the drive. It was the other one, the one Lyra had seen exactly once, on a platform, when her mother’s eyes went past her down to the far end of the train and stayed there.
+Her mother looked at her, and for a moment it was the face from the platform, when her eyes had gone past Lyra to the Weasleys and stayed there.
 
 Then it was gone, and Narcissa Malfoy was going on down the stairs ahead of her, one hand on the rail, very straight.
 
@@ -118,7 +126,7 @@ She waited until the house was asleep.
 
 That was not true. She waited until the house had gone to bed, which in that house was not the same thing; and then she put on her dressing gown and went down the main stairs in her bare feet, past the long gallery where her great-great-grandmother slept in her frame with her mouth open, and along the passage to the study, where there was a line of light under the door.
 
-She had decided at breakfast. She had decided it with a cold cup in her hand and her finger on the tablecloth, and she had spent the rest of the day finding out whether she meant it. She did. She had once looked at a thing and kept it to herself for three days because it was not yet the whole of it, and a man had died in the time it took her to be sure. She was not going to do it again. Not about this. Not in her own house.
+She had decided at breakfast, and spent the rest of the day finding out whether she meant it. She did. Not in her own house, of all places.
 
 She knocked, and went in without waiting.
 
@@ -130,29 +138,37 @@ Her father was at the desk with a letter. He looked up, and was surprised, and t
 
 The study was very quiet.
 
-She had never asked him anything like it. In that house you did not; you went the long way round, by the question next to it, or you waited to be told, and most of the time you were not told, and you learned to read what you were not told instead. He had taught her that himself, over the chessboard, when she was eight. She watched him remember teaching it to her.
+She had never asked him anything like it. In that house you did not; you went the long way round, by the question next to it, or you waited to be told, and most of the time you were not told, and you learned to read what you were not told instead. He had taught her that himself, over the chessboard, when she was eight.
 
-She had expected him to be angry. She had been ready for that, and for the cold voice, and for *go to bed*. She had not been ready for what he did.
+She had expected him to be angry. She had been ready for that, and for the cold voice, and for *go to bed*.
 
 He smiled.
 
 He put down his pen, and pushed back his chair, and stood up; and with his eyes on hers he unbuttoned the cuff of his left sleeve, and turned it back, once and then again, quite slowly, as a man turns back his sleeve to show a child a scar he got in a war he won.
 
-It was black. She had thought, on the platform, that it would look like ink. It did not. It looked like something that lived under the skin and had come up to the surface to breathe: a skull, and the serpent coming out of its mouth, as dark and clear as the day it was put there, on the white inside of her father’s arm where she had never once in her life thought to look.
+It was black. She had thought, on the platform, that it would look like ink. It did not. It looked like something that lived under the skin and had come up to the surface to breathe: a skull, and the serpent coming out of its mouth, as dark and clear as the day it was put there, on the white inside of her father’s arm.
 
 He held it out to her, turned to the lamp, so that she should see it properly.
 
-“There,” he said gently. “Now you know. I wondered when you would ask.” He looked down at it himself, and something went over his face that she had never seen there, not for her mother, not for the Manor, not for any of the things she had thought he loved best. “It went pale, after he fell. Grey, like an old bruise. For thirteen years I wore a faded thing on my arm and told the Ministry I had been bewitched.” He touched it with two fingers. “It came back on the night of the Third Task, in the middle of dinner. I felt it as you would feel your own heart start.”
+“There,” he said gently. “Now you know. I wondered when you would ask.” He looked down at it himself, longer than she had ever seen him look at her mother. “It went pale, after he fell. Grey, like an old bruise. For thirteen years I wore a faded thing on my arm and told the Ministry I had been bewitched.” He touched it with two fingers. “It came back on the night of the Third Task, in the middle of dinner. I felt it as you would feel your own heart start.”
 
 Lyra was looking at his face, not his arm.
 
 “One day,” said her father, “you will have one too. Not yet. There’s no hurry in the world; he is very patient with those who serve him well, and you have served him well already.” He rolled the sleeve down again, and buttoned the cuff, and smoothed it. “I’m glad you asked. I don’t want you to have to wonder about things in this house. Not any more. You’re one of us now, in every way that counts.”
 
-He meant it as the kindest thing he could say. That was what made it a door, and not a gift: she had knocked, and it had opened, and she was on the other side of it, and it did not open the other way.
+Lyra looked at the cuff, buttoned now, smooth, as if there had never been anything under it.
+
+“Does it hurt?”
+
+“Only when he calls.” Her father smiled at her, quite tenderly, as he had smiled when she was small and had asked whether the peacocks minded the cold. “And then, my darling, one is very glad to go.”
+
+She thought of Professor Karkaroff in his shirtsleeves, holding on to his own arm while the lamp swung, and saying that it was getting stronger.
+
+He meant it as the kindest thing he could say.
 
 He came round the desk and kissed her forehead, as he did every night.
 
-“And since we are not wondering about things,” he said, at the door, with his hand on it, like a man who has one more present in his pocket and cannot bear to keep it, “you may as well know what has put your brother out of his chess partner. The old gentleman has work again, after all these years. Errands for the Dark Lord. He is collecting some old things of his,” said her father, “that were left with friends.”
+“And since we are not wondering about things,” he said, at the door, with his hand on it, “you may as well know what has put your brother out of his chess partner. The old gentleman has work again. Errands for the Dark Lord. He is collecting some old things of his,” said her father, “that were left with friends.”
 
 ⁂
 
@@ -162,6 +178,6 @@ She went to the bedside table and opened the drawer, as she had opened it every 
 
 There was a handkerchief. Soft, and folded small, and pressed. Nothing else.
 
-She shut the drawer.
+She shut the drawer, and stood at the window in the dark, and looked east, where there was a light in the cottage at the end of the path; and thought of Draco coming up from it at six in the morning with grass on his knees, to tell her that the old man’s hands had stopped shaking.
 
-The last old thing of the Dark Lord’s that her father had kept for a friend had lived in a drawer too, in this house, the summer she was twelve. She had asked him afterwards what it had been, and he had told her it was an old book.
+The last old thing of the Dark Lord’s that her father had kept for a friend had lived in a drawer too, in this house, the summer she was twelve, and had gone out of it into a little girl’s cauldron. *An old book*, he had called it, when she asked.
