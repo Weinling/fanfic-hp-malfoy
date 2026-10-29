@@ -84,7 +84,7 @@ He did not sound as though he supposed anything of the kind, and Lyra thought of
 
 Then her father lifted his glass, not to her, but to the wall.
 
-She followed it. It was the nearest of the four portraits, the one hung lowest, in the darkest corner, where the curtain’s shadow fell: an old man in grey with his chin sunk on his chest and his hands folded on the head of a cane, asleep. He was always asleep. In fourteen years Lyra had never once seen him open his eyes, though the great-uncle above him cleared his throat at silences, and the ladies at the far end talked to each other about hats. She had supposed, when she was small, that some portraits simply came out sleepy, as some children did.
+She followed it. It was the nearest of the four portraits, the one hung lowest, in the darkest corner, where the curtain’s shadow fell: an old man in grey with his chin sunk on his chest and his hands folded on the head of a cane, asleep. He was always asleep. Lyra had never once in her life seen him open his eyes, though the great-uncle above him cleared his throat at silences, and the ladies at the far end talked to each other about hats. She had supposed, when she was small, that some portraits simply came out sleepy, as some children did.
 
 “Your grandfather,” said her father, “would have given a great deal to see this summer.”
 
@@ -93,3 +93,75 @@ He drank. Lyra looked at the sleeping face, which had her father’s long chin a
 She knew the story, as one knows the story of a house: Abraxas Malfoy, who had been at school with half the old names in the country and had outlived most of them, and had died of dragon pox when she was too small to remember him, very fast, in the east wing, with the doors shut, so that it should not spread. There had been no lying in state. She had been told that the dragon pox did dreadful things to a face, and that it was better to remember him as the painter had.
 
 “He would have been proud of you,” said her father, and finished his glass, and put it down. “Run along. Your mother will want you for something, I expect. She generally does.”
+
+⁂
+
+Her mother did not want her for anything. Lyra met her at the top of the stairs at dusk, on the way down to dinner, and her mother stopped, and looked at her hair.
+
+“Put it up,” she said. “It’s too hot to wear it down at the table.”
+
+Lyra put a hand to it. It was perfectly all right down.
+
+“And eat something tonight. You had a cold cup of tea for breakfast and nothing at lunch that I saw.” Her mother reached out and took a thread off the shoulder of Lyra’s robes, a thread that Lyra could not see, and held it between her finger and thumb for a moment, and let it go over the banister. “You’ll want your strength.”
+
+“For what?”
+
+Her mother looked at her. It was not the careful, unreadable face from the top of the drive. It was the other one, the one Lyra had seen exactly once, on a platform, when her mother’s eyes went past her down to the far end of the train and stayed there.
+
+Then it was gone, and Narcissa Malfoy was going on down the stairs ahead of her, one hand on the rail, very straight.
+
+“For the summer, darling,” she said, without turning round. “It’s going to be a long one.”
+
+⁂
+
+She waited until the house was asleep.
+
+That was not true. She waited until the house had gone to bed, which in that house was not the same thing; and then she put on her dressing gown and went down the main stairs in her bare feet, past the long gallery where her great-great-grandmother slept in her frame with her mouth open, and along the passage to the study, where there was a line of light under the door.
+
+She had decided at breakfast. She had decided it with a cold cup in her hand and her finger on the tablecloth, and she had spent the rest of the day finding out whether she meant it. She did. She had once looked at a thing and kept it to herself for three days because it was not yet the whole of it, and a man had died in the time it took her to be sure. She was not going to do it again. Not about this. Not in her own house.
+
+She knocked, and went in without waiting.
+
+Her father was at the desk with a letter. He looked up, and was surprised, and then pleased, as he was always pleased to see her.
+
+“Lyra. It’s gone midnight.”
+
+“I know.” She shut the door behind her. The charm hummed up in the walls. She did not sit down. “Father, show me your arm.”
+
+The study was very quiet.
+
+She had never asked him anything like it. In that house you did not; you went the long way round, by the question next to it, or you waited to be told, and most of the time you were not told, and you learned to read what you were not told instead. He had taught her that himself, over the chessboard, when she was eight. She watched him remember teaching it to her.
+
+She had expected him to be angry. She had been ready for that, and for the cold voice, and for *go to bed*. She had not been ready for what he did.
+
+He smiled.
+
+He put down his pen, and pushed back his chair, and stood up; and with his eyes on hers he unbuttoned the cuff of his left sleeve, and turned it back, once and then again, quite slowly, as a man turns back his sleeve to show a child a scar he got in a war he won.
+
+It was black. She had thought, on the platform, that it would look like ink. It did not. It looked like something that lived under the skin and had come up to the surface to breathe: a skull, and the serpent coming out of its mouth, as dark and clear as the day it was put there, on the white inside of her father’s arm where she had never once in her life thought to look.
+
+He did not hide it. He held it out to her, turned to the lamp, so that she should see it properly.
+
+“There,” he said gently. “Now you know. I wondered when you would ask.” He looked down at it himself, and something went over his face that she had never seen there, not for her mother, not for the Manor, not for any of the things she had thought he loved best. “It went pale, after he fell. Grey, like an old bruise. For thirteen years I wore a faded thing on my arm and told the Ministry I had been bewitched.” He touched it with two fingers. “It came back on the night of the Third Task. All at once. I felt it as you would feel your own heart start.”
+
+Lyra did not say anything. She was looking at his face, not his arm.
+
+“One day,” said her father, “you will have one too. Not yet. There’s no hurry in the world; he is very patient with those who serve him well, and you have served him well already.” He rolled the sleeve down again, and buttoned the cuff, and smoothed it. “I’m glad you asked. I don’t want you to have to wonder about things in this house. Not any more. You’re one of us now, in every way that counts.”
+
+He meant it as the kindest thing he could say. That was what made it a door, and not a gift: she had knocked, and it had opened, and she was on the other side of it, and it did not open the other way.
+
+He came round the desk and kissed her forehead, as he did every night.
+
+“And since we are not wondering about things,” he said, at the door, with his hand on it, like a man who has one more present in his pocket and cannot bear to keep it, “you may as well know what has put your brother out of his chess partner. The old gentleman has work again, after all these years. Errands for the Dark Lord. He is collecting some old things of his,” said her father, “that were left with friends.”
+
+⁂
+
+In her room she did not light the lamp.
+
+She went to the bedside table and opened the drawer, as she had opened it every night of every summer since she was thirteen, and put her hand in, and felt for a ring.
+
+There was a handkerchief. Soft, and folded small, and pressed. Nothing else.
+
+She shut the drawer.
+
+The last old thing of the Dark Lord’s that her father had kept for a friend had lived in a drawer too, in this house, in the summer she was twelve. She had asked him what it was. He had told her it was an old book.
