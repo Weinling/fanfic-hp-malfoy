@@ -2,6 +2,8 @@
 
 *28 de octubre de 2026, modo autónomo, con el autor en el chat. Sale del rumbo aprobado (handoff §7 y §8), de las nueve decisiones del autor del 28 de octubre (§4 de `docs/notas/revisiones/revision-tanda-31-40.md`), de Fable 002 y 003 y de la revisión de la tanda 31-40. Base leída: el handoff entero, la continuidad transversal, el texto completo del 24 al 40 y del* Interludio 1*; del 1 al 23 y los* Year One*, la continuidad transversal y grep (el contexto no daba para los manuales enteros); la revisión 31-40 entera; Fable 001, 002 y 003; `lo-que-sabe-harry.md`, `ideas-divergencias.md` y `poda-agente.md`; el borrador del arranque desde Harry; el guion 31-40 como formato; los resúmenes de la oficial del 52 al 73 y las tablas del 74 al 92. Los capítulos originales enteros se leen al hacer cada ficha.*
 
+> **APROBADO por el autor (29 de octubre de 2026, en el chat): el guion tal como está, con los cambios de Fable 004.**
+
 **Etiquetas de cada escena:** **se queda** (hecho y función del original, con forma nuestra); **cambia** (del original, con otra causa, orden o testigo); **sustituye** (ocupa el sitio de algo que cae); **nuevo** (no está en el original).
 
 ---
