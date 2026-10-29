@@ -39,3 +39,57 @@ She passed it to him. Her hand was quite steady, which was something.
 “Thank you,” said Draco, with heavy irony, and their father laughed again, at that, as he laughed at everything Draco said this summer; and her mother turned from the window and looked, not at Draco, but at Lyra, and at the cup Lyra was still holding, which had gone cold some time ago.
 
 Lyra drank from it, cold, to have something to do, and asked Draco what work an old man in a cottage could possibly have.
+
+⁂
+
+Her father sent for her after lunch.
+
+The study was the coolest room in the Manor in summer, and the darkest, and he had the curtains half drawn against the glare off the lawn, so that the four generations of Malfoys in the panelling were mostly frames and faces, pale in the brown gloom, and not much else. He had a glass of something at his elbow. He shut the door behind her himself, which Pobble usually did, and she heard the privacy charm come up in the walls like a held note.
+
+“Sit down, my treasure. No. Sit there, where I can see you.”
+
+She sat. He did not go back behind the desk. He leaned on the front of it, with the glass in his hand, and looked at her the way he had looked at her on the platform, as if he could not quite believe his luck.
+
+“I wrote to you,” he said. “I know I did. But a letter is a poor thing for news like this, and you have had a week of the castle since, and Dumbledore talking.” He smiled. “I want you to hear it in this room. He has asked after you.”
+
+Lyra waited.
+
+“By name.” He let it sit there between them, like a gift on a table. “He knows whose hand carried the letter in November. He spoke of it. He said that Lucius Malfoy’s daughter had done in an evening what grown men had failed to do in a year, and that he would remember it.” His voice dropped a little, not for secrecy, since the walls were humming, but because there were things he said more quietly out of reverence. “He has never singled out a child before, Lyra. Not one. Not in all the years. Do you understand what that is?”
+
+“Yes, Father.”
+
+She did. She understood it a great deal better than he did. A man who remembered whose hand had carried a thing would remember, if it came to it, whose hand had carried the next one, and where.
+
+“There are things I shall need from you,” said her father. “Small things. The first is the House. When you go back in September, there will be some in Slytherin who have heard, from their fathers, or guessed, and who will be excited, and who will talk. Children are careless. A careless word in the wrong corridor, while the Ministry still has its head in the sand, could cost us a great deal. I want them kept quiet. I want them kept *proud*.” He looked at her over the glass. “You can do that, I think.”
+
+“I can do that,” said Lyra.
+
+She had done it already, in a green-lit room on the last night of term, to a lot of frightened second-years and a knot of sixth-years with their fathers’ faces. He did not know that. She found she did not want to tell him.
+
+“And the second,” said her father, “is the Potter boy.”
+
+She had known it was coming since the platform. She had her face ready for it.
+
+“We’ve parted.”
+
+“Have you.” He did not ask why. He turned the glass a little in his fingers, watching the light move in it. “A boy who confides is worth sitting beside, I said. I still think so. Parting is not a door shut, my darling, it is only a door, and you are a great deal cleverer than he is.” He smiled at her, fondly. “If he should wish to confide in you again, let him.”
+
+He did not believe her. That was plain. And it did not matter to him in the least, which was worse.
+
+He looked at her for a moment longer, quite carefully, as he looked across a dinner table at a man he was about to buy something from, to see what the man was keeping back. Lyra let him look. Behind her face, somewhere he could not reach, there was a tablecloth and a finger counting days on it, and a platform, and a man walking past her with a crate. She did not hide it, exactly. She simply did not let it come up to the surface, as one does not let a cough come up in church; and her father looked, and found his daughter, and seemed satisfied.
+
+“Severus was late,” he said, in a different voice, almost idly, turning to the window. “On the night. Did you know? Two hours. He came in when it was nearly over, with mud on him, and said that Dumbledore had kept him at the castle and he had come the moment he could get away.” He shrugged. “He had his reasons, he says. The Dark Lord accepted them. I suppose I must.”
+
+He did not sound as though he supposed anything of the kind, and Lyra thought of a man in an emptying stand, holding his own arm with his eyes shut, listening.
+
+Then her father lifted his glass, not to her, but to the wall.
+
+She followed it. It was the nearest of the four portraits, the one hung lowest, in the darkest corner, where the curtain’s shadow fell: an old man in grey with his chin sunk on his chest and his hands folded on the head of a cane, asleep. He was always asleep. In fourteen years Lyra had never once seen him open his eyes, though the great-uncle above him cleared his throat at silences, and the ladies at the far end talked to each other about hats. She had supposed, when she was small, that some portraits simply came out sleepy, as some children did.
+
+“Your grandfather,” said her father, “would have given a great deal to see this summer.”
+
+He drank. Lyra looked at the sleeping face, which had her father’s long chin and nothing else she could see of anybody.
+
+She knew the story, as one knows the story of a house: Abraxas Malfoy, who had been at school with half the old names in the country and had outlived most of them, and had died of dragon pox when she was too small to remember him, very fast, in the east wing, with the doors shut, so that it should not spread. There had been no lying in state. She had been told that the dragon pox did dreadful things to a face, and that it was better to remember him as the painter had.
+
+“He would have been proud of you,” said her father, and finished his glass, and put it down. “Run along. Your mother will want you for something, I expect. She generally does.”
