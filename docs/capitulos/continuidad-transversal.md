@@ -286,12 +286,18 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 - **Los mil galeones:** Potter se los ofreció a Diggory en el vestíbulo; Diggory los tiró. Potter está en el grupo de Defensa de Diggory (séptimo piso) por saber hacer un Patronus.
 - **Draco**, en ese grupo, con un galeón falso que le dio Potter («tell him first»). Lyra y Potter, peleados: «You used my brother»; ella le formuló el tablero (D1).
 
+### Lo que cambia en el 49 (30 de octubre)
+- **Lyra reconoce la letra:** la etiqueta de la caja de Draco («*For the gentleman*», lacre verde) es la del sobre de Karkaroff (28), ya sin temblor. No abrió la caja. **Draco encontró lo de la lista** (detrás de la pared del séptimo piso) sin avisar a Potter y se lo lleva a casa.
+- **Harry le dio a Lyra la nota de Regulus** para Narcissa (con permiso de Dumbledore): «It isn’t on anybody’s account». Lyra vio **el calentador** en su cuello. Le explicó lo de **la moneda**. Siguen «sin hablarse» desde el 48, pero menos.
+- **Sirius** (perro) en Hogsmeade: Lyra le dio un ratón de azúcar.
+- **Crabbe** se queda en Hogwarts en Navidad; su padre estuvo en el norte la noche del regreso.
+
 ## 5. Fichas vivas
 
 | Ficha | Dónde está | Última vez | Nota |
 |---|---|---|---|
 | La pluma de azúcar | **Harry**, en el bolsillo de la varita | 30 | Comprada el Halloween de 1993; entregada en la tienda (30): «You eat it afterwards. If you’ve been sensible.» / «…Which one?». Hilo cerrado |
-| El calentador de botón | Harry, junto a la varita | 16 | Lyra no sabe que lo recuperó |
+| El calentador de botón | Harry, en el cuello, bajo la bufanda | 49 | Lyra lo vio en Las Tres Escobas: sabe que volvió a por él |
 | El pañuelo (18) | Lyra; lavado y planchado, en el cajón de su mesilla de la Mansión | 41 | Lo metió en la lata del anillo y lo volvió a sacar: se lo queda |
 | La posdata de Narcissa | **Enviada a Narcissa** con la respuesta de Lyra debajo (*It was Harry Potter who was asking*) | 33 | Contestada el 29 de diciembre de 1994 |
 | El papel de los onces | El mismo libro | 15 | — |
