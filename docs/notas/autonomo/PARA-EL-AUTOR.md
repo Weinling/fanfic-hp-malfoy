@@ -13,6 +13,26 @@ Lo pone al día cada sesión autónoma al terminar. Lo más nuevo, arriba.
 - **«I love you» en el 45** (la pluma de sangre, con Lyra vigilando la detención), sin reencuentro; **el norte en el 46** (Harry, ciego, le pide ayuda y ella le da la mentira del 37, y le esconde a Draco); **ningún beso** en la tanda.
 - **El abuelo existe en el texto desde el 41** (Lucius brinda ante su retrato dormido, muerto de viruela de dragón); en el 50 el retrato está quitado y Lyra dice «Grandfather».
 
+**30 de octubre, al final: la tanda 41-50, escrita entera.** **Sin crítica** (del 42 en adelante): la crítica y la revisión las hace Codex con `docs/notas/encargo-codex-critica-y-revision.md` (§0: dos prompts, uno para el crítico a ciegas y otro para el revisor que decide y aplica, para que quien aplica no sea quien critica). Después de Codex, ya se pueden subir.
+
+| Orden | Capítulo | Palabras |
+|---|---|---|
+| 41 | *The Sleeve* (criticado) | ~3.060 |
+| — | *Interlude: The Wrong Night* (criticado) | ~3.730 |
+| 42 | *Badges* | ~2.930 |
+| — | *Year One, Part 5: The Forest* | ~2.490 |
+| — | *Year One, Part 6: The Black Pieces* | ~2.110 |
+| 43 | *Prefects* | ~3.040 |
+| 44 | *Rounds* | ~3.120 |
+| 45 | *Lines* («I love you», en la detención) | ~3.000 |
+| 46 | *Where the Sea Is* (Lyra le da el norte) | ~3.000 |
+| 47 | *Pretext* | ~2.820 |
+| 48 | *Him, and Now You* | ~2.900 |
+| 49 | *The Button Warmer* | ~3.250 |
+| 50 | *The East Cottage* (Abraxas) | ~3.420 |
+
+⚠ El 42, el 47 y el 48 se quedan algo cortos (bajo 3.000). ⚠ En el 50, el Señor Tenebroso va a saber por Abraxas que alguien en Hogwarts conoce los Horrocruxes (la diadema rota): la tanda siguiente arranca con eso.
+
 **30 de octubre.** **Listo para subir:** ***Interlude: The Wrong Night*** (`borradores/interludio-2-the-wrong-night.md`, ~3.730 palabras), **entre el 41 y el 42**: Harry, a ciegas; los dementores dos noches antes; Sirius y Pettigrew en Azkaban sin nombre; la casucha vacía. Criticado y arreglado (el crítico lo pone por encima del primer interludio). ⚠ La diadema la destruyó Harry en **septiembre de 1994**, la primera noche del curso (no en verano: en agosto no estaba en Hogwarts).
 
 **Escrito, sin crítica:** ***42, Badges*** (`borradores/cap-42-badges.md`, ~2.930): la insignia de prefecta, la lista de Draco, Narcissa abre la puerta («I should like to see his hand once more»), y Potter al otro lado del callejón Diagon. **Para Codex:** `docs/notas/encargo-codex-critica-y-revision.md` (§0, el prompt para pegar).
