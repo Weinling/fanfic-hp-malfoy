@@ -271,6 +271,11 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 - **«I love you»**, escrito por Harry en su propia sangre bajo «I must not tell lies», en la detención que vigilaba Lyra (viernes 29 de septiembre); las palabras, también en el dorso de su mano derecha. Primera vez que cualquiera de los dos lo dice. Ella le quitó cinco puntos y se fue; el lunes le dejó un frasco de murtlap: «Keep the jar.» Sigue vigilando sus detenciones.
 - **Crabbe** sabe que «somebody cut themselves»; su prima de Hufflepuff dice que Umbridge ha tenido a tres más.
 
+### Lo que cambia en el 46 (30 de octubre)
+- **Harry sabe el norte:** la casa georgiana de los Malfoy en la costa de Northumberland, al norte de Alnwick, sin registro, y que Karkaroff dijo «in the north» (la mentira del 37, confesada). Su cicatriz le enseña desde julio esa casa (los perros de piedra) y a un viejo de pelo blanco y bastón de puño de plata que no se arrodilla. **Lyra le mintió** sobre los recados de su padre y Draco («No»).
+- **El anillo de Lyra** vuelve a ella, como herramienta («if it goes red… I’ll come»); en su palma, **azul**. Lo lleva en el bolsillo.
+- **Snape** enseña a Lyra los jueves; vio «una vela» en un pasillo y no preguntó.
+
 ## 5. Fichas vivas
 
 | Ficha | Dónde está | Última vez | Nota |
@@ -280,7 +285,7 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 | El pañuelo (18) | Lyra; lavado y planchado, en el cajón de su mesilla de la Mansión | 41 | Lo metió en la lata del anillo y lo volvió a sacar: se lo queda |
 | La posdata de Narcissa | **Enviada a Narcissa** con la respuesta de Lyra debajo (*It was Harry Potter who was asking*) | 33 | Contestada el 29 de diciembre de 1994 |
 | El papel de los onces | El mismo libro | 15 | — |
-| Los anillos | **Harry, los dos** (Lyra le devolvió el suyo en una lata de galletas, 40) | 40 | Colores: rojo (peligro de muerte), rosa (con su pareja), morado (en guardia), dorado (éxito), verde (a salvo), azul (solo insinuado en el 24: «anything that might come out blue»; el plan dice «te echa de menos»), azul oscuro (dormido, sin nombrar en el texto). Parpadeo: el otro le busca. Se calienta hacia el otro. Plata lisa: el otro está donde el anillo no llega (el baúl de Moody, 32) |
+| Los anillos | **Cada uno el suyo** desde el 46: Harry le devolvió a Lyra el suyo «not to wear», para que le llame si se pone rojo; en su palma, azul | 46 | Colores: rojo (peligro de muerte), rosa (con su pareja), morado (en guardia), dorado (éxito), verde (a salvo), azul (solo insinuado en el 24: «anything that might come out blue»; el plan dice «te echa de menos»), azul oscuro (dormido, sin nombrar en el texto). Parpadeo: el otro le busca. Se calienta hacia el otro. Plata lisa: el otro está donde el anillo no llega (el baúl de Moody, 32) |
 | Los omniculares de Potter | Lyra; en la Manor, bajo la almohada (25) | 25 | Dos horas de ella grabadas. **No son ficha** (autor): no vuelven como tal |
 | La insignia S.P.E.W. | Bolsillo de Lyra | 26 | Los dos galeones: prometidos, no consta que se pagaran |
 | La carta de Lupin | Bolsa de Lyra | 36 | **Contestada** en abril de 1995 (una página, firmada *Yours sincerely*) |

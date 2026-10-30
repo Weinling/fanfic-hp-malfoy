@@ -1,0 +1,9 @@
+# Capítulo 46 — *Where the Sea Is*: ficha (corta)
+
+*30 de octubre de 2026. Guion aprobado (§2, cap. 46, con Fable 004: el tablero pasa al 48; el norte, por la mano del 45). Referencia: originales 61 y 62, casi sustituidos (por el resumen; cotejo al cerrar, cero). Grep: el aula del tercer piso tras el tapiz del caballero (31, 34, 37); la mentira del 37 («Nothing»); el anillo y sus colores (24, 32); Northumberland a los siete (1, 37).*
+
+Motor: Harry, ciego, le pide ayuda. Peldaño: sube (el pago del thriller), con mentira nueva. Pantallazo: el anillo azul en la palma, sin nombrarlo. Calor: «It isn’t grim. It’s Georgian.» Gancho: Draco en el desayuno. Fechas: un jueves de principios de octubre (Snape); miércoles 18 de octubre (la nota y el aula); jueves 19 (desayuno).
+
+Escenas: (0) **Snape, cuarto jueves** *[nuevo]*: la habitación amueblada; él ve una vela en un pasillo que no reconoce; ella la apaga; «I do not ask what it was». (1) La nota: «*Please*». (2) Lo que ve Harry: la casa junto al mar, la chimenea con **dos perros de piedra**, el viejo de pelo blanco y bastón de puño de plata que **no se arrodilla**; el anillo de la casucha; «Somebody’s going round collecting his things». (3) **El norte:** la casa georgiana al norte de Alnwick, sin registro; a los siete, por traslador; los perros de piedra (metió la mano en la boca del de la izquierda); lo que dijo Karkaroff. «I don’t know who he is» (verdad). (4) **Lo que no le da:** «collecting» → su padre y Draco con la vela; «No»; él la mira un momento de más; «Right». (5) **El anillo**, devuelto como herramienta: «If… it goes red, I’ll know. And I’ll come»; en su palma, **azul**. «Don’t go there yourself.» / «I won’t.» / «Liar.» (6) Desayuno: Draco «knows the trick».
+
+Se quita del original: el sueño de la puerta del Ministerio, Draco espiando y la voz que manda estrangularle (61); Dumbledore con el anillo destruido, «I’m withdrawing from school» y la pelea con Ron (62).
