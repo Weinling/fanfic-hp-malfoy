@@ -292,6 +292,14 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 - **Sirius** (perro) en Hogsmeade: Lyra le dio un ratón de azúcar.
 - **Crabbe** se queda en Hogwarts en Navidad; su padre estuvo en el norte la noche del regreso.
 
+### Lo que cambia en el 50 (30 de octubre): fin de la tanda 41-50
+- **Lyra sabe que el señor de la casita es su abuelo, Abraxas Malfoy**, vivo, con la viruela casi curada y las manos firmes (la cura del Señor Tenebroso, intuida, no dicha). Lo dijo ella: «Grandfather.» **Draco** lo sabe desde esa noche.
+- **La diadema** (rota por Harry en 1994) llegó a la casita en la caja de Draco. Abraxas, aterrado: «Somebody in that castle knows what this is. And I shall have to tell him so.» Lyra no sabe qué es.
+- **El retrato de Abraxas** ya no está en el despacho (un clavo); quedan tres.
+- **Narcissa** tiene la nota de Regulus («Tell him thank you»).
+- **El señor Crabbe** amenazó con cortesía a Lyra en la cena de Nochebuena. «Absent friends»: los invitados miran al este.
+- **El anillo de Lyra** se calienta en su bolsillo la noche del 25.
+
 ## 5. Fichas vivas
 
 | Ficha | Dónde está | Última vez | Nota |
