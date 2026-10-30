@@ -93,3 +93,65 @@ The thirty-first. Not the second. Two days early, on a Monday, in a park instead
 He had been ready for the Dementors. He had been ready for them for three weeks. What he had not been ready for was to be wrong about a Monday.
 
 The Ministry’s letter came at half past nine, by a screech owl that nearly took Aunt Petunia’s eye out, and said everything he had known it would say. Dumbledore’s came twenty minutes later, and said *stay in the house*, and *you will be collected*, and nothing whatever about how the Dementors had known to come on the wrong night. Harry read both at the kitchen table with Uncle Vernon shouting at him from the doorway and Dudley grey and silent on the sofa with a bar of chocolate Harry had given him, eating it very slowly, as if he had forgotten what it was for.
+
+⁂
+
+They came for him the next night, a little after eleven, and the first thing through the front door was a wooden leg.
+
+Moody stumped into the hall of Number Four with his staff in one hand and his wand in the other, and his magical eye went round the hall and up the stairs and through the kitchen wall to where the Dursleys were, by the sound of it, all three trying to get behind the fridge. Behind him, in the doorway, filling it, was a man in a long coat with his hair cut short and a face that had been eating properly for a year. Sirius looked at Harry across the hall and grinned, and it took ten years off him and put them straight back on again.
+
+“Happy birthday,” said Sirius. “Sorry it’s late. There was a committee.”
+
+They went by broom, over the rooftops of Surrey and the long dark spread of London, with Moody at the back watching everything at once, and came down in a square of tall shabby houses where a door that had not been there a moment ago came up out of the pavement between Number Eleven and Number Thirteen like somebody shouldering through a crowd.
+
+In the hall, while Sirius was getting the door shut and a portrait somewhere in the dark was waking up and beginning to scream, Harry said to Moody, “Can I have my map back?”
+
+The blue eye came round to him.
+
+“No,” said Moody. “It’s the Order’s now. You lent it to me, Potter. I’m keeping it lent.” He considered. “You can borrow it, if Albus says. Ask him.”
+
+Harry had known it would be no. He had asked so that it should be said, out loud, in a hall, and be finished. It was a strange thing to want, and he found that he wanted it.
+
+⁂
+
+Twelve Grimmauld Place was as he remembered it: dark and narrow and smelling of damp and old money, with the elf-heads on the stairs and the curtains over the portrait of Sirius’s mother, who called him a blood-traitor’s whelp and a filthy half-breed’s brat in a voice like a kettle on a fire until Sirius put his fist through the air in front of her and she stopped. It was not as he remembered it in one thing. There were no Weasleys yet, and no Lupin, and nobody had begun to clean it, and Sirius had been alone in it since Christmas.
+
+“I go out,” said Sirius, in the kitchen, when Harry asked. He was making tea, badly. “I’m allowed to go out. That’s the joke. Nobody’s hunting me. I can walk down Diagon Alley in broad daylight if I like, and every second witch crosses the road, because I was in Azkaban twelve years for murdering thirteen people and nobody has ever stood up and said I didn’t.” He put the pot down too hard. “I could clear my name in an afternoon, you know. The proof’s about four feet tall and smells of rat, and it’s in Azkaban.”
+
+Harry knew. Dumbledore had told him, the summer before last, in his office, with Fawkes asleep on the perch: that he had handed Peter Pettigrew to the Minister himself, in private, with his memory and Harry’s and Lyra Malfoy’s of the shore; and that Fudge had looked at the rat-faced little man for a long time, and then at the Wizengamot’s records of the trial that had never been held, and had sent Pettigrew to Azkaban under no name at all, rather than stand up in front of the country and say that the Ministry had locked away the wrong man for twelve years. Sirius was free of the hunt because Fudge was not a cruel man. He was not cleared because Fudge was a frightened one.
+
+“One day,” said Harry.
+
+“One day,” said Sirius, and gave him a mug of tea with the bag still in it, and sat down across the table and looked at him, pleased, the way he looked at Harry every time as though Harry were a thing he had been allowed to keep.
+
+Harry drank his tea, and looked back, and did the other count. He had not wanted to. It came anyway.
+
+June. A year, near enough. A room full of arches, and a veil that moved without any wind.
+
+He knew the date. He had known it since he was eleven. He had always meant, when he got to it, to do something about it; and he had always had a year at least, and the board under his hands, and a good idea of where every piece would be. He looked at his godfather across the kitchen table, laughing at something Moody had said about the portrait, and thought: *I knew the date of the Dementors as well.*
+
+⁂
+
+The Order met in the kitchen most nights, with the door shut and Harry on the wrong side of it, and on the third night he came down the stairs for a glass of water at the wrong moment and met Snape coming up.
+
+They stopped on the same step, in the dark, with the elf-heads looking down. Snape had his cloak over his arm. In the light from the kitchen door his face was very tired and very yellow, and he looked at Harry the way he had looked at him since they were both a good deal younger in this life than in the other: as if Harry were a letter he had not been able to make himself open.
+
+Harry looked back.
+
+It was not as it had been in the other life, on a staircase or anywhere. He knew what Snape was. Not because anybody had told him; because he had been told once already, on a stone floor, with a man dying beside him and a great deal of silver coming out of his eyes, and he had carried it a long way since. He knew what the arm under that sleeve had cost, and what it had been for, and whose eyes it had been for. He knew how it would end, if nobody did anything, and that he did not know, any more, whether anything he did would make a difference to it.
+
+He did not hate him. It was a long time since he had, in this life, and Snape had never worked out when it stopped.
+
+“Potter,” said Snape.
+
+“Sir.”
+
+Snape went on looking for a moment longer. Then he went on up the stairs, past him, without a word, and Harry heard him stop on the landing above, and stand there, before he went on.
+
+⁂
+
+The hearing was on the twelfth. He was cleared, by a show of hands, with Dumbledore beside him and Fudge looking at the wall, and it was exactly as he had known it would be, and it did not make him feel any better at all.
+
+The Weasleys came on the fourteenth, in a great noise in the hall, with Ron grown another inch and Fred and George with an explosion already arranged for the drawing room, and Hermione last of all, with a trunk and a cat and an expression Harry had last seen on her face in the hospital wing, over the top of a book she was not reading.
+
+She did not ask him anything. She hugged him, and said he looked thin, and went to help Mrs Weasley with the curtains; and at dinner, across the long table, when he looked up from his plate, she was looking at him. She went on doing it. Not all the time. Just whenever he had forgotten that she might.
