@@ -28,9 +28,9 @@ Harry read it, and put the paper down, and looked at the ceiling.
 
 Somebody had taken a bone out of that grave, the night of the Third Task, while he stood on a podium with his wand up and a cup in his hand, waiting for a churchyard that never came. He had been right. He had been right about the bone and the blood and nearly everything, and none of it was any use to him, because he did not know where it had been done. Not here. Not the house on the hill, not the yew, not the gravestone with the name on it. Somewhere else, that he had never seen in either life.
 
-He did the count instead. He did it most nights, the way other people counted sheep.
+He did the count instead. He did it most nights, as other people counted sheep.
 
-The diary, two summers ago, with a fang out of the Chamber. The locket, in a cave, last August. The diadem, the same week, in a room on the seventh floor full of other people’s junk, with the same fang; he had gone up alone at three in the morning, and asked the wall for the place where things were hidden, and found it where he had known it would be, on the head of an ugly stone bust; and he had put the pieces back afterwards, where nobody would look, and told Dumbledore at breakfast, and Dumbledore had said nothing at all for so long that Harry had eaten two pieces of toast. Three, then.
+The diary, two summers ago, with a fang out of the Chamber. The locket, in a cave, last August. The diadem, the same week, in a room on the seventh floor full of other people’s junk, with the same fang; he had gone up alone at three in the morning, and asked the wall for the place where things were hidden, and found it where he had known it would be, on the head of an ugly stone bust; and he had put the pieces back afterwards, where nobody would look, and told Dumbledore at breakfast, and Dumbledore had said nothing for so long that Harry had eaten two pieces of toast. Three, then.
 
 The ring, in a shack in Little Hangleton, under a floorboard. He knew where it was. He knew what it did to the hand that put it on, because he had watched it blacken one, in the other life, and Dumbledore knew that he knew, because Harry had told him. *Not that one*, Dumbledore had said. *Not yet. When the time comes.* He had said it the summer before last, and again at Christmas, and again in May, and every time a little less as if he believed it.
 
@@ -58,7 +58,7 @@ It was very warm. The streetlamps had come on, orange, along the edge of the par
 
 The dog stopped barking.
 
-Harry noticed it the way you notice a clock that has stopped: not the silence, but the place where the noise had been. Then the streetlamp nearest the swings went out. Then the next. The warm air went out of the evening as if somebody had opened a door on to January, and his breath came out of him white.
+Harry noticed it as you notice a clock that has stopped: not the silence, but the place where the noise had been. Then the streetlamp nearest the swings went out. Then the next. The warm air went out of the evening as if somebody had opened a door on to January, and his breath came out of him white.
 
 *No*, he thought, quite clearly. *Not tonight. It’s Monday.*
 
@@ -68,7 +68,7 @@ He ran.
 
 Dudley was on his knees at the end of the alley with his arms over his head. Over him, tall and hooded and patient, two shapes that blotted out the lamplight, bending; and as Harry came down the alley the cold came up to meet him like water, and with it the voices, the old ones, a woman screaming and a high cold laugh, and under them, newer, a girl’s voice saying *that was the last one*, quite steadily, from somewhere very close.
 
-He did not go looking for a happy memory. He did not need to look. He had one sitting at the front of his head and had been trying for a month not to take it out.
+There was no need to go looking for a happy memory. He had one sitting at the front of his head and had been trying for a month not to take it out.
 
 A tent. A canvas roof, and a dragon somewhere on the other side of it, roaring, and a hand he could not see laid over his on the edge of a bench.
 
@@ -76,7 +76,7 @@ A tent. A canvas roof, and a dragon somewhere on the other side of it, roaring, 
 
 The fox came out of his wand at a run, silver and low and furious, and went straight through the nearer Dementor as if it were smoke, and turned on the second, and the second went up and back and away over the rooftops like a sheet blown off a line. The cold went with them. The lamps came on along the alley, one by one, as though nothing had happened.
 
-The fox came trotting back. It sat down in front of him on the tarmac, very upright, with its brush round its feet and its chin up, and looked at him in the way it always looked at him afterwards: as if it had done something rather fine and was waiting for him to say so.
+The fox came trotting back. It sat down in front of him on the tarmac, very upright, with its brush round its feet and its chin up, and looked at him as it always looked at him afterwards: as if it had done something rather fine and was waiting for him to say so.
 
 “Yeah,” said Harry. His voice came out wrong. “I know. Thanks.”
 
@@ -88,7 +88,7 @@ Dudley was being sick against the wall.
 
 Harry got him up. It took a while; Dudley was heavier than he looked, and wetter, and he kept trying to sit down again. Harry got an arm under him and walked him back along Magnolia Crescent under the orange lamps, with Dudley’s weight on his shoulder and Dudley’s breath going in great shuddering gulps beside his ear, and all the way he thought about the date.
 
-The thirty-first. Not the second. Two days early, on a Monday, in a park instead of an alleyway, with no warning at all.
+The thirty-first. Not the second. Two days early, on a Monday, in a park instead of an alleyway, with no warning.
 
 He had been ready for the Dementors. He had been ready for them for three weeks. What he had not been ready for was to be wrong about a Monday.
 
@@ -122,7 +122,7 @@ Harry knew. Dumbledore had told him, the summer before last, in his office, with
 
 “One day,” said Harry.
 
-“One day,” said Sirius, and gave him a mug of tea with the bag still in it, and sat down across the table and looked at him, pleased, the way he looked at Harry every time as though Harry were a thing he had been allowed to keep.
+“One day,” said Sirius, and gave him a mug of tea with the bag still in it, and sat down across the table and looked at him, pleased, as though Harry were a thing he had been allowed to keep.
 
 Harry drank his tea, and looked back, and did the other count. He had not wanted to. It came anyway.
 
@@ -140,7 +140,7 @@ Harry looked back.
 
 It was not as it had been in the other life. He knew what Snape was. Not because anybody had told him; because he had been told once already, on a stone floor, with a man dying beside him and a great deal of silver coming out of his eyes, and he had carried it a long way since. He knew what the arm under that sleeve had cost, and what it had been for, and whose eyes it had been for. He knew how it would end, if nobody did anything, and that he did not know, any more, whether anything he did would make a difference to it.
 
-He did not hate him. It was a long time since he had, in this life, and Snape had never worked out when it stopped.
+He did not hate him. He had stopped, in this life, a long time ago, and Snape had never worked out when.
 
 “Potter,” said Snape.
 
@@ -150,11 +150,11 @@ Snape went on looking for a moment longer. Then he went on up the stairs, past h
 
 ⁂
 
-The hearing was on the twelfth. He was cleared, by a show of hands, with Dumbledore beside him and Fudge looking at the wall, and it was exactly as he had known it would be, and it did not make him feel any better at all.
+The hearing was on the twelfth. He was cleared, by a show of hands, with Dumbledore beside him and Fudge looking at the wall, and it was exactly as he had known it would be, and it made him feel no better whatever.
 
 The Weasleys came on the fourteenth, in a great noise in the hall, with Ron grown another inch and Fred and George with an explosion already arranged for the drawing room, and Hermione last of all, with a trunk and a cat and an expression Harry had last seen on her face in the hospital wing, over the top of a book she was not reading.
 
-She did not ask him anything. She hugged him, and said he looked thin, and went to help Mrs Weasley with the curtains; and at dinner, across the long table, when he looked up from his plate, she was looking at him. She went on doing it. Not all the time. Just whenever he had forgotten that she might.
+She asked him nothing. She hugged him, and said he looked thin, and went to help Mrs Weasley with the curtains; and at dinner, across the long table, when he looked up from his plate, she was looking at him. She went on doing it. Not all the time. Just whenever he had forgotten that she might.
 
 ⁂
 
@@ -170,9 +170,9 @@ The shack was where he had seen it in a memory that was not his, in an office th
 
 Harry lit his wand and went in.
 
-It was one room, low and filthy, smelling of rot and mice. He did not look round it. He went straight across to the hearth, to the place on the left where the boards were shorter than the others, and crouched; and he had his hand out before he saw that he did not need it.
+It was one room, low and filthy, smelling of rot and mice. He went straight across to the hearth, to the place on the left where the boards were shorter than the others, and crouched; and he had his hand out before he saw that he did not need it.
 
-The board was up. It lay to one side, on the floor, the right way up, as somebody had set it down who had not cared whether anybody knew. Underneath it there was a hollow in the earth the size of two fists, and in the hollow there was nothing at all.
+The board was up. It lay to one side, on the floor, the right way up, as somebody had set it down who had not cared whether anybody knew. Underneath it there was a hollow in the earth the size of two fists, and in the hollow there was nothing.
 
 He knelt there with his wand lit and looked at it for some time.
 
@@ -188,7 +188,7 @@ The wand-light shook. He put his other hand round his wrist and held it until it
 
 There was a place in his head he did not go.
 
-He did not go there now, either. But kneeling on that floor in the dark, with the empty hollow under his light and the dog at the gate and the whole of the year in front of him gone blank, he came nearer the edge of it than he had in a long time: near enough to feel the cold coming off it, and smell the leaves, and see, for no more than a breath, a light the colour of the snake on the door, very bright, very close, coming towards him through trees.
+He did not go there now, either. But kneeling on that floor in the dark, with the empty hollow under his light and the dog at the gate and the whole of the year in front of him gone blank, he came nearer the edge of it than he had in a long time: near enough to feel the cold coming off it, and smell the leaves, and see, for no more than a breath, a light, green, very bright, very close, coming towards him through trees.
 
 And after it, nothing. There had never been anything after it. That was the place.
 
