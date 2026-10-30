@@ -58,7 +58,7 @@ It was very warm. The streetlamps had come on, orange, along the edge of the par
 
 The dog stopped barking.
 
-Harry noticed it the way you notice a clock that has stopped: not the silence, but the place where the noise had been. Then the streetlamp nearest the swings went out. Then the next. The warm air went out of the evening all at once, as if somebody had opened a door on to January, and his breath came out of him white.
+Harry noticed it the way you notice a clock that has stopped: not the silence, but the place where the noise had been. Then the streetlamp nearest the swings went out. Then the next. The warm air went out of the evening as if somebody had opened a door on to January, and his breath came out of him white.
 
 *No*, he thought, quite clearly. *Not tonight. It’s Monday.*
 
@@ -86,7 +86,7 @@ It went on looking at him. It had her chin.
 
 Dudley was being sick against the wall.
 
-Harry got him up. It took a while; Dudley was a great deal bigger than he had been in the other life at fifteen, and wetter, and he kept trying to sit down again. Harry got an arm under him and walked him back along Magnolia Crescent under the orange lamps, with Dudley’s weight on his shoulder and Dudley’s breath going in great shuddering gulps beside his ear, and all the way he thought about the date.
+Harry got him up. It took a while; Dudley was heavier than he looked, and wetter, and he kept trying to sit down again. Harry got an arm under him and walked him back along Magnolia Crescent under the orange lamps, with Dudley’s weight on his shoulder and Dudley’s breath going in great shuddering gulps beside his ear, and all the way he thought about the date.
 
 The thirty-first. Not the second. Two days early, on a Monday, in a park instead of an alleyway, with no warning at all.
 
@@ -118,7 +118,7 @@ Twelve Grimmauld Place was as he remembered it: dark and narrow and smelling of 
 
 “I go out,” said Sirius, in the kitchen, when Harry asked. He was making tea, badly. “I’m allowed to go out. That’s the joke. Nobody’s hunting me. I can walk down Diagon Alley in broad daylight if I like, and every second witch crosses the road, because I was in Azkaban twelve years for murdering thirteen people and nobody has ever stood up and said I didn’t.” He put the pot down too hard. “I could clear my name in an afternoon, you know. The proof’s about four feet tall and smells of rat, and it’s in Azkaban.”
 
-Harry knew. Dumbledore had told him, the summer before last, in his office, with Fawkes asleep on the perch: that he had handed Peter Pettigrew to the Minister himself, in private, with his memory and Harry’s and Lyra Malfoy’s of the shore; and that Fudge had looked at the rat-faced little man for a long time, and then at the Wizengamot’s records of the trial that had never been held, and had sent Pettigrew to Azkaban under no name at all, rather than stand up in front of the country and say that the Ministry had locked away the wrong man for twelve years. Sirius was free of the hunt because Fudge was not a cruel man. He was not cleared because Fudge was a frightened one.
+Harry knew. Dumbledore had told him, the summer before last, in his office, with Fawkes asleep on the perch: that he had handed Peter Pettigrew to the Minister himself, in private, with his own memory of the shore and Harry’s; and that Fudge had looked at the rat-faced little man for a long time, and then at the Wizengamot’s records of the trial that had never been held, and had sent Pettigrew to Azkaban under no name at all, rather than stand up in front of the country and say that the Ministry had locked away the wrong man for twelve years. Sirius was free of the hunt because Fudge was not a cruel man. He was not cleared because Fudge was a frightened one.
 
 “One day,” said Harry.
 
@@ -134,11 +134,11 @@ He knew the date. He had known it since he was eleven. He had always meant, when
 
 The Order met in the kitchen most nights, with the door shut and Harry on the wrong side of it, and on the third night he came down the stairs for a glass of water at the wrong moment and met Snape coming up.
 
-They stopped on the same step, in the dark, with the elf-heads looking down. Snape had his cloak over his arm. In the light from the kitchen door his face was very tired and very yellow, and he looked at Harry the way he had looked at him since they were both a good deal younger in this life than in the other: as if Harry were a letter he had not been able to make himself open.
+They stopped on the same step, in the dark, with the elf-heads looking down. Snape had his cloak over his arm. In the light from the kitchen door his face was very tired and very yellow, and he looked at Harry the way he had looked at him since a winter when Harry was eleven: as if Harry were a letter he had not been able to make himself open.
 
 Harry looked back.
 
-It was not as it had been in the other life, on a staircase or anywhere. He knew what Snape was. Not because anybody had told him; because he had been told once already, on a stone floor, with a man dying beside him and a great deal of silver coming out of his eyes, and he had carried it a long way since. He knew what the arm under that sleeve had cost, and what it had been for, and whose eyes it had been for. He knew how it would end, if nobody did anything, and that he did not know, any more, whether anything he did would make a difference to it.
+It was not as it had been in the other life. He knew what Snape was. Not because anybody had told him; because he had been told once already, on a stone floor, with a man dying beside him and a great deal of silver coming out of his eyes, and he had carried it a long way since. He knew what the arm under that sleeve had cost, and what it had been for, and whose eyes it had been for. He knew how it would end, if nobody did anything, and that he did not know, any more, whether anything he did would make a difference to it.
 
 He did not hate him. It was a long time since he had, in this life, and Snape had never worked out when it stopped.
 
@@ -155,3 +155,43 @@ The hearing was on the twelfth. He was cleared, by a show of hands, with Dumbled
 The Weasleys came on the fourteenth, in a great noise in the hall, with Ron grown another inch and Fred and George with an explosion already arranged for the drawing room, and Hermione last of all, with a trunk and a cat and an expression Harry had last seen on her face in the hospital wing, over the top of a book she was not reading.
 
 She did not ask him anything. She hugged him, and said he looked thin, and went to help Mrs Weasley with the curtains; and at dinner, across the long table, when he looked up from his plate, she was looking at him. She went on doing it. Not all the time. Just whenever he had forgotten that she might.
+
+⁂
+
+He stopped waiting for Dumbledore on the sixteenth.
+
+He told Sirius in the drawing room, while the twins were upstairs blowing something up and Mrs Weasley was shouting at them about it, and he told him all of it: a shack, a ring, a curse that ran up the arm of whoever put it on and killed them by inches. Sirius listened with his chin on his fist. When Harry had finished he did not say *what does Dumbledore think*. He said, “When?”, and Harry loved him for it so suddenly that he had to look at the fireplace.
+
+They went that night. Sirius took his arm in the back yard, among the bins, and turned on the spot, and the world went small and black and squeezed, and came out again as a dark lane between hedges, with the smell of cows and wet grass and, a little way off, below them, the lights of a village and the square tower of a church.
+
+“There,” said Harry, and pointed up the slope, away from the village, to where a black mass of trees came down to the lane.
+
+The shack was where he had seen it in a memory that was not his, in an office that was not his either, in a life he had not had yet: crouched under the trees with nettles to its windowsills and moss on its roof, and a dead snake nailed to the door. Sirius looked at the snake, and at Harry, and changed without a word, and sat down in the lane beside the gate, a big black dog with his ears up and his eyes on the dark.
+
+Harry lit his wand and went in.
+
+It was one room, low and filthy, smelling of rot and mice. He did not look round it. He went straight across to the hearth, to the place on the left where the boards were shorter than the others, and crouched; and he had his hand out before he saw that he did not need it.
+
+The board was up. It lay to one side, on the floor, the right way up, as somebody had set it down who had not cared whether anybody knew. Underneath it there was a hollow in the earth the size of two fists, and in the hollow there was nothing at all.
+
+He knelt there with his wand lit and looked at it for some time.
+
+Then he made himself look at the rest, as Moody would have, as Malfoy would have; and saw what he had walked straight past. The dust on the floor had been disturbed, and not lately: there was a fine grey skin over the marks, a few weeks thick. A man had come in, and gone straight to the hearth, as Harry had, and gone straight out. And on the threshold, where the door scraped the boards, there was a little dry crust of earth that did not belong in the lane outside, which was mud. It was paler, and finer, and there were bits of something white in it.
+
+He knew where earth like that came from. He had read about it in the bottom of a bin on Sunday night, two lines on page nine.
+
+The same night, then. The same man, or one of the same men. Up the hill from the churchyard with a bone in his pocket, a mile up the lane, to a door with a dead snake on it; straight across to the hearth; straight out. Somebody who had known where to look, as Harry had known. Somebody who had been told.
+
+He had known where the ring was for three and a half years. He had left it under the floor, because Dumbledore said *not yet*, and because the board had always been there whenever he looked at it in his head, and he had thought it would always be there, because it always had been.
+
+The wand-light shook. He put his other hand round his wrist and held it until it stopped.
+
+There was a place in his head he did not go.
+
+He did not go there now, either. But kneeling on that floor in the dark, with the empty hollow under his light and the dog at the gate and the whole of the year in front of him gone blank, he came nearer the edge of it than he had in a long time: near enough to feel the cold coming off it, and smell the leaves, and see, for no more than a breath, a light the colour of the snake on the door, very bright, very close, coming towards him through trees.
+
+And after it, nothing. There had never been anything after it. That was the place.
+
+Outside, in the lane, the dog whined once, low.
+
+Harry put the board back over the hollow, the right way up, exactly where it had been, as though that could make any difference to anybody; and stood up, and put out his wand, and went out to Sirius in the dark.
