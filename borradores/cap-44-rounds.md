@@ -1,0 +1,195 @@
+# Chapter 44: Rounds
+
+Professor Umbridge’s classroom had been Mad-Eye Moody’s classroom, and nothing of Moody was left in it.
+
+The desks were back in their rows. The jars of things that wept were gone from the shelves, and the cracked mirror with the grey shapes in it, and the trunk; and in their place there were lace doilies, and a vase of dried flowers, and on the wall behind the desk a set of china plates, each with a kitten painted on it, wearing a bow. The kittens moved. They played with balls of wool. One of them, as Lyra sat down in the front row, looked at her and yawned.
+
+“Wands away,” said Professor Umbridge, sweetly, before anybody had got theirs out. “We shan’t be needing those.”
+
+It was a double period, with the Gryffindors. Lyra had chosen the front row because it was where a prefect sat, and because she could not see the Gryffindor side from it without turning her head, and she had no intention of turning her head. She put her wand away. She opened *Defensive Magical Theory*, by Wilbert Slinkhard, at chapter one, as instructed, and began to read it, as instructed, with every appearance of finding it delightful.
+
+It was the worst book she had ever opened. It was about the theory of defensive magic, and nothing else; there was not a single spell in it that one was expected to cast, only a great deal about the importance of non-retaliation and the dangers of overreaching oneself. It had been written, as far as she could tell, for people who wanted to be attacked politely.
+
+Behind her, on the Gryffindor side, a hand went up. She knew whose without turning round. Granger’s hand made a particular sound going up, a kind of rush of air, as though it had been waiting all summer.
+
+It went on going up, and staying up, for some time. Umbridge read the register. Umbridge explained the course aims, which were on the blackboard. Umbridge smiled at the hand and looked straight through it. When at last she did, it was only to say that Miss Granger would find everything she needed in chapter one, if she read it.
+
+“But there’s nothing in it about *using* defensive spells,” said Granger.
+
+“Using them?” Umbridge gave a little laugh. “Why, I can’t imagine any situation arising in my classroom that would require you to use a defensive spell, Miss Granger. You surely aren’t expecting to be attacked during class?”
+
+“Not in class,” said a different voice. “Outside it.”
+
+Lyra kept her eyes on her book.
+
+“Mr Potter.” Umbridge’s voice stayed exactly where it was. “Hands up, please, in my class.”
+
+“Sorry.” He sounded nothing of the kind. He sounded like nothing at all; it was the even, pleasant voice he kept for teachers he had already decided about. “It’s only that the O.W.L.s are practical. You have to do the spells in front of an examiner. It seems a bit odd to learn them out of a book and never try one.”
+
+“The Ministry believes that a theoretical knowledge will be more than sufficient to get you through your examination—”
+
+“And afterwards?”
+
+“I beg your pardon?”
+
+“After the exam, Professor. When there’s something out there that’s actually trying to hurt people. Is that theoretical as well?”
+
+The room had gone very quiet. Even the kittens on the wall had stopped playing.
+
+“Nothing out there is trying to hurt children,” said Professor Umbridge, “Mr Potter. Whatever you may have been told.”
+
+“He’s back,” said Potter. He said it quite calmly, as one says the time. “Voldemort. You know he is. Professor Dumbledore told the whole school in June.”
+
+Half the class drew in its breath at the name. Parkinson made a small noise like a kettle. Lyra kept her eyes on page four of Wilbert Slinkhard and felt it go over her, the name, as it always had, since she was eleven: a cold small shock at the back of the neck, like a door left open in winter.
+
+“Detention, Mr Potter,” said Professor Umbridge, with the sweetest smile Lyra had ever seen on a grown woman. “Tomorrow evening. Five o’clock. My office.” She turned a page of her register. “I think we shall have a whole week of them, don’t you? To give us time to talk about lies, and why we tell them.”
+
+Lyra turned the page of her book.
+
+She had known he would do it. She had known on the platform, probably; certainly at the feast, when she saw his face. He could no more have sat quiet in that classroom than he could have sat quiet in the Great Hall with a cup of fire spitting his name. And she had known, too, what it would get him. One did not need to be Harry Potter to see what sort of woman put kittens on her wall.
+
+She read to the end of chapter one and could not have said a word of it.
+
+⁂
+
+When the bell went, the room emptied in a rush, the Gryffindors fastest, as though the doilies were catching. Lyra put her book in her bag very slowly, and let Crabbe and Goyle go on ahead, and was the last at the door; and then she turned round.
+
+Professor Umbridge was sitting at her desk, writing, with a little smile still on her face, as though the smile had been left out by mistake and nobody had cleared it away.
+
+“Professor?”
+
+“Yes, dear?” Umbridge looked up, and saw the badge, and the smile became a real one. “Ah. Miss Malfoy, isn’t it? Lucius’s girl.”
+
+“Yes, Professor.”
+
+“Your father has been such a friend to the Ministry. Such a generous friend.” Umbridge put down her quill. “Was there something?”
+
+Lyra had decided on the stairs, on the way up, before the lesson. She had decided, in fact, in an Owlery in June, when she told a boy with straw round his feet that if she was going to be on the other side of this she would be on it all the way, as herself, and not in pieces. This was what the other side looked like, at Hogwarts, this year. It looked like a pink cardigan and a set of kittens, and it was a great deal more useful than it looked.
+
+“Only that I enjoyed the lesson very much,” said Lyra. “It is such a relief, Professor, to be taught by somebody sensible. Last year was—” she let her voice drop, very slightly, “—difficult. For some of us.”
+
+“I can imagine.” Umbridge’s face had gone soft with sympathy. “*Moody.* With your poor father’s history. I said at the time that it was most irregular.”
+
+“And I’m a prefect now,” said Lyra. “I hear a great deal, in Slytherin. And on rounds. People say all sorts of things, at night, in corridors, when they think nobody’s listening. Things about the Headmaster.” She looked down, and up again. “I wondered whether the Ministry would ever find it useful to know them.”
+
+Umbridge looked at her for a long, warm moment, with her head on one side, like a toad deciding whether a fly was worth the trouble of the tongue.
+
+“Do you know, dear,” she said, “I rather think it would.”
+
+⁂
+
+Professor Snape sent for her on the Thursday.
+
+He did it by a note left on her plate at breakfast, two lines in the small cramped hand that had once welcomed her to the prefects in the same number of words, and she went down to his office after Charms with her bag on her shoulder and her face arranged, and knocked, and was told to come in.
+
+Nothing in his office had moved since her first year. The jars along the walls, with their slimy things in coloured water; the fire; the desk, with its piles of marking; the jar in the corner with the eyes in it, that she had dreamt about at eleven. The window, which had been mended, after a Firebolt went through it in February, with glass that was very slightly greener than the rest.
+
+He left her standing. He stood behind his desk and looked at her, and she remembered, as she remembered every time she came into that room, a lake at night, and a lie she had told him on the shore of it, and a set of grey feathers on the front of her robes that he had seen, and not mentioned.
+
+“You owe me, Miss Malfoy,” said Snape.
+
+She had known it was coming for two years. She found that it was almost a relief.
+
+“Yes, sir.”
+
+“A lie by the lake, which I allowed. A window, which I did not.” His mouth moved. “I am not a patient creditor, but I am a careful one. I have waited for the right moment to collect. It has come.” He came round the desk. “Look at me.”
+
+She looked at him.
+
+“*Legilimens*,” said Snape.
+
+It came into her like a cold hand into a dark drawer.
+
+She knew it. She had felt the edge of it once, in this room, at thirteen, a small cold tick at the back of the head, like a fingernail against a wineglass, and he had stopped before he had well begun. He did not stop now. It went in, and in, and it was looking for things; she could feel it looking, turning over what was on top, a breakfast table and a sleeping portrait, a sleeve rolled back, a tin with a terrier on the lid—
+
+*No.*
+
+There was no deciding. It was not like the Imperius, where there had been a voice, and another voice, and an argument. There was no argument. There was only her own mind, and a hand in it that had not been invited, and she shut it, all of it, as one shuts a door on a draught, hard; and the hand was on the other side of the door, and the room was the room again, and Professor Snape had taken a step back from her, and put one hand on the edge of the desk.
+
+He looked at her for some time. She had never seen that look on him. It was very nearly respect.
+
+“So,” he said. “I said once that you had a natural defence. I did not finish the sentence. I shall finish it now.” He took his hand off the desk. “You have a natural defence of the mind, Miss Malfoy, of a kind I have seen perhaps three times in thirty years. And it is going to kill you.”
+
+Lyra said nothing.
+
+“You shut the door,” said Snape. “Very fast, and very hard, and I am on the other side of it. Admirable. And now I know that there is a door, and that there is something behind it that you did not want me to see.” He leaned forward. “There is a man who will look into you one day, as I have just looked. Not this year, perhaps. But he will. You will be standing in a room with your father beside you, and he will look at you as he looks at everybody, for something to use; and you will feel him come in, and you will shut the door, beautifully, in his face. And he will know, in that instant, exactly what you are.”
+
+The fire had burned down. Lyra could hear it ticking in the grate.
+
+“Then what am I to do, sir?”
+
+“You let him in.” Snape’s voice had dropped. “Into a room. Not the whole house: a room. Furnished. With what he expects to find there. A daughter. A proud, clever, spoilt, frightened girl who loves her father and is flattered to be noticed, and who has nothing on her mind but her O.W.L.s and a boy she has quarrelled with. You show him that, and you let him look at it for as long as he likes, and you keep every other door in the house so quiet that he never thinks to try the handle.” He straightened. “That is the debt. You will come here on Thursday evenings, after rounds, and you will learn to do it. Until I am satisfied.”
+
+She looked at him. He looked back, with the face that had never told her anything in four years, and did not tell her now why the Head of Slytherin House should want to teach Lucius Malfoy’s daughter to lie to the Dark Lord.
+
+“Why, sir?”
+
+“Because you owe me,” said Snape, “and I choose how I am paid. Thursday. Eight o’clock. Shut the door on your way out, Miss Malfoy, since you are so good at it.”
+
+⁂
+
+Draco had had his first week, and told her all of it, at meals, at volume, whether she asked or not.
+
+He liked Charms. He hated Herbology, because of the smell. He had been to the Owlery four times already, to send letters home, and once to the east cottage, he said, though the owl had come back with the letter still on its leg, which was very odd. He thought Professor Snape was the most frightening man he had ever seen and also the best, and he had been given five points by him on the Wednesday for a potion that had not exploded, and had told the whole table so twice. He had a friend. The friend was called Urquhart’s little brother, and nobody seemed to know his first name, including, possibly, Urquhart’s little brother.
+
+“And you’re a *prefect*,” he said, on the Friday, with his mouth full, as though he had only just noticed. “You can go anywhere. At night. You can just walk *about*.”
+
+“That is what rounds are, yes.”
+
+“Can I come?”
+
+“No,” said Lyra.
+
+⁂
+
+Her first round on her own was the second Saturday of term, at midnight, the seventh floor and the sixth, the long dark corridors at the top of the castle where nobody went and the portraits snored.
+
+She liked it more than she had expected to. The castle was a different place at night, larger and older, full of moonlight lying in squares on the flagstones and suits of armour that turned their heads to watch her pass. She walked it with her wand lit and her prefect’s badge on her chest and nobody to answer to, and it was as near as she had come all term to being alone.
+
+On the seventh floor, halfway along, she stopped.
+
+There was a tapestry on the wall to her right. She had passed it a hundred times without looking at it. It was very old and rather moth-eaten, and it showed a wizard in a long robe trying to teach a row of trolls to dance, in tutus; the trolls were clubbing him, slowly, over and over again, in the way of things in tapestries. And on the other side of the corridor, opposite it, on a plinth, there was a stone bust of a warlock with a long curled wig and a nose that somebody had knocked the end off, and between the bust and the corner there was a stretch of bare wall, with nothing on it at all.
+
+And in front of the bare wall, in his pyjamas, with a candle in one hand and a sheet of old cream paper in the other, was her brother.
+
+He was walking. Up the corridor to the corner, and round, and back down past the bust, very carefully, with his lips moving; and round again; and as she watched he reached the corner for the third time and turned, and stopped, and looked at the wall, and waited.
+
+Nothing happened. It was a wall.
+
+“Draco,” said Lyra.
+
+He jumped so hard he nearly dropped the candle. The paper went inside his pyjama jacket so fast she barely saw it go.
+
+“I got lost,” he said.
+
+He said it at once, very loudly, as he had said *I didn’t* about the strawberry tart when he was five, with the jam still on his chin. He was white in the light of her wand, and he had bare feet, and his toes were curling on the cold stone.
+
+She looked at him. She looked at the bust, and the tapestry, and the bare wall between them, which was nothing, a wall, smooth stone. A corridor on the seventh floor. A bust of a warlock in a wig. *Walk past the bare wall three times, thinking of a place for hiding things.*
+
+“You got lost,” said Lyra, “on the seventh floor. From the dungeons. At midnight.”
+
+“The stairs moved.”
+
+“They do that.” She put out her hand. “Come on. Bed. If Filch finds you he’ll hang you up by your thumbs, and then Father will have to come and complain, and you know how he hates the journey.”
+
+He came. He walked beside her down seven flights of stairs in his bare feet, with his candle guttering and his hand pressed flat against the front of his pyjamas, and he did not say anything at all, which in Draco was so unusual that it was nearly a confession. At the stone wall of the common room he stopped, and looked up at her.
+
+“You won’t tell,” he said. “Will you. Him. The gentleman. That I didn’t find it yet.”
+
+“Find what?”
+
+He went red to the ears.
+
+“Nothing. It’s a game.”
+
+“Then I shan’t tell him you’ve been losing,” said Lyra. “Bed.”
+
+He went in. She stood outside the wall for a long time after it had closed behind him, with her wand lit, in the cold.
+
+She had not asked him for the list. She could have. He was eleven, and she was his sister, and a prefect, and he would have given it to her if she had held out her hand and used their mother’s voice; he always did. She had stood in front of him in the corridor with her hand half out, and taken it back.
+
+She told herself she did not know why. That was not true. She knew exactly why, and she stood there in the cold dungeon passage and made herself look at it.
+
+Because if she took it, she would read it. And if she read it, she would know what an old man in a cottage, who ran errands for the Dark Lord, had sent her little brother up seven flights of stairs at midnight to look for. And then she would have to decide what to do about knowing.
+
+She put out her wand, and went in, and went to bed, and lay awake.

@@ -261,6 +261,11 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 - **Prefectos:** Lyra y Zabini; Weasley y Granger. **Diggory, Premio Anual**, frío con Lyra. **Draco, en Slytherin** (el Sombrero tardó). **Umbridge**, profesora de Defensa.
 - Lyra ha cortado en público con Weasley (clase y dinero; sin la palabra). Potter le avisó de Parkinson y Montague, y ella los calló.
 
+### Lo que cambia en el 44 (30 de octubre)
+- **Lyra, informante de Umbridge.** **Snape** le cobra la deuda (orilla y ventana): la mira con Legilimancia, ella le cierra la puerta; le enseña los jueves a las ocho a dejar entrar al Señor Tenebroso «into a room… a daughter». Vio en su cabeza la manga, el retrato y la lata del terrier.
+- **Potter**, una semana de detenciones con Umbridge por decir el nombre en clase.
+- **Draco**, de noche en el séptimo piso (tapiz de los trols, busto con peluca, la pared), buscando lo de la lista; aún no lo ha encontrado. Lyra lo sabe y no le ha pedido la lista.
+
 ## 5. Fichas vivas
 
 | Ficha | Dónde está | Última vez | Nota |
