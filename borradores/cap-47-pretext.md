@@ -1,0 +1,171 @@
+# Chapter 47: Pretext
+
+Her father’s owl came on the morning of the match, and she opened the letter in the changing room, alone, with her Quidditch robes half on.
+
+It was not a long letter. That was the first thing wrong with it. Her father wrote long letters, as he talked: with turns and returns, and asides about Draco, and a joke about the Minister in the third paragraph. This one was a single side, and the hand was his, the beautiful sloping hand, but it had been written fast, and twice the nib had caught and spattered, and he had not troubled to blot it.
+
+*My darling,*
+
+*I write in haste, and you will burn this when you have read it.*
+
+*Our master has been obliged to leave the house in the north. You will know which I mean, and you will not name it, even to yourself. It was being watched. Dumbledore’s people, on the cliffs, in the fog, for some days before anybody saw them. He was very angry. We have all been very much questioned.*
+
+*Somebody talked. There is no other way it could have been known; that house has been in no register for a hundred years. He has asked every one of us who could have known the word, and who we could have told. I have answered for myself and for your mother.*
+
+*I tell you this because you are at that school, among Dumbledore’s people, and I would have you be more careful than you have ever been in your life. Say nothing. Write nothing. Trust nobody who is not of this family.*
+
+*Your father.*
+
+Under the signature, smaller, as if he had come back to it after the ink was dry:
+
+*Draco writes that he is happy. Keep him so.*
+
+Lyra read it to the end. Then she read the postscript again, by itself.
+
+Outside the door, she could hear the stands filling, a great low roar like the sea, and somebody in the corridor shouting for the Slytherin team. She folded the letter along its creases, very neatly, and put it up the left sleeve of her robes, against the inside of her wrist, where she could feel the edge of it; and finished dressing; and tied back her hair, as she had tied it back for every match since the November she was twelve; and picked up her broom, and went out.
+
+⁂
+
+It was the first Saturday of November, cold and bright, with a high thin wind that came off the lake in gusts and set every banner in the stands cracking like a whip. The whole school was out. The Slytherin stand was a wall of green and silver; somebody had brought a great silk serpent that writhed along the front of it on poles. And at the Gryffindor end, in front of the left-hand goal, very tall and very red about the ears, Weasley hung in the air on a borrowed broom, guarding the hoops for the first time in his life.
+
+The Slytherins had a song.
+
+Lyra had heard it in the common room on the Thursday, being practised: a sixth-year had written it over the weekend, and it was about Weasley, and his family, and a bin, and it had a chorus that everybody could join in, and it was quite clever in the way that very cruel things often are. By the time the teams were in the air, half the Slytherin stand was singing it. The words came across the pitch in the wind in pieces, and every piece found Weasley, and she watched each one land.
+
+He let in a goal in the second minute. He let in another in the fifth. The chorus went round again, louder.
+
+On the front of her robes, under the Seeker’s badge, there was a new one, silver, with an *I* on it, that Professor Umbridge had pinned there herself on the Thursday with a little speech about responsibility, and that made her a member of something called the Inquisitorial Squad. She had not yet worked out what the Squad was for. She suspected that was the point of it.
+
+Lyra hung above the pitch on her Firebolt, high, in the cold, where the Seekers hung, and looked for the Snitch, and listened to it.
+
+She did not sing it. She had never sung anything in a stand in her life. She did not stop it either. She was the Slytherin Seeker, and a prefect, and Lucius Malfoy’s daughter, and she had stood up in front of the whole common room in June and told them that in this House nobody lowered his voice; and they were not lowering it. She could have flown down to the front of the stand and said one word, and it would have stopped. She knew it would. She stayed where she was, and let it go round, and round, and told herself that it was only Weasley, and only a song, and that she had more important things up her sleeve.
+
+On the other side of the pitch, level with her, Potter was not looking for the Snitch. He was looking at the Slytherin stand, and then at Weasley, and then at her.
+
+⁂
+
+She saw the Snitch first.
+
+It was low, by the Slytherin goalposts, a little gold glint in the grass-light, and she was diving before she had finished seeing it, flat to the Firebolt, with the wind tearing at her tied-back hair and the stands going past in a long green blur. She heard the crowd see it too. She heard the roar change. And she heard, behind her and to the right, the other Firebolt.
+
+He was faster. He always had been, on the same broom; he had the lighter build, and he did not mind dying. They went down the last sixty feet side by side, so close that their robes cracked against each other in the wind, so close that she could see his face, set and white, with his eyes on the Snitch and his good hand stretched out in front of him; and the Snitch jinked left, and they both went with it, and his shoulder came against hers, hard, and her sleeve rode up on her arm.
+
+She felt the letter shift against her wrist. She felt him feel it.
+
+Then his hand closed on the Snitch a foot in front of hers, and he pulled up so steeply that the Firebolt stood on its tail, and the Gryffindor stand went up like a firework, and it was over.
+
+She pulled out of the dive at the bottom, a yard above the grass, and sat there on her broom for a moment, breathing, with the noise coming down on her from all sides. Her sleeve had fallen back over her wrist. She put her hand on it.
+
+Potter came round in a slow loop above her with the Snitch fluttering in his fist, and did not look like a boy who had just won a Quidditch match. He looked down at her sleeve, and then at her, as he had looked at her in a dark classroom when she said *No*; and then the Gryffindors reached him, and he was gone under a pile of red.
+
+⁂
+
+Weasley caught her outside the changing rooms.
+
+He came across the grass at her with his broom still in his hand and his face the colour of the Gryffindor banners, and Granger behind him, half running, saying “Ron—*Ron*—” and not catching up.
+
+“Happy?” said Weasley.
+
+Lyra stopped. She had her broom over her shoulder and her father’s letter up her sleeve, and she had just lost to Potter in front of the whole school by a foot, and she was not happy.
+
+“About what, Weasley? You won.”
+
+“*Harry* won. I let in four.” His voice cracked on it. “Your lot made sure of that. That song. You heard it. You were right *above* it. You could’ve—”
+
+“I don’t write songs,” said Lyra. “I leave that to people with time on their hands. You might try it yourself. It would give you something to do in the evenings, now that your family can’t afford to go out.”
+
+It came out of her quite easily. That was the thing she noticed afterwards: how easily. It came out of the same place as the song, in the same voice as the sixth-year in the common room, and it hit him exactly where she had aimed it, and she watched it hit.
+
+Weasley’s hand went to his wand.
+
+Granger got between them.
+
+She did not do it gracefully. She came round Weasley’s side at a run and stopped in front of him, with her back to him and her face to Lyra, a foot away, with her bushy hair coming loose in the wind and a Gryffindor scarf wound three times round her neck; and Weasley’s wand, half out, stopped against her shoulder blade.
+
+“You didn’t sing it,” said Granger.
+
+Lyra looked at her.
+
+“I was watching. I watch you at matches; I have done since second year. You didn’t sing it, not one word. You just hung there.” Granger’s voice was very level, and her face was very pink, and she did not look away. “You could have stopped it. You know you could. You did it on the train with Parkinson in about a minute; half of Ravenclaw had heard about it by breakfast. You didn’t, today.” She took a breath. “I don’t know which of those is worse, Malfoy. I really don’t. I’ve been trying to work it out since the second goal.”
+
+Nobody said anything.
+
+Then Granger turned round, and took Weasley by the arm, wand and all, and walked him away across the grass towards the castle, talking to him low and fast; and he went, looking back once, with an expression Lyra had not seen on him before and did not want to see again.
+
+She stood there with her broom on her shoulder.
+
+She had been insulted by Hermione Granger a good many times in five years. She had never once minded it. She minded this, and could not have said, standing on the grass with the stands emptying behind her, which part of it she minded most: that Granger had watched her at every match since second year, or that Granger was right.
+
+⁂
+
+Draco had sung it.
+
+She found that out in the common room before dinner, where the whole House was still in the warm loud glow of a match lost by a foot and a Weasley humiliated by four goals, which was nearly as good as a win and in some ways better. Draco was on the hearthrug in the middle of a knot of first-years, with his face scarlet from the cold and a green-and-silver rosette the size of a dinner plate pinned to his jumper, and he was singing the chorus, all of it, at the top of his voice, a little behind everybody else and very slightly out of tune.
+
+He saw her come in, and broke off, and came across the room at a run.
+
+“Did you *hear* us? Did you hear the end bit? We did it right by the hoops, every time he—” He stopped, out of breath, grinning up at her. “You didn’t sing. I looked. Why didn’t you sing?”
+
+*Keep him so.*
+
+Lyra looked down at him. At the rosette, and the gap in his teeth, and the cold-red face, and the happiness coming off him like heat off a fire; at her brother, who was eleven, and had a list folded against his heart from an old man who ran errands for the Dark Lord, and had just spent an afternoon learning that it was a fine thing to sing about a boy and a bin until the boy let in four goals.
+
+She could have told him. She could have knelt down on the hearthrug, in front of the whole House, and told him what Granger had told her on the grass. He would have listened. He always listened to her, in the end.
+
+“I was busy,” said Lyra. “Looking for the Snitch.”
+
+“You lost.”
+
+“I know, Draco.”
+
+“By *that* much.” He held up a finger and thumb, very close together. “Next time you’ll get him.” He was already turning back to the hearthrug, to the first-years and the song. “Next time, Lyra.”
+
+He went back to singing. She let him.
+
+She stood by the door of the common room with her broom still over her shoulder and her father’s letter still up her sleeve, and watched her little brother be happy, at the top of his voice, about a thing she would not have sung for a hundred Galleons; and kept him so.
+
+Snape was waiting for her at the foot of the dungeon steps that evening, after rounds, with no candle, in the dark, so that she did not see him until he spoke.
+
+“Miss Malfoy.”
+
+She stopped on the bottom step.
+
+“It is not Thursday,” said Snape. “But I think we will not wait for Thursday. Come.”
+
+His office was cold; he had let the fire go out. He did not light it. He shut the door, and stood with his back to it, in the dark, with only the faint green glow of the jars along the walls to see him by.
+
+“Your father has written to you,” he said. It was not a question.
+
+She did not answer.
+
+“I was in a room on Tuesday night,” said Snape, “in a house that is not the one in the north, and I heard a good many people asked a good many questions about a word. *North.* A word that perhaps a dozen people in the world could have said aloud and had it mean anything. He asked each of us, in turn, who had known it, and whom we might have told.”
+
+The jars glowed. Somewhere under the floor, the lake moved.
+
+“Your father answered for himself,” said Snape. “And for your mother. Most fully. He did not answer for you.” He paused. “He did not think to.”
+
+Lyra stood very still in the dark.
+
+*I have answered for myself and for your mother.* She had read it in the changing room and thought nothing of it. She had thought: *of course*. She had not thought, until this moment, what it meant that her father, asked in front of the Dark Lord who might have talked, had not so much as remembered that he had a daughter who could have.
+
+He had not even suspected her. It had not crossed his mind. She was his treasure, his clever, clever girl, one of them in every way that counted; and he had stood in a room full of kneeling people and answered for everybody he loved, and left her out, because it had never once occurred to him that she might be on the list.
+
+She had known it would cost something. She had felt it under her ribs in October, like a swallowed stone. She had not known it would cost this.
+
+“Five names were given,” said Snape quietly. “By various people. Mine was among them.”
+
+She looked up.
+
+“Do not concern yourself.” His voice was dry as paper. “I have been answering questions in that room since before you were born. I shall answer these. But I should like you to understand, Miss Malfoy, what has been spent, and by whom, and on what.” He looked at her across the dark office for a long moment. “I do not ask whom you told.”
+
+“Sir—”
+
+“I do not *ask*.” He opened the door behind him. The torchlight from the passage fell in across the floor between them. “I shall add it to the account. The lake. The window. And now this.” He stood aside to let her pass. “I keep very careful accounts, Miss Malfoy. You would be surprised how long I can wait to be paid.”
+
+She went past him, out into the torchlight, and up the passage, and through the wall into the common room, where the sixth-year who had written the song was singing it again by the fire, to a great deal of laughter; and she went straight past him, and up the stairs, and did not stop.
+
+In the dormitory, behind her hangings, she took the letter out of her sleeve and burnt it, as she had been told, with the tip of her wand, a corner at a time, and watched her father’s hand go brown and curl and go.
+
+The postscript went last. *Draco writes that he is happy. Keep him so.*
+
+Then she took the ring out of her pocket and looked at it by the light of her wand. It was blue. She put it back.

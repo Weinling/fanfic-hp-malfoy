@@ -276,6 +276,11 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 - **El anillo de Lyra** vuelve a ella, como herramienta («if it goes red… I’ll come»); en su palma, **azul**. Lo lleva en el bolsillo.
 - **Snape** enseña a Lyra los jueves; vio «una vela» en un pasillo y no preguntó.
 
+### Lo que cambia en el 47 (30 de octubre)
+- **El Señor Tenebroso dejó la casa del norte** (vigilada por la Orden tras el 46). Busca a quien habló. Lucius respondió por él y por Narcissa, no por Lyra («He did not think to»); **el nombre de Snape**, entre los cinco sospechosos. Snape no pregunta y se lo apunta a Lyra.
+- **Lyra, en el Escuadrón Inquisitorial** (insignia «I», de Umbridge). Perdió la Snitch con Potter por un pie (primer partido, 4 de noviembre). Ni cantó ni paró la canción contra Weasley; Granger se lo dijo.
+- **Draco** cantó la canción.
+
 ## 5. Fichas vivas
 
 | Ficha | Dónde está | Última vez | Nota |
