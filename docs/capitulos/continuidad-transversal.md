@@ -251,6 +251,11 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 - **Harry** sabe que Sirius muere en junio; sabe lo que fue Snape en su otra vida y no le odia.
 - **Hermione** le mira desde la enfermería; no ha preguntado.
 
+### Lo que cambia en el 42 (30 de octubre)
+- **Lyra es prefecta** (nota seca de Snape). **Narcissa ha abierto la puerta:** sabe lo de Regulus por Lyra y quiere ver su nota; le dijo lo de Durmstrang («I said no to a country for you once»); miró a Potter en el andén y le vio mirar a Lyra. **Krum** escribió desde Sofía preguntando por Granger.
+- **Draco** tiene una lista del señor de la casita (séptimo piso, el busto con peluca, la pared de tres pasadas, un dibujo redondo), en letra fina y antigua que no es de viejo. Lyra la ha leído a medias.
+- **Callejón Diagon** (sábado 19 de agosto): Lyra y Potter se miraron de un lado a otro de la calle, sin cruzar.
+
 ## 5. Fichas vivas
 
 | Ficha | Dónde está | Última vez | Nota |
