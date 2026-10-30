@@ -51,6 +51,7 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 | 24 jun. 1995 | 38 | La tercera prueba: él gana feo (aturde a Diggory); en el podio la busca y la encuentra entre cientos; se miran. Sin palabras | Toda la escuela | — |
 | 26 jun. 1995 | 39 | **La lechucería.** Ella le pone delante la lista y deduce: «You’ve done this before»; él lo admite (otra vida, sin Lyra; Draco). Ella saca la Cámara («She was *eleven*») y el huevo. **Rompen:** su familia está dentro; ella le mintió (no dice sobre qué); él la tuvo a crédito sin decirle las condiciones. **Sexto beso en la boca, el de despedida**, de pie | Nadie | «That was the last one.» / «This year.» |
 | 27 jun.–1 jul. 1995 | 40 | Ella le devuelve el anillo en una lata, con la nota de dos capas (Crouch, el Imperius, «His son is alive»); se queda el pañuelo. En el andén, él la mira entre los Weasley; ella aparta la cara | Goyle (la lata); Dumbledore y Moody (la nota) | «That will be all, Potter. You were, on the whole, worth the ink.» |
+| 29 sep. 1995 | 45 | La detención con la pluma de sangre que vigila ella: él escribe **«I love you»** bajo la línea, en su sangre; ella no sabía que la pluma hería; no tiene pañuelo; cinco puntos; el lunes, el frasco de murtlap | Nadie (Crabbe sospecha) | «Keep the jar.» |
 
 **Besos en la boca hasta ahora: seis (3, 19, 29, 30, 36 y 39, el de despedida).** Además: la frente (24), el hocico (27, «no cuenta»). El del 29 es el primero elegido por los dos, sin excusa: él lo pide y ella dice «Yes». El del 30 es el primero que empieza ella, a través de la capa. **Racha:** el 26, el 27, el 29 y el 30 tienen pago romántico; el 31 no; el 32 sí (en público, sin beso); el 33 sí (el baile, sin beso); el 34 no (la confesión es ante Moody); el 35 sí (la orilla, sin beso); el 36 sí (Hogsmeade, el quinto beso); el 37 no (baja); el 38 no (solo una mirada); el 39, la ruptura; el 40 no (rotos); y el próximo beso no se vende como otro «primero» (crítico).
 
@@ -265,6 +266,10 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 - **Lyra, informante de Umbridge.** **Snape** le cobra la deuda (orilla y ventana): la mira con Legilimancia, ella le cierra la puerta; le enseña los jueves a las ocho a dejar entrar al Señor Tenebroso «into a room… a daughter». Vio en su cabeza la manga, el retrato y la lata del terrier.
 - **Potter**, una semana de detenciones con Umbridge por decir el nombre en clase.
 - **Draco**, de noche en el séptimo piso (tapiz de los trols, busto con peluca, la pared), buscando lo de la lista; aún no lo ha encontrado. Lyra lo sabe y no le ha pedido la lista.
+
+### Lo que cambia en el 45 (30 de octubre)
+- **«I love you»**, escrito por Harry en su propia sangre bajo «I must not tell lies», en la detención que vigilaba Lyra (viernes 29 de septiembre); las palabras, también en el dorso de su mano derecha. Primera vez que cualquiera de los dos lo dice. Ella le quitó cinco puntos y se fue; el lunes le dejó un frasco de murtlap: «Keep the jar.» Sigue vigilando sus detenciones.
+- **Crabbe** sabe que «somebody cut themselves»; su prima de Hufflepuff dice que Umbridge ha tenido a tres más.
 
 ## 5. Fichas vivas
 
