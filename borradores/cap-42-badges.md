@@ -80,7 +80,7 @@ Her dressing room was at the end of the west corridor, all pale green silk and l
 
 Lyra sat on the low stool beside the dressing table. Her mother opened a drawer, and took out a slip of paper, and laid it on the glass top between them.
 
-Lyra knew it at once. She had carried it two years, behind the tables of values; she had unfolded it so often that it had gone soft as cloth. *P.S. Who is asking? You may tell me anything. I would rather hear it from you.* And underneath, in her own hand, as small and upright as she had been able to make it: *It was Harry Potter who was asking.*
+Lyra knew it at once. She had carried it fourteen months, behind the tables of values; she had unfolded it so often that it had gone soft as cloth. *P.S. Who is asking? You may tell me anything. I would rather hear it from you.* And underneath, in her own hand, as small and upright as she had been able to make it: *It was Harry Potter who was asking.*
 
 “I have read it,” said her mother, “a good many times.”
 
@@ -114,11 +114,19 @@ Her mother stood up, and went to the window, and lifted the edge of the blind wi
 
 “Because there are things in this house now,” said Narcissa Malfoy, “that I cannot say no to. And I should like you to know that I can, when it is you.”
 
+“What things, Mother?”
+
+Her mother let the edge of the blind fall.
+
+“Tell Pobble we shall want the fireplace on Saturday,” she said, “and wear the blue. Your father likes you in blue in photographs.”
+
+It was not an answer. Lyra had been brought up in that house, and she knew exactly what kind of not-answer it was: the kind one gave in a room where the walls might be listening, when the walls were family.
+
 ⁂
 
 They went to Diagon Alley on the Saturday, the four of them, by the Ministry fireplace, and Draco wore a bow tie.
 
-He had chosen it himself. It was silver-grey and slightly crooked and he would not be talked out of it, though Lyra tried for the whole of breakfast; and when their mother came down and saw it she put her hand to her heart and said he looked exactly like his grandfather at his christening, and retied it for him, and told him that Lyra had worn her very best dress the first time she went to Diagon Alley, and had spun round and round in the middle of the street with her skirt flying out until her father had to catch her by the collar.
+He had chosen it himself. It was silver-grey and slightly crooked and he would not be talked out of it, though Lyra tried for the whole of breakfast; and when their mother came down and saw it she put her hand to her heart and said he looked exactly like his grandfather at his christening, and retied it for him, and told him that the first time Lyra was taken to Diagon Alley she had insisted on her very best frock, and had spun round and round in the middle of the street with her skirt flying out until her father had to catch her by the collar.
 
 “You *didn’t*,” said Draco, enchanted.
 
@@ -129,6 +137,8 @@ He had chosen it himself. It was silver-grey and slightly crooked and he would n
 Their mother insisted on a photograph, outside Flourish and Blotts, with a man from the shop holding the camera: Lucius with his cane, and Narcissa with her hand on Draco’s shoulder, and Draco squinting, and Lyra at the end, with her prefect’s badge in her pocket because she would not wear it in the street. In the photograph, when it was developed, the four of them would stand very still for a moment, and then Draco would turn his head and say something, and they would all, even Lyra, begin to laugh; and that was how it would stay, on the piano in the drawing room, for a long time.
 
 Afterwards their parents went to Gringotts, and left the two of them at Florean Fortescue’s with a sundae each.
+
+Draco wanted to know everything about Slytherin, at once, between spoonfuls: whether the dormitories really were under the lake, and whether the giant squid ever came to the windows, and whether first-years were allowed brooms if their fathers wrote to Professor Snape, and what one did if one was put in Hufflepuff by mistake. Lyra answered the first three, and said that nobody in their family had ever been put anywhere by mistake, and he believed her, which was the restful thing about Draco.
 
 Lyra saw him from her table on the terrace, through the crowd, as one sees the one face in a crowd that one has been not looking for all morning.
 
