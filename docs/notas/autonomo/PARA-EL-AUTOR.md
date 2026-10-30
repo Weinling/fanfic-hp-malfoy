@@ -13,6 +13,12 @@ Lo pone al día cada sesión autónoma al terminar. Lo más nuevo, arriba.
 - **«I love you» en el 45** (la pluma de sangre, con Lyra vigilando la detención), sin reencuentro; **el norte en el 46** (Harry, ciego, le pide ayuda y ella le da la mentira del 37, y le esconde a Draco); **ningún beso** en la tanda.
 - **El abuelo existe en el texto desde el 41** (Lucius brinda ante su retrato dormido, muerto de viruela de dragón); en el 50 el retrato está quitado y Lyra dice «Grandfather».
 
+**30 de octubre.** **Listo para subir:** ***Interlude: The Wrong Night*** (`borradores/interludio-2-the-wrong-night.md`, ~3.730 palabras), **entre el 41 y el 42**: Harry, a ciegas; los dementores dos noches antes; Sirius y Pettigrew en Azkaban sin nombre; la casucha vacía. Criticado y arreglado (el crítico lo pone por encima del primer interludio). ⚠ La diadema la destruyó Harry en **septiembre de 1994**, la primera noche del curso (no en verano: en agosto no estaba en Hogwarts).
+
+**Escrito, sin crítica:** ***42, Badges*** (`borradores/cap-42-badges.md`, ~2.930): la insignia de prefecta, la lista de Draco, Narcissa abre la puerta («I should like to see his hand once more»), y Potter al otro lado del callejón Diagon. **Para Codex:** `docs/notas/encargo-codex-critica-y-revision.md` (§0, el prompt para pegar).
+
+**Orden de publicación:** 41, *Interlude: The Wrong Night*, 42.
+
 **Listo para subir:** ***41, The Sleeve*** (`borradores/cap-41-the-sleeve.md`, ~3.060 palabras). Domingo 2 de julio en la Mansión: Lyra cuenta en el mantel los cuatro días que le costaron la vida a Crouch y esa noche le pide a su padre que le enseñe el brazo; él se sube la manga, orgulloso. Aparece por primera vez el abuelo, Abraxas, «muerto» de viruela de dragón, con su retrato siempre dormido. Criticado y arreglado (crítico nuevo; ranking junto al 33 y el 36, y sube con los arreglos).
 
 ## 24 de octubre de 2026, más tarde: el interludio desde Harry
