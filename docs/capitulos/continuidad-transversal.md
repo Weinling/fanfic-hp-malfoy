@@ -281,6 +281,11 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 - **Lyra, en el Escuadrón Inquisitorial** (insignia «I», de Umbridge). Perdió la Snitch con Potter por un pie (primer partido, 4 de noviembre). Ni cantó ni paró la canción contra Weasley; Granger se lo dijo.
 - **Draco** cantó la canción.
 
+### Lo que cambia en el 48 (30 de octubre)
+- **Granger sabe la primera capa** del secreto de Harry (se lo sacó en cuatro horas, a mediados de noviembre); se lo ha dicho a Lyra. Weasley no lo sabe.
+- **Los mil galeones:** Potter se los ofreció a Diggory en el vestíbulo; Diggory los tiró. Potter está en el grupo de Defensa de Diggory (séptimo piso) por saber hacer un Patronus.
+- **Draco**, en ese grupo, con un galeón falso que le dio Potter («tell him first»). Lyra y Potter, peleados: «You used my brother»; ella le formuló el tablero (D1).
+
 ## 5. Fichas vivas
 
 | Ficha | Dónde está | Última vez | Nota |
