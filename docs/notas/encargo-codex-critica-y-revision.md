@@ -13,6 +13,10 @@ El autor quiere conservar esa separación: que quien aplica no sea el mismo que 
 
 ---
 
+## Ya hecho (30 de octubre, al final): las críticas a ciegas existen
+
+Dos críticos Opus (Claude), sin guion ni fichas, ya criticaron el 42 a 50 y los *Year One* 5 y 6. Las críticas están en `docs/notas/criticas-opus/` (un archivo por capítulo, más `tanda-41-50.md` con la valoración de conjunto). **Basta con la sesión B**: el revisor las lee en lugar de `docs/notas/codex/critica-NN.md`, como de otra persona, y decide. Los dos críticos no leyeron lo mismo (uno llegó hasta el 44 y otro hasta el 50), así que sus rankings no coinciden del todo; manda el del segundo para el conjunto. Avisos que los dos marcan como graves y que tocan **lo publicado** (no se cambia lo publicado; se cambia lo nuevo para que cuadre): el *Year One* 6 choca con el 20 (la capa) y con el *Year One* 2 (la cena de Navidad); el 46 choca con el 24 (el azul del anillo); el 49 choca con el 13 (el pollo). Problema de tanda: **cuatro capítulos acaban con el anillo en el bolsillo** (46, 47, 49, 50).
+
 ## 0. Los dos prompts para pegar
 
 **Sesión A, el crítico (solo lee y escribe notas; no toca los capítulos):**
