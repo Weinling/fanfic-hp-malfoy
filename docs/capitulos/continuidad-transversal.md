@@ -244,6 +244,13 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 - **El señor de la casita:** ya no le tiemblan las manos; «better than he has in forty years»; ya no juega los domingos; se llevó el ajedrez; quiere que Draco le escriba cada semana desde Hogwarts.
 - **Narcissa:** «It’s going to be a long one.» No ha abierto la puerta todavía.
 
+### Lo que añade el Interludio 2 (30 de octubre; entre el 41 y el 42)
+- **Harry** destruyó **la diadema** en la Sala de los Menesteres la primera noche del curso de 1994, con el colmillo, y dejó los restos allí; solo lo sabe Dumbledore. **El anillo de Gaunt ya no está** en la casucha: lo recogieron la noche del regreso, con la tierra del cementerio de Little Hangleton (tumba dañada, en el *Prophet*). Dumbledore le había prohibido tocarlo («Not yet. When the time comes»). Los **dementores** llegaron el 31 de julio, dos noches antes de lo que Harry recordaba; Patronus, zorro; vista el 12 de agosto, absuelto. En Grimmauld desde el 1 de agosto.
+- **El mapa:** de la Orden («I’m keeping it lent»).
+- **Pettigrew:** en Azkaban sin nombre, por Fudge; lo saben Dumbledore, Harry y Sirius. **Lyra no.**
+- **Harry** sabe que Sirius muere en junio; sabe lo que fue Snape en su otra vida y no le odia.
+- **Hermione** le mira desde la enfermería; no ha preguntado.
+
 ## 5. Fichas vivas
 
 | Ficha | Dónde está | Última vez | Nota |
@@ -261,7 +268,7 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 | La Saeta de Fuego de Harry | Harry | 30 | Comprada tras el «No need» del 23; convocada en la primera prueba. Lyra la distingue por el número de matrícula |
 | La capa | **Harry** (se la devolvió Lyra el 29 de noviembre) | 31 | Se la dio Harry en la comida del 24 de noviembre; no consta que se la haya devuelto. Moody ve a través de ella |
 | El aviso del Baile | Tablón de Slytherin | 30 | Navidad, a las ocho; de cuarto en adelante; «*The champions and their partners will open the dancing.*» |
-| El mapa | **Moody**, prestado por Harry tras el Cáliz | 31 | «Not names». En la coda del 31 se oye doblarse en la oscuridad del despacho. **Decidido (autor, 28 de octubre):** Moody se lo lleva a la Orden; Harry, sin él en el verano y el otoño del quinto. Falta la línea en el texto (41 o 42) |
+| El mapa | **La Orden** (Moody: «I’m keeping it lent», interludio 2) | Int. 2 | «Not names». En la coda del 31 se oye doblarse en la oscuridad del despacho. **Decidido (autor, 28 de octubre):** Moody se lo lleva a la Orden; Harry, sin él en el verano y el otoño del quinto. Falta la línea en el texto (41 o 42) |
 | El diario | Dumbledore (o Harry) | 14 | «Not ever» |
 | La tarjeta de Krum | Lyra, para Draco | 28 | — |
 | La bufanda de cachemir gris | **Harry** (se la puso Lyra en la orilla, 35; se tiró al lago con ella) | 35 | Del 7 (la lechuza la mordisqueó). **No vuelve como ficha** (crítico) |
