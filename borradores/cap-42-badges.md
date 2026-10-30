@@ -56,7 +56,7 @@ Lyra read it over his arm.
 
 It was a list, of a kind. *A corridor on the seventh floor, opposite a tapestry of trolls in tutus. A bust of a warlock in a wig. Walk past the bare wall three times, thinking of a place for hiding things.* There was more below, which Draco’s thumb was covering, and at the bottom a drawing of something small and round that might have been a crown or might have been a cake.
 
-It was not the gentleman’s hand. She had seen the gentleman’s hand once, on the front of a letter she had carried up a gangplank, long-looped and a little unsteady, the hand of an old man. This was fine and narrow and very even, a hand that had never shaken in its life; old in its shapes, and young in the pressure of the pen, as though it had been written a long time ago by somebody who was not old yet.
+It was not an old man’s hand. An old man’s hand she would have known what to expect of: long loops, a little unsteady at the ends, like the hand on a sealed letter she had once carried up a gangplank and never opened. This was fine and narrow and very even, a hand that had never shaken in its life; old in its shapes, and young in the pressure of the pen, as though it had been written a long time ago by somebody who was not old yet.
 
 “Draco, where did he—”
 
@@ -69,3 +69,83 @@ It was not the gentleman’s hand. She had seen the gentleman’s hand once, on 
 Their father was crossing the landing above, with a letter in his hand, and he looked down the stairwell at the two of them and smiled, as he smiled at them both this summer, as if they were a pair of good investments that had come in early.
 
 “Let him have his games, my treasure,” he said. “You have your own work, while he has those.”
+
+⁂
+
+Her mother sent for her that afternoon, which she had not done since Lyra was small and had needed to be told about something she had broken.
+
+Her dressing room was at the end of the west corridor, all pale green silk and long mirrors and the smell of orris root, with the blinds down against the heat; and Narcissa Malfoy was sitting at her glass with her back to the door and her hair half down, and did not turn round. In the glass Lyra could see her face, and her own behind it, in the doorway.
+
+“Shut the door, darling. And sit down. No, here. Where I can see you without the mirror.”
+
+Lyra sat on the low stool beside the dressing table. Her mother opened a drawer, and took out a slip of paper, and laid it on the glass top between them.
+
+Lyra knew it at once. She had carried it two years, behind the tables of values; she had unfolded it so often that it had gone soft as cloth. *P.S. Who is asking? You may tell me anything. I would rather hear it from you.* And underneath, in her own hand, as small and upright as she had been able to make it: *It was Harry Potter who was asking.*
+
+“I have read it,” said her mother, “a good many times.”
+
+She did not pick it up. She sat with one finger on the edge of it, as on the edge of a card she had not yet decided to play.
+
+“You told me nothing for a year, and then you told me that. I should like the rest of it now, please. Not about the boy.” Her mouth moved very slightly. “I know about the boy. Half of Wiltshire knows about the boy; the *Prophet* saw to that. About my cousin. What did he find?”
+
+So Lyra told her.
+
+She told it as Potter had told it to her, in a locked classroom on Hallowe’en with his tie crooked: plainly, and in the order it had happened, without making it smaller. An old house and an old elf. A cave in a cliff, and a wall that wanted blood. A black lake, and a little boat, and a stone basin, and a boy lying on the rock beside it who had been lying there fifteen years. A locket that was not the right locket. And inside the false one, a scrap of paper folded small, in Regulus Black’s own writing, that the Headmaster of Hogwarts had put in his pocket and kept.
+
+Her mother listened to all of it without moving. When it was finished she sat for a while with her finger on the slip of paper and her eyes on the blind.
+
+“He taught me to fly,” she said at last. “Regulus. Did you know that? Nobody else would. Bella said girls on brooms were vulgar, and my mother agreed with her, and he was two years younger than I was and took me out on the lawn at Grimmauld Place at five o’clock in the morning, every morning for a week, until I could do it.” She was quiet. “He was a very serious little boy. He never laughed at me once. He changed his mind about something, and it killed him, and he lay on a rock for fifteen years while I wore black for him at a memorial with no coffin in it.”
+
+Lyra said nothing. There was nothing to say that would not be smaller than it.
+
+“I should like to see his hand once more,” said her mother. “That is all. I should like to see what he wrote, at the end, when he knew. And there is nobody in this house,” she said, quite evenly, “who could ever ask Albus Dumbledore for anything. Not now. Not this summer.”
+
+She turned her head then, and looked at Lyra properly, and it was the face from the platform.
+
+“I looked at that boy on the platform,” she said. “You saw me. I wanted to see the boy who went into a cave for my cousin. He is very small, for what he has done.” A pause. “And I wanted to see whether he would look at you. He did.”
+
+Lyra looked at her hands.
+
+“I said no to a country for you once,” said her mother. “Your father wanted Durmstrang. He had it all arranged, at eleven: Igor, and the furs, and a castle so far north that the sun forgets it in winter. I said you would go to Hogwarts or you would go nowhere, and that if he sent you anyway I should go with you and never come back. He believed me.” She picked up the slip of paper at last, and folded it, and put it back in the drawer, and shut it. “I never told you. I didn’t want you grateful. I find I want you to know it now.”
+
+“Why now?”
+
+Her mother stood up, and went to the window, and lifted the edge of the blind with one finger, and looked down at the lawn, where the path ran east between the yew hedges to the cottage at the end.
+
+“Because there are things in this house now,” said Narcissa Malfoy, “that I cannot say no to. And I should like you to know that I can, when it is you.”
+
+⁂
+
+They went to Diagon Alley on the Saturday, the four of them, by the Ministry fireplace, and Draco wore a bow tie.
+
+He had chosen it himself. It was silver-grey and slightly crooked and he would not be talked out of it, though Lyra tried for the whole of breakfast; and when their mother came down and saw it she put her hand to her heart and said he looked exactly like his grandfather at his christening, and retied it for him, and told him that Lyra had worn her very best dress the first time she went to Diagon Alley, and had spun round and round in the middle of the street with her skirt flying out until her father had to catch her by the collar.
+
+“You *didn’t*,” said Draco, enchanted.
+
+“I was eleven,” said Lyra.
+
+“You were *spinning*.”
+
+Their mother insisted on a photograph, outside Flourish and Blotts, with a man from the shop holding the camera: Lucius with his cane, and Narcissa with her hand on Draco’s shoulder, and Draco squinting, and Lyra at the end, with her prefect’s badge in her pocket because she would not wear it in the street. In the photograph, when it was developed, the four of them would stand very still for a moment, and then Draco would turn his head and say something, and they would all, even Lyra, begin to laugh; and that was how it would stay, on the piano in the drawing room, for a long time.
+
+Afterwards their parents went to Gringotts, and left the two of them at Florean Fortescue’s with a sundae each.
+
+Lyra saw him from her table on the terrace, through the crowd, as one sees the one face in a crowd that one has been not looking for all morning.
+
+He was on the other side of the street, outside the apothecary, in a knot of red hair. Weasleys: the mother with a list, the twins with a box of something that was smoking, Weasley himself, taller, and Granger with a pile of books. And in the middle of it, with his hands in his pockets, thinner than in June, Potter.
+
+He was looking at her.
+
+He must have seen her first. He was standing quite still in the middle of the pavement, with people going round him on both sides, and he had not looked away when she found him, and he did not now. Nobody was between them but the width of the street, and a woman with a pram, and a man selling something out of a tray.
+
+Lyra did not get up. She did not look away either. She sat on the terrace at Florean Fortescue’s with a spoon in her hand and a sundae melting in front of her, and looked back at him across Diagon Alley, and neither of them crossed.
+
+Weasley said something to him, close to his ear. Potter did not answer. After a moment Granger took his arm, quite gently, and turned him round, and they went on up the street towards Ollivander’s, and the crowd closed over them.
+
+“Who was that?” said Draco, with his mouth full.
+
+“Nobody.”
+
+“That’s the second nobody today.” He licked his spoon. “You’ve got an awful lot of nobodies.”
+
+In the carriage going home he fell asleep against her shoulder before they had cleared the gates, with ice cream on his cuff and the bow tie under one ear; and in his fist, which he had not opened since the shop, a sheet of old cream paper folded small, that she could have taken from him quite easily, and did not.
