@@ -257,6 +257,10 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 - **Draco** tiene una lista del señor de la casita (séptimo piso, el busto con peluca, la pared de tres pasadas, un dibujo redondo), en letra fina y antigua que no es de viejo. Lyra la ha leído a medias.
 - **Callejón Diagon** (sábado 19 de agosto): Lyra y Potter se miraron de un lado a otro de la calle, sin cruzar.
 
+### Lo que cambia en el 43 (30 de octubre)
+- **Prefectos:** Lyra y Zabini; Weasley y Granger. **Diggory, Premio Anual**, frío con Lyra. **Draco, en Slytherin** (el Sombrero tardó). **Umbridge**, profesora de Defensa.
+- Lyra ha cortado en público con Weasley (clase y dinero; sin la palabra). Potter le avisó de Parkinson y Montague, y ella los calló.
+
 ## 5. Fichas vivas
 
 | Ficha | Dónde está | Última vez | Nota |
