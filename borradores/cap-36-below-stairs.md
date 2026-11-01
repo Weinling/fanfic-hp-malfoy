@@ -22,7 +22,7 @@ Lyra climbed two more steps.
 
 He had told her. She had not asked. She did not say so, in case he stopped.
 
-“Well,” said Lyra. “He’s quite right. It *is* troubling. You’re very rarely completely anything. You’re usually only completely wrong.”
+“Well. He’s quite right. It *is* troubling. You’re very rarely completely anything. You’re usually only completely wrong.”
 
 “Thanks.”
 
@@ -30,17 +30,17 @@ He had told her. She had not asked. She did not say so, in case he stopped.
 
 “It’s always lemon drops.”
 
-“That,” said Lyra, “is the most troubling thing you’ve told me.”
+“That is the most troubling thing you’ve told me.”
 
 He laughed, and they went on up to the seventh floor, and at the door of the Arithmancy classroom he stopped, as he had stopped every morning since January, and did not go in, and did not quite go away either.
 
-“Divination,” said Lyra. “North Tower. You’ll be late.”
+“Divination. North Tower. You’ll be late.”
 
 “I’m always late.” He did not move. “Lyra.”
 
 “What?”
 
-“Nothing,” said Potter. “See you at lunch.”
+“Nothing. See you at lunch.”
 
 He went off down the corridor with his hands in his pockets, and Lyra went in to Arithmancy and sat down in her usual place by the window, and opened her book at the right page, and sat with her quill in her hand until Professor Vector had to say her name twice.
 
@@ -50,7 +50,7 @@ The Hogsmeade weekend was the second Saturday in March, and it was the first tim
 
 It was not, Lyra decided, what she had imagined. She had imagined it a great many times, in the summer, behind her bed-hangings, and in every version they had been alone. In none of them had Weasley been there, walking on Potter’s other side with his hands in his pockets, complaining about the Chudley Cannons, and Granger behind them reading a book as she walked and somehow never falling into a puddle; and in none of them had half the school been coming down the drive behind them in a long, cheerful, staring procession, with Parkinson somewhere in the middle of it telling anybody who would listen that it was all for her father.
 
-She did not mind as much as she would have expected. She minded Weasley, a little.
+She minded Weasley, a little.
 
 The Three Broomsticks was as hot and crowded and loud as it had been the first time, in her third year, when she had looked for him in it and not found him. Today he went to the bar for four butterbeers and came back with them, and sat down next to her at a table in the middle of the room where everybody could see, and the whole pub watched him do it. A table of Ravenclaws by the window had stopped talking altogether. Two Slytherin sixth-years at the bar were staring at her over their tankards.
 
@@ -64,7 +64,7 @@ Lyra took her butterbeer, and looked at the table of Ravenclaws until they start
 
 “Yes.”
 
-“That puts me in your debt,” said Lyra. “I shall pay for the next ones.”
+“That puts me in your debt. I shall pay for the next ones.”
 
 “You can’t,” said Weasley at once. “It’s Harry’s round. And then it’s Hermione’s round, and then it’s my round, and then it’s yours. That’s how it goes.”
 
@@ -78,7 +78,7 @@ Granger, without looking up from her book, said, “She’s got you there, Ron,�
 
 “Nobody’s. I’m reading.”
 
-They argued about it for ten minutes, and then about the Chudley Cannons for another ten, and then about whether Krum would have caught the Snitch at the World Cup if Lynch had not hit the ground first. It was not an argument; Lyra had been in the top box and Weasley had been in the row in front of her, and they both knew perfectly well what had happened; and somewhere in the middle of it Lyra realised that she was enjoying herself. She had quarrelled with Weasley at intervals for nearly four years, on staircases and in the grounds and on the gravel outside the doors, and every one of those quarrels had been meant. This one was not. They were both doing it because it was what they did, like two old men on a village bench who would be lost without the other one to be wrong.
+They argued about it for ten minutes, and then about the Chudley Cannons for another ten, and then about whether Krum would have caught the Snitch at the World Cup if Lynch had not hit the ground first. Lyra had been in the top box and Weasley in the row in front of her; they both knew perfectly well what had happened. Somewhere in the middle of it she realised that she was enjoying herself. They had quarrelled for nearly four years, and every one of those quarrels had been meant. This one was not. They were like two old men on a village bench who would be lost without the other one to be wrong.
 
 She thought of saying so, and decided he would take it badly, and said instead that the Chudley Cannons had not won a match since the reign of Queen Victoria, which he took worse.
 
@@ -98,7 +98,7 @@ Lyra stepped back, and straightened her hood.
 
 “Not,” she said, with great dignity, “in front of the post office.”
 
-“Right,” said Potter. “Sorry.” He did not look sorry. “Where, then?”
+“Right. Sorry.” He did not look sorry. “Where, then?”
 
 Lyra walked on up the street without answering, with her hood up and her face perfectly composed, and did not look back to see whether he was following, because she could hear that he was.
 
@@ -114,7 +114,7 @@ Lyra put her hand into the pocket of her robes, and took out a small badge that 
 
 Granger stared at it.
 
-“Society business,” said Lyra.
+“Society business.”
 
 There was a pause in which Granger appeared to try out several faces and reject all of them.
 
@@ -124,7 +124,7 @@ There was a pause in which Granger appeared to try out several faces and reject 
 
 “It giggles,” said Granger. “I’m only warning you.”
 
-“Of course it does,” said Lyra, and unpinned the badge, and put it away.
+“Of course it does.” Lyra unpinned the badge and put it away.
 
 ⁂
 
@@ -206,7 +206,7 @@ Winky looked at her.
 
 Lyra looked at the fire.
 
-She knew a house where an elf had cried for a week in the scullery because she was sure she would be sent away. She knew what it was to want to stay in a house, even a house with something wrong in it. She had never heard anybody say it so plainly.
+Pobble had cried for a week in the scullery, sure she would be sent away. Lyra knew what it was to want to stay in a house, even a house with something wrong in it.
 
 “A house is a house,” said Lyra at last. “Even when the master is a fool.”
 
