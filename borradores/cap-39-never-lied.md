@@ -58,7 +58,7 @@ She shut the door behind her. It was very quiet up there, at that hour: the wind
 
 She did not take out the letter. Not yet.
 
-“I want to tell you something,” said Lyra, “and you are going to stand there and let me get to the end of it.”
+“I want to tell you something, and you are going to stand there and let me get to the end of it.”
 
 He did not move.
 
@@ -72,7 +72,7 @@ The owls shifted on their perches.
 
 He had gone very pale. He did not look away from her.
 
-“And the Cup,” said Lyra.
+“And the Cup.”
 
 She heard her own voice change on it, and could not stop it.
 
@@ -80,13 +80,13 @@ She heard her own voice change on it, and could not stop it.
 
 Potter said nothing.
 
-“None of it surprised you,” said Lyra. “Not one thing, in four years. Not Black, not the Dementors, not dragons, not the Goblet. The only thing that has ever surprised you is me.”
+“You expected all of it. Black, the Dementors, the dragons, the Goblet. Ever since first year. And when you were wrong about Moody, you went on being sure about his trunk.” She looked at him. “You don't look at any of them the way you look at me. You don't know what I'm going to do.”
 
 The wind came in at the window and lifted the straw round his feet.
 
-“You’ve done this before,” said Lyra.
+“You’ve done this before.”
 
-It was not a question. She had meant it to be one. It was flat, and final, and stayed in the air between them, and nobody in that room said anything for a long time.
+She had meant to ask. The words came out flat and final.
 
 He did not deny it.
 
@@ -108,7 +108,7 @@ He tried.
 
 He told it badly, as he had told her about the trunk at Christmas. There had been another life. He had lived it. It had gone on a long way past where they were now, years past it; he did not say how far. And then he had been eleven, in a corridor, in the winter of their first year, with his scar splitting open and Quirrell walking past with a turban on, and he had remembered it. Not all at once. In pieces, like a dream you go on remembering all morning. That January he had been a boy who did not know what a Horcrux was; by Easter he had known nearly all of it.
 
-“Everything,” said Lyra.
+“Everything.”
 
 “Nearly everything. Not you.”
 
@@ -126,11 +126,11 @@ The owls had gone quiet.
 
 “And in yours?”
 
-“In mine,” said Potter, “he had.”
+“In mine, he had.”
 
 He did not say what. She did not ask. She stood by the door with her back against the wood and looked at him, at the boy who had been sitting in the same rooms as her for four years with seven of them already behind his eyes, and tried to make the two fit, and could not.
 
-“How did it end?” she said. “Your other one.”
+“How did it end? Your other one.”
 
 “Can’t.” His eyes went to the window, where the Forest was.
 
@@ -140,7 +140,7 @@ He did not say what. She did not ask. She stood by the door with her back agains
 
 It was the word he had used at Hallowe’en, she remembered, in an empty classroom, when she had asked him whether he had known about the Goblet. *Can’t.*
 
-“Dumbledore knows,” she said.
+“Dumbledore knows.”
 
 “Since the end of second year. A year before the cave.” He rubbed his face. “He’s the only one. Not Sirius. Not Ron, not Hermione. Him, and now you.”
 
@@ -150,7 +150,7 @@ Him, and now you. He said it as though it were something he was giving her. She 
 
 She had meant to stop there. She had meant to take the letter out of her sleeve and say what she had come to say, and go. But there was a thing at the back of all of it that she had not looked at yet, and she was going to look at it whether she liked it or not.
 
-“The diary,” said Lyra.
+“The diary.”
 
 “If you knew everything. If you’d done it all before.” She heard her voice go very level, as her father’s did across a desk when somebody had made him a bad offer. “Then you knew about the diary before it ever got to Hogwarts. You knew my father had it. You knew he was going to put it in that little Weasley girl’s cauldron, in Flourish and Blotts, in front of everybody.”
 
@@ -172,25 +172,23 @@ He looked at her before he answered, and when he did, he did not try to make it 
 
 Lyra said nothing for a moment.
 
-She thought of a girl she had never once spoken to, with red hair and a second-hand cauldron, writing to a book every night for a year. She thought of an empty classroom on the night the Chamber was closed, and a boy putting her father’s diary down on a desk between them, and a word. *Hostage.* The whole of it. The pact, and the lake, and the Owlery, and the credit, every single thing between the two of them in four years, had grown up out of a thing he had watched happen to an eleven-year-old and decided to let be.
+She thought of a girl she had never once spoken to, with red hair and a second-hand cauldron, writing to a book every night for a year. She thought of an empty classroom on the night the Chamber was closed, and a boy putting her father’s diary down on a desk between them. *Hostage.* The pact, the lake, the Owlery, the credit: so much of what had passed between them since that night had grown out of a thing he had watched happen to an eleven-year-old and decided to let be.
 
 She had liked him for it. She had stood in that classroom with her heart going, and thought him the cleverest person she had ever met, and liked him for it.
 
-“You said to me once,” said Lyra, “in a shack, with the sleet coming down outside, that you had never lied to me.”
+“You said to me once, in a shack, with the sleet coming down outside, that you had never lied to me.”
 
 He shut his eyes.
 
-“*I’ve never lied to you, Malfoy*,” said Lyra. She said it exactly as he had, and she watched it land. “You hadn’t, either. Had you? Not once. Not one word. You only ever let me find out what you wanted me to find out, in the order you wanted me to find it, and you never had to lie at all.”
+“*I’ve never lied to you, Malfoy.*” She used his voice. “You had, of course. That nonsense about the preface of the book. I knew that. But I thought I could tell when you were joking.” She waited until he looked at her. “The important things—you let me find out what you wanted me to find out, in the order you wanted me to find it. And I thought I was catching up with you.”
 
 He did not answer.
-
-And then, because it was there, and because she could see it now, as she could see everything now, she said the last of it.
 
 “The egg.”
 
 He opened his eyes.
 
-“You knew,” said Lyra. “You knew what was in it before you ever opened it. You knew about the lake, and the merpeople, and the song. You sat in that library and read the page I gave you, and you let me—” Her voice did something, and she stopped it. “You let me solve it.”
+“You knew. You knew what was in it before you ever opened it. You knew about the lake, and the merpeople, and the song. You sat in that library and read the page I gave you, and you let me—” Her voice did something, and she stopped it. “You let me solve it.”
 
 “Yes.”
 
@@ -214,7 +212,7 @@ She saw it go into him, and saw that it was not news, and saw that it was worse 
 
 “Lyra—”
 
-“You’re going to let me finish,” said Lyra. “You owe me that, at the very least, and you know it.”
+“You’re going to let me finish. You owe me that, at the very least, and you know it.”
 
 He stopped.
 
@@ -222,7 +220,7 @@ He stopped.
 
 He took a step towards her through the straw, and she held up one hand, and he stopped again.
 
-“And the third thing is you.” Her voice was quite steady. She did not know how. “You had me on credit for four years, Potter, and you never once told me the terms. You knew what I’d be before I was it. You moved me about like furniture, from the first night, knowing exactly which room I would end up in, and the only reason I ever got anywhere you didn’t expect is that you didn’t know me. That was all I was to you, at the start. The one thing in the house you couldn’t place.”
+“And the third thing is you.” Her voice was quite steady. “You put me on credit that night, Potter, and you never once told me the terms. You knew what could happen before I did. You moved me about like furniture, from the first night, trying to put me where you thought I ought to be. And when I didn't go there, you couldn't tell me why it frightened you.”
 
 “That isn’t—”
 
@@ -230,19 +228,19 @@ He took a step towards her through the straw, and she held up one hand, and he s
 
 He did not finish.
 
-“I can’t be with you,” said Lyra.
+“I can’t be with you.”
 
 It was very simple, said aloud. She had thought it would be harder. Nothing in the room fell down.
 
 She looked down at the ring on her finger. She did not take it off. Not here; not in front of him.
 
-“They’ll want things from you,” said Potter. He said it fast and low, as though he had known for some time that he would have to say it and had worked out the words in advance. “Your father, and him. They’ll want you to tell them things. About me, about Dumbledore. Let them. I’ll make sure you’ve got enough to give them—enough that they keep you, enough that you’re useful—and nothing that costs you anything. Nothing that can come back on you. I can do that. I can keep you safe inside it, Lyra. You only have to—”
+“They’ll want things from you.” Potter was speaking fast and low. “Your father, and him. They’ll want you to tell them things. About me, about Dumbledore. Let them. I’ll make sure you’ve got enough to give them—enough that they keep you, enough that you’re useful—and nothing that costs you anything. Nothing that can come back on you. I can do that. I can keep you safe inside it, Lyra. You only have to—”
 
 “Don’t insult me, Potter.”
 
 He stopped.
 
-“I have never in my life needed looking after,” said Lyra, “and I am not going to start with you. If I am going to be on the other side of this, then I shall be on the other side of it, all the way, as myself. I am not going to stand in my father’s house being handed scraps by you to feed to my own family, like a bird you’ve trained to come to the window. I’d rather be nothing at all.”
+“I have never in my life needed looking after, and I am not going to start with you. If I am going to be on the other side of this, then I shall be on the other side of it, all the way, as myself. I am not going to stand in my father’s house being handed scraps by you to feed to my own family, like a bird you’ve trained to come to the window. I’d rather be nothing at all.”
 
 He looked at her.
 

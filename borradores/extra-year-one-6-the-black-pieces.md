@@ -20,7 +20,7 @@ It was very annoying. Something had happened to Potter in Potions that winter, a
 
 “He’s better than everybody in Potions,” said Crabbe reasonably, “now. Even the fifth years.”
 
-“Then I shall be better than him,” said Lyra, “at everything else, and he shall be better than me at one thing, and that,” she turned a page with some violence, “will be the thing everybody remembers about him. *Harry Potter. Not bad at potions.*”
+“Then I shall be better than him at everything else, and he shall be better than me at one thing, and that,” she turned a page with some violence, “will be the thing everybody remembers about him. *Harry Potter. Not bad at potions.*”
 
 Crabbe looked at her across the table with her quill in her mouth.
 
@@ -29,8 +29,6 @@ Crabbe looked at her across the table with her quill in her mouth.
 “I was never frightened of him.”
 
 Crabbe went on looking at her. Then she took the quill out of her mouth and went back to her essay, and did not say anything else, which was a habit of hers that Lyra was going to have to do something about one day.
-
-It was true, though. She was not frightened of him any more. She had found something better to be.
 
 ⁂
 
@@ -50,9 +48,9 @@ He turned round when the door creaked. His face did something very fast.
 
 “Malfoy—”
 
-“What,” said Lyra, “is *that*?”
+“What is *that*?”
 
-“Nothing. It’s a mirror. Go back to bed.” He had moved, as he spoke, so that he was in front of it: not quite blocking it, but standing in its way, as one stands in front of a thing one does not want looked at. “It isn’t— honestly, it isn’t anything. Go away.”
+“Nothing. It’s a mirror. Go back to bed.” He moved in front of it. “It isn’t— honestly, it isn’t anything. Go away.”
 
 That decided it.
 
@@ -64,9 +62,7 @@ It was the classroom.
 
 Not this one. The other one, on the ground floor, with the desks pushed back and the half-sentence about moonstone on the blackboard: the one she had sat in every night of the Christmas holidays with one lamp lit, and her father’s chess set, and nobody. It was there in the mirror instead of the room she was standing in, as clear as a window. The lamp was lit. The board was set out on the desk in the middle of the floor. And she was sitting at it, on the near side, with the white, with her back to the blackboard.
 
-The chair on the far side was not empty.
-
-Somebody was sitting in it.
+Somebody was sitting in the chair on the far side.
 
 She could not see who. The lamp was on the desk between them, and whoever it was sat just back from its light, so that there was nothing of them she could see but a shape, and a sleeve, and a hand. The hand came forward into the light and picked up a black knight, and hesitated over the board for a long, uncertain moment, and put it down on what was quite plainly the worst square available.
 
@@ -78,7 +74,7 @@ She knew who it was. She had worked it out on the third day, on the dungeon stai
 
 “It’s the Baron,” she said.
 
-She said it to the glass, delighted. She had never seen him play. She had only ever seen the board in the morning, moved. And here he was, the Bloody Baron, in her chair, playing the black badly in a lamplit room and having the courtesy to keep his terrible face out of the light.
+She had never seen him play, only the board in the morning, moved. And here he was, the Bloody Baron, playing the black badly and having the courtesy to keep his terrible face out of the light.
 
 Behind her, Potter made a small noise.
 
@@ -90,7 +86,7 @@ She turned round. He was standing exactly where she had left him, with the cloak
 
 “He played with me,” said Lyra. “At Christmas. When there was nobody. Every night.” She did not know why she was telling him. It was the most private thing she owned, and she had just handed it to Harry Potter in a disused classroom at midnight as if it were a sweet. She turned back to the glass. In it, the shape in the far chair had sat back again, out of the light, waiting for her move. “I never thanked him properly. You can’t thank the Baron properly. He doesn’t answer.”
 
-“No,” said Potter, in a strange voice. “I don’t suppose he does.”
+“No.” Potter’s voice sounded strange. “I don’t suppose he does.”
 
 ⁂
 
@@ -104,7 +100,7 @@ That was not what she had expected her heart’s desire to be. She had expected,
 
 She did not look at it again.
 
-“What do you see?” she said instead, without turning round. “In it. You were standing there before I came in. You were looking.”
+“What do you see?” she asked, without turning round. “In it. You were standing there before I came in. You were looking.”
 
 There was a pause.
 
@@ -112,27 +108,27 @@ There was a pause.
 
 “Liar.”
 
-“Yeah,” said Potter. “Probably.”
+“Yeah. Probably.”
 
-She did turn round then. He had put the cloak on, all but the hood, so that he was a head and a pair of shoulders floating in the lamplight with nothing underneath them, and he was not looking at the mirror any more. He was looking at her, with an expression she had never seen on him and did not know what to do with: as though she had said something kind, and he could not think why.
+She did turn round then. He had the bundled cloak under one arm and his hand on the door latch. He was looking at her as though she had said something kind, and he could not think why.
 
-“Whatever it is,” said Lyra, “I hope it’s something stupid. I hope it’s a Chocolate Frog card you haven’t got.”
+“Whatever it is, I hope it’s something stupid. I hope it’s a Chocolate Frog card you haven’t got.”
 
-“It isn’t,” said Potter.
+“It isn’t.”
 
-And then he did a thing she was going to think about, on and off, for a great many years, without ever once being able to explain it. He smiled at her. Not his Gryffindor smile, that he put on for the whole Great Hall like a hat; not the cold one from the corridor. A small one, crooked, that did not seem to be for anybody else.
+He smiled at her, a small, crooked smile quite unlike the one he put on for the whole Great Hall.
 
-“Night, Malfoy,” he said, and pulled up the hood, and was gone, and the door opened and shut on nothing.
+“Night, Malfoy.” He opened the door and went out, closing it quietly behind him.
 
 ⁂
 
 She lay awake for a long time that night, in the dormitory under the lake, with the green light moving on the ceiling.
 
-She was not unhappy. That was the surprising thing. She had been unhappy, more or less, since the night before Christmas, when the house-elves had cleared away the plates in the Great Hall and she had walked down to the dungeons alone; and she had got used to it, as one gets used to a draught, and stopped noticing it was there. And now it was not there. It had gone somewhere, and she had not seen it go.
+She had been unhappy, more or less, since the night before Christmas, when the house-elves had cleared away the plates in the Great Hall and she had walked down to the dungeons alone. She lay there now and waited for the familiar ache. It did not come.
 
 She thought about the hand coming into the lamplight, and the knight going down on the worst square on the board.
 
-Somebody had come. That was all it had been, in the end, the thing she wanted more than anything in the world. Not gold. Not a Cup. Somebody coming, at Christmas, when nobody had, and sitting down opposite, and playing, even badly. Even a ghost.
+She wanted to sit down and make her move and have somebody there to answer it. Even badly. Even a ghost.
 
 She would beat Potter at Charms tomorrow. She would beat him at everything, all term, and all of next year, and as long as she could, and it would be his part to lose, as it was hers to win.
 

@@ -14,7 +14,7 @@ She went into her classroom. Harry stood in the corridor with his bag on his sho
 
 He had known since McGonagall’s first sentence where they were going. He did not know how he knew. That was the way of it, this winter: things came up in him like bubbles in a pond, one at a time, from somewhere very deep, and broke on the surface, and he knew them, and had always known them, and could not remember learning any of them. Hagrid, with a lantern. A dog that was a coward. A path through the trees, and a smell of blood. And, from further down than any of it, a boy’s voice screaming, high and thin, going away between the trees as fast as it could go.
 
-He did not know whose voice it was. He thought he would, by nine.
+He thought he would know whose voice it was by nine.
 
 ⁂
 
@@ -42,7 +42,7 @@ Then Hagrid stopped, and swung the lantern low over the path, and they all saw i
 
 “You’re *leaving* us?” said Malfoy.
 
-“Five minutes,” said Hagrid, and was gone, enormous and quiet, into the trees, and the light went with him.
+“Five minutes.” Hagrid went, enormous and quiet, into the trees, and the light went with him.
 
 Harry lit his wand.
 
@@ -72,7 +72,7 @@ That got her chin up.
 
 “Hermione, mostly,” said Harry. “And it was a club.”
 
-“Trolls,” said Malfoy, “have no sense of balance whatsoever. Everybody knows that. You could put one on its back with a well-placed rug.”
+“Trolls have no sense of balance whatsoever. Everybody knows that. You could put one on its back with a well-placed rug.”
 
 He laughed. He could not help it. It came out of him in a short surprised bark that frightened the dog, and Malfoy glared at him with such outrage, with her whole face, that he laughed again; and by the time he stopped she had come two steps into the light without noticing she had done it, and was standing near enough to argue with, which was where he wanted her.
 
@@ -112,8 +112,6 @@ She did not run.
 
 She had come up beside him. Not behind; beside, at his shoulder, so close that her sleeve was against his. She had her wand out. It was shaking so badly that the end of it drew little circles in the air, and her face in the wandlight was as white as the unicorn, and her mouth was open and nothing was coming out of it. But she had her wand up, pointed at the thing that was coming, and her feet were planted in the leaves, and she was not going anywhere.
 
-He did not know what she thought she was going to do with it. He did not think she knew either.
-
 The hooded thing was very close. The pain in his head was enormous. He put his free arm out in front of her, which was a stupid thing to do and the only one he could think of—
 
 Hooves. Behind them, coming fast, a great drumming in the ground; and something went over their heads in a leap, pale gold in the wandlight, and came down between them and the hooded shape, rearing, with its forelegs striking. The shape fell back. It went away from them across the clearing as a shadow goes when you move the lamp, and the trees took it, and it was gone.
@@ -138,7 +136,7 @@ She looked at him. Her face was still white, but there was colour coming back in
 
 “I told you to run! I said *run*, and you just stood there—that thing would have—you should’ve gone back to the path and sent up sparks, that’s what you should’ve—”
 
-“And left you there?” said Malfoy. “With *that*? So that Hagrid could come back and find you drunk out of like a—like a—” She had no word for it. She did not need one. “And you put your arm out. In front of *me*. As if I needed you to. As if *I* were the one on her knees.”
+“And left you there? With *that*? So that Hagrid could come back and find you drunk out of like a—like a—” She had no word for it. “And you put your arm out. In front of *me*. As if I needed you to. As if *I* were the one on her knees.”
 
 “You were shaking!”
 
@@ -159,7 +157,5 @@ She went up the lawn ahead of him, very straight, with her cloak held tight at t
 Harry stood at the edge of the Forest with the dog leaning on his legs and watched her go.
 
 In the other life the boy with her name had run. He knew that now. He knew it the way he knew the rest of it, as a thing that had always been at the bottom of the pond: a scream going away between the trees, and the dog after it, and the light. He had never thought about it much, in that life. He had thought it was what Malfoys did.
-
-She had stood next to him with her wand shaking and her mouth open and nothing coming out, and not gone anywhere.
 
 It was the first thing, since the corridor, that he had not known was coming.
