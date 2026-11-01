@@ -14,6 +14,10 @@ Sustituye al v2.0 como documento de trabajo. Recoge **solo lo que sigue en vigor
 - **Escrito:** del 1 al 50, los *Year One* 1 a 6, el *Interludio 1* (entre el 32 y el 33) y el *Interludio 2* (entre el 41 y el 42). **La tanda 41-50 está escrita** (28-30 de octubre; el 41 y el interludio 2, criticados; del 42 al 50 y los *Year One* 5 y 6, **sin crítica**: la hace Codex con `docs/notas/encargo-codex-critica-y-revision.md`). Orden de publicación: 41, *Interlude: The Wrong Night*, 42, *Year One* 5 y 6, 43 a 50.
 - **Publicación:** la lleva el autor; está al día en `CLAUDE.md`.
 
+## Edición autorizada el 1 de noviembre de 2026
+
+Edén confirma que los capítulos desde el 35 inclusive siguen sin publicar. Revisión de 35–50, interludio 2 y Year One 5–6, en rama separada `codex/revision-integral-35-50`. **No incorporar automáticamente a main ni publicar**: esta entrega es para comparar y sustituir borradores. Criterio del autor: lectura agradable que se entienda de una pasada; conservar explicaciones y recordatorios útiles, quitar sólo las duplicaciones que frenan o no aportan. Reducir atribuciones redundantes sin reemplazar cada *said* por un gesto o sinónimo ni aplicar cuotas. Registro vigente: `docs/notas/revisiones/edicion-integral-35-50.md`; continuidad y manuales actualizados junto al texto.
+
 ## 2. Identidad: lo que no cambia
 
 La regla de oro: **subir la temperatura sin bajar la calidad**. Más emoción que el lector pueda leer, no más adjetivos.
@@ -125,7 +129,7 @@ Detalle en `docs/notas/ideas-divergencias.md` (crítica de Fable en `docs/fable/
   - **Los Horrocruxes:** la cuenta del canon (diario y guardapelo destruidos; anillo de Gaunt, copa, diadema, Nagini y Harry), pero desde 1995 la red de los Malfoy ha movido lo que guardaba: Harry va adonde recuerda y no encuentra nada; la pista está en casa de Lyra.
   - **«Never felt better»:** es una cura. Voldemort le curó a Abraxas la viruela de dragón, y eso lo tiene atado: por eso se somete la noche del regreso sin volverse tonto.
   - **Draco:** entra en Slytherin, sin sorpresa; el conflicto sale de dónde le pone Abraxas.
-  - **La diadema (sesión principal con Fable 004, 28 de octubre; ⚠ para el autor):** Harry la destruyó en septiembre de 1994 (la primera noche del curso), con el colmillo, como el guardapelo, y dejó los restos en la Sala de los Menesteres; solo lo sabe Dumbledore. En el quinto, Draco la saca rota por encargo del señor de la casita, y en Navidad el Señor Tenebroso sabrá que alguien de Hogwarts conoce sus Horrocruxes. Harry no tocó antes el anillo de Gaunt porque Dumbledore se lo prohibió y lo fue aplazando; lo recogieron la noche del hueso.
+  - **La diadema (sesión principal con Fable 004, 28 de octubre; ⚠ para el autor):** Harry la destruyó en septiembre de 1994 (la primera noche del curso), con el colmillo, como el guardapelo, y dejó los restos en la Sala de los Menesteres; solo lo sabe Dumbledore. En el quinto, Draco la saca rota por encargo del señor de la casita, y en Navidad el Señor Tenebroso sabrá que alguien de Hogwarts conoce sus Horrocruxes. Harry no tocó antes el anillo de Gaunt porque Dumbledore investigó sus protecciones: una sonda quedó ennegrecida antes de alcanzarlo. Debe retirarlo sin arrastrar la maldición; el colmillo no resuelve la defensa externa. Dumbledore lo sigue estudiando. Lo recogieron la noche del hueso (dato del rumbo); Harry sólo puede inferir esa relación en el interludio 2.
 - **Hecho en la tanda 31-40 (rumbo cumplido):** Moody es Moody y la culpable, Crouch padre bajo el Imperius de su hijo, lo destapa Lyra (40); Harry aparta a Cedric y toca la Copa solo (38); Cedric vive; la pareja, pública en el Baile (32); Lyra deduce el secreto (39) y rompen; Voldemort vuelve sin cementerio (38-40); el barco se va con Karkaroff (38).
 
 ## 9. La tanda en curso y el sistema de trabajo

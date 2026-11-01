@@ -6,11 +6,11 @@ She had stopped Lyra at the end of Defence, on the last Thursday of September, w
 
 “Mr Potter,” she said, “has a further week with me, I’m afraid. He has not yet learned his lesson. I have tried, Miss Malfoy, I really have, but some children seem positively to enjoy being corrected.” She sighed. “And tomorrow I am called to the Ministry. Most inconvenient. The Minister likes to be kept informed. I wondered whether you would sit with him for me. Merely to see that he does his lines, and does not leave before he is finished. One wants someone *reliable*.”
 
-“Of course, Professor,” said Lyra.
+“Of course, Professor.”
 
 She said it at once. She had been waiting since the second week of term to be asked something like it; that was what an informant was for, and she had been one now for three weeks, and had told Umbridge exactly four things, all of them true and none of them worth a Knut. It would look very odd to say no to a little supervision. It would look odder to want to.
 
-She wanted to. She was not going to look at why. She went down to dinner and ate it, and at five o’clock on the Friday she knocked on the door of Professor Umbridge’s office, and went in, and he was already there.
+At five o’clock on the Friday she knocked on the door of Professor Umbridge’s office, and went in, and he was already there.
 
 ⁂
 
@@ -34,7 +34,7 @@ She took out her Arithmancy, and opened it, and read nothing.
 
 The kittens frisked.
 
-“How many?” she said, after a while.
+“How many?”
 
 “She didn’t say. ‘Until it sinks in.’”
 
@@ -44,9 +44,9 @@ He looked up. He was very pale, and there was sweat on his upper lip, though the
 
 “What do you think?”
 
-“I think,” said Lyra, “that if you had kept your mouth shut in the first lesson, you would be in the common room now, eating toast, and I would be on the sixth floor confiscating Dungbombs from the Weasley twins, and we should both be a great deal happier.”
+“I think that if you had kept your mouth shut in the first lesson, you would be in the common room now, eating toast, and I would be on the sixth floor confiscating Dungbombs from the Weasley twins, and we should both be a great deal happier.”
 
-“Probably,” said Potter. “Toast would be nice.”
+“Probably. Toast would be nice.”
 
 “So why didn’t you?”
 
@@ -58,11 +58,11 @@ He went on writing. The quill scratched. It was a curious sound, she thought: th
 
 The quill stopped.
 
-He did not look up. He sat with his head bent over the parchment, and she watched him decide not to say anything to that, and then she watched him decide to; and when he spoke it was in a different voice, flatter, as if he were reading it off the parchment.
+He kept his head bent over the parchment. When he spoke again his voice was flatter, as if he were reading it off the page.
 
-“We’re not going to do this, are we,” said Potter. “You’re her prefect. You’re sitting in her chair. You came here to watch.”
+“We’re not going to do this, are we. You’re her prefect. You’re sitting in her chair. You came here to watch.”
 
-“I came here,” said Lyra, “because I was asked.”
+“I came here because I was asked.”
 
 “Same thing.”
 
@@ -70,7 +70,7 @@ He did not look up. He sat with his head bent over the parchment, and she watche
 
 He looked at her then.
 
-“Yeah,” he said quietly. “I know where you’re sitting.”
+“Yeah. I know where you’re sitting.”
 
 And he bent his head, and turned the quill in his fingers, and wrote; and it was not the same as before. She could see it from the desk, even upside down, even across the room: the shape of his hand changed. The long even lines he had been writing for an hour broke off, and underneath the last of them he was writing something shorter, slowly, pressing hard, as though he had to get it right the first time because there would not be another.
 
@@ -106,13 +106,13 @@ His handkerchief was in the drawer of her bedside table in Wiltshire, folded sma
 
 She did not take his hand. She wanted to so much that it frightened her, and she did not.
 
-He was looking up at her. He had not looked away, all this time. There was no plea in it, and no triumph either; he had written a thing down that he had meant, and he had let her read it, and that was all, and he was waiting to see what she would do. He was always waiting to see what she would do.
+He was looking up at her. His hand lay on the table between them, bleeding. He did not move it away.
 
 Lyra folded the parchment in half, along its length, so that the lines and the three words were on the inside, and laid it down on the table in front of him.
 
 “Five points from Gryffindor,” she said.
 
-Her voice came from somewhere a long way off, and was perfectly steady, and she heard it as one hears somebody else’s.
+Her voice sounded perfectly steady.
 
 “For writing what you were not told to write.”
 
@@ -128,13 +128,11 @@ She shut the door on whatever it was.
 
 There was a stretch of corridor outside Umbridge’s office, between two windows, where the torches had not been lit yet. She got as far as that, and no further.
 
-She put her back against the wall, between the windows, in the dark, and stood there with her bag against her chest and her eyes shut.
-
-She did not cry. She was quite clear about that afterwards. She stood against the wall with her eyes shut and her teeth together, and every so often her breath went in, in a way that was not crying, and she let it, because there was nobody to see, and she counted. She counted to a hundred. She counted the hours he had been in that room, all last week and this, with that woman across the desk smiling at him; she counted the lines on the parchment, which she had not counted, and could; she counted the letters on the back of his hand.
+She put her back against the wall and held her bag to her chest, with her eyes shut and her teeth together. Every so often her breath went in sharply, and she let it, because there was nobody to see. She counted the hours he had been in that room, last week and this, with that woman across the desk smiling at him. She got to the letters on the back of his hand, and had to begin again.
 
 *I love you*, in his own blood, on a Ministry form, under her nose, and she had taken five points for it.
 
-He had never said it. Not once, in all of it. Not on the train, or the lake, or under a cloak in a tent, or in an Owlery with straw round his feet, when she had told him it was over and he had said *this year*. She had not said it either. She had thought, if she had thought about it at all, that it was not a thing either of them knew how to say; that they had a whole language instead, of debts and rings and a sugar quill bent in the middle, and that the words themselves were for other people, who had nothing better to use.
+He had never said it. Not even in the Owlery, when she had told him it was over and he had said *this year*. She had not said it either. They had debts and rings and a sugar quill bent in the middle; she had thought the words themselves were for other people.
 
 He had found a way to say it that she could not answer, and could not give back, and could not put on any account in the world. It was the most underhanded thing anybody had ever done to her. It was worse than Lupin.
 
@@ -148,19 +146,19 @@ Professor Umbridge stopped her after breakfast on the Saturday, in the Entrance 
 
 Lyra looked at her. She looked at the pink, and the smile, and the small plump hand on the clasp of the bag, that had held out a quill to a fifteen-year-old boy every evening for a fortnight and told him to write until it sank in.
 
-“Very instructive, Professor,” said Lyra.
+“Very instructive, Professor,” said Lyra. “Wouldn’t ordinary ink do as well? He made rather a mess of the tablecloth.”
+
+Umbridge’s smile thinned. “The quill is part of his correction, dear. If he cannot complete it under supervision, I shall have to begin the week again myself.” She adjusted the clasp of her bag. “You need only supervise. Unless you would rather not?”
+
+“I can supervise.”
 
 “I am so glad.” Umbridge patted her arm. “I knew you would be a help.”
 
-“May I take Monday’s as well?” said Lyra.
+“May I take Monday’s as well?”
 
 Umbridge looked delighted.
 
-Lyra walked away across the Entrance Hall towards the dungeon steps, with her back straight and her face exactly as it always was, and did not let herself think, until she was at the bottom of them and alone, about why she had asked.
-
-She was not going to let anybody else sit in that chair. That was all. Not while he was in that room.
-
-It was not a reason she could have given to anybody, and she did not try.
+Lyra walked away with her back straight. She could refuse, and he would have Umbridge across the desk on Monday. She could stay and find something for his hand. That was what she had chosen.
 
 ⁂
 
@@ -172,7 +170,7 @@ Crabbe looked at the jar. Then at Lyra’s face. Then, for a long moment, at the
 
 “Somebody cut themselves,” said Crabbe.
 
-“On something,” said Lyra.
+“On something.”
 
 Crabbe sat down beside her, carefully, as she had sat down on Christmas night in a yellow dress, and did not ask on what. After a while she said, to the floor, in her low reasonable voice, “My cousin’s in Hufflepuff. Fourth year. She says Umbridge has had three of them in that office since term started, and none of them will say what they did in there, and one of them keeps his hand in his pocket.” She paused. “I just thought you’d want to know. Being a prefect.”
 
@@ -210,4 +208,4 @@ He went to the door.
 
 He stopped.
 
-“Keep the jar,” said Lyra.
+“Keep the jar.”

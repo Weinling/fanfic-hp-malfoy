@@ -1,5 +1,5 @@
 # Capítulo 42: «Badges»
-- **Archivo:** `borradores/cap-42-badges.md` · **Palabras:** ~2.930 · **Punto de vista:** Lyra · **Fechas:** martes 8 de agosto de 1995 (1-3); sábado 19 de agosto (4) · **Original:** 54 (la mañana de las compras), 56 (el andén) · **Sin crítica todavía** (pendiente: encargo a Codex)
+- **Archivo:** `borradores/cap-42-badges.md` · **Palabras:** ~2.801 · **Punto de vista:** Lyra · **Fechas:** martes 8 de agosto de 1995 (1-3); sábado 19 de agosto (4) · **Original:** 54 (la mañana de las compras), 56 (el andén) · **Sin crítica todavía** (pendiente: encargo a Codex)
 
 ## Escenas
 1. **Las cartas.** Dos lechuzas del colegio: la de Draco («*Mr D. Malfoy, The Second Bedroom on the Left*»; la esperaba desde su cumpleaños, en junio) y la de Lyra, con **la insignia de prefecta** (plata, serpiente, P). Nota de McGonagall y otra de **Snape**: «*You will find the duties tedious and the authority considerable. I trust you will not confuse the two. S. Snape.*» Lucius: «I was a prefect… Severus, I suppose. He has an eye»; «The run of the castle… That will be useful.» Lyra piensa primero en los pasillos de noche. **Carta de Krum** desde Sofía, cuatro líneas, una en otro alfabeto: «*Please, is the girl from the library well. V. Krum.*» Lyra sonríe por primera vez en esa mesa desde julio.

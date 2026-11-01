@@ -12,7 +12,7 @@ She had known, in the way one knows things in Slytherin, without being told: the
 
 “He came home at breakfast,” said Crabbe. “With mud on him. He didn’t say anything. He sat at the table and ate four eggs, and my mum didn’t say anything either, and nobody’s said anything since.” She pulled at a thread in the bedspread. “He’s different. He laughs more. He laughs at things that aren’t funny.” She stopped. “I don’t want to go home and watch him laugh.”
 
-Lyra thought of her own father on the stairs in July, laughing at breakfast, at everything, like a man who had been told he could put something down.
+Lyra thought of her own father laughing over the *Prophet* in July.
 
 She said nothing about it. There was nothing she could say that would not be a confession.
 
@@ -20,13 +20,13 @@ She said nothing about it. There was nothing she could say that would not be a c
 
 “I have to put my name down. On the list. It’s too late, it went up on Friday.”
 
-“I’m a prefect,” said Lyra. “I sign the list.”
+“I’m a prefect. I sign the list.”
 
 Crabbe looked round from the window at last.
 
 “You’d—”
 
-“It’s nothing,” said Lyra. “A line of ink. I’ll say you’ve a great deal of Arithmancy to catch up on, which you have, and that your mother wrote to me to ask, which she didn’t.” She picked up the brush again. “And I shall come back on the second, before the others, and you can tell me what the castle is like with nobody in it. I was here once at Christmas. It was very quiet. You’ll hate it.”
+“It’s nothing. A line of ink. I’ll say you’ve a great deal of Arithmancy to catch up on, which you have, and that your mother wrote to me to ask, which she didn’t.” She picked up the brush again. “And I shall come back on the second, before the others, and you can tell me what the castle is like with nobody in it. I stayed here at Christmas in first year. It was very quiet. You’ll hate it.”
 
 Crabbe did not laugh. She sat on the end of Lyra’s bed and looked at her for a long time, with her slow, careful, thorough look, as though she were reading a page she wanted to remember; and then she reached out, quite deliberately, and took the hairbrush out of Lyra’s hand, and began to brush Lyra’s hair for her, the long strokes, from the crown down, as Lyra’s mother’s maid had done when Lyra was small.
 
@@ -42,7 +42,7 @@ It was not locked. Nothing Draco owned had ever been locked. She lifted the lid.
 
 His robes. His books. A tin of the sweets their mother sent every week. A great many Chocolate Frog cards, most of them Krum. And under the robes, at the bottom, where he must have thought nobody would ever look, a box.
 
-It was a wooden box, about the size of a hatbox and very plain, of some dark old wood, with brass corners. It had come by owl; there was a scrap of the brown paper still caught under one of the corners. And across the lid, where the lid met the box, there was a band of green wax, with a seal pressed into it that was the Malfoy crest. Under the seal, on a little label, somebody had written:
+It was a wooden box, about the size of a hatbox and very plain, of some dark old wood, with brass corners. It had come by owl; there was a scrap of brown paper still caught under one corner. Draco’s little brass seal lay beside it, with a stick of green wax worn down at one end. He had sealed a band of parchment across the lid with the Malfoy crest. Under it, on a little label, somebody had written:
 
 *For the gentleman. Not to be opened by anybody else.*
 
@@ -50,23 +50,23 @@ Lyra knelt on the floor of the first-years’ dormitory and looked at the label 
 
 She knew that hand.
 
-She had held it in her own hand once, on the front of a letter in green wax, in the Great Hall, a year ago last November, and turned it over, and wondered whose it was: an old-fashioned hand, with long loops, a little unsteady at the ends of the letters, as though the man who wrote it had once written beautifully and now could not keep his fingers still. She had supposed, then, that her father had had somebody address it for him. She had carried it up a gangplank to Igor Karkaroff, and he had read it, and done everything it asked; and a ship had gone out of the lake in June, and her father had written to tell her that her errand had been a piece of a great work.
+On the letter she had carried to Karkaroff, a year ago last November: an old-fashioned hand, with long loops, unsteady at the ends. She had supposed her father had had somebody address it for him. Karkaroff had done everything that letter asked. Her father had called her errand a piece of a great work.
 
 It was the same hand. The same long loops. The same way of making a capital *G*, with a hook at the top like a shepherd’s crook.
 
 But it did not shake.
 
-The loops went round smooth and sure and even, to the very ends of the letters, as steady as a young man’s. Whoever had written the letter to Karkaroff had written this; and between the one and the other, the hand had stopped trembling.
+The loops went round smooth and sure, to the very ends of the letters.
 
 *He used to spill his tea*, Draco had said, at breakfast, in July. *His hands went like this. They don’t now.*
 
-She did not open it.
+The list lay beneath the sealing wax, folded small. She unfolded it. Three passes. A place for hiding things. The bust with the wig. With the whole drawing visible, the thing at the bottom was plainly a crown.
 
-She sat back on her heels and looked at the green wax, and understood exactly why she was not going to. If she broke that seal, Draco would know; he would see it the moment he looked, and he would know it was her, because there was nobody else in the world who would. And whoever had pressed that seal into the wax would know too, the moment Draco put the box into his hands at Christmas. A broken seal was a letter in itself. It said: *somebody in your family looked*.
+She copied the directions and the label into the back of her book of rounds. Then she looked at the seal. Draco would notice if she tore the parchment, and he would ask her before he asked anybody else. Whatever she told him, it would go back to the gentleman. *Somebody in your family looked.*
 
-She could not unknow what was in it, if she looked. But she could still, for three more weeks, not know.
+She could still find out who had sent him without giving that warning. At Christmas she would watch where the box went. She put the list back, and the robes on top, and shut the trunk.
 
-She put the robes back on top of it, exactly as they had been. She shut the lid. On her way out she confiscated the sock, for form’s sake, and dropped it in the fire in the common room, and stood there watching it smoulder, and thought about a hand that had stopped shaking.
+On her way out she confiscated the sock, for form’s sake, and dropped it in the common-room fire. In her pocket was a copy of the hand that had stopped shaking.
 
 ⁂
 
@@ -76,11 +76,11 @@ It had been snowing since dawn, big soft flakes coming down out of a white sky w
 
 Goyle wanted to go in. Goyle wanted butterbeer, and warmth, and to sit down, and said so for the length of the High Street and back, until Lyra gave in out of exhaustion.
 
-It was packed. It was so packed that the only table with room at it was a long one in the corner by the fire, where four people were already sitting, and three of them had red hair.
+It was packed. The only table with room at it was a long one in the corner by the fire, where three people were already sitting. One of them had red hair.
 
 Lyra stopped in the doorway.
 
-The fourth was Potter.
+Potter was beside him.
 
 He saw her. Granger saw her a moment after, and said something, and Weasley looked round, and his face did something complicated and then settled into the one he had worn on the grass after the match.
 
@@ -88,7 +88,13 @@ He saw her. Granger saw her a moment after, and said something, and Weasley look
 
 Goyle had already sat down.
 
-So they sat, the six of them, at one long table by the fire, Slytherin at one end and Gryffindor at the other, with Granger and Crabbe in the middle like a border nobody had agreed to; and for some minutes nobody said anything at all, and then Weasley said something about the Chudley Cannons, to Granger, pointedly, and Lyra could not help herself.
+So they sat, the six of them, at one long table by the fire, with Granger and Crabbe in the middle like a border nobody had agreed to. Weasley moved his mug out of Lyra’s way without looking at her.
+
+“That song,” she said. “I should have stopped it.”
+
+He looked at her then, hard. “Yeah. You should.”
+
+She let him look. For some minutes nobody said anything. Then Weasley said something about the Chudley Cannons, to Granger, pointedly, and Lyra could not help herself.
 
 “They lost to Puddlemere,” she said. “On Saturday. Three hundred and twenty to ten.”
 
@@ -96,9 +102,7 @@ So they sat, the six of them, at one long table by the fire, Slytherin at one en
 
 “By whom? Their own Keeper?”
 
-It went on from there. She did not mean it to; she had not forgotten the grass, or the song, or what Granger had said. But it went on, all the same, across the table, the Cannons and the Wasps and whether a Keeper who let in four goals had any business criticising anybody else’s team, until Weasley was red to the ears and Lyra was pink to hers and Goyle was eating her way steadily through a plate of crumpets in the middle as though at a play; and somewhere in it Lyra noticed that it was the old argument again, the one from March, the one that neither of them meant, like two old men on a bench who would be lost without each other to be wrong.
-
-It was not the same as March. It could not be. But it was not the grass, either.
+It went on from there: the Cannons, and the Wasps, and whether Lynch had any business calling himself a Seeker, until Weasley was red to the ears and Lyra was pink to hers and Goyle was eating her way steadily through a plate of crumpets as though at a play. Lyra left Weasley’s four goals out of it. When she caught Granger looking at her, she looked away.
 
 She had not looked at Potter once since she sat down.
 
@@ -110,7 +114,7 @@ She knew it. She knew it as one knows one’s own handwriting across a room. She
 
 He had gone back for it.
 
-At some point, in the two years since, he had gone back to the Shrieking Shack and got down on his knees and found the gap, and reached into the dark under the floor, and found it. And he had been wearing it. All this winter. All last winter, perhaps; under his scarf, where nobody would see it, at his collar, where she had worn it.
+And he had been wearing it. All this winter. All last winter, perhaps; under his scarf, where nobody would see it, at his collar, where she had worn it.
 
 She sat with the salt in her hand.
 
@@ -146,7 +150,7 @@ She took it. Her gloves were too thick; she took them off, and held the little s
 
 “This doesn’t change that.”
 
-“I know,” said Potter. “It isn’t for that. It isn’t for anything.” He put his hands in his pockets, in the snow. “It isn’t on anybody’s account, Lyra. It’s just your mum’s.”
+“I know. It isn’t for that. It isn’t for anything.” He put his hands in his pockets, in the snow. “It isn’t on anybody’s account, Lyra. It’s just your mum’s.”
 
 She put the paper inside her robes, against her ribs, where she had once carried her mother’s postscript for fourteen months.
 
@@ -156,9 +160,9 @@ She ought to have gone, then. Crabbe and Goyle were small dark shapes a long way
 
 He looked at her.
 
-“In your world,” said Lyra, “there wasn’t any me. There was Draco, at your age, at that table, and in Madam Malkin’s, on the stool. Not me. So why am I here, and not him? What did you do?”
+“In your world, there wasn’t any me. There was Draco, at your age, at that table, and in Madam Malkin’s, on the stool. Not me. So why am I here, and not him? What did you do?”
 
-“Nothing,” said Potter. “I didn’t do anything. You were here before I was. You were here when I was a baby.” He was quiet for a moment, with the snow coming down between them. “I don’t think anybody did anything. I think somewhere, before either of us was born, somebody tossed a coin, and it came down the other way. That’s all. That’s all I know about it.”
+“Nothing. I didn’t do anything. You were here before I was. You were here when I was a baby.” He was quiet for a moment, with the snow coming down between them. “I don’t think anybody did anything. I think somewhere, before either of us was born, somebody tossed a coin, and it came down the other way. That’s all. That’s all I know about it.”
 
 “A coin.”
 
@@ -166,15 +170,15 @@ He looked at her.
 
 She thought about that. It was not much of an answer. It was, she suspected, the only true one there was, and he had given it to her without dressing it up, which was more than she had expected.
 
-“Well,” said Lyra. “I hope somebody made a great deal of money on it.”
+“Well. I hope somebody made a great deal of money on it.”
 
-He laughed. It came out of him in a surprised white cloud in the cold air, the real one, the one she had not heard since March; and he stopped it almost at once, as though he had not meant to, and looked at her over it.
+He laughed. It came out of him in a surprised white cloud in the cold air, the real one she remembered from March; and he stopped it almost at once, as though he had not meant to, and looked at her over it.
 
 She turned and went up the lane after the others.
 
 At the edge of the village, where the last cottage stood with its roof gone thick and white, there was a dog sitting in the snow.
 
-It was very large and very black, and shaggy, and it was sitting quite still by the gatepost with snow on its back, watching her come, as though it had been sitting there a long time and had nowhere particular to be. It had pale grey eyes. She knew those eyes. She had fed them chicken, two winters ago, out of her own hand, in a shack, and been told afterwards whose they were.
+It was very large and very black, and shaggy, and it was sitting by the gatepost with snow on its back, watching her come. It had pale grey eyes. Those eyes had watched her put a chicken leg on a stone by the fence, two winters ago, before she knew whose they were.
 
 She stopped in front of it.
 
@@ -192,14 +196,10 @@ On the train home for Christmas, Draco slept nearly the whole way, with his head
 
 He had carried it out of the castle himself, in both arms, and would not let anybody put it in the rack, and would not let Lyra hold it while he ate his sandwiches. He had wrapped his scarf round it, as though it might be cold. He was so happy that it made her chest hurt to look at him.
 
-“I found it,” he had told her on the platform, in a whisper, because he could not help it. “The thing on the list. Behind the wall. I didn’t tell anybody. Not even—” He stopped. “Not anybody. He said it was a secret. He’s going to be so *pleased*.”
+“I found it,” he had told her on the platform, in a whisper, because he could not help it. “The thing on the list. Behind the wall. I’d been thinking about treasure, but you have to mean hiding things. I went after lunch, and it worked. I didn’t tell anybody. Not even—” He stopped. “I thought he meant if somebody asked me to go at night. This was just me. He’s going to be so *pleased*.”
 
-*Not even.* She had heard it. She had watched him not say the name, and seen where his hand went, to the pocket where a coin lived that was supposed to get warm; and understood that her brother had stood in front of a bare wall on the seventh floor, on some night in the last three weeks, and walked past it three times, and gone in, alone, and not told Harry Potter first.
+*Not even.* His hand had gone to the pocket where the coin lived. All her rounds, and he had gone in the afternoon, alone, with a reason he could give himself for not telling Potter.
 
 He had kept his secret for an old man in a cottage, as she had kept hers for him.
 
-She sat across the compartment from him all the way to London and looked at the box on his knees: dark old wood, brass at the corners, and a band of green wax across the lid in a hand that had stopped shaking.
-
-In the pocket of her robes, against her hip, there was a ring. Against her ribs there was a folded square of paper with a dead boy’s writing on it, for her mother.
-
-She took out neither. She watched the box, and the snow going past the window, and her brother asleep, all the way home.
+She kept one hand over the note for her mother and watched the box on his knees, all the way home.

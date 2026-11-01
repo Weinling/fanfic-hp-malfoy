@@ -80,7 +80,7 @@ She heard her own voice change on it, and could not stop it.
 
 Potter said nothing.
 
-“You expected all of it. Black, the Dementors, the dragons, the Goblet. Ever since first year. And when you were wrong about Moody, you went on being sure about his trunk.” She looked at him. “You don't look at any of them the way you look at me. You don't know what I'm going to do.”
+“You expected all of it. Black, the Dementors, the dragons, the Goblet. Ever since first year.” She looked at him. “You don’t look at any of them the way you look at me. You don’t know what I’m going to do.”
 
 The wind came in at the window and lifted the straw round his feet.
 
@@ -220,7 +220,7 @@ He stopped.
 
 He took a step towards her through the straw, and she held up one hand, and he stopped again.
 
-“And the third thing is you.” Her voice was quite steady. “You put me on credit that night, Potter, and you never once told me the terms. You knew what could happen before I did. You moved me about like furniture, from the first night, trying to put me where you thought I ought to be. And when I didn't go there, you couldn't tell me why it frightened you.”
+“And the third thing is you.” Her voice was quite steady. “You put me on credit that night, Potter, and you never once told me the terms. You knew what could happen before I did. You moved me about like furniture, from the first night, trying to put me where you thought I ought to be. And when I didn’t go there, you couldn’t tell me why it frightened you.”
 
 “That isn’t—”
 

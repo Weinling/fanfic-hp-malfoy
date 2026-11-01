@@ -160,7 +160,7 @@ He stopped waiting for Dumbledore on the sixteenth.
 
 He told Sirius in the drawing room, while the twins were upstairs blowing something up and Mrs Weasley was shouting at them about it: the shack, the ring, the blackened probe, the curse that killed by inches. Sirius listened with his chin on his fist.
 
-“We can look,” he said. “We don't touch a thing. If the protection's still there, we come back.” Then, before Harry could ask, “When?”
+“We can look,” he said. “We don’t touch a thing. If the protection’s still there, we come back.” Then, before Harry could ask, “When?”
 
 Harry had to look at the fireplace.
 
@@ -184,7 +184,7 @@ He thought of the churchyard below them, and the two lines in the paper. The ear
 
 It could have been the same journey. The same man, or one of the same men, sent for two things instead of one.
 
-He had known where the ring was for three and a half years. He had left the curse to Dumbledore and counted the ring as something they could still get whenever they were ready. It had never occurred to him that anybody else knew where to look.
+He had known where the ring was for three and a half years. He had left the curse to Dumbledore and counted the ring as something they could still get whenever they were ready. He had not imagined Voldemort would move it before they got there.
 
 The wand-light shook. He put his other hand round his wrist and held it until it stopped.
 

@@ -20,7 +20,7 @@ It was very annoying. Something had happened to Potter in Potions that winter, a
 
 “He’s better than everybody in Potions,” said Crabbe reasonably, “now. Even the fifth years.”
 
-“Then I shall be better than him at everything else, and he shall be better than me at one thing, and that,” she turned a page with some violence, “will be the thing everybody remembers about him. *Harry Potter. Not bad at potions.*”
+Lyra turned a page with some violence. “Then I shall be better than him at everything else, and he shall be better than me at one thing, and that will be the thing everybody remembers about him. *Harry Potter. Not bad at potions.*”
 
 Crabbe looked at her across the table with her quill in her mouth.
 

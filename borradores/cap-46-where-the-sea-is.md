@@ -32,7 +32,7 @@ Snape sat back in his chair. He was breathing a little hard. So was she.
 
 She waited.
 
-“There was a candle,” said Snape. “In a corridor I did not recognise. You put it out. Neatly.” He looked at her with no expression whatsoever. “Furniture, Miss Malfoy, does not move. If there is a light in a room, a Legilimens will look at it, because it is the only thing in the room that is alive. Next time, do not let it in at all. Or if you must, give it a reason to be there that he will find dull.”
+“There was a candle. In a corridor I did not recognise. You put it out. Neatly.” He looked at her with no expression whatsoever. “Furniture, Miss Malfoy, does not move. If there is a light in a room, a Legilimens will look at it, because it is the only thing in the room that is alive. Next time, do not let it in at all. Or if you must, give it a reason to be there that he will find dull.”
 
 “Yes, sir.”
 
@@ -44,7 +44,7 @@ She went up the dungeon steps with her head ringing and her hands quite cold, an
 
 The note was in her prefect’s pigeonhole on a Wednesday in the middle of October, between a list of rounds from Diggory and a reminder from Filch about Dungbombs, and it was folded into a very small square and had nothing written on the outside at all.
 
-She knew the hand before she had unfolded it. She had seen it on the back of a Potions essay a hundred times, upside down, across a library table, with the lamp between them.
+She recognised the small, untidy hand. The letters were in ink this time.
 
 *Third floor. The knight. Ten o’clock. Please.*
 
@@ -56,7 +56,7 @@ She burnt it in the common-room fire, and went to her rounds, and at ten o’clo
 
 ⁂
 
-The classroom behind the tapestry of the knight asleep on his horse was as it had always been: desks, dust, a window on the lake, the moon. She had stood in it in June with a ring warm in her palm and called him to it, and told him to swear. She had stood in it in November and told him that whether she went to a ball with anybody was her own decision. It was the room where things were said.
+The classroom behind the tapestry of the knight asleep on his horse was as it had always been: desks, dust, a window on the lake, the moon. She had called him here in June and told him to swear he would not lie to her.
 
 He was sitting on a desk by the window with his feet on a chair, and he got up when she came in.
 
@@ -70,7 +70,7 @@ She looked at them. She could not help it. He let her.
 
 “Yeah.” He looked at the floor, and then back at her. “I didn’t know what else would work.”
 
-“Nothing else would have,” said Lyra. “Say what you want, Potter. I have rounds at eleven.”
+“Nothing else would have. Say what you want, Potter. I have rounds at eleven.”
 
 ⁂
 
@@ -82,27 +82,25 @@ His scar had opened. That was the first piece. Not the way it had opened in thei
 
 Lyra did not move.
 
-“And there are people,” said Potter. “Coming and going. On their knees, mostly. I can’t see their faces properly; I’m—I’m looking down at them, and they keep their heads down. Except one.” He frowned, as if at something he had been trying to see for months. “An old man. White hair, long, and a cane, silver at the top. When the rest of them kneel, he doesn’t. He stands. He’s allowed to, I think. And I don’t know who he is.” He looked at her. “I don’t know who any of it is. I don’t know where the house is. There wasn’t any house like that, before. There wasn’t any old man.”
+“And there are people. Coming and going. On their knees, mostly. I can’t see their faces properly; I’m—I’m looking down at them, and they keep their heads down. Except one.” He frowned, as if at something he had been trying to see for months. “An old man. White hair, long, and a cane, silver at the top. When the rest of them kneel, he doesn’t. He stands. He’s allowed to, I think. And I don’t know who he is.” He looked at her. “I don’t know who any of it is. I don’t know where the house is. There wasn’t any house like that, before. There wasn’t any old man.”
 
 *Before.* He did not mean last year. She knew what he meant.
 
-“And in August,” said Potter, “I went to a place where I knew there was something. Something of his. Under a floor. I’ve known it was there since I was eleven, and I left it, because somebody told me to wait, and I went in August and it was gone. Somebody had come and taken it out, weeks before. Somebody who knew exactly where to look.” His hand closed at his side, the one with the words on it. “Somebody’s going round collecting his things, Lyra. And I don’t know who, and I don’t know where they’re taking them, and I don’t know where *he* is. I don’t know anything any more.”
+“And in August, I went to a place where I knew there was something. Something of his. Under a floor. I’ve known it was there since I was eleven, and I left it, because somebody told me to wait, and I went in August and it was gone. Somebody had come and taken it out, weeks before. Somebody who knew exactly where to look.” His hand closed at his side, the one with the words on it. “Somebody’s going round collecting his things, Lyra. And I don’t know who, and I don’t know where they’re taking them, and I don’t know where *he* is. I don’t know anything any more.”
 
 He said her name in the middle of it as if it had got out by itself.
 
-“I need you to tell me what you know,” said Potter. “Whatever it is. I know you know something. You lied to me in this room, before the Third Task. You said so after. I’m not asking you what about. I’m asking you to tell me anyway.”
+“I need you to tell me what you know. Whatever it is. I know you know something. You lied to me in this room, before the Third Task. You said so after. I’m not asking you what about. I’m asking you to tell me anyway.”
 
 ⁂
 
 She stood by the door with her hands at her sides.
 
-She thought of a ship in a storm, and a lamp swinging on its chain, and a man in his shirtsleeves holding on to his own arm. *When we are all together in the north.* She thought of a cold coast, and a long room with tall windows down one side, and the sound of the sea that never stopped; and a fireplace at the end of it, big enough to stand up in, with two stone hounds sitting up on either side of it with their mouths open. She had stood between those hounds once, at seven, in her best dress, and put her hand in the stone mouth of the left-hand one, because nobody was looking, and been told afterwards never to mention to anybody where she had been. Not even Crabbe.
+*When we are all together in the north.* She had stood between those stone hounds at seven, in her best dress, and put her hand in the mouth of the left-hand one because nobody was looking. Afterwards she had been told never to mention where she had been. Not even to Crabbe.
 
-He had described it to her. Stone by stone. A house that was in no register in the country, that her father had made sure of; and Harry Potter had stood in it, in his sleep, and looked down at people on their knees, out of somebody else’s eyes.
+Potter had stood in that room in his sleep, looking down at people on their knees. She knew whose eyes he was looking out of.
 
-She knew whose eyes. She did not need to be told that either.
-
-She looked at his hand. It was hanging at his side, the back of it towards her, and the moon was on it: *I must not tell lies*, and under that, three words he had written in his own blood in a pink room with her sitting three yards away, for her to read, and then had let her take five points for.
+She looked down at the scars on his hand.
 
 She had said, in June, that she was on the other side of this, all the way. She had meant it. She still meant it; she was Lucius Malfoy’s daughter, and the house he was asking about was her family’s house, and there were people in it whom she loved.
 
@@ -112,7 +110,7 @@ But he was not asking her for her family. He was asking her for *him*. For the t
 
 Potter went very still.
 
-“It’s on the coast of Northumberland,” said Lyra. “North of Alnwick. Not in any register in this country; my father saw to that, a long time ago, and I imagine his father saw to it before him. I have been there once. I was seven. We went by Portkey, from the study, and I never saw the road, so I can’t tell you how to get there and I shouldn’t, if I could.” She held his eyes. “In June, in this room, after you had sworn, Karkaroff had said to me, that same evening, on his ship, that he had done everything the letter asked. And that when they were all together *in the north*, he hoped he would be remembered.” She stopped. “That was what I didn’t tell you. That was the lie.”
+“It’s on the coast of Northumberland. North of Alnwick. Not in any register in this country; my father saw to that, a long time ago, and I imagine his father saw to it before him. I have been there once. I was seven. We went by Portkey, from the study, and I never saw the road, so I can’t tell you how to get there and I shouldn’t, if I could.” She held his eyes. “In June, in this room, after you had sworn, Karkaroff had said to me, that same evening, on his ship, that he had done everything the letter asked. And that when they were all together *in the north*, he hoped he would be remembered.” She stopped. “That was what I didn’t tell you. That was the lie.”
 
 The moonlight lay on the floor between them.
 
@@ -124,11 +122,11 @@ He did not say thank you. She was more grateful for that than she could have tol
 
 It was true. She heard it go into the room, true, and was glad of it.
 
-“There are a great many old men,” said Lyra, “with canes, who would be allowed to stand.”
+“There are a great many old men with canes who would be allowed to stand.”
 
 ⁂
 
-She had meant to stop there. She had given him the north, which was more than she had given anybody in her life; she had given it to him across a dark classroom without a ledger in sight, and she could feel the shape of what it had cost her somewhere under her ribs, like a stone she had swallowed. She had meant to turn round and go to her rounds.
+She had meant to stop there. The house was her family’s, and she had given him the place and the name. She ought to turn round and go to her rounds.
 
 He said, “And whoever’s collecting—”
 
@@ -140,13 +138,13 @@ She kept her face exactly as it was. She had been learning to, on Thursday eveni
 
 “—you don’t know anything about that,” said Potter. “Do you.”
 
-“No,” said Lyra.
+“No.”
 
 It went out into the room, perfectly smooth, perfectly level, and lay there.
 
 Potter looked at her.
 
-It went on a moment longer than it should have. He had looked at her across four years and two lives, and had learned her face better than anybody alive, better than her mother; and he stood by the window with the moon on the side of his own face, and looked at hers, and she watched him see nothing at all, because there was nothing there to see. She had made sure of it.
+She held her face arranged until he looked away. She could not tell whether he believed her.
 
 “Right,” said Potter quietly.
 
@@ -158,7 +156,7 @@ He put his hand into the pocket of his robes and took something out and held it 
 
 It was a ring. Plain silver. Hers.
 
-“I’m not giving it back,” said Potter, before she could say anything. “Not like that. You don’t have to wear it. I don’t want you to.” He was speaking fast, as he had in the Owlery when he had worked out the words in advance. “Just keep it. In your pocket. Somewhere. If anything happens to you, in that house, or anywhere, and it goes red, I’ll know. And I’ll come. That’s all it’s for.”
+“I’m not giving it back,” said Potter, before she could say anything. “Not like that. You don’t have to wear it for me.” He was speaking fast. “Keep it in your pocket. If anything happens, put it on, or hold it against your skin. It won’t tell me anything about you unless you touch it. But if mine goes red, I’ll know. And I’ll come. That’s all it’s for.”
 
 “You can’t come to Wiltshire, Potter.”
 
@@ -166,27 +164,29 @@ It was a ring. Plain silver. Hers.
 
 She held out her hand, and he tipped the ring into it.
 
-It lay in her palm. It did not go to her finger; she did not put it there. It lay on the flat of her hand in the moonlight, cool, and then not cool, as it remembered who she was; and while she looked at it, it changed colour.
+It lay in her palm, cool against her bare skin, and then warm; and while she looked at it, it changed colour.
 
-It did not go pink. That was what she had braced for, and it did not. It went a colour she had never once seen it go, and had never found on the little slip of instructions from Zonko’s, though she had looked: a deep, soft, unhappy blue, like the sky over the lake a few minutes after the sun has gone.
+She had braced for pink. Instead it went a deep, unhappy blue, like the sky over the lake a few minutes after the sun has gone. She had spent a summer trying not to think anything that might come out blue. She had not imagined it would look like this.
 
 Neither of them said what it was. She thought he knew. She thought, from his face, that he had known for some months.
 
 She closed her hand on it.
 
-“Rounds,” said Lyra. “I am late.”
+“Rounds. I am late.”
 
 She went to the door. At the door she stopped, as she always stopped at doors in that room, and did not turn round.
 
 “Potter. Whatever you do with it. Don’t go there yourself.”
 
-“I won’t,” said Potter.
+“I won’t.”
 
-“Liar,” said Lyra, and went.
+“Liar.” She went.
 
 ⁂
 
 At breakfast the next morning Draco was telling Urquhart’s little brother about a corridor on the seventh floor where, he said, if you knew the trick, a door came out of the wall.
+
+“The gentleman wrote it all out for me,” he added, importantly. Potter was passing the end of the table on his way to the doors.
 
 “You’ve found it, then,” said Urquhart’s little brother, impressed.
 
@@ -194,10 +194,6 @@ At breakfast the next morning Draco was telling Urquhart’s little brother abou
 
 He looked down the table, and saw Lyra looking at him, and went red, and changed the subject to Quidditch with great speed.
 
-Lyra ate her toast. In the pocket of her robes, against her hip, there was a ring, and she did not need to take it out to know what colour it was.
+Lyra ate her toast. She had given Potter the north and kept Draco’s list from him.
 
-She had given Potter the north. She had given him the house, and the coast, and the stone hounds, and the lie she had told him in June. She had given him the Dark Lord.
-
-And she had kept her brother.
-
-She looked at Draco at the end of the table, waving his spoon, with his tie on crooked and a list folded small against his heart, and understood that she had, last night, in a dark classroom, without anybody making her, chosen; and that she had chosen both ways at once, and that she was going to have to go on doing it, every day, in that house and this one, for as long as it took.
+At the end of the table Draco was waving his spoon, with his tie on crooked and the list folded against his heart. She took out her book of rounds and moved that evening’s visit to the seventh floor forward by half an hour.

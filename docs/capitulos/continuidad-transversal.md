@@ -2,6 +2,8 @@
 
 Hecho el 11 de octubre de 2026 a partir de todos los manuales y del handoff, tras el capítulo 28. Actualizado tras el 29 y tras el 30 (12 de octubre), tras el retoque del 25 al 30 (18 de octubre) tras el 31 al 40 (23 de octubre): la tanda 31-40 y el cuarto curso, cerrados. Añadido el *Interludio 1* (24 de octubre), entre el 32 y el 33. Recoge lo que está repartido por los manuales y se escapa con facilidad: los hitos de la pareja, quién sabe qué y desde cuándo, cómo está cada personaje, las fichas vivas y las deudas abiertas.
 
+**Revisión integral aplicada el 1 de noviembre de 2026:** 35–50, interludio 2 y Year One 5–6. Los cambios se describen en `docs/notas/revisiones/edicion-integral-35-50.md`. Son texto revisado en una rama separada; lo histórico anterior se conserva como tal.
+
 **Se actualiza al cerrar cada capítulo**, en el mismo paso que el manual. Si algo de aquí choca con el texto, manda el texto; corrige este archivo.
 
 ## 1. Hitos de la pareja
@@ -50,7 +52,7 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 | Jun. 1995 | 37 | Ella le llama con el anillo; le hace jurar que no mentirá. Él: «I’d like you never to have to visit» (de Lucius). Ella defiende lo que piensa su familia (el Estatuto, los dotados arriba). Él: «where’s she?» (Granger). **Ella le miente** («Nothing») sobre Karkaroff y el norte. Al día siguiente él no está en la escalera | Nadie | «She had needed only one.» |
 | 24 jun. 1995 | 38 | La tercera prueba: él gana feo (aturde a Diggory); en el podio la busca y la encuentra entre cientos; se miran. Sin palabras | Toda la escuela | — |
 | 26 jun. 1995 | 39 | **La lechucería.** Ella le pone delante la lista y deduce: «You’ve done this before»; él lo admite (otra vida, sin Lyra; Draco). Ella saca la Cámara («She was *eleven*») y el huevo. **Rompen:** su familia está dentro; ella le mintió (no dice sobre qué); él la tuvo a crédito sin decirle las condiciones. **Sexto beso en la boca, el de despedida**, de pie | Nadie | «That was the last one.» / «This year.» |
-| 27 jun.–1 jul. 1995 | 40 | Ella le devuelve el anillo en una lata, con la nota de dos capas (Crouch, el Imperius, «His son is alive»); se queda el pañuelo. En el andén, él la mira entre los Weasley; ella aparta la cara | Goyle (la lata); Dumbledore y Moody (la nota) | «That will be all, Potter. You were, on the whole, worth the ink.» |
+| 27 jun.–1 jul. 1995 | 40 | Ella le devuelve el anillo en una lata, con la nota de dos capas (Crouch, el Imperius, «I think his son is alive»); se queda el pañuelo. En el andén, él la mira entre los Weasley; ella aparta la cara | Goyle (la lata); Dumbledore y Moody (la nota) | «That will be all, Potter. You were, on the whole, worth the ink.» |
 | 29 sep. 1995 | 45 | La detención con la pluma de sangre que vigila ella: él escribe **«I love you»** bajo la línea, en su sangre; ella no sabía que la pluma hería; no tiene pañuelo; cinco puntos; el lunes, el frasco de murtlap | Nadie (Crabbe sospecha) | «Keep the jar.» |
 
 **Besos en la boca hasta ahora: seis (3, 19, 29, 30, 36 y 39, el de despedida).** Además: la frente (24), el hocico (27, «no cuenta»). El del 29 es el primero elegido por los dos, sin excusa: él lo pide y ella dice «Yes». El del 30 es el primero que empieza ella, a través de la capa. **Racha:** el 26, el 27, el 29 y el 30 tienen pago romántico; el 31 no; el 32 sí (en público, sin beso); el 33 sí (el baile, sin beso); el 34 no (la confesión es ante Moody); el 35 sí (la orilla, sin beso); el 36 sí (Hogsmeade, el quinto beso); el 37 no (baja); el 38 no (solo una mirada); el 39, la ruptura; el 40 no (rotos); y el próximo beso no se vende como otro «primero» (crítico).
@@ -231,7 +233,7 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 
 ### Lo que cambia en el 40 (23 de octubre): fin del cuarto
 - **El anillo de Lyra lo tiene Harry** (devuelto en una lata de Honeydukes, verde). **El pañuelo** (18) se lo queda Lyra.
-- **La nota de dos capas** (truco del 9) le dio a Harry: Crouch metió el nombre en el Cáliz, está bajo el Imperius, **su hijo vive**. Potter se la llevó a Dumbledore el martes; Moody y dos más llegaron a casa de Crouch una hora tarde: **Crouch, muerto** (martes 27 por la noche). El *Prophet*: buscan a **Karkaroff**. Nadie dice en público que Crouch tuviera un hijo vivo.
+- **La nota de dos capas** (truco del 9): Imperius observado; posible autoría del Cáliz e hipótesis de que el hijo vive. Pide preguntar a Winky por el asiento. Se apoya en la búsqueda de Harry en el baúl y en sus recuerdos, no en intuición sin pruebas. Harry la llevó a Dumbledore el martes; llegaron tarde a la casa. El hijo libre es un hecho del rumbo, pero **la nota no lo demuestra por sí sola**.
 - **Dumbledore** anunció en el banquete del viernes 30 que **Voldemort ha vuelto**, sin decir dónde; **el Ministerio lo niega** («irresponsible rumours»).
 - **Moody se ha ido** de Hogwarts; a Lyra: «Three for three» y «Watch yourself in that house». Le preguntó si su padre está marcado; **ella le mintió**: «never had anything on his arm in his life».
 - **Lucius está marcado:** Lyra le vio la Marca negra en el andén, el 1 de julio.
@@ -247,7 +249,7 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 - **Narcissa:** «It’s going to be a long one.» No ha abierto la puerta todavía.
 
 ### Lo que añade el Interludio 2 (30 de octubre; entre el 41 y el 42)
-- **Harry** destruyó **la diadema** en la Sala de los Menesteres la primera noche del curso de 1994, con el colmillo, y dejó los restos allí; solo lo sabe Dumbledore. **El anillo de Gaunt ya no está** en la casucha: lo recogieron la noche del regreso, con la tierra del cementerio de Little Hangleton (tumba dañada, en el *Prophet*). Dumbledore le había prohibido tocarlo («Not yet. When the time comes»). Los **dementores** llegaron el 31 de julio, dos noches antes de lo que Harry recordaba; Patronus, zorro; vista el 12 de agosto, absuelto. En Grimmauld desde el 1 de agosto.
+- **Harry** destruyó la diadema en septiembre de 1994 y dejó los restos; Dumbledore lo sabe. El anillo de Gaunt falta en agosto. Dumbledore había encontrado protecciones capaces de ennegrecer una sonda antes de tocarlo; el colmillo no las deshace. Sirius acepta ir a mirar sin tocar y Harry prueba dos veces que ya no responden. **Harry infiere**, sin probarlo por la tierra, una expedición común con el robo del hueso. El rumbo mantiene que fue la noche del regreso. Dementores: 31 de julio; vista: 12 de agosto; Grimmauld desde el 1 de agosto.
 - **El mapa:** de la Orden («I’m keeping it lent»).
 - **Pettigrew:** en Azkaban sin nombre, por Fudge; lo saben Dumbledore, Harry y Sirius. **Lyra no.**
 - **Harry** sabe que Sirius muere en junio; sabe lo que fue Snape en su otra vida y no le odia.
@@ -273,8 +275,9 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 
 ### Lo que cambia en el 46 (30 de octubre)
 - **Harry sabe el norte:** la casa georgiana de los Malfoy en la costa de Northumberland, al norte de Alnwick, sin registro, y que Karkaroff dijo «in the north» (la mentira del 37, confesada). Su cicatriz le enseña desde julio esa casa (los perros de piedra) y a un viejo de pelo blanco y bastón de puño de plata que no se arrodilla. **Lyra le mintió** sobre los recados de su padre y Draco («No»).
-- **El anillo de Lyra** vuelve a ella, como herramienta («if it goes red… I’ll come»); en su palma, **azul**. Lo lleva en el bolsillo.
+- **El anillo de Lyra** vuelve a ella como herramienta: sólo **transmite su estado cuando toca su piel** (dedo o palma). Puede guardarlo; en el bolsillo recibe llamadas, pero no avisa automáticamente de su peligro. Si lo toca y el de Harry se vuelve rojo, él irá. Azul al recibirlo: el color ya estaba anticipado por su temor del 24.
 - **Snape** enseña a Lyra los jueves; vio «una vela» en un pasillo y no preguntó.
+- **Harry oye al desayuno** a Draco hablar de instrucciones escritas del caballero para la puerta del séptimo. No sabe el contenido ni la identidad del remitente. **Lyra** intenta protegerlo mediante rondas; se ofreció a cubrir las de Zabini en el 44 y cambia su hora en el 46.
 
 ### Lo que cambia en el 47 (30 de octubre)
 - **El Señor Tenebroso dejó la casa del norte** (vigilada por la Orden tras el 46). Busca a quien habló. Lucius respondió por él y por Narcissa, no por Lyra («He did not think to»); **el nombre de Snape**, entre los cinco sospechosos. Snape no pregunta y se lo apunta a Lyra.
@@ -283,20 +286,22 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 
 ### Lo que cambia en el 48 (30 de octubre)
 - **Granger sabe la primera capa** del secreto de Harry (se lo sacó en cuatro horas, a mediados de noviembre); se lo ha dicho a Lyra. Weasley no lo sabe.
-- **Los mil galeones:** Potter se los ofreció a Diggory en el vestíbulo; Diggory los tiró. Potter está en el grupo de Defensa de Diggory (séptimo piso) por saber hacer un Patronus.
-- **Draco**, en ese grupo, con un galeón falso que le dio Potter («tell him first»). Lyra y Potter, peleados: «You used my brother»; ella le formuló el tablero (D1).
+- **Los mil galeones:** ofrecidos y rechazados **el martes 14 de noviembre**; Harry entra en el grupo esa noche porque puede enseñar un Patronus corpóreo. El miércoles da la moneda a Draco; el jueves hay práctica de Desarme con **Urquhart, el mayor**. No se declara a Harry único menor capaz de un Patronus (Lyra lo hizo en el 22).
+- **Draco**, único de primero en el grupo, con moneda que avisa de reuniones. Harry le pide que avise antes de ir solo; **no lo localiza automáticamente**. Lyra interpreta el trato como control. No hay sentencia de que ambos tengan idéntica razón. Ella reconoce el límite de sus propias rondas y decide leer la lista.
 
 ### Lo que cambia en el 49 (30 de octubre)
-- **Lyra reconoce la letra:** la etiqueta de la caja de Draco («*For the gentleman*», lacre verde) es la del sobre de Karkaroff (28), ya sin temblor. No abrió la caja. **Draco encontró lo de la lista** (detrás de la pared del séptimo piso) sin avisar a Potter y se lo lleva a casa.
+- **Lyra reconoce la letra:** etiqueta de la caja = sobre de Karkaroff, sin temblor. La caja llegó vacía por lechuza y **Draco la selló después de llenarla**, usando su sello, lacre y una tira de pergamino. **Lyra lee la lista completa y copia direcciones y etiqueta en su libro de rondas:** dibujo de una corona. No abre la caja para evitar que el niño avise al caballero; decide seguir la entrega en casa. Ignora que esté rota o sea un Horrocrux. Draco entró **por la tarde**, pensando por fin en esconder cosas; no avisó a Harry usando la distinción entre ir por iniciativa propia de día y ser enviado solo de noche. Su secreto derrota tanto las rondas como la condición de Harry.
 - **Harry le dio a Lyra la nota de Regulus** para Narcissa (con permiso de Dumbledore): «It isn’t on anybody’s account». Lyra vio **el calentador** en su cuello. Le explicó lo de **la moneda**. Siguen «sin hablarse» desde el 48, pero menos.
 - **Sirius** (perro) en Hogsmeade: Lyra le dio un ratón de azúcar.
 - **Crabbe** se queda en Hogwarts en Navidad; su padre estuvo en el norte la noche del regreso.
+- **Lyra reconoce ante Ron** que debió parar la canción; él no ofrece perdón instantáneo. El regreso de la conversación de equipos evita volver a burlarse de sus cuatro goles.
 
 ### Lo que cambia en el 50 (30 de octubre): fin de la tanda 41-50
 - **Lyra sabe que el señor de la casita es su abuelo, Abraxas Malfoy**, vivo, con la viruela casi curada y las manos firmes (la cura del Señor Tenebroso, intuida, no dicha). Lo dijo ella: «Grandfather.» **Draco** lo sabe desde esa noche.
-- **La diadema** (rota por Harry en 1994) llegó a la casita en la caja de Draco. Abraxas, aterrado: «Somebody in that castle knows what this is. And I shall have to tell him so.» Lyra no sabe qué es.
+- **La diadema** (rota por Harry en 1994) llegó a la casita en la caja de Draco. Abraxas, aterrado: «Somebody in that castle knows what this is. And I shall have to tell him so.» Lyra reconoce una joya como la corona del dibujo, pero no sabe que es un Horrocrux ni que Harry la destruyó.
 - **El retrato de Abraxas** ya no está en el despacho (un clavo); quedan tres.
 - **Narcissa** tiene la nota de Regulus («Tell him thank you»).
+- **Abraxas** elogia a Draco por obedecer sin preguntar: Lyra habría pedido explicaciones. Se muestra su elección de mensajero sin añadir una prohibición mágica nueva para los adultos.
 - **El señor Crabbe** amenazó con cortesía a Lyra en la cena de Nochebuena. «Absent friends»: los invitados miran al este.
 - **El anillo de Lyra** se calienta en su bolsillo la noche del 25.
 
@@ -309,7 +314,7 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 | El pañuelo (18) | Lyra; lavado y planchado, en el cajón de su mesilla de la Mansión | 41 | Lo metió en la lata del anillo y lo volvió a sacar: se lo queda |
 | La posdata de Narcissa | **Enviada a Narcissa** con la respuesta de Lyra debajo (*It was Harry Potter who was asking*) | 33 | Contestada el 29 de diciembre de 1994 |
 | El papel de los onces | El mismo libro | 15 | — |
-| Los anillos | **Cada uno el suyo** desde el 46: Harry le devolvió a Lyra el suyo «not to wear», para que le llame si se pone rojo; en su palma, azul | 46 | Colores: rojo (peligro de muerte), rosa (con su pareja), morado (en guardia), dorado (éxito), verde (a salvo), azul (solo insinuado en el 24: «anything that might come out blue»; el plan dice «te echa de menos»), azul oscuro (dormido, sin nombrar en el texto). Parpadeo: el otro le busca. Se calienta hacia el otro. Plata lisa: el otro está donde el anillo no llega (el baúl de Moody, 32) |
+| Los anillos | **Cada uno el suyo** desde el 46; Lyra lo guarda sin llevarlo como pareja | 46 | El estado del propietario se transmite **con contacto de piel**; sin él, el otro queda plata. Guardado puede recibir pulsos del compañero, pero no avisa del propio peligro hasta tocarlo. Rojo: peligro mortal; rosa: pareja; morado: alerta; dorado: éxito; verde: a salvo; azul: añoranza, anticipado en el 24 y mostrado en el 46. Calor orienta hacia el otro. El baúl de Moody bloquea el vínculo. |
 | Los omniculares de Potter | Lyra; en la Manor, bajo la almohada (25) | 25 | Dos horas de ella grabadas. **No son ficha** (autor): no vuelven como tal |
 | La insignia S.P.E.W. | Bolsillo de Lyra | 26 | Los dos galeones: prometidos, no consta que se pagaran |
 | La carta de Lupin | Bolsa de Lyra | 36 | **Contestada** en abril de 1995 (una página, firmada *Yours sincerely*) |
@@ -317,7 +322,7 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 | La Saeta de Fuego de Harry | Harry | 30 | Comprada tras el «No need» del 23; convocada en la primera prueba. Lyra la distingue por el número de matrícula |
 | La capa | **Harry** (se la devolvió Lyra el 29 de noviembre) | 31 | Se la dio Harry en la comida del 24 de noviembre; no consta que se la haya devuelto. Moody ve a través de ella |
 | El aviso del Baile | Tablón de Slytherin | 30 | Navidad, a las ocho; de cuarto en adelante; «*The champions and their partners will open the dancing.*» |
-| El mapa | **La Orden** (Moody: «I’m keeping it lent», interludio 2) | Int. 2 | «Not names». En la coda del 31 se oye doblarse en la oscuridad del despacho. **Decidido (autor, 28 de octubre):** Moody se lo lleva a la Orden; Harry, sin él en el verano y el otoño del quinto. Falta la línea en el texto (41 o 42) |
+| El mapa | **La Orden** (Moody: «I’m keeping it lent», interludio 2) | Int. 2 | «Not names». En la coda del 31 se oye doblarse en la oscuridad del despacho. **Decidido (autor, 28 de octubre):** Moody se lo lleva a la Orden; Harry, sin él en el verano y el otoño del quinto. Ya está en el interludio 2 |
 | El diario | Dumbledore (o Harry) | 14 | «Not ever» |
 | La tarjeta de Krum | Lyra, para Draco | 28 | — |
 | La bufanda de cachemir gris | **Harry** (se la puso Lyra en la orilla, 35; se tiró al lago con ella) | 35 | Del 7 (la lechuza la mordisqueó). **No vuelve como ficha** (crítico) |

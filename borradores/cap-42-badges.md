@@ -82,7 +82,7 @@ Lyra sat on the low stool beside the dressing table. Her mother opened a drawer,
 
 Lyra knew it at once. She had carried it fourteen months, behind the tables of values; she had unfolded it so often that it had gone soft as cloth. *P.S. Who is asking? You may tell me anything. I would rather hear it from you.* And underneath, in her own hand, as small and upright as she had been able to make it: *It was Harry Potter who was asking.*
 
-“I have read it a good many times.”
+“I have read it,” said her mother, “a good many times.”
 
 She did not pick it up. She sat with one finger on the edge of it, as on the edge of a card she had not yet decided to play.
 

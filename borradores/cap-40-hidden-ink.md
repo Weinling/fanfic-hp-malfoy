@@ -186,7 +186,7 @@ Lyra waited.
 
 “The son,” said Moody, very low. “You think his son is alive. I stood at that boy’s grave.” He waited. “What made you think of him?”
 
-“Winky was guarding a seat at the World Cup. It wasn't empty. And Potter had been looking for your missing boy in quite the wrong place.”
+“Winky was guarding a seat at the World Cup. It wasn’t empty. And Potter had been looking for your missing boy in quite the wrong place.”
 
 “Sneakoscope wouldn’t twitch at that,” said Moody, half to himself. He looked at her, in the middle of the noise and the trunks and the owls, and then he grunted.
 

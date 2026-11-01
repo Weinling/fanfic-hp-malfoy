@@ -2,13 +2,13 @@
 
 She gave her mother the note on the first evening, in the dressing room at the end of the west corridor, with the door shut.
 
-She said nothing about it. She had thought, on the train, about what she would say, and had found nothing that was not smaller than it. So she took the little square of paper out of the inside of her robes, where it had ridden against her ribs all the way from Scotland, and put it into her mother’s hand, folded, and stepped back.
+She took the little square of paper out of the inside of her robes, put it into her mother’s hand, folded, and stepped back.
 
 Her mother looked at it, and left it folded, for a long time.
 
 “Where did you get this?”
 
-“From the person who was asking,” said Lyra.
+“From the person who was asking.”
 
 Narcissa Malfoy sat down, quite slowly, on the stool in front of her glass. Then she unfolded it.
 
@@ -50,7 +50,7 @@ He found her before dinner, by the fire, with a glass of something in his hand. 
 
 “How kind.” Mr Crabbe smiled. It was not an unpleasant smile; it was a courteous one, the smile of a man at a Christmas party being gracious to the daughter of his host. It went on for a moment longer than it needed to, and his pale eyes took no part in it. “She thinks a great deal of you. She always has. I am glad she has such a friend, at a time like this.” He raised his glass to her, a little. “It is good for the children, isn’t it, to have friends who understand. Who know how things are.”
 
-“Yes, sir,” said Lyra.
+“Yes, sir.”
 
 “Do give her my love,” said Mr Crabbe, “when you see her,” and went away to talk to her father, and laughed, loudly, at something her father said that was not funny.
 
@@ -86,7 +86,7 @@ Somebody had taken him down. Somebody had come into her father’s study, betwee
 
 “Lyra?” Draco, in the doorway behind her, with the box in his arms. “Mother says presents. *Now.* She says if you don’t come she’s giving yours to Pobble.”
 
-“Coming,” said Lyra.
+“Coming.”
 
 She did not ask whether he had noticed. She knew he had not. He had been in and out of this study every day of his life and had never once looked at the corner, because there had never been anything in it but an old man asleep.
 
@@ -112,25 +112,11 @@ He was very old. His hair was white, and long, and lay on his shoulders, and his
 
 He took the box from Draco. He took it in both hands; and his hands were long and thin and spotted with age, and perfectly, entirely steady.
 
-Lyra stood in the snow and looked at the hands.
-
-*He is quite old and his hands shake but he is very good at cheating.* Draco, in a letter, in her third year, that she had read on the lid of a lavatory in an empty bathroom and gone cold.
-
-*He used to spill his tea. His hands went like this. They don’t now.*
-
-A hand on the front of a letter in green wax, in the Great Hall: long loops, unsteady at the ends, a capital *G* with a hook at the top like a shepherd’s crook. *For the gentleman*, in the same hand, on a box at the bottom of a trunk, not unsteady any more.
+Lyra looked at the long chin, and the cane, and the pale marks on his cheeks.
 
 *He says Father cheated much worse than me when he was my age.*
 
-*He says he’s never felt better in his life.*
-
-A white-haired old man with a cane with a silver head, standing, in a long room by the sea, when everybody else was on their knees. *He’s allowed to, I think.*
-
-A lamp in the east cottage that went out when her father came walking home in the dawn with mud on his cloak.
-
-A rectangle on the panelling a shade lighter than the rest, and a nail.
-
-And a story, as one knows the story of a house: an old man who had died very fast of dragon pox when she was too small to remember him, with the doors shut, so that it should not spread. No lying in state. *Better to remember him as the painter had.*
+In her father’s study there was a nail where that face should have been. She had been told the dragon pox had killed him, too quickly for her to remember, behind closed doors. *Better to remember him as the painter had.*
 
 She looked at the long pale face by the fire, with its marks almost healed, and its long chin, which was her father’s chin, and nothing else of anybody’s she had been able to see in a sleeping portrait; and saw it now, awake, and knew it.
 
@@ -139,8 +125,6 @@ She pushed the door open, and went in.
 Draco gave a little shriek and nearly fell into the fire. The old man was perfectly still. He turned his head, quite slowly, and looked at her standing in the doorway in her dressing gown and boots, with snow on the hem, and the cold coming in round her; and his eyes were grey, and pale, and very clear, and exactly like her own.
 
 “Grandfather,” said Lyra.
-
-It was not a question. She had not meant it to be one.
 
 The old man looked at her for a long moment. Then something moved at the corner of his mouth, very slightly, that was not quite a smile, and was very like the one her father wore across a chessboard when she had made a move he had not seen coming.
 
@@ -156,17 +140,17 @@ She came in. She shut the door.
 
 It was what her father said. *Sit there, where I can see you.* She had never known where he had got it.
 
-She stayed where she was. She stood by the door with her back against it, as she had stood in an Owlery once, and looked at him; at the hands, and the cane, and the marks on his face; at a dead man, alive, by a fire, in a cottage at the end of her father’s garden, where he had been, she understood now, all along. Since the summer the diary went. Since before. Teaching her brother to cheat at cards. Writing letters in green wax for her to carry. Standing, in a long room by the sea, when the others knelt.
+She stayed by the door. Her grandfather had been here while they spoke of him as dead, teaching Draco to cheat at cards and writing letters for her to carry.
 
-She thought of a cure. She did not know how she knew it was a cure; she only knew the marks, and the hands, and *never felt better in his life*, and what kind of man would be able to give a dying man his hands back, and what he would ask for them.
+*Never felt better in his life.* She looked at the steady hands and the nearly healed marks. She thought of a cure, and of what he might have promised to get it.
 
 “You’ll want to know,” said Abraxas Malfoy, “a great many things. I imagine you will ask them all. You have your father’s habit of the question next to the one you want answered; I taught it him. But not tonight.” He looked down, at last, at the box in his lap. “Tonight your brother has brought me a present, and I should like to see it.”
 
 “It’s the thing on the list,” said Draco, recovering. “I found it. Behind the wall. You walk past three times and think about hiding things, and a door comes, and inside it’s *enormous*, Grandfather, it’s like a cathedral made of junk, there’s everything, there’s a stuffed troll, and I found the bust with the wig, like you said, and it was on its head, and I didn’t tell *anybody*—”
 
-“Good boy,” said the old man.
+“Good boy,” said the old man. “Your sister would have wanted to know what it was for. You did as you were asked.”
 
-He broke the seal with his thumb. The green wax cracked, and fell away in pieces on to his knees. He lifted the lid.
+He broke the seal with his thumb. The green wax cracked, and fell away in pieces on to his knees. He tore the strip of parchment and lifted the lid.
 
 Lyra could see into the box from where she stood. There was a cloth in it, a piece of an old velvet curtain, and in the cloth there was a thing that caught the firelight: a diadem. A woman’s diadem, old, silver gone dark, with a blue stone set in the front of it and words engraved round the band in a small fine script; the kind of thing her mother’s grandmother might have worn to a ball two hundred years ago.
 
@@ -176,9 +160,7 @@ It had been broken a long time. It had cracked right across, through the band, b
 
 Abraxas Malfoy looked at it.
 
-Lyra watched him do it. She had been watching faces across tables all her life, and she had never seen one do what his did. It hardly moved. It had no need to. The colour went out of it, all of it, from the forehead down, as she had once watched the colour go out of a man’s face in a lamplit cabin on a ship when he heard himself say *north*; until the old man by the fire was as white as his own hair, and the marks on his cheeks stood out on it, pale on pale, as if the dragon pox had come back.
-
-His hands were still steady. That was the worst of it. He held the box quite steadily, and looked down into it, at the broken silver and the black, as a man looks at a letter that tells him the date of his own death.
+The colour went out of his face, from the forehead down, until the marks on his cheeks stood out against the white. His hands were still steady. He held the box without spilling a flake of the broken wax.
 
 “Grandfather?” said Draco. His voice had gone small. “Is it—is it the right one? It is a crown, isn’t it? Like on the list? I didn’t break it. It was like that. I *promise*, it was like that when I—”
 
@@ -196,4 +178,4 @@ The fire ticked. On the table, the chessmen had stopped arguing.
 
 Lyra stood with her back against the door of the east cottage, with the snow melting on the hem of her dressing gown, and the cold of the latch against her spine, and her brother’s frightened face turned up between them; and in the pocket of her dressing gown, where she had put it without thinking when she put on her boots, her hand had found the ring, and closed on it.
 
-She left it where it was. She could feel it in her fist, through her fingers, going warm.
+The bare metal warmed against her fingers.

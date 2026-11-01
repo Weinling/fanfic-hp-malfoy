@@ -78,7 +78,9 @@ He came out of a gap in the hedge on the northern side, on his own feet, but onl
 
 “—from *behind*! He Stunned me from *behind*, and threw me in the—I was right there, I had my hand on it, and he—”
 
-The Hufflepuffs began to boo. Moody stumped past Diggory into the gap in the hedge, his wand lit, and the gap closed behind him.
+Moody stumped past Diggory into the gap in the hedge, his wand lit, and the gap closed behind him.
+
+The Hufflepuffs began to boo.
 
 It started at their end of the stands, low and ugly, and spread. It went along the Ravenclaw benches, some of them, and a few of the Durmstrang boys took it up for the noise of the thing. The Gryffindors cheered louder to drown it, and that made it worse. In the middle of it, down on the grass, Professor Sprout had reached Diggory and had an arm round him, and he was still shouting, and pointing; and up on the podium, Potter stood with the Cup in his hand and looked at Diggory, and did not say anything, and did not look away.
 

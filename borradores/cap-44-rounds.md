@@ -38,7 +38,7 @@ The room had gone very quiet. Even the kittens on the wall had stopped playing.
 
 “Nothing out there is trying to hurt children,” said Professor Umbridge, “Mr Potter. Whatever you may have been told.”
 
-“He’s back,” said Potter. He said it quite calmly, as one says the time. “Voldemort. You know he is. Professor Dumbledore told the whole school in June.”
+“He’s back,” said Potter. “Voldemort. You know he is. Professor Dumbledore told the whole school in June.”
 
 Half the class drew in its breath at the name. Parkinson made a small noise like a kettle. Lyra kept her eyes on page four of Wilbert Slinkhard and felt it go over her, the name, as it always had, since she was eleven: a cold small shock at the back of the neck, like a door left open in winter.
 
@@ -70,7 +70,7 @@ Lyra had decided on the stairs, on the way up, before the lesson. She had decide
 
 “I can imagine.” Umbridge’s face had gone soft with sympathy. “*Moody.* With your poor father’s history. I said at the time that it was most irregular.”
 
-“And I’m a prefect now,” said Lyra. “I hear a great deal, in Slytherin. And on rounds. People say all sorts of things, at night, in corridors, when they think nobody’s listening. Things about the Headmaster.” She looked down, and up again. “I wondered whether the Ministry would ever find it useful to know them.”
+“And I’m a prefect now. I hear a great deal, in Slytherin. And on rounds. People say all sorts of things, at night, in corridors, when they think nobody’s listening. Things about the Headmaster.” She looked down, and up again. “I wondered whether the Ministry would ever find it useful to know them.”
 
 Umbridge looked at her for a long, warm moment, with her head on one side, like a toad deciding whether a fly was worth the trouble of the tongue.
 
@@ -106,13 +106,13 @@ She knew it. She had felt the edge of it once, in this room, at thirteen, a smal
 
 There was no deciding. It was not like the Imperius, where there had been a voice, and another voice, and an argument. There was no argument. There was only her own mind, and a hand in it that had not been invited, and she shut it, all of it, as one shuts a door on a draught, hard; and the hand was on the other side of the door, and the room was the room again, and Professor Snape had taken a step back from her, and put one hand on the edge of the desk.
 
-He looked at her for some time. She had never seen that look on him. It was very nearly respect.
+He looked at her for some time before he spoke.
 
 “So,” he said. “I said once that you had a natural defence. I did not finish the sentence. I shall finish it now.” He took his hand off the desk. “You have a natural defence of the mind, Miss Malfoy, of a kind I have seen perhaps three times in thirty years. And it is going to kill you.”
 
 Lyra said nothing.
 
-“You shut the door,” said Snape. “Very fast, and very hard, and I am on the other side of it. Admirable. And now I know that there is a door, and that there is something behind it that you did not want me to see.” He leaned forward. “There is a man who will look into you one day, as I have just looked. Not this year, perhaps. But he will. You will be standing in a room with your father beside you, and he will look at you as he looks at everybody, for something to use; and you will feel him come in, and you will shut the door, beautifully, in his face. And he will know, in that instant, exactly what you are.”
+“You shut the door. Very fast, and very hard, and I am on the other side of it. Admirable. And now I know that there is a door, and that there is something behind it that you did not want me to see.” He leaned forward. “There is a man who will look into you one day, as I have just looked. Not this year, perhaps. But he will. You will be standing in a room with your father beside you, and he will look at you as he looks at everybody, for something to use; and you will feel him come in, and you will shut the door, beautifully, in his face. And he will know, in that instant, exactly what you are.”
 
 The fire had burned down. Lyra could hear it ticking in the grate.
 
@@ -138,7 +138,7 @@ He liked Charms. He hated Herbology, because of the smell. He had been to the Ow
 
 “Can I come?”
 
-“No,” said Lyra.
+“No.”
 
 ⁂
 
@@ -166,7 +166,7 @@ He said it at once, very loudly, as he had said *I didn’t* about the strawberr
 
 She looked at him. She looked at the bust, and the tapestry, and the bare wall between them, which was nothing, a wall, smooth stone. A corridor on the seventh floor. A bust of a warlock in a wig. *Walk past the bare wall three times, thinking of a place for hiding things.*
 
-“You got lost,” said Lyra, “on the seventh floor. From the dungeons. At midnight.”
+“You got lost on the seventh floor. From the dungeons. At midnight.”
 
 “The stairs moved.”
 
@@ -182,14 +182,18 @@ He went red to the ears.
 
 “Nothing. It’s a game.”
 
-“Then I shan’t tell him you’ve been losing,” said Lyra. “Bed.”
+“Then I shan’t tell him you’ve been losing. Bed.”
 
 He went in. She stood outside the wall for a long time after it had closed behind him, with her wand lit, in the cold.
 
 She had not asked him for the list. She could have. He was eleven, and she was his sister, and a prefect, and he would have given it to her if she had held out her hand and used their mother’s voice; he always did. She had stood in front of him in the corridor with her hand half out, and taken it back.
 
-She told herself she did not know why. That was not true. She knew exactly why, and she stood there in the cold dungeon passage and made herself look at it.
+If she took it, she would read it. She would know what an old man who ran errands for the Dark Lord wanted from her brother, and she would have to do something about it. Tell her father, who had called it a game. Tell Potter, who had let Ginny Weasley carry a diary for a year because it would lead him to what he needed.
 
-Because if she took it, she would read it. And if she read it, she would know what an old man in a cottage, who ran errands for the Dark Lord, had sent her little brother up seven flights of stairs at midnight to look for. And then she would have to decide what to do about knowing.
+She would keep Draco away from that corridor herself. Let the gentleman think he was a poor treasure-hunter, rather than hear that somebody had stopped him. She could get him safely through his first term without handing him to either of them.
 
-She put out her wand, and went in, and went to bed, and lay awake.
+Zabini was still up, in the common room, when she went in.
+
+“I’ll take your seventh-floor rounds,” she told him. “For the rest of term.”
+
+“All of them?” He put down his cards. “Suits me.”

@@ -50,7 +50,7 @@ He came up gasping, with the egg shut in his hands and water pouring off his hai
 
 “Hang on—” He coughed, and shook his head hard, and most of it went on her. “There’s a song. Singing. Under the water, it’s singing.” He shut his eyes, to get it right. “*Come seek us where our voices sound.* Something about the surface— we can’t sing above it. *An hour long you’ll have to look, to recover what we took.*”
 
-“What you’ll sorely miss.”
+“What you’ll sorely miss,” said Lyra.
 
 He opened his eyes.
 
