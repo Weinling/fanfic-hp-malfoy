@@ -30,11 +30,11 @@ Prioridades del autor: continuidad, lógica, misterios bien preparados; menos «
 
 ## Acceso remoto
 
-El conector reconoce permisos de la cuenta, pero `create_branch` recibió 403 «Resource not accessible by integration». Git fuera de la restricción de red **sí** ha comprobado que `main` sigue en el commit base `68fea0501c655a558bb4f6c0f87821c0379a98ea`. La escritura por Git se comprobará al cerrar. El trabajo local y los commits están preservados.
+El conector reconoce permisos de la cuenta, pero `create_branch` recibió 403 «Resource not accessible by integration». **La alternativa por Git funcionó:** rama `codex/revision-integral-35-50` creada y subida al repositorio de Weinling. `main` no se ha modificado. La edición narrativa está en el commit `ebad71b`; esta nota de cierre va después sin cambiar los textos.
 
 ## Próximo paso
 
-**Edición terminada; queda entregar y subir la rama.** No hay agentes activos. No se modifica 1–34, los cuatro primeros Year One ni el interludio 1.
+**Edición terminada y subida.** Siguiente para el autor: comparar `main...codex/revision-integral-35-50`, sustituir los **19 borradores** de Wattpad con los textos de esta rama y decidir cuándo incorporar la rama. No hay agentes activos. No se modifica 1–34, los cuatro primeros Year One ni el interludio 1. La incorporación y la publicación no se han hecho automáticamente.
 
 ## Comprobación final
 
