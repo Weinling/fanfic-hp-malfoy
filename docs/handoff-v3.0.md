@@ -32,6 +32,12 @@ La regla de oro: **subir la temperatura sin bajar la calidad**. Más emoción qu
 - **Convenciones:** ortografía y léxico británicos; «Mr» y «Mrs» sin punto; Quidditch con mayúscula; comillas y apóstrofos tipográficos (“ ” ’) desde el primer borrador; separador de escena ⁂; cursivas con `*…*`; en el punto de vista de Lyra, Harry es «Potter» (salvo en momentos marcados, como el bucle del 21 y el 22); terminología oficial inglesa; nada posterior a 1998; nada que solo tenga sentido en Corea. En la cabeza de Lyra, Hermione sigue siendo «Mudblood» o «Granger», según el momento de su arco.
 - **Lo que no se copia de *Draconia Malfoy and the Boy Who Said No*:** la barbilla levantada y el ceño de Harry como muletillas; «for the first time in her life» en cada capítulo; Harry que siempre acierta; emociones nombradas; exposición para no lectores; resúmenes al principio; chistes repetidos hasta la fórmula; gestos grandes en todos los capítulos. **Y nada de sus escenas:** Lyra rehén en la segunda prueba; en el Baile, «Ask properly», la reverencia torpe, las clases de baile, la túnica verde y el beso en la mejilla; la carta del padre «You will not speak to the Potter boy again»; la cinta en la muñeca en la tercera prueba.
 
+**Decidido por el autor, 3 de noviembre de 2026 (manda sobre lo que choque en este documento):**
+- **Harry puede llevar la batuta.** El fic es principalmente de Lyra, pero se acaba el tope de un capítulo desde Harry por tanda: tendrá los que hagan falta, incluidos varios de su crisis contados desde sus ojos.
+- **El romance está muy por debajo de lo que quiere el autor.** Hay que subirlo mucho (`docs/notas/prompt-sesion-reestructura.md`, §2). La contención deja de ser la regla por defecto en el romance.
+- **El Bosque no es intocable:** si limita el concepto de posesión, la otra vida de Harry se puede ampliar.
+- **Sin aprobar por ahora:** las propuestas de `docs/notas/ideas/valoracion-propuesta-identidad-3-nov.md`, salvo la colocación del extra feliz (tras el 48), que el autor ve mejor.
+
 ## 3. El motor
 
 - **La promesa:** «Malfoys don’t do favours. We extend credit.» (7). Lyra y Harry solo saben quererse a crédito, y el romance avanza cada vez que la cuenta deja de cuadrar. **La cuenta aparece cuando la escena la pide**, como mucho un momento clave por capítulo y no en todos, y va apagándose: el arco de Lyra va del crédito al regalo.

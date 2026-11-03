@@ -22,6 +22,7 @@ Adaptación al inglés de una fanfic coreana de Harry Potter con un genderbend d
 
 ## Reglas del repositorio
 
+- **Publicación (autor, 3 de noviembre de 2026):** publicado hasta el 37 inclusive. Del 1 al 37 no se toca. Del 38 al 50, los interludios 2 y los *Year One* 5 y 6 se pueden cambiar a fondo. La versión vigente es la revisada por Codex (rama `codex/revision-integral-35-50`, fusionada el 3 de noviembre).
 - **Publicación (autor, 23 de octubre de 2026):** en Webnovel está todo lo escrito (del 1 al 30 y los cuatro *Year One*, el 2 y el 4 rehechos; el autor sustituye el 4 por el texto bueno). Hace falta el 31 y los siguientes. Sustituye a la entrada siguiente.
 - **Publicación (autor, 18 de octubre de 2026, superada):** Wattpad, del 1 al 23; hoy sube los *Year One* 1 y 2, mañana el 3 y el 4, y luego uno al día. Webnovel, del 1 al 26 y los cuatro *Year One*; hoy sube el 27 y el 28, y desde mañana uno al día. Sustituye a la entrada siguiente.
 - **Publicación (autor, 17 de octubre de 2026, superada):** Wattpad, del 1 al 22; Webnovel, del 1 al 23, *Year One* del 1 al 4 y el 24. El autor actualiza el 1 al 23 y los *Year One* 1 y 2 con las versiones fusionadas (`docs/notas/cotejo-oficial/veredicto-publicado.md`).
