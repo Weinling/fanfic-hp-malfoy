@@ -200,7 +200,7 @@ Zabini was still up, in the common room, when she went in.
 
 ⁂
 
-She had the seventh floor to herself for nine nights, and on the tenth he was sitting in the window at the end of it.
+She had the seventh floor to herself for three nights, and on the fourth he was sitting in the window at the end of it.
 
 It was ten to one. There was a moon, and he had his feet up on the far side of the embrasure and his left arm round his knees and his right hand in his dressing-gown pocket, and he looked round when her wand-light came along the wall as though he had been expecting the post.
 

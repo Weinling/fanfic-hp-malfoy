@@ -42,6 +42,52 @@ She went up the dungeon steps with her head ringing and her hands quite cold, an
 
 ⁂
 
+She stopped pushing the jar on the last Wednesday of his detentions.
+
+She had pushed it for nine days, an inch at a time, across Professor Umbridge’s desk, without looking up. On the Wednesday the hour ended and he put down the quill, and he took off the bandage to look at what was under it, and she saw what he had been doing to it, with his left hand, in a dormitory, by himself.
+
+“Give me that,” said Lyra.
+
+She came round the desk. She pulled the little pink chair out from under the window, and sat down on it, knee to knee with him, and took his right hand in both of hers and turned it to the light.
+
+He had held hers like that once, in the brambles behind the Shack, to stop it shaking. She did not suppose that he remembered. She took the stopper out of the jar with her teeth.
+
+“It’s fine,” said Potter.
+
+“It is not fine. It is a disgrace. Who taught you to bandage? I have seen better work on a ham.” She tipped the yellow stuff on to her fingers, and laid them on the back of his hand, on the line and the three small words beneath it, and felt him breathe in through his nose. She did not look up. She was so angry that she could feel it in her teeth. “Hold still.”
+
+The kittens frisked. She worked along from the knuckles to the wrist, a very little at a time. His hand was cold, and a good deal bigger than it had been, and it lay in hers without doing anything at all.
+
+“I love you,” said Potter.
+
+Her fingers stopped.
+
+It was a quarter past six on a Wednesday, in Dolores Umbridge’s office. There was blood on her cuff. He had said it in a perfectly ordinary voice, rather hoarse, to the top of her head, as one might remark that it had come on to rain.
+
+She went on with what she was doing.
+
+“Hold still,” said Lyra.
+
+“I was only—”
+
+“I know what you were only. I read it. I am aware of the position.”
+
+“It’s different out loud.”
+
+“It is a great deal worse out loud. There’s a kitten looking.” She tore the clean bandage with her teeth. She was not at all sure what was happening to her face, and she kept it bent over his hand. “That is the worst-timed thing I have ever heard anybody say. You have no conception of when to say anything. You never have. Is that all, or would you like to tell me something else while I’m holding your hand in the office of a woman who is at this moment having tea with the Minister?”
+
+“That’s all.”
+
+“Good.”
+
+She tied it off, rather hard. Then she held on to it for a moment longer than the knot required, and she gave it back to him, like something he had dropped.
+
+“Thank you,” said Potter.
+
+“Don’t you dare,” said Lyra.
+
+⁂
+
 The note was in her prefect’s pigeonhole on a Wednesday in the middle of October, between a list of rounds from Diggory and a reminder from Filch about Dungbombs, and it was folded into a very small square and had nothing written on the outside at all.
 
 She recognised the small, untidy hand. The letters were in ink this time.
@@ -180,7 +226,15 @@ She went to the door. At the door she stopped, as she always stopped at doors in
 
 “I won’t.”
 
-“Liar.” She went.
+She stood with her hand on the door for about as long as it took to know that he was lying.
+
+Then she came back across the room. She had hold of him by the front of his robes before he had got his mouth shut, and she kissed him as she would have slammed something, and he made a noise in his throat and his bandaged hand came up and stopped an inch from her hair and stayed there. It was the first time since June that she had gone back for anything.
+
+“Liar,” said Lyra, against his collar.
+
+She let go of him, and went.
+
+“Sixty,” said Potter, behind her, not very steadily.
 
 ⁂
 

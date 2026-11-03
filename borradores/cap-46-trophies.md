@@ -14,7 +14,7 @@ Beside her stood Potter, holding a wooden ruler. He had been given it to keep hi
 
 Lyra looked at the wall.
 
-It had been necessary. That was what nobody seemed to grasp. It had been a fortnight since the seventh floor, and in the course of that fortnight it had come to her notice that Harry Potter, passing her in a corridor, had begun to look at her badge and then at the nearest hourglass, in a thoughtful way, and that Parkinson had remarked at dinner that it was a long time since anybody had seen her and Potter have a proper row. There was a position to keep up. She was the Princess of Slytherin and a friend of the Ministry. She could not have people saying that she had gone soft. So when he had said “Morning, Malfoy, nice badge” at the foot of the marble staircase, she had drawn her wand with a good deal of pleasure, and he had drawn his, and it was quite possible that she had laughed.
+It had been necessary. That was what nobody seemed to grasp. It had been six days since the seventh floor, and in the course of those six days it had come to her notice that Harry Potter, passing her in a corridor, had begun to look at her badge and then at the nearest hourglass, in a thoughtful way, and that Parkinson had remarked at dinner that it was a long time since anybody had seen her and Potter have a proper row. There was a position to keep up. She was the Princess of Slytherin and a friend of the Ministry. She could not have people saying that she had gone soft. So when he had said “Morning, Malfoy, nice badge” at the foot of the marble staircase, she had drawn her wand with a good deal of pleasure, and he had drawn his, and it was quite possible that she had laughed.
 
 “Saturday,” said Professor McGonagall. “Eight o’clock. The trophy room, together, with Mr Filch. By hand. Without wands. Every cup, shield and plate in the room, until I can see my face in them.” She took up her quill. “Professor Snape agrees with me. He asked me to say so in those words, Miss Malfoy, and I gather he finds it restful.”
 
@@ -54,7 +54,7 @@ There was a short silence. It had been scarlet on Monday. It was fading from the
 
 “And a person who was recently unable to close his lips? Shall we ask the court what it thinks of him?”
 
-He grinned. It was really very difficult. She had taken thirty-five points off him in a fortnight, and it did not appear to have taught him anything.
+He grinned. It was really very difficult. She had taken thirty-five points off him in eleven days, and it did not appear to have taught him anything.
 
 She crossed the room and sat down in the chair, with her back very straight, and arranged her robes. It wobbled. He looked at her. Then he went and fetched the tin, and sat down on the floor with his back against the cabinet and his feet on the leg of her chair, and pushed.
 
