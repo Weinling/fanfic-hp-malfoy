@@ -36,7 +36,8 @@ La regla de oro: **subir la temperatura sin bajar la calidad**. Más emoción qu
 - **Harry puede llevar la batuta.** El fic es principalmente de Lyra, pero se acaba el tope de un capítulo desde Harry por tanda: tendrá los que hagan falta, incluidos varios de su crisis contados desde sus ojos.
 - **El romance está muy por debajo de lo que quiere el autor.** Hay que subirlo mucho (`docs/notas/prompt-sesion-reestructura.md`, §2). La contención deja de ser la regla por defecto en el romance.
 - **El Bosque no es intocable:** si limita el concepto de posesión, la otra vida de Harry se puede ampliar.
-- **Sin aprobar por ahora:** las propuestas de `docs/notas/ideas/valoracion-propuesta-identidad-3-nov.md`, salvo la colocación del extra feliz (tras el 48), que el autor ve mejor.
+- **Sin aprobar por ahora:** la sección «Lo que cambiaría» de `docs/notas/ideas/valoracion-propuesta-identidad-3-nov.md`, salvo la colocación del extra feliz (tras el 48), que el autor ve mejor. Sus cuatro ideas son material, no mandato.
+- **Lo que no cambia:** son menores; nada sexual ni sensual.
 
 ## 3. El motor
 
