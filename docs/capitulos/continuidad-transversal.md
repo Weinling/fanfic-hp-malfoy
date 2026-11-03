@@ -313,6 +313,11 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 - **Int. 2:** la protección de Lily dura hasta los diecisiete, y Harry lo sabe. La varita en la mano antes de sacarla. No recuerda qué era ser el niño.
 - **42 y 43 (nuevo):** martes 15 de agosto, insignias; el plan del cine se cae; jueves 17, Sirius le lleva al Odeon de Holloway Road y le llama «Prongs» sin darse cuenta; sábado 19, Harry cruza Diagon Alley y hablan en Flourish and Blotts. Él dice lo de la corbata de Draco, «They’re not my—», y ella le da *Numerology and Grammatica*. El orden de lectura: 42, 43, *Year One* 5 y 6, 44.
 
+- **Renumeración (4 de noviembre):** el 43 antiguo es el 44; 44→45; 45→47; 46→48; 47→50; 48→52; 49→53; 50→54. Son nuevos el 43, el 46, el 49 y el 51. Lo de arriba y los manuales conservan los números antiguos hasta que se actualicen.
+- **44:** en el compartimento: él revisó *Numerology and Grammatica* página a página («Every page?»). «Should I have been crying?» «A bit.» «That’s twice. You can’t keep doing that and sending me tins.»
+- **45:** primera recaída, en el séptimo piso, mediados de septiembre, ventana: «That was the last one.» «This year.» «It’s *September*.» «Five points from Gryffindor.» Harry sabe sus horarios de ronda y lleva la mano derecha en el bolsillo (por la pluma; ella no lo sabe).
+- **46 (nuevo):** duelo en el Entrance Hall: él le pone el pelo escarlata y oro (se va destiñendo a rosa), ella le alarga los dientes (la maldición de *Year One* 1). Castigo juntos en la sala de trofeos, sábado a las ocho, sin varitas. Cuenta: treinta y cinco puntos antes del castigo, «Forty» por el beso, «Forty-five» por el de la mandíbula, ella reclama cincuenta. Él le contó, sin que preguntara, la detención de segundo con Ron y que Draco huyó gritando del Bosque. **La vitrina:** *T. M. Riddle, For Special Services to the School, 1943*; debajo, *Prefects, 1943*: *A. Malfoy*, entre un Lestrange y Mulciber. Lyra se lo enseña; él no conoce el nombre. Goyle le mete comida en los bolsillos con notas.
+
 ## 5. Fichas vivas
 
 | Ficha | Dónde está | Última vez | Nota |
