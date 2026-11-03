@@ -60,3 +60,8 @@ Un matiz a tu idea: Draco no se corrompió, se rompió. Si queremos corrupción,
 - **El cuerpo de Voldemort** lo mata Harry en la Mansión, con la cara de Lyra y la varita de ella, cuando cae Snape.
 - **Los *Year Two* caen.** Entran tres *Year Four*.
 - **Riddle no amenaza a Lyra con nada sexual**, como hace el original.
+
+## Dos reglas para el guion
+
+- **El límite.** Son menores. Hay intensidad, celos, abrazos, besos breves y frases dichas, pero nada de tensión sexual, deseo físico ni gestos erotizados. Es decisión de la sesión, y no depende del guion.
+- **Los extras no suben peldaños.** Cada gesto nuevo nace en la línea principal, del 38 en adelante. Los *Year Four* solo enseñan el tono de aquellos meses con lo que el lector ya ha visto hasta el 36: nada que luego aparezca diluido en un capítulo.
