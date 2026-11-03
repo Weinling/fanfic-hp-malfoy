@@ -305,6 +305,14 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 - **El señor Crabbe** amenazó con cortesía a Lyra en la cena de Nochebuena. «Absent friends»: los invitados miran al este.
 - **El anillo de Lyra** se calienta en su bolsillo la noche del 25.
 
+### Lo que cambia con la reestructura (3-4 de noviembre; manda sobre lo de arriba)
+- **38:** la mañana del viernes 23 de junio, en el cuarto escalón: el anillo de Lyra llevaba tres semanas poniéndose rosa porque **Harry seguía yendo cada mañana bajo la capa**. Ella lo descubre, él pregunta otra vez por Karkaroff, ella vuelve a decir «Nothing» y le besa. **Son siete besos hasta el 39.** «Ten to eight.»
+- **39:** «Them or me.» / «It was always going to be them, Potter.» Es lo que más le hiere a él.
+- **40:** él la espera visible en la escalera tras el banquete, con bastón. «You left a gap.» Ella le arregla la corbata delante de Slytherin. Goyle: «Eat something» en el tren.
+- **41:** Lucius: «nobody had ever died owing a Malfoy»; el libro largo con cerradura, en el estante bajo del retrato.
+- **Int. 2:** la protección de Lily dura hasta los diecisiete, y Harry lo sabe. La varita en la mano antes de sacarla. No recuerda qué era ser el niño.
+- **42 y 43 (nuevo):** martes 15 de agosto, insignias; el plan del cine se cae; jueves 17, Sirius le lleva al Odeon de Holloway Road y le llama «Prongs» sin darse cuenta; sábado 19, Harry cruza Diagon Alley y hablan en Flourish and Blotts. Él dice lo de la corbata de Draco, «They’re not my—», y ella le da *Numerology and Grammatica*. El orden de lectura: 42, 43, *Year One* 5 y 6, 44.
+
 ## 5. Fichas vivas
 
 | Ficha | Dónde está | Última vez | Nota |
