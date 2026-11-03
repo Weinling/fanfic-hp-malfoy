@@ -1,5 +1,69 @@
 # Chapter 38: The Cup
 
+“How long?” said Lyra.
+
+She said it to a wall. It was twenty to seven on the morning before the Third Task, the Entrance Hall was empty, and she had come up from the dungeons an hour before anybody with a reason to, and stopped on the fourth step from the top.
+
+The ring had gone pink.
+
+It had gone pink on that step every morning for three weeks. She had seen it do so on the first day and looked, once, at the place by the wall, and there had been nobody there but a Hufflepuff doing up his shoe; and after that she had kept her thumb over it and gone on up to Arithmancy, and told herself that it was a cheap ring from a joke shop and had probably got stuck.
+
+*In the company of their sweetheart.*
+
+“Three weeks,” she said. “I can count, Potter. Take that thing off.”
+
+For about as long as it takes to make up one’s mind, nothing happened. Then a piece of the air came away, and he was leaning against the wall exactly where he had leaned every morning since January, with his hands in his pockets and the cloak over his arm, looking like a boy who has been found in a larder.
+
+“Since the morning after,” said Potter.
+
+“*Every* morning.”
+
+“You come up at ten to eight. Quarter to on Tuesdays. Goyle’s lost a hair ribbon and you’ve lent her one and she hasn’t noticed it’s silk.”
+
+Lyra came up the last four steps. She had been preparing this for three weeks. It had clauses.
+
+“You stopped,” she said. “You stood at the bottom of these stairs in front of the entire school for five months, and then one morning you weren’t there, without a word to anybody, and I went up seven flights with Crabbe looking at me. And all the time you were *here*. Under a blanket. Watching me do it.”
+
+“Yes.”
+
+“That is the most perfectly disgusting thing anybody has ever done to me.”
+
+“I know.” He looked at the flagstones. “You lied to me. I’d sworn, and you looked straight at me, and I don’t know what about, I only know what it looks like. I couldn’t stand here and have you say good morning.” He rubbed the back of his neck. “And I couldn’t not come. So.”
+
+It was appalling. She was quite clear about that. She was also aware that something under her ribs had sat up and was looking extremely pleased with itself. Three weeks. Every morning. Nobody in her whole life had ever got up in the dark in order to watch her walk past. She would take that out and look at it later, when she had finished being furious.
+
+“What did Karkaroff want?” said Potter.
+
+He said it quietly, and then he looked up, and she saw that he had been saving that as well. There was nobody in the Hall. There was nobody on the stairs. *When we are all together in the north.* It would have taken one breath.
+
+“Nothing,” said Lyra.
+
+“Right.”
+
+It was the same word in the same voice, and she could not stand it. She crossed the last yard of flagstones, took him by the tie, which was crooked, and kissed him, because she could not think of anything else that would stop him saying it again.
+
+It was cross and much too hard, and his glasses dug into her cheekbone. He made a small surprised noise. Then his arms came round her and held on.
+
+They held on a good deal too tightly. That was what she noticed. He was holding her as people hold on to each other on platforms, and he went on doing it after the kiss had stopped, with his face against her hair, and she could feel his heart going.
+
+She got a hand flat against his chest and pushed until she could see him.
+
+“If you get hurt,” said Lyra, “I’ll kill you.”
+
+He ought to have had something for that. He had had something for it in October. He only looked at her, for rather a long time, as one looks at a page one will have to hand back.
+
+“Potter. It’s *hedges*.”
+
+“Yeah,” he said. “Hedges.”
+
+There were feet on the dungeon stairs: Crabbe’s, by the sound of them, going slowly, as Crabbe did when she wished to be heard coming. He pulled the cloak up over his shoulders, and the Entrance Hall was empty, and the ring went on being pink.
+
+“Ten to eight,” said the air.
+
+Lyra straightened her collar. She had not asked him what he thought was in there. She had been asked a question herself that morning, and she knew how that had gone.
+
+⁂
+
 From the top of the stands the maze looked like writing.
 
 It had been growing all month, slowly and then, in the last week, a foot a night, and now in the long June dusk it stood twenty feet high across the whole of the Quidditch pitch: dark, dense, close-clipped walls of hedge, ruled out in lines that turned and crossed and doubled back on themselves and went nowhere, and somewhere in the middle of them, on a plinth, a small blue glimmer that was the Cup. From up here you could see the whole shape of it. You could see every turning. What you could not see was anything that was in it.
@@ -148,7 +212,7 @@ She looked for Dumbledore on the platform, and found him, three yards off, with 
 
 On the podium, over the heads of the Gryffindors, Potter had turned. He was not looking after Crouch. He was looking at her.
 
-He had found her over several hundred heads, and he looked at her across all of them, with his weight off his bad leg and the Cup in his arms and the blanket sliding off one shoulder. She had not spoken to him, except across a classroom, since a desk on the third floor and a single word. He did not smile. He only looked, for as long as it took Weasley to reach him and throw an arm round his neck, and then he turned his head and was gone into the red and gold.
+He had found her over several hundred heads, and he looked at her across all of them, with his weight off his bad leg and the Cup in his arms and the blanket sliding off one shoulder. She had given him the same word twice now, to his face. He did not smile. He only looked, for as long as it took Weasley to reach him and throw an arm round his neck, and then he turned his head and was gone into the red and gold.
 
 ⁂
 

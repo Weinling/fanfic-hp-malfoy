@@ -67,3 +67,8 @@ Total: unas 3.500 palabras.
 - **Harry pierde a propósito ante Cedric para ganar aliados** (48): el Harry que no paga (guion §3); aquí gana feo y paga.
 - **El laberinto desde dentro, desde Harry:** el capítulo es de Lyra, desde la grada.
 - **La reflexión de Harry sobre matar a Voldemort sin piedad** (47): desde Harry, y explica demasiado.
+
+## Reestructura (3 de noviembre de 2026)
+
+**Escena nueva al abrir (etiqueta: nuevo):** la mañana del viernes 23 de junio. El anillo de Lyra lleva tres semanas poniéndose rosa en el cuarto escalón: Harry sigue yendo cada mañana, bajo la capa. Pelean, ella vuelve a mentir («Nothing»), le besa para que no diga «Right». Él la abraza como quien cree que no volverá. **Motor:** la obsesión de Harry, vista por primera vez, y a ella le gusta. Beso nuevo: son siete hasta el 39.
+
