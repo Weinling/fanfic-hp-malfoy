@@ -318,6 +318,10 @@ En orden de la historia, no de escritura. «Testigos» son los que lo vieron o l
 - **45:** primera recaída, en el séptimo piso, mediados de septiembre, ventana: «That was the last one.» «This year.» «It’s *September*.» «Five points from Gryffindor.» Harry sabe sus horarios de ronda y lleva la mano derecha en el bolsillo (por la pluma; ella no lo sabe).
 - **46 (nuevo):** duelo en el Entrance Hall: él le pone el pelo escarlata y oro (se va destiñendo a rosa), ella le alarga los dientes (la maldición de *Year One* 1). Castigo juntos en la sala de trofeos, sábado a las ocho, sin varitas. Cuenta: treinta y cinco puntos antes del castigo, «Forty» por el beso, «Forty-five» por el de la mandíbula, ella reclama cincuenta. Él le contó, sin que preguntara, la detención de segundo con Ron y que Draco huyó gritando del Bosque. **La vitrina:** *T. M. Riddle, For Special Services to the School, 1943*; debajo, *Prefects, 1943*: *A. Malfoy*, entre un Lestrange y Mulciber. Lyra se lo enseña; él no conoce el nombre. Goyle le mete comida en los bolsillos con notas.
 
+- **45, fecha:** la primera recaída es el martes 12 de septiembre. **46:** el duelo, lunes 18; el castigo, sábado 23.
+- **48:** el miércoles 4 de octubre, último de las detenciones, ella le cura la mano en el despacho de Umbridge; él dice **«I love you» en voz alta por primera vez**; «Hold still.» Al final del aula, ella vuelve a por él. «Sixty.»
+- **49 (nuevo):** Weasley lleva la cuenta a la reunión de prefectos y hace un gráfico. El sábado 28, Lavender Brown le enseña a Harry un encantamiento y a Lyra se le dobla la cuchara. Esa noche **Lyra dice «Mine» por primera vez**, de su mano; él: «Say that again.» Sesenta y cinco. **Hallowe’en:** Granger hace la cuenta: trece. «Twelve. One was a line.» **Granger sabe que siguen besándose. Weasley no. McGonagall lo sabe:** «I should take them in tens.»
+
 ## 5. Fichas vivas
 
 | Ficha | Dónde está | Última vez | Nota |
