@@ -48,7 +48,7 @@ He was in the Owlery when she got there.
 
 She had known he would be. The ring had pulled her up the west staircase and out along the cold stone passage and up the last winding flight to the top of the tower, warm and then warmer, and it had stopped pulling at the door; and when she pushed it open he was standing at the far window, in the straw, with his back to the light and his hands in his pockets, and every owl in the place awake and watching him.
 
-He had not waited for her at the foot of the dungeon steps for three weeks, and he did not come towards her now. He looked at her face, and whatever he saw in it, he stayed where he was.
+He had not stood at the foot of the dungeon steps where anybody could see him for three weeks, and he did not come towards her now. He looked at her face, and whatever he saw in it, he stayed where he was.
 
 “You called,” said Potter.
 
@@ -233,6 +233,16 @@ He did not finish.
 It was very simple, said aloud. She had thought it would be harder. Nothing in the room fell down.
 
 She looked down at the ring on her finger. She did not take it off. Not here; not in front of him.
+
+“Because of them,” said Potter.
+
+“Yes.”
+
+“If it came to it.” He stopped, and began again, carefully, like somebody putting his weight on a stair he did not trust. “Them or me.”
+
+“It has come to it. That’s what this is.” She made herself look at him. “It was always going to be them, Potter. You knew that before I did.”
+
+He nodded. He went on nodding for a little longer than the answer required. She had told him a great many worse things in the last half-hour, and she had watched a dragon’s tail go through his shoulder with less to show for it, and she could not think why that should have been the one to do it.
 
 “They’ll want things from you.” Potter was speaking fast and low. “Your father, and him. They’ll want you to tell them things. About me, about Dumbledore. Let them. I’ll make sure you’ve got enough to give them—enough that they keep you, enough that you’re useful—and nothing that costs you anything. Nothing that can come back on you. I can do that. I can keep you safe inside it, Lyra. You only have to—”
 

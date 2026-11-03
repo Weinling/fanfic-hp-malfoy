@@ -20,6 +20,8 @@ Hermione had not said anything. She had gone on looking at the wand.
 
 Nobody, in either of his lives, had ever sent him anything hidden. He lay on Dudley’s spare bed in the July heat, with the window open on the smell of cut grass and somebody’s barbecue, and thought about that, and then made himself stop.
 
+He came back to Privet Drive because he had to. Whatever his mother had done still held, in his aunt’s blood and in this ugly house, and it held until he was seventeen and not a day after; Dumbledore had told him so in both lives, in very nearly the same words.
+
 Uncle Vernon’s *Daily Prophet* came to the house because Harry paid for it, and Uncle Vernon put it in the bin unread every morning to make a point. Harry fished it out every evening. It was mostly Karkaroff, who had killed Barty Crouch for reasons of his own and was being hunted across Europe, and Dumbledore, who had frightened a hall full of children with an old man’s nonsense and ought to think about retiring; and on Sunday, at the bottom of page nine, under a piece about a Kneazle show, there were two lines.
 
 *Muggle authorities in the village of Little Hangleton are investigating damage to a grave in the parish churchyard. Nothing is believed to have been taken.*
@@ -52,9 +54,13 @@ It was the one thing, this summer, that he still knew.
 
 On the thirty-first of July he was fifteen, and nobody at Number Four mentioned it, which was traditional.
 
-Two owls came in the morning, to the window of the second bedroom, while Aunt Petunia was hoovering the landing: Errol, with a letter from Ron that was mostly about the Chudley Cannons and a squashed slab of Mrs Weasley’s fudge, and a smart little brown owl from Hermione with a book about Defensive magical theory and a card that said *Don’t do anything stupid, I mean it*. Nothing came from Wiltshire. He had not expected anything to come from Wiltshire. He looked at the window for some time after the brown owl had gone, all the same.
+Two owls came in the morning, to the window of the second bedroom, while Aunt Petunia was hoovering the landing: Errol, with a letter from Ron that was mostly about the Chudley Cannons and said *Hermione says* four times, and a squashed slab of Mrs Weasley’s fudge, and a smart little brown owl from Hermione with a book about Defensive magical theory and a card that said *Don’t do anything stupid, I mean it*. Nothing came from Wiltshire. He had not expected anything to come from Wiltshire. He looked at the window for some time after the brown owl had gone, all the same.
+
+*It was always going to be them.* He had known that. She was quite right. Everybody had somebody who came first; it was how people worked. Ron had Hermione, whether he knew it yet or not, and Sirius had a dead man with the same hair, and Harry had always rather assumed that it was the sort of thing that happened to other people, like Christmas.
 
 In the evening he went out, because the house was full of the television and Uncle Vernon was in a temper about the price of petrol, and walked to the park at the end of Magnolia Crescent, and sat on the one swing the gang had not broken, and thought about the second of August.
+
+He had sat on this swing at ten. He knew he had, as one knows the date of a battle. He could remember the boy’s shoes, which had been Dudley’s, and that the chain had pinched. He could not remember what it had been like to be him. There was less of that every year, and he had stopped mentioning it to himself.
 
 It was very warm. The streetlamps had come on, orange, along the edge of the park. Somewhere a dog was barking. Two days, and then the alleyway, and the cold, and Dudley on his knees on the tarmac; he had been through it so often that it felt less like a thing that would happen than a thing he had to remember to do, like a dentist’s appointment.
 
@@ -64,7 +70,7 @@ Harry noticed it as you notice a clock that has stopped: not the silence, but th
 
 *No*, he thought, quite clearly. *Not tonight. It’s Monday.*
 
-He was off the swing with his wand out. Across the grass, at the mouth of the alley that ran down to Wisteria Walk, somebody was shouting, and then not shouting, and then making a high, thin noise that Harry had never heard come out of his cousin in either life.
+He was off the swing, and his wand was in his hand. He did not remember drawing it. That had been happening for years: his hand knew things, and told him afterwards. Across the grass, at the mouth of the alley that ran down to Wisteria Walk, somebody was shouting, and then not shouting, and then making a high, thin noise that Harry had never heard come out of his cousin in either life.
 
 He ran.
 

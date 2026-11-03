@@ -148,11 +148,21 @@ He was looking at her.
 
 He must have seen her first. He was standing quite still in the middle of the pavement, with people going round him on both sides, and he had not looked away when she found him, and he did not now. Nobody was between them but the width of the street, and a woman with a pram, and a man selling something out of a tray.
 
-Lyra did not get up. She did not look away either. She sat on the terrace at Florean Fortescue’s with a spoon in her hand and a sundae melting in front of her, and looked back at him across Diagon Alley, and neither of them crossed.
+Lyra did not get up. She did not look away either. She sat on the terrace at Florean Fortescue’s with a spoon in her hand and a sundae melting in front of her, and looked back at him across Diagon Alley.
 
-Weasley said something to him, close to his ear. Potter did not answer. After a moment Granger took his arm, quite gently, and turned him round, and they went on up the street towards Ollivander’s, and the crowd closed over them.
+Weasley said something to him, close to his ear. Potter did not answer. Then he took his hands out of his pockets, and stepped off the pavement.
 
-“Who was that?” said Draco, with his mouth full.
+“Stay there,” said Lyra.
+
+“Why? Who’s—”
+
+“Finish your ice cream. If you move from that chair I shall tell Mother what happened to the bow tie you had before this one.”
+
+She laid her spoon in the saucer, and got up.
+
+She was gone for eleven minutes. When she came back, both sundaes had been eaten, and Draco looked up at her with deep interest.
+
+“You’ve gone pink,” he said. “Who was that?”
 
 “Nobody.”
 

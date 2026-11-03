@@ -98,6 +98,10 @@ She followed it. It was the nearest of the four portraits, the one hung lowest, 
 
 He drank. Lyra looked at the sleeping face, which had her father’s long chin and, so far as she could tell, nothing else of his.
 
+“He used to say that nobody had ever died owing a Malfoy,” said her father. “I took it for a joke until I was thirty. Igor would do well to remember it, wherever he has got to.”
+
+On the low shelf under the portrait, among the estate books, was the long one with the lock on it, which Pobble dusted on Thursdays and nobody opened. Lyra had never thought about it in her life, and she did not think about it now.
+
 She knew the story, as one knows the story of a house: Abraxas Malfoy had died of dragon pox when she was too small to remember him, very fast, with the doors shut, so that it should not spread. There had been no lying in state. She had been told that the dragon pox did dreadful things to a face, and that it was better to remember him as the painter had.
 
 “He would have been proud of you,” said her father, and finished his glass, and put it down. “Run along. Your mother will want you for something, I expect. She generally does.”

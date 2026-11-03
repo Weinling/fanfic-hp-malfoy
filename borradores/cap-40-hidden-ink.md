@@ -94,6 +94,30 @@ Along the Slytherin table, nobody said anything at all.
 
 ⁂
 
+He was at the foot of the dungeon steps.
+
+He was not under anything. He was leaning on the wall with a stick in one hand and his bad leg held a little off the floor, in the place where he had leaned every morning from January to the end of May, and the whole of Slytherin House had to go round him on its way down from the feast. They went round him without a word. Somebody’s shoulder caught the stick, and he let it.
+
+Lyra stopped, because the alternative was to be seen not stopping.
+
+“You’re in the way, Potter.”
+
+“I know.” He waited until Goyle had gone by. “You left a gap.”
+
+“I don’t leave gaps.”
+
+“No,” he said. “Thanks.”
+
+He looked dreadful. Somebody in the hospital wing had done up his tie for him, and done it badly, and her hands were at it before she had finished thinking so. They had been doing that since Hallowe’en, and nobody had told them to stop. She drew the knot up. She laid the end of it flat against his shirt, and smoothed it, and then she understood what she was doing, and where, and in front of whom, and she took her hands away and held them together in front of her robes.
+
+Neither of them said anything. Behind her, the last of the sixth-years had stopped on the stairs.
+
+“That will be all, Potter,” said Lyra.
+
+She went on down.
+
+⁂
+
 The Slytherin common room, that night, was full and very quiet.
 
 Nobody had gone up to bed. They were sitting about in the green lamplight in twos and threes, the way people sit at a funeral before the family comes in, and talking in voices so low that the fire was the loudest thing in the room; and every few minutes somebody looked up at the stone wall that was the door, as if they expected it to open and let something in. In one corner a knot of sixth-years whose fathers Lyra knew were sitting very close together, not talking at all. At the table by the window two second-years were crying, quietly, into a book, and pretending not to. Parkinson was standing by the fire with his hands in his pockets, explaining to nobody in particular that it was all nonsense, that Dumbledore was an old man who wanted attention, in the high fast voice of somebody who did not believe a word of it.
@@ -213,6 +237,8 @@ Then he turned, and went away across the Hall with his trunk floating behind him
 On the train somebody had the *Prophet*.
 
 It went round their compartment twice before they reached the moors, and Goyle read the best bit out, in the Minister’s voice: that the Minister deeply regretted that Professor Dumbledore had seen fit to alarm a hall full of children on the eve of their holidays with irresponsible rumours, at a time when the Ministry was doing everything in its power to bring Mr Crouch’s murderer to justice. Nobody laughed. Crabbe took it off her, after the second time, and folded it up small, and sat on it.
+
+Somewhere after York, Goyle held out a Chocolate Frog, and went on holding it out. “Eat something,” she said. Lyra looked at it until it gave up trying to get out of the packet.
 
 Lyra looked out of the window most of the way, at the hills going by and then the fields and then the backs of houses, and did not take part in the conversation, and nobody asked her to.
 
