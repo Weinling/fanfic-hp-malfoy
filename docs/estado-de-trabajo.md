@@ -2,9 +2,11 @@
 
 **Léelo lo primero** al abrir sesión o tras compactar. Se actualiza en cada paso (escena escrita, crítica aplicada, capítulo cerrado) y va en el mismo commit que el paso.
 
-Última actualización: 23 de octubre de 2026.
+Última actualización: 3 de noviembre de 2026.
 
 ## Ahora mismo
+
+- **EN CURSO (3 de noviembre, sesión de reestructura; cerrojo puesto).** Manda `docs/notas/prompt-sesion-reestructura.md`. Todo va en `docs/notas/reestructura/`. **Lecturas hechas en esta sesión, en texto:** CLAUDE.md, ARRANQUE, handoff entero, continuidad entera, del 38 al 50, Int. 2, Y1 5 y 6, del 23 al 37, Int. 1, 16, Y1 1 a 4, 3, 7, 10, 12, 13, 14, 19, 21, 22; lo-que-sabe-harry, ideas-divergencias, poda, Fable 001-004, guion 41-50 (§0, §7, §8), propuesta de Codex, valoración, contexto, revisión integral, crítica de la tanda, edición integral. **Falta:** resúmenes de la oficial 55-111. **Siguiente:** auditoría (`auditoria.md`), decisiones con Fable 005 (puerta 1). Notas provisionales en `notas-de-lectura.md`. Agentes vivos: ninguno.
 
 - **3 de noviembre: LEE PRIMERO `docs/notas/prompt-sesion-reestructura.md`, que manda sobre todo lo de abajo.** La rama de Codex (`codex/revision-integral-35-50`, los capítulos 35-50 revisados) está fusionada en la rama de trabajo y en `main`: es la versión vigente. **Publicado hasta el 37.** Decisiones del autor del 3 de noviembre en el handoff (antes del §3). Documentos de Codex copiados a `docs/notas/ideas/codex/`. Valoración de la sesión anterior: `docs/notas/ideas/valoracion-propuesta-identidad-3-nov.md`. **Siguiente paso exacto:** abrir sesión nueva con ese prompt. Agentes vivos: ninguno. Cerrojo: borrado.
 
