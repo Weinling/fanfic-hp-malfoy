@@ -1,0 +1,116 @@
+# Guion general hasta el final
+
+*3 de noviembre de 2026. Sale de `decisiones.md` (aprobadas). **Cuanto más lejos, menos fijo:** el tramo 1 va capítulo a capítulo; el 2, por arcos; del 3 en adelante solo hay puntos que no se pueden romper, y todo lo demás se decide al llegar. El final es una dirección, no un compromiso: se trabaja cuando toque.*
+
+## Recuento
+
+| Tramo | Cuándo | Capítulos | Harry | Qué pasa |
+|---|---|---|---|---|
+| 1. Enemigos | Junio-diciembre de 1995 | 38-54 (17) | 3 de 17 | Rompen, recaen, Abraxas |
+| 2. La butaca | Enero-junio de 1996 | 55-72 (18) | 6 de 18 | Voldemort en casa, pareja secreta, Ministerio |
+| 3. La serpiente | Julio-diciembre de 1996 | 73-84 (12) | la mitad | La Marca, se pudre, Greer, el baño |
+| 4. La Mansión | Enero-marzo de 1997 | 85-92 (8) | la mitad | El veneno, el asalto, Riddle |
+| 5. El plazo | Marzo-julio de 1997 | 93-102 (10) | la mitad | Felicidad con fecha, el libro, el Bosque |
+| Extras | | 3 *Year Four*, y los que pida la historia | | |
+
+**Unos 100 capítulos en total: unos 50 más de los que hay ahora.** Se renumera del 43 en adelante, porque nada de eso está publicado.
+
+## La escalera del romance
+
+Objetivos mínimos. Si un guion de tanda sale por debajo, está mal.
+
+| Tramo | Hoy (41-50) | Escena de los dos | Besos | Disfrute sin trama | Peleas por nada | Lo dicho |
+|---|---|---|---|---|---|---|
+| 1 | 5 de 10 capítulos | 14 de 17 | 13 | 5 | 6 | «I love you» escrito, luego a gritos, en mal momento |
+| 2 | — | 16 de 18 | 20 o más | 8 | 6 | «mine» de broma, luego no; ella: «I love you», como arma y como broma |
+| 3 | — | 10 de 12 | los que haya, vigilados | 2 | muchas, ya no por nada | «mine» se pudre; él no la suelta |
+| 4 | — | 5 de 8 | pocos, y pesan | 0 | 1 | «Not yet» |
+| 5 | — | 9 de 10 | muchos | 5 | 3 | «By whom, and on what authority?», «Stay by my side» |
+
+Reglas: como mucho dos capítulos seguidos sin escena de los dos, y entonces su ausencia pesa. Cada gesto nuevo nace en la línea principal; los extras no suben peldaños. Un gesto que se repite tiene que significar otra cosa cada vez.
+
+**Las bromas que crecen:** «That was the last one» / «This year»; cinco puntos por recaída; «scraps» (lo que venden a Lucius); la butaca; «You owe me a tomorrow».
+
+**Posesividad.** Harry: del trauma, nunca fue el primero de nadie; se vuelve necesidad y luego control. Lyra: territorial, encantada, de romance un poco más fuerte de lo normal; ella es la primera en decir «mine», y lo disfruta. Punto de podrido: la noche del Ministerio.
+
+## Tramo 1: Enemigos (38-54)
+
+| Cap. | Título actual | Qué es | Qué cambia |
+|---|---|---|---|
+| 38 | The Cup | Reescritura parcial | Abre la víspera: ella le busca porque ya no la espera en los escalones. Pelea, recaída, beso. Luego el laberinto |
+| 39 | Never Lied | Ampliación | Se queda. Él pregunta si es por ellos y ella lo confirma: elige a su familia. Para él es lo de siempre |
+| 40 | Hidden Ink | Retoque | Se queda |
+| 41 | The Sleeve | Retoque | Lucius suelta el dicho: «Nobody has ever died owing a Malfoy» |
+| Int. | The Wrong Night | Retoque | Siembra: Lily hasta los diecisiete; el cuerpo que se adelanta; el niño que le parece otro |
+| 42 | Badges | Retoque | Se queda; Narcissa |
+| Extras | *Year One* 5 y 6 | Se quedan | |
+| 43 | **Nuevo, Harry** | Agosto en Grimmauld | El plan tonto con Ron y Hermione se cae porque tienen algo suyo. Sirius. Diagon Alley desde él: la ve reír con Draco, cruza, y pelean a susurros entre estanterías |
+| 44 | Prefects | Reescritura parcial | El pasillo del tren sube mucho. Sigue la crueldad con Weasley |
+| 45 | Rounds | Reescritura parcial | Umbridge y Snape se quedan. Le pilla de noche, es prefecta: primera recaída, primeros cinco puntos |
+| 46 | **Nuevo** | Comedia | Castigados juntos a limpiar trofeos. Pelean por la única silla, se ríen, acaban dormidos encima del otro. Filch |
+| 47 | Lines | Se queda el núcleo | La sangre y «Five points». El lunes le coge la mano y le cura ella, furiosa |
+| 48 | Where the Sea Is | Reescritura parcial | Le da el norte, le miente con Draco, y empieza ella. Él: «I love you», a gritos, en mal momento. «That is not an argument» |
+| 49 | **Nuevo, Harry** | Las cuatro horas | Granger le saca el secreto, en escena. Llora. Primer miedo por el niño. Los sueños |
+| 50 | Pretext | Reescritura | Lyra entrega a Wayne Hopkins, el niño de la tarjeta de rana: su primera víctima con nombre. Ve la mano. La canción. La peor pelea hasta ahora |
+| 51 | Him, and Now You | Reescritura parcial | El rellano: «You used my brother», y la mano se le va, se le sube la palabra, se para. Primer aviso |
+| Extra | ***Year Four* 1** | Abril de 1995 | El ajedrez, «you play like the Baron», y la hoja que firma de broma |
+| 52 | **Nuevo** | Comedia | Granger suma: «Thirteen *what*, Harry?». Última recaída antes de Navidad |
+| 53 | The Button Warmer | Retoque | Se queda: Crabbe, Ron, el botón, la nota, la moneda de Lyra |
+| 54 | The East Cottage | Retoque | Se queda; Abraxas enseña el libro de pasada |
+
+**Cuidado:** lo que Lyra mira en el 46 y el 47 debe seguir llevando al 54 sin tocar las pistas de Abraxas.
+
+## Tramo 2: La butaca (55-72)
+
+**Puntos fijos, en orden:**
+1. **Enero.** Abraxas lleva la diadema. Voldemort deduce: veneno de basilisco, luego Potter, luego Lucius mintió. Fuga de Azkaban; Pettigrew: «the boy knew».
+2. **Voldemort a la mesa de la Mansión.** Se queda a vivir. Primera escena directa. Le quita la cura a Abraxas. «He will look»: la habitación amueblada aguanta y le cuesta algo. Lyra le lanza un Crucio a su padre delante de Draco, y funciona porque quiere. «Well done, my treasure.»
+3. **El anillo rojo, «Watch me».** Harry llega a Wiltshire, tarde. Ella le da a Abraxas; él le cuenta la diadema sin que pregunte. Lo que rechazó en el 39 lo propone ella.
+4. **La butaca.** Felicidad de verdad y por gusto: un cuarto en la Sala, apuestas, motes, celos idiotas, «mine». Los informes para Lucius, primero ridículos, luego ciertos. *Year Four* 2 y 3.
+5. **Oclumancia con Snape.** Ve su propia muerte. Lo sabe todo. «The insolence is continuous.» Es el capítulo más importante de Harry en este tramo.
+6. **Bode.** En plena felicidad. Lyra vomita, vuelve y sonríe. En San Mungo, un Besado al que dan de comer.
+7. **El caballo.** «You weren’t anybody yet. You just came.» El mejor día de ella y el peor de él. La crisis del niño empieza aquí, desde Harry, y aprieta el control.
+8. **Ron.** Una pelea por nada va demasiado lejos y él oye «She was *eleven*» a través de una puerta. Harry se queda sin Ron. Ron y Hermione, ya elegidos.
+9. **Sirius.** Harry le esconde. Lyra, por su lado, hace que Narcissa lo cite. Ninguno se lo dice al otro.
+10. **El Ministerio.** La petrifica a mitad de frase, con la cara del boggart. Sirius muere. «Mine», en su cabeza. Segundo aviso de la mano. Lucius a Azkaban.
+
+## Tramo 3: La serpiente (73-84)
+
+**Puntos fijos:** la orden va a Draco y ella la pide («Give it to me»); la Marca es una serpiente que oye; el Voto de Snape con Narcissa; no rompen; se ve desde Harry cómo se aleja sin irse; Harry estudia el contramaleficio por miedo a sí mismo; Lyra hace daño a gente concreta (se decide al llegar a quién); Greer y el segundo de la cuenta; el baño; Snape reconoce su hechizo; el ojo de la serpiente se cierra.
+
+## Tramo 4: La Mansión (85-92)
+
+**Puntos fijos:** Vanessa lo sabe; Harry confiesa lo del niño; el veneno y «Not yet»; «I hope you win—No. I hope you live»; lo que ella da es la copa y el anillo bajo su casa, y una última memoria para él (la reina regalada, Navidad de 1991); Harry entra con su cara; Narcissa le reconoce; Snape muere; el cuerpo de Voldemort cae; Riddle sale, Dumbledore se deja matar, y esa muerte le recose hasta los diecisiete.
+
+## Tramo 5: El plazo (93-102)
+
+**Puntos fijos:** Lyra sabe la segunda capa: «By whom, and on what authority?»; Lyra y Crabbe, sin arreglo fácil; Pascua: Abraxas muere, «He isn’t dead», y la línea de Greer en el libro; el método, ella se ofrece, él se niega; Ron vuelve. **El final, como dirección:** se lo dice; «Next time, I go first»; lo mata ella; el libro; lo suelta; él elige. Se revisa cuando lleguemos.
+
+## Los arcos
+
+**Lyra, la corrupción.** Hopkins, la canción y Weasley, el Crucio, Bode, los informes que son verdad, la Marca, Greer. Cada peldaño tiene un nombre y no se le devuelve. Nadie la perdona por ser la protagonista.
+
+**Harry.** Pierde el futuro (Int. 2), ve que no es el primero (39, 43), se confiesa con Granger (49), la mano (51), el niño (tramo 2), el control, el Ministerio, Sirius, la mano otra vez, el baño, la culpa, esperar con el bezoar. Del tramo 3 en adelante lleva tanta historia como ella.
+
+**La Casa.** Abraxas: de dueño a podrido. Lucius: de padre feliz a roto. Narcissa: de la puerta a la traición. Draco: de la lista a no hablarle a su hermana.
+
+**Voldemort.** Inteligente, cortés y a la mesa. Convierte lo que cada uno necesita en correa. Cuanto más lejos, más se decide al llegar.
+
+## Misterios
+
+| Misterio | Se abre | Se cierra |
+|---|---|---|
+| La causa del viaje | 39 | Riddle se lo dice, tramo 4 o 5 |
+| La segunda capa | 22 | Lyra, tramo 4 o 5 |
+| El niño | 49 | Se mueve con Snape y el zorro; se cierra en el final |
+| El libro | 41 | Se entiende de verdad en Pascua de 1997 |
+| Quién habló del norte | 50 | Voldemort, al llegar |
+| Dónde están la copa y el anillo | Int. 2 | El veneno |
+
+## Lo que se quita del original
+
+Fuera, y por qué: Grindelwald (Abraxas hace su papel); Fawkes y la resurrección (sin sembrar); los ecos que ganan solos (la victoria es de los vivos); la imprenta, el *Quisquilloso* y los decretos (no pagan nada); el Slug Club; el asalto planta a planta; los epílogos muggles; los *Year Two*; Lupin y Tonks; Karkaroff con brazo de plata.
+
+## Muertes
+
+Bode (primavera de 1996), Sirius (junio de 1996), Greer Goyle (diciembre de 1996), Snape y Dumbledore (1997), Abraxas (Pascua de 1997). Se pueden añadir al llegar.

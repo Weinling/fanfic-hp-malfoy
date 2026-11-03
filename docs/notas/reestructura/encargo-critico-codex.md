@@ -26,7 +26,7 @@ Para la continuidad, no leas toda la historia: busca con grep cada nombre, objet
 Además del encargo normal:
 - Penaliza la falta de romance y la timidez igual que un fallo de continuidad. Señala cada sitio donde el texto sugiere lo que debería decir.
 - Señala si el capítulo no tiene una escena de los dos, o si los dos no disfrutan de nada.
-- Límite que no se mueve: los protagonistas son menores. Si algo se lee como sexual o sensual, es un fallo grave.
+- Los protagonistas son menores: nada sexual.
 
 Escribe en docs/notas/criticas-codex/[cap-NN].md, con commit y push a codex/critica.
 Formato: veredicto en tres líneas; lo que funciona; los problemas por gravedad, con cita y arreglo concreto; continuidad; ranking acumulado.
