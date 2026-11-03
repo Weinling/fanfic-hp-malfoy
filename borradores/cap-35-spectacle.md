@@ -24,9 +24,9 @@ Potter read it. He read it again. He did not ask her where she had found it, or 
 
 “There are merpeople in the lake,” said Lyra, in case he had not got there.
 
-“Yes,” said Potter. He looked up, and he was grinning. “Lyra. That’s brilliant.”
+“Yes.” Potter looked up, grinning. “Lyra. That’s brilliant.”
 
-“I know,” said Lyra. “Get your cloak.”
+“I know. Get your cloak.”
 
 ⁂
 
@@ -54,15 +54,13 @@ He came up gasping, with the egg shut in his hands and water pouring off his hai
 
 He opened his eyes.
 
-“It was the next line,” said Lyra. “I heard it. Just. Through the water.” She sat back on her heels, and let go of his collar at last, and found that her fingers had gone white. “The lake, then. An hour. And they’re going to take something of yours.”
+“It was the next line. I heard it. Just. Through the water.” She sat back on her heels and let go of his collar at last; her fingers had gone white. “The lake, then. An hour. And they’re going to take something of yours.”
 
 *One of you dies*, said Moody, somewhere at the back of her head, *you or Potter*. She did not say it. She had not said any of it, in four weeks; and she sat on the frozen rock with the words in her mouth and let them stay there, and it was like holding a coal.
 
 Potter rolled over on to his back on the rock and lay there with the egg on his chest and the water running out of his hair into his ears, looking up at the sky.
 
-“I can’t swim, you know,” he said.
-
-He said it to the sky, not to her, in an ordinary voice.
+“I can’t swim, you know.” He was still looking at the sky.
 
 “Don’t be absurd. Everybody can swim.”
 
@@ -84,7 +82,7 @@ She had known that he had nobody at Christmas. She had known that his letters in
 
 She stared at him.
 
-He looked back at her steadily, with his hair in his eyes and the egg in his lap. Whatever it was, he had decided it a long time ago, and he was not going to explain it to her, because it was his.
+He looked back at her steadily, with his hair in his eyes and the egg in his lap.
 
 Lyra unwound her scarf from her neck.
 
@@ -108,9 +106,7 @@ McGonagall stopped.
 
 “Thank you, Professor,” said Lyra. “It’s very kind of the Headmaster to think of me. But no.”
 
-She had known what it was before McGonagall reached the end of the second sentence. *To recover what we took. What you’ll sorely miss.* She had knelt on a rock in the wind and heard it with her own ears, through the water.
-
-She was not going to do it.
+*To recover what we took. What you’ll sorely miss.*
 
 She was not going to spend an hour asleep at the bottom of a lake, tied to something, with weed in her hair and fish looking at her, so that Harry Potter could swim down and fetch her up again in front of three schools and the *Daily Prophet*, like a cup somebody had dropped in a well. She was Lyra Malfoy. She did not get fetched.
 
@@ -130,7 +126,7 @@ She went away down the dungeon corridor, with her slippers making no sound on th
 
 Lyra stood outside the wall for a while, with her arms folded.
 
-Weasley, then. At the bottom of the lake, for Potter. She did not mind that in the least. Examining it more closely, she was glad. Weasley had been there first. It seemed only right that Weasley should be the one he went down for.
+Weasley, then. She was glad. Weasley had been there first; it seemed only right that he should be the one Potter went down for.
 
 ⁂
 
@@ -204,8 +200,6 @@ He looked like a man waiting to be told that he might.
 
 Bagman bent down to him, at forty minutes, and said something with a grin and a jerk of his thumb at the water; and Mr Crouch answered him. Lyra could not hear what he said. She saw his mouth move. But she saw, too, that he answered a beat late, a full second after Bagman had stopped speaking, like a man who has had to wait for the question to arrive from a long way off.
 
-She did not know what it meant. She did not think it meant anything, yet.
-
 She looked at him anyway, for the rest of the hour, because it was better than looking at the lake.
 
 ⁂
@@ -254,7 +248,9 @@ Potter sat in his puddle in his blanket and looked up at Lyra.
 
 “A week ago.”
 
-“I didn’t want to lose it,” said Potter, and his blue lips went up at one corner, and she turned away from him quickly before it could do anything to her face.
+His blue lips went up at one corner. “I didn’t want to lose it.”
+
+She turned away quickly before it could do anything to her face.
 
 When the marks went up, he was level with Diggory at the top of the table, and the whole of Gryffindor was screaming, and Weasley was being sick into the lake.
 

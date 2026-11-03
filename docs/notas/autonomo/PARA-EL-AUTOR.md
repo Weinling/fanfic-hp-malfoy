@@ -2,6 +2,16 @@
 
 Lo pone al día cada sesión autónoma al terminar. Lo más nuevo, arriba.
 
+## 1 de noviembre de 2026: revisión integral aplicada en rama separada
+
+Encargo de Edén: aplicar el diagnóstico tras leer los 58 textos completos, manteniendo claridad de fanfic y reduciendo atribuciones y explicaciones redundantes. Del 35 en adelante aún no está publicado. **Se han editado 19 textos: todos los capítulos 35–50, Interlude: The Wrong Night y Year One 5–6.** No se cambian 1–34, Year One 1–4 ni el interludio 1.
+
+Rama de entrega: **`codex/revision-integral-35-50`**, para comparar antes de incorporar. Las instrucciones históricas de subir automáticamente a `main` no se aplican a esta revisión. **No se ha publicado nada en Wattpad ni Webnovel.** Para sustituir los borradores, usar los 19 textos revisados de esta rama, no los anteriores de `main`.
+
+Registro por capítulo y comprobaciones: `docs/notas/revisiones/edicion-integral-35-50.md`. Continuidad, handoff y manuales se actualizan con el texto. Se conservan la ruptura, la confesión de sangre, el norte, Abraxas y la diadema rota.
+
+Detalles que debe respetar la siguiente tanda: contacto de piel para que un anillo transmita el estado; moneda de reuniones sin localizador; Lyra leyó y copió la lista en el 49, sabe que busca una corona pero ignora el Horrocrux; Draco selló la caja; ella ya reconoció ante Ron el fallo de la canción. Las protecciones del anillo de Gaunt motivan la espera de Dumbledore, y Harry sólo infiere la relación entre su retirada y la tumba.
+
 ## 28 de octubre de 2026: el guion de la tanda 41-50
 
 **Tus decisiones 2 a 9**, apuntadas tal como las aceptaste (handoff §7, §8 y §10).

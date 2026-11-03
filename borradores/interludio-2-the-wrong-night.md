@@ -8,7 +8,7 @@ He knew exactly what colour that one was without opening the tin. Green. Safe. I
 
 He had read the note in the hospital wing with his leg in a bandage and Ron asking what Goyle wanted. Her best hand, the one she kept for Snape’s essays and for being right, and in the middle of the second line a gap the width of two fingers. She was not a person who left gaps. He had touched it with his wand because it was the only thing on the page that made no sense, and the parchment had come apart in his fingers into two, and inside, very small, was the thing he had spent a year looking for in the wrong place.
 
-*His son is alive.*
+*I think his son is alive. Ask Winky whose seat she was minding at the World Cup.*
 
 He had folded it shut again. Hermione had been sitting on the next bed with a book open on her knee that she was not reading, watching his wand, and his face, and the parchment.
 
@@ -26,13 +26,15 @@ Uncle Vernon’s *Daily Prophet* came to the house because Harry paid for it, an
 
 Harry read it, and put the paper down, and looked at the ceiling.
 
-Somebody had taken a bone out of that grave, the night of the Third Task, while he stood on a podium with his wand up and a cup in his hand, waiting for a churchyard that never came. He had been right. He had been right about the bone and the blood and nearly everything, and none of it was any use to him, because he did not know where it had been done. Not Little Hangleton. Not the house on the hill, not the yew, not the gravestone with the name on it. Somewhere else, that he had never seen in either life.
+Somebody had taken a bone out of that grave. Harry could think of one reason to want it: the night of the Third Task, the blood, the body he had stood on a podium waiting to see. The ritual could have been done anywhere. Not the house on the hill, not the yew, not the gravestone with the name on it. Somewhere he had never seen in either life.
 
 He did the count instead. He did it most nights, as other people counted sheep.
 
 The diary, two summers ago, with a fang out of the Chamber. The locket, in a cave, last August. The diadem, on the first night of that term, in a room on the seventh floor full of other people’s junk, with the same fang; he had gone up alone at three in the morning, and asked the wall for the place where things were hidden, and found it where he had known it would be, on the head of an ugly stone bust; and he had put the pieces back afterwards, where nobody would look, and told Dumbledore at breakfast, and Dumbledore had said nothing for so long that Harry had eaten two pieces of toast. Three, then.
 
-The ring, in a shack in Little Hangleton, under a floorboard. He knew where it was. He knew what it did to the hand that put it on, because he had watched it blacken one, in the other life, and Dumbledore knew that he knew, because Harry had told him. *Not that one*, Dumbledore had said. *Not yet. When the time comes.* He had said it the summer before last, and again at Christmas, and again in May, and every time a little less as if he believed it.
+The ring, in a shack in Little Hangleton, under a floorboard. He knew what it did to the hand that put it on; he had watched it blacken one in the other life. He had told Dumbledore, and Dumbledore had gone to look, and come back with a silver probe blackened to the handle. It had not even reached the ring. A fang would destroy the soul inside it; it would not make the protections around it safe to cross.
+
+*Not that one*, Dumbledore had said. *Not until I can take it out without bringing the curse with it.* That had been the summer before last. Harry had asked again at Christmas, and again in May. Dumbledore was still working on it.
 
 The cup, in a vault at Gringotts, in a family Harry could not get into.
 
@@ -116,7 +118,7 @@ Twelve Grimmauld Place was as he remembered it: dark and narrow and smelling of 
 
 Harry knew. Dumbledore had told him last summer, in his office, with Fawkes asleep on the perch: that Fudge had looked at the rat-faced little man for a long time, and then sent him to Azkaban under no name at all, rather than stand up in front of the country and say that the Ministry had locked away the wrong man for twelve years. Sirius was free of the hunt because Fudge was not a cruel man. He was not cleared because Fudge was a frightened one.
 
-“One day,” said Harry.
+“One day.”
 
 “One day,” said Sirius, and gave him a mug of tea with the bag still in it, and sat down across the table and looked at him, pleased, as though Harry were a thing he had been allowed to keep.
 
@@ -156,7 +158,11 @@ She asked him nothing. She hugged him, and said he looked thin, and went to help
 
 He stopped waiting for Dumbledore on the sixteenth.
 
-He told Sirius in the drawing room, while the twins were upstairs blowing something up and Mrs Weasley was shouting at them about it, and he told him all of it: a shack, a ring, a curse that ran up the arm of whoever put it on and killed them by inches. Sirius listened with his chin on his fist. When Harry had finished he did not say *what does Dumbledore think*. He said, “When?”, and Harry loved him for it so suddenly that he had to look at the fireplace.
+He told Sirius in the drawing room, while the twins were upstairs blowing something up and Mrs Weasley was shouting at them about it: the shack, the ring, the blackened probe, the curse that killed by inches. Sirius listened with his chin on his fist.
+
+“We can look,” he said. “We don’t touch a thing. If the protection’s still there, we come back.” Then, before Harry could ask, “When?”
+
+Harry had to look at the fireplace.
 
 They went that night. Sirius took his arm in the back yard, among the bins, and turned on the spot, and the world went small and black and squeezed, and came out again as a dark lane between hedges, with the smell of cows and wet grass and, a little way off, below them, the lights of a village and the square tower of a church.
 
@@ -164,7 +170,7 @@ They went that night. Sirius took his arm in the back yard, among the bins, and 
 
 The shack was where he had seen it in a memory that was not his, in an office that was not his either, in the other life, a year further on than this one: crouched under the trees with nettles to its windowsills and moss on its roof, and a dead snake nailed to the door. Sirius looked at the snake, and at Harry, and changed without a word, and sat down in the lane beside the gate, a big black dog with his ears up and his eyes on the dark.
 
-Harry lit his wand and went in.
+Harry lit his wand and tested the threshold, then the boards, as Dumbledore had taught him. Nothing answered. He checked again before he went in.
 
 It was one room, low and filthy, smelling of rot and mice. He went straight across to the hearth, to the place on the left where the boards were shorter than the others, and crouched; and he had his hand out before he saw that he did not need it.
 
@@ -174,11 +180,11 @@ He knelt there with his wand lit and looked at it for some time.
 
 Then he made himself look at the rest, as Moody would have, as Malfoy would have; and saw what he had walked straight past. The dust on the floor had been disturbed, and not lately: there was a fine grey skin over the marks, a few weeks thick. A man had come in, and gone straight to the hearth, as Harry had, and gone straight out. And on the threshold, where the door scraped the boards, there was a little dry crust of earth that did not belong in the lane outside, which was mud. It was paler, and finer, and there were bits of something white in it.
 
-He knew where earth like that came from. He had read about it in July, in a newspaper out of Uncle Vernon’s bin: two lines on page nine.
+He thought of the churchyard below them, and the two lines in the paper. The earth might have come from anywhere. But somebody had wanted a bone from that village, and somebody had come here, gone straight to the hiding place and got past protections Dumbledore had not yet lifted.
 
-The same night, then. The same man, or one of the same men. Up the hill from the churchyard with a bone in his pocket, a mile up the lane, to a door with a dead snake on it; straight across to the hearth; straight out. Somebody who had known where to look, as Harry had known. Somebody who had been told.
+It could have been the same journey. The same man, or one of the same men, sent for two things instead of one.
 
-He had known where the ring was for three and a half years. He had left it under the floor, because Dumbledore said *not yet*, and because the board had always been there whenever he looked at it in his head, and he had thought it would always be there, because it always had been.
+He had known where the ring was for three and a half years. He had left the curse to Dumbledore and counted the ring as something they could still get whenever they were ready. He had not imagined Voldemort would move it before they got there.
 
 The wand-light shook. He put his other hand round his wrist and held it until it stopped.
 

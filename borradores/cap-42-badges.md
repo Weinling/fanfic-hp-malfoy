@@ -28,7 +28,7 @@ Her father had seen the badge from the other end of the table. He put down his c
 
 Lyra looked at the P on the tablecloth.
 
-It would. She could see exactly how useful. A girl who could walk the corridors of Hogwarts at midnight with a perfectly good reason could go anywhere in that castle, and see anybody, and nobody would think it worth remarking on. She had wanted to be a prefect since she was eleven, because it was a thing worth being, and because Granger would certainly be one. She had not expected, when it came, to look at it and think first about the corridors at night.
+She had wanted to be a prefect since she was eleven, because it was a thing worth being, and because Granger would certainly be one. She had not expected, when it came, to think first about whom she could meet at midnight without anybody asking why.
 
 “I got a list,” said Draco, who had at last opened his envelope and spread its contents over his eggs. “Look, Lyra. *One plain pointed hat (black) for day wear.* What else would it be for? Night wear?”
 
@@ -38,7 +38,7 @@ There was a third letter, which had come with the school owls without being a sc
 
 “Who’s that from?” said Draco.
 
-“Nobody,” said Lyra, and put it in her pocket, and found that she was smiling, which she had not done at that table since July.
+“Nobody.” Lyra put it in her pocket. She was smiling, which she had not done at that table since July.
 
 She would answer it. She would tell him that Granger was a prefect, which Granger certainly was, and that she was perfectly well, which Lyra had no means of knowing and no intention of finding out; and that his ship had been a disgrace from the moment it came out of the lake, and that his headmaster had left his coat behind.
 
@@ -56,7 +56,7 @@ Lyra read it over his arm.
 
 It was a list, of a kind. *A corridor on the seventh floor, opposite a tapestry of trolls in tutus. A bust of a warlock in a wig. Walk past the bare wall three times, thinking of a place for hiding things.* There was more below, which Draco’s thumb was covering, and at the bottom a drawing of something small and round that might have been a crown or might have been a cake.
 
-It was not an old man’s hand. An old man’s hand she would have known what to expect of: long loops, a little unsteady at the ends, like the hand on a sealed letter she had once carried up a gangplank and never opened. This was fine and narrow and very even, a hand that had never shaken in its life; old in its shapes, and young in the pressure of the pen, as though it had been written a long time ago by somebody who was not old yet.
+The writing was fine and narrow and very even, the shapes old-fashioned but every stroke firm. She had expected something like the hand on the sealed letter she had carried to Karkaroff: long loops, unsteady at the ends. This pen had not wavered once.
 
 “Draco, where did he—”
 
@@ -96,13 +96,13 @@ Her mother listened to all of it without moving. When it was finished she sat fo
 
 “He taught me to fly,” she said at last. “Regulus. Did you know that? Nobody else would. Bella said girls on brooms were vulgar, and my mother agreed with her, and he was two years younger than I was and took me out on the lawn at Grimmauld Place at five o’clock in the morning, every morning for a week, until I could do it.” She was quiet. “He was a very serious little boy. He never laughed at me once. He changed his mind about something, and it killed him, and he lay on a rock for fifteen years while I wore black for him at a memorial with no coffin in it.”
 
-Lyra said nothing. There was nothing to say that would not be smaller than it.
+Lyra kept her hands in her lap.
 
 “I should like to see his hand once more,” said her mother. “That is all. I should like to see what he wrote, at the end, when he knew. And there is nobody in this house,” she said, quite evenly, “who could ever ask Albus Dumbledore for anything. Not now. Not this summer.”
 
 She turned her head then, and looked at Lyra properly, and it was the face from the platform.
 
-“I looked at that boy on the platform,” she said. “You saw me. I wanted to see the boy who went into a cave for my cousin. He is very small, for what he has done.” A pause. “And I wanted to see whether he would look at you. He did.”
+“I looked at that boy on the platform. You saw me. I wanted to see the boy who went into a cave for my cousin. He is very small, for what he has done.” A pause. “And I wanted to see whether he would look at you. He did.”
 
 Lyra looked at her hands.
 
@@ -120,7 +120,7 @@ Her mother let the edge of the blind fall.
 
 “Tell Pobble we shall want the fireplace on Saturday,” she said, “and wear the blue. Your father likes you in blue in photographs.”
 
-It was not an answer. Lyra had been brought up in that house, and she knew exactly what kind of not-answer it was: the kind one gave in a room where the walls might be listening, when the walls were family.
+Lyra looked towards the door. She had been brought up in that house; she knew when not to ask again.
 
 ⁂
 
@@ -130,7 +130,7 @@ He had chosen it himself. It was silver-grey and slightly crooked and he would n
 
 “You *didn’t*,” said Draco, enchanted.
 
-“I was eleven,” said Lyra.
+“I was eleven.”
 
 “You were *spinning*.”
 
@@ -156,6 +156,6 @@ Weasley said something to him, close to his ear. Potter did not answer. After a 
 
 “Nobody.”
 
-“That’s the second nobody today.” He licked his spoon. “You’ve got an awful lot of nobodies.”
+“Another nobody.” He licked his spoon. “You’ve got an awful lot of nobodies.”
 
 In the carriage going home he fell asleep against her shoulder before they had cleared the gates, with ice cream on his cuff and the bow tie under one ear; and in his fist, which he had not opened since the shop, a sheet of old cream paper folded small, that she could have taken from him quite easily, and did not.

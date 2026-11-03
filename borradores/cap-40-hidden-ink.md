@@ -34,11 +34,13 @@ The parchment gave a soft crack, like a seal breaking, and split along its own t
 
 She wrote, very small, with the finest nib she had:
 
-*Barty Crouch put your name in the Goblet. He is under the Imperius. I saw his face on the podium; I know that face. His son is alive.*
+*Barty Crouch is under the Imperius. I saw his face on the podium; I know that face. He could have put your name in the Goblet. I think his son is alive. Ask Winky whose seat she was minding at the World Cup.*
 
 She looked at it.
 
-*His son is alive.* She had not known she knew that until she wrote it. She had known it the way she knew where the stairs were in the dark: an elf with her hands over her eyes, minding a seat in the top box for somebody nobody could see, and the seat creaking at the first Irish goal. She did not know how. She knew who.
+She read the last two sentences again. Potter had looked for Crouch’s son in Moody’s trunk. Now she knew where he had got the idea: a life in which the boy had not stayed dead. And there had been somebody in the chair Winky was guarding, somebody who could not be seen in public beside his father. Moody might have been the wrong hiding place without the son being the wrong person.
+
+She could not prove it. Potter could take it to Dumbledore. Somebody could ask the elf.
 
 She did not write anything about the north. She held the nib above the parchment for a long moment, and did not.
 
@@ -48,7 +50,7 @@ Then she touched the blank again, and the two layers came together with a small 
 
 Goyle’s head came round the edge of them almost at once, as though it had been waiting.
 
-“Take this to the hospital wing,” said Lyra. Pomfrey had kept him there since Monday night, for the leg. “Give it to Potter. Don’t say who it’s from. Don’t wait for an answer.”
+“Take this to the hospital wing.” Pomfrey had kept him there since Monday night, for the leg. “Give it to Potter. Don’t say who it’s from. Don’t wait for an answer.”
 
 Goyle looked at the tin, and at Lyra’s face, and at Lyra’s hand, which had no ring on it; and for once Greer Goyle did not say anything. She took the tin in both hands as though it might go off, and went.
 
@@ -112,7 +114,7 @@ They looked round at her, all of them, every face in the room.
 
 Nobody answered.
 
-“I’ll tell you what you are,” said Lyra. “Every one of you in this room carries a name that was old when the Ministry was a desk and an inkpot. Older than half this castle. Whatever is going on out there, and whatever anybody says about it, and whoever is or isn’t back, that has not changed, and it is not going to change, and I will not have you sitting in the Slytherin common room looking as though you’d like to crawl under the furniture.” She looked round at them, slowly, one face after another. “This is our house, and nobody in it lowers his voice. Not tonight. Not ever. Do you understand me?”
+“I’ll tell you what you are. Every one of you in this room carries a name that was old when the Ministry was a desk and an inkpot. Older than half this castle. Whatever is going on out there, and whatever anybody says about it, and whoever is or isn’t back, that has not changed, and it is not going to change, and I will not have you sitting in the Slytherin common room looking as though you’d like to crawl under the furniture.” She looked round at them, slowly, one face after another. “This is our house, and nobody in it lowers his voice. Not tonight. Not ever. Do you understand me?”
 
 There was a pause.
 
@@ -128,13 +130,9 @@ She sat there without saying anything. Then she leaned down, so that nobody else
 
 Lyra looked at the fire.
 
-“Yes,” she said. “A passing fancy. It has passed. That’s all.”
+“Yes. A passing fancy. It has passed. That’s all.”
 
-Crabbe said nothing.
-
-She did not believe it. Lyra could feel her not believing it, the whole length of her, sitting there on the arm of the chair. Crabbe had kept a hand on a sleeve to herself for three and a half years; and she sat there now and heard the lie, and knew it for what it was, and did not say so.
-
-She only put her hand on Lyra’s arm, and left it there.
+Crabbe had kept a hand on a sleeve to herself for three and a half years. She put her hand on Lyra’s arm now, and left it there.
 
 ⁂
 
@@ -144,7 +142,7 @@ It was very quiet. The bathroom was under the lake, like everything else down th
 
 She went to the nearest basin and put both hands on the edge of it, and looked.
 
-It was her own face. That was the surprising thing. She had thought, somehow, that it would look different, after a week like this one; that something would show. It did not. It was the face she made in that mirror every morning, smooth and pale and perfectly composed, and it looked back at her quite calmly, with nothing in it anywhere.
+She had thought, somehow, that she would look different after a week like this one. But it was the face she made every morning, smooth and pale and perfectly composed.
 
 She watched it for a while. Then she watched it go.
 
@@ -156,7 +154,7 @@ When it did, she was sitting on the cold stone floor with her back against the w
 
 “I wanted to stay,” said Lyra, aloud, to nobody.
 
-It was the only thing she said. It sounded very small in the green bathroom, and she sat and listened to it go, and did not say anything else.
+It sounded very small in the green bathroom.
 
 After a while she got up.
 
@@ -186,9 +184,9 @@ She did not say anything.
 
 Lyra waited.
 
-“The son,” said Moody, very low. “You wrote that his son was alive. I stood at that boy’s grave.” He waited. “How did you know?”
+“The son,” said Moody, very low. “You think his son is alive. I stood at that boy’s grave.” He waited. “What made you think of him?”
 
-“I didn’t,” said Lyra. “Not until I wrote it.”
+“Winky was guarding a seat at the World Cup. It wasn’t empty. And Potter had been looking for your missing boy in quite the wrong place.”
 
 “Sneakoscope wouldn’t twitch at that,” said Moody, half to himself. He looked at her, in the middle of the noise and the trunks and the owls, and then he grunted.
 

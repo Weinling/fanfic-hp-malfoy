@@ -12,7 +12,7 @@ Draco had been up since six, and by breakfast he had already been to the east co
 
 Draco retrieved the butter from the sugar with his fingers and ate it, which was not what she had meant, and their father laughed.
 
-He had laughed a great deal since the platform. Lyra had noticed it on the drive home, in the carriage, and again at dinner, and again this morning when he came down the stairs: a loose, easy, delighted laugh, like a man who has been carrying something heavy for a long time up a hill and has just been told he may put it down. He sat at the head of the table in his dressing gown with the *Daily Prophet* propped against the coffee pot, and every so often he read a line of it aloud, in the voice he used for the cleverest bits of a play.
+He had laughed like that in the carriage, and at dinner, and this morning coming down the stairs: loose, easy, delighted. Now he sat at the head of the table in his dressing gown with the *Daily Prophet* propped against the coffee pot, and every so often read a line aloud, in the voice he used for the cleverest bits of a play.
 
 Her mother did not laugh. She ate half a slice of toast, very slowly, and looked out of the window at the lawn, where a white peacock was walking up and down in the sun as though it were waiting to be let in.
 
@@ -30,7 +30,7 @@ Under the edge of the toast rack, where nobody could see, she counted it on the 
 
 If she had gone up on to that platform on the Saturday night, Barty Crouch would be alive.
 
-She counted it again, from the Saturday, in case she had dropped a day somewhere. She had not. Four days, and the last of them an hour short.
+Four days, and the last of them an hour short.
 
 At the head of the table her father reached for the coffee pot, and the sleeve of his dressing gown fell back from his left wrist, and slid down again. Lyra looked at the wrist until it was covered.
 
@@ -70,7 +70,7 @@ She did. She understood it a great deal better than he did. A man who remembered
 
 “There are things I shall need from you,” said her father. “Small things. The first is the House. When you go back in September, there will be some in Slytherin who have heard, from their fathers, or guessed, and who will be excited, and who will talk. Children are careless. A careless word in the wrong corridor, while the Ministry still has its head in the sand, could cost us a great deal. I want them kept quiet. I want them kept *proud*.” He looked at her over the glass. “You can do that, I think.”
 
-“I can do that,” said Lyra.
+“I can do that.”
 
 She had done it already, in a green-lit room on the last night of term, to a lot of frightened second-years and a knot of sixth-years with their fathers’ faces. He had not been there. She would rather keep it hers.
 
@@ -82,9 +82,9 @@ She said it to the glass in his hand. “We’ve parted.”
 
 “Have you.” He turned the glass a little in his fingers, watching the light move in it. “A boy who confides is worth sitting beside, I said. I still think so. Parting is not a door shut, my darling, it is only a door, and you are a great deal cleverer than he is.” He smiled at her, fondly. “If he should come back to the window, my darling, leave it open.”
 
-He did not believe her. That was plain. And it mattered to him not in the least.
+He did not believe her. Nor did it seem to matter.
 
-He looked at her for a moment longer, quite carefully, as he looked across a dinner table at a man he was about to buy something from, to see what the man was keeping back. Lyra let him look. What he was looking for was there, somewhere behind her face, and she kept it down, as one keeps a cough down in church; and her father looked, and found his daughter, and seemed satisfied.
+He looked at her quite carefully, as he looked across a dinner table at a man he was about to buy something from. Lyra let him look, keeping Potter out of her face as one keeps a cough down in church. Her father seemed satisfied.
 
 “Severus was late,” he said, in a different voice, almost idly, turning to the window. “On the night. Did you know? Two hours. He came in when it was nearly over, with mud on him, and said that Dumbledore had kept him at the castle and he had come the moment he could get away.” He shrugged. “He had his reasons, he says. The Dark Lord accepted them. I suppose I must.”
 
@@ -122,9 +122,7 @@ Then it was gone, and Narcissa Malfoy was going on down the stairs ahead of her,
 
 ⁂
 
-She waited until the house was asleep.
-
-That was not true. She waited until the house had gone to bed, which in that house was not the same thing; and then she put on her dressing gown and went down the main stairs in her bare feet, past the long gallery where her great-great-grandmother slept in her frame with her mouth open, and along the passage to the study, where there was a line of light under the door.
+She waited until the house had gone to bed, which in that house was not the same thing as going to sleep. Then she put on her dressing gown and went down the main stairs in her bare feet, past the long gallery where her great-great-grandmother slept in her frame with her mouth open, and along the passage to the study, where there was a line of light under the door.
 
 She had decided at breakfast, and spent the rest of the day finding out whether she meant it. She did. Not in her own house, of all places.
 
@@ -154,7 +152,7 @@ He held it out to her, turned to the lamp, so that she should see it properly.
 
 Lyra was looking at his face, not his arm.
 
-“One day,” said her father, “you will have one too. Not yet. There’s no hurry in the world; he is very patient with those who serve him well, and you have served him well already.” He rolled the sleeve down again, and buttoned the cuff, and smoothed it. “I’m glad you asked. I don’t want you to have to wonder about things in this house. Not any more. You’re one of us now, in every way that counts.”
+“One day, you will have one too. Not yet. There’s no hurry in the world; he is very patient with those who serve him well, and you have served him well already.” He rolled the sleeve down again, and buttoned the cuff, and smoothed it. “I’m glad you asked. I don’t want you to have to wonder about things in this house. Not any more. You’re one of us now, in every way that counts.”
 
 Lyra looked at the cuff, buttoned now, smooth, as if there had never been anything under it.
 
@@ -164,11 +162,9 @@ Lyra looked at the cuff, buttoned now, smooth, as if there had never been anythi
 
 She thought of Professor Karkaroff in his shirtsleeves, holding on to his own arm while the lamp swung, and saying that it was getting stronger.
 
-He meant it as the kindest thing he could say.
-
 He came round the desk and kissed her forehead, as he did every night.
 
-“And since we are not wondering about things,” he said, at the door, with his hand on it, “you may as well know what has put your brother out of his chess partner. The old gentleman has work again. Errands for the Dark Lord. He is collecting some old things of his,” said her father, “that were left with friends.”
+“And since we are not wondering about things,” he said, at the door, with his hand on it, “you may as well know what has put your brother out of his chess partner. The old gentleman has work again. Errands for the Dark Lord. He is collecting some old things of his that were left with friends.”
 
 ⁂
 

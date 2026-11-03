@@ -24,9 +24,9 @@ He looked up when she came in. He had a faint white line at his hairline, on the
 
 “Diggory.”
 
-“Congratulations.” He did not say on what. He looked down at his list. “You’re with Zabini. Slytherin, fifth year. Rounds on the train every half-hour from Swindon, front to back, Zabini takes back to front. Anything you can’t deal with, you come to me.”
+“Congratulations.” He did not say on what. He looked down at his list. “You’re with Zabini. Slytherin, fifth year. Rounds on the train every half-hour, front to back, Zabini takes back to front. Anything you can’t deal with, you come to me.”
 
-“I imagine I shall manage,” said Lyra.
+“I imagine I shall manage.”
 
 “I imagine you will,” said Diggory, without looking up, and she understood that she was being punished, very courteously, for a thing that had been done to him on a podium in June by somebody else, and that she was going to be punished for it all year.
 
@@ -42,7 +42,7 @@ She had a great many things to say. She had been not saying them since a Hogsmea
 
 She was on the other side now. She had said so in an Owlery, to the only person whose opinion of her had ever mattered, and she had meant it: all the way, as herself. And there was no use in being on the other side of anything by halves.
 
-“Only that I’m glad for your mother,” said Lyra pleasantly. “She must be so relieved. One of you, at last, with something on his chest that didn’t come out of a cracker.”
+“Only that I’m glad for your mother,” said Lyra pleasantly. “She must be so relieved. Something on your chest that she hasn’t had to knit herself.”
 
 Zabini stopped eating.
 
@@ -54,23 +54,23 @@ Weasley’s ears went first, and then the rest of him. “You—”
 
 She looked at him.
 
-“Whatever’s coming,” said Lyra. “You’ve heard Dumbledore. You must have. And when it does, Weasley, I should think very hard about which side of a house you want to be standing on. Your family has never been very good at that.”
+“Whatever’s coming. You’ve heard Dumbledore. You must have. And when it does, Weasley, I should think very hard about which side of a house you want to be standing on. Your family has never been very good at that.”
 
 The carriage had gone quite still.
 
 “You were *his*,” said Weasley. His voice had gone low and rough, and he was not pink any more; he was white. “All last year. In front of everybody. You sat in the Three Broomsticks and argued about the Cannons. And now you’re back to being your dad’s.” He looked at her, at the badge, at her face. “That was quick.”
 
-It went in. She let it. She had known it would go in somewhere, and she had decided on the train which part of her it was allowed to go into, and she kept it there.
+It went in. She kept her eyes on his badge.
 
-“I was never anybody’s,” said Lyra. “You just weren’t paying attention.”
+“I was never anybody’s. You just weren’t paying attention.”
 
 Granger had said nothing at all. She stood beside Weasley with her books against her chest and looked at Lyra across the green tablecloth, not angrily. Lyra had expected angrily. She had been ready for it. She had not been ready for Granger to look at her as she looked at an Arithmancy problem with a mistake in it somewhere, a long way back, that would have to be found.
 
-“Right,” said Diggory, into the silence, in the voice of a man who had chaired worse meetings. “Rounds. Weasley, Granger, you’re Swindon to Reading. Let’s try and keep the House stuff out of the corridors, shall we? There are first-years on this train.”
+“Right,” said Diggory, into the silence, in the voice of a man who had chaired worse meetings. “Rounds. Weasley, Granger, you’re the next pair. Let’s try and keep the House stuff out of the corridors, shall we? There are first-years on this train.”
 
 ⁂
 
-She was on her second round, between Reading and somewhere with a great many sheep, when a door slid open beside her and Potter stepped out into the corridor.
+She was on her second round, with fields and sheep rolling past the windows, when a door slid open beside her and Potter stepped out into the corridor.
 
 He had been waiting. She could tell from the way he stood: not leaning, not casual, his hands at his sides. He looked thinner than he had in Diagon Alley, and older, and very tired round the eyes, and his hair had been cut by somebody who disliked him.
 
@@ -78,7 +78,7 @@ He had been waiting. She could tell from the way he stood: not leaning, not casu
 
 “I’m on rounds, Potter. Go and sit down.”
 
-“Parkinson,” said Potter. “And Montague. Fourth compartment from the back. They’ve got a lot of Ravenclaw third-years in there, and they’re talking about who’s back. Loudly. With names.”
+“Parkinson. And Montague. Fourth compartment from the back. They’ve got a lot of Ravenclaw third-years in there, and they’re talking about who’s back. Loudly. With names.”
 
 She stopped.
 
@@ -92,7 +92,7 @@ She stopped at the end of the corridor, with her hand on the door to the next ca
 
 “What is it to you?”
 
-“You’ll shut them up,” said Potter, “and nobody else can.”
+“You’ll shut them up, and nobody else can.”
 
 “You might have told Granger. She’s a prefect. You tell her everything, I expect.”
 
@@ -100,7 +100,7 @@ It came out sharper than she had meant. She heard it go, and could not have it b
 
 There was a pause behind her.
 
-“No,” said Potter. “I don’t.”
+“No. I don’t.”
 
 She did turn round then. He was standing exactly where she had left him, in the swaying corridor, with the fields going by behind him through the glass; and he looked at her, and said, quite quietly, as if he had been carrying it since August and had only now found somewhere to put it down:
 
@@ -108,7 +108,7 @@ She did turn round then. He was standing exactly where she had left him, in the 
 
 She had been. Draco had said something about the Hufflepuffs, with ice cream on his chin, and she had laughed, out loud, on a terrace in Diagon Alley in the sun, for the first time all summer. And somebody had been standing on the other side of the street, watching her do it, and had not crossed.
 
-“Sit down, Potter,” said Lyra.
+“Sit down, Potter.”
 
 She went on through the connecting door, and it slid shut behind her, and she walked the whole length of it before she let herself do anything with her face; and then she found the fourth compartment from the back.
 
@@ -122,7 +122,7 @@ There were seven of them in a compartment built for six: Parkinson by the window
 
 He took his feet down. Montague stopped grinning.
 
-“I didn’t hear the end of that,” said Lyra pleasantly. “His arm was what?”
+“I didn’t hear the end of that. His arm was what?”
 
 Nobody said anything. The Ravenclaw with the Chocolate Frog put it down on her knee.
 
@@ -134,7 +134,7 @@ Nobody said anything. The Ravenclaw with the Chocolate Frog put it down on her k
 
 “No,” said Montague. His ears had gone a dull red. “Nothing.”
 
-“There,” said Lyra. “Third-years, aren’t you? You’ll want to change into your robes before Hogsmeade. There’s a compartment free at the back.”
+“There. Third-years, aren’t you? You’ll want to change into your robes before Hogsmeade. There’s a compartment free at the back.”
 
 They went, all five, in a scurry, the girl with the Chocolate Frog last, looking back at Lyra over her shoulder with an expression that was not quite fear and not quite admiration and would, Lyra thought, be reported in full in a Ravenclaw dormitory by midnight. That did not matter. What mattered was what would not be.
 
@@ -146,7 +146,7 @@ Montague, who was two years older and a head taller, looked at her for a long mo
 
 She went out, and slid the door shut, and stood in the swaying corridor with her hand still on the handle.
 
-She had done exactly what her father had asked of her, and done it well, and it had been easy. It had been the easiest thing she had done all day. It was Potter who had sent her to do it.
+She had kept her father’s secret. Potter had sent her to do it.
 
 
 ⁂
@@ -167,7 +167,7 @@ Nothing went on happening.
 
 Lyra had been Sorted in about the time it took to sit down. So had her father, he said, and his father before him, and every Malfoy back to the Conquest; the Hat had barely touched their hair. She sat at the Slytherin table with her hands in her lap and watched the brim of the Hat not move, and counted, and got to ten, and to twenty, and somewhere along the table Parkinson said “What’s *it* doing?” and nobody answered him. Draco’s hands were gripping the edge of the stool. His feet did not reach the floor.
 
-She did not breathe. She noticed that she was not breathing round about thirty and did nothing about it.
+At thirty she stopped counting and waited for the Hat’s mouth to move.
 
 She did not know what she was afraid of. It was absurd. He was a Malfoy; he was her brother; he had their father’s chin and their mother’s eyes and a list from an old man in a cottage folded against his heart. There was nowhere else in this castle the Hat could possibly put him. And it went on sitting there, on her brother’s head, thinking about it, as though it had found something in him it had not expected and wanted to be sure.
 

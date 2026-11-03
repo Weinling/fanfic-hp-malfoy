@@ -12,9 +12,7 @@ He was sitting at his table in his shirtsleeves, with no furs on; she had never 
 
 She sat.
 
-“Soon,” said Karkaroff, “everybody will have to choose.”
-
-He said it to the glass, not to her. Then he looked up, and his eyes were very bright and not steady.
+“Soon, everybody will have to choose.” Karkaroff looked up from his glass, his eyes bright and not steady.
 
 “You read the *Prophet*. You will have seen that a woman from the Ministry has gone missing. Jorkins. Bertha Jorkins. She went off on her holidays last summer and has not come back, and your Ministry, which cannot keep its own clerks, says she has got lost.” He laughed, a short, unpleasant sound. “I have friends abroad. Not many, now. Enough. She was seen in Albania, Miss Malfoy. In a village inn, at the edge of the forest. And then she was not seen anywhere.”
 
@@ -34,7 +32,7 @@ He drank, suddenly, the whole glass.
 
 He stopped.
 
-He had heard it himself. She saw him hear it: the word going out of his mouth into the swinging lamplight, and his face, a moment after, as a man’s face goes when he has stepped on something in the dark and it has moved.
+He had heard it himself. His eyes went to hers, and the glass stopped halfway to his mouth.
 
 Lyra kept her face where it was.
 
@@ -88,11 +86,11 @@ He came in under the cloak. She did not hear the door; she felt the air change, 
 
 “Your hair’s soaked.” He took out his wand and pointed it at her head before she could stop him, and a gust of warm air went through her hair and out the other side and left it dry and full of static, standing out round her face. He looked at the result. “You look like the lake won.”
 
-It was a good joke. On any other night she would have had something for it. She looked at him, and could not find anything, and after a moment he stopped smiling.
+On any other night she would have had something for it. After a moment he stopped smiling.
 
 “Lyra. What’s happened?”
 
-“Sit down,” she said. “And swear something.”
+“Sit down. And swear something.”
 
 He sat down on the desk opposite, slowly.
 
@@ -100,7 +98,7 @@ He sat down on the desk opposite, slowly.
 
 He looked at her for a moment. She thought he would ask why, and he did not.
 
-“All right,” said Potter. “I swear.”
+“All right. I swear.”
 
 She folded her hands on the desk.
 
@@ -112,7 +110,7 @@ He had not expected that. She saw it go into him and stop.
 
 “Potter.”
 
-She knew what that was: a door left open, so that she need not hear the rest. She had sworn him so that he could not leave her one.
+She had made him swear precisely to stop that.
 
 Potter took off his glasses and rubbed his eyes, and put them back on, and looked at her through them, and his face had gone cool and steady and a long way off, the face he wore for things that mattered.
 
@@ -124,9 +122,9 @@ Potter took off his glasses and rubbed his eyes, and put them back on, and looke
 
 Lyra nodded.
 
-She had known what he would say. She had known since the lake, at least; probably since the train. It was not a surprise to hear it. It was only that it was the first time he had ever said it to her, in words, with nothing over the top of it to make it easier to carry.
+She had known what he would say, since the lake at least; probably since the train. Hearing it from him was different.
 
-“Thank you,” she said.
+“Thank you.”
 
 “Lyra—”
 
@@ -144,7 +142,7 @@ She said it in her own voice, as she had heard it said at her father’s table, 
 
 Potter was quiet for a moment.
 
-“Hermione’s parents are dentists,” he said. “In Hampstead. They’re the Muggles on the other side of the hedge.” He said it quite evenly. “If your father ever gets the world turned the right way up, the way you mean it—where’s she?”
+“Hermione’s parents are dentists,” he said. “In Hampstead. They’re the Muggles on the other side of the hedge. If your father ever gets the world turned the right way up, the way you mean it—where’s she?”
 
 Lyra looked at the window, where the moon had come out properly now and laid a long white road across the lake towards the Durmstrang ship.
 
@@ -162,7 +160,7 @@ She thought of the lamp swinging, and the bottle, and a man holding on to his ow
 
 Somewhere, she thought, a Sneakoscope would have gone off. Potter looked at her. She held his eyes and did not look away, as she had held Moody’s, and after a long moment he nodded slowly, as though he had been handed something and had decided not to turn it over.
 
-“Right,” he said.
+“Right.”
 
 He did not ask again. He picked up his cloak from the desk, and stood there with it in his hands, and looked as though he were going to say something else, and then he did not. He put the cloak on, and was gone, and she heard the door.
 

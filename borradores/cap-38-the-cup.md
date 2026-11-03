@@ -40,7 +40,7 @@ Lyra did not look at her. She looked at the ring. Purple. She looked at the spar
 
 “That’s Krum,” said Goyle. “Has to be. That leaves—”
 
-“I know what it leaves,” said Lyra.
+“I know what it leaves.”
 
 ⁂
 
@@ -54,7 +54,7 @@ It was blue-white and very sudden, like a cracker going off, and when it had gon
 
 It was Potter.
 
-He was alone. He had the Cup in his left hand, gripped by one of its handles so hard that she could see it from the top of the stand, and his wand up in his right; and he was not standing, quite. He was crouched, low, with his knees bent and his weight on the balls of his feet, braced for the ground to go out from under him; and he was turning. He turned all the way round on the spot, slowly, with his wand held out in front of him, looking: at the judges’ table, at the stands, at the black edge of the Forest beyond them, at the sky. He was looking for something. Lyra watched him look, all the way round, and come back to where he had started, and not find it.
+He was alone. He had the Cup in his left hand and his wand up in his right, crouched low, his weight on the balls of his feet, braced for the ground to go out from under him. He turned all the way round on the spot, slowly, with his wand held out: the judges’ table, the stands, the black edge of the Forest, the sky. Then he was back where he had started, and still looking.
 
 Then he looked down at the Cup in his hand.
 
@@ -78,6 +78,8 @@ He came out of a gap in the hedge on the northern side, on his own feet, but onl
 
 “—from *behind*! He Stunned me from *behind*, and threw me in the—I was right there, I had my hand on it, and he—”
 
+Moody stumped past Diggory into the gap in the hedge, his wand lit, and the gap closed behind him.
+
 The Hufflepuffs began to boo.
 
 It started at their end of the stands, low and ugly, and spread. It went along the Ravenclaw benches, some of them, and a few of the Durmstrang boys took it up for the noise of the thing. The Gryffindors cheered louder to drown it, and that made it worse. In the middle of it, down on the grass, Professor Sprout had reached Diggory and had an arm round him, and he was still shouting, and pointing; and up on the podium, Potter stood with the Cup in his hand and looked at Diggory, and did not say anything, and did not look away.
@@ -86,7 +88,7 @@ He had won the Triwizard Tournament, in the ugliest way it was possible to win a
 
 “He cheated,” whispered Crabbe, beside her. “Didn’t he? He—”
 
-“He won,” said Lyra.
+“He won.”
 
 She was remembering a tent. A bench at the back of it, and a dragon outside, and Bagman’s voice coming through the canvas, *one step nearer the Triwizard Cup!*; and a boy who had sat through all the roaring without once turning his head, and had turned it then, at that, towards the voice, and kept it there a moment too long.
 
@@ -108,9 +110,9 @@ Potter was standing at the front of it, still holding the Cup. Somebody had put 
 
 Two of the patrolling teachers had brought something up on to the platform behind the judges: a wooden crate with holes in the lid, out of which came a smell of burning and a muffled, furious ticking. Something inside it was hitting the walls of the crate with its tail, and every so often there was a small explosion and a puff of smoke out of the holes.
 
-Mr Crouch had come forward.
+At the other end of the platform, Professor Sprout was calling to Dumbledore. Diggory had sat down hard on the grass and was trying to push her hands away from his head. Dumbledore turned to her.
 
-He had come along the platform from the far end of the judges’ table, very upright, in his neat dark suit, and he stopped in front of Potter and held out his hand. Potter, after a moment, shifted the Cup into his other arm and shook it.
+Mr Crouch came along the platform from the far end of the judges’ table, very upright, in his neat dark suit, and stopped in front of Potter and held out his hand. Potter, after a moment, shifted the Cup into his other arm and shook it.
 
 “Congratulations, Mr Potter,” said Mr Crouch. His voice was clipped and dry, a voice for committees. “A most remarkable performance. The Ministry is very—the Ministry is—”
 
@@ -128,13 +130,13 @@ He let go of Potter’s hand. He turned his head, very stiffly, and looked at th
 
 “Then it will have to be examined. Interference with a champion in the course of a task.” Mr Crouch went to the crate and put both hands on it. “The Department will see to it. I shall take it myself.”
 
-Nobody argued. Bagman opened his mouth and shut it. Dumbledore looked at Mr Crouch over his half-moon spectacles, for a moment, with an expression Lyra could not see; and then a whole crowd of Gryffindors broke through the Ministry men at the other end of the platform and swarmed up on to the boards shouting Potter’s name, and in the noise and the press of it Mr Crouch lifted the crate in both arms, and walked away along the edge of the platform with it, very straight, past where Lyra was standing. Potter took a step after him, on the bad leg, and the leg went, and the Gryffindors were on him.
+“Yes, Barty, only get it off the platform before it explodes,” said Bagman, and turned to shout at the Ministry men. A crowd of Gryffindors had broken through at the other end and was swarming up on to the boards. Dumbledore raised a hand to stop them; somebody shouted Diggory’s name; and in the noise Mr Crouch lifted the crate and walked away along the edge of the platform, past where Lyra was standing. Potter took a step after him, on the bad leg, and the leg went, and the Gryffindors were on him.
 
 He passed within a yard of her. She saw his face quite clearly, in the light of a dozen wands.
 
-It was calm. That was what she saw. It was perfectly, stupidly calm: smoothed out, like a sheet pulled straight across a bed, with nothing left in it anywhere, the mouth a little slack and the eyes fixed on some point a long way in front of him that he had been told to walk towards.
+It was perfectly, stupidly calm: the mouth a little slack and the eyes fixed on some point a long way in front of him.
 
-She had seen that face before. She had seen it on Panther Parkinson, in a classroom in November, a moment before he crouched down and began to hop across the floor like a frog. She had seen it on Crabbe, with her hands clasped in front of her, singing Celestina Warbeck in a voice like a choirboy’s. She had felt it, for one long second, settling on her own face from the inside, before she threw it off.
+Parkinson had worn that face in November, a moment before he began to hop across the classroom like a frog. Crabbe had worn it while she sang Celestina Warbeck. For one long second, before she threw the curse off, Lyra had felt it settling on her own face from the inside.
 
 She knew exactly what it was.
 
@@ -198,7 +200,7 @@ It was flat and grey and perfectly still, and it went all the way out to the mou
 
 The Durmstrang ship was gone.
 
-There was no light in its stern. There was no stern. Where it had lain at anchor since October, with its sails furled and its portholes lit and the smoke going up from its funnel, there was only a wide patch of water a little darker than the rest, turning very slowly round on itself, as water turns where something large has gone down through it, or out of it, not long ago.
+Where it had lain at anchor since October, with its sails furled and its portholes lit, there was only a wide patch of water a little darker than the rest, turning very slowly round on itself, as water turns where something large has gone down through it, or out of it, not long ago.
 
 Lyra stood on the wet grass and looked at it.
 

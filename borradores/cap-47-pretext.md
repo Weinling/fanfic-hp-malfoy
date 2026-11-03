@@ -50,7 +50,7 @@ It was low, by the Slytherin goalposts, a little gold glint in the grass-light, 
 
 He was faster. He always had been, on the same broom; he had the lighter build, and he did not mind dying. They went down the last sixty feet side by side, so close that their robes cracked against each other in the wind, so close that she could see his face, set and white, with his eyes on the Snitch and his good hand stretched out in front of him; and the Snitch jinked left, and they both went with it, and his shoulder came against hers, hard, and her sleeve rode up on her arm.
 
-She felt the letter shift against her wrist. She felt him feel it.
+The letter shifted against her wrist. Its folded corner showed above the cuff.
 
 Then his hand closed on the Snitch a foot in front of hers, and he pulled up so steeply that the Firebolt stood on its tail, and the Gryffindor stand went up like a firework, and it was over.
 
@@ -72,11 +72,9 @@ Lyra stopped. She had her broom over her shoulder and her father’s letter up h
 
 “*Harry* won. I let in four.” His voice cracked on it. “Your lot made sure of that. That song. You heard it. You were right *above* it. You could’ve—”
 
-“I don’t write songs,” said Lyra. “I leave that to people with time on their hands. You might try it yourself. It would give you something to do in the evenings, now that your family can’t afford to go out.”
+“I don’t write songs. I leave that to people with time on their hands. You might try it yourself. It would give you something to do in the evenings, now that your family can’t afford to go out.”
 
-It came out of her quite easily. That was the thing she noticed afterwards: how easily. It came out of the same place as the song, in the same voice as the sixth-year in the common room, and it hit him exactly where she had aimed it, and she watched it hit.
-
-Weasley’s hand went to his wand.
+It came out quite easily, in the same voice as the sixth-year in the common room. Weasley’s hand went to his wand.
 
 Granger got between them.
 
@@ -94,7 +92,7 @@ Then Granger turned round, and took Weasley by the arm, wand and all, and walked
 
 She stood there with her broom on her shoulder.
 
-She had been insulted by Hermione Granger a good many times in five years. She had never once minded it. She minded this, and could not have said, standing on the grass with the stands emptying behind her, which part of it she minded most: that Granger had watched her at every match since second year, or that Granger was right.
+Granger had watched her at every match since second year. Lyra tried to find something wrong with what she had said.
 
 ⁂
 
@@ -112,7 +110,7 @@ Lyra looked down at him. At the rosette, and the gap in his teeth, and the cold-
 
 She could have told him. She could have knelt down on the hearthrug, in front of the whole House, and told him what Granger had told her on the grass. He would have listened. He always listened to her, in the end.
 
-“I was busy,” said Lyra. “Looking for the Snitch.”
+“I was busy. Looking for the Snitch.”
 
 “You lost.”
 
@@ -142,15 +140,11 @@ She did not answer.
 
 The jars glowed. Somewhere under the floor, the lake moved.
 
-“Your father answered for himself,” said Snape. “And for your mother. Most fully. He did not answer for you.” He paused. “He did not think to.”
+“Your father answered for himself. And for your mother. Most fully. He did not answer for you.” He paused. “He did not think to.”
 
 Lyra stood very still in the dark.
 
-*I have answered for myself and for your mother.* She had read it in the changing room and thought nothing of it. She had thought: *of course*. She had not thought, until this moment, what it meant that her father, asked in front of the Dark Lord who might have talked, had not so much as remembered that he had a daughter who could have.
-
-He had not even suspected her. It had not crossed his mind. She was his treasure, his clever, clever girl, one of them in every way that counted; and he had stood in a room full of kneeling people and answered for everybody he loved, and left her out, because it had never once occurred to him that she might be on the list.
-
-She had known it would cost something. She had felt it under her ribs in October, like a swallowed stone. She had not known it would cost this.
+*I have answered for myself and for your mother.* She had read it in the changing room and thought: *of course*. He had trusted her to give him Potter’s secrets and never thought she might give Potter his.
 
 “Five names were given,” said Snape quietly. “By various people. Mine was among them.”
 
@@ -167,5 +161,3 @@ She went past him, out into the torchlight, and up the passage, and through the 
 In the dormitory, behind her hangings, she took the letter out of her sleeve and burnt it, as she had been told, with the tip of her wand, a corner at a time, and watched her father’s hand go brown and curl and go.
 
 The postscript went last. *Draco writes that he is happy. Keep him so.*
-
-Then she took the ring out of her pocket and looked at it by the light of her wand. It was blue. She put it back.
