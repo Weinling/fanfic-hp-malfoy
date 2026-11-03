@@ -1,4 +1,4 @@
-# Chapter 44: Rounds
+# Chapter 45: Rounds
 
 Professor Umbridge’s classroom had been Mad-Eye Moody’s classroom, and nothing of Moody was left in it.
 
@@ -197,3 +197,62 @@ Zabini was still up, in the common room, when she went in.
 “I’ll take your seventh-floor rounds,” she told him. “For the rest of term.”
 
 “All of them?” He put down his cards. “Suits me.”
+
+⁂
+
+She had the seventh floor to herself for nine nights, and on the tenth he was sitting in the window at the end of it.
+
+It was ten to one. There was a moon, and he had his feet up on the far side of the embrasure and his left arm round his knees and his right hand in his dressing-gown pocket, and he looked round when her wand-light came along the wall as though he had been expecting the post.
+
+“Out of bed,” said Lyra.
+
+“So are you.”
+
+“I have a badge.”
+
+“I can see that. It’s very shiny.” He considered her. “You’re early. It’s usually five to, on a Tuesday.”
+
+She stopped a few feet off, and looked down at him for some time. He had been told about that. He had been told about it on a staircase in June, at length, with clauses.
+
+“What do you want?”
+
+“Nothing. Couldn’t sleep.” He looked at the moon. “You stayed behind. After Defence. She called you *dear*.”
+
+“She calls everybody dear. She called the Bloody Baron dear; he went through a wall.”
+
+“What did you give her?”
+
+“I can’t imagine what business that is of yours.”
+
+“It’s got kittens on it, Malfoy.”
+
+“I told you in June which side I should be on, and that I should be on it all the way. I can repeat that more slowly, if there was some part of it you failed to follow.” She had dropped her voice. Portraits slept lightly on the seventh floor. “You are out of bounds, after hours, and you are being insolent to a prefect. Go to bed.”
+
+“No.”
+
+“I can take points.”
+
+“I know you can.”
+
+“Don’t imagine that I won’t.”
+
+“I don’t,” said Potter; and he smiled.
+
+She had not seen it since March. It was not the one he kept for the Great Hall. It started at one corner and went crooked, and it had no business whatever on a face that thin at that hour of the night, in front of a person who had sent it a tin; he had asked her once whether he might do that in front of her, on a broomstick, and she had told him, and she could remember precisely what she had said.
+
+He got down off the sill. He was taller than he had been in June. She could not have told anybody afterwards which of them crossed the last of the floor; she only knew that she had hold of a handful of tartan dressing gown, and that it was quite short, and not at all sensible, and that he kept his right hand in his pocket the whole time, which she thought was very like his cheek.
+
+She stepped back. She put her badge straight, and then her hair, and she looked at a suit of armour until she was certain of her voice.
+
+“That was the last one,” said Lyra.
+
+“This year,” said Potter.
+
+“It’s *September*.”
+
+He put the back of his hand against his mouth. His shoulders had begun to go.
+
+Lyra drew herself up to her full height, on the seventh floor, at one o’clock in the morning, with the moon on her badge.
+
+“Five points from Gryffindor,” she said, and went on with her rounds.
+

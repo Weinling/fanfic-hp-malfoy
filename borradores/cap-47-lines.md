@@ -1,4 +1,4 @@
-# Chapter 45: Lines
+# Chapter 47: Lines
 
 “A little supervision,” said Professor Umbridge. “That is all I ask, dear.”
 

@@ -1,4 +1,4 @@
-# Chapter 48: Him, and Now You
+# Chapter 52: Him, and Now You
 
 Granger sat down opposite her in the library on a Tuesday in the middle of November, at the table by the window, without asking, which was how Lyra had been sitting down opposite Granger since March.
 

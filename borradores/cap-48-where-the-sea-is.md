@@ -1,4 +1,4 @@
-# Chapter 46: Where the Sea Is
+# Chapter 48: Where the Sea Is
 
 “Again,” said Professor Snape.
 

@@ -1,4 +1,4 @@
-# Chapter 43: Prefects
+# Chapter 44: Prefects
 
 “I’m counting on you,” said her father, on the platform, with the steam going up white round the pair of them and Draco already halfway into the train.
 
@@ -72,7 +72,7 @@ Granger had said nothing at all. She stood beside Weasley with her books against
 
 She was on her second round, with fields and sheep rolling past the windows, when a door slid open beside her and Potter stepped out into the corridor.
 
-He had been waiting. She could tell from the way he stood: not leaning, not casual, his hands at his sides. He looked thinner than he had in Diagon Alley, and older, and very tired round the eyes, and his hair had been cut by somebody who disliked him.
+He had been waiting. She could tell from the way he stood: not leaning, not casual, his hands at his sides. He looked thinner than he had in Diagon Alley, and older, and very tired round the eyes, and his hair had not recovered.
 
 “Malfoy.”
 
@@ -106,9 +106,59 @@ She did turn round then. He was standing exactly where she had left him, in the 
 
 “You were laughing. At Fortescue’s. With Draco. Before you saw me.”
 
-She had been. Draco had said something about the Hufflepuffs, with ice cream on his chin, and she had laughed, out loud, on a terrace in Diagon Alley in the sun, for the first time all summer. And somebody had been standing on the other side of the street, watching her do it, and had not crossed.
+She had been. Draco had said something about the Hufflepuffs, with ice cream on his chin, and she had laughed, out loud, on a terrace in Diagon Alley in the sun, for the first time all summer. And somebody on the other side of the street had seen her do it, and had crossed the whole of the road, and had talked about a bow tie.
 
-“Sit down, Potter.”
+She walked back down the corridor. There was a compartment behind him with its blind down and nothing in it but somebody’s owl. She put her hand flat on his chest and walked him backwards through the door, and slid it shut with her heel.
+
+“That,” said Lyra, “is what you came to say.”
+
+“Yeah.”
+
+“In August.”
+
+“Yeah.”
+
+“You had a street and seven weeks and four hundred pages. Did you read that book?”
+
+Something went across his face, and his ears began, very slowly, to change colour.
+
+“Some of it,” said Potter.
+
+She looked at him. She looked at the ears. She had had no quill that day, and no time, and he knew that, because he was not a fool; and it came to her, whole, as such things did, a boy on a floor in the middle of the night with his wand lit, going through the tables of values one margin at a time.
+
+“There was nothing in it,” said Lyra.
+
+“No. I know.”
+
+“Every page?”
+
+He did not answer. It was quite the most pathetic thing she had ever heard of. She kept her face where it was, and underneath it something that had sat up on a dungeon staircase in June sat up again and asked to be told the whole thing slowly.
+
+“I am allowed to laugh, Potter. It’s not against any law. He wanted to know whether Hufflepuff could be cured.” She took a breath. “What would you have preferred? Should I have been crying? Would that have suited you better?”
+
+He looked at the owl. He looked at the floor, and then he looked at her, and she saw him decide.
+
+“A bit,” said Potter.
+
+The train went over some points. Neither of them said anything.
+
+It was a horrible thing to say to a person. He knew it was; he had gone white round the mouth saying it. Nobody who was any good would have said it, and nobody who had any sense would have asked. She ought to have been a great deal angrier than she was.
+
+“You are perfectly vile,” said Lyra.
+
+“Yeah.”
+
+“Good.”
+
+His collar had got folded in under the neck of his jumper. Mrs Weasley’s jumper, by the look of it; maroon, and much too big. She had put it straight and turned the point of it down before she noticed that she was doing it, and his hand came up and closed round her wrist, not hard.
+
+“Don’t,” he said. His voice had gone rough. “That’s twice. You can’t keep doing that and sending me tins.”
+
+She looked at the hand. After a moment he took it away.
+
+“Sit down, Potter,” said Lyra.
+
+She opened the door. The owl watched her go.
 
 She went on through the connecting door, and it slid shut behind her, and she walked the whole length of it before she let herself do anything with her face; and then she found the fourth compartment from the back.
 

@@ -1,12 +1,13 @@
-# Capítulo 44 — *Rounds*: ficha (corta)
+# Capítulo 43 — *Prefects*: ficha y guion
 
-*30 de octubre de 2026. Guion aprobado (§2, cap. 44, con Fable 004: fuera las detenciones de oídas). Referencia: originales 58 y 59 (por el resumen; cotejo al cerrar). Grep: la Oclumancia natural (17: «You have a natural—»; Flitwick: «very strong natural defences of the mind»; 27: el Imperius), la ventana de Snape (35), la mentira de la orilla (20), la lista de Draco (42).*
+*30 de octubre de 2026. Guion aprobado (§2, cap. 43, con los cambios de Fable 004: cuatro escenas, Draco y el Sombrero en el centro). Referencia: originales 56 y 57 (por el resumen `borradores/resumen-oficial-55-73.md`; cotejo automático con los dos al cerrar). Grep: Zabini (29, 32), Diggory «princess» (18) y «more faithful than you look» (23), Diggory furioso (38-40); Granger y Weasley prefectos: no consta antes; Umbridge: no sale antes.*
 
-Motor: Lyra elige a Umbridge como herramienta, y Snape cobra la orilla. Peldaño: baja (ella, del lado que castiga a Harry). Pantallazo: Snape, «it is going to kill you», y la habitación amueblada. Gancho: Draco en el séptimo piso a medianoche. Fechas: primera semana de septiembre (lunes 4: Defensa); jueves 7 (Snape); sábado 16 (la ronda).
+- **Motor:** Lyra se pone del otro lado «as myself» (39), en público. **Peldaño:** baja con Weasley y Granger, a propósito; con Potter, un pasillo. **Deseo del lector:** que se hablen; a medias. **Pantallazo:** Draco con el Sombrero, que tarda, y Lyra sin respirar. **Calor:** Draco en el tren. **Gancho:** Umbridge; la cara de Potter, cálculo.
+- **Fecha:** viernes 1 de septiembre de 1995.
 
-1. **Defensa** *[se queda (58), con Lyra en primera fila]*: los gatitos, Slinkhard, Granger, Potter («He’s back… Voldemort»), una semana de detenciones.
-2. **Lyra se ofrece** a Umbridge *[se queda (58), con causa nuestra]*.
-3. **Snape** *[nuevo]*: la deuda; Legilimancia; ella cierra la puerta; «a natural defence… And it is going to kill you»; dejarle entrar en una habitación amueblada: una hija; los jueves a las ocho.
-4. **Draco** en las comidas: la carta al señor volvió sin abrir. **La ronda** *[nuevo]*: el séptimo piso, el tapiz de los trols, el busto, la pared; Draco en pijama, tres pasadas; «I got lost»; «You won’t tell… That I didn’t find it yet»; ella no le pide la lista, y sabe por qué.
+1. **El tren.** *[Se queda (56), en una línea el andén.]* Lucius: «I’m counting on you.» Draco en el compartimento de Crabbe y Goyle, contándoles el Quidditch; toca la lista dentro de la camisa cada poco.
+2. **El vagón de los prefectos.** *[Cambia (56): sin «Mudblood».]* Lyra y Zabini; Weasley y Granger; Diggory, Premio Anual, frío y correcto. Lyra corta con Weasley delante de todos: el dinero, la casa, lo que serán cuando venga. Weasley: que antes era de Potter y ahora vuelve a ser de su padre. Granger no dice nada y la mira.
+3. **El pasillo.** *[Se queda (56), sin beso.]* En su ronda, Potter: Parkinson y Montague hablan alto, delante de unos de Ravenclaw, de «who’s back». Ella va. Dos frases suyas que le duelen a él; una de él que le duele a ella («You were laughing. At Fortescue’s. Before you saw me.»).
+4. **La Selección y Umbridge.** *[Se queda (57), desde Lyra.]* Draco bajo el Sombrero, que tarda; Slytherin. Umbridge, rebeca rosa, «hem, hem», interrumpe a Dumbledore. La cara de Potter: no sorpresa, cálculo.
 
-Se quita: «You’ll only be here a year anyway» y la comparación con Pociones (58); McGonagall (58); Hagrid ausente, Ginny, Luna y el *Quisquilloso* (59).
+**Se quita:** el beso del compartimento y Draco escondido (56); Ginny, Luna y el *Quisquilloso* (56-57); Draco creyendo que es chantaje (57).
