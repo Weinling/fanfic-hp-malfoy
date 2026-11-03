@@ -35,30 +35,7 @@ Reglas: como mucho dos capítulos seguidos sin escena de los dos, y entonces su 
 
 ## Tramo 1: Enemigos (38-54)
 
-| Cap. | Título actual | Qué es | Qué cambia |
-|---|---|---|---|
-| 38 | The Cup | Reescritura parcial | Abre la víspera: ella le busca porque ya no la espera en los escalones. Pelea, recaída, beso. Luego el laberinto |
-| 39 | Never Lied | Ampliación | Se queda. Él pregunta si es por ellos y ella lo confirma: elige a su familia. Para él es lo de siempre |
-| 40 | Hidden Ink | Retoque | Se queda |
-| 41 | The Sleeve | Retoque | Lucius suelta el dicho: «Nobody has ever died owing a Malfoy» |
-| Int. | The Wrong Night | Retoque | Siembra: Lily hasta los diecisiete; el cuerpo que se adelanta; el niño que le parece otro |
-| 42 | Badges | Retoque | Se queda; Narcissa |
-| Extras | *Year One* 5 y 6 | Se quedan | |
-| 43 | **Nuevo, Harry** | Agosto en Grimmauld | El plan tonto con Ron y Hermione se cae porque tienen algo suyo. Sirius. Diagon Alley desde él: la ve reír con Draco, cruza, y pelean a susurros entre estanterías |
-| 44 | Prefects | Reescritura parcial | El pasillo del tren sube mucho. Sigue la crueldad con Weasley |
-| 45 | Rounds | Reescritura parcial | Umbridge y Snape se quedan. Le pilla de noche, es prefecta: primera recaída, primeros cinco puntos |
-| 46 | **Nuevo** | Comedia | Castigados juntos a limpiar trofeos. Pelean por la única silla, se ríen, acaban dormidos encima del otro. Filch |
-| 47 | Lines | Se queda el núcleo | La sangre y «Five points». El lunes le coge la mano y le cura ella, furiosa |
-| 48 | Where the Sea Is | Reescritura parcial | Le da el norte, le miente con Draco, y empieza ella. Él: «I love you», a gritos, en mal momento. «That is not an argument» |
-| 49 | **Nuevo, Harry** | Las cuatro horas | Granger le saca el secreto, en escena. Llora. Primer miedo por el niño. Los sueños |
-| 50 | Pretext | Reescritura | Lyra entrega a Wayne Hopkins, el niño de la tarjeta de rana: su primera víctima con nombre. Ve la mano. La canción. La peor pelea hasta ahora |
-| 51 | Him, and Now You | Reescritura parcial | El rellano: «You used my brother», y la mano se le va, se le sube la palabra, se para. Primer aviso |
-| Extra | ***Year Four* 1** | Abril de 1995 | El ajedrez, «you play like the Baron», y la hoja que firma de broma |
-| 52 | **Nuevo** | Comedia | Granger suma: «Thirteen *what*, Harry?». Última recaída antes de Navidad |
-| 53 | The Button Warmer | Retoque | Se queda: Crabbe, Ron, el botón, la nota, la moneda de Lyra |
-| 54 | The East Cottage | Retoque | Se queda; Abraxas enseña el libro de pasada |
-
-**Cuidado:** lo que Lyra mira en el 46 y el 47 debe seguir llevando al 54 sin tocar las pistas de Abraxas.
+Capítulo a capítulo, con el orden definitivo, en `plan-38-50.md`.
 
 ## Tramo 2: La butaca (55-72)
 
@@ -90,7 +67,7 @@ Reglas: como mucho dos capítulos seguidos sin escena de los dos, y entonces su 
 
 **Lyra, la corrupción.** Hopkins, la canción y Weasley, el Crucio, Bode, los informes que son verdad, la Marca, Greer. Cada peldaño tiene un nombre y no se le devuelve. Nadie la perdona por ser la protagonista.
 
-**Harry.** Pierde el futuro (Int. 2), ve que no es el primero (39, 43), se confiesa con Granger (49), la mano (51), el niño (tramo 2), el control, el Ministerio, Sirius, la mano otra vez, el baño, la culpa, esperar con el bezoar. Del tramo 3 en adelante lleva tanta historia como ella.
+**Harry.** Pierde el futuro (Int. 2), ve que no es el primero (39, 43), se confiesa con Granger (51), la mano (52), el niño (tramo 2), el control, el Ministerio, Sirius, la mano otra vez, el baño, la culpa, esperar con el bezoar. Del tramo 3 en adelante lleva tanta historia como ella.
 
 **La Casa.** Abraxas: de dueño a podrido. Lucius: de padre feliz a roto. Narcissa: de la puerta a la traición. Draco: de la lista a no hablarle a su hermana.
 
@@ -102,9 +79,9 @@ Reglas: como mucho dos capítulos seguidos sin escena de los dos, y entonces su 
 |---|---|---|
 | La causa del viaje | 39 | Riddle se lo dice, tramo 4 o 5 |
 | La segunda capa | 22 | Lyra, tramo 4 o 5 |
-| El niño | 49 | Se mueve con Snape y el zorro; se cierra en el final |
+| El niño | 51 | Se mueve con Snape y el zorro; se cierra en el final |
 | El libro | 41 | Se entiende de verdad en Pascua de 1997 |
-| Quién habló del norte | 50 | Voldemort, al llegar |
+| Quién habló del norte | 50 (la carta de Lucius) | Voldemort, al llegar |
 | Dónde están la copa y el anillo | Int. 2 | El veneno |
 
 ## Lo que se quita del original
