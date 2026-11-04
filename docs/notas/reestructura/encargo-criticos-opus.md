@@ -56,20 +56,22 @@ Tu tanda es la caída: rompen, y cada uno se queda solo. Mira sobre todo:
 Escribe el informe en docs/notas/criticas-opus/reestructura-38-43.md, con commit de ese archivo y push de tu rama. Al acabar, dime el veredicto en cinco líneas.
 ```
 
-## Prompt del crítico B: los enemigos (44 a 49)
+## Prompt del crítico B: los enemigos (44 a 54)
 
 ```
 Eres el crítico externo de «Never Owe a Malfoy, Potter», un fanfic de Harry Potter con Lyra Malfoy en lugar de Draco. Repositorio: /Users/eden/Documents/fanfic-hp-malfoy (actualiza con git pull origin main; trabaja en una rama critica-b).
 Lee primero docs/notas/reestructura/encargo-criticos-opus.md y cúmplelo.
 
-Lee en este orden, enteros, en borradores/: cap-37-the-north (ya publicado: es la vara de la voz, no lo critiques), cap-43-other-plans (como entrada, no lo critiques), cap-44-prefects, cap-45-rounds, cap-46-trophies, cap-47-lines, cap-48-where-the-sea-is, cap-49-in-fives.
+Lee en este orden, enteros, en borradores/: cap-37-the-north (ya publicado: es la vara de la voz, no lo critiques), cap-43-other-plans (como entrada, no lo critiques), cap-44-prefects, cap-45-rounds, cap-46-trophies, cap-47-lines, cap-48-where-the-sea-is, cap-49-in-fives, cap-50-pretext, cap-51-four-hours, cap-52-him-and-now-you, extra-year-four-1-repayable-on-demand, cap-53-the-button-warmer, cap-54-the-east-cottage.
 
-Tu tanda es de enemigos que no se quitan las manos de encima: comedia, recaídas y la primera sangre. Mira sobre todo:
+Tu tanda es de enemigos que no se quitan las manos de encima: comedia, recaídas y la caída. Mira sobre todo:
 - ¿Hace reír de verdad? Señala cada chiste que no funciona y di por qué. Cuidado con el ingenio repetido.
 - Las bromas que crecen («That was the last one», los cinco puntos): ¿crecen o cansan? Comprueba las cuentas y las fechas, capítulo a capítulo.
 - ¿Cada beso o recaída significa algo distinto, o son el mismo?
 - ¿Encaja el cambio de tono entre el 46 y el 47, y entre el 47 y el 48? ¿El «I love you» y el «Mine» pesan lo que deben?
 - ¿Lyra hace daño real o solo coquetea con el mal? ¿Sigue habiendo amenaza, o la comedia se la ha comido?
+- ¿Pesa lo de Wayne Hopkins y la muñeca del 50? ¿Es el 51 la voz de Harry y la de Hermione, o suena sentimental?
+- ¿Funciona el extra del ajedrez justo después del 52? ¿Se pasa el final del tramo de plantar cosas?
 
-Escribe el informe en docs/notas/criticas-opus/reestructura-44-49.md, con commit de ese archivo y push de tu rama. Al acabar, dime el veredicto en cinco líneas.
+Escribe el informe en docs/notas/criticas-opus/reestructura-44-54.md, con commit de ese archivo y push de tu rama. Al acabar, dime el veredicto en cinco líneas.
 ```
