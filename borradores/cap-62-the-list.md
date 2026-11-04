@@ -14,7 +14,7 @@ The quill fell off. He caught it. She watched him not ask; it went across his fa
 
 He took the quill out of his mouth. It began at one corner. There had been none of it since the day before, and she found she had been watching for it, as one watches for the post.
 
-“Show me your wrist action,” said Potter.
+“Fetch the tea caddy,” said Potter.
 
 It took twenty minutes. It was a nasty little Gryffindor sort of charm that he had learnt from somebody who was dead, and it needed one to be rude to the lock under one’s breath. She made him do it twice on the tea caddy. He lay on the rug afterwards with his arms behind his head, and he did not say anything else about it at all. She could have kissed him for that; and on consideration she did.
 
@@ -24,7 +24,7 @@ The notebook was in the bottom left-hand drawer, under a box of lace-edged envel
 
 She had seen it go in. She had been seeing it go in, one way and another, since November. It was the Saturday. Professor Umbridge had been called to the Minister, and she had asked Lyra, in her little breathless way, whether she would be a dear and water the African violets. So she stood in that dreadful room with the kittens looking on and a small brass can in her left hand. She was rude to the lock. It gave a shocked click.
 
-It was an ordinary exercise book with a blue cover. *W. Hopkins, 5th Yr, History of Magic* had been ruled out on the front. She untied the ribbon, and she stood and read it through by the window. He wrote a careful round hand, like somebody crossing a stream on stones. *Potter, H. Since 2nd Sept. Back of right hand. Won’t say how many lines. Bones, S. Twice. Left hand, she writes with her left. Macmillan, E.* There were nine of them, in that hand, and they stopped halfway down a page. After that somebody else had gone on. There was a different ink, and a small upright rounded script with little circles for the dots. Umbridge had kept it up. She had added five more, in date order, with the number of lines beside each and a neat tick; she had been keeping it, it appeared, for pleasure.
+It was an ordinary exercise book with a blue cover. *W. Hopkins, 5th Yr, History of Magic* had been ruled out on the front. She untied the ribbon, and she stood and read it through by the window. He wrote a careful round hand, like somebody crossing a stream on stones. *Potter, H. Since 6th Sept. Back of right hand. Won’t say how many lines. Bones, S. Twice. Left hand, she writes with her left. Macmillan, E.* There were nine of them, in that hand, and they stopped halfway down a page. After that somebody else had gone on. There was a different ink, and a small upright rounded script with little circles for the dots. Umbridge had kept it up. She had added five more, in date order, with the number of lines beside each and a neat tick; she had been keeping it, it appeared, for pleasure.
 
 The last name on the list was *Hopkins, W. Three evenings. Most satisfactory. Assisted by Miss M.*
 
@@ -38,7 +38,7 @@ She watered the violets. She was thorough about it. There was no sense in being 
 
 “I need something written,” said Lyra.
 
-Crabbe was by the window of the dormitory, with the green light on her pale square face. She had not turned round. She had stopped doing that. She got up when Lyra came in, and she went on with what she was doing, and if there was a seat free she took another one. She said “Good morning.” It was all perfectly civil. It had been going on for four and a half months, and Lyra had found that one could get used to it, in the way that one can get used to a stone in the shoe, until it comes through the stocking.
+Crabbe was by the window of the dormitory, with the green light on her pale square face. She had not turned round. She had stopped doing that. She got up when Lyra came in, and she went on with what she was doing, and if there was a seat free she took another one. She said “Good morning.” It was all perfectly civil. It had been going on for four and a half months, and Lyra had found that one could get used to it, in the way that one can get used to a cold room.
 
 “Not in my hand. It can’t be in anybody’s that the Ministry’s ever seen. You’ve got the plainest writing in the school, Vanessa. It looks like a laundry list. It’s four lines.”
 
@@ -96,15 +96,15 @@ He took it with his left hand. He had some trouble with the page. Everybody in t
 
 It was a thin, careful voice, and it shook. He cleared his throat.
 
-“Since the second of September.”
+“Since the sixth of September.”
 
 Down the Hall, at the Gryffindor table, somebody stood up.
 
-He did not say anything. He just got up, with his hair on end and his toast left on his plate, and stood there, with his hands at his sides. He did not look at the staff table, or the Slytherins, or at anybody. Lyra found that she had stopped breathing.
+He did not say anything. He just got up, with his hair on end and his toast left on his plate, and stood there, with his hands at his sides. He did not look at the staff table, or the Slytherins, or at anybody.
 
 “Bones, S.”
 
-There was a sound from the Hufflepuffs. A sturdy girl with a plait had risen to her feet. She had started to cry, and she was holding up a hand with a glove on it. “Macmillan, E.” He stood. “Thomas, D.” “Abbott, H.” They were getting up all over the room. It went on. They stood up one at a time, here and there along the benches, a third-year, a big Ravenclaw, a very small boy who had to be helped over the seat, and each of them stayed where they were. No one had told them to. He read out the nine in his own hand. He turned the page, and he went on, in that small shaking stubborn voice, with what had been written by somebody else. There were fourteen. By the time he had got to the bottom of the sheet there was no other sound at all but the owls.
+There was a sound from the Hufflepuffs. A sturdy girl with a plait had risen to her feet. She had started to cry, and she was holding up a hand with a glove on it. “Macmillan, E.” He stood. “Thomas, D.” “Abbott, H.” They were getting up all over the room. It went on. They stood up one at a time, here and there along the benches, a third-year, a big Ravenclaw, a very small boy who had to be helped over the seat, and each of them stayed where they were. No one had told them to. He read out the nine in his own hand. He turned the page, and he went on, in that small shaking stubborn voice, with what had been written by somebody else. There were thirteen. By the time he had got to the bottom of the sheet there was no other sound at all but the owls.
 
 He stopped. He looked at the page. He looked at the place at the bottom where it ended, and at the torn edge of the paper in the stitching, and a slight puzzled line came between his eyebrows.
 
@@ -118,9 +118,9 @@ It may have been a second. He did not do anything with his face.
 
 “I’d like to be on it, please,” said Wayne Hopkins. “It’s just been left off.”
 
-She heard somebody breathe out, and it was herself. He held the notebook up, in his left hand, for Madam Bones to take. Then he turned round, carefully, and stood beside the others, with his back to the staff table and his bad hand against his chest.
+He held the notebook up, in his left hand, for Madam Bones to take. Then he turned round, carefully, and stood beside the others, with his back to the staff table and his bad hand against his chest.
 
-She sat with her hands in her lap. He could not know. He could not possibly know. There had been a page, and it had said what it said, and it was in her pocket at this moment. He had been in that room for three evenings, of course, with her in the second chair, and that was all he knew; he had never had any reason to think that anybody but Umbridge had been keeping an account. He had only looked. Anybody might look.
+She sat with her hands in her lap. He could not know. He could not possibly know. It was in her pocket at this moment. He had only looked. Anybody might look.
 
 Goyle pushed the toast rack an inch towards her. She did not see it.
 
@@ -130,7 +130,7 @@ They took Professor Umbridge out by the middle of the Hall. She went quite quiet
 
 Lyra looked up.
 
-There were fourteen people standing in the Great Hall, and one of them had turned his head.
+There were fourteen people standing in the Great Hall, and one of them had turned his head. A monocle had turned as well.
 
 “Yes, Professor,” said Lyra.
 
@@ -138,7 +138,7 @@ There were fourteen people standing in the Great Hall, and one of them had turne
 
 He picked her up.
 
-He had been waiting behind the door. She had not got it properly shut. It was a quarter past eight, on the last night of term, it was not on any timetable, and he took her round the middle and lifted her clean off the bald rug, and went round twice with her, knocking over the tea caddy, and put her down in the chair, and fell on top of the arm of it, laughing. She had never heard him make such a noise. He looked about nine.
+He had been waiting behind the door. She had not got it properly shut. It was a quarter past ten, on the last night of term. She had come straight up from Professor Snape, who had said nothing whatever about the morning, and had gone through her head twice as hard as usual. It was not on any timetable; and he took her round the middle and lifted her clean off the bald rug, and went round twice with her, knocking over the tea caddy, and put her down in the chair, and fell on top of the arm of it, laughing. She had never heard him make such a noise. He looked about nine.
 
 “*Fourteen!*” said Potter. “Did you *see*? He got *up!* Hopkins! I thought I was going to be sick. The whole— Did you see McGonagall? Did you see *Filch?* He’s gone and taken all her plates down himself. He’s got them in a wheelbarrow. Seamus says she’ll get five years. Dumbledore’s given the whole school a holiday on Saturday. It *is* a holiday on Saturday.”
 
@@ -154,23 +154,23 @@ He had been waiting behind the door. She had not got it properly shut. It was a 
 
 “I love you,” said Potter. “I know, *hold still*. I love you, I love you. I don’t care. Look at you. You’re the most frightening person I’ve ever met in my life.”
 
-He kissed her. He got most of her left eyebrow, and then he got it right. He had her by the front of her robes, with both fists, and his forehead came down against hers; he was out of breath and he was shaking with it. She found that she was holding on to his ears. There was a hard square of folded paper in her pocket. *Most satisfactory. Assisted by.* She could feel its edges. She had thought it would have stopped being there. It seemed that one could sit in a chair with that in one’s pocket, and be looked at like this; that the one thing did not do anything at all to the other. She had supposed there would be some sort of arrangement. *He takes a pie on Tuesdays.* She wanted it so much. She wanted to go on being what he was looking at. She shut her eyes, and turned her face into his collar, and stayed there.
+He kissed her. He got most of her left eyebrow, and then he got it right. He had her by the front of her robes, with both fists, and his forehead came down against hers; he was out of breath and he was shaking with it. She found that she was holding on to his ears. There was a hard square of folded paper in her pocket. *Most satisfactory. Assisted by.* She could feel its edges. She had thought it would have stopped being there. It seemed that one could sit in a chair with that in one’s pocket, and be looked at like this; that the one thing did not do anything at all to the other. She had supposed there would be some sort of arrangement. *He has a pie on Tuesdays.* She wanted to go on being what he was looking at. She shut her eyes, and turned her face into his collar, and stayed there.
 
 “*Mine*,” said Potter.
 
-He said it into her hair, very low. He had said it a good many times by now. It had been a joke; it was a word for the armchair, for the last of Goyle’s cake; she had taken ten points for it. It was not one now. She could hear that. His hands had closed. There was something at the bottom of his voice that she had heard once, on a landing, and it did not go with the laughing. It went through her from the top of her head to the soles of her feet.
+He said it to the top of her head, very low. He had said it a good many times by now. It had been a joke; it was a word for the armchair, for the last of Goyle’s cake; she had taken ten points for it. It was not one now. She could hear that. His hands had stopped shaking. There was something at the bottom of his voice that she had heard once, on a landing, and it did not go with the laughing. It frightened her. She noted that, and she noted that she did not mind.
 
 She ought to have said something. There was any number of things that one could say.
 
 “Yes,” said Lyra.
 
-It was true. That was the thing that was the matter with it. Nobody in her life had ever wanted her as much as that; and she sat there in the firelight, in the most comfortable chair in the world, and she liked it more than she had ever liked anything.
+It was true. That was the thing that was the matter with it. Nobody in her life had ever been so sure of her as that; and she sat there in the firelight, in the most comfortable chair in the world, with a page in her pocket, and she let him be.
 
 ⁂
 
-The last of the Squad’s badges went into Filch’s wheelbarrow. *How careless of you to lose her*, her father wrote, on the Saturday, and that was all he had to say about it.
+The last of the Squad’s badges went into Filch’s wheelbarrow. *How careless of you to lose her*, her father wrote, by return, and that was all he had to say about it.
 
-She saw Hopkins once more before the train. It was in the Entrance Hall, among the trunks. Diggory was doing up his tie for him, in full view of everybody, with no expression whatever, and saying something; and a long thin boy with a bad hand was nodding, and he had something held out in his left. She could not see what it was. It might have been a piece of parchment. It might have been a Chocolate Frog card, with a crease in it.
+She saw Hopkins once more before the train. It was in the Entrance Hall, among the trunks. Diggory was doing up his tie for him, in full view of everybody, with no expression whatever, and saying something; and a long thin boy with a bad hand was nodding, and he had something held out in his left. She could not see what it was. It might have been a Chocolate Frog card, with a crease in it.
 
 He was trying to say thank you. She could tell, even at that distance, by the set of his ears.
 

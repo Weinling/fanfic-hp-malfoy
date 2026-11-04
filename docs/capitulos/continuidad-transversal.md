@@ -407,6 +407,8 @@ En orden de lectura. Las fechas marcadas «deducida» no las da el texto: salen 
 
 - **61 (2-17 mar. 1996):** ver `cap-61.md`. Primer informe verdadero: Bode. Goyle se niega a llevar la carta. Bode recibe el Beso el 14; Harry se culpa y Lyra le deja.
 
+- **62 (18-30 mar. 1996):** ver `cap-62.md`. Cae Umbridge por la lista; Hopkins la lee y los catorce se levantan. Lyra guarda la hoja *Assisted by Miss M.* «Mine» / «Yes».
+
 ## 5. Fichas vivas
 
 Al final del 57.
