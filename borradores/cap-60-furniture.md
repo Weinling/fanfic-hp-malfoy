@@ -28,6 +28,14 @@ It took a moment.
 
 “I have known for some three years what is going to be asked of Severus Snape,” said Dumbledore, “and how he will be repaid. I have sat across this desk from him every week. I have let him go on thinking that he kept his secret from everyone but me. Each time, I told myself that I should find a better moment.” He put the spectacles back on. They made his eyes look very blue and very old. “I don’t think there is one. I have been a coward about it, Harry. I find I would rather you knew that, before you go down there, than that you thought I had a plan.”
 
+“You could tell him yourself, sir.”
+
+“I could.”
+
+“You’re sending him the post,” said Harry. “And I’m the owl.”
+
+It was the sort of thing he had been wanting to say for about six years. He had thought it would feel better.
+
 There did not seem to be anything to say to this. It had never once occurred to him, in either life, that Albus Dumbledore could be got to say that sort of thing out loud. It made him feel extremely unsafe.
 
 “Do try to keep him out,” said Dumbledore, more gently. “He will know if you don’t.”
@@ -44,7 +52,7 @@ He had not looked up. He was marking. It was the same office: the same jars, wit
 
 Snape signed something, blotted it, and laid down his pen.
 
-He looked at Harry then. He had been looking at him in the same way for four years, with no expression at all, like somebody reading a thermometer. It was the look that had started on a night in a winter corridor when a boy of eleven had said *You killed my mum and dad*. It had not changed by a hair. He had never once mentioned it. In all the years since, he had marked Harry’s essays with a fairness you could have cut yourself on.
+He looked at Harry then. He had been looking at him in the same way for four years, as if Harry were a letter he had not been able to make himself open. It was the look that had started on a night in a winter corridor when a boy of eleven had said *You killed my mum and dad*. It had not changed by a hair. He had never once mentioned it. In all the years since, he had marked Harry’s essays with a fairness you could have cut yourself on.
 
 “I am told,” said Snape, “that you have a mind. I am instructed to teach you to close it. You will appreciate that I undertake this in the same spirit in which one might undertake to teach a sieve.”
 
@@ -80,13 +88,13 @@ There was a flask, in a hand that shook. The hand was Harry’s.
 
 The black eyes found the green ones. He had got his fingers into the front of a boy’s robes, and he held on to them, and whatever had been behind his eyes went out, a long way away, and left them fixed and blank. The hand fell. He made no more noise after that.
 
-It did not stop. Harry had thought that it would stop. It went on going; he could not have stopped it now; the flask, a stair, a basin, and a red-haired girl, on a swing; a small sallow boy behind a bush, looking at her. It ran down and down. *Always*, somebody said. There was a boy of seventeen going downstairs. It was early, and getting light. There were a lot of dark trees. He had a stone in his hand, and there were some people walking beside him, and he was so tired. There was a clearing with a fire in it, and a tall thin figure with long white fingers lifting a wand. He looked at it. He was not afraid. He looked at it, and he thought of nothing; there was a flash of green—
+It did not stop. Harry had thought it would stop. It went on going; he could not have stopped it now; the flask, a stair, a basin, and a red-haired girl, on a swing; a small sallow boy behind a bush, looking at her. It ran down and down. *Always*, somebody said. There was a boy of seventeen going downstairs. It was early, and getting light. There were a lot of dark trees. He had a stone in his hand, and there were some people walking beside him, and he was so tired. There was a clearing with a fire in it, and a tall thin figure with long white fingers lifting a wand. He looked at it. He was not afraid. He looked at it, and he thought of nothing; there was a flash of green—
 
 There wasn’t anything.
 
 It simply ended. It ended as a floor ends. It had a clean edge. There was the green, and then you were standing at the edge of where there was no more of anything, with your foot out; and there was nobody there. He felt the cold thing that was holding him stand at the end of it, and look over.
 
-He was on his hands and knees. His wand was on the other side of the room. He had been sick, a little, on the flagstones. He could hear somebody breathing as if they had run a long way, and after a while he found that it was himself.
+He was on his hands and knees. His wand was on the other side of the room. He had been sick, a little, on the flagstones. He could hear somebody breathing as if they had run a long way, and after a while he found it was himself.
 
 Nobody spoke.
 
@@ -118,7 +126,7 @@ There was a long silence. A coal fell in the grate.
 
 “I see.”
 
-He sat with that for a moment. He seemed to be looking at something on the wall a long way behind the jars.
+He sat with that for a moment.
 
 “He sent you to me tonight,” said Snape. “Knowing what I would find.”
 
@@ -134,13 +142,13 @@ Snape’s mouth moved, very slightly. It was not a smile. He had seen him do tha
 
 Harry opened his mouth.
 
-He had had a long time to think about this. He had thought about it on a good many nights, in two lives; he had thought of things that you could say. He had once told a small boy on a railway platform something about that man. He stood in the middle of the office in a cold sweat, with his knees not working and sick on his sleeve. He looked at the long yellow face and the greasy hair, and the fingers that had come to rest against the side of the neck, and every one of those things went straight out of his head.
+He had had a long time to think about this. He had thought about it on a good many nights, in two lives; he had thought of things that you could say. He had once knelt on a dusty floor with all the time there was left to say something to that man, and he had held out a flask. He stood in the middle of the office in a cold sweat, with his knees not working and sick on his sleeve. He looked at the long yellow face and the greasy hair, and the fingers that had come to rest against the side of the neck, and every one of those things went straight out of his head.
 
 “I don’t hate you,” said Harry. “I did. For seven years. I said a lot of things. I’m not—I can’t think of anything else. Sorry.”
 
 Snape looked at him for some time.
 
-“No,” he said. “I shouldn’t think that you can.”
+“No,” he said. “I shouldn’t think you can.”
 
 He took his hand away from his throat. He looked at it, as if he had found it in somebody else’s pocket, and laid it on his knee.
 
@@ -164,23 +172,23 @@ Snape waited.
 
 For the first time since he had known him, in any life, Severus Snape looked at him as you look at a person. It lasted about as long as it takes to breathe in.
 
-Then it was gone. He stood up. He crossed the room and picked up Harry’s wand from where it had rolled, between two fingers, as one picks up something that a cat has left, and held it out. He went round the desk. He sat down in his own chair, and drew a stack of Third Year essays towards him, and he uncapped his pen.
+Then it was gone. He stood up. He crossed the room and picked up Harry’s wand from where it had rolled, between two fingers, as you’d pick up something a cat had left, and held it out. He went round the desk. He sat down in his own chair, and drew a stack of Third Year essays towards him, and he uncapped his pen.
 
 “You will never,” said Snape, “speak of what was in that flask. To anybody. Not to the Headmaster. Not to Miss Granger, whose name I have seen. Not to the person in the chair.”
 
 Harry’s stomach dropped through the floor.
 
-“I don’t ask about the chair,” said Snape. He did not look up. “I did not see it. I saw a boy shut a door, very badly, with his entire body, as one would hold a door against a flood. I have seen one person in twenty years do that with any talent, and she has been coming here on Thursdays. You will be pleased to hear that you did not do it as well.” He made a small mark on an essay. “It is the worst thing you could have done. You have shown me exactly where you keep what you want. So will you show him. You have, in that head of yours, one room with something living in it, and you’ve put a sign on the door. Sit down.”
+“I don’t ask about the chair,” said Snape. He did not look up. “I did not see it. I saw a boy shut a door, very badly, with his entire body, as one would hold a door against a flood. I have seen one person in twenty years do that with any talent, and she has been coming here on Thursdays. You will be pleased to hear that you did not do it as well.” He made a small mark on an essay. “It is the worst thing you could have done. You have one room in that head with something living in it, and you have put a sign on the door. He reads signs. Sit down.”
 
 “Sir—”
 
-“I said that I would teach you, Potter. I don’t recall saying that anything had changed.” He raised his eyes. They were as they had always been. There was a great deal of dislike in them, and it was the most comforting thing that Harry had seen in months. “You have the mental discipline of a Hufflepuff in a sweetshop. Pick up your wand. Clean that floor; by hand. Then we shall begin again, and this time you will try to give me something dull.”
+“I said I would teach you, Potter. I don’t recall saying that anything had changed.” He raised his eyes. They were as they had always been. There was a great deal of dislike in them, and it was the most comforting thing that Harry had seen in months. “You have the mental discipline of a Hufflepuff in a sweetshop. Pick up your wand. Clean that floor; by hand. Then we shall begin again, and this time you will try to give me something dull.”
 
 ⁂
 
 “How was your evening?” said Malfoy.
 
-He had got there after she had. It was not on the timetable. He had not been able to think where else to go; he had gone up seven flights with his legs shaking, and walked three times past a wall. She was in the chair with her feet tucked up, and a letter in her hand, and she folded it in half as he came in and put it into her book. She looked at him over the top of it. She looked tired. He supposed it was Umbridge; she’d had tea with her again. She said that it was like being slowly embalmed.
+He had got there after she had. It was not on the timetable. He had not been able to think where else to go; he had gone up seven flights with his legs shaking, and walked three times past a wall. She was in the chair with her feet tucked up, and a letter in her hand, and she folded it in half as he came in and put it into her book. She looked at him over the top of it. She looked tired. He supposed it was Umbridge; she’d had tea with her again. She said it was like being slowly embalmed.
 
 There was a place on the arm of the chair. He sat down on it. He took her hand, and turned it over, and looked at it, because it was something that was alive.
 
@@ -212,11 +220,11 @@ He was a small man, and he was on his knees. He had got a good deal smaller sinc
 
 “Again,” said Harry, in a high, light, courteous voice. “Take your time, Wormtail. Nobody is angry.”
 
-“I—it was nothing, my lord, I only thought—it’s only the way he *looked* at me. That’s all. At the lake. I’d been in that dormitory for two and a half years. I slept on the Weasley boy’s pillow. And he’d look at me, my lord, the Potter boy, at night, when the others had gone off. He’d lie there on his side with his chin on his hand. He used to give me crusts. I thought nothing of it. I was a rat. And then he came out of those trees, and he’d got the same face on. Thirteen years old. He wasn’t surprised. I’ve thought about it, I’ve had two years in the dark to think. He looked at me as you’d look at somebody you’d known a long time, and were tired of. He said *You were in my dormitory*, no, I said— He *knew*, my lord. Not that night. He’d always known. He was eleven years old, and he knew what I was, and he fed me.”
+“I—it was nothing, my lord, I only thought—it’s only the way he *looked* at me. That’s all. At the lake. I’d been in that dormitory for two and a half years. I slept on the Weasley boy’s pillow. And he’d look at me, my lord, the Potter boy, at night, when the others had gone off. He’d lie there on his side with his chin on his hand. He used to give me crusts. I thought nothing of it. I was a rat. And then he came out of those trees, and he’d got the same face on. Thirteen years old. He wasn’t surprised. I’ve thought about it, I’ve had two years in the dark to think. He looked at me as you’d look at somebody you’d known a long time, and were tired of. He said *You were in my dormitory*. He said it as if I’d left something there. He *knew*, my lord. Not that night. He’d always known. He was eleven years old, and he knew what I was, and he fed me.”
 
 The fire whispered.
 
-The thing that was Harry sat quite still. Something was happening to him, and it was happening in the place under the ribs. It began small. It was warm. It rose, and it spread out along his arms; it was the first time that he had felt it in a very long time; it was like the sun coming up on an empty country that was all his. He had been a little bored. He had been bored, he now understood, for fifty years.
+The thing that was Harry sat quite still. Something was happening to him, and it was happening in the place under the ribs. It began small. It was warm. It rose, and it spread out along his arms; it was the first time he had felt it in a very long time; it was like the sun coming up on an empty country that was all his. He had been a little bored. He had been bored, he now understood, for fifty years.
 
 “The boy knew,” said the Dark Lord softly.
 
@@ -228,7 +236,7 @@ He had got up. He was at the window, with his back to the room. Something long a
 
 *What have you got in there, Harry Potter?*
 
-*Whatever it is, I don’t think that we’ll break it, Bella. I think we shall want it in one piece.*
+“Whatever it is, I don’t think we’ll break it, Bella,” said the Dark Lord, to the glass. “I think we shall want it in one piece.” He did not turn round. “Go back to your skirting, Wormtail.”
 
 He smiled. He had no lips to do it with. Harry felt it happen, on the front of his own skull.
 
@@ -238,6 +246,6 @@ It was a quarter past three. The rain had stopped. There were the hangings, and 
 
 He made an effort. He tried to think of a room. There was a table in the other life, he supposed, with Aunt Petunia’s doilies on it. You could put in a Herbology essay, and some boots. He got as far as a wall. It was cold, and it took a lot of doing, and it did not feel as if it had anyone in it.
 
-There was nothing to put in the middle of the floor. He looked for a long time. He only had the one good thing. It was big and sagging and it had no particular colour; and he knew what Snape would say. He knew exactly what would happen to anything that he left in there, with the door open, for those long white fingers to pick up.
+There was nothing to put in the middle of the floor. He looked for a long time. He only had the one good thing. It was big and sagging and it had no particular colour; and he knew what Snape would say. He could guess what would happen to anything he left in there, with the door open, for those long white fingers to pick up.
 
 He took it out again. He carried it, in the dark, as far back as he could get, and he stood in front of it with his arms spread out, and he did not go to sleep.

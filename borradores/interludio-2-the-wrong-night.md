@@ -152,7 +152,7 @@ They stopped on the same step, in the dark, with the elf-heads looking down. Sna
 
 Harry looked back.
 
-It was not as it had been in the other life. He knew what Snape was. He had been told once already, on a stone floor, with a man dying beside him and a great deal of silver coming out of his eyes, and he had carried it a long way since. He knew what the arm under that sleeve had cost, and what it had been for, and whose eyes it had been for. He knew how it would end, if nobody did anything, and that he did not know, any more, whether anything he did would make a difference to it.
+It was not as it had been in the other life. He knew what Snape was. He had been told once already, on a dusty floor, with a man dying beside him and a great deal of silver coming out of his eyes, and he had carried it a long way since. He knew what the arm under that sleeve had cost, and what it had been for, and whose eyes it had been for. He knew how it would end, if nobody did anything, and that he did not know, any more, whether anything he did would make a difference to it.
 
 He did not hate him. He had stopped, in this life, a long time ago, and Snape had never worked out when.
 

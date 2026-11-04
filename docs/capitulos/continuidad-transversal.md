@@ -403,6 +403,8 @@ En orden de lectura. Las fechas marcadas «deducida» no las da el texto: salen 
 
 - **59 (29 ene.-15 feb. 1996):** ver `cap-59.md`. Odio público ensayado; Lucius sabe y nadie más. **14 de febrero: Lyra dice «I love you» por primera vez, como insulto.** Su Patronus funciona tras el Crucio. Carta: Lucius pide un nombre del Ministerio.
 
+- **60 (17-20 feb. 1996):** ver `cap-60.md`. **Snape sabe todo** y vio el final de la memoria de Harry. «Did it serve?» «I don’t know. It stops.» Primera vez que los dos se ocultan algo tras el 57. Pettigrew a Voldemort: «the boy knew»; estuvo en el séptimo piso.
+
 ## 5. Fichas vivas
 
 Al final del 57.
