@@ -8,15 +8,15 @@ It was the summer list from a firm in Ross-on-Wye, and it arrived with a page tu
 
 *He wants to see the hand. He said so. It is the only civil thing that he has said to me since 1977.*
 
-*I have not been past the gates since Christmas. I shall take the Portkey to my dressmaker’s in Dorchester, as I do every June, and I shall walk. If I am asked, I shall tell him that it was about Regulus. It will even be true.*
+*I have not been past the gates since Easter. I shall take the Portkey to my dressmaker’s at Charmouth, as I do every June, and I shall walk. If I am asked, I shall tell him that it was about Regulus. It will even be true.*
 
-*Bella came in as I was sealing this, to borrow the wax. She is so much better. She has taken to sitting with me in the mornings.*
+*Bella came in as I was answering him, to borrow the wax. She is so much better. She has taken to sitting with me in the mornings.*
 
 *Don’t write again. Stake your delphiniums.*
 
 She read it through twice, and she stayed for a while with the lamp in her hand. A thing she had been holding at arm’s length, for a good many days, without noticing the ache, came slowly down. *At noon.* He would be a hundred and forty miles from London, in a Muggle waistcoat, on a stone wall in Dorset, with his back to the sea, being rude to her mother. At noon on the eighteenth the only person that anybody could use for bait would be eating an ice, for all she knew; and he would go on being somewhere else all afternoon. Harry would turn over his paper in the Great Hall at two, and the dream would come or it wouldn’t. He could sit there with his quill and know exactly what it was. He wouldn’t go. And even if he went, there was nobody there.
 
-She had done that. She had moved a piece on a board that neither of them could see, by a cousin, over the top of the Dark Lord’s head, with a lemon. She blew out the lamp. The ring on its ribbon had gone a soft contented pink. She lay in the dark with her hands folded on her chest, and for the first time in eleven days she could feel her feet.
+She had done that. She had moved a piece on a board that neither of them could see, by a cousin, over the top of the Dark Lord’s head, with a lemon. She blew out the lamp. The ring on its ribbon had gone a soft contented pink. She lay in the dark with her hands folded on her chest, and for the first time in nine days she could feel her feet.
 
 Page thirty-one went into the common-room fire at breakfast time, with the delphiniums.
 
@@ -48,7 +48,7 @@ Well, she thought. That made two of them.
 
 Arithmancy was on the Wednesday, in the small hall behind the Charms corridor, and there were only nine candidates.
 
-She sat next to Granger. There was no help for it: the desks went by the alphabet of something, and when she came in with her pens she found that she had been placed one aisle over and half a row behind that thin straight back and that bush of hair. She had sat near that back for five years. She had looked up in the middle of a hundred lessons and found a pair of brown eyes resting on her, with a level, adding, unforgiving attention, as if she were a column that had come out wrong. She had complained of it. She’d said a number of things about it, in several common rooms.
+There was no help for it: the desks went by the alphabet of something, and when she came in with her pens she found she had been placed one aisle over and half a row behind that thin straight back and that bush of hair. She had sat near that back for five years. She had looked up in the middle of a hundred lessons and found a pair of brown eyes resting on her, with a level, adding, unforgiving attention, as if she were a column that had come out wrong. She had complained of it. She’d said a number of things about it, in several common rooms.
 
 Granger’s eyes passed over her in the corridor at a quarter past nine. They did not stop. They were perfectly civil; they went by as they’d go by a coat on a peg.
 
@@ -78,8 +78,6 @@ There was a plate on the seat of the chair. There was something on the plate. Sh
 
 *TAU.*
 
-Neither of them spoke.
-
 “That’s Latin,” said Harry. “For yours. You said.”
 
 He was looking at her with such a terrible hopeful pride that she had to bite the inside of her cheek. She walked round the plate. She took out her wand, and tapped the icing, and it rang.
@@ -96,7 +94,7 @@ She ate it. There was salt in it, and a certain amount of shell. It had the text
 
 “That’s *you*, that is,” said Harry. “All of that.”
 
-She kissed him. It was only a small one; he had crumbs on his chin, and she had to lean across the plate to do it. She noticed, for no reason, that the swifts had come down lower over the lake, and that the sun lay along the side of his glasses, and that she had a pain in her chest from laughing; and she thought, as clearly as she’d ever thought anything: *I got all of it. There isn’t one thing wrong.*
+She kissed him. It was only a small one; he had crumbs on his chin, and she had to lean across the plate to do it. The sun lay along the side of his glasses, and she had a pain in her chest from laughing; and she thought, as clearly as she’d ever thought anything: *I got all of it. There isn’t one thing wrong.*
 
 ⁂
 
@@ -128,7 +126,7 @@ She had got as far as the door.
 
 She stopped.
 
-“It was read out. I was present. It is the only one of your productions that has been read out.” He had gone back to the essay. His voice had no more expression than the scratch of the nib. “He laughed. In seventeen years I have heard him laugh on two occasions, and I’d advise you to think about what was happening on the other. He has not asked you anything since, I believe. No. He wouldn’t. I should be careful, Miss Malfoy, of supposing that a man who has stopped asking questions has stopped wanting to know. In my experience, it is what they do when they have started to enjoy themselves.”
+“It was read out. I was present. It is the only one of your productions that he has asked to hear twice.” He had gone back to the essay. His voice had no more expression than the scratch of the nib. “He laughed. In seventeen years I have heard him laugh on two occasions, and I’d advise you to think about what was happening on the other. He has not asked you anything since, I believe. No. He wouldn’t. I should be careful, Miss Malfoy, of supposing that a man who has stopped asking questions has stopped wanting to know. In my experience, it is what they do when they have started to enjoy themselves.”
 
 She stood a moment with her fingers on the cold iron of the latch. A hundred and forty miles, she thought. The end of the Cobb, at noon.
 
@@ -144,11 +142,11 @@ It came on the Monday, with the supper things. It was the seventeenth of June, i
 
 She took it to the window at the end of the Slytherin corridor, where the lake lay against the glass, and the light came through it green.
 
-There was no gap in it. She looked. It occurred to her that he had not troubled with one for months. It was a single side, and the hand went down across the page like something falling slowly down a flight of steps.
+There was no gap in it. She looked. He had not troubled with one for months. It was a single side, and the hand went down across the page like something falling slowly down a flight of steps.
 
 *This will be the last thing I ask of you.*
 
-*The boy must be out of the castle tomorrow, by four o’clock. I do not ask how you will do it, and you need not know why. You have always been able to make him go where you wished. I think that you can’t have any idea how much I have relied on that.*
+*The boy must be out of the castle tomorrow, by four o’clock. I do not ask how you will do it, and you need not know why. You have always been able to make him go where you wished. I don’t think you can have any idea how much I have relied on that.*
 
 *He has told me that if it is done, he will have no occasion to trouble Draco.*
 
@@ -164,7 +162,7 @@ The green light moved on the page, and something large went by outside the glass
 
 She’d been asked that once before, and she had been told in the same breath what it would cost. She had thought, when she answered, that she’d have to do it only the once. It hadn’t struck her that a person might be sent the same bill twice, with a kinder note.
 
-Was he lying? She held on to that for a moment. He was very probably lying. It was what he did. And it couldn’t matter, she told herself, because there was nothing there tomorrow but a trap with nothing in it, and the boy would not go, not for her or anybody; he knew that road. That was all quite true. She noticed, as you’d notice a stair that isn’t there, that it made no difference.
+Was he lying? She held on to that for a moment. He was very probably lying. It was what he did. And it couldn’t matter, she told herself, because there was nothing there tomorrow but a trap with nothing in it, and the boy would not go, not for her or anybody; he knew that road. That was all quite true. She noticed that it made no difference.
 
 She had a small flat silver box for her hairpins. She put the letter in it, and touched it with the end of her wand. It went up with a little sigh. She stirred what was left with a pin, and shook it out through the crack at the bottom of the window, where it hung for a moment in the green water, and sank.
 
@@ -172,13 +170,13 @@ She stayed until her hands had stopped. Then she went up to him.
 
 ⁂
 
-He was in the chair. He had his feet on the fender and the window was open, and he was holding *A History of Magic* more or less the right way up, and he wasn’t reading it. He moved over. She got in beside him, and he put the book down.
+He was in the chair. He had his feet on the fender and the window was open, and he was holding *A History of Magic* more or less the right way up, and he wasn’t reading it. He moved over. She sat down beside him, and he put the book down.
 
 Neither of them said anything for rather a long time.
 
-It was the quietest she had ever known him. He had stopped whistling at about the weekend. He wasn’t grey, though, and he was not on the stairs; he had the look of someone who has packed. He took her hand and turned it over, and went on holding it, with his thumb lying across the palm. Now and then he breathed in, as if he were about to say something, and let it go. She could feel him thinking about tomorrow. She could feel him being pleased with it, in a tight, secret, frightened sort of way. He’d got that small grim look, of having seen the move. It was exactly the look that she could feel on her own face. It occurred to her that they must make a very pretty picture, the pair of them; sitting there in the dusk, each with a cousin in their pocket.
+It was the quietest she had ever known him. He had stopped whistling at about the weekend. He wasn’t grey, though, and he was not on the stairs; he had the look of someone who has packed. He took her hand and turned it over, and went on holding it, with his thumb lying across the palm. Now and then he breathed in, as if he were about to say something, and let it go. She could feel him thinking about tomorrow. She could feel him being pleased with it, in a tight, secret, frightened sort of way. He’d got that small grim look, of having seen the move. It was exactly the look that she could feel on her own face. They must make a very pretty picture, the pair of them; sitting there in the dusk, each with a cousin in their pocket.
 
-*It’ll be over this time tomorrow.* She nearly said it. She could have told him. She could have turned her head and said, *He’s going to be in Dorset, you idiot, I’ve seen to it, you can put away your atlas.* It would have been the greatest pleasure of her life. A day, she thought. Let it be done first. I’ll tell him when it’s done. She would tell him all of it, on the rug, with her feet up, and she’d watch his face.
+*It’ll be over this time tomorrow.* She nearly said it. She could have told him. She could have turned her head and said, *He’s going to be in Dorset, you idiot, I’ve seen to it, you can put away your atlas.* It would have been the greatest pleasure of her life. She could have told him about the letter as well. She would have had to tell him about the egg. A day, she thought. Let it be done first. I’ll tell him when it’s done. She would tell him all of it, on the rug, with her feet up, and she’d watch his face.
 
 “Malfoy,” said Harry.
 
@@ -186,7 +184,7 @@ It was the quietest she had ever known him. He had stopped whistling at about th
 
 “Will you do something? Tomorrow. Take that off the ribbon, and wear it on your finger.” He said it quite lightly, to the fire. “Just for the day. I don’t care who sees. I’d like to know it’s there.”
 
-She looked at him. She thought of several remarks. It was not at all the sort of thing that she did; there were two hundred people who took their whole view of the universe from where Lyra Malfoy did and did not wear jewellery. Then she put her free hand up to her collar, and drew out the green ribbon, and she picked the knot undone with one fingernail. It took a little while. The ring slid down into her palm, warm from her, and it weighed nothing. She put it on the fourth finger of her left hand, where she had put it when she was thirteen, and it went on as if it had never been away.
+She looked at him. She thought of several remarks. It was not at all the sort of thing that she did; there were two hundred people who took their whole view of the universe from where Lyra Malfoy did and did not wear jewellery. Then she put her free hand up to her collar, and drew out the green ribbon, and she picked the knot undone with one fingernail. It took a little while. The ring slid down into her palm, and it weighed nothing. She put it on the fourth finger of her left hand, where she had put it when she was thirteen, and it went on as if it had never been away.
 
 “There,” said Lyra. “Now you can’t say I never gave you anything.”
 
