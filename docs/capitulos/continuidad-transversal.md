@@ -418,6 +418,7 @@ En orden de lectura. Las fechas marcadas «deducida» no las da el texto: salen 
 - **66 (mayo 1996):** ver `cap-66.md`. Empieza el control; Harry propone el cebo de Sirius; Lyra sabe que Snape conoce el secreto; primer «Mine» sin broma.
 - **67 (25 may. 1996):** ver `cap-67.md`. Ron oye «She was *eleven*»; Harry le cuenta lo mínimo; Ron y Hermione se apartan de él. Solo le queda Lyra.
 - **68 (2 jun. 1996):** ver `cap-68.md`. Lyra quema la orden de ir a la mesa: «Them or me.» «You.» «Harry.» «Yours.» *Yours. L. Malfoy. Not repayable.*
+- **69 (3-6 jun. 1996):** ver `cap-69.md`. «You were missed.» Draco: «He said I would do.» «She’d do it again.» Primera mentira de amor. Lyra pide a Narcissa que aleje a Sirius: «He’d come for Regulus.» Desde aquí el narrador de Lyra dice «Harry».
 
 ## 5. Fichas vivas
 

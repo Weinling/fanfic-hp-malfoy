@@ -42,7 +42,7 @@ He looked very well. That was the first thing. She had been afraid of a good man
 
 “You weren’t there,” said Draco.
 
-She had not heard his voice for five months. It had got no deeper. It was a clear small treble, and it was quite friendly.
+She had not heard his voice, to speak to her, since January. It had got no deeper. It was a clear small treble, and it was quite friendly.
 
 “No,” said Lyra.
 
@@ -92,21 +92,21 @@ When she raised her head he was walking away from her, down the length of the Sl
 
 ⁂
 
-She took the Practical at two. She made a wineglass sing, in tune, and she Banished a pincushion through a very small hoop, and Cheered a fretful-looking toad until it lay on its back and waved. The old witch with the ear trumpet told her it was the prettiest wandwork she had seen since Dumbledore’s. It seemed that one could.
+She took the Practical at two. She made a wineglass sing, in tune, and she Banished a pincushion through a very small hoop, and Cheered a fretful-looking toad until it lay on its back and waved. The old witch with the ear trumpet told her it was the prettiest wandwork she had seen since Dumbledore’s.
 
 Afterwards she went down to the bathroom with the broken tap, because nobody used it, and held her wrists under the cold water. She looked in the glass. Her face was doing what it had been told.
 
 *He just wanted us all to come.*
 
-Nobody had been dying. There had been a sheet of notepaper, in a shaking hand, and a horn button off a child’s coat. Somebody had laid eight places and written out the invitations and sat down to see who would come, as you might tap on a glass; and they had come, every one of them, in their good clothes. They had gone in to dinner. And there had been a chair. And a boy had sat next to it, with his tie done, watching a door.
+Nobody had been dying. There had been a sheet of notepaper, in a shaking hand, and a horn button off a child’s coat. Somebody had laid eight places and written out the invitations and sat down to see who would come, as you might tap on a glass; and they had come, every one of them, in their good clothes. They had gone in to dinner.
 
-She knew about that. She knew all about that, as a matter of fact; there was nobody living who knew more. She had been eleven. She knew how long a clock could go on. There was a way that you listened to corridors. She could have told him how you did it, she could have told him what you did with your hands, and at what time you stopped telling people that they were coming, and that it got to be very quiet, and that afterwards you were a different person, and rather better at things.
+She had been eleven. She knew how long a clock could go on. There was a way that you listened to corridors. She could have told him how you did it, she could have told him what you did with your hands, and at what time you stopped telling people that they were coming, and that it got to be very quiet, and that afterwards you were a different person, and rather better at things.
 
-She tried to think how small he had been. It seemed important. She went into the room, the one she kept, with its breakfast table and the sideways light, and she looked for him going up to the Hat in September, with his feet not reaching. She knew it had happened. She had been told. There was the place on the shelf, and the clean mark in the dust. She could do him at four, with a hoop. That would have to serve.
+She tried to think how small he had been. It seemed important. She went into the room, the one she kept, with its breakfast table and the sideways light, and she looked for him going up to the Hat in September, with his feet not reaching. She knew it had happened. There it was on its shelf, a little to the left. It was a very good likeness. She could do him at four, with a hoop. That would have to serve.
 
 Very well. She turned the tap off.
 
-She would have to look at it. That was only sensible. Lyra Malfoy was a person who knew what things cost, and she had been taught to do it standing up. She had burnt a letter, on a Sunday, on a rug. She had known what she was doing. She’d said so. She had thought the bill would be sent to her; she had thought about that a good deal, on the step, with a certain grandeur, and she’d had her chin ready. It had simply not occurred to her that one could order a thing and have it charged to somebody who was eleven. *He would do.* She didn’t know for what. She didn’t know yet. There would be some use for a truthful boy. He had seen to that, with three words on a sheet of paper, and he had not even raised his voice; and he had known she’d look for the second layer.
+She would have to look at it. That was only sensible. She had burnt a letter, on a Sunday, on a rug. She had thought the bill would be sent to her; she had thought about that a good deal, on the step, with a certain grandeur, and she’d had her chin ready. It had simply not occurred to her that one could order a thing and have it charged to somebody who was eleven. He had seen to that, with three words on a sheet of paper, and he had known she’d look for the second layer.
 
 And if it were Sunday, and twenty to six?
 
@@ -150,13 +150,13 @@ He had stopped smiling. It was only for a moment. His eyes went over her face; s
 
 There was a blackbird somewhere. It was going over the same four notes.
 
-He would get up. That was what he would do; she could see it, as you can see the whole of a game. He would stop whistling. He’d go white and quiet, and he would take his hand away, and he’d say *What did you do?*, or else he wouldn’t, and he would sit there with that grey look round his eyes and go and stand on the stairs. He’d start to count. He had had three days. He had had three days, in two lives. She had never given anybody anything. She had looked. She had lent, and she had let, and she’d kept the receipts; there wasn’t a soul who had come away from her with anything they did not owe for. And it turned out that there was this one thing she had to give, and that it was three more days, or a week, of a boy eating toast.
+He would get up. That was what he would do; she could see it, as you can see the whole of a game. He would stop whistling. He’d go white and quiet, and go and stand on the stairs, and he’d start to count. He had had three days. He had had three days, in two lives. She had never given anybody anything; she had lent, and she had let, and she’d kept the receipts. And it turned out that there was this one thing she had to give, and that it was three more days, or a week, of a boy eating toast.
 
 She reached out, and put his glasses straight.
 
 “He’s perfectly all right,” said Lyra. “He had an egg. He told me I had some on my sleeve, the little beast. He’s started speaking to me again.”
 
-She saw it go in. She saw him believe it. He let out his breath, and his shoulders came down. “*Has* he?” said Harry, and that terrible, happy, lopsided grin came up over his face like the sun coming up over a gasworks. “Lyra, that’s— That’s *brilliant*. I told you. I told you he’d come round.”
+She saw it go in. She saw him believe it. He let out his breath, and his shoulders came down. “*Has* he?” said Harry, and that terrible, happy, lopsided grin came up over his face like the sun coming up over a midden. “Lyra, that’s— That’s *brilliant*. I told you. I told you he’d come round.”
 
 “You did.”
 
@@ -176,27 +176,27 @@ That was true. That was what she kept noticing. It was the truest thing she had.
 
 She did that one on the Thursday night, behind her hangings. She took her time. There was a good deal about the hem. It filled a side of second-best paper, in her neatest hand, a dutiful and rather tiresome letter from a girl in the middle of her examinations, who was sorry about Sunday, and it had a gap in it, between *your* and *obedient*, of the width of two fingers.
 
-It would be read in the south wing. She took that for granted. It would go up the back stairs on a salver and be looked at over a cup of something by somebody with very clean boots; and he might very well think of tilting it to the light. But he would not have grown up in that house. There was a thing that her mother had shown her when she was nine, about the garden door, and about lemon and the backs of seed catalogues. She laid the second skin on with her wand, and she wrote on it very small.
+It would be read in the south wing. She took that for granted. It would go up the back stairs on a salver and be looked at over a cup of something by somebody with very clean boots; and he would tilt it to the light, because he had had that morning out of her at Easter, and looked under it. So she had given him the second skin. There were six lines on it about what Harry Potter ate for breakfast, and he was welcome to them. But he had not grown up in that house. There was a thing that her mother had shown her when she was nine, about the garden door, and about lemon and the backs of seed catalogues. She pinned in a paper pattern for the hem, and she turned it over, and she wrote on the back of it very small.
 
-She had thought about it for three days. She had nothing else to think with. She could not get her brother back; she had gone through that as she would go through an account, and there was no entry anywhere. She could not even tell him what he was. Someone was going to have a use for a very truthful boy, some time, and she would not be told, and she would not be asked. Very well. But there was a date. She’d had it given to her on this very rug, by a person with a handkerchief over his nose, and she had said a thing about it, with her chin up. *We shall not have that.* Seven weeks ago she had meant it as one means things, in a chair.
+She had thought about it for three days. She could not get her brother back; she had gone through that as she would go through an account, and there was no entry anywhere. Very well. But there was a date. She’d had it given to her on a bald rug, by a person with a handkerchief over his nose, and she had said a thing about it, with her chin up. *We shall not have that.* Seven weeks ago she had meant it as one means things, in a chair.
 
-He had been very clever about the dream. She had thought so at the time. He was so sure of that road. She had seen him sit there, and she’d written it down for him in her best hand. He had said *I’ll see to that*, and she had not asked him how, and whatever he was doing, it had a boy’s handwriting all over it: it had an atlas in it, and a great many sums. Somebody was going to be standing in that Ministry on the eighteenth of June, and she did not intend it to be Sirius Black. She could do that. That she could do. There was a big untidy laughing man with his boots on a table, who was the only father Harry had got, and she was going to reach out, in her own hand, over the top of both their heads, and move him.
+He had said *I’ll see to that*, and she had not asked him how, and whatever he was doing, it had a boy’s handwriting all over it: it had an atlas in it, and a great many sums. Somebody was going to be standing in that Ministry on the eighteenth of June, and she did not intend it to be Sirius Black. She could do that. That she could do. There was a big untidy laughing man with his boots on a table, who was the only father Harry had got, and she was going to reach out, in her own hand, over the top of both their heads, and move him.
 
 It needed only somebody he would come for. He wouldn’t come for her; and he’d walk through a wall before he would come for a Malfoy. He’d spit in the owl’s eye.
 
-*Mother. Your cousin must be a long way from London on the 18th of June. I can’t tell you why. I have never asked you for anything. I know what you have round your neck. He doesn’t know how his brother died. Nobody has ever told him. Write to him. Ask him to meet you, wherever you think best, and I think you will find that you have something to show him.*
+*Mother. Your cousin must be a long way from London on the 18th of June. I can’t tell you why. I have never asked you for anything. I know what you have round your neck. He stood in that cave, and he has never had a line of it; Dumbledore kept it, and then it came to you. Write to him. Ask him to meet you, wherever you think best, and I think you will find that you have something to show him.*
 
 She read it over. She added a line.
 
 *He’d come for Regulus.*
 
-The ink sank in, and went pale, and was gone. There was nothing on the page but the hem.
+The juice sank in, and went pale, and was gone. There was nothing on the pattern but the hem.
 
 She didn’t tell Harry. She thought about that as well, and it took rather less time. *Nothing moves without asking*, she had said, on a hill, in the snow. It was a very good rule. He’d stopped keeping it some while ago, and so had she, and they had neither of them mentioned it; it lay about between them, in the room, like a good many other things that they had got used to stepping over.
 
 It wanted twenty minutes to midnight. She put on her cloak, the grey one; it had a smell of marmalade that would not come out. Goyle would not carry her letters any more. She took it up herself.
 
-She had not been to the Owlery in the dark since she was thirteen. It was a long, cold climb for June, and the stairs were slippery with what stairs in that place were always slippery with. The moon had got in at the western windows. There was straw, and a great soft shifting on all the perches, and small round eyes that opened and shut, and she stood for a moment at the head of the stairs with her hand on the wall, and got her breath; and somebody said, “Oh.”
+She had not been up to the Owlery at this hour since she was thirteen. It was a long, cold climb for June, and the stairs were slippery with what stairs in that place were always slippery with. The moon had got in at the western windows. There was straw, and a great soft shifting on all the perches, and small round eyes that opened and shut, and she stood for a moment at the head of the stairs with her hand on the wall, and got her breath; and somebody said, “Oh.”
 
 He was over by the sill. He had a white owl on his wrist, and he was in the act of tying something to its leg, with his tongue between his teeth, in his pyjamas, with a coat on over them.
 
@@ -222,7 +222,7 @@ The owl looked from one of them to the other, and shut one eye.
 
 “Give him my regards,” said Lyra.
 
-She crossed the straw, and picked out a dull-looking brown bird, a good way down from him. It took her a little while to tie the knot, because of her fingers. She carried it to the window. He had got there before her. They stood side by side at the sill, where somebody had once stood with his leg bleeding, with their shoulders just touching; and they put out their arms, at very nearly the same moment, and two owls fell away from the stone, and opened, and went off over the black trees, side by side for a little way, and then apart, without a sound.
+She crossed the straw, and picked out a dull-looking brown bird, a good way down from him. It took her a little while to tie the knot, because of her fingers. She carried it to the window. He had got there before her. They stood side by side at the sill, where somebody had once stood with his leg bleeding, with their shoulders just touching; and they put out their arms, and two owls fell away from the stone, and opened, and went off over the black trees, together for a little way, and then apart, without a sound.
 
 They watched until there was nothing to see.
 
