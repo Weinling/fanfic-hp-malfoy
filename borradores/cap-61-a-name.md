@@ -18,7 +18,7 @@ Lyra took a wafer. She had got rather used to them.
 
 “I don’t believe I know the name, Professor.”
 
-“No, why should you? Nobody does. That’s rather the idea, down there. They’re called Unspeakables, dear, which I always think is so *unfortunate*. He has applied for a transfer four times, to Magical Games of all things, and four times I have had the pleasure of retaining him. One can’t have them wandering off upstairs. He has been looking after those dreadful shelves since before you were born.” She gave her little girlish cough. “A *most* regular little man. In at nine, out at six. He lodges with his sister in Battersea. He walks home by the river on a Tuesday and a Friday, whatever the weather, because she has the Ladies’ Charms Circle, and there’s no supper, and he has a pie. I have it all in his file. I do so think that one ought to know one’s people.”
+“No, why should you? Nobody does. That’s rather the idea, down there. They’re called Unspeakables, dear, which I always think is so *unfortunate*. He has applied for a transfer four times, to Magical Games of all things, and four times I have had the pleasure of retaining him. One can’t have them wandering off upstairs. He has been looking after those dreadful shelves since before you were born.” She gave her little girlish cough. “A *most* regular little man. In at nine, out at six. He lodges with his sister in Battersea. He walks home by the river on a Tuesday and a Thursday, whatever the weather, because she has the Ladies’ Charms Circle, and there’s no supper, and he has a pie. I have it all in his file. I do so think that one ought to know one’s people.”
 
 “How very sad,” said Lyra.
 
@@ -40,7 +40,7 @@ She had three reasons. She went through them that night, behind her hangings, wi
 
 He would not mean to. He would be extremely careful. He had got a look now, for when she mentioned Umbridge, and she had seen it in the Great Hall with a jar in his hand.
 
-She lay on her back and regarded the green light moving on the ceiling. It was a strange thing. She had heard all of that before. She had heard it in an Owlery, with a great many owls looking on, from somebody who had been caught out; she had thought at the time that they were the three feeblest reasons she had ever heard in her life.
+She lay on her back and regarded the green light moving on the ceiling. It was a strange thing. She had heard all of that before. *I needed it to happen. If I’d stopped it, I’d have stopped knowing what came next.* She had heard it in an Owlery, with a great many owls looking on, from somebody who could not bear to be looked at; she had thought at the time that it was the feeblest thing she had ever heard in her life.
 
 *Nothing moves without asking.* That had been her. She had said it on a hill, with her teeth chattering.
 
@@ -68,7 +68,7 @@ In five years nobody had ever asked her that. Greer Goyle had carried things for
 
 “It’s to my father.”
 
-“I know.” Goyle’s voice was as it always was: slow and rather thick, as though it were coming up from a long way under a good dinner. “Only you’ve got the face on. You had it in November. You had it when you went to tea, that Monday, before the Hufflepuff. I don’t know what it’s for, it’s not for me to know. Vanessa says I’m not to ask you things.” She finished with the left shoe, and tied a large careful bow. She sat with her hands on her knees. “I don’t want to, Lyra.”
+“I know.” Goyle’s voice was as it always was: slow and rather thick, as though it were coming up from a long way under a good dinner. “Only you’ve got the face on. You had it in November. You had it when you went up to her, that Monday, before the Hufflepuff. I don’t know what it’s for, it’s not for me to know. Vanessa says I’m not to ask you things.” She finished with the left shoe, and tied a large careful bow. She sat with her hands on her knees. “I don’t want to, Lyra.”
 
 The lake moved on the ceiling.
 
@@ -94,7 +94,7 @@ It was a long way up to the Owlery at that time of the morning. The stairs were 
 
 That was all. The hand was rather better.
 
-It was a remarkable thing, how little difference it made. She had thought it would make some. She went up to the seventh floor that same night, it being on the timetable, and Potter had got hold of a pack of Exploding Snap from somewhere. He was very bad at that, too. They played until the fire went down, for points. He lost eleven times by her count, and he sat there singed and smelling of burnt toast, disputing the rules. She laughed. She heard herself do it; it was a perfectly good laugh, and it came in the right place. She kissed him on the singed bit, because it made him yelp. She went to sleep on his shoulder, and woke, and did up her hair.
+It was a remarkable thing, how little difference it made. She had thought it would make some. She went up to the seventh floor that same night, it being on the timetable, and Potter had got hold of a pack of Exploding Snap from somewhere. He was very bad at that, too. They played until the fire went down, for points. He lost eleven times by her count, and he sat there singed and smelling of burnt toast, disputing the rules. She laughed. She heard herself do it; it was a perfectly good laugh, and it came in the right place. She kissed him on the singed bit, because it made him yelp. She went to sleep on his shoulder, and woke, and went down to bed.
 
 “You’ve gone thin,” said Goyle, at breakfast. She was looking at her plate.
 
@@ -124,7 +124,7 @@ She read it through. It seemed to be taking a long time. There was a smell of we
 
 It came out quite well. It had a little frown in it.
 
-“He’s nobody. He’s a— He was in the Department of Mysteries. He’s one of the ones that look after the—” He sat up, and pushed his hand through his hair, and left it there. “I knew him. I met him. Not met; he was in St Mungo’s, in the other one. At Christmas. He was in the bed by the window, and he thought he was a teapot. They’d got to him. Somebody put the Imperius on him, to get him to fetch something, and it went wrong, and it took his mind. He was just starting to get better; he’d started to say a few words. And somebody sent him a plant.” He stopped. He looked sick. “I *knew* that. I’ve known that since I was eleven. I’ve got a list, I had a whole list of people, I went through it every summer. And I lost him. He’s a man with a name, he’s got a sister, and I knew they’d come for him, and it’s two years since I even thought about it. It’s been so— I’ve been—”
+“He’s nobody. He’s a— He was in the Department of Mysteries. He’s one of the ones that look after the—” He sat up, and pushed his hand through his hair, and left it there. “I knew him. I met him. Not met; he was in St Mungo’s, in the other one. At Christmas. He was in the bed by the window, and he thought he was a teapot. They’d got to him. Somebody put the Imperius on him, to get him to fetch something, and it went wrong, and it took his mind. He was just starting to get better; he’d started to say a few words. And somebody sent him a plant.” He stopped. He looked sick. “It wasn’t this. It wasn’t a Kiss. Everything’s different, it’s all gone different, and it’s still him. I *knew* that. I’ve known that since I was eleven. I’ve got a list, I had a whole list of people, I went through it every summer. And I lost him. He’s a man with a name, he’s got a sister, and I knew they’d come for him, and it’s two years since I even thought about it. It’s been so— I’ve been—”
 
 He looked round at the fire, and the timetable, and the bald rug. He looked at the sheets of paper with their hot-water bottle, and then, and it was very quick, at her. She saw him decide not to finish that.
 

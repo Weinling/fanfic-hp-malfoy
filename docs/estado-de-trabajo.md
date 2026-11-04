@@ -8,7 +8,7 @@
 
 - **Escrito:** del 1 al 57, con *Year One* 1 a 6, *Year Four* 1 y dos interludios. **Publicado hasta el 37.**
 - **Orden de lectura desde el 41:** 41, Interludio 2, 42, 43, *Year One* 5 y 6, 44 a 52, *Year Four* 1, 53, 54, 55…
-- **Tanda en curso:** `borradores/guion-tanda-55-72.md`, aprobada. Hechos y criticados del 55 al 59.
+- **Tanda en curso:** `borradores/guion-tanda-55-72.md`, aprobada. Hechos y criticados del 55 al 61.
 - **El 39 está cerrado** por el autor.
 
 ## En marcha
@@ -18,7 +18,7 @@
 
 ## Siguiente paso exacto
 
-1. Escribir el 60, *Furniture*, con los avisos del §3 del guion y la decisión §7 (el otro Harry perdió).
+1. Escribir el 62, *The List*, con los avisos del §3 del guion.
 
 ## Pendiente, sin urgencia
 

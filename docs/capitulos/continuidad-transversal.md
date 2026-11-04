@@ -405,6 +405,8 @@ En orden de lectura. Las fechas marcadas «deducida» no las da el texto: salen 
 
 - **60 (17-20 feb. 1996):** ver `cap-60.md`. **Snape sabe todo** y vio el final de la memoria de Harry. «Did it serve?» «I don’t know. It stops.» Primera vez que los dos se ocultan algo tras el 57. Pettigrew a Voldemort: «the boy knew»; estuvo en el séptimo piso.
 
+- **61 (2-17 mar. 1996):** ver `cap-61.md`. Primer informe verdadero: Bode. Goyle se niega a llevar la carta. Bode recibe el Beso el 14; Harry se culpa y Lyra le deja.
+
 ## 5. Fichas vivas
 
 Al final del 57.
