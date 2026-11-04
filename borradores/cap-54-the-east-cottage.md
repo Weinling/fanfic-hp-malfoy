@@ -144,6 +144,12 @@ She stayed by the door. Her grandfather had been here while they spoke of him as
 
 *Never felt better in his life.* She looked at the steady hands and the nearly healed marks. She thought of a cure, and of what he might have promised to get it.
 
+Her eyes had gone to the table, because it was easier than his face. Beside the chessmen lay a long narrow book with its lock hanging open. She knew the binding. It had stood on the low shelf in her father’s study for as long as she could remember, and Pobble dusted it on Thursdays. It lay open somewhere near the middle: two columns of names, in brown ink and black and a rusty colour that was neither, in a great many hands, going back and back; and some of the names had a line ruled through them, very straight.
+
+The old man did not turn his head. He put out one long finger and shut it, and the lock closed by itself with a small dry click.
+
+“Everybody who ever owed us anything,” he said.
+
 “You’ll want to know,” said Abraxas Malfoy, “a great many things. I imagine you will ask them all. You have your father’s habit of the question next to the one you want answered; I taught it him. But not tonight.” He looked down, at last, at the box in his lap. “Tonight your brother has brought me a present, and I should like to see it.”
 
 “It’s the thing on the list,” said Draco, recovering. “I found it. Behind the wall. You walk past three times and think about hiding things, and a door comes, and inside it’s *enormous*, Grandfather, it’s like a cathedral made of junk, there’s everything, there’s a stuffed troll, and I found the bust with the wig, like you said, and it was on its head, and I didn’t tell *anybody*—”

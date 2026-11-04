@@ -150,7 +150,7 @@ She took it. Her gloves were too thick; she took them off, and held the little s
 
 “This doesn’t change that.”
 
-“I know. It isn’t for that. It isn’t for anything.” He put his hands in his pockets, in the snow. “It isn’t on anybody’s account, Lyra. It’s just your mum’s.”
+“I know. It isn’t for that. It isn’t for anything.” He put his hands in his pockets, in the snow. He had taken to doing that whenever she was within reach; he had been doing it for a month. “It isn’t on anybody’s account, Lyra. It’s just your mum’s.”
 
 She put the paper inside her robes, against her ribs, where she had once carried her mother’s postscript for fourteen months.
 
@@ -172,7 +172,19 @@ She thought about that. It was not much of an answer. It was, she suspected, the
 
 “Well. I hope somebody made a great deal of money on it.”
 
-He laughed. It came out of him in a surprised white cloud in the cold air, the real one she remembered from March; and he stopped it almost at once, as though he had not meant to, and looked at her over it.
+He laughed. It came out of him in a surprised white cloud in the cold air, the real one, that she had not heard since the sixth floor; and he stopped it almost at once, as though he had not meant to, and looked at her over it. His hands stayed where they were. She understood that he would stand there until the snow had covered him before he took them out.
+
+She was very cold, and it was nearly Christmas, and there was nobody on the lane.
+
+She took one step, and put her forehead against the front of his robes.
+
+It was only for a moment. She felt him stop breathing. He smelled of wet wool and Weasley’s crumpets. Nothing about him moved, not an inch, and she could feel through the cloth what that was costing him; it was like leaning on a door with somebody holding it from the other side.
+
+She stood up straight, and put on her gloves.
+
+“That didn’t count,” said Lyra.
+
+“No,” said Potter. There was hardly any sound in it.
 
 She turned and went up the lane after the others.
 

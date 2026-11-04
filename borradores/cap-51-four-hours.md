@@ -42,11 +42,11 @@ It crossed the room, and it hit her where he had sent it. Her chin moved, once. 
 
 “August,” said Hermione. She had to stop and start again. “I did the washing at Grimmauld Place, on the Friday, because Mrs Weasley had the drawing room to do. You always leave things in your pockets.”
 
-There was an envelope stuck in at the yellow tab. She took it out, and laid what was in it on the desk between them, one, two, three, and squared them up. They had been through the wash. They had gone soft and furry at the edges, and the print had faded to the colour of old dishwater, but you could read it. *Odeon. Holloway Rd.* And the Thursday.
+There was an envelope stuck in at the yellow tab. She took it out, and laid what was in it on the desk between them, one, two, three, and squared them up. They had been through the wash. They had gone soft and furry at the edges, and the print had faded to the colour of old dishwater, but you could read it. *Odeon. Holloway Rd.* And the Thursday. Two of them had been torn across at the door. The third had not.
 
 Harry looked at them.
 
-“You bought three,” said Hermione. “You stood on the stairs and told Ron to get the Cleansweep. You said *well done*, you’d practised it, I could see you’d practised it, and you went and stood by the stove with your toast. And you’d bought *three*, Harry. You never said anything.” Her eyes had filled. She was looking straight at him, and it was running down beside her nose, and she did not do anything about it at all. “I’ve been trying to work out how to say sorry since August. I can’t. I’ve tried it a lot of ways. So I’ve brought sandwiches.”
+“You bought three,” said Hermione. “You stood on the stairs and told Ron to get the Cleansweep. You said *well done*, you’d practised it, I could see you’d practised it, and you went and stood by the stove with your toast. Then you went with Sirius, and I thought that was nice. And you’d bought *three*, Harry. You never said anything.” Her eyes had filled. She was looking straight at him, and it was running down beside her nose, and she did not do anything about it at all. “I’ve been trying to work out how to say sorry since August. I can’t. I’ve tried it a lot of ways. So I’ve brought sandwiches.”
 
 There was a very long silence. Far down below the window somebody blew a whistle.
 
