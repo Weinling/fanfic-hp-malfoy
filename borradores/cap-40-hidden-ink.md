@@ -222,7 +222,7 @@ Lyra waited.
 
 “I’ve been at this thirty years,” he said. “I took you for your father’s errand girl. I took that boy of yours for a fool. And I took Barty Crouch for the only honest man in the Ministry.” He shifted his weight on to the wooden leg. “Three for three.”
 
-It was not an apology. She inclined her head to it, very slightly, as she would have to a duellist who had bowed.
+She inclined her head to it, very slightly, as she would have to a duellist who had bowed.
 
 “One thing more,” said Moody. He leaned closer; she could smell the flask. “Your father. Is he marked?”
 

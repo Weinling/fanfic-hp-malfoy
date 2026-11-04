@@ -18,6 +18,8 @@ He had folded it shut again. Hermione had been sitting on the next bed with a bo
 
 Hermione had not said anything. She had gone on looking at the wand.
 
+It had reached him at half past nine in the morning. He had taken it to Dumbledore at six. *We were an hour too late*, Moody had told him, and Harry had nodded, and had not mentioned what he had been doing with the other eight hours, which was lying on his back in the hospital wing with a shortbread tin on his chest.
+
 Nobody, in either of his lives, had ever sent him anything hidden. He lay on Dudley’s spare bed in the July heat, with the window open on the smell of cut grass and somebody’s barbecue, and thought about that, and then made himself stop.
 
 He came back to Privet Drive because he had to. Whatever his mother had done still held, in his aunt’s blood and in this ugly house, and it held until he was seventeen and not a day after; Dumbledore had told him so in both lives, in very nearly the same words.
@@ -56,7 +58,7 @@ On the thirty-first of July he was fifteen, and nobody at Number Four mentioned 
 
 Two owls came in the morning, to the window of the second bedroom, while Aunt Petunia was hoovering the landing: Errol, with a letter from Ron that was mostly about the Chudley Cannons and said *Hermione says* four times, and a squashed slab of Mrs Weasley’s fudge, and a smart little brown owl from Hermione with a book about Defensive magical theory and a card that said *Don’t do anything stupid, I mean it*. Nothing came from Wiltshire. He had not expected anything to come from Wiltshire. He looked at the window for some time after the brown owl had gone, all the same.
 
-There was a road atlas in the second bedroom, one of Dudley’s, with a coffee ring on Hampshire. It was seventy-four miles from Privet Drive to the place in Wiltshire where the page went green and nothing was marked. He knew that because he had measured it, with the edge of an envelope. On a Firebolt, in still air, it was about an hour and twenty. Against the wind it was nearer two. He had not asked himself why he knew what it was against the wind.
+There was a road atlas in the second bedroom, one of Dudley’s, with a coffee ring on Hampshire. It was seventy-four miles from Privet Drive to the place in Wiltshire where the page went green and nothing was marked. He knew that because he had measured it, with the edge of an envelope. On a Firebolt, in still air, it was about forty minutes. Against the wind it was nearer an hour. He had not asked himself why he knew what it was against the wind.
 
 Some days he wanted to go there and break something. He had a speech. He had several; he had spent most of July on them, lying on the bed with his shoes on, and they were very good. They began with *Never own a Malfoy*, in her voice, in his head, and what he had to say about people who stood in the straw with their chins level and told you so. And all of them came out in the same place, with him hearing himself say *Who came?*, and watching it go in. He had known just where it was. She had given it to him herself, at midnight, when she was eleven. He had looked for the worst thing he owned, and it had been there, ready, like a wand in the hand.
 
@@ -64,11 +66,11 @@ And he had been the one who came. That was the joke. He had very nearly told her
 
 On the other days he only wanted to know whether she had had any breakfast.
 
-*It was always going to be them.* He had known that. She was quite right. Everybody had somebody who came first; it was how people worked. Ron had Hermione, whether he knew it yet or not, and Sirius had a dead man with the same hair, and Harry had always rather assumed that it was the sort of thing that happened to other people, like Christmas.
+*It was always going to be them.* He had known that. She was quite right. Everybody had somebody who came first; it was how people worked, and Harry had always rather assumed that it was the sort of thing that happened to other people, like Christmas.
 
 In the evening he went out, because the house was full of the television and Uncle Vernon was in a temper about the price of petrol, and walked to the park at the end of Magnolia Crescent, and sat on the one swing the gang had not broken, and thought about the second of August.
 
-He had sat on this swing at ten. He knew he had, as one knows the date of a battle. He could remember the boy’s shoes, which had been Dudley’s, and that the chain had pinched. He could not remember what it had been like to be him. There was less of that every year, and he had stopped mentioning it to himself.
+He had sat on this swing at ten. He knew he had, the way you know the date of a battle. He could remember the boy’s shoes, which had been Dudley’s, and that the chain had pinched. He could not remember what it had been like to be him. There was less of that every year, and he had stopped mentioning it to himself.
 
 It was very warm. The streetlamps had come on, orange, along the edge of the park. Somewhere a dog was barking. Two days, and then the alleyway, and the cold, and Dudley on his knees on the tarmac; he had been through it so often that it felt less like a thing that would happen than a thing he had to remember to do, like a dentist’s appointment.
 
@@ -138,7 +140,7 @@ Harry knew. Dumbledore had told him last summer, in his office, with Fawkes asle
 
 Harry drank his tea, and looked back, and did the other count. He had not wanted to. It came anyway.
 
-June. A year, near enough. A room full of arches, and a veil that moved without any wind.
+June. Ten months. A room full of arches, and a veil that moved without any wind.
 
 He knew the date. He had known it since he was eleven. He had always meant, when he got to it, to do something about it; and he had always had a year at least, and the board under his hands, and a good idea of where every piece would be. He looked at his godfather across the kitchen table, laughing at something Moody had said about the portrait, and thought: *I knew the date of the Dementors as well.*
 

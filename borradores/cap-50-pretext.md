@@ -26,7 +26,7 @@ Outside the door, she could hear the stands filling, a great low roar like the s
 
 ⁂
 
-It was the first Saturday of November, cold and bright, with a high thin wind that came off the lake in gusts and set every banner in the stands cracking like a whip. The whole school was out. The Slytherin stand was a wall of green and silver; somebody had brought a great silk serpent that writhed along the front of it on poles. And at the Gryffindor end, in front of the left-hand goal, very tall and very red about the ears, Weasley hung in the air on a borrowed broom, guarding the hoops for the first time in his life.
+It was the first Saturday of November, cold and bright, with a high thin wind that came off the lake in gusts and set every banner in the stands cracking like a whip. The whole school was out. The Slytherin stand was a wall of green and silver; somebody had brought a great silk serpent that writhed along the front of it on poles. And at the Gryffindor end, in front of the left-hand goal, very tall and very red about the ears, Weasley hung in the air on a broom with the shine still on it, guarding the hoops for the first time in his life.
 
 The Slytherins had a song.
 
@@ -72,7 +72,7 @@ Lyra stopped. She had her broom over her shoulder and her father’s letter up h
 
 “*Harry* won. I let in four.” His voice cracked on it. “Your lot made sure of that. That song. You heard it. You were right *above* it. You could’ve—”
 
-“I don’t write songs. I leave that to people with time on their hands. You might try it yourself. It would give you something to do in the evenings, now that your family can’t afford to go out.”
+“I don’t write songs. I leave that to people with time on their hands. You might try it yourself. It would give you something to do in the evenings. I’m told they’re very long at the bottom of the league.”
 
 It came out quite easily, in the same voice as the sixth-year in the common room. Weasley’s hand went to his wand.
 
@@ -172,7 +172,7 @@ By the Sunday morning she had looked at it from the other side.
 
 She needed to have done something. It had to be real, and it had to have cost somebody, and there had to be a letter about it on her father’s desk by the first of December.
 
-There was Diggory’s group. She looked at that for some time and put it back. It would bring the castle down on half the sixth year, and she might yet need it.
+There was Diggory’s group, which two sixth-years had been arguing about on the stairs. She looked at that for some time and put it back. It would bring the castle down on half the sixth year, and she might yet need it.
 
 And there was what Crabbe had told her on the Friday, in the dormitory, in her low reasonable voice, looking at the floor. Her cousin again. One of the Hufflepuff boys had started keeping a list: who had been in that office, and for how long, and what was on their hands. He had nine names so far. When it was long enough he meant to send it to the Governors. *I just thought you’d want to know*, Crabbe had said, and had very nearly smiled. *Being a prefect.* She had seen the jar. She thought she knew which side of this Lyra was on.
 
@@ -224,7 +224,7 @@ Lyra finished the wafer. She ate all of it. It seemed that one could.
 
 He came on the Wednesday, and on the Thursday. By the Wednesday he was holding the quill in his fist. By the Thursday he had to lift it with his other hand and fit it between his fingers, and when it dripped on the pink cloth he said “Sorry,” quite quietly, to the cloth. There was a perfectly good third shelf in the Potions storeroom. She walked past the door twice. It would have gone in the book, in her hand, and there was a woman with a black bow sitting eighteen inches from her elbow, and she had told the only other person in the world who knew about that shelf to keep the jar.
 
-At six o’clock Umbridge took the quill away herself, out of fingers that had stopped closing on it, and said she really thought that it had sunk in.
+At six o’clock Umbridge took the quill away herself, out of fingers that had stopped closing on it, and said she really thought it had sunk in.
 
 ⁂
 
@@ -290,7 +290,7 @@ She saw that reach him. He had not known; of course he had not known. It went ac
 
 “You should’ve told me.”
 
-“So that you could do what? Keep me safe inside it?” Her voice had begun to shake, and she flattened it. “You wanted the north. You said *please*. I gave it to you, and this is what it cost, and it has a name, and it’s in Hufflepuff. What did you think it cost? Did you suppose that it was free?”
+“So that you could do what? Keep me safe inside it?” Her voice had begun to shake, and she flattened it. “You wanted the north. You said *please*. I gave it to you, and this is what it cost, and it has a name, and it’s in Hufflepuff. What did you think it cost? Did you suppose it was free?”
 
 “Don’t you put that on me.”
 

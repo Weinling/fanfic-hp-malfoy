@@ -14,7 +14,7 @@ That was the whole art of it, he said, and it was the hardest thing she had ever
 
 She had furnished a room for it. She had worked on the room all week. A breakfast table at the Manor, with the light coming in sideways and her father reading the financial pages. A Quidditch match, last year, the wind in her hair. Draco, at the Sorting, with the Hat over his eyes. A boy she had quarrelled with, in a corridor on a train, and her own voice saying *sit down, Potter*, and a small mean pleasure at having said it, which was true, and which she had polished up a little, to make it shine. An Arithmancy test she was worried about. A dress her mother had promised her for Christmas. All of it real. All of it chosen.
 
-The hand walked about in the room. It picked things up and put them down. It looked at the dress for a long time, which she thought was a little unnecessary.
+The hand walked about in the room. It picked things up and put them down.
 
 Then it stopped.
 
@@ -42,15 +42,15 @@ She went up the dungeon steps with her head ringing and her hands quite cold, an
 
 ⁂
 
-She stopped pushing the jar on the last Wednesday of his detentions.
+She stopped reading her Arithmancy on the Wednesday.
 
-She had pushed it for nine days, an inch at a time, across Professor Umbridge’s desk, without looking up. On the Wednesday the hour ended and he put down the quill, and he took off the bandage to look at what was under it, and she saw what he had been doing to it, with his left hand, in a dormitory, by himself.
+He had kept the jar, as instructed, and he had been looking after the hand himself. On the Wednesday the hour ended and he put down the quill, and he took off the bandage to look at what was under it, and she saw what he had been doing to it, with his left hand, in a dormitory, by himself.
 
 “Give me that,” said Lyra.
 
-She came round the desk. She pulled the little pink chair out from under the window, and sat down on it, knee to knee with him, and took his right hand in both of hers and turned it to the light.
+She came round the desk. She held out her hand for the jar. She pulled the little pink chair out from under the window, and sat down on it, knee to knee with him, and took his right hand in both of hers and turned it to the light.
 
-He had held hers like that once, in the brambles behind the Shack, to stop it shaking. She did not suppose that he remembered. She took the stopper out of the jar with her teeth.
+He had held hers like that once, in the brambles behind the Shack, to stop it shaking. She did not suppose he remembered. She took the stopper out of the jar with her teeth.
 
 “It’s fine,” said Potter.
 
@@ -85,6 +85,8 @@ She tied it off, rather hard. Then she held on to it for a moment longer than th
 “Thank you,” said Potter.
 
 “Don’t you dare,” said Lyra.
+
+She did it every evening after that, for nine days, until the detentions ran out. He did not say it again. She noticed that she had begun to listen for it.
 
 ⁂
 
@@ -156,7 +158,7 @@ But he was not asking her for her family. He was asking her for *him*. For the t
 
 Potter went very still.
 
-“It’s on the coast of Northumberland. North of Alnwick. Not in any register in this country; my father saw to that, a long time ago, and I imagine his father saw to it before him. I have been there once. I was seven. We went by Portkey, from the study, and I never saw the road, so I can’t tell you how to get there and I shouldn’t, if I could.” She held his eyes. “In June, in this room, after you had sworn, Karkaroff had said to me, that same evening, on his ship, that he had done everything the letter asked. And that when they were all together *in the north*, he hoped he would be remembered.” She stopped. “That was what I didn’t tell you. That was the lie.”
+“It’s on the coast of Northumberland. North of Alnwick. Not in any register in this country; my father saw to that, a long time ago, and I imagine his father saw to it before him. I have been there once. I was seven. We went by Portkey, from the study, and I never saw the road, so I can’t tell you how to get there and I shouldn’t, if I could.” She held his eyes. “In June, in this room, you asked me what Karkaroff wanted, and I said *Nothing*. He had told me that same evening, on his ship, that he had done everything the letter asked. And that when they were all together *in the north*, he hoped he would be remembered.” She stopped. “That was what I didn’t tell you. That was the lie.”
 
 The moonlight lay on the floor between them.
 
@@ -226,9 +228,9 @@ She went to the door. At the door she stopped, as she always stopped at doors in
 
 “I won’t.”
 
-She stood with her hand on the door for about as long as it took to know that he was lying.
+She stood with her hand on the door for about as long as it took to know he was lying.
 
-Then she came back across the room. She had hold of him by the front of his robes before he had got his mouth shut, and she kissed him as she would have slammed something, and he made a noise in his throat and his bandaged hand came up and stopped an inch from her hair and stayed there. It was the first time since June that she had gone back for anything.
+Then she came back across the room. She had hold of him by the front of his robes before he had got his mouth shut, and she kissed him as she would have slammed something, and he made a noise in his throat and his marked hand came up and stopped an inch from her hair and stayed there. It was the first time since June that she had gone back for anything.
 
 “Liar,” said Lyra, against his collar.
 
@@ -248,6 +250,6 @@ At breakfast the next morning Draco was telling Urquhart’s little brother abou
 
 He looked down the table, and saw Lyra looking at him, and went red, and changed the subject to Quidditch with great speed.
 
-Lyra ate her toast. She had given Potter the north and kept Draco’s list from him.
+Lyra ate her toast.
 
 At the end of the table Draco was waving his spoon, with his tie on crooked and the list folded against his heart. She took out her book of rounds and moved that evening’s visit to the seventh floor forward by half an hour.

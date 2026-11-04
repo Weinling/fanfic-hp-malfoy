@@ -108,11 +108,11 @@ There was no deciding. It was not like the Imperius, where there had been a voic
 
 He looked at her for some time before he spoke.
 
-“So,” he said. “I said once that you had a natural defence. I did not finish the sentence. I shall finish it now.” He took his hand off the desk. “You have a natural defence of the mind, Miss Malfoy, of a kind I have seen perhaps three times in thirty years. And it is going to kill you.”
+“So,” he said. “I said once that you had a natural defence. I did not finish the sentence. I shall finish it now.” He took his hand off the desk. “You have a natural defence of the mind, Miss Malfoy, of a kind I have seen perhaps three times in twenty years. And it is going to kill you.”
 
 Lyra said nothing.
 
-“You shut the door. Very fast, and very hard, and I am on the other side of it. Admirable. And now I know that there is a door, and that there is something behind it that you did not want me to see.” He leaned forward. “There is a man who will look into you one day, as I have just looked. Not this year, perhaps. But he will. You will be standing in a room with your father beside you, and he will look at you as he looks at everybody, for something to use; and you will feel him come in, and you will shut the door, beautifully, in his face. And he will know, in that instant, exactly what you are.”
+“You shut the door. Very fast, and very hard, and I am on the other side of it. Admirable. And now I know there is a door, and that there is something behind it that you did not want me to see.” He leaned forward. “There is a man who will look into you one day, as I have just looked. Not this year, perhaps. But he will. You will be standing in a room with your father beside you, and he will look at you as he looks at everybody, for something to use; and you will feel him come in, and you will shut the door, beautifully, in his face. And he will know, in that instant, exactly what you are.”
 
 The fire had burned down. Lyra could hear it ticking in the grate.
 
@@ -208,7 +208,7 @@ That was what she could not forgive. She had been insulted by experts. She had b
 
 It was exactly what she had told him to do. She noted that. She had told him so in June, at some length, and he was doing it very well.
 
-It was a curious thing, to miss somebody who was sitting in the same room. She had not known that one could. All summer she had supposed that it was the distance. She knew now that it was forty feet, and nineteen stairs, and two classrooms on a Thursday, and she woke at some dead hour every night under the green water with her whole chest pulling upwards, towards a tower, like a tooth; and in the morning she did her hair, and went up to breakfast, and did not turn her head.
+It was a curious thing, to miss somebody who was sitting in the same room. She had not known that one could. All summer she had supposed it was the distance. She knew now that it was forty feet, and nineteen stairs, and two classrooms on a Thursday, and she woke at some dead hour every night under the green water with her whole chest pulling upwards, towards a tower, like a tooth; and in the morning she did her hair, and went up to breakfast, and did not turn her head.
 
 Her father wrote that old Mr Nott had asked to be remembered to her, and that Theodore had grown. He had, rather. He had a long clever face and very clean hands, and he had played chess with her through the whole of last November without once saying anything foolish. That same Monday she allowed him to carry her bag up from the dungeons. She allowed it at about ten to eight, by way of the Great Hall, down the whole length of the Gryffindor table. He said something about the Goblin Rebellions, and she laughed; and she considered it, and she laughed again.
 
@@ -226,7 +226,7 @@ It was ten to one. There was a moon, and he had his feet up on the far side of t
 
 “I have a badge.”
 
-“I can see that. It’s very shiny.” He considered her. “You’re early. It’s usually five to, on a Tuesday.”
+“I can see that. It’s very shiny.” He considered her. “You’re early. You were five to, last night.”
 
 She stopped a few feet off, and looked down at him for some time. He had been told about that. He had been told about it on a staircase in June, at length, with clauses.
 
@@ -236,7 +236,7 @@ She stopped a few feet off, and looked down at him for some time. He had been to
 
 It was the first thing he had said to her in eleven days that had not been about powdered root. She waited until she was sure of the sensation, which seemed to be going on somewhere behind her breastbone, and which she had no intention of giving him.
 
-“So you do have eyes,” said Lyra. “I had wondered. You have been so very civil, Potter. I thought that you had had a stroke.”
+“So you do have eyes,” said Lyra. “I had wondered. You have been so very civil, Potter. I thought you had had a stroke.”
 
 “Is there something the matter with his arms?”
 
@@ -266,13 +266,13 @@ He turned his head at that, and looked at her properly, and it went through her 
 
 “I know you can.”
 
-“Don’t imagine that I won’t.”
+“Don’t imagine I won’t.”
 
 “I don’t,” said Potter; and he smiled.
 
-She had not seen it since March, and she would have liked it put on record that she was still extremely angry. It was not the one he kept for the Great Hall. It started at one corner and went crooked, and it had no business whatever on a face that thin at that hour of the night, in front of a person who had sent it a tin; he had asked her once whether he might do that in front of her, on a broomstick, and she had told him, and she could remember precisely what she had said.
+She had not seen it since March, and she would have liked it put on record that she was still extremely angry. It was not the one he kept for the Great Hall. It started at one corner and went crooked, and it had no business whatever on a face that thin at that hour of the night, in front of a person who had sent it a tin.
 
-He got down off the sill. He was taller than he had been in June. She could not have told anybody afterwards which of them crossed the last of the floor; she only knew that she had hold of a handful of tartan dressing gown, and that it was quite short, and not at all sensible, and that he kept his right hand in his pocket the whole time, which she thought was very like his cheek.
+He got down off the sill. He was taller than he had been in June. She could not have told anybody afterwards which of them crossed the last of the floor; she only knew she had hold of a handful of tartan dressing gown, and that it was quite short, and not at all sensible, and that he kept his right hand in his pocket the whole time, which she thought was very like his cheek.
 
 She stepped back. She put her badge straight, and then her hair, and she looked at a suit of armour until she was certain of her voice.
 

@@ -2,7 +2,7 @@
 
 Crabbe did not want to go home for Christmas.
 
-She said so on the first Sunday in December, in the dormitory, with the list for the holidays pinned to the noticeboard downstairs and her name not on it; and she said it to the window, where the lake went past green and slow and full of the shadows of things, and not to Lyra.
+She had not sat at Lyra’s end of the table since a Friday in November. She said so on the first Sunday in December, in the dormitory, with the list for the holidays pinned to the noticeboard downstairs and her name not on it; and she said it to the window, where the lake went past green and slow and full of the shadows of things, and not to Lyra.
 
 “My dad was there,” said Crabbe. “In June. The night of the Third Task. At the house.”
 
@@ -28,9 +28,17 @@ Crabbe looked round from the window at last.
 
 “It’s nothing. A line of ink. I’ll say you’ve a great deal of Arithmancy to catch up on, which you have, and that your mother wrote to me to ask, which she didn’t.” She picked up the brush again. “And I shall come back on the second, before the others, and you can tell me what the castle is like with nobody in it. I stayed here at Christmas in first year. It was very quiet. You’ll hate it.”
 
-Crabbe did not laugh. She sat on the end of Lyra’s bed and looked at her for a long time, with her slow, careful, thorough look, as though she were reading a page she wanted to remember; and then she reached out, quite deliberately, and took the hairbrush out of Lyra’s hand, and began to brush Lyra’s hair for her, the long strokes, from the crown down, as Lyra’s mother’s maid had done when Lyra was small.
+Crabbe did not laugh. She stood by the bedpost and looked at her for a long time, with her slow, careful, thorough look, as though she were reading a page she had read before and wished to check.
 
-Neither of them said anything for an hour. Lyra let her.
+“This isn’t anything,” said Crabbe. “I needed a signature.”
+
+“I know.”
+
+“I’m not telling you anything else. Ever. Not about anybody’s cousin.”
+
+“No,” said Lyra.
+
+Crabbe nodded. She went back to the window. They stayed like that for an hour, one at each end of the room, and it was the most company Lyra had had since the middle of November.
 
 ⁂
 
@@ -60,7 +68,7 @@ The loops went round smooth and sure, to the very ends of the letters.
 
 *He used to spill his tea*, Draco had said, at breakfast, in July. *His hands went like this. They don’t now.*
 
-The list lay beneath the sealing wax, folded small. She unfolded it. Three passes. A place for hiding things. The bust with the wig. With the whole drawing visible, the thing at the bottom was plainly a crown.
+She lifted the box an inch. It weighed what an empty box weighs. He had sealed it anyway, to be ready, as he had packed for Hogwarts in June. The list lay under the stick of wax, folded small; he must take it off for Herbology, for fear of the smell. She unfolded it. Three passes. A place for hiding things. The bust with the wig. With the whole drawing visible, the thing at the bottom was plainly a crown.
 
 She copied the directions and the label into the back of her book of rounds. Then she looked at the seal. Draco would notice if she tore the parchment, and he would ask her before he asked anybody else. Whatever she told him, it would go back to the gentleman. *Somebody in your family looked.*
 
@@ -72,11 +80,11 @@ On her way out she confiscated the sock, for form’s sake, and dropped it in th
 
 The last Hogsmeade weekend of term was the second Saturday in December, and it snowed.
 
-It had been snowing since dawn, big soft flakes coming down out of a white sky with no wind behind them, so that the whole village looked like something out of the lid of a chocolate box: the roofs gone thick and round, the windows lit gold at eleven in the morning, the High Street a trodden river of brown slush between two banks of white. Lyra walked down it with Crabbe and Goyle, in her best grey cloak and the scarf her mother had sent to replace the one she had not got back, and did not look in at the window of the Three Broomsticks as they passed it.
+It had been snowing since dawn, big soft flakes coming down out of a white sky with no wind behind them, so that the whole village looked like something out of the lid of a chocolate box: the roofs gone thick and round, the windows lit gold at eleven in the morning, the High Street a trodden river of brown slush between two banks of white. Lyra walked down it with Goyle, and with Crabbe two paces behind, which was where Crabbe walked now, in her best grey cloak and the scarf her mother had sent to replace the one she had not got back, and did not look in at the window of the Three Broomsticks as they passed it.
 
 Goyle wanted to go in. Goyle wanted butterbeer, and warmth, and to sit down, and said so for the length of the High Street and back, until Lyra gave in out of exhaustion.
 
-It was packed. The only table with room at it was a long one in the corner by the fire, where three people were already sitting. One of them had red hair.
+It was packed. At the table by the door a long mild Hufflepuff was lifting his butterbeer with his left hand. She went past it. She was getting rather good at that. The only table with room at it was a long one in the corner by the fire, where three people were already sitting. One of them had red hair.
 
 Lyra stopped in the doorway.
 
@@ -122,13 +130,11 @@ He saw her see it. He left his scarf where it was, and said nothing. He looked a
 
 Lyra put the salt down.
 
-“That’s *ours*,” said Goyle, of the crumpets, to Weasley, with her mouth full.
-
 ⁂
 
 He caught her up outside, in the snow, at the bottom of the High Street, where the houses stopped and the lane went on white towards the Shrieking Shack and the hills.
 
-Crabbe saw him coming, and took Goyle by the sleeve, and went on ahead without a word, as Crabbe always did.
+Crabbe saw him coming, and took Goyle by the sleeve, and went on ahead without a word, without looking at Lyra.
 
 “I’ve got something for you,” said Potter. “For your mother.”
 
@@ -153,6 +159,22 @@ She took it. Her gloves were too thick; she took them off, and held the little s
 “I know. It isn’t for that. It isn’t for anything.” He put his hands in his pockets, in the snow. He had taken to doing that whenever she was within reach; he had been doing it for a month. “It isn’t on anybody’s account, Lyra. It’s just your mum’s.”
 
 She put the paper inside her robes, against her ribs, where she had once carried her mother’s postscript for fourteen months.
+
+“That’s my button,” said Lyra.
+
+“Yeah.”
+
+“You went under a floor for it. There are rats under that floor.”
+
+“Three.” He looked at his boots. “It still works.”
+
+“It is *mine*, Potter.”
+
+She heard it go. So did he. He did not smile; she watched him not do it. His hands stayed in his pockets.
+
+“I know,” said Potter. “You can have it back whenever you like.”
+
+She did not hold out her hand.
 
 She ought to have gone, then. Crabbe and Goyle were small dark shapes a long way up the lane already. She stood in the snow with the warmth of the folded paper against her ribs and her gloves in her hand, and asked him, instead, the thing she had been carrying since June and had never once asked, because she had not been sure she wanted the answer.
 

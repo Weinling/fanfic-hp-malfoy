@@ -4,7 +4,7 @@ The Hogwarts owls came on a Tuesday in August, two of them together, and Draco h
 
 “That’s *mine*,” he said. “That one’s mine. Lyra, that’s mine, the big one—”
 
-It was not the big one. The big one, a tawny school owl with an air of having flown a great deal further than it liked, came down on Lyra’s side of the table and stood on the toast rack, and the small brown one went to Draco, who did not mind in the least, since it had his name on it in green ink. *Mr D. Malfoy, The Second Bedroom on the Left, Malfoy Manor, Wiltshire.* He had been waiting for that envelope since the night of his birthday, in June, when he had sat up until two in the morning in case it came early, and he held it in both hands now and did not open it, as though opening it might make it a little less his.
+It was not the big one. The big one, a tawny school owl with an air of having flown a great deal further than it liked, came down on Lyra’s side of the table and stood on the toast rack, and the small brown one went to Draco, who did not mind in the least, since it had his name on it in green ink. *Mr D. Malfoy, The Second Bedroom on the Left, Malfoy Manor, Wiltshire.* He had been waiting for that envelope since the night of his birthday, in July, when he had sat up until two in the morning in case it came early, and he held it in both hands now and did not open it, as though opening it might make it a little less his.
 
 “Open it, darling,” said their mother.
 
@@ -14,7 +14,7 @@ Lyra’s was heavier. She knew why before she had broken the seal; there was som
 
 A badge. Silver, with a serpent on it, and a large P.
 
-There was a note from Professor McGonagall in her square, unhurried hand, which said the usual things about responsibility and example; and folded inside it, a second note, much shorter, in a hand Lyra had seen at the bottom of three years of essays and never once at the top of a letter.
+There was a note from Professor McGonagall in her square, unhurried hand, which said the usual things about responsibility and example; and folded inside it, a second note, much shorter, in a hand Lyra had seen at the bottom of four years of essays and never once at the top of a letter.
 
 *Miss Malfoy. You will find the duties tedious and the authority considerable. I trust you will not confuse the two. S. Snape.*
 
@@ -44,11 +44,11 @@ She would answer it. She would tell him that Granger was a prefect, which Grange
 
 It would be the first letter she had finished all summer.
 
-She had started eleven. She wrote them at night, at the desk by the window, on the thin paper, and they all began *Potter*, and she burnt every one in the grate before she got as far as the signature, because Pobble could read a blotter. The first had run to four sides. It had gone through the whole of his conduct since 1992, under headings, and it was the finest thing she had ever written.
+She had started eleven. She wrote them at night, at the desk by the window, on the thin paper, and they all began *Potter*, and she burnt every one in the grate before she got as far as the signature, because Pobble could read a blotter. The first had run to four sides. It had gone through the whole of his conduct since Madam Malkin’s, under headings, and it was the finest thing she had ever written.
 
 About a week after the Owlery it had come to her what she ought to have said to *Who came?* By the end of July she had thought of nine things. Some of them were very good. She had a particular fondness for the sixth. She lay on her back in the dark and said them to the ceiling, with pauses for him to go white.
 
-He had put his hand into the one place where she would have sworn nobody could reach, and taken it out, and shown it to her. She hoped that he was miserable. She hoped that he was thin. She hoped that he woke up every morning in that dreadful house, wherever it was, with nobody to fight with and nothing to look at; and she had only to think of it to find that she had stopped reading, and was standing at the window, looking down the long white drive, as though anybody could possibly be coming up it.
+He had put his hand into the one place where she would have sworn nobody could reach, and taken it out, and shown it to her. She hoped he was miserable. She hoped he was thin. She hoped he woke up every morning in that dreadful house, wherever it was, with nobody to fight with and nothing to look at; and she had only to think of it to find that she had stopped reading, and was standing at the window, looking down the long white drive, as though anybody could possibly be coming up it.
 
 The letters got shorter. By August they were down to a side. The last, on the Sunday, said *You still owe me a tomorrow*, and nothing else, and she looked at that for some time, and held it to the candle herself.
 
@@ -106,7 +106,7 @@ She told it as Potter had told it to her, in a locked classroom on Hallowe’en 
 
 Her mother listened to all of it without moving. When it was finished she sat for a while with her finger on the slip of paper and her eyes on the blind.
 
-“He taught me to fly,” she said at last. “Regulus. Did you know that? Nobody else would. Bella said girls on brooms were vulgar, and my mother agreed with her, and he was two years younger than I was and took me out on the lawn at Grimmauld Place at five o’clock in the morning, every morning for a week, until I could do it.” She was quiet. “He was a very serious little boy. He never laughed at me once. He changed his mind about something, and it killed him, and he lay on a rock for fifteen years while I wore black for him at a memorial with no coffin in it.”
+“He taught me to fly,” she said at last. “Regulus. Did you know that? Nobody else would. Bella said girls on brooms were vulgar, and my mother agreed with her, and he was two years younger than I was and took me out on my father’s lawn at five o’clock in the morning, every morning for a week, until I could do it.” She was quiet. “He was a very serious little boy. He never laughed at me once. He changed his mind about something, and it killed him, and he lay on a rock for fifteen years while I wore black for him at a memorial with no coffin in it.”
 
 Lyra kept her hands in her lap.
 
@@ -124,7 +124,7 @@ Lyra looked at her hands.
 
 Her mother stood up, and went to the window, and lifted the edge of the blind with one finger, and looked down at the lawn, where the path ran east between the yew hedges to the cottage at the end.
 
-“Because there are things in this house now,” said Narcissa Malfoy, “that I cannot say no to. And I should like you to know that I can, when it is you.”
+“Because there are things in this house now,” said Narcissa Malfoy, “that I cannot say no to. And I should like you to know I can, when it is you.”
 
 “What things, Mother?”
 

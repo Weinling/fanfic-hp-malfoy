@@ -48,6 +48,28 @@ Lyra drank from it to have something to do, and asked Draco what work an old man
 
 “They will have moved everything, darling,” said their father, without looking up from the paper. “They always do. Eat your egg.”
 
+Draco ate some of it. He looked at Lyra across the toast rack.
+
+“Is Harry Potter coming to stay?”
+
+It was a perfectly ordinary voice, with egg in it. At the head of the table the *Prophet* did not move.
+
+“No, Draco.”
+
+“Why not? You were going out with him. It was in the paper. Did you stop?”
+
+“Yes.”
+
+“Who stopped? Him or you?”
+
+“I did.”
+
+He thought about that, chewing. He had their father’s way of looking at a thing, from the point of view of who had come out ahead.
+
+“So you won,” said Draco.
+
+“Yes,” said Lyra. “Eat your egg.”
+
 ⁂
 
 Her father sent for her after lunch.
@@ -100,9 +122,9 @@ He drank. Lyra looked at the sleeping face, which had her father’s long chin a
 
 “He used to say that nobody had ever died owing a Malfoy,” said her father. “I took it for a joke until I was thirty. Igor would do well to remember it, wherever he has got to.”
 
-On the low shelf under the portrait, among the estate books, was the long one with the lock on it, which Pobble dusted on Thursdays and nobody opened. Lyra had never thought about it in her life, and she did not think about it now.
+On the low shelf under the portrait, among the estate books, was the long one with the lock on it, which Pobble dusted on Thursdays and nobody opened.
 
-She knew the story, as one knows the story of a house: Abraxas Malfoy had died of dragon pox when she was too small to remember him, very fast, with the doors shut, so that it should not spread. There had been no lying in state. She had been told that the dragon pox did dreadful things to a face, and that it was better to remember him as the painter had.
+She knew the story, as one knows the story of a house: Abraxas Malfoy had died of dragon pox when she was too small to remember him, very fast, with the doors shut, so that it should not spread.
 
 “He would have been proud of you,” said her father, and finished his glass, and put it down. “Run along. Your mother will want you for something, I expect. She generally does.”
 
@@ -152,7 +174,7 @@ It was black. She had thought, on the platform, that it would look like ink. It 
 
 He held it out to her, turned to the lamp, so that she should see it properly.
 
-“There,” he said gently. “Now you know. I wondered when you would ask.” He looked down at it himself, longer than she had ever seen him look at her mother. “It went pale, after he fell. Grey, like an old bruise. For thirteen years I wore a faded thing on my arm and told the Ministry I had been bewitched.” He touched it with two fingers. “It came back on the night of the Third Task, in the middle of dinner. I felt it as you would feel your own heart start.”
+“There,” he said gently. “Now you know. I wondered when you would ask.” He looked down at it himself, longer than she had ever seen him look at her mother. “It went pale, after he fell. Grey, like an old bruise. For thirteen years I wore a faded thing on my arm and told the Ministry I had been bewitched.” He touched it with two fingers. “It came back on the night of the Third Task, over the port. I felt it as you would feel your own heart start.”
 
 Lyra was looking at his face, not his arm.
 
@@ -163,8 +185,6 @@ Lyra looked at the cuff, buttoned now, smooth, as if there had never been anythi
 “Does it hurt?”
 
 “Only when he calls.” Her father smiled at her, quite tenderly, as he had smiled when she was small and had asked whether the peacocks minded the cold. “And then, my darling, one is very glad to go.”
-
-She thought of Professor Karkaroff in his shirtsleeves, holding on to his own arm while the lamp swung, and saying that it was getting stronger.
 
 He came round the desk and kissed her forehead, as he did every night.
 
@@ -177,6 +197,8 @@ In her room she did not light the lamp.
 She went to the bedside table and opened the drawer, as she had opened it every night of last summer, at nine, and put her hand in, and felt for a ring.
 
 There was a handkerchief. Soft, and folded small, and pressed. Nothing else.
+
+There was a band of paler skin round her finger, where it had been for thirteen months. She rubbed at it with her thumb, for some time, and that did not want to come off either.
 
 She shut the drawer, and stood at the window in the dark, and looked east, where there was a light in the cottage at the end of the path; and thought of Draco coming up from it at six in the morning with grass on his knees, to tell her that the old man’s hands had stopped shaking.
 

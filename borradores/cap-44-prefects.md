@@ -18,7 +18,7 @@ The prefects’ carriage was at the very front, behind the engine, with a brass 
 
 The Head Boy was Cedric Diggory.
 
-He looked up when she came in. He had a faint white line at his hairline, on the left, where something in a maze had caught him in June, and the badge on his chest, and the same open, handsome, decent face that had made half the school forgive him for being good at things. He looked at her, and at the P on her robes, and something in the decent face went politely shut.
+He looked up when she came in. He had a faint white line at his hairline, on the left, where something in a maze had caught him in June, and the badge on his chest, and the same open, handsome, decent face that had made half the school forgive him for being good at things. He looked at her, and at the P on her robes, and the decent face stopped being interested.
 
 “Malfoy,” he said.
 

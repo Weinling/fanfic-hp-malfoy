@@ -38,6 +38,12 @@ He had carried it in from the carriage himself, in both arms, and up to his room
 
 Their father, at the head of the table, looked at the box over the top of his *Prophet*. He looked at it for rather longer than he looked at most things. Then he smiled at Draco, very warmly, and said that he was sure the gentleman would be delighted, and went back to the paper; and Lyra, who had been watching her father’s face across breakfast tables for fifteen years, saw that he did not know what was in it either, and did not want to.
 
+“Your Professor Umbridge writes that you have been of real service,” said her father, as she went past his chair. He did not look up from the paper. He put out one hand and laid it for a moment against her cheek. “A Hufflepuff, I gather. Well done, my darling. It has been noticed. Do wear the little badge tonight.”
+
+“Thank you, Father,” said Lyra.
+
+His hand was warm. It was exactly what she had wanted. She went back to her place and finished her toast.
+
 The guests began to come that evening.
 
 They came after dark, as such guests always had, by the drawing-room fire and up the drive on foot, one and two at a time, in heavy cloaks, and were shown into the long dining room where the table had been laid for twenty with the silver that only came out at Christmas. Lyra knew most of them. She had known them all her life: men who had sat at that table over the port when she was small and been charming to her, and slipped her a Sickle, and asked about her pony. Nott’s father, very old, with his stick. Montague’s, florid and loud. Mr Avery. Two she did not know, a pair of brothers with heavy eyelids who did not take off their gloves. And Mr Crabbe.
@@ -56,7 +62,15 @@ He found her before dinner, by the fire, with a glass of something in his hand. 
 
 She stood by the fire with her hands quite cold.
 
-At dinner, at the end of the meat, old Mr Nott got to his feet with the help of his stick and his neighbour’s arm, and raised his glass, and the long table went quiet for him.
+Theodore Nott drew out her chair at dinner, with his very clean hands, and asked in an undertone whether she had got over her cold.
+
+“What cold?”
+
+“Potter,” said Theodore, and unfolded his napkin.
+
+It was really very restful.
+
+At the end of the meat old Mr Nott got to his feet with the help of his stick and his neighbour’s arm, and raised his glass, and the long table went quiet for him.
 
 “Absent friends,” said Mr Nott.
 
@@ -126,7 +140,7 @@ Draco gave a little shriek and nearly fell into the fire. The old man was perfec
 
 “Grandfather,” said Lyra.
 
-The old man looked at her for a long moment. Then something moved at the corner of his mouth, very slightly, that was not quite a smile, and was very like the one her father wore across a chessboard when she had made a move he had not seen coming.
+The old man looked at her for a long moment. Then the corner of his mouth went in, a quarter of an inch, exactly like the one her father wore across a chessboard when she had made a move he had not seen coming.
 
 “Shut the door, child,” said Abraxas Malfoy. “You’re letting in the cold. And a Malfoy does not stand in doorways. She comes in, or she goes.”
 
@@ -140,7 +154,7 @@ She came in. She shut the door.
 
 It was what her father said. *Sit there, where I can see you.* She had never known where he had got it.
 
-She stayed by the door. Her grandfather had been here while they spoke of him as dead, teaching Draco to cheat at cards and writing letters for her to carry.
+She stayed by the door.
 
 *Never felt better in his life.* She looked at the steady hands and the nearly healed marks. She thought of a cure, and of what he might have promised to get it.
 

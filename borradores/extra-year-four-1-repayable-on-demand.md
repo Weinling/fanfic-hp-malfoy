@@ -6,7 +6,7 @@
 
 “I see. And did he finish?”
 
-It was the second Saturday of April, in the year of the Tournament, and it had been raining since breakfast. Nobody was trying to kill anybody. The Third Task was ten weeks off and the maze was only a lot of small hedges. There was no match, no Hogsmeade and no essay due before Tuesday, and at some time after eleven o’clock Lyra Malfoy had made the alarming discovery that she had nothing whatever to do. She had gone up to the classroom behind the tapestry of the knight with her father’s chess set under her arm. Potter had been there already, on a desk with his feet on a chair, doing nothing as well. He seemed to have a gift for it.
+It was the second Saturday of April, in the year of the Tournament, and it had been raining since breakfast. Nobody was trying to kill anybody. The Third Task was eleven weeks off, and the pitch was still a pitch. There was no match, no Hogsmeade and no essay due before Tuesday, and at some time after eleven o’clock Lyra Malfoy had made the alarming discovery that she had nothing whatever to do. She had gone up to the classroom behind the tapestry of the knight with her father’s chess set under her arm. Potter had been there already, on a desk with his feet on a chair, doing nothing as well. He seemed to have a gift for it.
 
 She had asked him, in passing, whether he played. He had said, “Sort of.” She had then watched him lose to the pieces in eleven moves, while they advised him, and she had sat down opposite him and turned the board round, because there were limits.
 
@@ -32,7 +32,7 @@ She could not help it. It came up from somewhere under her ribs and it got out b
 
 He went red.
 
-It was a remarkable thing to watch. It began at his collar and went up without hurrying, to his ears and his hair. He looked at the ceiling. She could not imagine why. She supposed that nobody cared to be compared with a dead man in chains, and she remembered, vaguely, that she had seen him do that once before.
+It was a remarkable thing to watch. It began at his collar and went up without hurrying, to his ears and his hair. He looked at the ceiling. She could not imagine why. She supposed nobody cared to be compared with a dead man in chains, and she remembered, vaguely, that she had seen him do that once before.
 
 “The Baron,” said Potter. “Right.”
 
@@ -130,7 +130,7 @@ There was a way of doing these things. She took the pencil from him. She took a 
 
 “You do that.”
 
-“I don’t say that I shall ever call it in. I should think that it’s worth about fourpence.”
+“I don’t say that I shall ever call it in. I should think it’s worth about fourpence.”
 
 “Probably.”
 

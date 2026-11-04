@@ -60,13 +60,13 @@ The quill stopped.
 
 He kept his head bent over the parchment. When he spoke again his voice was flatter, as if he were reading it off the page.
 
-“We’re not going to do this, are we. You’re her prefect. You’re sitting in her chair. You came here to watch.”
+“We’re not going to do this, are we. You’re her prefect. You’re sitting in her chair. You went to sleep on my shoulder on Saturday, and you came here to watch.”
 
 “I came here because I was asked.”
 
 “Same thing.”
 
-“It is not the same thing in the least. Whatever we were last year, Potter—” She heard her own voice, and kept it level by main force. “Whatever that was. It isn’t that now. It can’t be. I told you so in June. I am on one side of this and you are on the other, and the side I am on has kittens on its wall, and I sit where I am put. That is all.”
+“It is not the same thing in the least. Whatever you imagine that is, Potter, on the seventh floor—” She heard her own voice, and kept it level by main force. “Whatever that is. It isn’t this. It stops at the door of this room. I told you so in June. I am on one side of this and you are on the other, and the side I am on has kittens on its wall, and I sit where I am put. That is all.”
 
 He looked at her then.
 
@@ -95,6 +95,8 @@ Then she looked at his hand, because she could not help it, because he had stopp
 There was blood on the parchment, and blood on the little pink tablecloth, and a dark spot of it on the carpet by his chair that she had walked straight past.
 
 She had not known. She had sat in Umbridge’s chair and opened her Arithmancy, and he had been writing in his own blood under her nose for an hour, and she had listened to the quill and thought it sounded wet.
+
+He had kept that hand in his pocket on the seventh floor, and she had thought it was cheek. He had polished fifty-four cups with the wrong one, and she had told him it was the most affected thing she had ever seen. *I got polish in a cut*, he had said; and she had won by four.
 
 ⁂
 
@@ -144,7 +146,7 @@ Professor Umbridge stopped her after breakfast on the Saturday, in the Entrance 
 
 “Well, dear?” she said. “How did we get on?”
 
-Lyra looked at her. She looked at the pink, and the smile, and the small plump hand on the clasp of the bag, that had held out a quill to a fifteen-year-old boy every evening for a fortnight and told him to write until it sank in.
+Lyra looked at her. She looked at the pink, and the smile, and the small plump hand on the clasp of the bag, that had held out a quill to a fifteen-year-old boy every evening for three weeks and told him to write until it sank in.
 
 “Very instructive, Professor,” said Lyra. “Wouldn’t ordinary ink do as well? He made rather a mess of the tablecloth.”
 

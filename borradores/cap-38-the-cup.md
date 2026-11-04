@@ -22,7 +22,7 @@ For about as long as it takes to make up one’s mind, nothing happened. Then a 
 
 Lyra came up the last four steps. She had been preparing this for three weeks. It had clauses.
 
-“You stopped,” she said. “You stood at the bottom of these stairs in front of the entire school for five months, and then one morning you weren’t there, without a word to anybody, and I went up seven flights with Crabbe looking at me. And all the time you were *here*. Under a blanket. Watching me do it.”
+“You stopped,” she said. “You stood at these stairs in front of the entire school for five months, and then one morning you weren’t there, without a word to anybody, and I stood staring at a Hufflepuff’s shoe with Crabbe looking at me. And all the time you were *here*. Under a blanket. Watching me do it.”
 
 “Yes.”
 
@@ -30,7 +30,7 @@ Lyra came up the last four steps. She had been preparing this for three weeks. I
 
 “I know.” He looked at the flagstones. “You lied to me. I’d sworn, and you looked straight at me, and I don’t know what about, I only know what it looks like. I couldn’t stand here and have you say good morning.” He rubbed the back of his neck. “And I couldn’t not come. So.”
 
-It was appalling. She was quite clear about that. She was also aware that something under her ribs had sat up and was looking extremely pleased with itself. Three weeks. Every morning. Nobody in her whole life had ever got up in the dark in order to watch her walk past. She would take that out and look at it later, when she had finished being furious.
+It was appalling. She was quite clear about that. She was also aware that something under her ribs had sat up and was looking extremely pleased with itself. Three weeks. Every morning. Nobody in her whole life had ever got out of bed in order to watch her walk past. She would take that out and look at it later, when she had finished being furious.
 
 “What did Karkaroff want?” said Potter.
 
@@ -182,7 +182,7 @@ Mr Crouch came along the platform from the far end of the judges’ table, very 
 
 He stopped.
 
-It was not a pause. Lyra had heard a great many men pause, at her father’s table, for effect. This was different. He simply stopped, in the middle of the word, with his hand still holding Potter’s and his eyes on nothing; and for a second, two, three, nothing happened behind his face. Then he started again, a beat late, exactly where he had left off, as though somebody had wound him up.
+Lyra had heard a great many men pause, at her father’s table, for effect. He simply stopped, in the middle of the word, with his hand still holding Potter’s and his eyes on nothing; and for a second, two, three, nothing happened behind his face. Then he started again, a beat late, exactly where he had left off, as though somebody had wound him up.
 
 “—very proud. You are, I think—” another stop; another beat “—a credit to your school.”
 

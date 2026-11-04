@@ -14,7 +14,7 @@ He looked at the door. She was putting her wand away. She had gone rather pink, 
 
 “I’ve got to—”
 
-“You haven’t. Angelina’s got Ron down there until lunch, and Ginny’s throwing for him. I’ve checked. I’ve got nothing until the rota at two.” She sat down at a desk, and took out a notebook, and squared it to the edge with two fingers. It was a fat red one, with an elastic band round it and coloured tabs down the side. He had seen it about for years. He had thought that it was Arithmancy. “What happened on the sixth floor?”
+“You haven’t. Angelina’s got Ron down there until lunch, and Ginny’s throwing for him. I’ve checked. I’ve got nothing until the rota at two.” She sat down at a desk, and took out a notebook, and squared it to the edge with two fingers. It was a fat red one, with an elastic band round it and coloured tabs down the side. He had seen it about for years. He had thought it was Arithmancy. “What happened on the sixth floor?”
 
 “Nothing.”
 
@@ -28,7 +28,7 @@ She took off the elastic band and opened the notebook at the first tab.
 
 Harry looked at her.
 
-“That’s what I put, and it’s wrong, I’ve crossed it out. You went on laughing. You started laughing *early*. About half a second, before he’d got to the end.” She ran a finger down the page. “I thought that you’d got cleverer. That’s what I thought, I was eleven. Then you stopped asking what things were. You used to ask me everything. You stopped getting lost. You stopped treading on the trick stair on the way to Charms, from about February, you just stepped over it, while you were talking. Ron trod on it until third year. Ron and I spent three weeks in the library looking up Nicolas Flamel, and you came along and carried the books.” She turned a tab. “Second year, you told me never to go to the library on my own, and you wouldn’t say why. I’ve got that one underlined. Third year, Professor Trelawney saw the Grim in your teacup and you went on with your biscuit. Fourth year—”
+“That’s what I put, and it’s wrong, I’ve crossed it out. You went on laughing. You started laughing *early*. About half a second, before he’d got to the end.” She ran a finger down the page. “I thought you’d got cleverer. That’s what I thought, I was eleven. Then you stopped asking what things were. You used to ask me everything. You stopped getting lost. You stopped treading on the trick stair on the way to Charms, from about February, you just stepped over it, while you were talking. Ron trod on it until third year. Ron and I spent three weeks in the library looking up Nicolas Flamel, and you came along and carried the books.” She turned a tab. “Second year, you told me never to go to the library on my own, and you wouldn’t say why. I’ve got that one underlined. Third year, Professor Trelawney saw the Grim in your teacup and you went on with your biscuit. Fourth year—”
 
 “You’ve been writing this down for four years?”
 
@@ -50,7 +50,7 @@ Harry looked at them.
 
 There was a very long silence. Far down below the window somebody blew a whistle.
 
-He did not know what was happening to him. In seventeen years and four, nobody had ever kept anything of his. People had kept him: that was quite different. He had been kept in a cupboard and kept safe. He had been kept alive for a purpose by a succession of people who were very fond of him. He looked at three bits of soft grey paper, on a desk, squared to the edge. He had thought that they had gone in a fire.
+He did not know what was happening to him. In seventeen years and four, nobody had ever kept anything of his. People had kept him: that was quite different. He had been kept in a cupboard and kept safe. He had been kept alive for a purpose by a succession of people who were very fond of him. He looked at three bits of soft grey paper, on a desk, squared to the edge. He had thought they had gone in a fire.
 
 He sat down.
 
@@ -102,7 +102,7 @@ She heard it. She stopped.
 
 ⁂
 
-She did not raise her voice. He had thought that she might.
+She did not raise her voice. He had thought she might.
 
 He told her all of it: Flourish and Blotts, the book in the cauldron, and that he had known, and had stood there with Mrs Weasley’s hand on his shoulder and let it happen. Why he had let it happen. He told it as he had told it in the Owlery. It did not sound any better.
 
@@ -186,7 +186,7 @@ It was gone one by the sun on the desks. Nobody had come. The Keeper had been ca
 
 “What happened on the sixth floor?” said Hermione.
 
-He had thought that she had forgotten. He ought to have known better. He looked at his right hand, which was lying on the desk, and it looked just the same.
+He had thought she had forgotten. He ought to have known better. He looked at his right hand, which was lying on the desk, and it looked just the same.
 
 “I saw the jar,” she said. “Everybody saw the jar, they just didn’t know what it was. I saw you come in last night. Ron says you stood in the bathroom for an hour; he thinks you’re sickening for something. And Malfoy’s stopped taking points.”
 
@@ -246,7 +246,7 @@ It was ten to two. She had the rota.
 
 They met her on the fourth floor.
 
-There was no way of not meeting her. It was the top of the stairs, with the corridor empty in both directions, and she came round the corner with her book of rounds under her arm and her hair very neatly pinned, by herself, which she never used to be. Crabbe was not with her. He had time to see that. He had time to think that she looked as if she had not been eating, and then she had seen him, and she stopped.
+There was no way of not meeting her. It was the top of the stairs, with the corridor empty in both directions, and she came round the corner with her book of rounds under her arm and her hair very neatly pinned, by herself, which she never used to be. Crabbe was not with her. He had time to see that. He had time to think she looked as if she had not been eating, and then she had seen him, and she stopped.
 
 She looked at his eyes.
 
@@ -256,7 +256,7 @@ Something happened to her mouth. It went small and thin, and her nostrils narrow
 
 For about a second and a half it was the best thing that had happened to him all week.
 
-Then she saw where he was looking. He had not meant to. His eyes had simply gone there: to her left cuff, buttoned to the wrist, on a mild day, with the sleeve drawn well down over the heel of her hand.
+Then she saw where he was looking. He had not meant to. His eyes had simply gone there: to her left cuff, buttoned to the wrist, with the sleeve drawn well down over the heel of her hand.
 
 She moved it behind her back.
 

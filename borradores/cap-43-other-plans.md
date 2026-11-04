@@ -30,7 +30,7 @@ He had three tickets in his back pocket.
 
 It was the sort of plan that only looks stupid afterwards.
 
-He had got the idea on his birthday, on the swing, before the lamps went out. Nobody had ever taken Ron Weasley to the pictures. Ron had asked about it once, in second year, with great caution, as one asks about a foreign religion. Hermione went with her parents and had opinions. Harry had been twice in his life that he could remember, both times by accident, both times with a bag of Dudley’s to carry; and it had come to him, sitting there, that in all the years of the other life, through everything, the three of them had never once done a single thing that had no point. They had been in a tent together for a winter. They had never gone out for chips.
+He had got the idea on his birthday, on the swing, before the lamps went out. Nobody had ever taken Ron Weasley to the pictures. Ron had asked about it once, in second year, with great caution, the way you might ask about a foreign religion. Hermione went with her parents and had opinions. Harry had been twice in his life that he could remember, both times by accident, both times with a bag of Dudley’s to carry; and it had come to him, sitting there, that in all the years of the other life, through everything, the three of them had never once done a single thing that had no point. They had been in a tent together for a winter. They had never gone out for chips.
 
 So he had asked Sirius, who had asked Moody, who had said no. He had asked Sirius again. He had got some Muggle money out of the bottom of his trunk, and Sirius had looked up what was on, in a newspaper he held at arm’s length, and on Monday afternoon Harry had gone round the corner to the Odeon on the Holloway Road with a hat on and come back with three tickets for Thursday afternoon, for a film about a man who dressed as a bat. He had not told them. He had thought he would tell them over breakfast, on the Tuesday. He had rather been looking forward to Ron’s face.
 
@@ -68,7 +68,7 @@ He had read it enough to have stopped seeing the words. He looked at the gap ins
 
 *It was always going to be them. You knew that before I did.*
 
-He had known it. That was the trouble with having a good memory. He had known it in the Shack in third year, when he used Draco’s name to send her home. He had known it in the classroom on the third floor, with the moon on the lake, when he had looked at her and said what he thought of her father and watched her nod. He had gone into that Owlery in June with a great many things ready, and it had turned out that he was ready for all of them. She could hate him; he had earned it. She could leave. He had stood in the straw and thought, quite calmly, *yes, this is what I would do*. And then he had asked her one question, like an idiot, like a child holding out its hand to see if it would get hit, and she had looked him in the eye and told him the truth.
+He had known it. That was the trouble with having a good memory. He had known it in the Shack in third year, when he used Draco’s name to send her home. He had known it in the classroom on the third floor, when he had looked at her and said what he thought of her father and watched her nod. He had gone into that Owlery in June with a great many things ready, and it had turned out that he was ready for all of them. She could hate him; he had earned it. She could leave. He had stood in the straw and thought, quite calmly, *yes, this is what I would do*. And then he had asked her one question, like an idiot, like a child holding out its hand to see if it would get hit, and she had looked him in the eye and told him the truth.
 
 He did the sum. He could not have said why. It was three in the morning, and he had been doing sums all summer.
 
@@ -100,7 +100,7 @@ He went on sitting on the floor until it got light.
 
 “The man’s a *lunatic*,” said Sirius happily.
 
-It was Thursday, and they had the back row of the Odeon on the Holloway Road nearly to themselves. Harry’s scar had been aching since the small hours of Wednesday; his knees still had the print of a floorboard on them, from a shack with a hole in it. He had said nothing about it at breakfast. Sirius had looked at him over the teapot, and looked at the three tickets, which Harry had not known he was using as a bookmark, and had announced, as he announced everything, that what was wanted was chips.
+It was Thursday, and they had the back row of the Odeon on the Holloway Road nearly to themselves. Harry’s scar had been aching since the small hours of that morning; his knees still had the print of a floorboard on them, from a shack with a hole in it. He had said nothing about it at breakfast. Sirius had looked at him over the teapot, and looked at the three tickets, which Harry had not known he was using as a bookmark, and had announced, as he announced everything, that what was wanted was chips.
 
 He had come in a dead man’s Muggle overcoat, out of the wardrobe on the third floor, and a hat of Moody’s. Nobody at the Odeon had looked at him twice. He had bought a bag of popcorn the size of his head, and he sat with his long legs over the seat in front and his eyes shining in the light from the screen, and had not stopped talking since the lights went down.
 
@@ -134,13 +134,13 @@ It was not very loud. He had turned his head before he had heard it. There was a
 
 He stopped walking. Somebody went into the back of him, and apologised, and went round.
 
-He had not seen her since the platform. He had seen the side of her face at King’s Cross, turning away from him as one turns from a draught. He had spent seven weeks thinking of that face, and of what he had done to it, and he had thought he knew how it would be: smooth and pale and careful, with nothing in it. He had supposed that she would be going about Wiltshire like somebody carrying a full glass. He had seen a long room by the sea in his sleep, and people on their knees, and he knew whose arm her father had come home with. He had lain on Dudley’s spare bed and been frightened for her in great detail.
+He had not seen her since the platform. He had seen the side of her face at King’s Cross, turning away from him. He had spent seven weeks thinking of that face, and of what he had done to it, and he had thought he knew how it would be: smooth and pale and careful, with nothing in it. He had supposed that she would be going about Wiltshire like somebody carrying a full glass. He had seen a long room by the sea in his sleep, and people on their knees, and he knew whose arm her father had come home with. He had lain on Dudley’s spare bed and been frightened for her in great detail.
 
 And there she was, in the sun, laughing at her brother.
 
-She looked very well. That was what he could not get past. She had a little colour; she was wearing something blue. She was fifteen and on a terrace with an ice cream, with her whole family at the bank, and somebody who was hers sitting across the table making her laugh. He had never once made her laugh like that. He had made her laugh in a great many ways, and all of them had been against her will.
+She looked very well. She had a little colour; she was wearing something blue. She was fifteen and on a terrace with an ice cream, with her whole family at the bank, and somebody who was hers sitting across the table making her laugh. He had never once made her laugh like that. He had made her laugh in a great many ways, and all of them had been against her will.
 
-*Them.* That was what they looked like. He had never seen it from the front.
+*Them.* So this was what they looked like. He had never seen it from the front.
 
 Something went through him then, and it was small, and hot, and he knew it. He had looked for it on Tuesday and not found it, and it turned out that he had been looking in the wrong place.
 
@@ -166,7 +166,7 @@ Nothing moved in her face for a moment.
 
 “It’s sort of—” He showed her, on his own neck. He could hear himself doing it. “Under his ear.”
 
-“You crossed Diagon Alley,” she said, very slowly and clearly, as one speaks to somebody on a ledge, “in broad daylight, in front of every acquaintance my mother has in the world, and followed me into a shop. To tell me about a bow tie.”
+“You crossed Diagon Alley,” she said, very slowly and clearly, the way you talk to somebody on a ledge, “in broad daylight, in front of every acquaintance my mother has in the world, and followed me into a shop. To tell me about a bow tie.”
 
 “Yes.”
 
@@ -186,13 +186,13 @@ It got out before he could stop it. It was not even very loud.
 
 She stopped.
 
-He shut his mouth. He stood in the aisle with his ears going hot, and she looked at him across a yard of dusty floor. Her eyes went over his face from one side to the other, as he had seen them go down a column of figures, and something happened to them. It was gone almost before he had seen it. He had been reading that face since before he could read anything else. He thought that for perhaps a second she had forgotten to hold it up.
+He shut his mouth. He stood in the aisle with his ears going hot, and she looked at him across a yard of dusty floor. Her eyes went over his face from one side to the other, as he had seen them go down a column of figures, and they stopped being angry. It was gone almost before he had seen it. He had been reading that face for four years, and it was the only thing he had ever read for pleasure. He thought that for perhaps a second she had forgotten to hold it up.
 
 “What’s the matter with you?” said Malfoy.
 
 It was very quiet. It did not sound like her at all.
 
-He could have told her. There was nobody else in the aisle, and it was all there, the swing, the salt, the list, a hole under a floor. *I’ve got no idea what’s coming and I saw you laugh and I wanted to kill somebody.* He looked at the thread of hair. His hand had started to come up, to move it, as he had moved one once in a corridor; he noticed that, and he put it in his pocket.
+He could have told her. There was nobody else in the aisle, and it was all there, the swing, the salt, the list, a hole under a floor. *I’ve got no idea what’s coming and I saw you laugh and I wanted to kill somebody.* He looked at the thread of hair. His hand had started to come up, to move it; he noticed that, and he put it in his pocket.
 
 “Nothing,” said Harry.
 
@@ -213,6 +213,10 @@ She went past him. She did not hurry, and she did not look back; he heard her he
 It cost him three Galleons and four Sickles. The witch at the till looked at the title and then at him, and asked if it was a present.
 
 “Mate,” said Ron, on the pavement, staring at it. “What was that? You’ve got a *book*.”
+
+“Well spotted,” said Harry. “They’ll make you Head Boy.”
+
+It came out in a voice he had last used on Snape. Ron went red to the ears, and looked down at his brown paper, and did not say anything. It was exactly as good as he had thought it would be, for about a second.
 
 Hermione said nothing. She took his arm, quite gently, and turned him round, and they went on up the street after Mrs Weasley. She went on holding it for a little longer than the crowd required, and she looked at the book, and then she looked at his face.
 

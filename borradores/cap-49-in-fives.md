@@ -6,27 +6,27 @@
 
 It was the fourth Monday of October, and they were in the prefects’ room behind the Charms corridor, a small stuffy place with a round table in it. Every prefect in the school was present, and nobody had touched the biscuits. Weasley was on his feet. He had been on his feet for ten minutes, with his ears the colour of a fire engine and his badge pinned on straight, and he had in his hand a sheet of parchment on which somebody had plainly been helping him with the columns.
 
-“Sixty points!” said Weasley. “*Sixty*, Diggory. Since the start of term. Off one bloke. We’re bottom of the whole castle, we’re behind *Hufflepuff*—sorry—and it’s all her. I’ve looked. Every time you turn round, there’s another five gone. It goes off in the night. You come down to breakfast and the thing’s dropped again, and nobody knows why, and she’s sitting over there eating a boiled egg.”
+“Seventy points!” said Weasley. “*Seventy*, Diggory. Since the start of term. Off one bloke. We’re bottom of the whole castle, we’re behind *Hufflepuff*—sorry—and it’s all her. I’ve looked. Every time you turn round, there’s another five gone. It goes off in the night. You come down to breakfast and the thing’s dropped again, and nobody knows why, and she’s sitting over there eating a boiled egg.”
 
 Lyra took a small sip of her tea.
 
-“A prefect may deduct up to five points at a time for any breach of discipline,” she said. “It’s on page nine. I find that Potter is often in breach. I can’t think why he isn’t more careful.”
+“A prefect may deduct up to five points at a time for any breach of discipline,” she said. “It’s Educational Decree Twenty-Four, page nine. I find that Potter is often in breach. I can’t think why he isn’t more careful.”
 
 “*Insolent use of a window seat?*”
 
-“You weren’t there, Weasley. I assure you that it was very insolent.”
+“You weren’t there, Weasley. I assure you it was very insolent.”
 
 Beside her, Zabini appeared to have got something in his throat.
 
-Diggory shut the book. He looked at her across the table for a moment with his politely closed face. He had been doing that since the train, and she had got used to it, much as one gets used to a stone in a shoe. It was a curious thing, she reflected, but it had stopped bothering her at about the same time that everything else had.
+Diggory shut the book. He looked at her across the table for a moment with no interest whatever. He had been doing that since the train, and she had got used to it, much as one gets used to a stone in a shoe. It was a curious thing, she reflected, but it had stopped bothering her at about the same time that everything else had.
 
 “Your entries are in order, Malfoy,” said Diggory. “I’d ask you to think about whether they’re in proportion. Weasley, sit down. Next week’s rota.”
 
-Weasley sat. He glared at her over his parchment. There was nothing of last spring in it, and nothing of the train either. It was the look of a man whose Keeper’s gloves have been stolen by somebody who keeps sending him the receipts. Granger, next to him, had said nothing at all. She had the parchment’s twin in front of her, and she was looking down at it, with her chin on her hand, and every so often she made a small neat tick.
+Weasley sat. He glared at her over his parchment. There was nothing of last spring in it, and nothing of the train either. Granger, next to him, had said nothing at all. She had the parchment’s twin in front of her, and she was looking down at it, with her chin on her hand, and every so often she made a small neat tick.
 
-Lyra finished her tea. She was, she noticed, in an excellent temper. She had been in an excellent temper for some weeks. She had thought at first that it might be the broom polish.
+Lyra finished her tea. She was, she noticed, in an excellent temper. She had been in an excellent temper for some weeks.
 
-It was an extraordinary thing, to be on the other side. She had supposed that it would be cold. She was Lucius Malfoy’s daughter and Dolores Umbridge’s dear; she had been spat at, or very nearly, by a third-year in the Charms corridor. She went to Snape on Thursdays and had her head walked through. She had given a boy the name of a house by the sea, and she had not been able to look at the *Prophet* since. And about twice a week, for about a minute and a half, she was on the seventh floor, or the sixth, or once behind the suit of armour by the Astronomy stairs; and she came away from it with her hair coming down and her heart going, and took out her book, and wrote *Insolence*.
+It was an extraordinary thing, to be on the other side. She had supposed it would be cold. She was Lucius Malfoy’s daughter and Dolores Umbridge’s dear; she had been spat at, or very nearly, by a third-year in the Charms corridor. She went to Snape on Thursdays and had her head walked through. She had given a boy the name of a house by the sea, and she had not been able to look at the *Prophet* since. And about twice a week, for about a minute and a half, she was on the seventh floor, or the sixth, or once behind the suit of armour by the Astronomy stairs; and she came away from it with her hair coming down and her heart going, and took out her book, and wrote *Insolence*.
 
 It meant nothing. She had made that perfectly clear. She made it clear every time.
 
@@ -38,11 +38,19 @@ It meant nothing. She had made that perfectly clear. She made it clear every tim
 
 The Thursday after that, by the stairs, it had been “Before lunch.”
 
+They were not all funny. She did not put that in the book. There was a night behind the suit of armour when he asked her what she had given Umbridge that week, and she told him, and he said “You could stop,” and she took hold of the front of his dressing gown and asked whether he would care to tell her father or whether she should. Her hands were shaking. He had no right to be the only person in the castle who looked at her like that, and she could not seem to stop coming up here to be looked at.
+
+“*Them*,” said Potter, quite quietly.
+
+“Yes,” said Lyra. “*Them*.”
+
+Neither of them could have said afterwards who started it. It tasted of the argument. She wrote *Insolence*, and for once it was the plain truth.
+
 ⁂
 
 She found out about Lavender Brown on the Saturday.
 
-It was nothing. She wanted that understood. She had come down to the lake path with Crabbe and Goyle on the first cold bright morning of the term, for the air, and there were a number of Gryffindors on the bank with a Quaffle; and Potter was among them, in a jumper, with his sleeves pushed up and his bandage off, being taught something by Lavender Brown. It seemed to involve a charm for keeping ink off one’s cuffs. It appeared to need a great deal of hand-holding. She had his right hand, the marked one, in both of hers. She was looking at the back of it, and saying something, with her head on one side, and her very ordinary brown hair blowing about; and Potter, who had not once in five years listened to a word anybody said about ink, was laughing.
+It was nothing. She wanted that understood. She had come down to the lake path with Crabbe and Goyle on the first cold bright morning of the term, for the air, and there were a number of Gryffindors on the bank with a Quaffle; and Potter was among them, in a jumper, with his sleeves pushed up, being taught something by Lavender Brown. It seemed to involve a charm for covering spots. It appeared to need a great deal of hand-holding. She had his right hand, the marked one, in both of hers. She was looking at the back of it, and saying something, with her head on one side, and her very ordinary brown hair blowing about; and Potter, who had not once in five years listened to a word anybody said about his complexion, was laughing.
 
 “Are you all right?” said Goyle. “You’ve gone a funny colour. Have you eaten?”
 
@@ -52,7 +60,7 @@ It was nothing. She wanted that understood. She had come down to the lake path w
 
 Lyra looked down. She had brought a yoghurt. She laid the spoon on the grass, with a certain care, and asked Greer whether there was anything left in the bag.
 
-It was intolerable. She knew exactly how much it was worth. Nobody on that bank mattered in the slightest. She had kissed the boy on Thursday and she had told him that it was over, and she had no more right to mind than the giant squid. If he chose to go about having his hand held by a girl who read her fortune in tea, that was no concern of hers. She had held that hand. She had spent nine days putting it back together with her own fingers. She knew every letter on it. That was *her* bandage he had taken off.
+It was intolerable. She knew exactly how much it was worth. Nobody on that bank mattered in the slightest. She had kissed the boy on Thursday and she had told him that it was over, and she had no more right to mind than the giant squid. If he chose to go about having his hand held by a girl who read her fortune in tea, that was no concern of hers. She had held that hand. She had spent nine days putting it back together with her own fingers. She knew every letter on it. That was *her* bandage.
 
 She ate a chocolate biscuit without tasting it. Goyle watched it go down with an air of quiet achievement.
 
@@ -74,11 +82,11 @@ He looked up. He had a Chocolate Frog card in his hand, and he turned it over. I
 
 “I shall have Crabbe’s *teeth*.”
 
-He had got down from the sill. He was grinning all over his face. There was nothing she could do about it; she had tried everything; it did not seem to mind being looked at. “She was showing me a charm,” he said. “For the blood. So it doesn’t get on my cuffs.”
+He had got down from the sill. He was grinning all over his face. There was nothing she could do about it; she had tried everything; it did not seem to mind being looked at. “She was showing me a charm,” he said. “For spots. She did it through the bandage; I told her it was warts. It lasts till dark. Nobody can read it.”
 
-“I’m sure she was. I’m sure it was most instructive. You may have your hand held by the whole of the fifth year, Potter, for all I care, and I hope that you’ll be very happy, only you might have the common decency to do it where a person can’t—”
+“I’m sure she was. I’m sure it was most instructive. You may have your hand held by the whole of the fifth year, Potter, for all I care, and I hope you’ll be very happy, only you might have the common decency to do it where a person can’t—”
 
-She stopped. He had put his hand out, the right one, with the back of it towards her, and held it up in front of her in the moonlight. It had healed quite well. The line was silver now, and very fine. Under it were the three small words, and he looked at them, and at her.
+She stopped. He had put his hand out, the right one, with the back of it towards her, and held it up in front of her in the moonlight. Whatever Brown had done to it had worn off. It had healed quite well. The line was silver now, and very fine. Under it were the three small words, and he looked at them, and at her.
 
 “Mine,” said Lyra.
 
@@ -102,11 +110,11 @@ It was she who let go. It took her some time.
 
 “That was the last one,” said Lyra.
 
-“Sixty-five,” said Potter. He did not sound as though he could feel his feet.
+“Eighty-five,” said Potter. He did not sound as though he could feel his feet.
 
 ⁂
 
-“Sixty-five,” said Granger.
+“Eighty-five,” said Granger.
 
 She laid a sheet of parchment on the table by the window, in the library, on Hallowe’en afternoon, with the rain coming down outside and the whole castle smelling of pumpkin, and she squared it to the edge with two fingers.
 
@@ -118,21 +126,21 @@ Lyra looked up from her Arithmancy. Then she looked along the table. Potter had 
 
 He came. He pulled out a chair with his foot, and sat on it, at an angle, as somebody sits in a dentist’s waiting room. Granger looked from one of them to the other. She had two spots of colour on her cheeks, and her hair was doing as it pleased.
 
-“I’ve been helping Ron with his figures,” she said. “For the meeting. He thinks that it’s spite. I said I’d add it up, because somebody ought to, and because I’ve got a prefect’s right of access to the book. And I have to say that it’s beautifully kept.” She put her finger on the parchment. “Sixty-five points since the twelfth of September. Not one deduction in class, or at meals, or in front of anybody at all. All but one of them after ten at night, and hardly any before midnight. Every one of those on a floor that’s on your rounds. Three on the sixth. Six on the seventh. And always, *always*, in fives.”
+“I’ve been helping Ron with his figures,” she said. “For the meeting. He thinks it’s spite. I said I’d add it up, because somebody ought to, and because I’ve got a prefect’s right of access to the book. And I have to say that it’s beautifully kept.” She put her finger on the parchment. “Eighty-five points since the twelfth of September. Not one deduction in class, or at meals, or in front of anybody at all. All but one of them after ten at night, and hardly any before midnight. Four on the sixth. Eight on the seventh. One on the third, which isn’t on your rounds at all. And always, *always*, in fives.”
 
 She looked up.
 
-“You could have taken ten,” said Granger. “You could have taken twenty, if you’d gone to Snape. You like round numbers; I’ve seen your Arithmancy. And it’s never once been more than one a night, except for a Saturday in September when you were both in detention, and then it was three.” She took a breath. “So it isn’t a total. It’s a *count*. That’s thirteen. Thirteen of something.”
+“You could have taken ten,” said Granger. “You could have taken twenty, if you’d gone to Snape. You like round numbers; I’ve seen your Arithmancy. And it’s never once been more than one a night, except for a Saturday in September when you were both in detention, and then it was three.” She took a breath. “So it isn’t a total. It’s a *count*. That’s seventeen. Seventeen of something.”
 
 Nobody spoke. Somewhere behind the shelves, Madam Pince was stamping a book. The rain ran down the window.
 
-“Thirteen *what*, Harry?”
+“Seventeen *what*, Harry?”
 
 Lyra did not move a muscle. She had been brought up to it. She kept her eyes on Hermione Granger’s, and gave her the pleasant, faintly puzzled look her mother used on tax inspectors, and under the table she drew back her foot, with great precision, to kick Potter on the ankle before he opened his mouth.
 
 She was a quarter of a second too late.
 
-“Twelve,” said Potter. “One was a line.”
+“Sixteen,” said Potter. “One was a line.”
 
 The foot arrived. He made a small noise and looked at the ceiling.
 
@@ -174,9 +182,9 @@ It was on the stairs, on her way down to the Hallowe’en feast. The Head of Gry
 
 Lyra stopped, and looked her in the eye, and waited.
 
-She had been expecting this. Weasley had gone up the tower stairs that morning with his graph. She had her answer ready. It was on page nine.
+She had been expecting this. Weasley had left the library at four o’clock with his graph under his arm. She had her answer ready. It was on page nine.
 
-“I have had a visit,” said Professor McGonagall, “from Mr Weasley. He has gone to a great deal of trouble. I have seldom seen such a very thorough piece of work from that quarter, and I told him so.” She looked up at the rubies. “Sixty-five points. All from Mr Potter, whom I have known for some time, and who has, I must say, been bearing it remarkably well. I do not believe that I have seen him so nearly cheerful since the summer.”
+“I have had a visit,” said Professor McGonagall, “from Mr Weasley. He has gone to a great deal of trouble. I have seldom seen such a very thorough piece of work from that quarter, and I told him so.” She looked up at the rubies. “Eighty-five points. All from Mr Potter, whom I have known for some time, and who has, I must say, been bearing it remarkably well. I do not believe I have seen him so nearly cheerful since the summer.”
 
 “He is improving, Professor,” said Lyra.
 

@@ -16,7 +16,7 @@ She put her wand under the table, and touched its tip to the blank, and the parc
 
 *Our master has returned.*
 
-*I would have you hear it from me before you hear it from anybody else. He is himself again. He is gracious. And our family stands higher in his favour than I had dared to hope, thanks in no small measure to you, my darling. Your errand in November was a piece of a great work, and he knows whose hand carried it.*
+*I would have you hear it from me before you hear it from anybody else. He is himself again. He is gracious. And our family stands higher in his favour than I had dared to hope, thanks in no small measure to you, my darling. Your errand in November was a piece of a great work, and he knows whose hand carried it. You know what they have been saying of us for nine hundred years: never owe a Malfoy. He tells me, smiling, that he does.*
 
 *He has asked after a certain book. I have told him what we know: that it was taken in the Ministry’s raids, the summer that Weasley’s people went through our cellars, and never seen again. You will say the same, if you are asked.*
 
@@ -48,7 +48,7 @@ He was in the Owlery when she got there.
 
 She had known he would be. The ring had pulled her up the west staircase and out along the cold stone passage and up the last winding flight to the top of the tower, warm and then warmer, and it had stopped pulling at the door; and when she pushed it open he was standing at the far window, in the straw, with his back to the light and his hands in his pockets, and every owl in the place awake and watching him.
 
-He had not stood at the foot of the dungeon steps where anybody could see him for three weeks, and he did not come towards her now. He looked at her face, and whatever he saw in it, he stayed where he was.
+He had not stood at the foot of the dungeon steps where anybody could see him for three weeks, and he did not come towards her now. He had his weight off the left leg, and the bandage had come through his trousers in a long brown stain; nobody in their senses would have let him up that tower. He looked at her face, and whatever he saw in it, he stayed where he was.
 
 “You called,” said Potter.
 
@@ -68,7 +68,7 @@ The owls shifted on their perches.
 
 “You knew a hippogriff was going to go for somebody before it had so much as lifted a claw. You were on your knees beside me before anybody else had moved. You told me to feed a dog, on a train, before you had ever met it; and when I met it, it was starving, exactly as you said. You knew what Flint was going to do with that match before Flint had thought of it, and he only thought of it at lunch. You went out on Hallowe’en and came back and said *just missed him*, and I thought you meant you were unlucky. You weren’t unlucky. You were early. You knew what night he would come.”
 
-“You stood on a pitch in November and looked at the gates and said *rotten weather, I’ll be quick*. And there were Dementors. You came and found me at the World Cup in the middle of the night, under a cloak, and told me to go back to my mother and stay with her, and an hour later there were Muggles in the air over the tents.” She took a breath. “You were *sure* about Moody. You told me so. You were so sure that you broke into his office with a wanted man, and you were wrong; and you still couldn’t tell me why you’d been sure. You knew about the beetle, when I’d told nobody, not one living soul. You knew Krum would ask Granger a month before Krum did. And you said a dead man was dead twice, and you have never in your life needed to say anything twice.”
+“You stood on a pitch in November and looked at the gates and said *rotten weather, I’ll be quick*. And there were Dementors. You came and found me at the World Cup in the middle of the night, under a cloak, and told me to go back to my mother and stay with her, and an hour later there were Muggles in the air over the tents.” She took a breath. “You were *sure* about Moody. You told me so. You were so sure that you broke into his office with Sirius Black, and you were wrong; and you still couldn’t tell me why you’d been sure. You knew about the beetle, when I’d told nobody, not one living soul. You knew Krum would ask Granger a month before Krum did. And you said a dead man was dead twice, and you have never in your life needed to say anything twice.”
 
 He had gone very pale. He did not look away from her.
 
@@ -118,7 +118,7 @@ She waited.
 
 The owls had gone quiet.
 
-“He was in Madam Malkin’s,” said Potter, “the day I got my robes. On a stool, being pinned. He talked at me the whole time about Quidditch and Houses and people who oughtn’t to be let in. He offered me his hand on the train and I said no. He was in Slytherin, and he hated me, and I hated him, for seven years. Half of what I knew happened to Draco.” He stopped. “I’d been looking at you since Madam Malkin’s. After the corridor I couldn’t stop. When it all came back, in that corridor, and I went down to breakfast the next morning knowing exactly who everybody was, and what they were going to do, and how most of them were going to die—and there was a girl sitting at the Slytherin table where Draco ought to have been, and I didn’t know one single thing about her.”
+“He was in Madam Malkin’s,” said Potter, “the day I got my robes. On a stool, being pinned. He talked at me the whole time about Quidditch and Houses and people who oughtn’t to be let in. He offered me his hand on the train and I said no. He was in Slytherin, and he hated me, and I hated him, for seven years. Half of what I knew happened to Draco.” He stopped. “I’d been looking at you since Madam Malkin’s. After the corridor I couldn’t stop. By Easter I could go down to breakfast knowing exactly who everybody was, and what they were going to do, and how most of them were going to die. And there was a girl sitting at the Slytherin table where Draco ought to have been, and I didn’t know one single thing about her.”
 
 “You said once,” she managed at last, “that Draco hadn’t done a thing to anybody.”
 
@@ -216,11 +216,11 @@ She saw it go into him, and saw that it was not news, and saw that it was worse 
 
 He stopped.
 
-“My family is in it,” she said. “All the way in. They were in it before I ever went up that gangplank, and I carried it up there for them, and now they’re in his favour because of me. That’s the first thing.” She put the letter back into her sleeve. “And I lied to you. In the classroom, with the moon on the lake, when I’d made you swear. You kept your word and I lied to you, and I am not going to tell you what about. Not now. Probably not ever. That’s the second thing.”
+“My family is in it,” she said. “All the way in. They were in it before I ever went up that gangplank, and I carried it up there for them, and now they’re in his favour because of me. That’s the first thing.” She put the letter back into her sleeve. “And I lied to you. In that classroom, when I’d made you swear. You kept your word and I lied to you, and I am not going to tell you what about. Not now. Probably not ever. That’s the second thing.”
 
 He took a step towards her through the straw, and she held up one hand, and he stopped again.
 
-“And the third thing is you.” Her voice was quite steady. “You put me on credit that night, Potter, and you never once told me the terms. You knew what could happen before I did. You moved me about like furniture, from the first night, trying to put me where you thought I ought to be. And when I didn’t go there, you couldn’t tell me why it frightened you.”
+“And the third thing is you. You put me on credit that night, Potter, and you never once told me the terms.”
 
 “That isn’t—”
 
@@ -230,7 +230,7 @@ He did not finish.
 
 “I can’t be with you.”
 
-She had said it over to herself on the stairs until it had no edges left, and it came out quite steady. Nothing in the room fell down. That was the advantage of having decided: one had only to go on standing where one was.
+She looked at him while she said it. She had promised herself that on the stairs. She had said it over and over, coming up, until it had no edges left, and it came out quite steady, and nothing in the room fell down. It was only that she could see the exact place in his face where it arrived. She had not thought about that. She would rather have had the dragon.
 
 She looked down at the ring on her finger. She did not take it off. Not here; not in front of him.
 
@@ -240,7 +240,7 @@ She looked down at the ring on her finger. She did not take it off. Not here; no
 
 “If it came to it.” He stopped, and began again, carefully, like somebody putting his weight on a stair he did not trust. “Them or me.”
 
-“It has come to it. That’s what this is.” She looked at him. “It was always going to be them, Potter. You knew that before I did.”
+“It has come to it. That’s what this is.” She made herself go on looking. “It was always going to be them, Potter. You knew that before I did.”
 
 He nodded. He went on nodding for a little longer than the answer required. She had told him a great many worse things in the last half-hour, and she had watched a dragon’s tail go through his shoulder with less to show for it, and she could not think why that should have been the one to do it. He put out a hand behind him and found the window-sill. He seemed to be having some trouble with the air; he took a breath, and it did not appear to go anywhere, and he took another.
 
@@ -260,19 +260,21 @@ He had shouted it. In four years she had heard him angry in a great many voices,
 
 She came away from the door.
 
-“You. *You* stand there and say that to me. You have just finished telling me that you let a child of eleven write to a book for a year. You haven’t said a word to me since I was twelve without another one standing behind it. I have lied for you to my father, Potter. I have lied to Snape, and to Moody, and to my mother, and to the whole of my House, in the Great Hall, with my hair done. I have been at it so long that I have to think how my face goes. And the one time, the *one* time in four years that I look you in the eye and tell you the truth, you would like your money back?”
+“You. *You* stand there and say that to me. You have just finished telling me that you let a child of eleven write to a book for a year. You haven’t said a word to me since I was twelve without another one standing behind it. I have lied for you to my father, Potter. At his own table, with his hand on my hair. I have lied to Snape, and to Moody, and to the whole of my House, in the Great Hall, with my hair done. I have been at it so long that I have to think how my face goes. And the one time, the *one* time in four years that I look you in the eye and tell you the truth, you would like your money back?”
 
-He had gone white to the lips. He came off the sill and across the straw, and he stopped about a yard from her, and she did not give him an inch of it. He was pulling at the room in great uneven breaths, like somebody just come up from the bottom of a lake, and none of them seemed to be doing him any good.
+Her voice had gone on the last word. She would have given a good deal to have that back.
 
-“Everybody’s got a *them*.” There was hardly any air in it. “Have you noticed that? Everybody I’ve ever— There’s always somebody who comes first, and it’s always somebody else, and I’m always so bloody *understanding* about it. I’ve had the practice. I’ve had two goes. I was *good* at it. And then you came along, and I thought—”
+He had turned white to the lips. He came off the sill and across the straw, dragging the leg and not appearing to know it, and he stopped about a yard from her, and she did not give him an inch of it. He was pulling at the room in great uneven breaths, like somebody just come up from the bottom of a lake, and none of them seemed to be doing him any good.
+
+“Everybody’s got a *them*.” There was hardly any air in it. “Have you noticed that? Everybody I’ve ever— And I’m always so bloody *understanding* about it. I’ve had the practice. I’ve had two goes. I was *good* at it. And then you came along, and I thought—”
 
 “Don’t.”
 
 “I thought that you—”
 
-“*Don’t*, Potter.”
+“*Don’t*, Potter. Please.”
 
-She did not know what he had thought. She would have given the Firebolt to know, and every Galleon with her name on it; and she knew, as one knows in the dark where the edge of a roof is, that if he got to the end of that sentence it would be a good deal further to the door.
+It was not a word she used. She did not know what he had thought. She would have given the Firebolt to know, and every Galleon with her name on it; and she knew, as one knows in the dark where the edge of a roof is, that if he got to the end of that sentence it would be a good deal further to the door.
 
 He stopped. He looked at her, and she saw him leave off looking for the words and begin to look for something else. She had seen him do that to other people. She had seen him do it to Snape. When he spoke again, his voice had gone quite quiet and clear.
 
@@ -290,9 +292,11 @@ Something had gone wrong with her eyes. They had filled, without permission, rig
 
 “Nobody,” said Lyra.
 
-Her voice came out perfectly level. She was rather proud of it.
+It took her two attempts. The first had no sound in it.
 
-“Nobody came. I know precisely what they are, Potter, thank you. I have been reading my father’s face since before I could read. I know what he sent me up that gangplank with, and I know what he calls me, and I know what he’d spend. You needn’t tell me. They didn’t come, and they are mine, and I am going home. That’s what the word means.”
+“Nobody came. I know precisely what they are, Potter, thank you. I have been reading my father’s face since before I could read. I know what he sent me up that gangplank with, and I know what he calls me, and I know what he’d spend. You needn’t tell me. They didn’t come, and they are mine, and I am going home. That’s what the word means. Do you imagine that if one got to choose—”
+
+She stopped there. She found that she could not do the rest of it and the owl as well.
 
 He was close enough to see what was standing in her eyes. She saw him see it, and she saw what it did to him. He had come across the room to break something, and it had not been that.
 
@@ -310,23 +314,53 @@ He stopped.
 
 She took a piece of straw off her sleeve, and looked at it, and let it fall.
 
-“You’ve got it wrong, you know. You always did. *Never owe a Malfoy*: that’s what people say about us. They have been saying it for nine hundred years, and going on doing it, because we extend credit. I told you so in this room, with your owl eating my scarf. You could have owed me for the rest of your life, and I should have sent you a very civil reminder every Christmas. But you’ve *kept* me. You’ve had me in a drawer with everything else you know, and taken me out, and put me where you wanted me, and now you’ve stood there and offered to go on doing it with the window left open, and you’ve called that keeping me safe.”
+“*Never owe a Malfoy*. They have been saying it for nine hundred years, and going on doing it, because we extend credit. I told you so in this room, with your owl eating my scarf. You could have owed me for the rest of your life, and I should have sent you a very civil reminder every Christmas.” It was a moment before she could go on. “I should have liked that. But you’ve *kept* me. You’ve had me in a drawer with everything else you know, and taken me out, and now you’ve stood there and offered to go on doing it with the window left open, and you’ve called that keeping me safe.”
 
 She looked at him.
 
 “Never *own* a Malfoy, Potter.”
 
-He did not say anything. There did not seem to be anything left in him to say it with. He looked at her a moment longer. Then he turned and walked back across the straw to the window, slowly, like a man carrying something up a flight of stairs, and when he had got there he stood with his back to her and both hands on the sill, and she watched his shoulders go up and down, and stayed where she was.
+It was a very good line. There was, she realised, only one person in the world she would have told it to.
 
-When he turned round, whatever had come across the room at her had gone. He looked, for a moment, exactly fourteen.
+He did not say anything. There did not seem to be anything left in him to say it with. He looked at her a moment longer, and then he turned and went back across the straw to the window, slowly, like a man carrying something up a flight of stairs, and stood with his back to her and both hands on the sill.
 
-“One more, then,” said Potter. “You don’t have to.”
+So that was that. She crossed to the door and put her hand on the latch. There was a long dark mark on the straw where he had walked, and she looked at it. It would want seeing to. It would be somebody else who saw to it.
 
-She did not have to. She knew that. She stood by the door of the Owlery with her father’s letter in her sleeve and the ring warm on her finger, and looked at him in the straw; and then she went across the floor to him, through the feathers and the light, and put her hands on his shoulders, and kissed him.
+“You’ve come through your bandage,” said Lyra, to the door. “Go to Pomfrey.”
 
-It was slow, and not careful. His hands came up and held her arms, very hard, and she felt him shaking, or herself, and could not tell which; and all round them the owls came down, by ones and twos, to their rows in the evening light, and watched, and did not make a sound.
+“Malfoy.”
 
-When it stopped, she did not step back at once. His face was wet. She did not think that he knew. Hers was dry, and it would stay dry for as long as she told it to; she had been brought up to that.
+She stopped. She always did, at doors in this castle; it was a failing.
+
+He had let go of the sill. He was coming back across the straw, dragging the leg, and taking his time about it. His face was grey and wet and he did not seem to care who knew it, and he was looking at her as she had seen him look at a dragon, from the mouth of a tent: as one looks at a thing that one has been reliably informed cannot be done.
+
+He stopped in front of her.
+
+“I’m going to kiss you,” said Potter.
+
+Lyra stared at him.
+
+“I beg your pardon?”
+
+“You said I never told you the terms.” His voice had almost nothing left in it, and it was perfectly steady. “Those are the terms. You’ve got a wand. I’m telling you first, that’s all.”
+
+“Did you hear *one word* that I—”
+
+“Every word.” The corner of his mouth moved. It was the most insolent thing she had ever seen on a human face, and he was crying. “Never own a Malfoy. I heard. Put it on the bill.”
+
+She had finished him. She had taken him apart, in order, under headings; he could hardly stand. She had her wand in her sleeve and the door at her back and all the time in the world.
+
+She took her hand off the latch.
+
+There had been a boy behind a broom shed once who had asked, and waited to be told. He did not ask now. He kissed her as he had gone out to that dragon, and his hands came up and held her arms, very hard, and she felt him shaking, or herself, and could not tell which; and she understood what he was doing, because she had been brought up among people who did it.
+
+He was not trying to keep her. He had heard every word. He knew that she was going down those stairs, and that she would go on going down them for as long as she lived; he was not asking her to stay, or to say anything, or to be anybody but who she was. He was only seeing to it that she took this with her. It would go up to Wiltshire in the carriage. It would sit at her father’s table. There was no tin it could be sent back in and no column it could be put down to, and she might stand on whichever side of whatever it was she pleased. He had listened to her very carefully, and told her the terms, and put her in his debt.
+
+It was very well done.
+
+She wanted it clearly understood that nothing was forgiven. She did not stop to say so. She had the front of his robes in both her hands, and she held on, with her father’s letter in her sleeve and the ring warm on her finger; and all round them the owls came down, by ones and twos, to their rows in the evening light, and watched, and did not make a sound.
+
+When it stopped, she did not step back at once. All the insolence had gone out of him. He looked, for a moment, exactly fourteen. His face was wet, and hers was dry, and it would stay dry for as long as she told it to; she had been brought up to that.
 
 “That was the last one,” said Lyra, against his collar.
 

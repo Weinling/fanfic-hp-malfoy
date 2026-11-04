@@ -16,11 +16,11 @@ Lyra looked at the wall.
 
 It had been necessary. That was what nobody seemed to grasp. It had been six days since the seventh floor, and in the course of those six days it had come to her notice that Harry Potter, passing her in a corridor, had begun to look at her badge and then at the nearest hourglass, in a thoughtful way, and that Parkinson had remarked at dinner that it was a long time since anybody had seen her and Potter have a proper row. There was a position to keep up. She was the Princess of Slytherin and a friend of the Ministry. She could not have people saying that she had gone soft. So when he had said “Morning, Malfoy, nice badge” at the foot of the marble staircase, she had drawn her wand with a good deal of pleasure, and he had drawn his, and it was quite possible that she had laughed.
 
-“Saturday,” said Professor McGonagall. “Eight o’clock. The trophy room, together, with Mr Filch. By hand. Without wands. Every cup, shield and plate in the room, until I can see my face in them.” She took up her quill. “Professor Snape agrees with me. He asked me to say so in those words, Miss Malfoy, and I gather he finds it restful.”
+“Saturday,” said Professor McGonagall. “Eight o’clock. The trophy room, together, with Mr Filch. By hand. Without wands. Every cup, shield and plate in the room, until I can see my face in them.” She took up her quill. “Professor Snape concurs. He asks me to tell you, Miss Malfoy, that the colour does nothing for you.”
 
 “Together, Professor?” said Lyra.
 
-“I find,” said Professor McGonagall, without looking up, “that I should like to know that the two of you are in the same room. Good morning.”
+“I find,” said Professor McGonagall, without looking up, “that I should like to know the two of you are in the same room. Good morning.”
 
 ⁂
 
@@ -66,7 +66,25 @@ It was a very small movement, about an inch. It was quite enough. One of the thr
 
 “I shall have you *expelled*.”
 
-The argument about the chair took up most of the first hour. It went to three rounds of something that had started as a legal dispute and ended with each of them holding on to it by a leg. They agreed, in the end, on a wager. There were a hundred and twelve objects in the first cabinet. Whoever had polished more of them by half past nine should have the chair, and the other should say something civil.
+“The chair,” said Lyra, “is for the senior party.”
+
+“We’re the same age.”
+
+“I am a prefect. You are a convicted person.”
+
+“So are you. You can’t be senior in a detention. It’s like being senior in a ditch.”
+
+“Mr Filch has left it to my discretion.”
+
+“Mr Filch said if we broke it he’d hang us up by the thumbs.”
+
+“Then it had better be sat on by somebody who was taught how. Possession, Potter, is nine points of the law. I had that from my father.”
+
+“Right,” said Potter, and took hold of the back. “I’m possessing it.”
+
+She took hold of one of its three legs.
+
+That accounted for most of the first hour. They agreed, in the end, on a wager. There were a hundred and twelve objects in the first cabinet. Whoever had polished more of them by half past nine should have the chair, and the other should say something civil.
 
 She won. She won by four, and she would have won by more if he had not hidden one of her rags. Potter polished left-handed, she noticed, slowly, with his right hand in his pocket, and when she told him that that was the most affected thing she had ever seen, he said he had got polish in a cut. Lyra sat down in the chair, which she had wedged with a folded rag, and crossed her ankles.
 
@@ -160,7 +178,7 @@ Something was wrong with her neck. There was something under her cheek that was 
 
 She opened one eye, about a quarter of an inch. It was a shoulder. She had her head on it. It was going up and down very slowly. There was a jumper over her knees that she had not had before, and a good deal of pale pink hair had got across his collar. His head had tipped back against the glass. He had his glasses on crooked, and his mouth a little open, and he had his left hand lying on the floor beside her, palm up, as though he had put something down and forgotten what.
 
-She had seen him like that on the floor of a railway carriage when she was thirteen, and she had thought that with his mouth shut he looked like a marble boy on a tomb. She had thought it monstrously unfair. He looked about twelve. He looked as though nothing had ever told him anything.
+He looked about twelve. He looked as though nothing had ever told him anything.
 
 It must have been nearly midnight. She ought to move.
 

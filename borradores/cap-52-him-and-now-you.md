@@ -14,11 +14,11 @@ The quill was making a blot on the page. Lyra lifted it.
 
 “When?”
 
-“Last week. I made him.” Granger’s mouth went thin. “I’ve known something was wrong since the hospital wing in June. I watched him read your note. I watched him lie to me about it. I watched him at Grimmauld Place in August, looking at things before they happened, and not being surprised when they did, except that he *was* surprised, this summer, all the time, and I didn’t understand why that was worse. So I sat him down in an empty classroom and I didn’t let him leave until he’d told me.” She paused. “It took four hours. He cried, at one point. I don’t think he meant me to see.”
+“Last week. I made him.” Granger’s mouth went thin. “I’ve been writing things down since I was eleven. He stepped over a trick stair before anybody had told him it was there. He stopped being surprised by things, and this summer he started being surprised again, all the time, and I didn’t understand why that was worse. So I sat him down in an empty classroom and I didn’t let him leave until he’d told me.” She paused. “It took four hours.”
 
 Lyra said nothing.
 
-“Ron doesn’t know,” said Granger. “Nobody else knows. Him, and Dumbledore, and you. And now me.” She unfolded her hands, and put them flat on the books. “I thought you should know that I know. That’s all. I thought it would be worse if you found out some other way.”
+“Ron doesn’t know,” said Granger. “Nobody else knows. Him, and Dumbledore, and you. And now me.” She unfolded her hands, and put them flat on the books. “I thought you should know I know. That’s all. I thought it would be worse if you found out some other way.”
 
 *Him, and now you.* In the Owlery he had said it as though he were giving her something. She had kept it all summer without anybody to talk to about it. Granger had got it out of him in four hours, and then come to tell her herself.
 
@@ -30,17 +30,19 @@ Lyra looked at the girl across the table with reluctant respect.
 
 “I needed four years, and a beetle, and a dragon, and a cup that went nowhere.”
 
-Granger looked at her for a long moment. Then something happened to the corner of her mouth that was very nearly a smile, and was gone.
+Granger did not smile.
 
-“I had the advantage. The walls at Grimmauld Place are very thin, and his room was next to mine. He talks in his sleep.” She picked up the top book from her pile, and opened it, and found her place. “He says your name, mostly. In case you were wondering.”
+“I had sandwiches,” she said. She picked up the top book from her pile, and held it, and did not open it. “That’s the part I came to tell you. Here’s the other. Wayne Hopkins can’t do up his tie. Diggory does it for him, before breakfast, in the corridor outside the kitchens, so that nobody will see.” Her voice was exactly as it had been. “The walls at Grimmauld Place are very thin. He talks in his sleep. He says your name, mostly. I’d give a great deal to be able to tell you that he doesn’t.”
 
-Lyra turned back to *Numerology and Grammatica*, and read the same page for another twenty minutes, and did not take in one word of it, and did not mind.
+She found her place, and began to read.
+
+Lyra turned back to *Numerology and Grammatica*, and read the same page for another twenty minutes, and did not take in one word of it.
 
 ⁂
 
 She saw how Potter got into Diggory’s group that afternoon, in the Entrance Hall, at the end of lunch, with half the school going past.
 
-She had known about the group for a fortnight, since passing two sixth-years on rounds who were arguing about a Shield Charm Diggory had taught them. The Head Boy had decided that if Umbridge would not teach them to defend themselves, he would, and was meeting a dozen or so seventh- and sixth-years somewhere on the seventh floor twice a week. Umbridge did not know yet. Lyra had kept it to herself, in case it was worth more later.
+She had known about the group for a fortnight, since passing two sixth-years on rounds who were arguing about a Shield Charm Diggory had taught them. The Head Boy had decided that if Umbridge would not teach them to defend themselves, he would, and was meeting a dozen or so seventh- and sixth-years in the old duelling room behind the kitchens twice a week. Umbridge did not know yet. Lyra had kept it to herself, in case it was worth more later.
 
 Potter was not in it. Diggory had not forgiven him for a hedge in June, and a curse in the back, and a cup; and he had said so, in front of witnesses, in the first week of term, quite pleasantly, in the voice of a man who would never say so again.
 
@@ -66,7 +68,7 @@ Potter stood in the middle of the Entrance Hall in a sea of gold, with the whole
 
 It was the ugliest thing Lyra had ever seen him do, and the bravest, and she could not for the life of her have said which was which. She went down the dungeon steps with three Galleons in the toe of her shoe, where they had rolled, and left them on the bottom step for whoever wanted them.
 
-By Saturday, Parkinson had heard from a Ravenclaw, who had heard from somebody who was there, that Potter had gone up to the seventh floor that same night and waited outside a door in a bare wall for two hours. Diggory had let him in because he could teach them a corporeal Patronus, and had told him that if he ever turned his back on any of them in there, Diggory would know.
+By Saturday, Zabini, who heard everything and repeated almost none of it, had mentioned over his cards that Potter had gone down to the old duelling room that same night and waited outside the door for two hours. Diggory had let him in because he could teach them a corporeal Patronus, and had told him that if he ever turned his back on any of them in there, Diggory would know.
 
 ⁂
 
@@ -82,7 +84,7 @@ Lyra looked at his fist.
 
 “What club?”
 
-“A Defence club. A secret one. Diggory runs it. He’s *Head Boy*.” His voice had gone up; he brought it down again with a glance at the room. “Only seventh years and sixth years. And me. I’m the only first-year in the whole thing. We learnt Disarming on Thursday, I got Urquhart’s wand off him twice.”
+“A Defence club. A secret one. Diggory runs it. He’s *Head Boy*.” His voice had gone up; he brought it down again with a glance at the room. “Only seventh years and sixth years. And me. I’m the only first-year in the whole thing. We learnt Disarming on Thursday, I got Summerby’s wand off him twice.”
 
 “How did a first-year get into a club for sixth and seventh years, Draco?”
 
@@ -102,7 +104,7 @@ Potter had only to ask where Draco was going, and Draco would tell him, delighte
 
 “Did you tell anybody? About the corridor. On the seventh floor.”
 
-Draco’s face fell off its secret into guilt.
+The secret went out of Draco’s face, and the guilt came in.
 
 “No,” he said. “Course not. He didn’t ask about that. He just said *anywhere*.” He looked at her anxiously. “You won’t tell Father? About the club? He’d say Diggory’s a blood traitor. He’d make me leave.”
 
@@ -140,7 +142,7 @@ He did not raise his voice. He stood on the landing with his back to the stairca
 
 “I put a *friend* on him. Somebody who’d be there if—”
 
-“A bell.” She came up the last two stairs on to the landing, so that they were level. “You did to him exactly what you did to me. Don’t you see it? You did it for *four years*. You knew where everybody would be standing, and you made sure they stayed there, and you never told anybody why. You kept the whole world the shape you knew it, Potter, so you’d always know what came next. And I was standing where Draco stood, in that world, your world, and so everything that happened to him happened to me, and you watched it happen, and you let it, because if you’d moved me you’d have had to stop knowing.” Her voice shook. She let it. “And now you can’t see any more. And the first thing you do, the very first thing, is go and find my brother and put him on your board.”
+“A bell.” She came up the last two stairs on to the landing, so that they were level. “You did to him exactly what you did to me. You knew where everybody would be standing, and you made sure they stayed there, and you never told anybody why.” Her voice shook. She let it. “You asked me something in June. I have had nine answers, and you may have the sixth. *I did.* I came. I have gone up seven flights every night since September for that child, in the dark, and nobody asked me to; and the first thing you do, now that you can’t see any more, the very first thing, is go and find him in a corridor and put him on your board.”
 
 Potter had gone white.
 
@@ -166,7 +168,7 @@ She did not.
 
 They stood on the landing, a yard apart, in the light of her wand, and neither of them said anything for so long that the portrait of a sleeping wizard on the wall beside them woke up, and looked at them, and thought better of it, and went back to sleep.
 
-He was frightened for Draco. She could hear it, and could not make it cancel what he had done to her. She wanted to ask him to help without finding that he had already decided how. She wanted to tell him enough to make her brother safe and still have something left that belonged to her family.
+He was frightened for Draco. She could hear it, and could not make it cancel what he had done to her.
 
 “Don’t come near him again,” said Lyra.
 
@@ -180,9 +182,7 @@ She turned round and went down the marble staircase, and did not look back; and 
 
 She lay awake behind her hangings until the green light on the ceiling had gone from black to grey.
 
-She had taken the seventh-floor rounds and walked Draco back to bed, and he had gone up again whenever she was elsewhere. He had lessons, and friends, and whole afternoons in which she could not watch him. Potter’s coin depended on Draco telling him the truth. Her own plan depended on the same thing.
-
-There was still a sheet of old cream paper against her brother’s heart. She had protected him from being questioned and left herself with no idea what he was looking for.
+There was still a sheet of old cream paper against her brother’s heart.
 
 At some point before the grey turned white, she decided.
 
