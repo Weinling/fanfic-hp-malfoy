@@ -401,6 +401,8 @@ En orden de lectura. Las fechas marcadas «deducida» no las da el texto: salen 
 
 - **58 (enero de 1996):** ver `cap-58.md`. Narcissa encubre la salida de Lyra. Fuga de Azkaban: Bellatrix y, sin nombre, Pettigrew. Sala de los Menesteres: la butaca. Informes semanales; Voldemort pide lo que Harry teme y se ríe. Puntos, de diez en diez. Draco sigue sin hablarle. Crabbe, dolida por la promesa del día 2. Rata en el séptimo piso.
 
+- **59 (29 ene.-15 feb. 1996):** ver `cap-59.md`. Odio público ensayado; Lucius sabe y nadie más. **14 de febrero: Lyra dice «I love you» por primera vez, como insulto.** Su Patronus funciona tras el Crucio. Carta: Lucius pide un nombre del Ministerio.
+
 ## 5. Fichas vivas
 
 Al final del 57.

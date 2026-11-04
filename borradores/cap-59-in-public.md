@@ -34,7 +34,7 @@ She picked up her knife, and went on with her toast. Zabini, across from her, wa
 
 “I’d just seen your face,” said Potter, from the rug. “You were doing the nostrils. I nearly lost it.”
 
-It was half past nine, and the snow was going by in the little window. They had the script on the floor between them, a sheet of the second-best paper with two columns on it and a number of crossings-out. It had begun as a precaution. Nobody could be seen to stop hating Harry Potter; not Lucius Malfoy’s daughter, not this year, with her father’s owl on the table every Wednesday; and since it had to be done in any case, it had seemed to her only sensible that it should be done properly. That had been three weeks ago. She gave him a mark every evening, out of ten, in red. He was currently averaging five and a half. She had found herself lying awake on the Sunday night, with her heart going, because she had thought of a thing to say about his glasses.
+It was half past nine, and the snow was going by in the little window. They had the script on the floor between them, a sheet of the second-best paper with two columns on it and a number of crossings-out. It had begun as a precaution. Her father knew about the window. Nobody else could: not Umbridge, not Weasley, not forty Slytherins with fathers of their own. A boy who confides must believe that nobody knows, her father had written, and his owl was on the table every Wednesday; and since she could not be seen to stop hating Harry Potter, it had seemed to her only sensible that it should be done properly. That had been three weeks ago. She gave him a mark after every performance, out of ten, in red. He was currently averaging five and a half. She had found herself lying awake on the Sunday night, with her heart going, because she had thought of a thing to say about his glasses.
 
 “Zabini gave you a six,” said Potter.
 
@@ -62,7 +62,7 @@ She had read it three times. She had never in her life been told what to do by a
 
 “‘Describe the causes of the goblin rebellion of 1612,’” Lyra read. “You have twenty minutes.”
 
-It was the Friday. They were doing History of Magic. It was, she felt, an odd thing to be doing in that room; but it was on the timetable, and she had got into the habit of finishing things, and he had been so plainly astonished at being made to sit up and take a quill that she had decided to go on with it for the look on his face. She had been at it for an hour. They had not touched one another, except by accident, and once with a ruler.
+It was the Friday. They were doing History of Magic. It was, she felt, an odd thing to be doing on a Friday night; but it was on the timetable, and she had got into the habit of finishing things, and he had been so plainly astonished at being made to sit up and take a quill that she had decided to go on with it for the look on his face. She had been at it for an hour. Nobody had been hit, except by accident, and once with a ruler.
 
 He had his chin on his fist, and he was staring at the fire. He looked tired and thoughtful, and he had ink on his ear. She was sitting on the rug with her back against the chair and his knee beside her head. Nothing had been settled. He had not said anything clever. She was still angry with him about a crown, in a small way, when she remembered; he was, she knew, still looking at her hands; and it seemed that one could go on being angry and copy out the dates of the Goblin Wars, and that it was rather peaceful.
 
@@ -104,17 +104,19 @@ She had got hold of the front of his jumper. She found she was making a sound. I
 
 “I’d rather not—”
 
-“Twice! You’ve *failed* it, haven’t you? You, of all the people in the entire— You know the *future!*” She could not breathe. There were tears going down beside her nose. It was some time since that had happened to her, and it hurt a good deal, under the ribs, and she never wanted it to stop. “Oh, you poor *idiot*. Oh, I shall tell Granger. What was on the Charms paper? No. Don’t tell me. *Tell* me. I shan’t use it.”
+“You’ve *failed* it, haven’t you? You, of all the people in the entire— You know the *future!*” She could not breathe. There were tears going down beside her nose. It was some time since that had happened to her, and it hurt a good deal, under the ribs, and she never wanted it to stop. “Oh, you poor *idiot*. Oh, I shall tell Granger. What was on the Charms paper? No. Don’t tell me. *Tell* me. I shan’t use it.”
 
 “That’s cheating.”
 
 “I know it’s cheating! What was question six?”
 
-He looked down at her. He was scarlet, and furious, and it was starting to get away from him at one corner of his mouth. Nobody had laughed like that at him, she thought, in either of his lives. He seemed to find that he did not mind.
+He looked down at her. He was scarlet, and furious, and it was starting to get away from him at one corner of his mouth. Nobody had laughed like that at him, she thought, in either of his lives. He found he did not mind.
 
 “Substantive charms,” said Potter. “Something about a goblet. I got it wrong.”
 
-She kissed him. It seemed to be the only way of stopping. It did not work; she got the giggles halfway through, and bit her own lip, and he said “Ow” on her behalf.
+She kissed him, as the only way of stopping. It did not work; she got the giggles halfway through, and bit her own lip, and he said “Ow” on her behalf.
+
+They went back to the goblins, since it was on the timetable. She read out the dates, and he got them wrong. The fire burned down a little, and he put a log on it. Nobody said anything for the rest of the hour, and nobody gave it a mark.
 
 ⁂
 
@@ -124,7 +126,7 @@ There was Theodore Nott, for one. He had given her a book. It was only *The Grea
 
 “You read it,” said Lyra.
 
-Potter looked up from his Potions essay with an open and innocent face.
+Potter looked up from his Transfiguration essay with an open and innocent face.
 
 “There are eleven hundred pages in this. You loathe the Great Houses of Wessex. You’ve never in your life read anything with plates.”
 
@@ -142,7 +144,7 @@ She closed the volume and put it back. It was perfectly ridiculous. There was no
 
 “I don’t remember any spoon! I was *thirteen!*”
 
-“You were thirteen, and you picked it up. I was four tables away. I’ve got the date.”
+“You were thirteen, and you picked it up. I was three tables away. I’ve got the date.”
 
 It cost him a bad quarter of an hour. She kissed him at the end of it, to show that there was no ill feeling, and then again, on reflection, because there was.
 
@@ -186,13 +188,13 @@ She had known it would. She had told him that if he did anything of the kind she
 *Thy hair is like a Fanged Frisbee.*
 *Thine eyes are grey as old lino—*
 
-Nobody in the history of the school had ever been so happy as Panther Parkinson was at that moment. He had to be held up by Montague. Down the Hall, every head at the Hufflepuff table had turned. The verses went on. There were five of them, in a high fluting voice with a slight lisp. *Lino*, she was given to understand, had been made to rhyme in the fourth verse with *rhino*. It was signed, in letters of gold, *An Admirer*.
+Nobody in the history of the school had ever been so happy as Panther Parkinson was at that moment. He had to be held up by Montague. Down the Hall, every head at the Hufflepuff table had turned, except for one, long and mild, that went on with its porridge, left-handed. The verses went on. There were five of them, in a high fluting voice with a slight lisp. *Lino*, she was given to understand, had been made to rhyme in the fourth verse with *rhino*. It was signed, in letters of gold, *An Admirer*.
 
 Lyra sat through to the end of it. She reached out, and shut the thing, with one finger. It gave a small strangled *ahoy*. She lifted her eyes, and looked along the length of the room, past Ravenclaw, to where a dark untidy head was bent very low over its porridge. Its shoulders were perfectly still. It was the stillest head she had ever seen.
 
 “Thomas,” said Zabini thoughtfully, turning over a card. “Or a Weasley. It’s got that sort of finish. Nine.”
 
-She was first in the room that night. It was a Wednesday, and not on the timetable, and neither of them was going to mention it. She had got the chair. She sat in it with her arms along its arms and her book open on her knee, and she had been composing what she was going to say since a quarter to eight that morning. It had an opening and three heads. She heard the door. She did not look up. He came round the side of the chair, with his hair on end, and an expression of holy calm; and he said, “Did you get anything nice?”; and without any further remark he folded himself up and sat down on her book.
+She was first in the room that night. It was a Wednesday, and not on the timetable, and neither of them was going to mention it. She had got the chair. She sat in it with her arms along its arms and her book open on the left one, and she had been composing what she was going to say since a quarter to eight that morning. It had an opening and three heads. She heard the door. She did not look up. He came round the side of the chair, with his hair on end, and an expression of holy calm; and he said, “Did you get anything nice?”; and without any further remark he folded himself up and sat down on the arm of the chair, on her book.
 
 “Get off.”
 
@@ -216,7 +218,7 @@ He had stopped, with his mouth a little way open. He had turned his head, and he
 
 “I said *get off my chair*. It was a figure of speech. I meant *loathe*. It was the marmalade. I have had a very trying day.” Her face was on fire, from the collar up. She could feel it in her ears. “Stop *looking* at me like that. What are you doing? What’s that? Put that down!”
 
-He had got out a quill. He had taken a sheet of paper from the fender, and was hunting about, with a hand that did not seem to work very well, for something to lean on. He settled on her knee. He wrote for a moment, breathing through his mouth, with his tongue between his teeth, and then he sat and looked at what he had put.
+He had got out a quill. He had taken a sheet of paper from the fender, and was hunting about, with a hand that was not working very well, for something to lean on. He settled on his own knee. He wrote for a moment, breathing through his mouth, with his tongue between his teeth, and then he sat and looked at what he had put.
 
 “What’s the time?” said Potter. It came out cracked. “I want it for the record.”
 
@@ -232,7 +234,7 @@ She looked at him. She looked at him sitting on her Arithmancy, with ink on his 
 
 The owl was on the rack by her plate the next morning.
 
-It was her father’s, the grey one. It held out its leg as it always did. She had come down late, and rather well pleased with the world. She had caught a glimpse of a dark head at the Gryffindor table, and it had lifted, as she passed, and very slightly mouthed the word *ahoy*. She gave the owl a piece of bacon. She slit the letter with her butter knife.
+It was her father’s, the grey one. It held out its leg as it always did. It was a Thursday. He wrote on Tuesdays, and it came on Wednesdays, and it had come yesterday. She had come down late, and rather well pleased with the world. She had caught a glimpse of a dark head at the Gryffindor table, and it had lifted, as she passed, and very slightly mouthed the word *ahoy*. She gave the owl a piece of bacon. She slit the letter with her butter knife.
 
 It was a single side. He had not put in anything about Draco, or the Minister. The hand was his, and it had got worse.
 
