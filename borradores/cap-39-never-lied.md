@@ -332,7 +332,7 @@ So that was that. She crossed to the door and put her hand on the latch. There w
 
 She stopped. She always did, at doors in this castle; it was a failing.
 
-He had let go of the sill. He was coming back across the straw, dragging the leg, and taking his time about it. His face was grey and wet and he did not seem to care who knew it, and he was looking at her as she had seen him look at a dragon, from the mouth of a tent: as one looks at a thing that one has been reliably informed cannot be done.
+He had let go of the sill. He was coming back across the straw, dragging the leg, and taking his time about it. His face was grey, and his eyes were wet, and he did not seem to care who knew it, and he was looking at her as she had seen him look at a dragon, from the mouth of a tent: as one looks at a thing that one has been reliably informed cannot be done.
 
 He stopped in front of her.
 
@@ -346,9 +346,9 @@ Lyra stared at him.
 
 “Did you hear *one word* that I—”
 
-“Every word.” The corner of his mouth moved. It was the most insolent thing she had ever seen on a human face, and he was crying. “Never own a Malfoy. I heard. Put it on the bill.”
+“Every word.” The corner of his mouth moved. It was the most insolent thing she had ever seen on a human face, and his eyes were still wet. “Never own a Malfoy. I heard. Put it on the bill.”
 
-She had finished him. She had taken him apart, in order, under headings; he could hardly stand. She had her wand in her sleeve and the door at her back and all the time in the world.
+She had finished him. She had taken him apart, in order, under headings, and he was standing there on one leg. She had her wand in her sleeve and the door at her back and all the time in the world.
 
 She took her hand off the latch.
 
@@ -360,7 +360,7 @@ It was very well done.
 
 She wanted it clearly understood that nothing was forgiven. She did not stop to say so. She had the front of his robes in both her hands, and she held on, with her father’s letter in her sleeve and the ring warm on her finger; and all round them the owls came down, by ones and twos, to their rows in the evening light, and watched, and did not make a sound.
 
-When it stopped, she did not step back at once. All the insolence had gone out of him. He looked, for a moment, exactly fourteen. His face was wet, and hers was dry, and it would stay dry for as long as she told it to; she had been brought up to that.
+When it stopped, she did not step back at once. All the insolence had gone out of him. He looked, for a moment, exactly fourteen. His lashes were wet, and there had been a breath or two that had not quite been breaths. Her own eyes were still stinging, and they would stay as they were for as long as she told them to; she had been brought up to that.
 
 “That was the last one,” said Lyra, against his collar.
 

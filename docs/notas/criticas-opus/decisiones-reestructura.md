@@ -18,3 +18,5 @@
 Centro del interludio (mapa, Snape, audiencia); podio del 38; Moody del 40; Selección (44) y clase de Umbridge (45); primera mitad del 50; oro del 52; el perro del 53; coda de Draco del 48. El 45 y el 50 se aceptan largos de momento. Conviene hacerlos en la pasada de lectura en frío.
 
 **Rechazado:** nada de fondo.
+
+**Autor, 4 de noviembre:** el 39 queda cerrado. Harry no se derrumba: ojos húmedos y algún sollozo, no llanto; y Lyra no parece intacta.
