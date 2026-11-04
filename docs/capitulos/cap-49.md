@@ -4,7 +4,7 @@
 ## Escenas
 1. **La reunión de prefectos (Lyra).** Sala tras el pasillo de Encantamientos; Diggory lee las entradas del libro: «Insolence… Insolent use of a window seat… Breathing.» Weasley, de pie: **«Seventy points!»** Gryffindor, por detrás de Hufflepuff, todo de una persona. Lyra: decreto «Twenty-Four, page nine». Diggory: «Your entries are in order, Malfoy… whether they’re in proportion.» Granger calla y hace ticks. Lyra se sabe «in an excellent temper» desde hace semanas: se ve con Potter unas dos veces por semana, «about a minute and a half», y escribe *Insolence*. Cada vez dice que es la última («This week» / «It’s *Tuesday*» / «Before lunch»). Una noche, tras la armadura, él dice «You could stop» sobre lo que da a Umbridge; ella lo agarra del batín; **«*Them*»**; el beso «tasted of the argument».
 2. **Lavender Brown (sábado).** En el lago, con Crabbe y Goyle, ve a Potter con Lavender Brown, que le sostiene la mano marcada, enseñándole un hechizo para disimular granos. Dobla la cuchara del yogur. Goyle: «Only you’ve bent your spoon.» Esa noche, en el alféizar de la sexta planta: «Brown.» **Crabbe se lo dijo a Hermione.** Él, sonriente: era un hechizo «for spots»; «She did it through the bandage; I told her it was warts.» Muestra la mano, ya con la línea plateada. **«Mine,» said Lyra.** / «Say that again.» / «Never own a Malfoy… You said.» / «I said that *you* couldn’t.» Beso largo, forehead against his collarbone. «That was the last one.» / **«Eighty-five.»**
-3. **La biblioteca (Halloween).** Granger deja un pergamino: **«Eighty-five points since the twelfth of September.»** Ninguna en clase ni en comidas; casi todas pasadas las diez, «Four on the sixth. Eight on the seventh. One on the third»; «always, *always*, in fives». Cuenta: «seventeen». «Seventeen *what*, Harry?» Lyra intenta pisarle el tobillo, tarde. **«Sixteen. One was a line.»** Granger: «Oh, for *heaven’s* sake.» Weasley «made a *graph*» y va al jefe de su Casa. **«Is it safe?»** / **«Nothing is safe, Granger… But I keep very careful accounts.»** Vuelve Weasley («Have you got a cold?» / «Yes.»).
+3. **La biblioteca (Halloween).** Granger deja un pergamino: **«Eighty-five points since the twelfth of September.»** Ninguna en clase ni en comidas; casi todas pasadas las diez, «Four on the sixth. Eight on the seventh. One on the third»; «always, *always*, in fives». Cuenta: «seventeen». «Seventeen *what*, Harry?» Lyra intenta pisarle el tobillo, tarde. **«Fifteen. One was a line. One was fraud.»** Granger: «Oh, for *heaven’s* sake.» Weasley «made a *graph*» y va al jefe de su Casa. **«Is it safe?»** / **«Nothing is safe, Granger… But I keep very careful accounts.»** Vuelve Weasley («Have you got a cold?» / «Yes.»).
 4. **La escalera (antes del banquete).** McGonagall la para bajo los relojes de arena (los rubíes, reducidos). Weasley ha ido con su gráfico. «He is improving, Professor.» Ella le quita de la túnica **un hilo de lana roja** de Gryffindor y lo deja caer por la barandilla: **«I was at school under Armando Dippet… I should take them in tens, if I were you. It’s less conspicuous.»**
 
 ## Frases literales importantes
@@ -13,7 +13,7 @@
 - «Mine,» said Lyra.
 - «Never own a Malfoy,»
 - «Eighty-five,»
-- «Sixteen. One was a line.»
+- «Fifteen. One was a line. One was fraud.»
 - «Is it safe?»
 - «Nothing is safe, Granger,»
 - «But I keep very careful accounts.»
@@ -21,7 +21,7 @@
 
 ## Fichas (objetos y motivos)
 - **El libro de prefecta:** cada deducción es una entrada de «Insolence».
-- **La cuenta de puntos:** múltiplos de cinco, ochenta y cinco en total, diecisiete (dieciséis más una «line»).
+- **La cuenta de puntos:** múltiplos de cinco, ochenta y cinco en total, diecisiete (quince besos, una «line» y el fraude).
 - **La mano marcada de Potter:** la línea ya plateada; Lavender la ha tocado.
 - **La cuchara doblada** (Lyra, yogur).
 - **El hilo rojo** en el segundo botón de Lyra.
@@ -31,7 +31,7 @@
 ## Libro de cuentas
 - Ochenta y cinco puntos a Gryffindor desde el 12 de septiembre, todos de cinco en cinco, casi todos de noche.
 - «Eighty-five» dicho tras el beso del sábado; al día siguiente (Halloween) lo cuenta Granger a la luz del día.
-- «Sixteen. One was a line.»
+- «Fifteen. One was a line. One was fraud.»
 
 ## Quién sabe qué (al final)
 - **Granger** sabe lo de ellos dos y que Weasley lo ignora; guarda el pergamino. Lyra: «keep very careful accounts».
@@ -53,7 +53,7 @@
 - Madam Pince, tras los estantes.
 
 ## Continuidad fácil de romper
-- Ochenta y cinco puntos = diecisiete cincos = dieciséis deducciones más una «line» (la de la sexta planta del 47 cuenta como línea).
+- Ochenta y cinco puntos = diecisiete cincos = quince besos, una «line» (47) y un fraude (46).
 - Todas las deducciones pasadas las diez de la noche, salvo una; nunca más de una por noche salvo un sábado de septiembre (tres).
 - Granger tiene el pergamino plegado «in the inside of her robes».
 - McGonagall: «in tens».

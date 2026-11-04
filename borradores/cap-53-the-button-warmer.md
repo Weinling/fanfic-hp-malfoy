@@ -60,7 +60,7 @@ She knew that hand.
 
 On the letter she had carried to Karkaroff, a year ago last November: an old-fashioned hand, with long loops, unsteady at the ends. She had supposed her father had had somebody address it for him. Karkaroff had done everything that letter asked. Her father had called her errand a piece of a great work.
 
-It was the same hand. The same long loops. The same way of making a capital *G*, with a hook at the top like a shepherd’s crook.
+It was the same hand. The same long loops, the same old-fashioned shapes.
 
 But it did not shake.
 
@@ -118,7 +118,7 @@ When she did, it was by accident. She had reached across Crabbe for the salt, an
 
 A round brass button, about the size of a Sickle, with a little clip on the back.
 
-She knew it. She knew it as one knows one’s own handwriting across a room. She had worn it at her collar on a December afternoon two years ago, in a shack with the sleet coming down outside, and it had kept the whole of her warm for an hour; and then he had smiled at her, kindly, patiently, in a way she could not bear, and she had torn it off and thrown it, across the floorboards, and watched it roll in a long unsteady curve and tip through a gap by the wall into the dark under the floor. She had not waited to hear it land.
+She knew it. She knew it as one knows one’s own handwriting across a room. She had worn it at her collar on a December afternoon two years ago, in a shack with the sleet coming down outside, and she had torn it off and thrown it across the floorboards, and watched it tip through a gap by the wall into the dark.
 
 He had gone back for it.
 

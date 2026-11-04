@@ -198,7 +198,7 @@ She went to the bedside table and opened the drawer, as she had opened it every 
 
 There was a handkerchief. Soft, and folded small, and pressed. Nothing else.
 
-There was a band of paler skin round her finger, where it had been for thirteen months. She rubbed at it with her thumb, for some time, and that did not want to come off either.
+There was a band of paler skin round her finger, where the ring had been since December. She rubbed at it with her thumb, for some time, and that did not want to come off either.
 
 She shut the drawer, and stood at the window in the dark, and looked east, where there was a light in the cottage at the end of the path; and thought of Draco coming up from it at six in the morning with grass on his knees, to tell her that the old man’s hands had stopped shaking.
 

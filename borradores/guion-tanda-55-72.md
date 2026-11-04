@@ -204,7 +204,7 @@
 **Escenas:**
 1. **Nuevo.** Umbridge guarda el cuaderno de Hopkins en un cajón con lazo. Lyra lo roba. Con las pruebas: nueve nombres, ahora catorce; la pluma, sacada del despacho con un encantamiento de Harry que ella no le explica para qué quiere.
 2. **Nuevo.** Lo manda a Amelia Bones, en papel que no es de la casa, con una nota escrita por Crabbe. **Tiene que pedírselo.** Crabbe lee la nota, y lo escribe sin decir nada. «This isn’t anything.»
-3. **Sustituye a la batalla del E.D. (72).** Bones llega al Gran Comedor con dos aurores. Umbridge sale del castillo entre mesas en silencio, con Dumbledore de pie. En la mesa de Hufflepuff, Hopkins no levanta la vista. Mira a Lyra al pasar: «But you’re a good girl.»
+3. **Sustituye a la batalla del E.D. (72).** **Hopkins decide algo por sí mismo (Codex):** cuando Bones pide un testigo, nadie se levanta, y se levanta él; lee la lista con el cuaderno en la mano izquierda. No sabe quién la mandó. Bones llega al Gran Comedor con dos aurores. Umbridge sale del castillo entre mesas en silencio, con Dumbledore de pie. En la mesa de Hufflepuff, Hopkins no levanta la vista. Mira a Lyra al pasar: «But you’re a good girl.»
 4. **Nuevo.** La butaca. Harry sabe que fue ella, y se lo pregunta, y ella dice que no sabe de qué habla. Está tan contento que no ve lo que tiene delante. La levanta del suelo. «*Mine*», dice, ya no tan de broma. A ella le encanta. Se lo dice. Es verdad, y eso es lo malo.
 5. **Nuevo.** Decreto, en una línea: el Escuadrón se disuelve. La insignia, en el cajón. Lucius, por carta: *How careless of you to lose her.* Hopkins, fuera.
 
@@ -380,7 +380,18 @@
 
 ---
 
-## 3. El recuento
+## 3. Avisos de la lectura completa (Codex, 4 de noviembre)
+
+- **No repetir el estribillo** tal cual: «That was the last one» vuelve solo si cambia algo. Tras el 57, en un momento distinto de cada vez.
+- **Que puedan estar juntos sin resolverlo ni besarse.** Volver a confiar no es volver a tocarse.
+- **El brazo no exculpa a Harry.** La envidia, las omisiones y usar a otros son suyos.
+- **Harry pregunta antes de diseñar:** una victoria con una respuesta que no había previsto.
+- **Hopkins, Crabbe y Goyle tienen vida propia.** Goyle le niega algo a Lyra en algún capítulo de la tanda (62 o 66), sin dejar de quererla.
+- **Hermione y Ginny:** que el relato sepa lo que hizo Hermione al prometer callar; Ginny no es un argumento sobre Ron.
+- **Menos remates y menos segunda explicación de objetos.** Una escena puede acabar en una acción corriente.
+- **«Everything»:** oportunidad de no cobrar; se decide en el tramo 5.
+
+## 3 bis. El recuento
 
 | Objetivo (guion general) | Mínimo | Este guion |
 |---|---|---|

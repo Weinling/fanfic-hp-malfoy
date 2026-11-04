@@ -154,7 +154,7 @@ She felt her wrist, under the cuff, and the whole of the landing went very quiet
 
 He shut his mouth.
 
-It took him some effort. She watched his throat move as he got it down. Then he looked along his own arm at the wand in his hand, with the most complete astonishment she had ever seen on a human face, and he lowered it, an inch at a time, as one puts down something that may go off; and he took it in his left hand, and put it away inside his robes, and stood holding his right wrist.
+It took him some effort. She watched his throat move as he got it down. Then he looked along his own arm at the wand in his hand, with complete astonishment, and he lowered it, an inch at a time, as one puts down something that may go off; and he took it in his left hand, and put it away inside his robes, and stood holding his right wrist.
 
 Neither of them mentioned it.
 

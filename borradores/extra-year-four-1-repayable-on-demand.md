@@ -68,7 +68,7 @@ It was a small flat book in dark green boards, with a loop for a pencil. Every M
 
 “There’s *pages*.”
 
-“There are four and a half. Item,” said Lyra. “One scarf, green, Slytherin, wool, eaten by an owl of yours in the Owlery in November 1993, with interest. Item, one butterbeer, under protest. Item, the use of a Summoning Charm, for which you were to have given me something, and didn’t. Item, a remark of yours about my hair in the second week of February, which I’ve valued at five Sickles. I was generous. Item—”
+“There are four and a half. Item,” said Lyra. “One scarf, grey, cashmere, savaged by an owl of yours in the Owlery in October 1993, with interest. Item, one butterbeer, under protest. Item, the use of a Summoning Charm, for which you were to have given me something, and didn’t. Item, a remark of yours about my hair in the second week of February, which I’ve valued at five Sickles. I was generous. Item—”
 
 “Hang on. Hang on. What about you? You owe me for a dragon.”
 

@@ -30,7 +30,7 @@ Her hands did it quite neatly. She put the letter into her sleeve, against the i
 
 *Your errand in November.* A sealed letter in green wax, in a hand she did not know, carried up a gangplank by a girl who thought she was using her father to open a door. A piece of a great work.
 
-*The raids.* She had thought of that herself. She had sat across the breakfast table from him at Christmas, eighteen months ago, and handed it to him like a gift, and watched his face light up; and he had used it, and it had held, and now it was what he had told the Dark Lord, and it was what she would say if she were asked. She would say it, too. She knew that already. She would say it beautifully.
+*The raids.* She had thought of that herself. She had sat opposite him in his study at Christmas, eighteen months ago, and handed it to him like a gift, and watched his face light up; and he had used it, and it had held, and now it was what he had told the Dark Lord, and it was what she would say if she were asked. She would say it, too. She knew that already. She would say it beautifully.
 
 And on the end of her bed, that same Christmas, she had sworn to be at his feet before the others had found their masks: at the front, on her knees, making herself so useful for so long that one lost diary would be a thing he could afford to overlook. Even if it meant turning on Potter.
 
@@ -320,7 +320,7 @@ She looked at him.
 
 “Never *own* a Malfoy, Potter.”
 
-It was a very good line. There was, she realised, only one person in the world she would have told it to.
+There was only one person in the world she would have told it to.
 
 He did not say anything. There did not seem to be anything left in him to say it with. He looked at her a moment longer, and then he turned and went back across the straw to the window, slowly, like a man carrying something up a flight of stairs, and stood with his back to her and both hands on the sill.
 
@@ -346,7 +346,7 @@ Lyra stared at him.
 
 “Did you hear *one word* that I—”
 
-“Every word.” The corner of his mouth moved. It was the most insolent thing she had ever seen on a human face, and his eyes were still wet. “Never own a Malfoy. I heard. Put it on the bill.”
+“Every word.” The corner of his mouth moved. It was the most insolent thing she had ever seen, and his eyes were still wet. “Never own a Malfoy. I heard. Put it on the bill.”
 
 She had finished him. She had taken him apart, in order, under headings, and he was standing there on one leg. She had her wand in her sleeve and the door at her back and all the time in the world.
 

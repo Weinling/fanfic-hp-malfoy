@@ -136,7 +136,7 @@ She put her back against the wall and held her bag to her chest, with her eyes s
 
 He had never said it. Not even in the Owlery, when she had told him it was over and he had said *this year*. She had not said it either. They had debts and rings and a sugar quill bent in the middle; she had thought the words themselves were for other people.
 
-He had found a way to say it that she could not answer, and could not give back, and could not put on any account in the world. It was the most underhanded thing anybody had ever done to her. It was worse than Lupin.
+He had found a way to say it that she could not answer, and could not give back, and could not put on any account in the world. She could not decide whether he had meant to give her something or to make her watch him bleed.
 
 At the end of the corridor a door opened, and footsteps went away in the other direction, slow, and a little uneven: towards the hospital wing, she hoped. She did not open her eyes until they had gone.
 

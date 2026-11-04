@@ -140,7 +140,7 @@ Lyra did not move a muscle. She had been brought up to it. She kept her eyes on 
 
 She was a quarter of a second too late.
 
-“Sixteen,” said Potter. “One was a line.”
+“Fifteen,” said Potter. “One was a line. One was fraud.”
 
 The foot arrived. He made a small noise and looked at the ceiling.
 

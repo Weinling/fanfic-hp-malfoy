@@ -270,7 +270,7 @@ He turned his head at that, and looked at her properly, and it went through her 
 
 “I don’t,” said Potter; and he smiled.
 
-She had not seen it since March, and she would have liked it put on record that she was still extremely angry. It was not the one he kept for the Great Hall. It started at one corner and went crooked, and it had no business whatever on a face that thin at that hour of the night, in front of a person who had sent it a tin.
+She had missed that particular smile, and she would have liked it put on record that she was still extremely angry. It was not the one he kept for the Great Hall. It started at one corner and went crooked, and it had no business whatever on a face that thin at that hour of the night, in front of a person who had sent it a tin.
 
 He got down off the sill. He was taller than he had been in June. She could not have told anybody afterwards which of them crossed the last of the floor; she only knew she had hold of a handful of tartan dressing gown, and that it was quite short, and not at all sensible, and that he kept his right hand in his pocket the whole time, which she thought was very like his cheek.
 

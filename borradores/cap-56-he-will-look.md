@@ -68,7 +68,7 @@ He lifted his eyes from the silver. He did not look at anybody in particular.
 
 “Did they go through the cellars, Lucius?”
 
-She had sat across a table from her father at Christmas, two years ago, and handed that to him like a present. *I suppose the simplest thing would be the raids.* She had watched his face light up. She could see his hands now, flat on either side of the plate. She saw him look at them, and she saw him think.
+She had sat opposite her father in his study at Christmas, two years ago, and handed that to him like a present. *I suppose the simplest thing would be the raids.* She had watched his face light up. She could see his hands now, flat on either side of the plate. She saw him look at them, and she saw him think.
 
 He looked at her.
 

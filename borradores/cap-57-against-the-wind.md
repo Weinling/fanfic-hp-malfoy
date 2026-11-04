@@ -22,7 +22,7 @@ Behind him, four floors down, they had all started to shout the numbers.
 
 ⁂
 
-He had been cold before. He had been cold in a lake and on a mountain, and for most of one winter in a tent. He had never been cold like the sky over the M4.
+He had been cold before. He had been cold in a lake and on a mountain, and for most of one winter in a tent. He had never been cold like the sky over the M4. There was a brass button that would have seen to all of it, on the collar of his school robes, on the back of a chair in Grimmauld Place. He thought about it for some time.
 
 For the first half-hour he could still see the lights, going by underneath in a long smeared string, and after Reading he lost them. There was nothing then but the noise. The snow came straight at him out of the dark and got in behind his glasses. He flew flat along the handle with his face in his sleeve and the atlas buttoned inside his jumper, and he had no way at all of telling whether he was moving, except that his hands were dying from the fingers in. The ring was the only warm thing he owned. It hurt. It went on hurting, and every so often it hurt more, on one side, and he found if he leaned that way it eased; and after a while he stopped steering by anything else.
 
@@ -149,6 +149,14 @@ He held it. He held it as you would hold an egg, or a lit match, and he felt the
 At some point he noticed that he could not feel it any more. Her hand had gone still in his. Her head had come down against the front of his cloak, without anybody having said anything about it.
 
 “There,” said Malfoy, indistinctly. “That wasn’t so difficult.”
+
+“I put you against a wall,” said Harry.
+
+It was not what he had meant to say. It was the only thing he had. “I hurt your arm, and I frightened you, and I’m sorry. I’m not asking you to do anything about it.”
+
+She did not lift her head.
+
+“No,” she said, after a while. “I know you’re not.”
 
 ⁂
 

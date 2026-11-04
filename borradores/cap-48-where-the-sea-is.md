@@ -196,8 +196,6 @@ She held her face arranged until he looked away. She could not tell whether he b
 
 “Right,” said Potter quietly.
 
-He had said that once before, in this room, in June, to a lie.
-
 ⁂
 
 He put his hand into the pocket of his robes and took something out and held it out to her, on his palm, the palm of the hand with the words on the back of it.

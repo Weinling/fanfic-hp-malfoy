@@ -32,7 +32,15 @@ Parkinson had the *Prophet* in the corridor. There were ten faces on the front o
 
 “Yes, Panther. I’d noticed. Move your feet.”
 
-Crabbe was in the compartment, by the window. Lyra sat down. Crabbe looked at her, and took her bag from the seat, and went and sat by the door. Goyle stayed where she was, with her big soft face going from one to the other, and after some time she unwrapped a pasty and held it out across the gap, to nobody in particular, and waited to see who would take it.
+Goyle had kept her a seat. She had a pasty, and she held it out without saying anything, and went on holding it. Crabbe was not in the compartment. Crabbe had been at Hogwarts since the end of term, on Lyra’s signature, in a dormitory with nobody else in it; and it was not until somewhere after York that Lyra remembered having told her she would be back on the second.
+
+She found her that night, at the end of the room, with her Arithmancy. It was all done, in two neat columns.
+
+“I said the second,” said Lyra.
+
+“Yes,” said Crabbe. She ruled a line under something, and blotted it. “It was very quiet. You said I’d hate it.”
+
+There did not seem to be anything that one could sign.
 
 ⁂
 
@@ -216,7 +224,7 @@ She went to sleep. She had not intended to. It was the sort of thing one could o
 
 She was not altogether asleep. She had a dim idea that it had got late; that he had worked one arm free, and got the rug over her knees; that he was looking at her. She knew what that felt like. She had been looked at by him in the Great Hall, and across a street, and through the steam on a platform, and she could have told it from any other look in the dark.
 
-He breathed in. He seemed to be trying something, in the way that one tries a stair. It was very quiet; it had hardly any voice in it.
+He breathed in. He seemed to be trying something out. It was very quiet; it had hardly any voice in it.
 
 “Mine,” said Potter.
 
