@@ -84,7 +84,9 @@ Es el del handoff v3.0, §10, con este cambio: los capítulos se escriben en `bo
 
 ## Quién hace qué (propuesta, por cerrar con el autor)
 
-**Decisión del autor (3 de noviembre de 2026):** cuenta con límites estrictos y sin Fable. La crítica la hacen sesiones externas que lanza el autor (Opus o Codex), con `docs/notas/reestructura/encargo-criticos-opus.md` o `encargo-critico-codex.md`; desde esta sesión no se lanzan críticos ni consultas a Fable. Las lecturas son por tarea: la lectura de la historia entera deja de ser obligatoria. Manda sobre la tabla de abajo y sobre lo que diga este archivo de lecturas y crítico.
+**Decisión del autor (4 de noviembre de 2026):** cada capítulo nuevo o rehecho lo revisa un crítico Opus como subagente, antes de darlo por cerrado (reutilizando al que ya tenga el contexto mientras le quepa), y sin Fable. Manda sobre lo de abajo. Además, antes de crear se leen la continuidad, el handoff y los manuales que toquen.
+
+**Decisión del autor (3 de noviembre de 2026):** cuenta con límites estrictos y sin Fable. La crítica la hacen sesiones externas que lanza el autor (Opus o Codex), con `docs/notas/reestructura/encargo-criticos-opus.md` o `encargo-critico-codex.md`; sin consultas a Fable. Las lecturas son por tarea: la lectura de la historia entera deja de ser obligatoria. Manda sobre la tabla de abajo y sobre lo que diga este archivo de lecturas y crítico.
 
 Sigue la skill `metodo-equipo`. Reparto inicial:
 
