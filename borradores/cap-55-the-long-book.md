@@ -30,7 +30,7 @@ The chessmen were asleep on their board. The box had gone from the table, and th
 
 “Somebody had to. Your father is charming, and he reads a balance sheet like a man looking for his own name. Who did you think was paying for your Firebolt?”
 
-She had a great many questions, in a great many sizes. She had lain awake sorting them. There was the one that she wanted to ask, and beside it there was the one that she was going to.
+She had a great many questions, in a great many sizes. She had lain awake sorting them. There was the one she wanted to ask, and beside it there was the one she was going to.
 
 “You were a prefect in 1943,” said Lyra.
 
@@ -40,13 +40,13 @@ The cup stopped, a very little, on its way down to the saucer.
 
 The old man looked at her for some time. The corner of his mouth went in.
 
-“Your father,” he said, “has been in that room twenty times, and I don’t suppose he has ever read a plate that hadn’t got his name on it.” He put the cup down. “Tom Riddle sat beside me in Arithmancy for five years. He was the cleverest boy I ever met. He had one set of robes, and a charity grant, and a very pleasant manner, and he borrowed from me, in our fourth year, the price of a second-hand copy of Bathilda Bagshot. He paid it back. He always paid things back. I thought that it was the most promising thing about him.”
+“Your father,” he said, “has been in that room twenty times, and I don’t suppose he has ever read a plate that hadn’t got his name on it.” He put the cup down. “Tom Riddle sat beside me in Arithmancy for five years. He was the cleverest boy I ever met. He had one set of robes, and a charity grant, and a very pleasant manner, and he borrowed from me, in our fourth year, the price of a second-hand copy of Bathilda Bagshot. He paid it back. He always paid things back. I thought it the most promising thing about him.”
 
 It was a moment before she understood what she had been told. It went on arriving after that, in pieces, like the news of an accident.
 
 “Riddle,” said Lyra.
 
-“You have the name now. There are perhaps thirty people living who do, and I shouldn’t care to be the thirty-first who said it at dinner. The father was a Muggle. I gather that he is dead.” He looked at her over his long fingers with a mild, attentive interest, as one watches a piece of litmus paper. “Go on, child. Do say something. Your father took it very badly. He had to lie down.”
+“You have the name now. There are perhaps thirty people living who do, and I shouldn’t care to be the thirty-first who said it at dinner. The father was a Muggle. I gather he is dead.” He looked at her over his long fingers with a mild, attentive interest, as one watches a piece of litmus paper. “Go on, child. Do say something. Your father took it very badly. He had to lie down.”
 
 She thought of the sixth-years in the green lamplight, and the fathers on her list. She thought of what she had stood up and told a roomful of frightened children in June, about what they were and how old it was. She picked up her tea, because it was there, and it was perfectly steady. She had been learning that on Thursdays.
 
@@ -58,7 +58,7 @@ It was a dry small noise, and it seemed to take him by surprise. He laughed for 
 
 “*Thos. Greengrass*,” he read, not looking at it. “*Two hundred in gold, for the Michaelmas rents, repayable on demand.* That’s 1688. His own hand, you see, on our paper; that is the only rule of form. One writes it down on one’s own paper. Then it’s true.”
 
-She knew that one. Her father had said it, giving her a small green book on her eleventh birthday. She had thought that he was being funny.
+She knew that one. Her father had said it, giving her a small green book on her eleventh birthday. She had thought he was being funny.
 
 Thomas Greengrass’s name had a line through it, ruled very straight and very black.
 
@@ -118,7 +118,7 @@ That evening she took a handkerchief out of the drawer of her bedside table, ver
 
 Her mother was at her glass, with her hair half down. She had a thin gold chain about her neck that went in under her collar. She did not turn round.
 
-“I have taken him his soup on Thursdays for fourteen years, darling,” said Narcissa Malfoy. “Who did you imagine that it was for?”
+“I have taken him his soup on Thursdays for fourteen years, darling,” said Narcissa Malfoy. “Who did you imagine it was for?”
 
 “You told me that he was dead.”
 
@@ -178,7 +178,7 @@ The old man came back on the Friday night, on foot, from the end of the drive.
 
 She watched him from the window seat. It took him a long time. He had the cane, and he leaned on it, and he stopped twice between the yews; and he had no box. There was a lamp lit in the cottage until the morning. When Draco ran down after breakfast with the chessmen under his arm he found the door bolted, for the first time in his life, and he came back up the path very slowly and did not tell anybody.
 
-On the Saturday, Pobble opened the west wing.
+On the Saturday, Pobble opened the south wing.
 
 It had been shut since before Lyra was born. She had supposed that the roof was bad. She came along the gallery after lunch and found the door at the end standing wide, and a smell of cold and old lavender coming out of it, and Pobble on a stool with her ears flat, polishing the handle of a door that nobody had touched in fifteen years. There were dust sheets going past in the arms of two elves she did not know. There was a very great deal of silver on the floor.
 
