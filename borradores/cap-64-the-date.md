@@ -30,7 +30,7 @@ A big black dog had come up the lane and sat down on his foot. It looked at the 
 
 “You do, you know. It’s educational. Your father had a Nimbus handle in one hand and a live goose in the other, and he turned to me, perfectly calm, and he said—”
 
-They had the room over the bar at the Hog’s Head, with the dirty window and the smell of goat. Sirius had his boots on the table. He had got thinner in the face since the summer and a good deal louder. There was grey at the sides of his hair, and he wore a Muggle waistcoat that he had found somewhere, in a violent shade of plum, with the buttons done up wrong. He had been a person in a kitchen for ten months, and it had done things to him. They had put something on his window. But he had got out, on the strength of a sick aunt of Moody’s, for the whole of a Saturday. He had walked up the lane on four legs and eaten eleven chips. He was as happy now, leaning back with a glass of Aberforth’s terrible firewhisky, with his godson sitting across from him, as Harry had seen him since a night by a lake.
+They had the room over the bar at the Hog’s Head, with the dirty window and the smell of goat. Sirius had his boots on the table. He had got thinner in the face since the summer and a good deal louder. There was grey at the sides of his hair, and he wore a Muggle waistcoat that he had found somewhere, in a violent shade of plum, with the buttons done up wrong. He had been a person in a kitchen since the break-out, on Moody’s orders, and it had done things to him. They had put something on his window. But he had got out, on the strength of a sick aunt of Moody’s, for the whole of a Saturday. He had walked up the lane on four legs and eaten eleven chips. He was as happy now, leaning back with a glass of Aberforth’s terrible firewhisky, with his godson sitting across from him, as Harry had seen him since a night by a lake.
 
 He told the story about the goose. He did all the voices. It was extremely funny, and it had a really dreadful ending, and Harry put his head on his arms on the table and laughed until there was a pain in his side.
 
@@ -42,7 +42,7 @@ Harry lifted his head.
 
 “Don’t look at me like that. I’ve been waiting since New Year. Nobody flies to Slough in a blizzard for a Horcrux.” He was grinning, with his long yellow teeth and his eyes shining. “I said to Remus. I said, he’s got the look. James went round for an entire term with that look, it was like living with a very happy cow. Is she nice?”
 
-Harry thought about it. He thought about a small cold hand with a spoon in it, for some reason. He could not have said why. He had a bad habit of seeing things.
+Harry thought about it. He thought about a girl on a terrace, with a spoon in her hand.
 
 “No,” he said.
 
@@ -66,11 +66,11 @@ Harry picked up the salt. He held it for a moment; it was a dented pewter thing,
 
 He told her that night.
 
-He had not exactly planned to. It was not on the timetable; he had found the door by himself and got the fire going, and she had come in at about ten, with her book of rounds, looking thin and tired and extremely clean. She had got very neat since Easter. He did not know how to say it. Everything about her had been put away. She kissed him, on the way past, on the corner of the mouth. She sat down in the chair with her feet under her, and asked what he had done with his day, and he opened his mouth to tell her about the chips. He told her about the chips. He told her what Ron had said, and about the bottle of vinegar, and she laughed at that, in the right place, and said that Weasley had the emotional range of a Quaffle; and he told her about the goose. Then he stopped. He was sitting on the rug, with his back against her shins. He found that he was looking at the fire, and that he could not go on.
+He had not exactly planned to. It was not on the timetable; he had found the door by himself and got the fire going, and she had come in at about ten, with her book of rounds, looking thin and tired and extremely clean. She had got very neat since Easter. He did not know how to say it. Everything about her had been put away. She kissed him, on the way past, on the corner of the mouth. She sat down in the chair with her feet under her, and asked what he had done with his day, and he opened his mouth to tell her about the chips. He told her about the chips. He told her what Ron had said, and about the bottle of vinegar, and she laughed at that, in the right place, and said Weasley had the emotional range of a Quaffle; and he told her about the goose. Then he stopped. He was sitting on the rug, with his back against her shins. He found he was looking at the fire, and that he could not go on.
 
 “Lyra,” he said.
 
-He felt her go still. It was a very small thing. He did not call her that, as a rule; not in here; it had got to be a thing that he kept for the bottom of the stairs.
+He felt her go still. It was a very small thing. He did not call her that, as a rule; not in here; it had got to be a thing he kept for when something had gone wrong.
 
 “There’s something I’ve got to tell you. You said I had to. On the hill. You said tell you things first.” He took his glasses off, and held them. It seemed to be easier without being able to see. “I’ve known this since I was eleven. I’ve never told anybody. Not Dumbledore, not the way it was. I’ve got it worked out. Sirius dies on the eighteenth of June.”
 
@@ -90,17 +90,17 @@ It was very quiet. It did not sound like her.
 
 It had got into his throat. He tried to swallow it. He had put his hand over his eyes, with his glasses in it. His shoulders had started, and he could not do anything about them. It was not like the time with Hermione. That had just run out of him, like water, with nothing to do with anybody. This hurt. It came up from the bottom in lumps, and there was noise in it, and he hated that; he had been doing this by himself for four years, in dormitories, with a pillow.
 
-She did not say that it was all right.
+She did not say it was all right.
 
 He heard the chair creak. She got down. She came round in front of him and knelt on the bald rug, in her neat robes, and took his wrist in her cold fingers and pulled his hand down, with the glasses in it. He could not see her face. It was a white blur with a good deal of pale hair. She took the glasses away from him and put them on the fender. She did not turn her back. She did not look at the wall, or go and rub anything out. She stayed where she was, about a foot away, and looked at him, while it went on. He had not known that you could be looked at like that and not die of it. It seemed to go on for a long time.
 
-Then she took out a handkerchief. It was very old, and soft as silk, and he knew it. He had thought it was in Wiltshire. She wiped his face with it, hard, as one wipes a child’s, and she held it to his nose.
+Then she took out a handkerchief. It was very old, and soft as silk, and he knew it. He had not seen it since he put it down on a stair, at thirteen. She wiped his face with it, hard, as you’d wipe a child’s, and she held it to his nose.
 
 “Blow,” said Lyra.
 
 He blew.
 
-“He is my mother’s cousin,” she said. She folded the handkerchief over, and looked at it, and put it into her sleeve. Her voice was perfectly level, and something had come into it that he had not heard since a hill. He could see her better now. There were two small hard spots of colour on her cheekbones. It was the first time since Easter that she had looked like somebody who was at home. “He’s a disgraceful person in a plum waistcoat, and I’ve given him a chicken leg and a bar of chocolate, and a sugar mouse, for which I have never been paid. He owes me. Do you imagine that I’m going to let him be dropped through a curtain by my *aunt?*” Her chin had come up. She looked past him at the fire, with her eyes narrowed, as she looked at the Snitch; and he knew that look, he had seen it above a pitch and across a chessboard, and he had never in his whole life been so glad of anything. “Fifty-nine days. In a room in the Ministry, with one arch. No. We shall not have that.”
+“He is my mother’s cousin,” she said. She folded the handkerchief over, and looked at it, and put it into her sleeve. Her voice was perfectly level, and something had come into it that he had not heard since a hill. He could see her better now. She had some colour at last. It was the first time since Easter that she had looked like somebody who was at home. “He’s a disgraceful person in a plum waistcoat, and I’ve given him a chicken leg and a bar of chocolate, and a sugar mouse, for which I have never been paid. He owes me. Do you imagine that I’m going to let him be dropped through a curtain by my *aunt?*” Her chin had come up. She looked past him at the fire, with her eyes narrowed, as she looked at the Snitch; and he knew that look, he had seen it above a pitch and across a chessboard, and he had never in his whole life been so glad of anything. “Fifty-nine days. In a room in the Ministry, with one arch. No. We shall not have that.”
 
 “Lyra, you can’t—”
 
@@ -118,7 +118,7 @@ He felt better than he had felt since he was eleven. He felt as if somebody had 
 
 It was only that she wrote to her father every Sunday.
 
-He looked at that for a while. He had not put it there. It seemed to have come in by itself. They sat down together and they wrote it, of course; he had been through every word; there had been a very good thing about a hot-water bottle. They wanted to know what he was afraid of. She’d told him so. It was the whole of the arrangement: he told her what to say. He trusted her. He trusted her more than he had ever trusted anybody, in either of his lives, and that was not what this was. She had been so thin at Easter. There was a man who lived in her house, and he looked into people as you look into a cupboard. *He has one room with something living in it*, somebody said, in a dry voice. *He reads signs.* It didn’t have to be anybody’s fault. Whatever she knew, he could get at. She had been sitting at that table, and he had gone in and turned over everything that she had, and put it back. If she didn’t know a thing, then nobody could get it out of her. It was just common sense. It was what you’d do. It was what you would do for anybody that you wanted to keep safe.
+He looked at that for a while. He had not put it there. It seemed to have come in by itself. They sat down together and they wrote it, of course; he had been through every word; there had been a very good thing about a hot-water bottle. They wanted to know what he was afraid of. She’d told him so. It was the whole of the arrangement: he told her what to say. He trusted her. He trusted her more than he had ever trusted anybody, in either of his lives, and that was not what this was. She had been so thin at Easter. There was a man who lived in her house, and he looked into people as you look into a cupboard. *He has one room with something living in it*, somebody said, in a dry voice. *He reads signs.* It didn’t have to be anybody’s fault. Whatever she knew, he could get at. She had been sitting at that table, and he had gone in and turned over everything that she had, and put it back. If she didn’t know a thing, then nobody could get it out of her. He had told her the date. He had told her an hour ago, on this rug, with his glasses off. He looked at that, and then he stopped looking at it. It was just common sense. It was what you’d do. It was what you would do for anybody that you wanted to keep safe.
 
 *Nothing moves without asking*, she said, on a hill, with her teeth chattering, and he said *All right*.
 

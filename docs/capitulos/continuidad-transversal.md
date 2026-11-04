@@ -412,6 +412,8 @@ En orden de lectura. Las fechas marcadas «deducida» no las da el texto: salen 
 - **Extra *Year Four* 2:** tras el 62. Mayo de 1995.
 - **63 (30 mar.-14 abr. 1996):** ver `cap-63.md`. Bellatrix en la Mansión; lección con el pavo real. Lyra pierde un segundo recuerdo. Da de comer a Abraxas y a Bode. Vomita, vuelve y sonríe.
 
+- **64 (20 abr. 1996):** ver `cap-64.md`. Lyra sabe la fecha de Sirius. Harry decide esconderle a sus espaldas.
+
 ## 5. Fichas vivas
 
 Al final del 57.
