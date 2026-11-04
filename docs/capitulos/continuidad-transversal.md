@@ -416,6 +416,7 @@ En orden de lectura. Las fechas marcadas «deducida» no las da el texto: salen 
 
 - **65 (28 abr. 1996):** ver `cap-65.md`. Lyra descubre que fue Harry quien jugó en Navidad de 1991. Empieza la crisis del niño.
 - **66 (mayo 1996):** ver `cap-66.md`. Empieza el control; Harry propone el cebo de Sirius; Lyra sabe que Snape conoce el secreto; primer «Mine» sin broma.
+- **67 (25 may. 1996):** ver `cap-67.md`. Ron oye «She was *eleven*»; Harry le cuenta lo mínimo; Ron y Hermione se apartan de él. Solo le queda Lyra.
 
 ## 5. Fichas vivas
 

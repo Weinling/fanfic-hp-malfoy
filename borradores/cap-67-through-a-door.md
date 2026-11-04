@@ -2,7 +2,7 @@
 
 You could go back along it as far as you liked, afterwards, and you still got to the Cloak.
 
-Harry had a good deal of time to go back along it. He did it in the dormitory, and on the pitch, and over a plate of something, and each time he got to the same place: a hot Saturday at the end of May, with nine days to the exams, and an Invisibility Cloak lying on the landing outside the third-floor classroom, where he would have sworn he hadn’t left it.
+Harry had a good deal of time to go back along it. He did it in the dormitory, and on the pitch, and over a plate of something, and each time he got to the same place: a hot Saturday at the end of May, with nine days to the exams, and an Invisibility Cloak lying on the landing, at the foot of the tapestry of the knight, where he would have sworn he hadn’t left it.
 
 They ought not to have been there at all. Anthony Goldstein had taken to walking up and down the seventh-floor corridor in the afternoons, with his eyes shut, reciting goblin rebellions, and you could not very well walk three times past a wall with a Ravenclaw coming the other way. So there had been a scrap of parchment with *Third floor* on it, and a small moon. The desks were still stacked along the wall. Someone had left a window open, and the whole room smelt of warm dust and floor polish, and he sat on the teacher’s table with his legs hanging and looked at the place on the boards where the moon had been, the night she told him *No*.
 
@@ -40,17 +40,17 @@ For about as long as it takes to breathe in, she did not do anything. The sun la
 
 ⁂
 
-It was a stupid fight, and it went on being stupid for quite a long time. They did the Cloak again, and whether a person could be held responsible for a landing. They did Nott’s handwriting. They did the ribbon: she took it out, ring and all, and shook it at him, and asked him whether he would care to have a bell put on it, as he had once been so very rude about bells. He said that was different. She said it was exactly the same, and that she had said *Pockets* last night and she had not said she proposed to live in one. He said nobody had asked her to. She said *Who were you with?* in his voice, and it was a horribly good impression, and he said at least he didn’t write home about it. They were both shouting by now. It was a relief, in a way. There were a few moments in there, God help him, when he was having a good time; she had gone pink along the cheekbones, and he thought that in a minute she would call him something unforgivable about his ears, and he’d take ten points off her, and it would be all right.
+It was a stupid fight, and it went on being stupid for quite a long time. They did the Cloak again, and whether a person could be held responsible for a landing. They did Nott’s handwriting. They did the ribbon: she took it out, ring and all, and shook it at him, and asked him whether he would care to have a bell put on it, since he was so fond of them. He said that was different. She said it was exactly the same, and that she had said *Pockets* last night and she had not said she proposed to live in one. He said nobody had asked her to. She said *Who were you with?* in his voice, and it was a horribly good impression, and he said at least he didn’t write home about it. They were both shouting by now. It was a relief, in a way. There were a few moments in there, God help him, when he was having a good time; she had gone pink along the cheekbones, and he thought in a minute she would call him something unforgivable about his ears, and he’d take ten points off her, and it would be all right.
 
 She didn’t, though. She said, “You look dreadful, and you’re behaving like my father,” and she turned round to pick up her cards.
 
-It was the turning round that did it. He got his hand into his pocket, and he kept it there. He could feel it wanting to come out. There was the back of her head, with the pins in it, going away from him, as everybody’s did; and he looked for the thing that would turn her back, the way you feel along a shelf in the dark, and it was right there. It had been right there for days. He’d been up on the second-floor landing on Tuesday, doing nothing, with his hands in his pockets.
+It was the turning round that did it. He got his hand into his pocket, and he kept it there. He could feel it wanting to come out. There was the back of her head, with the pins in it, going away from him, as everybody’s did; and he looked for the thing that would turn her back, the way you feel along a shelf in the dark, and it was right there. It had been right there for weeks. He’d been up on the second-floor landing, at the beginning of the month, doing nothing, with his hands in his pockets.
 
 “Hopkins held a door for you,” said Harry.
 
 She stopped.
 
-“In the Charms corridor. I saw him. He did it with his left hand. He’s got rather good with it.” His voice had gone quiet and interested. He didn’t recognise it, and at the same time he knew it very well. “Did you say thank you? I just wondered. You sat in that room for three nights and watched her do it to him. You had a wafer. I’d like to know what you say. I’d like to know what your face does.”
+“In the Charms corridor. I saw him. He did it with his left hand. He’s got rather good with it.” His voice had gone quiet and interested. He didn’t recognise it, and at the same time he knew it very well. “Did you say thank you? I just wondered. You sat in that room for three nights and watched her do it to him. You had a biscuit. I’d like to know what you say. I’d like to know what your face does.”
 
 She did not turn round at once. She stood with the cards in her hand, and he saw her shoulders go down, very slightly, as you see them go down on someone who has picked up a heavy thing and got the weight of it.
 
@@ -58,7 +58,7 @@ That had been paid. That was the trouble. It was on the bill, and they had both 
 
 She laid the cards down. She turned. All the pink had gone out of her, and she looked very like the portrait of somebody, and when she spoke she did not shout. He would have given a great deal, later on, for her to have shouted at the beginning. She started low, and she let it climb.
 
-“I have never said it,” said Malfoy. “Do you know that? Not once. Not since the Owlery. I have sat in that chair for five months writing down your moths, with it by me the whole time, and I have never picked it up. I didn’t think there was anybody in the world who could make me.”
+“I said it once,” said Malfoy. “Do you know that? Once, on the sixth floor, in about a dozen words, and you had me against a wall for what came after. I have sat in that chair for five months writing down your moths, with the rest of it by me the whole time, and I have never picked it up. I didn’t think there was anybody in the world who could make me.”
 
 “Don’t you—”
 
@@ -72,11 +72,11 @@ It rang a little, on the glass. A pigeon went off the sill.
 
 He had his mouth open. He stood there, in the warm dust, with his hand in his pocket; and he saw her eyes go past him. He saw her stop breathing.
 
-She had shut the door, or as good as. It stood open by about the width of a hand.
+She had shut the door, or as good as. It stood open by about the width of a hand, and she had not let the tapestry fall back.
 
-It moved, and it went on moving, slowly, on its own weight. Ron was standing on the other side of it.
+It moved, and it went on moving, slowly, on its own weight. Ron was standing on the other side of it, with the sleeping knight hanging at his shoulder.
 
-He was in his Quidditch things. He’d got his shin-guards on, and a pair of scarlet robes hanging over his arm, Harry’s robes, the ones Harry had left on the end of his bed. He must have come up from the common room to look for him. He would have asked somebody; he would have had a word with Neville, and tried the library, and on the third floor he would have heard shouting, and thought, *Oh, here we go*, with his ears going pink, and come along the corridor to break it up. You could see him having thought that. It was still there, round his mouth, the start of a grin he had been going to come in with.
+He was in his Quidditch things. He’d got his shin-guards on, and a pair of scarlet robes hanging over his arm, Harry’s robes, the ones Harry had left on the end of his bed. He must have come up to look for him, and heard shouting, and thought, *Oh, here we go*. It was still there, round his mouth, the start of a grin he had been going to come in with.
 
 His ears were not pink. Harry had known those ears for five years, or twelve, however you wanted to count it. He had seen them every colour there was. He had never in either life seen them white.
 
@@ -120,7 +120,7 @@ He opened his mouth. There was a fly walking up the armour’s breastplate.
 
 “Yes.”
 
-“You came to ours that summer. My mum did your socks. You went down that pipe with me, and I cried, I was *twelve*, I was crying down there, and you put your hand on my arm, you told me we’d find her.” It was all quite quiet. There was only a sort of thickness to it. “She burns her notes. Did you know that? No, you didn’t, nobody does. After every exam, every bit of paper she’s written on, she takes it round behind the broom shed and burns it. She thinks nobody’s noticed. She’s fourteen.”
+“You came to ours that summer. My mum did your socks. You went down that pipe with me, and I cried, I sat down there crying, and you put your hand on my arm, you told me we’d find her.” It was all quite quiet. There was only a sort of thickness to it. “She burns her notes. Did you know that? No, you didn’t, nobody does. After every exam, every bit of paper she’s written on, she takes it round behind the broom shed and burns it. She thinks nobody’s noticed. She’s fourteen.”
 
 He hadn’t known that. It was odd, how much that seemed to matter. Two lives, and all that time, and all those lists; and there was a girl behind a broom shed with a box of matches, every June.
 
@@ -132,7 +132,7 @@ There was an answer to that. It had been agreed, and written down, and blotted. 
 
 Nothing came. He stood there with his mouth a little open. He stayed like that for what must have been about three seconds, and it was the longest he had ever spent doing anything.
 
-He watched it arrive. Nobody had ever called Ron clever; you couldn’t have said that it was quick. It came up slowly from a long way down, like something rising through a pond, and it reached the surface, and Ron looked at it. His face didn’t change very much. It just stopped having anybody behind it for a moment, and Harry had seen that too, on the fourth floor of St Mungo’s, in another life.
+He watched it arrive. Nobody had ever called Ron clever; you couldn’t have said that it was quick. It came up slowly from a long way down, like something rising through a pond, and it reached the surface, and Ron looked at it. His face didn’t change very much. It just stopped having anybody behind it for a moment.
 
 “Oh,” said Ron.
 
@@ -140,11 +140,11 @@ Then he hit him.
 
 It was a terrible punch. He had never really hit anybody; he led with his elbow, and his eyes were shut. Harry saw it leave. He saw it from a long way off, with all the time in the world, and he knew six ways of being somewhere else, and he stood still and let it come. It got him on the cheekbone and the side of the mouth. His glasses went round on one ear. There was a taste of pennies, and a bright ringing, and he found he had sat down on the stone seat.
 
-His right hand had come out of his pocket. He hadn’t told it to. It had his wand in it, and the wand was up, and quite steady, and pointing at the middle of Ron’s forehead.
+His right hand had come out of his pocket. He could not have told you whether he had told it to. It had his wand in it, and the wand was up, and quite steady, and pointing at the middle of Ron’s forehead.
 
 He looked at it. He took hold of his right wrist with his left hand and pushed it down, and it went, a little at a time, like a door against a wind. He put the wand on the seat beside him and sat on it.
 
-Ron had not seen. He was looking at his own knuckles, with a puzzled expression, and there was blood on them. He had got hold of something with his other hand, on the front of his robes, and he seemed not to know that he had: his prefect’s badge, the one with the salt on it. He’d wrung it. The pin had come through the cloth and the P was bent nearly double. He looked down at it, and he looked at it for some time. He put it in his pocket.
+Ron had not seen. He was looking at his own knuckles, with a puzzled expression, and there was blood on them. He had got something out of his pocket with his other hand, and he seemed not to know that he had: his prefect’s badge, the one with the salt on it, that he took off for practice. He’d wrung it. The pin had gone into his palm and the P was bent nearly double. He looked at that for some time. He put it back.
 
 He held out the scarlet robes. Harry took them. There didn’t seem to be anything else to do; they were being held out.
 
@@ -214,7 +214,7 @@ He stopped there, and looked at the ceiling for a time. Then he made himself go 
 
 That appeared to be the list.
 
-There was a small warmth on his right hand. He had not noticed it start. He lifted the hand, and held it up against the window, and the ring lay on his finger with a dull glow, not red, not any colour you could have put a name to. She would be sitting up, somewhere under the lake, with a ribbon wound round her fingers, and she wouldn’t say she was sorry. She knew precisely where he was. She always had. She was the worst person he had ever met, and she’d told the whole of the third floor, and he’d turned round and reached for that thing behind her back and he would do it again; and of all the people who had ever looked at him, there was now one, in two lives, who had seen every single thing there was to see, and had not yet gone out through a hole in the wall.
+There was a small warmth on his right hand. He had not noticed it start. He lifted the hand, and held it up against the window, and the ring lay on his finger with a dull glow, not red, not any colour you could have put a name to. She would be sitting up, somewhere under the lake, with a ribbon wound round her fingers, and she wouldn’t say she was sorry. She knew precisely where he was. She always had. She was the worst person he had ever met, and she’d told the whole of the third floor, and he’d turned round and reached for that thing behind her back and he would do it again; and of all the people who had ever looked at him, in two lives, there was now one who had seen the worst of it, and had not yet gone out through a hole in the wall.
 
 He ought to have minded that more.
 
