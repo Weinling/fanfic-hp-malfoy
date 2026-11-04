@@ -20,7 +20,7 @@ The chessmen were asleep on their board. The box had gone from the table, and th
 
 “How long?” said Lyra.
 
-“Since the February of 1982. You were not quite two, and I am told that you bit the Healer.” He pushed a cup towards her with one finger. “The pox was real. They gave me a fortnight, and for once they were being optimistic. The Dark Lord had been gone three months. Every man who had ever dined with him was being asked about it on oath, by Barty Crouch, in a very small room. It was your father’s idea, I should say, and the best he ever had: nobody can serve a summons on a family vault. We had a nice quiet funeral, with the doors shut. I sent lilies.” He drank some of his tea. “Then I failed to die. I have been failing for fourteen years, in this chair, with a face like a suet pudding. It leaves one a good deal of time for correspondence.”
+“Since the February of 1982. You were not quite two, and I am told that you bit the Healer.” He pushed a cup towards her with one finger. “The pox was real. They gave me a fortnight, and for once they were being optimistic. The Dark Lord had been gone three months. Every man who had ever dined with him was being asked about it on oath, by Barty Crouch, in a very small room. It was your father’s idea, I should say, and the best he ever had: nobody can serve a summons on a family vault. We had a nice quiet funeral, with the doors shut. I sent lilies. I had the portrait brought down this autumn. A man who can hold a cup has no business being painted asleep.” He drank some of his tea. “Then I failed to die. I have been failing for fourteen years, in this chair, with a face like a suet pudding. It leaves one a good deal of time for correspondence.”
 
 “You wrote the letter I took to Karkaroff.”
 
@@ -33,6 +33,8 @@ The chessmen were asleep on their board. The box had gone from the table, and th
 She had a great many questions, in a great many sizes. She had lain awake sorting them. There was the one she wanted to ask, and beside it there was the one she was going to.
 
 “You were a prefect in 1943,” said Lyra.
+
+A boy had stopped dead in front of a small gold shield in September, and she had made a joke, and he had looked tired.
 
 The cup stopped, a very little, on its way down to the saucer.
 
@@ -64,7 +66,7 @@ Thomas Greengrass’s name had a line through it, ruled very straight and very b
 
 “He died owing,” said Lyra.
 
-“He did. In his bed, with a priest. And the book collected. Nobody ever did it; nobody pays a call. It simply collects when the debtor dies, and it keeps what it collects, and it gives nothing back. That is the whole of the law. It took the two hundred, and everything the two hundred had bought, and I understand that the Greengrasses have not held a card worth playing since.” He turned over a leaf with his nail. There were a great many leaves. “There’s a Selwyn who owed for a horse. There’s a bishop. You will have heard it said that nobody has ever died owing a Malfoy. People take it for a boast, and I used to take it for a joke. It is what the book is *for*.”
+“He did. In his bed, with a priest. And the book collected. Nobody ever did it; nobody pays a call. It simply collects when the debtor dies, and it keeps what it collects, and it gives nothing back. It took the two hundred, and everything the two hundred had bought, and I understand that the Greengrasses have not held a card worth playing since.” He turned over a leaf with his nail. There were a great many leaves. “There’s a Selwyn who owed for a horse. There’s a bishop. You will have heard it said that nobody has ever died owing a Malfoy. People take it for a boast, and I used to take it for a joke. It is what the book is *for*.”
 
 The fire settled. On the board, a small black pawn stirred in its sleep and muttered something about the Sicilian.
 
@@ -102,13 +104,13 @@ There were seven. He had told her that when she was twelve. A diary, and a locke
 
 *Somebody in that castle knows what this is.*
 
-She stood quite still beside the sundial. There was an odd high singing in her ears. She was so angry that she could have sat down in the snow, and under the anger, like a stair that was not there, she was more frightened than she had ever been. By tomorrow night that old man would be standing in front of the Dark Lord with the thing in his hands. And it was not a very long way, for somebody clever, from a black stain to a boy who had once been down in the Chamber.
+She stood quite still beside the sundial. There was an odd high singing in her ears. She was so angry that she could have sat down in the snow, and under the anger she was more frightened than she had ever been. By tomorrow night that old man would be standing in front of the Dark Lord with the thing in his hands. And it was not a very long way, for somebody clever, from a black stain to a boy who had once been down in the Chamber.
 
-The ring was in her pocket. It had been warm since breakfast. He would be calling; he always called at Christmas, whatever she had said to him, at about the time that Mrs Weasley stopped the singing. Her fingers had closed on it last night in the cottage, on the bare metal, without asking her. She did not know what colour that had sent him. She had only to take off her glove. *He knows. It’s you. Get out of that house and tell your Headmaster.*
+The ring was in her pocket. It had been warm since breakfast. He would be calling; he always called at Christmas, whatever she had said to him, at about the time that Mrs Weasley stopped the singing. Her fingers had closed on it last night in the cottage, on the bare metal, without asking her. She did not know what colour that had sent him. She had only to take off her glove and think of him, hard, and he would come; he had said so; he would come to Wiltshire, with that old man still in the cottage, and she could say it to his face. *He knows. It’s you.*
 
 And who had carried it down from the seventh floor, wrapped in his own scarf?
 
-She went on standing there. A white peacock had come round the end of the hedge, with its tail dragging, and it looked at her with one flat eye. If anybody came asking who had warned Harry Potter, there was one child in the world who could say what was in that box and who had seen it opened. She had told a boy in June exactly which side of this she would be on, and how far.
+She went on standing there. A white peacock had come round the end of the hedge, with its tail dragging, and it looked at her with one flat eye. If Potter moved, somebody would ask who had warned him. Four people had seen what was in that box, and one of them was eleven, and had never in his life kept anything off his face. She had told a boy in June exactly which side of this she would be on, and how far. She had gone to sleep on his shoulder, with that crown in his head the whole time. He could find out for himself what it cost.
 
 That evening she took a handkerchief out of the drawer of her bedside table, very soft, folded small, and wrapped the ring in it, three times round, so that it should not touch her skin. She put it at the back of the drawer. She lay for a while looking at the drawer. It did not seem to make any difference to anything; she could feel where it was, as she had always been able to.
 
@@ -120,9 +122,9 @@ Her mother was at her glass, with her hair half down. She had a thin gold chain 
 
 “I have taken him his soup on Thursdays for fourteen years, darling,” said Narcissa Malfoy. “Who did you imagine it was for?”
 
-“You told me that he was dead.”
+“You told me he was dead.”
 
-“I told you that he had died of dragon pox behind closed doors. It was the best thing that could have been said of him, and it was very nearly true.” She picked up a pin, and looked at it. “There are men who come up the drive after dark. You have asked me nothing about them since you were six. I was so proud of you.”
+“I told you he had died of dragon pox behind closed doors. It was the best thing that could have been said of him, and it was very nearly true.” She picked up a pin, and looked at it. “There are men who come up the drive after dark. You have asked me nothing about them since you were six. I was so proud of you.”
 
 There did not seem to be a great deal to say to that.
 
@@ -170,7 +172,7 @@ He considered this. It made its way across his face, slowly, like the sun coming
 
 “I know,” said Draco, and he hit her in the ear.
 
-*Keep him so*, her father had written. She let him get away with it. She chased him all the way back to the garden door with the light going, and he was still telling her about the ear as they went in; and she was to think about that afternoon a great deal, later, and to wonder what she had done with it.
+*Keep him so*, her father had written. She let him get away with it. She chased him all the way back to the garden door with the light going, and he was still telling her about the ear as they went in.
 
 ⁂
 
@@ -180,7 +182,7 @@ She watched him from the window seat. It took him a long time. He had the cane, 
 
 On the Saturday, Pobble opened the south wing.
 
-It had been shut since before Lyra was born. She had supposed that the roof was bad. She came along the gallery after lunch and found the door at the end standing wide, and a smell of cold and old lavender coming out of it, and Pobble on a stool with her ears flat, polishing the handle of a door that nobody had touched in fifteen years. There were dust sheets going past in the arms of two elves she did not know. There was a very great deal of silver on the floor.
+It had been shut since before Lyra was born. She had supposed the roof was bad. She came along the gallery after lunch and found the door at the end standing wide, and a smell of cold and old lavender coming out of it, and Pobble on a stool with her ears flat, polishing the handle of a door nobody had touched in fifteen years. There were dust sheets going past in the arms of two elves she did not know. There was a very great deal of silver on the floor.
 
 “What’s all this, Pobble?”
 

@@ -20,3 +20,9 @@ Centro del interludio (mapa, Snape, audiencia); podio del 38; Moody del 40; Sele
 **Rechazado:** nada de fondo.
 
 **Autor, 4 de noviembre:** el 39 queda cerrado. Harry no se derrumba: ojos húmedos y algún sollozo, no llanto; y Lyra no parece intacta.
+
+## Crítica del 55-57 (4 de noviembre)
+
+**Aceptado y aplicado casi todo.** El 46 ya no dice que Riddle sea el Señor Tenebroso; puente en el 55. Harry pone su condición en el 57 y Lyra retira «He’s nobody»: «He wasn’t nobody… Put it on the bill.» Motivo real de no avisar (55). Prolepsis fuera. El consuelo de la Selección plantado en el 52. Quién quitó el retrato (Abraxas). Horas, *very*, *so* y *that*. Un *that* del 39 («I thought you—»), único retoque a ese capítulo.
+
+**Pendiente para el 58:** que alguien en Grimmauld notara la huida de Harry; cómo salió Lyra de la casa con él dentro. Draco preguntará algún día quién es Tom.

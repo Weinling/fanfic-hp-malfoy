@@ -24,11 +24,11 @@ Draco’s mouth opened. A small dry noise came out of it, and then, because he h
 
 He straightened, and he turned his head, and it was her turn.
 
-“Miss Malfoy,” said the Dark Lord. “I have so looked forward to this.”
+“Miss Malfoy,” said the Dark Lord. “I have looked forward to this.”
 
 ⁂
 
-There were eight places laid and five people to sit at them. He took her father’s chair. He did not ask, and it was not done with any emphasis; he walked up the long room, talking to her mother about the frost, and he drew it out and sat down in it, as one sits down at home. Her father stood for a moment with his hand on the back of nothing. Then he went round and sat at the side, at his own table, in the place where one put a cousin.
+There were eight places laid and six people to sit at them. He took her father’s chair. He did not ask, and it was not done with any emphasis; he walked up the long room, talking to her mother about the frost, and he drew it out and sat down in it, as one sits down at home. Her father stood for a moment with his hand on the back of nothing. Then he went round and sat at the side, at his own table, in the place where one put a cousin.
 
 There was soup. It came, and it was set down in front of each of them, and in front of the Dark Lord nothing was set down at all.
 
@@ -48,7 +48,7 @@ The Dark Lord had put his hand inside his robes. He took out a piece of old velv
 
 Nobody at the table looked at it.
 
-“I want to tell you a story,” he said. “It’s rather a dull one, and I hope you will all stop me if I go wrong. I have had a most instructive week. Your grandfather, Draco, came to me on Wednesday, in a very brave and proper manner, to show me this, which I had left at your school when I was young. You found it. I’m obliged to you. Look at it, Miss Malfoy, if you would. I am told you do well in Arithmancy. What do you see?”
+“I want to tell you a story,” he said. “It’s rather a dull one, and I hope you will all stop me if I go wrong. I have had a most instructive week. Your grandfather, Draco, came to me on Wednesday, in a brave and proper manner, to show me this, which I had left at your school when I was young. You found it. I’m obliged to you. Look at it, Miss Malfoy, if you would. I am told you do well in Arithmancy. What do you see?”
 
 She put down her spoon. She looked. She had the face ready, the one for Snape’s office, and she made it a little slower and a little stupider than it was.
 
@@ -58,11 +58,11 @@ She put down her spoon. She looked. She had the face ready, the one for Snape’
 
 “I don’t know, my lord.”
 
-“No,” he agreed. “Why should you? There’s only one thing that burns like that, and nobody has had the use of it for a thousand years. I had some myself once, at your age, but I left it where it lay.” He laid one long finger on the black place in the silver, and stroked it, as one strokes a cat. “It was venom. From a basilisk, under the school, which is dead. And in the whole of the wide world, as I understand it, only one person has been down there since I was.”
+“No,” he agreed. “Why should you? There’s only one thing that burns like that, and nobody has had the use of it for a thousand years. I had some myself once, at your age, but I left it where it lay.” He laid one long finger on the black place in the silver, and stroked it, as one strokes a cat. “It was venom. From a basilisk, under the school, which is dead. And in the whole of the wide world, as I understand it, only one boy has come up from there with a fang in his hand.”
 
 The candles burned straight up. Under the table something turned over.
 
-“So I asked myself about this boy, in the snow, on my way here. He’s clever, and he goes where he likes. He killed my basilisk. He has gone up to the seventh floor, and he’s found the one thing that nobody could have found, and he has walked out and said nothing to a soul. How did he know it was there?” He seemed to find this a pleasant thing to wonder about. “And then I thought about a book. I left that with a friend, for safekeeping. The friend came to see me this summer, with his hair so nicely brushed, and he told me it was very sad, but the Ministry took it. It went in the raids, the summer that Weasley’s people went through the cellars. I remember how sorry he was. I remember thinking he told it beautifully.”
+“So I asked myself about this boy, in the snow, on my way here. He killed my basilisk. He has gone up to the seventh floor, and he’s found the one thing that nobody could have found, and he has walked out and said nothing to a soul. How did he know it was there?” He seemed to find this a pleasant thing to wonder about. “And then I thought about a book. I left that with a friend, for safekeeping. The friend came to see me this summer, with his hair so nicely brushed, and he told me it was very sad, but the Ministry took it. It went in the raids, the summer that Weasley’s people went through the cellars. I remember how sorry he was. I remember thinking he told it beautifully.”
 
 He lifted his eyes from the silver. He did not look at anybody in particular.
 
@@ -96,7 +96,7 @@ There was the breakfast table, with the light coming in sideways. He paused at i
 
 He came to the stool.
 
-He stopped there. She felt him stop. He bent down, and put out one long white finger, and touched it. She felt the Hat lift. She felt him pick up the whole of it, the little feet, and the thirty seconds, and the table going up in a roar; he lifted it out of the place where she had set it, and turned it to the light, and looked underneath. He handled it very thoroughly. It was what she had brought it for. She stood in her corner and watched him do it.
+He stopped there. She felt him stop. He bent down, and put out one long white finger, and touched it. She felt the Hat lift. She felt him pick up the whole of it, the little feet, and the thirty seconds, and the table going up in a roar; he lifted it out of the place where she had set it, and turned it to the light, and looked underneath. He handled it thoroughly. It was what she had brought it for. She stood in her corner and watched him do it.
 
 He put it down, a little to the left of where it had been.
 
@@ -108,7 +108,7 @@ She did not know what that meant. She thought she would go on not knowing for so
 
 He had got up. He walked down the length of the table, behind Draco’s chair, trailing his fingers along the backs, and he stopped at the end of it, by her grandfather.
 
-“Abraxas,” he said. “You have been so very well.”
+“Abraxas,” he said. “You have been so well.”
 
 The old man laid his spoon in his plate, and looked up. She had seen that face go white on Christmas night. It did not do so now. It looked at what was standing over it with the pale steady interest with which it had looked at her across a teacup; he had come back up that path on the Friday knowing exactly what this was going to be, and he had had himself carried here to meet it, and he did not lift his hands from the cloth.
 
@@ -116,7 +116,7 @@ The old man laid his spoon in his plate, and looked up. She had seen that face g
 
 Her father made a sound. Nobody else in the room seemed to be breathing.
 
-“You did,” said the Dark Lord gently. “It’s a very old joke, isn’t it? And I paid you. I paid you in June, in front of everybody, and I saw you understand it. Do you know, I have missed being in your debt. I find that it’s so much more comfortable for us both when one of us owes.”
+“You did,” said the Dark Lord gently. “It’s a very old joke, isn’t it? And I paid you. I paid you in June, in front of everybody, and I saw you understand it. Do you know, I have missed being in your debt. I find it so much more comfortable for us both when one of us owes.”
 
 He bent down, and he laid his palm against the pale pitted cheek, as one might with a child who has a fever.
 
@@ -136,7 +136,7 @@ It was hardly a voice at all. Nobody answered. Her mother had laid her hand on t
 
 He had come back up the room. He stood looking down, with his hands behind him, at the man on the carpet, who had not stirred. She could see the parting in her father’s hair.
 
-“Somebody has told me a lie at a family table, and I’m afraid that it will have to be felt. I don’t care to do it myself. I have had so many of you.” His head turned. “I am told you’re a prefect.”
+“Somebody has told me a lie at a family table, and I’m afraid it will have to be felt. I don’t care to do it myself. I have had so many of you.” His head turned. “I am told you’re a prefect.”
 
 Her wand left her sleeve.
 
@@ -160,9 +160,7 @@ Nobody laughed. It would have been easier if anybody had. Her father had flinche
 
 “No,” said the Dark Lord, with mild regret. “It isn’t a thing one can do by saying it. You have to mean it.”
 
-*That’s not how you do it*, somebody had said to her once, on a train, very helpfully. *You need a wand. And you have to mean it.* She had been thirteen, and so furious that she could not see.
-
-“Perhaps it’s too much to ask.” He had turned his head a little, and he was looking down the table, at the fair wet parting of a boy in a crooked bow tie. “Draco has done so very well already. Shall we see?”
+“Perhaps it’s too much to ask.” He had turned his head a little, and he was looking down the table, at the fair wet parting of a boy in a crooked bow tie. “Draco has done so well already. Shall we see?”
 
 Her mother’s fingers closed.
 
@@ -178,13 +176,11 @@ He had read it. That was the thing she had never once looked at. He had read it,
 
 There it was. It was very small, and very hot, and it had been there for a long time. It fitted her hand exactly.
 
-*You sent me up a gangplank*, she thought. *You wrote to me about a broom. You called me your treasure, and I was eleven, and nobody came.*
-
 “*Crucio*,” said Lyra.
 
 It went down her arm like a stair going out from under her.
 
-She had thought it would feel like something being done. It did not feel like doing anything. It was the easiest thing she had ever done in her life. It simply ran out of her and across the four yards of carpet and into him, and it went on running, and her father’s back arched, and his head went back, and a noise came out of him. She had heard that noise once, from a hare, in the long grass behind the stables. She had not known that it could come out of a person who had read to her. His hands had come up, and they were opening and closing. His hair had fallen over his face. The cane rolled away across the floor.
+She had thought it would feel like something being done. It did not feel like doing anything. It was the easiest thing she had ever done in her life. It simply ran out of her and across the four yards of carpet and into him, and it went on running, and her father’s back arched, and his head went back, and a noise came out of him. She had heard that noise once, from a hare, in the long grass behind the stables. She had not known that it could come out of a person who had read to her. His hands had come up, and they were opening and closing. His hair had fallen over his face. A chair went over.
 
 She could not look at that. There was only one other thing to look at. Past the end of her wand, on the far side of the table, there was a white face above a bow tie.
 
@@ -194,7 +190,7 @@ He was looking at her. His mouth was a little open, with the gap in it. She had 
 
 “That will do,” said the Dark Lord.
 
-She went on. She did not mean to. It did not seem to have anywhere to stop. It took some effort, a sort of closing of the hand, and nobody had mentioned that. Then it was gone, and her arm was her own arm, and it was very cold; and in the great silence of the dining room she could hear somebody on the floor breathing in small careful sips.
+She went on. She did not mean to. It did not seem to have anywhere to stop. It took some effort, a sort of closing of the hand, and nobody had mentioned that. Then it was gone, and her arm was her own arm, and it was cold; and in the great silence of the dining room she could hear somebody on the floor breathing in small careful sips.
 
 He had come to stand beside her. He took the wand out of her fingers, for which she was grateful, because she did not think she could have opened them. He looked down at her from a long way up with his red and interested eyes, and he slid it back into her sleeve himself, with his cold dry fingers against her wrist, and he patted it.
 
@@ -204,11 +200,11 @@ He had come to stand beside her. He took the wand out of her fingers, for which 
 
 He complimented her mother on the soup.
 
-He said that he found the north rather cold, at this time of year, and that it had all become so very public; he had been so comfortable here in the old days, and he hoped they would not think it an imposition. He understood the south rooms got the morning. Something long and dark came out from under the end of the table and poured itself across the carpet after him, past her father’s hand, and the door shut behind it, and they heard him going up the stairs, not fast, asking Pobble something about the chimneys.
+He said that he found the north rather cold, at this time of year, and it had all become so public; he had been so comfortable here in the old days, and he hoped they would not think it an imposition. He understood the south rooms got the morning. Something long and dark came out from under the end of the table and poured itself across the carpet after him, past her father’s hand, and the door shut behind it, and they heard him going up the stairs, not fast, asking Pobble something about the chimneys.
 
 Nobody moved.
 
-Then her mother got up. She crossed the room, and knelt down in her grey silk, and she turned Lucius’s face towards her and wiped his mouth. She did not look at Lyra. Her grandfather was still sitting at the foot of the table, with his hands in his lap and his sleeves wet, looking in front of him. It was Draco who got down from his chair. He did it very carefully. He walked along the wall, right round the room, so as not to go near her. He went out.
+Then her mother got up. She crossed the room, and knelt down in her grey silk, and she turned Lucius’s face towards her and wiped his mouth. She did not look at Lyra. Her grandfather was still sitting at the foot of the table, with his hands in his lap and his sleeves wet, looking in front of him. It was Draco who got down from his chair. He did it carefully. He walked along the wall, right round the room, so as not to go near her. He went out.
 
 She went up at eleven. It seemed to be a thing that one could do. They had moved his bed to the room next to her mother’s, and there was a line of light under the door.
 
@@ -216,9 +212,9 @@ She went up at eleven. It seemed to be a thing that one could do. They had moved
 
 The light went out.
 
-Then she heard, on the other side of the wood, quite quietly, a small hand turning the key. He had never locked a door in his life. She remembered thinking how there had never been anything of his that was locked.
+Then she heard, on the other side of the wood, quite quietly, a small hand turning the key. He had never locked a door in his life.
 
-Her father was in the big bed, propped up on three pillows, with a glass on the table and his hair brushed. Somebody had brushed it. He looked very clean and very old. He put out his hand when she came in, and it took him two attempts to get it as far as the edge of the sheet.
+Her father was in the big bed, propped up on three pillows, with a glass on the table and his hair brushed. Somebody had brushed it. He looked clean and old. He put out his hand when she came in, and it took him two attempts to get it as far as the edge of the sheet.
 
 She took it. She did not know what else there was to do. She had thought of what she would say, on the stairs, and it had all gone.
 
@@ -234,13 +230,13 @@ She wanted Draco. She did not want him as he was now, behind a door; she wanted 
 
 She looked at it for some time.
 
-It was all there. She could have told anybody how long the Hat had taken. She knew perfectly well that she had been so frightened, and then so glad, that her hands had gone white under the table. She knew that as one knows the date of a treaty. She stood in front of it and waited, and it did not do anything. It was a very good likeness. It was a thing that had been put in a room.
+It was all there. She could have told anybody how long the Hat had taken. She knew perfectly well that she had been so frightened, and then so glad, that her hands had gone white under the table. She knew that as one knows the date of a treaty. She stood in front of it and waited, and it did not do anything. It was a good likeness. It was a thing that had been put in a room.
 
 He had looked underneath it. He had set it down a little to the left.
 
 She opened her eyes. Somewhere over towards the village, thin and small in the snow, they had started to ring the bells for the New Year.
 
-She got up, and crossed the floor, and opened the drawer. It took her some time to undo the handkerchief, because of her fingers. The ring fell out into her palm, and it lay there on her bare skin, plain and silver and very cold; and then it was not cold.
+She got up, and crossed the floor, and opened the drawer. It took her some time to undo the handkerchief, because of her fingers. The ring fell out into her palm, and it lay there on her bare skin, plain and silver and cold; and then it was not cold.
 
 She had made a good many promises about this. She had made them in an Owlery, and they had been extremely well expressed.
 

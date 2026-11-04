@@ -270,7 +270,7 @@ He had turned white to the lips. He came off the sill and across the straw, drag
 
 “Don’t.”
 
-“I thought that you—”
+“I thought you—”
 
 “*Don’t*, Potter. Please.”
 

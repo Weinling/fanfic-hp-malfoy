@@ -182,6 +182,8 @@ She turned round and went down the marble staircase, and did not look back; and 
 
 She lay awake behind her hangings until the green light on the ceiling had gone from black to grey.
 
+She did what she did on such nights. She shut her eyes, and put a small boy on a stool with the Hat over his eyes and his feet not reaching the floor, and waited for the table to go up; and it went up, and she could breathe.
+
 There was still a sheet of old cream paper against her brother’s heart.
 
 At some point before the grey turned white, she decided.

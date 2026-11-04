@@ -158,9 +158,9 @@ To get away from it she looked at the case, along the brass plates. *Prefects, 1
 
 *A. Malfoy.*
 
-It gave her a small pleased shock, like meeting somebody’s portrait in a strange house. He had been on the same plate. She had never thought about it. He had died of dragon pox in a room with the doors shut when she was too small to know him, and he slept in a corner of her father’s study; and here he was at sixteen or so, on a brass plate, directly beneath the Dark Lord’s shield, with a smear of somebody’s thumb across him.
+It gave her a small pleased shock, like meeting somebody’s portrait in a strange house. He had been on the same plate. She had never thought about it. He had died of dragon pox in a room with the doors shut when she was too small to know him, and he slept in a corner of her father’s study; and here he was at sixteen or so, on a brass plate, directly beneath Potter’s shield, with a smear of somebody’s thumb across him.
 
-“They must have known one another,” she said. “How very funny. I wonder what they talked about. I expect Grandfather lent him money. He lent everybody money. It’s what we did.” She breathed on the glass, and rubbed at it with her rag. “Father says that nobody ever died owing him. That’s a joke. Potter? I said that’s a joke.”
+“They must have known one another,” she said. “Your friend with the shield. I expect Grandfather lent him money. He lent everybody money. It’s what we did.” She breathed on the glass, and rubbed at it with her rag. “Father says that nobody ever died owing him. That’s a joke. Potter? I said that’s a joke.”
 
 “Yeah,” said Potter. He was looking at the plate, and he looked rather tired. “Who was your grandfather?”
 
