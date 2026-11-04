@@ -2,7 +2,7 @@
 
 “Forty-one pages of school rules,” said Professor McGonagall, “and I find I shall have to look this up.”
 
-She was sitting behind her desk with her hands folded. In front of the desk stood Lyra Malfoy, a prefect of three weeks’ standing, whose hair had been since a quarter past nine that morning the exact scarlet of the Gryffindor banners, with gold at the ends. Nobody had yet been able to do anything about it. Madam Pomfrey had said that it was very clever work, and that it would probably wear off.
+She was sitting behind her desk with her hands folded. In front of the desk stood Lyra Malfoy, a prefect of three weeks’ standing, whose hair had been since a quarter past eight that morning the exact scarlet of the Gryffindor banners, with gold at the ends. Nobody had yet been able to do anything about it. Madam Pomfrey had said that it was very clever work, and that it would probably wear off.
 
 Beside her stood Potter, holding a wooden ruler. He had been given it to keep his mouth open. His two front teeth now reached to about the third button of his jumper, and were still, if one looked closely, growing.
 

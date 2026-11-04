@@ -2,7 +2,7 @@
 
 On the Sunday nobody knew anything.
 
-The Durmstrang boys ate breakfast at the Slytherin table, very quietly, and went down to the shore afterwards in a body and stood there looking at the water. Professor Dumbledore made a short speech at lunch about courage, and the Cup, and Cedric Diggory, who had been brave and was in the hospital wing with a lump on his head the size of an egg and had asked, apparently, that nobody throw anything at Harry Potter on his account. Potter was not at lunch. Moody was, and Snape was, and so was everybody else; and nobody said a word about a ship, or a coat on a chair, or a man in a neat dark suit carrying a crate across a lawn, because nobody but Lyra seemed to have seen any of it.
+The Durmstrang boys ate breakfast at the Slytherin table, very quietly, and went down to the shore afterwards in a body and stood there looking at the water. Professor Dumbledore made a short speech at lunch about courage, and the Cup, and Cedric Diggory, who had been brave and was in the hospital wing with a lump on his head the size of an egg and had asked, apparently, that nobody throw anything at Harry Potter on his account. Potter was not at lunch. Moody was, and Snape was, and so was everybody else; and nobody said a word about a coat on a chair, or a man in a neat dark suit carrying a crate across a lawn, because nobody but Lyra seemed to have seen any of it.
 
 On the Monday her father’s owl came down the Great Hall at breakfast.
 

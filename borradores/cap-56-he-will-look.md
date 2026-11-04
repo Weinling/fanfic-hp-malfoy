@@ -234,7 +234,7 @@ It was all there. She could have told anybody how long the Hat had taken. She kn
 
 He had looked underneath it. He had set it down a little to the left.
 
-She opened her eyes. Somewhere over towards the village, thin and small in the snow, they had started to ring the bells for the New Year.
+She opened her eyes. Somewhere over towards the village, thin and small in the snow, they had started to ring the old year out.
 
 She got up, and crossed the floor, and opened the drawer. It took her some time to undo the handkerchief, because of her fingers. The ring fell out into her palm, and it lay there on her bare skin, plain and silver and cold; and then it was not cold.
 

@@ -170,7 +170,7 @@ Nothing moved in her face for a moment.
 
 “Yes.”
 
-“He *likes* it under his ear. He tied it himself. It took him until nine.” Her voice had dropped to almost nothing, and it shook very slightly, and he could not tell with what. “Have you gone mad? Is that what it is? My father is sixty yards away, Potter, and there is a witch in Potions who plays bridge with Mrs Parkinson. We are not *speaking*. I sent you a *tin*.”
+“He *likes* it under his ear. He tied it himself. It took him until nine, and then my mother did it again.” Her voice had dropped to almost nothing, and it shook very slightly, and he could not tell with what. “Have you gone mad? Is that what it is? My father is sixty yards away, Potter, and there is a witch in Potions who plays bridge with Mrs Parkinson. We are not *speaking*. I sent you a *tin*.”
 
 “I know. I’ve got it.”
 

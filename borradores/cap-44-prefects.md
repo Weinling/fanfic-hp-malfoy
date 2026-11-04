@@ -118,7 +118,7 @@ She walked back down the corridor. There was a compartment behind him with its b
 
 “Yeah.”
 
-“You had a street and seven weeks and four hundred pages. Did you read that book?”
+“You had a street and a fortnight and four hundred pages. Did you read that book?”
 
 Something went across his face, and his ears began, very slowly, to change colour.
 

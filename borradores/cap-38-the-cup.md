@@ -2,7 +2,7 @@
 
 “How long?” said Lyra.
 
-She said it to a wall. It was twenty to seven on the morning before the Third Task, the Entrance Hall was empty, and she had come up from the dungeons an hour before anybody with a reason to, and stopped on the fourth step from the top.
+She said it to a wall. It was twenty to seven on the morning of the Third Task, the Entrance Hall was empty, and she had come up from the dungeons an hour before anybody with a reason to, and stopped on the fourth step from the top.
 
 The ring had gone pink.
 

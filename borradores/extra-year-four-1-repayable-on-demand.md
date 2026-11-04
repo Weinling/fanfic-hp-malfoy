@@ -16,7 +16,7 @@ She had asked him, in passing, whether he played. He had said, “Sort of.” Sh
 
 “I am aware of that. I am doing this for the board.”
 
-She moved her king’s pawn and sat back. The set was the old one, black and silver, that had been her grandfather’s. She had known those pieces all her life. They were the rudest chessmen in Wiltshire. They had reduced two governesses to tears, and they had told the Bulgarian Minister what he could do with his bishop, and a boy who put a hand on them without knowing what he was about could expect to be spoken to, at length, by a pawn.
+She moved her king’s pawn and sat back. The set was her father’s old one, black and silver. She had known those pieces all her life. They were the rudest chessmen in Wiltshire. They had reduced two governesses to tears, and they had told the Bulgarian Minister what he could do with his bishop, and a boy who put a hand on them without knowing what he was about could expect to be spoken to, at length, by a pawn.
 
 Potter considered the board with his chin on his fist. He had got rather long in the face that year; it made him look like somebody thinking, which was misleading. He put out his hand, and it wavered about over the back rank for a time, and came down on a black knight, and he lifted it, and looked at it, and set it down on the edge of the board, in the corner, behind its own pawn, where it could not have reached a thing if it had been given a week and a ladder.
 
