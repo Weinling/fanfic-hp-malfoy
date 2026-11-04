@@ -34,7 +34,7 @@ A noise came out of him.
 
 It was a laugh. It had started as a laugh; he would have sworn to that. It got up out of the bottom of his chest, a great cracked bray of a thing, and it went on getting up, and he heard it, and he saw her eyes change. Somewhere on the way out it turned over. He tried to get hold of it. He tried to say *Don’t*, and his mouth wouldn’t shut. He had his arm across his face, and his whole body had started to shake, and he slid down out of the chair on to the bald rug, because there was nothing in him any more that was holding him up in it, and he was crying.
 
-He wasn’t doing it the way he’d done it on Hermione’s desk. That had been a tap left on. This had a noise. It was an ugly, whooping, snotty noise, like a child’s, like a small boy’s in a cupboard, and he couldn’t stop it, and he couldn’t breathe. It was Ron. It was *I was holding her books*. It was a girl behind a shed with a box of matches, and sixteen days, and a dog with his head on one side, and a boy with egg on his tie who’d said *thank you* to the armour; and all of it came up together, and it had been going to come up for about four years.
+He had done this on Hermione’s desk, like a tap left on. He had done it on this rug in April, for Sirius, with his hand over his eyes. He had never done it for himself. It was an ugly, whooping, snotty noise, like a child’s, like a small boy’s in a cupboard, and he couldn’t stop it, and he couldn’t breathe. It was Ron. It was *I was holding her books*. It was a girl behind a shed with a box of matches, and sixteen days, and a dog with his head on one side, and a boy with egg on his tie who’d said *thank you* to the armour; and all of it came up together, and it had been going to come up for about four years.
 
 He felt his glasses being taken off. Somebody folded them, with two small clicks. A handkerchief was put into his hand, very old and soft, and closed in his fingers.
 
@@ -56,7 +56,7 @@ She saw him look.
 
 “It came at breakfast,” said Malfoy.
 
-She held it out. She didn’t read it to him; she had never done that with one of these. He took it. The hand was thin and sloping and it shook. He had seen a good deal of it this year, and he thought that it had got worse.
+She held it out. She did not read it to him, as she read the others. He took it. The hand was thin and sloping and it shook. He had seen a good deal of it this year, and he thought it had got worse.
 
 *My darling. Your grandfather is failing. It cannot be more than a matter of days, and I need not tell you what must be settled before it is. Draco has been sent for already and comes by the noon carriage. He wishes the family to be at his table tonight: all of it. He was most particular. The enclosed will act at six o’clock. You will wish to wear the grey.*
 
@@ -90,7 +90,7 @@ She was still sitting on the floor. She looked up at him, with her hands empty i
 
 “What?”
 
-“You’re not going to *say* anything. You have no one. You haven’t had a night’s sleep since a week last Saturday. You have just sat on this floor and howled like a dog. You’re standing there with your nose running, holding up my *coat*.” Her voice shook on that, and she stopped, and she took a breath through her nose, and got up. She did it slowly. She stood a yard off with her hands by her sides. “It hasn’t even crossed your mind,” she said. “Has it? It hasn’t so much as occurred to you.”
+“You’re not going to *say* anything. You have no one. You have just sat on this floor and howled like a dog. You’re standing there with your nose running, holding up my *coat*.” Her voice shook on that, and she stopped, and she took a breath through her nose, and got up. She did it slowly. She stood a yard off with her hands by her sides. “It hasn’t even crossed your mind,” she said. “Has it? It hasn’t so much as occurred to you.”
 
 He looked at her. He did not know what she was talking about. He stood there, with the arms aching a little, and he tried to think what he’d done.
 
@@ -99,8 +99,6 @@ She held out her hand. For a moment he thought she wanted the cloak, and he move
 Then she turned round and dropped it in the fire.
 
 It lay there on the coals for a second or two, curling, and went up all at once. There was a small flare of yellow in the grate. A flake of ash lifted and turned over.
-
-Neither of them breathed.
 
 “What are you doing?” said Harry.
 
@@ -134,13 +132,11 @@ He heard it. He had definitely heard it. It seemed to have gone in somewhere, a 
 
 “No,” said Malfoy. “You didn’t. You’re an idiot.”
 
-She took one step, and took hold of the cloak, and pulled it down out of his hands. It went on to the floor. There was nothing now between them but about a foot of bald rug, and she stood looking up at him, with her eyes very bright. She had said his name before. She had said it in a bad temper, on a certain February night, because of a rule of his; she had shouted it across a lawn, with a rat getting away. She said it to Weasleys, in quotation marks. He had been called it by a great many people. There had been crowds. They had shouted it at him across the whole of two lives, and put it on a goblet, and on banners, and on badges.
+She took one step, and took hold of the cloak, and pulled it down out of his hands. It went on to the floor. There was nothing now between them but about a foot of bald rug, and she stood looking up at him, with her eyes very bright. She had said his name before. She had said it in a bad temper, on a certain February night, because of a rule of his; she had shouted it across a lawn, with a rat getting away. She said it to Weasleys, in quotation marks. It had been shouted at him across the whole of two lives, and put on a goblet, and on badges.
 
 She said it very low. She said it as if she had found it in the bottom of a drawer, and hadn’t known that it was hers.
 
 “Harry.”
-
-Nobody moved.
 
 “Yours,” said Lyra. “Don’t make me say it twice.”
 
@@ -164,7 +160,7 @@ It wasn’t a figure of speech. They just stopped; he sat down on the floor, on 
 
 He made a noise. He had no idea what noise it was; he thought it might be the one that Fang made when you came home. He was up again. He didn’t know how he’d got up. He had her by both hands. They were freezing cold, and she was laughing, or crying, or something, her whole face had come apart, and he said, “Again,” and she said, “Yours, you imbecile, that’s three, I’ve never been so embarrassed,” and he kissed her. He kissed her on the forehead. He got the left eyebrow and the right eyebrow and the end of her nose, and her chin, and both sets of knuckles, one after another, with a loud noise, like somebody stamping a great many forms in a hurry.
 
-“Stop it! You’re *wet!* Potter—you’ve got your glasses in my eye—that’s a hundred points—”
+“Stop it! You’re *dripping!* Potter—you’ve got your glasses in my eye—that’s a hundred points—”
 
 “Harry.”
 
@@ -175,6 +171,8 @@ He made a noise. He had no idea what noise it was; he thought it might be the on
 “*Yours!*” she shouted. “Yours, yours, oh, for heaven’s sake, is that what you want? *Yours!* Do you want it in Latin?”
 
 “Yes!”
+
+“*Tua!*” she shouted. “*Tua*, you illiterate, it agrees with *me!*”
 
 He let go of her, because he had to, because there was too much of it to stand still with. He turned round. He went across the room. It was four steps; he got to the far wall, and turned, and it was seven; the room had taken a good look at him and pushed the walls back. He ran. He ran round the armchair, with his arms out, in his socks, on the eve of his O.W.L.s, making a long thin noise through his teeth, and he had got round it twice before he noticed that he was laughing so hard he couldn’t see. He hit the bookcase. Something fell off it. “She said me!” he told the bookcase. “She said *me!*” He had lost a sock somewhere. He stopped in the middle of the rug, heaving for breath, and he looked at her standing there with her pins coming out and the tears running down beside her nose and her hand over her mouth, and it hit him all over again, from the feet up, and he had to bend over and hold his knees.
 
@@ -188,7 +186,7 @@ She stopped laughing first. He saw it go; she stood with her breath still catchi
 
 “It’s the worst thing I have ever done,” she said.
 
-He knew what she meant. He knew who was sitting at that table, swinging his feet. He straightened up. He felt the whole of it, the size and the weight of it, go by him in the room, like something very large going past outside a house. It was all perfectly true. He wasn’t a child. He knew that.
+He knew what she meant. He straightened up.
 
 “I know,” said Harry.
 
@@ -222,7 +220,7 @@ He read it. He read it about eleven times.
 
 “I have *not* spelt it—”
 
-She looked, and he got her round the shoulders; and that was as much as the chair could stand. It had taken a great deal from them, one way and another, since January. It gave a long despairing sigh of horsehair, and a crack from somewhere underneath, and one leg folded up, and the whole thing tipped slowly and gracefully over on its side and put them out on to the rug, in a heap, with the book, the cards and a cushion. She landed on his elbow. He got a mouthful of cloak. They lay there. He heard her start, somewhere near his ear, a thin helpless wheezing sound, and that set him off, and for a while there was nothing in the world that could be done about either of them.
+She looked, and he got her round the shoulders; and that was as much as the chair could stand. It had taken a great deal from them, one way and another, since January. It gave a long despairing sigh of horsehair, and a crack from somewhere underneath, and one leg folded up, and the whole thing tipped slowly and gracefully over on its side and put them out on to the rug, in a heap, with the book, the cards and a cushion. She landed on his elbow. He got a mouthful of cloak. He heard her start, somewhere near his ear, a thin helpless wheezing sound, and that set him off, and for a while there was nothing in the world that could be done about either of them.
 
 ⁂
 
@@ -238,7 +236,7 @@ He was lying on his back on the rug with a cushion under his head and the grey c
 
 “Say it again.”
 
-“You have Charms in fifteen hours, and you’re going to stand in front of an examiner with your mouth open. I’ve seen you. Five exceptions.”
+“You have Charms in twelve hours, and you’re going to stand in front of an examiner with your mouth open. I’ve seen you. Five exceptions.”
 
 “Lyra,” said Harry.
 
@@ -246,11 +244,11 @@ He had said it before, in a number of emergencies. He had never said it for no r
 
 She didn’t answer. She looked at him over the top of the card, and whatever she saw, she didn’t take any points for it. She reached over, and took off his glasses, for the second time that day, and folded them, and put them on the fender.
 
-Everything went soft and golden and rather far away. He could hear the fire, and the small sound of a card being laid on a pile. His whole body seemed to be going slowly down through the floor. He lay and let it. There wasn’t anything he needed to check. He noticed that with mild surprise. He felt for the list, from habit, as you feel for your keys, and he couldn’t be bothered. He didn’t count the days. He didn’t go in and look for anybody. Nobody was on the stairs.
+Everything went soft and golden and rather far away. He could hear the fire, and the small sound of a card being laid on a pile. The floor seemed a long way off. There wasn’t anything he needed to check. He noticed that with mild surprise. He felt for the list, from habit, as you feel for your keys, and he couldn’t be bothered. He didn’t count the days. He didn’t go in and look for anybody. Nobody was on the stairs.
 
 When he was seven there had been a game at school, at break, in the playground, where two big boys stood facing everyone and took it in turns. *You. You. You.* Dudley had always been one of the big boys. It went on until there was nobody left standing on the tarmac but you, with your taped glasses and your enormous jumper, looking at your shoes, and whichever side had lost the toss said, *Oh, all right, then*. Every day. For years. He hadn’t thought about that since he didn’t know when.
 
-He started to laugh. It didn’t come to much; it hardly stirred the blanket.
+He started to laugh. It didn’t come to much; it hardly stirred the cloak.
 
 “What?” said Lyra.
 
@@ -260,4 +258,4 @@ He started to laugh. It didn’t come to much; it hardly stirred the blanket.
 
 “Mm.”
 
-He was. He went down smiling, with marmalade on his chin, all the way, without touching the sides, and he slept for eleven hours, and he didn’t dream of anything at all.
+He was. He went to sleep smiling, with marmalade on his chin. He did not hear her go down to her rounds. He slept for eleven hours, and he didn’t dream of anything at all.
