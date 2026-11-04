@@ -1,5 +1,7 @@
 # Encargo del crítico externo (Codex)
 
+> **Nota (4 de noviembre de 2026):** tras la limpieza, lo que aquí se cita de `docs/fable/`, `docs/notas/ideas/`, `docs/handoff-v3.0.md`, `ARRANQUE.md` y los resúmenes está en `docs/archivo/` o en `referencia/resumenes/`. Este documento es histórico; manda `CLAUDE.md`.
+
 *3 de noviembre de 2026. El autor trabaja con límites estrictos y sin Fable: la crítica de los capítulos la hace Codex, fuera de esta sesión. Sustituye al crítico Opus del ARRANQUE §5. Claude le pasa al autor el prompt de abajo con los huecos rellenos.*
 
 ## Cómo trabaja

@@ -1,5 +1,7 @@
 # Prompt de inicio: la reestructura (romance, Harry, Voldemort, guion general y capítulos 38-50)
 
+> **Nota (4 de noviembre de 2026):** tras la limpieza, lo que aquí se cita de `docs/fable/`, `docs/notas/ideas/`, `docs/handoff-v3.0.md`, `ARRANQUE.md` y los resúmenes está en `docs/archivo/` o en `referencia/resumenes/`. Este documento es histórico; manda `CLAUDE.md`.
+
 *3 de noviembre de 2026. Para pegar al abrir la sesión nueva.*
 
 ---
