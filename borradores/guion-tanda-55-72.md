@@ -26,7 +26,7 @@
 **Lo que pasa por detrás (no se revela en la tanda):**
 - **Copa y anillo** están en el sótano de la Mansión desde enero, bajo los pies de Lyra.
 - **El libro:** Riddle firmó en 1943. Voldemort lo sabe, y por eso le da igual reabrir la deuda: el libro solo cobra al morir, y él no piensa morir. Abraxas lo lleva a la casita (54) porque sabe lo que se le viene encima.
-- **La orden de Pettigrew:** en cuanto sale de Azkaban le cuenta a Voldemort que Potter le miró en la Casa de los Gritos como a un viejo conocido: «the boy knew». Por eso Voldemort le quiere vivo y por eso pide a Lyra lo que Harry teme, no lo que Harry planea.
+- **La orden de Pettigrew:** en cuanto sale de Azkaban le cuenta a Voldemort que Potter le miró en el lago (22) como a un viejo conocido: «the boy knew». Por eso Voldemort le quiere vivo y por eso pide a Lyra lo que Harry teme, no lo que Harry planea.
 - **El fragmento** calla. La primera vez que se oye es «Mine», en el Ministerio, y el lector cree que es Harry o Voldemort. Se entiende en los tramos 4 o 5.
 
 ---
@@ -173,7 +173,7 @@
 2. **Cambia.** Primera clase. *Legilimens.* Harry nunca se ha defendido: lleva cuatro años enseñando lo que le sirve. Snape entra y ve lo que no debe. El suelo de una casucha. Sangre. Su propia voz: *Look at me.* Un chico recogiendo un recuerdo plateado en un frasco. Y a sí mismo, muerto, por la serpiente, con los ojos de Lily. **Snape ve su muerte.**
 3. **Nuevo.** Snape se sienta. Cierra la puerta con la varita. Por primera vez en cinco años no hay insolencia que corregir. Harry se lo dice, y no lo adorna. «How long have you known?» «Since I was eleven.» «All of it.» «All of it.» Snape pregunta una sola cosa: si Dumbledore lo sabe. Y luego: «Then you have sat in my classroom for four years, knowing what I did.» «Yes, sir.» «And?» Harry no tiene una frase justa. Snape vio el final de lo que Harry recuerda: un bosque, una luz verde, nada. «Did it serve?» «I don’t know. It stops.» **Primera semilla de que aquel chico perdió (decisiones, §7): no se dice más.** **Snape lo sabe todo desde aquí, y es el único con quien Harry puede hablar de ello.** Sigue siendo igual de desagradable. Eso le consuela.
 4. **Nuevo.** Por la noche, la butaca. Ella le pregunta qué tal, y él dice: «He’s foul.» Beso. Ella nota algo, y no pregunta, porque ella tampoco ha contado lo de la carta. **Cada uno, por primera vez desde enero, le esconde algo al otro en la misma noche.**
-5. **Se queda (68), cambia.** Sueño: un salón con mucha luz, una mesa conocida. Un hombre en cuclillas, con una mano de menos. «He looked at me in the Shack, my lord. As if he’d met me.» «The boy knew.» Voldemort, encantado por primera vez, deja la taza. Harry reconoce el comedor por lo que ella le contó, y se despierta sabiendo que ahora le buscan a él, no a sus planes.
+5. **Se queda (68), cambia.** Sueño: un salón con mucha luz, una mesa conocida. Un hombre en cuclillas, con una mano de menos. «He looked at me at the lake, my lord. As if he’d always known.» «The boy knew.» Voldemort, encantado por primera vez, deja la taza. Harry reconoce el comedor por lo que ella le contó, y se despierta sabiendo que ahora le buscan a él, no a sus planes.
 
 ### Cap. 61 — *A Name* (Lyra)
 
