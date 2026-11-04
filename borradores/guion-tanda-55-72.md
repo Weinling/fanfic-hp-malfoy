@@ -50,9 +50,9 @@
 | 64 | The Date | Harry | Abril | Nuevo |
 | 65 | The Knight | Harry | Finales de abril | Nuevo; ecos de ko-53 |
 | 66 | Continuous | Lyra | Mayo | 68 (Snape), nuevo |
-| 67 | Through a Door | Harry | Mediados de mayo | Nuevo |
-| 68 | Ask Me | Harry | Dom. 26 mayo | Nuevo |
-| 69 | You Were Missed | Lyra | 26 mayo a principios de junio | Nuevo |
+| 67 | Through a Door | Harry | Sáb. 25 mayo | Nuevo |
+| 68 | Ask Me | Harry | Dom. 2 jun., víspera de los TIMOs | Nuevo |
+| 69 | You Were Missed | Lyra | 2 a 5 jun. | Nuevo |
 | 70 | Cousins | Lyra | Del 5 al 18 de junio | 71 |
 | 71 | Mid-Sentence | Harry | Mar. 18 jun. | 71, 72, 73 |
 | 72 | Mine | Harry, coda de Lyra | Noche del 18 al 19 de jun. | 73 en adelante |
@@ -290,7 +290,7 @@
 - **Gancho:** Hermione se va con él, y le mira, y no dice nada.
 
 **Escenas:**
-1. **Nuevo.** Dos días antes de los exámenes, en el aula del tercer piso, porque la Sala estaba ocupada. Pelea por nada: quién dejó la capa, luego Nott, luego todo. Se ponen a gritar. Ella, por hacer daño, saca lo que nunca saca: «You let a girl of eleven—» Él: «Don’t you—» «She was *eleven*, Potter!»
+1. **Nuevo.** Sábado 25 de mayo, al día siguiente del brazo, en el aula del tercer piso (la del «No» del 37), porque la Sala estaba ocupada. Pelea por nada: quién dejó la capa, luego Nott, luego todo. Se ponen a gritar. Ella, por hacer daño, saca lo que nunca saca: «You let a girl of eleven—» Él: «Don’t you—» «She was *eleven*, Potter!»
 2. **Nuevo.** Hay alguien en la puerta. Ron venía a buscarle, con la capa de Quidditch. Lo ha oído casi todo: Flourish and Blotts, el Diario, «I needed it to happen». Se queda quieto, con las orejas blancas. «She was *eleven*?»
 3. **Nuevo.** Harry se lo cuenta en el pasillo, porque no sabe mentirle a Ron a la cara. Otra vida, la Cámara. Lo mínimo. Ron no grita. Pregunta si Hermione lo sabía. Harry no contesta. Y Ron, que nunca ha sido listo, lo entiende.
 4. **Nuevo.** Ron le pega, una vez, y mal. Dobla la insignia. Se va a buscar a Ginny. Lyra, detrás, blanca: «I didn’t know he was there.» Harry no contesta.
@@ -308,7 +308,7 @@
 - **Gancho:** ninguno. Acaba feliz. El capítulo siguiente paga.
 
 **Escenas:**
-1. **Nuevo.** Domingo de Pentecostés. Una semana sin Ron. Harry en la butaca, sin dormir, con la crisis entera encima: el niño, Sirius, Ron. Se lo cuenta a medias: «I think I ate him.» Ella no entiende, y entiende. Le oye. Llora de verdad, por primera vez delante de ella.
+1. **Nuevo.** Domingo 2 de junio, víspera de los TIMOs. Una semana sin Ron. Harry en la butaca, sin dormir, con la crisis entera encima: el niño, Sirius, Ron. Se lo cuenta a medias: «I think I ate him.» Ella no entiende, y entiende. Le oye. Llora de verdad, por primera vez delante de ella.
 2. **Nuevo.** Ella lleva todo el rato con una carta en el bolsillo. Por fin la saca: Lucius, urgente, con Traslador para las seis: Abraxas agoniza, Draco ya ha ido; el Señor Tenebroso quiere a la familia a la mesa esta noche, *all of it*. Ha venido a decirle que se va. Él no le pide nada, y ni siquiera lo piensa: sabe de sobra lo que hay que hacer. **Se levanta a ayudarla con la capa.**
 3. **Nuevo.** Ella le mira un rato. Echa la carta al fuego. Él no entiende. «What are you doing?» «Ask me.» «What?» «What you asked me in the Owlery. Ask me.» No puede. Se le rompe la voz. «Them or me.» «You.» Se calla. Ella: «It was always going to be you. You knew that before I did.» «I didn’t.» «No,» dice ella, «you didn’t. You’re an idiot.» Y luego, muy bajo: **«Harry.»** Por primera vez porque quiere. Y: «Yours. Don’t make me say it twice.»
 4. **Nuevo.** Se lo hace decir cinco veces. Se pone a reírse, y a llorar, y a no poder estar de pie. La llena de besos por toda la cara y las manos, como un loco, y ella protesta y se ríe. Da vueltas por la sala. «Never own a Malfoy.» «You can’t. I’m giving it to you. There’s a difference, and I shall explain it when you’re sane.» Lo mete en el libro verde. Se caen de la butaca. Acaban en el suelo. Él cree que no va a poder estar más contento en lo que le quede de vida.
