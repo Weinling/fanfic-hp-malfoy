@@ -399,6 +399,8 @@ En orden de lectura. Las fechas marcadas «deducida» no las da el texto: salen 
 - Beso que empieza ella (**decimotercero**; el texto no describe la boca): **«That was the last one.» / «This year.» / «It’s *January*.» / «Happy New Year.»** El anillo de Harry, tras ocho horas rojo, queda de un rosa pálido y dudoso.
 - Fallo menor: en el 55 Abraxas dice que la taza era imposible «since before you could walk»; en febrero de 1982 Lyra tenía casi dos años (`cap-55-the-long-book.md:77`).
 
+- **58 (enero de 1996):** ver `cap-58.md`. Narcissa encubre la salida de Lyra. Fuga de Azkaban: Bellatrix y, sin nombre, Pettigrew. Sala de los Menesteres: la butaca. Informes semanales; Voldemort pide lo que Harry teme y se ríe. Puntos, de diez en diez. Draco sigue sin hablarle. Crabbe, dolida por la promesa del día 2. Rata en el séptimo piso.
+
 ## 5. Fichas vivas
 
 Al final del 57.

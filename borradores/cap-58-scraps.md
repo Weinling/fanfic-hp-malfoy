@@ -2,7 +2,7 @@
 
 “The garden door sticks in the cold,” said her mother.
 
-It was a little after eight on New Year’s morning. Lyra had got as far as the top of the back stairs, with her boots in her hand and her cloak over her arm, and there was Narcissa Malfoy at the turn of the passage in a grey wrapper, doing something to a vase.
+It was getting on for nine on New Year’s morning. Lyra had got as far as the top of the back stairs, with her boots in her hand and her cloak over her arm, and there was Narcissa Malfoy at the turn of the passage in a grey wrapper, doing something to a vase.
 
 She did not look up. She took out a dead stem, and considered it.
 
@@ -12,7 +12,7 @@ Lyra held it out. Her arm seemed to do it by itself. Her mother took the cloak, 
 
 “You’ll want to go in to your father,” said Narcissa. “He asked for you. Do your hair first.”
 
-She went away along the passage. Lyra stood where she was for a little while, with her heart going, and looked at the vase.
+She went away along the passage. Lyra stood where she was, with her heart going, and looked at the vase.
 
 ⁂
 
@@ -20,17 +20,19 @@ Draco got into another carriage.
 
 He did it on the platform on the eighth, in front of everybody, with his trunk going ahead of him and his chin up. He walked past her as one walks past a pillar. He had the bow tie on, and somebody had tied it for him. Their father, leaning on his cane with both hands, watched him go by, and then turned to her with the smile he had now, which he put on a little at a time.
 
-“He’ll come round,” said Lucius Malfoy. “Boys do. You were quite right, you know. About the window.” He had got very thin in a week. He bent, carefully, and kissed her forehead. “*He* was so pleased. Every Sunday, my treasure. Everything that the boy is afraid of. He isn’t interested in what Potter knows, he says; anybody can know things. He wants to hear what wakes him up at night.”
+“He’ll come round,” said Lucius Malfoy. “Boys do. You were quite right, you know. About the window.” He had got very thin in a week. He bent, carefully, and kissed her forehead. “*He* was so pleased. Every Sunday, my treasure. Everything the boy is afraid of. He isn’t interested in what Potter knows, he says; anybody can know things. He wants to hear what wakes him up at night.”
 
 “Yes, Father.”
 
 “I’m counting on you,” said her father, and his hand on her shoulder did what it did nowadays, very faintly, and he took it away.
 
-Parkinson had the *Prophet* in the corridor. There were ten faces on the front of it, under a headline with a great many capital letters, and they had all been photographed by somebody who disliked them. MASS BREAK-OUT FROM AZKABAN. The woman in the middle had heavy eyelids and her mother’s cheekbones. She was laughing at the camera, without any sound, with her head a little on one side, and every so often she looked out of the page at whoever happened to be holding it, as if she had thought of something.
+Parkinson had the *Prophet* in the corridor. There were ten faces on the front of it, under a headline with a great many capital letters, and they had all been photographed by somebody who disliked them. MASS BREAK-OUT FROM AZKABAN. The woman in the middle had heavy eyelids and her mother’s cheekbones. She was laughing at the camera, without any sound, with her head a little on one side, and every so often she looked out of the page at whoever happened to be holding it, as if she had thought of something. At the foot of the last column, in very small type, the Ministry regretted that an eleventh cell had been found empty, and said that it was not at liberty to say whose.
 
 “That’s your aunt,” said Parkinson, thrilled.
 
 “Yes, Panther. I’d noticed. Move your feet.”
+
+In the next carriage, through two panes of dirty glass, somebody else had the same page. Potter was holding it very flat, with his thumb beside the laughing face, and he did not look up for as long as she stood there.
 
 Goyle had kept her a seat. She had a pasty, and she held it out without saying anything, and went on holding it. Crabbe was not in the compartment. Crabbe had been at Hogwarts since the end of term, on Lyra’s signature, in a dormitory with nobody else in it; and it was not until somewhere after York that Lyra remembered having told her she would be back on the second.
 
@@ -48,7 +50,7 @@ There did not seem to be anything that one could sign.
 
 She had sat down opposite, on the Tuesday, at the table by the window. She did not put up the wall of books. She took out a pencil, and she looked at the point of it.
 
-“Sirius thinks he’s got a girl in Slough. He’s very pleased about it. He has been singing.” She laid the pencil down, exactly parallel with the edge of the table. “He ate three eggs. I’ve been trying to get that boy to eat three eggs since August. He’s asleep at night, Ron says. He hummed something, on the train. I didn’t know he could.”
+“Sirius thinks he’s got a girl in Slough. He was very pleased about it. He sang, until yesterday’s paper. Mad-Eye has put something on that window that I don’t believe is legal, and Mrs Weasley didn’t speak to either of them for a week.” She laid the pencil down, exactly parallel with the edge of the table. “He ate three eggs. I’ve been trying to get that boy to eat three eggs since August. He’s asleep at night, Ron says. He hummed something, on the train. I didn’t know he could.”
 
 Lyra turned a page of *Numerology and Grammatica*.
 
@@ -72,11 +74,11 @@ There was a door in the wall.
 
 It was a small door, with a brass handle, and it had the look of having been there since the Conquest.
 
-“You *knew*,” said Lyra.
+“Four months,” said Lyra.
 
 “Yeah.”
 
-“I have been up here every night since the second week of term, watching that wall. I got chilblains. You could have told me how it worked at any time.”
+“I have been up here every night since the second week of term, watching that wall. I got chilblains. You might have said.”
 
 “You’d have asked how I knew.”
 
@@ -88,7 +90,7 @@ It was a small door, with a brass handle, and it had the look of having been the
 
 “Well, I said somewhere nobody could find us. You must have thought something. I went past three times, and you were standing there, with your face.”
 
-She had, as a matter of fact, thought something. She had been thinking it, on and off, since a hill in Wiltshire, and it was nobody’s concern. She opened the door.
+She had, as a matter of fact, thought something. She had been thinking it, on and off, since a hill in Wiltshire: *somewhere nobody wants anything*. It was nobody’s concern. She opened the door.
 
 It was the smallest room she had ever seen in Hogwarts. It could have gone into her mother’s wardrobe. There was a stone fireplace with a good fire going, and a rug, somewhat bald, and a low square window with nothing to be seen in it but snow going past. There were some books on a shelf that nobody had ever opened. It was warm. It smelt faintly of toast. And in front of the fire, in the exact middle of the rug, with its back to them, there stood an armchair.
 
@@ -122,9 +124,9 @@ The back of his neck had started to go. She watched with interest. “Somewhere 
 
 He looked at her. He took off his glasses, and rubbed them on his jumper, and put them back on. It came up from behind them slowly, at one corner, crooked; she had seen it on a window seat, in September, and she had been meaning to have a word with it. He crossed the rug. He turned round. He sat down.
 
-There was a great deal of him. He had got extremely long in the leg. He sat with his full weight, and an expression of tranquil legal satisfaction, on most of her left leg.
+There was a great deal of him. He had got extremely long in the leg. He sat with his full weight, and an expression of tranquil legal satisfaction, on most of her left arm.
 
-“You’re sitting on my *leg!*”
+“You’re sitting on my *arm!*”
 
 “I’m possessing it.”
 
@@ -178,9 +180,9 @@ He had rolled over on his back, and he was looking at the ceiling, with a sugar 
 
 “Twice. In the other one. Dudley’s school.”
 
-“Do not come any nearer. *He has nits*,” wrote Lyra, with enormous pleasure, “*and it preys upon him.* That’s rather good. How do you spell *Rhododendron?* I want him to sing in the bath. Flat. Something by that dreadful woman of Weasley’s mother’s. It shows a want of moral fibre.”
+“Do not come any nearer. *He has nits*,” wrote Lyra, with enormous pleasure, “*and it preys upon him.* That’s rather good. It’s better than good, Potter. It’s small, and it’s squalid, and it costs you nothing, and nobody would ever make it up. He’ll believe it because it’s beneath him. How do you spell *Warbeck?* I want him to sing in the bath. Flat. It shows a want of moral fibre.”
 
-They added that he cried at the mention of Hagrid’s rock cakes. They added, after a long dispute, a fear of the Bishop of Bath and Wells. She had to go back and take that out; she wrote it out again, fair, on a clean sheet, with her tongue between her teeth, and he read it over her arm, with his chin on her shoulder, and pointed out that she had spelt *lampshade* with two *m*s, and she bit him on the sleeve.
+They added that he cried at the mention of Hagrid’s rock cakes. They added, after a long dispute, a fear of the Bishop of Bath and Wells. She had to go back and take that out; she wrote it out again, fair, on a clean sheet, with her tongue between her teeth, and he read it over her arm, with his chin on her shoulder, and pointed out that she had spelt *lampshade* with two *m*s, and she hit him with the blotter.
 
 She blotted it, and looked at it. She had forgotten, for three hours, whom it was for.
 
@@ -194,7 +196,7 @@ She read it at the Slytherin table. She read it again. She had thought she would
 
 She did not tell him about the letter. She told him about the Thursday.
 
-It was not that anything had happened. He was sitting in the chair when she came in, with his feet on the fender. She took off her shoes, and she got in, and for a time she said nothing whatever, and he went on reading a book about Chudley with one hand and let her.
+It was not that anything had happened. He was sitting in the chair when she came in, with his feet on the fender. She sat down in what was left of it, and for a time she said nothing whatever, and he went on reading a book about Chudley with one hand and let her.
 
 “He forgot,” said Lyra.
 
@@ -202,7 +204,7 @@ Potter turned his head.
 
 “Draco.” She was looking at the fire. “He’s not speaking to me. He’s been not speaking to me for three weeks, and he’s so bad at it, Potter. He has no idea how it’s done. He passes me the salt if I ask him, without looking. He goes red, and he looks at the wall. He’d got a tin from Mother, those sugared things, and I put mine on his plate, because he likes them, and he left them. He left them there, with his mouth watering. I could see.” She stopped for a moment. “And today I was coming out of Charms, and he came running down the corridor from the other end, with his bag open, and he’d got something, I don’t know what, he’d got a Frog card. He’d got the one he’s been wanting. He had it in his hand. He was so *pleased*. He ran straight up to me, and he said ‘Lyra, *look*—’”
 
-The fire ticked. She found that she needed to get her breath, and that it took some arranging.
+The fire ticked. She found she needed to get her breath, and that it took some arranging.
 
 “And he stopped. He stood there with his mouth open. You could see him remember. It came up his face, from the chin. And he shut his mouth, and he looked at the card, and he put it in his pocket, and walked round me.” She had got hold of the front of his jumper, she noticed, in a fist. She did not seem to be able to do anything about it. “He’s *eleven*. He’s got a very small face. I did that. I stood there and I did it, in front of him, and it was so *easy*, and I’d do it again tomorrow; I’d have to; and he’s never going to show me anything, ever again, and there isn’t anything you can do about that. There’s no use in looking like that. I’m not asking.”
 
@@ -232,16 +234,16 @@ She did not open her eyes.
 
 “Ten points from Gryffindor,” said Lyra.
 
-There was a short silence. She felt it start, somewhere under her cheek, and go on for some time, in complete and helpless silence, till the whole chair shook with it.
+There was a short silence. She felt it start, somewhere under her cheek, and go on, in complete and helpless silence, till the whole chair shook with it.
 
 Tens. It was less conspicuous.
 
-She left at a quarter to one, by herself, with her shoes in her hand. The door shut behind her, and when she looked round there was only a wall, and the trolls, going patiently on with what they were doing. She had the book of rounds under her arm. She had his ink on her thumb. She walked down the seventh-floor corridor in her stockinged feet, with her wand unlit, through squares of moonlight, in the deep cold of the castle at night. She was smiling at nothing, like an idiot. There was nobody to see.
+She left at a quarter to one, by herself. The door shut behind her, and when she looked round there was only a wall, and the trolls, going patiently on with what they were doing. She had the book of rounds under her arm. She had his ink on her thumb. She walked down the seventh-floor corridor with her wand unlit, through squares of moonlight, in the deep cold of the castle at night. She was smiling at nothing, like an idiot. There was nobody to see.
 
 Something ran along the bottom of the wall, a little way in front of her.
 
 It was only a rat. It came out from behind the plinth of the warlock, and it stopped in the moonlight, and sat up, with its small wet nose going. It was rather a thin one. It had been in the wars. It looked at her for a moment, with its head on one side, and then it dropped down on to all fours and went away, not fast, along the skirting.
 
-There had always been rats on the seventh floor. Filch was forever complaining about them. She put on her shoes, and she went down to bed.
+There had always been rats on the seventh floor. Filch was forever complaining about them. She went down to bed.
 
 She did not count its toes.
