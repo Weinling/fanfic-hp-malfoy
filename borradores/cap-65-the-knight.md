@@ -22,7 +22,7 @@ It was a very nice evening. He had got through a week of it. He had been down to
 
 He put it on the edge of the board, in the corner, behind its own pawn.
 
-It went on as those games did. She took a bishop. He gave her the other one by accident, and she thanked him. She had started to look like somebody on a holiday; she had stuck a pin in her mouth, to have her hands free for her hair, and she talked round it. He thought it was the first time he had seen her eat anything without being told to, when she reached over without looking and took the last of the toast. By the tenth move he was in check. He looked at it for some time. There did not seem to be any way out. She had her queen across the whole of the back rank, and her rook coming up, and his king was standing in the middle of nothing with a pained expression. So he did the only thing he could think of. He took hold of a pawn, and moved it in front.
+It went on as those games did. She took a bishop. He gave her a rook by accident, and she thanked him. She had started to look like somebody on a holiday; she had stuck a pin in her mouth, to have her hands free for her hair, and she talked round it. He thought it was the first time he had seen her eat anything without being told to, when she reached over without looking and took the last of the toast. By the tenth move he was in check. He looked at it for some time. There did not seem to be any way out. She had her queen across the whole of the back rank, and her rook coming up, and his king was standing in the middle of nothing with a pained expression. So he did the only thing he could think of. He took hold of a pawn, and moved it in front.
 
 There was a small dry sigh.
 
@@ -44,7 +44,7 @@ The bishop looked at its feet. The whole of the black side had gone very quiet.
 
 “You said that before.” It was hardly a voice at all. “I’ve heard you say that. You said it to me. I was standing over a desk. I was—” She stopped. He watched her eyes go to the pawn, standing in front of its king, a square from where any sane person would have put it. They went to the corner, where a knight had been sitting for ten moves with its sword in its sheath, unable to reach a thing. They went slowly over the rest of the black pieces, one after another. Nobody had spoken a word of complaint. Nobody on that side of the board had complained in a year. The queen was gazing straight in front of her with an expression of long-suffering and affection, like an old nurse.
 
-“They hate everybody,” said Malfoy. “They told my father that he castled like a tradesman.”
+“They hate everybody,” said Malfoy. “They told my father he castled like a tradesman.”
 
 He took his hand down off the board. It seemed to take a long time to get to his knee.
 
@@ -66,13 +66,13 @@ He was a very small figure. He had a crack in his crown, and he had seen a good 
 
 There was not a sound in the room. Even the fire seemed to have stopped.
 
-She did not say anything for a long time. She sat on the bald rug with her knees drawn up and her hair half down, with one hand on a silver queen. All the colour had left her face. She was looking at him now, and it was not a look that he had ever seen. She seemed to be having some trouble with her breath. It came in little pulls; and he watched her go back, he could actually see her going, down a long way, through a good many doors, to the far end of something. The cold, and the one lamp. The half a sentence on the blackboard about moonstone. Every night, for three weeks. She had been eleven years old.
+She did not say anything for a long time. She sat on the bald rug with her knees drawn up and her hair half down, with one hand on a silver queen. All the colour had left her face. She was looking at him now, and it was not a look that he had ever seen. She seemed to be having some trouble with her breath. It came in little pulls; and he watched her go back, he could actually see her going, down a long way, through a good many doors, to the far end of something. The cold, and the one lamp. The half a sentence on the blackboard about moonstone. Every night, to the end of the holidays. She had been eleven years old.
 
 “It was you,” said Lyra Malfoy.
 
 He could not speak. He nodded.
 
-“There was a *pawn*. On Boxing Day. It was the stupidest move I had ever seen. And the queen. You put the queen in the middle of the—that was *you*. You came down. You came down there in the middle of the night. Every night. You’d have had to come down from *Gryffindor Tower*, in the dark, in that—you had the cloak. You must have had it by then. You—” She had got to her knees. He did not think that she knew. The table had gone over, with a crash, and there were black and silver pieces all over the rug, shrieking, and she took no notice of them at all. “You *sat in that chair!*”
+“There was a *pawn*. On Boxing Day. It was the stupidest move I had ever seen. And the queen. You put the queen in the middle of the—that was *you*. You came down. You came down there in the middle of the night. Every night. You’d have had to come down from *Gryffindor Tower*, in the dark, in that—you had the cloak. You must have had it by then. You—” She had got to her knees. He did not think she knew. The table had gone over, with a crash, and there were black and silver pieces all over the rug, shrieking, and she took no notice of them at all. “You *sat in that chair!*”
 
 “Yes.”
 
@@ -80,7 +80,7 @@ He could not speak. He nodded.
 
 “I was in the door,” said Harry. His voice had gone somewhere. “The first night. I’d followed you from the Hall. I saw you doing the voices.”
 
-She hit him. It was with her closed fist, on the chest, and it was a good deal harder than you would have thought. It knocked what was left of the air out of him. “*The Baron!*” said Malfoy. Her voice cracked in two. “I curtsied to the *Bloody Baron!* I got down on the dungeon stairs in my good robes and I *thanked* him! I have been thanking a dead man in *chains* for four and a half years, and you stood in front of that mirror, with your stupid ears, and you *let* me—”
+She hit him. It was with her closed fist, on the chest, and it was a good deal harder than you would have thought. It knocked what was left of the air out of him. “*The Baron!*” said Malfoy. Her voice cracked in two. “I curtsied to the *Bloody Baron!* I got down on the dungeon stairs in my good robes and I *thanked* him! I have been thanking a dead man in *chains* for four and a half years, and you stood in front of that mirror, with your stupid ears, and you *knew what it was*. You knew what I was looking at. I was eleven years old, and I’d have given every Galleon I had, and the whole of my heart’s desire was you, *losing*—”
 
 She hit him again. There were tears running down her face. She did not seem to have noticed them. They were simply coming out, and going in at the corners of her mouth, and she was laughing, or something was; he had never seen anything like it. It was as if somebody had taken down a wall.
 
@@ -98,15 +98,15 @@ It went in very slowly. He sat quite still and felt it go. *Please come.* He had
 
 “*Somebody came!*” said Lyra.
 
-She let go of his jumper. She took his face in both her hands. They were wet and they were not at all steady. She held it, hard, and she looked at it, every part of it, from about six inches off, as if she had never been allowed to look at it before. He had seen her happy. He had thought that he had. He had seen her with a Snitch, and he’d seen her on a hill, and in the chair with her forehead down, laughing about a D. He understood now that he had been looking at the outside of a house. Her whole face had come open. There was somebody in there, right at the back, with her chin up and her hair in a ribbon; and she was eleven, and she had been waiting by herself in the dark for a very long time.
+She let go of his jumper. She took his face in both her hands. They were wet and they were not at all steady. She held it, hard, and she looked at it, every part of it, from about six inches off, as if she had never been allowed to look at it before. He had seen her happy. He had thought he had. He had seen her with a Snitch, and he’d seen her on a hill, and in the chair with her forehead down, laughing about a D. He understood now that he had been looking at the outside of a house. Her whole face had come open. There was somebody in there, right at the back, with her chin up and her hair in a ribbon; and she was eleven, and she had been waiting by herself in the dark for a very long time.
 
-“It wasn’t for anything,” she said. It had almost no voice in it. “Don’t you see? It wasn’t the other one. It wasn’t the one who knows everything, with his plans, and his boards, and what comes next. I’ve had him. He’s clever, and he’s a liar, and he’s put me about like furniture since I was twelve. That was *before*. That was the Christmas of first year. You told me. It was the January, in the corridor, that it all came back. You hadn’t got any of it, had you? You didn’t know who I was. You didn’t know a single thing. Nobody had told you that I’d matter. You couldn’t play. You had Spellotape on your glasses and you were scared of the dark and you thought a Galleon was a kind of boat. You were just a horrid little boy who’d seen somebody by herself, and you got out of bed.”
+“It wasn’t for anything,” she said. It had almost no voice in it. “Don’t you see? It wasn’t the other one. It wasn’t the one who knows everything, with his plans, and his boards, and what comes next. I’ve had him. He’s clever, and he’s a liar, and he’s put me about like furniture since I was twelve. That was *before*. That was the Christmas of first year. You told me. It was the January, in the corridor, that it all came back. You hadn’t got any of it, had you? You didn’t know who I was. You didn’t know a single thing. Nobody had told you I’d matter. You couldn’t play. You had Spellotape on your glasses and you were scared of the dark and you thought a Galleon was a kind of boat. You were just a horrid little boy who’d seen somebody by herself, and you got out of bed.”
 
 She laughed. It broke in the middle. She laid her forehead against his.
 
 “You weren’t anybody yet,” said Lyra. “You just *came*.”
 
-She kissed him. She kissed him on the mouth, and on the cheekbone, and on the bridge of his glasses, wet and salty and laughing, and then she put her arms round his neck and held on with all her strength. Her heart was going like a bird’s. She was saying something into his collar, over and over, and he could not make it out at first. It was *thank you*. It was very quiet and rather cross.
+She kissed him. She kissed him on the mouth, and on the cheekbone, and on the bridge of his glasses, crying and laughing, and then she put her arms round his neck and held on with all her strength. Her heart was going like a bird’s. She was saying something into his collar, over and over, and he could not make it out at first. It was *thank you*. It was very quiet and rather cross.
 
 He put his arms round her. They went round her by themselves. Over her shoulder he could see the little room, the fire, the timetable, and the pieces picking themselves up off the rug; and quite near his knee a small black knight was getting to its feet and putting its helmet straight, and looking up at him.
 
@@ -136,9 +136,7 @@ He knew it had happened. There had been a doorway. He could have told you what t
 
 It was very quiet. There was a chair, with nobody in it. A lamp had been left burning. He stood there for some time, and he called, in a manner of speaking. He waited.
 
-A few weeks later that boy had gone down a corridor behind a man in a turban, on a winter evening, with his scar beginning to split. Somebody had come in through it. Somebody seventeen years old, who had buried a good many people, and could do sums. He’d looked out through that child’s eyes the next morning at the breakfast table, knowing how everyone was going to die. He had picked up his fork with that child’s hand. And he had gone on from there; he had used it all, the bed, the friends, the place at the table, and he had used her. He’d been so busy. It had not once occurred to him to ask what had happened to the person who had been there first.
-
-Nobody in two lives had ever got out of bed for Lyra Malfoy, except one.
+A few weeks later that boy had gone down a corridor behind a man in a turban, on a winter evening, with his scar beginning to split. Somebody had started to come in through it. Somebody seventeen years old, who had buried a good many people, and could do sums. It had taken him until Easter. He had looked out through that child’s eyes at the breakfast table, a little more of him every morning, until he knew how everyone was going to die. He had picked up his fork with that child’s hand. And he had gone on from there; he had used it all, the bed, the friends, the place at the table, and he had used her. He’d been so busy. It had not once occurred to him to ask what had happened to the person who had been there first.
 
 She had been waiting for him for four and a half years. She’d held him just now as if she would never let go. She had thanked him. She was asleep under the lake with a smile on her face, and it was for somebody with Spellotape on his glasses, who had thought a Galleon was a kind of boat.
 

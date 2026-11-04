@@ -414,6 +414,8 @@ En orden de lectura. Las fechas marcadas «deducida» no las da el texto: salen 
 
 - **64 (20 abr. 1996):** ver `cap-64.md`. Lyra sabe la fecha de Sirius. Harry decide esconderle a sus espaldas.
 
+- **65 (28 abr. 1996):** ver `cap-65.md`. Lyra descubre que fue Harry quien jugó en Navidad de 1991. Empieza la crisis del niño.
+
 ## 5. Fichas vivas
 
 Al final del 57.
