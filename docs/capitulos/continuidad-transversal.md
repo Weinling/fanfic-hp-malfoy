@@ -415,6 +415,7 @@ En orden de lectura. Las fechas marcadas «deducida» no las da el texto: salen 
 - **64 (20 abr. 1996):** ver `cap-64.md`. Lyra sabe la fecha de Sirius. Harry decide esconderle a sus espaldas.
 
 - **65 (28 abr. 1996):** ver `cap-65.md`. Lyra descubre que fue Harry quien jugó en Navidad de 1991. Empieza la crisis del niño.
+- **66 (mayo 1996):** ver `cap-66.md`. Empieza el control; Harry propone el cebo de Sirius; Lyra sabe que Snape conoce el secreto; primer «Mine» sin broma.
 
 ## 5. Fichas vivas
 

@@ -279,6 +279,8 @@
 4. **Nuevo.** Los informes cambian. Lucius pide más, porque Voldemort pide lo que Potter teme, y ella se lo da, y le da algo verdadero: que Potter no duerme, que teme por el padrino. Él le ayuda a redactarlo sin saber que es verdad.
 5. **Nuevo.** Pelea sobre Nott. Él se pasa. Le coge el brazo. No la muñeca, el brazo. Lo suelta, y ella se ríe. Él no. «*Mine*», dice, y no es una broma, y ella se da cuenta de que por primera vez no le apetece reírse. Y lo deja pasar.
 
+**Cambio al escribirlo (66):** Harry propone a propósito el informe de Sirius, como cebo, para que Voldemort repita la trampa que conoce. Lyra lo sabe. El 70-71 parte de ahí.
+
 ### Cap. 67 — *Through a Door* (Harry)
 
 - **Motor:** una pelea tonta va demasiado lejos.
