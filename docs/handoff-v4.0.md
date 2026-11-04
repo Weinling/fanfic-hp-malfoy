@@ -102,6 +102,7 @@ Detalle del fondo en `docs/notas/lo-que-sabe-harry.md`. Lo decidido (`docs/notas
 - **Harry viene de un mundo sin Lyra** (el canon, con Draco de su edad) y recuerda hasta la luz verde del Bosque. Llegó en el pasillo con Quirrell, en enero de 1992, a trozos.
 - **Primera capa:** Lyra (39), Granger (51), Snape (60). **Ron:** se entera en el 67.
 - **El niño:** nunca se fue; llegaron recuerdos, no un alma. Harry teme haberlo sustituido.
+- **El otro Harry perdió:** murió en el Bosque y no se levantó; Voldemort ganó allí. Nadie volvió. Harry no lo sabe hasta que se lo dice Riddle (decisiones, §7). Es heredero de un muerto, no un viajero.
 - **La causa:** no viajó Harry, huyó Riddle. «You didn’t come back, Potter. I did. You’re what I was carrying.» El fragmento se calla; su «Mine» se oye en el Ministerio.
 - **El surco:** la otra vida le llega por el cuerpo antes que por la cabeza. Avisos en el 52 y el 72; el baño, en diciembre de 1996.
 - **Por qué existe Lyra:** una moneda (53). Nadie vuelve a preguntarlo.

@@ -71,7 +71,7 @@ Capítulo a capítulo, con el orden definitivo, en `plan-38-50.md`.
 
 **Lyra, la corrupción.** Hopkins, la canción y Weasley, el Crucio, Bode, los informes que son verdad, la Marca, Greer. Cada peldaño tiene un nombre y no se le devuelve. Nadie la perdona por ser la protagonista.
 
-**Harry.** Pierde el futuro (Int. 2), ve que no es el primero (39, 43), se confiesa con Granger (51), la mano (52), el niño (tramo 2), el control, el Ministerio, Sirius, la mano otra vez, el baño, la culpa, esperar con el bezoar. Del tramo 3 en adelante lleva tanta historia como ella.
+**Harry.** Su pregunta de fondo: ¿una vida propia, o la segunda oportunidad de un muerto? (decisiones, §7). Pierde el futuro (Int. 2), ve que no es el primero (39, 43), se confiesa con Granger (51), la mano (52), el niño (tramo 2), el control, el Ministerio, Sirius, la mano otra vez, el baño, la culpa, esperar con el bezoar. Del tramo 3 en adelante lleva tanta historia como ella.
 
 **La Casa.** Abraxas: de dueño a podrido. Lucius: de padre feliz a roto. Narcissa: de la puerta a la traición. Draco: de la lista a no hablarle a su hermana.
 
@@ -82,6 +82,7 @@ Capítulo a capítulo, con el orden definitivo, en `plan-38-50.md`.
 | Misterio | Se abre | Se cierra |
 |---|---|---|
 | La causa del viaje | 39 | Riddle se lo dice, tramo 4 o 5 |
+| Quién ganó en la otra vida | 39 (el «Can’t») | Riddle: perdieron. El otro Harry murió en el Bosque (decisiones, §7) |
 | La segunda capa | 22 | Lyra, tramo 4 o 5 |
 | El niño | 51 | Se mueve con Snape y el zorro; se cierra en el final |
 | El libro | 41 | Se entiende de verdad en Pascua de 1997 |

@@ -57,6 +57,18 @@ Un matiz a tu idea: Draco no se corrompió, se rompió. Si queremos corrupción,
 5. Escribe *You don’t owe me anything* y lo quema. Arden Riddle, la otra vida, nueve siglos, la fortuna, el nombre. Salen todos los cobrados, Greer también.
 6. Ya no hay regla que le traiga: es libre y puede irse. Se queda con él hasta el amanecer, con el anillo plateado (32). Se calienta. **Elige él.** «You don’t owe me anything.» «I know. That’s why I came.» No recuerda la otra vida. Por primera vez, nadie sabe qué pasa después.
 
+## 7. El otro Harry perdió (autor, 4 de noviembre; dirección, no se revela hasta el tramo 4 o 5)
+
+**El otro Harry murió en el Bosque y no se levantó. Voldemort ganó su guerra.** No fue un viaje: nadie volvió. Encaja con la decisión 3 sin cambiarla: el fragmento moribundo huyó con toda aquella vida, y por eso lo que recuerda Harry acaba exactamente en la luz verde. El corte no es un olvido: es el momento en que murió el dueño de esos recuerdos.
+
+- **Nadie los entregó.** Se los llevó Riddle. El otro Harry murió sin saber que servían para nada, y sin saber que alguien los recibiría. Eso es más triste que un sacrificio a propósito, y sigue siendo «no ganó».
+- **Quien lo revela es Riddle:** «You didn’t come back, Potter. I did. You’re what I was carrying.» Y después: que aquel chico no se levantó, y lo que pasó a Ron, a Hermione y a todos los que Harry cree a salvo en su recuerdo.
+- **Responde al miedo por el niño.** Harry teme ser un usurpador. La verdad es la contraria: es el niño de este mundo, y es **el heredero de un muerto**. Nadie se comió a nadie.
+- **Le da su deuda final.** Harry vive como si tuviera que ganar por aquel muerto. La pregunta: ¿puede tener una vida propia sin tratarla como la segunda oportunidad de otro? Al final, cuando pierde esos recuerdos, se suelta de ese muerto igual que Lyra le suelta a él: «You don’t owe me anything.» Deber es el tema del libro, y la deuda más grande de Harry es con alguien que nunca se la cobró.
+- **Lyra es de este mundo.** El niño ya jugaba con ella antes de los recuerdos. El amor no es del muerto: es lo único suyo.
+- **Hasta entonces, Harry no lo sabe.** «I don’t know» si sirvió. Lo que el lector tiene son indicios.
+- **Lo que no cambia:** el brazo y la palabra no le absuelven. El surco es suyo; dejar pasar el diario fue una decisión.
+
 ## Lo que decido si no dices lo contrario
 
 - **Unos 100 capítulos en total**, más extras: unos 50 más de los que hay ahora, contra los 35 que se estimaban. Son unas 200.000 palabras por escribir.
