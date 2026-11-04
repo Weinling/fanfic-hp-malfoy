@@ -240,7 +240,7 @@ He set it down on the table, a little way from Hopkins’s plate. Then he put on
 
 There were two people in that room who knew what they had just seen. He lifted his head, and looked along the length of the Hall, past Ravenclaw, and found her.
 
-He did not look angry. She had told him once, in an Owlery, that he did not look at any of them as he looked at her. He had always looked at her as though he had no idea what she would do next. He looked at Lucius Malfoy like this, across Flourish and Blotts. He looked at Snape like this. He looked at her for about as long as it takes to read a line one already knows, and then he went back to his toast.
+He did not look angry. She had told him once, in an Owlery, that he did not look at any of them as he looked at her. He had always looked at her as though he had no idea what she would do next. He looked at Snape like this. He looked at Umbridge like this. He looked at her for about as long as it takes to read a line one already knows, and then he went back to his toast.
 
 Lyra buttered hers. It wanted doing. Beside her, Crabbe had put down her fork.
 

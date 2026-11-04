@@ -94,7 +94,7 @@ Lyra sat very still in her chair.
 
 *Anywhere at all, in the castle, at night, on your own.*
 
-He had read it in her face. In a dark classroom on the third floor, with the moon on the floor between them, she had said *No* in the voice she had learnt on Thursday evenings, and given him nothing; and he had looked at her one moment longer than he should have, and said *Right*, and gone away; and three weeks later he had found her brother alone in a corridor after Charms and given him a coin that got warm.
+He had read it in her face. In a dark classroom on the third floor, with the moon on the floor between them, she had said *No* in the voice she had learnt on Thursday evenings, and given him nothing; and he had looked at her one moment longer than he should have, and said *Right*, and gone away; and a month later he had found her brother alone in a corridor after Charms and given him a coin that got warm.
 
 If Draco remembered to ask, somebody would go with him, somebody who might know what the old man was sending him to find. It was kind. Lyra could see how kind it was.
 
@@ -114,7 +114,7 @@ He kissed her cheek, which he had not done in public since he was eight, and wen
 
 She found Potter on her rounds that night, because he had made sure she would: on the fifth-floor landing, at the top of the marble staircase, sitting on the top step with his back against the banister and his cloak in a bundle beside him, waiting.
 
-He got up when he saw her wand-light and waited for her to speak.
+It was eight days since the sixth floor. She had moved her rounds. He must have gone to some trouble. He got up when he saw her wand-light, and he went back a step, so that there was the whole width of the landing between them, and he kept his hands where she could see them; and she noticed that, and she noticed that she had noticed, and that made it a great deal easier to be angry.
 
 “You used my brother,” said Lyra.
 
@@ -144,7 +144,19 @@ He did not raise his voice. He stood on the landing with his back to the stairca
 
 Potter had gone white.
 
-“That isn’t—”
+His right arm had come up.
+
+She saw it before he did. It rose from his side, quite smoothly, from the shoulder, with his wand at the end of it, and she would have sworn on the Malfoy name that he had not drawn it. His lips had parted. There was a word behind them. She could see the shape of it there: something short and hard that she did not know, in no book that her father owned. It was not looking at her as he looked at her. It was not looking at her at all; it was only looking for where she stopped.
+
+She felt her wrist, under the cuff, and the whole of the landing went very quiet.
+
+He shut his mouth.
+
+It took him some effort. She watched his throat move as he got it down. Then he looked along his own arm at the wand in his hand, with the most complete astonishment she had ever seen on a human face, and he lowered it, an inch at a time, as one puts down something that may go off; and he took it in his left hand, and put it away inside his robes, and stood holding his right wrist.
+
+Neither of them mentioned it.
+
+“That isn’t—” said Potter. It came out hoarse. He tried again. “That isn’t what—”
 
 “It *is*.”
 
