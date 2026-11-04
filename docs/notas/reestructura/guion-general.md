@@ -31,7 +31,7 @@ Reglas: como mucho dos capítulos seguidos sin escena de los dos, y entonces su 
 
 **Las bromas que crecen:** «That was the last one» / «This year»; cinco puntos por recaída; «scraps» (lo que venden a Lucius); la butaca; «You owe me a tomorrow».
 
-**Posesividad.** Harry: del trauma, nunca fue el primero de nadie; se vuelve necesidad y luego control. Lyra: territorial, encantada, de romance un poco más fuerte de lo normal; ella es la primera en decir «mine», y lo disfruta. Punto de podrido: la noche del Ministerio.
+**Posesividad.** Harry: del trauma, nunca fue el primero de nadie; se vuelve necesidad y luego control. Lyra: territorial, encantada, de romance un poco más fuerte de lo normal; ella es la primera en decir «mine», y lo disfruta. Punto de podrido: la noche del Ministerio, pocas semanas después de que ella le haya elegido: acaba de ganar y no soporta poder perderlo.
 
 ## Tramo 1: Enemigos (38-54)
 
@@ -48,8 +48,10 @@ Capítulo a capítulo, con el orden definitivo, en `plan-38-50.md`.
 6. **Bode.** En plena felicidad. Lyra vomita, vuelve y sonríe. En San Mungo, un Besado al que dan de comer.
 7. **El caballo.** «You weren’t anybody yet. You just came.» El mejor día de ella y el peor de él. La crisis del niño empieza aquí, desde Harry, y aprieta el control.
 8. **Ron.** Una pelea por nada va demasiado lejos y él oye «She was *eleven*» a través de una puerta. Harry se queda sin Ron. Ron y Hermione, ya elegidos.
-9. **Sirius.** Harry le esconde. Lyra, por su lado, hace que Narcissa lo cite. Ninguno se lo dice al otro.
-10. **El Ministerio.** La petrifica a mitad de frase, con la cara del boggart. Sirius muere. «Mine», en su cabeza. Segundo aviso de la mano. Lucius a Azkaban.
+9. **«Ask me»: ella le elige (finales de mayo; autor y sesión, 4 de noviembre).** Es cuando gana Harry, en el peor momento posible. Capítulo desde él, en su peor noche: sin Ron, con el miedo del niño. A ella le llega la orden de ir a casa: Voldemort sienta a la familia a la mesa, y Draco estará allí sin ella. Lyra sabe lo que debe hacer y quema la carta delante de él. «Ask me.» «What?» «What you asked me in the Owlery.» «Them or me.» «You.» Es la misma pregunta del 39 con la respuesta contraria, y le da la vuelta a la frase: siempre iba a ser él, y el único que no lo sabía era él. Le hace repetirlo. Se le agarra, la llena de besos en la cara y las manos, llorando y riéndose: alegría, no deseo. Ella se rinde: «Yours.» Es la felicidad más alta de la historia, y es egoísta, y él lo sabe y le da igual.
+10. **Lo que costó.** Capítulo siguiente, desde ella. Faltó a la mesa y lo pagó Draco. Voldemort lo apunta, muy cortés: «You were missed.» **Por eso la orden del verano va a Draco**, y por eso ella tiene que pedirla y llevar la Marca: la Marca es el precio de aquella noche. Ella no se lo dice. Él lee la Marca como «otra vez ellos», justo después de haber ganado, y de ahí sale la podredumbre del tramo 3. **La verdad se la cuenta ella en «Not yet», mientras se muere:** aquella noche le costó esto, y lo volvería a hacer.
+11. **Sirius.** Harry le esconde. Lyra, por su lado, hace que Narcissa lo cite. Ninguno se lo dice al otro.
+12. **El Ministerio.** La petrifica a mitad de frase, con la cara del boggart. Sirius muere. «Mine», en su cabeza. Segundo aviso de la mano. Lucius a Azkaban.
 
 ## Tramo 3: La serpiente (73-84)
 
@@ -83,6 +85,7 @@ Capítulo a capítulo, con el orden definitivo, en `plan-38-50.md`.
 | El libro | 41 | Se entiende de verdad en Pascua de 1997 |
 | Quién habló del norte | 50 (la carta de Lucius) | Voldemort, al llegar |
 | Dónde están la copa y el anillo | Int. 2 | El veneno |
+| Qué costó «Ask me» | Tramo 2 | «Not yet» |
 
 ## Lo que se quita del original
 
