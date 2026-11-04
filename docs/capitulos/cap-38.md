@@ -1,56 +1,52 @@
 # Capítulo 38: «The Cup»
-- **Archivo:** `borradores/cap-38-the-cup.md` · **Palabras:** ~3.460 · **Punto de vista:** Lyra · **Fecha(s) en la historia:** sábado 24 de junio de 1995, de las ocho a pasadas las diez de la noche (1 a 4); domingo 25, al amanecer (5) · **Estado:** escrito y criticado (`docs/notas/cap-38-critica.md`), sin publicar · **Original de referencia:** oficial 47 y 48 · **Ficha:** `borradores/cap-38-ficha-guion.md`
+- **Archivo:** `borradores/cap-38-the-cup.md` · **Palabras:** ~4.240 · **Punto de vista:** Lyra · **Fecha(s) en la historia:** sábado de la Tercera Prueba (junio; el cap. 39 la llama Saturday), de las 6:40 de la mañana al amanecer del domingo. El texto abre con «the morning before the Third Task», pero la prueba es esa misma tarde · **Estado:** escrito
 
 ## Escenas
-1. **El laberinto.** «From the top of the stands the maze looked like writing.» Veinte pies de seto; la Copa, un brillo azul en el centro. **Bagman: «The Cup will bring its winner back to us here… the moment it is touched!»** El anillo, **morado** desde las siete y media (como la noche del Mundial, que Lyra pasó en la cama de la Mansión, 25). Entran Potter y Diggory, empatados; luego Krum; luego Fleur. Chispas rojas: **Fleur** (la sacan); luego **Krum**. **Crabbe le coge la mano** en la oscuridad. Goyle: «That leaves—» / «I know what it leaves.»
-2. **El podio.** Un destello azul en el podio de los jueces: **Potter solo, con la Copa, agachado, la varita en alto, girando**, buscando algo que no está; luego mira la Copa «as you might look at a person who had promised you something, very solemnly, and had not done it». Bagman: «the Triwizard Champion!»; aplausos a trompicones. **El anillo, verde** (*Safe*). **Diggory sale vivo y furioso:** «He Stunned me from *behind*… I had my hand on it». Hufflepuff abuchea. Crabbe: «He cheated» / **«He won.»** Lyra recuerda la tienda (30: «one step nearer the Triwizard Cup» y la cabeza vuelta): «She had thought it was what being a champion did to a person.»
-3. **Crouch.** Lyra queda a dos pasos del podio. Potter tiene la pierna izquierda herida por un escreguto; los profesores traen la criatura en un cajón. Moody ha vuelto al laberinto; Sprout llama a Dumbledore para atender a Diggory. Crouch felicita a Potter, deteniéndose de modo anormal a mitad de frase; pregunta si el animal sacó sangre y pide llevárselo para examinarlo. Bagman autoriza el trámite; la multitud invade el podio. Potter intenta seguirle y la pierna le falla. Lyra ve de cerca la calma del Imperius, que recuerda del 27. Busca a Dumbledore, a tres yardas, atendiendo a Potter, pero piensa en el norte y **no va**. Se conserva su responsabilidad por el silencio.
-4. **La grada.** **Snape**, de pie en la tribuna de profesores, apretándose el antebrazo izquierdo, blanco «like old candle-wax», con los ojos cerrados, escuchando; luego se va deprisa. «She had seen a man hold his arm like that once before, in a cabin, with the lamp swinging.» En la mesa de los jueces, **el sitio de Karkaroff vacío, con su abrigo de pieles en el respaldo** (en junio). **Poliakoff:** «Party! In the castle… he does not want us on the ship tonight… He is a very good headmaster tonight.» El barco, con una luz en la popa.
-5. **El amanecer.** El anillo sigue verde. Pasadas las cuatro, Lyra ve que el barco de Durmstrang ha desaparecido; queda un remolino. Los alumnos abandonados bajan en pijama. Krum se queda a una yarda de ella, en silencio, mirando el lago.
+1. **Los escalones (Lyra).** 6:40, Vestíbulo vacío, cuarto escalón desde arriba. El anillo, rosa cada mañana desde hace tres semanas (*In the company of their sweetheart*). **«Three weeks… Take that thing off.»** Potter se descubre bajo la capa, apoyado donde se apoyaba desde enero. «Since the morning after». Ella: «the most perfectly disgusting thing anybody has ever done to me.» Él: «You lied to me»; no podía quedarse mirando que ella dijera buenos días y no podía no venir. «What did Karkaroff want?» / «Nothing» / «Right.» **Ella le besa, cruzada, agarrándolo de la corbata**; él la abraza «too tightly». «If you get hurt… I’ll kill you» / «Potter. It’s *hedges*.» Crabbe baja las escaleras; «Ten to eight,» dice el aire.
+2. **El laberinto (Lyra, gradas de Slytherin).** Anillo púrpura desde las 7:30 (*On guard*), como la noche del Mundial en la Manor. Entran Potter y Diggory juntos, luego Krum, luego Fleur. Chispas rojas a poco de las nueve: sacan a Delacour; otra tanda diez minutos después (Krum, dice Goyle). Crabbe le coge la mano.
+3. **La espera y el Trofeo.** Potter reaparece solo en el podio con la Copa en la mano izquierda, agachado, varita en alto, mirando alrededor «as you might look at a person who had promised you something». El anillo pasa a verde (*Safe*). Sale Diggory: **«He Stunned me from *behind*»**; Moody entra en el laberinto; abuchean a Potter. Crabbe: «He cheated» / Lyra: **«He won.»** Recuerda la tienda y la voz de Bagman.
+4. **El podio.** Lyra se cuela hasta dos pasos. Potter cojea (Escreguto, pierna). **Crouch** se queda congelado a media frase, «as though somebody had wound him up», se lleva la caja del Escreguto. Lyra reconoce la cara: la del Imperius (Parkinson, Crabbe, ella misma). No va hacia Dumbledore: «She thought of the north, and her father’s green wax». Potter la mira desde el podio.
+5. **La cuesta.** Snape en la tribuna con la mano sobre el antebrazo izquierdo, amarillo como cera; se va deprisa. Silla de Karkaroff vacía con el abrigo de piel colgado. Poliakoff: fiesta, el director no los quiere en el barco.
+6. **La noche y el lago.** No duerme; anillo verde toda la noche. Poco después de las cuatro sale: **el barco de Durmstrang ya no está**, solo agua girando. Los durmstrangs salen en pijama. Krum, el último, se queda junto a ella, un metro aparte.
 
 ## Frases literales importantes
-- «The Cup will bring its winner back to us here… the moment it is touched!»
-- «I know what it leaves.»
-- «as you might look at a person who had promised you something, very solemnly, and had not done it»
-- «Potter lowered his wand. He did not lower it very far.»
-- «He Stunned me from *behind*»
-- «He cheated.» / «He won.»
-- «You are, I think— … —a credit to your school.»
-- «It drew blood?» / «I shall take it myself.»
-- «She knew exactly what it was.»
-- «like old candle-wax»
-- «He is a very good headmaster tonight.»
-- «Yes, Barty, only get it off the platform before it explodes» (Bagman).
+- «Three weeks,» she said. «I can count, Potter. Take that thing off.»
+- «Since the morning after,» said Potter.
+- «If you get hurt,» said Lyra, «I’ll kill you.» / «It’s *hedges*.»
+- «He won.»
+- «Ten to eight,» said the air.
 
 ## Fichas (objetos y motivos)
-- **El anillo:** morado en el laberinto; verde desde el podio y toda la noche.
-- **La Copa:** trasladador oficial al podio; Potter la sostiene.
-- **El escreguto:** en un cajón; se lo lleva Crouch (con la sangre de Potter).
-- **El abrigo de Karkaroff**, en la silla.
+- **El anillo:** rosa (sweetheart cerca), púrpura (*On guard*), verde (*Safe*); verde desde el podio. Rojo no sale.
+- **La capa** (Potter).
+- **La Copa**, Potter la mira como si le hubiera mentido.
+- **La caja con el Escreguto**, se la lleva Crouch.
+- **El abrigo de piel de Karkaroff**, en la silla.
+- **La cera verde del padre:** solo alusión («her father’s green wax»).
 
 ## Libro de cuentas
-- Ninguna.
+- Ninguna cuenta nombrada. Lyra le ha dicho «Nothing» sobre Karkaroff: se calla el norte (*When we are all together in the north*).
+- Un beso en el capítulo, iniciado por ella.
 
 ## Quién sabe qué (al final)
-- **Lyra:** que Crouch está bajo el Imperius (lo sabe por la cara); que se llevó el escreguto que le sacó sangre a Potter; que a Snape le dolió el antebrazo como a Karkaroff; que Karkaroff se fue esa noche con el barco y dejó a sus alumnos en tierra. **No se lo ha dicho a nadie.** Recuerda la tienda (la Copa) y no lo interpreta.
-- **Harry:** ganó la Copa aturdiendo a Diggory; esperaba que la Copa le llevara a otra parte (el lector lo intuye); le picó un escreguto; Crouch se lo llevó.
-- **Toda la escuela:** que Potter ganó «feo»; Hufflepuff le odia.
-- **Krum y Durmstrang:** que su director se ha ido con el barco.
+- **Lyra** sabe que Crouch está bajo el Imperius; no se lo dice a Dumbledore. Sabe que Snape y Karkaroff reaccionan a la Marca. 
+- **Potter** sabe que ella le oculta lo de Karkaroff; ha estado tres semanas bajo la capa en la escalera.
+- **Todo el colegio** cree que Potter ha ganado atacando a Diggory.
 
 ## Hilos
-- **Pagados:** la Copa (30); el escreguto (28); Crouch (35, 36: «Master is not well»); el barco «ready» (37); Poliakoff (32).
-- **Abiertos:** Crouch bajo el Imperius y la sangre; Karkaroff y el barco (el norte); Snape y la Marca; Diggory contra Potter; Lyra que no ha dicho nada.
+- Abre el 39 (Lyra con la carta del padre) y el 40 (nota con tinta oculta sobre Crouch).
+- Dumbledore, de espaldas junto a Potter; Moody entra al laberinto.
 
 ## Secundarios
-Bagman, Crabbe, Goyle, Fleur y Krum (sacados del laberinto), Diggory, la profesora Sprout, Dumbledore, Crouch, Weasley, los Gryffindors, Snape, Madame Maxime (mencionada), Poliakoff, los de Durmstrang, Krum.
+- Crabbe coge la mano de Lyra; Goyle; Poliakoff (durmstrang); Krum; Bagman; Sprout; Snape; Karkaroff (ausente).
 
 ## Continuidad fácil de romper
-- **La Copa era un trasladador oficial al podio** (Bagman lo anuncia); no lleva a ninguna otra parte.
-- **Diggory vive**; Potter le aturdió por la espalda.
-- El escreguto le picó a Potter en la **pierna izquierda**, bajo la rodilla.
-- Lyra no fue a Dumbledore; no ha contado lo de Crouch.
-- El barco se fue la noche del 24 con Karkaroff y sin sus alumnos.
-- **Sin cementerio:** Voldemort vuelve esa noche en otra parte (no se dice en el texto).
+- Tres semanas sin Potter al pie de las escaleras; él, bajo la capa en el cuarto escalón desde arriba.
+- Desde enero (cinco meses): él se apoyaba en la pared cada mañana.
+- Potter: pierna izquierda herida por un Escreguto (cap. 39: venda sangrando; cap. 40: bastón).
+- Diggory sale por el norte con arañazo y hojas; Delacour la primera en ser sacada.
+- Karkaroff lleva el abrigo de piel desde octubre; hoy lo deja.
+- El barco desaparece entre las 3 y las 4 de la madrugada.
 
 ## Forma
-Empieza con un laberinto que parece escritura y termina con dos personas abandonadas mirando el agua donde estaba un barco. Sin escena de los dos (solo una mirada). La trama se mueve; el peldaño entre ellos, no. Gancho de imagen.
+Seis escenas desde Lyra, del beso furioso a las 6:40 al lago vacío. Termina sin diálogo, Lyra y Krum mirando el agua.

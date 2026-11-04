@@ -1,50 +1,56 @@
 # Capítulo 41: «The Sleeve»
-- **Archivo:** `borradores/cap-41-the-sleeve.md` · **Palabras:** ~2.932 · **Punto de vista:** Lyra · **Fecha en la historia:** domingo 2 de julio de 1995, todo en un día · **Original:** 54 (primera mitad), muy cambiado
+- **Archivo:** `borradores/cap-41-the-sleeve.md` · **Palabras:** ~3.080 · **Punto de vista:** Lyra · **Fecha(s) en la historia:** un solo día de verano en la Manor, sin fecha en el texto: desayuno, después de comer, al caer la tarde, pasada la medianoche · **Estado:** escrito, sin publicar
 
 ## Escenas
-1. **El desayuno.** Draco viene de la casita del este con hierba en las rodillas: el señor se ha llevado otra vez el ajedrez que discute («needs something to think with»), ya no juega los domingos («he’s got work now»), **ya no le tiemblan las manos** «not even holding a cup», «feels better than he has in forty years». Lucius ríe mucho desde el andén; lee el *Prophet* (buscan a Karkaroff): «always the one sent out for the drinks»; Crouch, «a family matter»; Barty tuvo «an hour to spare… Tea, possibly». **Lyra cuenta los días en el mantel** con un dedo: sábado (el podio, Dumbledore a tres yardas, de espaldas), domingo, lunes, martes; «If she had gone up on to that platform on the Saturday night, Barty Crouch would be alive.» «Four days, and the last of them an hour short.» A Lucius se le sube la manga del batín; ella le mira la muñeca izquierda. Decide no callar otra vez «because of whose house it was». Draco: el señor quiere que le escriba **cada semana desde Hogwarts** y le cuente «if they’ve moved anything»; Lucius: «They will have moved everything, darling.»
-2. **El despacho.** Por la tarde, con el hechizo de privacidad. El Señor Tenebroso ha preguntado por ella **por su nombre**; «knows whose hand carried the letter in November»; «He has never asked after anybody’s child». Lucius le pide: contener a los de Slytherin que se emocionen («kept quiet… kept *proud*»), y Potter. Ella: «We’ve parted.» Él no la cree y no le importa: «If he should come back to the window, my darling, leave it open.» Snape **llegó dos horas tarde** la noche del regreso, con barro, «Dumbledore had kept him»; «The Dark Lord accepted them. I suppose I must.» Lucius brinda ante **el retrato del abuelo**, el más bajo de los cuatro, en el rincón oscuro: un viejo de gris, la barbilla en el pecho, las manos sobre el puño de un bastón, **siempre dormido** (Lyra nunca le ha visto abrir los ojos). «Your grandfather would have given a great deal to see this summer.» **Abraxas Malfoy murió de viruela de dragón** cuando ella era demasiado pequeña para recordarle, muy deprisa, con las puertas cerradas; sin velatorio; «better to remember him as the painter had». Lyra no deja ver la cuenta de Crouch (Oclumancia, sin nombrarla).
-3. **El pasillo.** Narcissa, al anochecer: que se recoja el pelo, que coma; le quita un hilo invisible del hombro; un momento, la cara del andén. «You’ll want your strength.» / «For what?» / «For the summer, darling. It’s going to be a long one.»
-4. **La manga.** Pasada la medianoche, descalza, al despacho. «Father, show me your arm.» Lucius **sonríe**, se sube la manga despacio, «as a man turns back his sleeve to show a child a scar he got in a war he won»: la Marca, negra, viva. «I wondered when you would ask.» Se puso gris tras la caída; volvió **la noche de la tercera prueba, en mitad de la cena**: «I felt it as you would feel your own heart start.» «One day you will have one too. Not yet.» «You’re one of us now, in every way that counts.» «Does it hurt?» / «Only when he calls. And then, my darling, one is very glad to go.» (Lyra piensa en Karkaroff, 37.) En la puerta: el viejo de la casita tiene trabajo, **«Errands for the Dark Lord. He is collecting some old things of his, that were left with friends.»**
-5. **Coda.** El cajón: el pañuelo, nada más. Luz en la casita del este; Draco con hierba en las rodillas. La última cosa vieja del Señor Tenebroso que su padre guardó para un amigo vivió en un cajón el verano en que ella tenía doce años, y salió de él al caldero de una niña: «*An old book*, he had called it, when she asked.»
+1. **El desayuno.** Draco, con hierba en las rodillas, ya ha ido al cottage del este y vuelto: el anciano le ha retirado el ajedrez («he needs something to think with»), ya no juega los domingos («He says he’s got work now»), no le tiembla la mano con la taza («better than he has in forty years») y quiere que Draco le escriba cada semana desde Hogwarts. Lucius lee el *Prophet*: el Ministerio quiere interrogar a Karkaroff «in connection with the death of Mr Bartemius Crouch»; para él es «a family matter» y Barty tuvo «an hour to spare» antes de los Aurores. Lyra cuenta con el dedo bajo el tostadero: sábado, el podio con Dumbledore a tres yardas de espaldas, domingo, lunes, martes y Moody subiendo el sendero una hora tarde. **«Four days, and the last of them an hour short.»** El puño de Lucius se mueve sobre la muñeca izquierda; ella decide: **«She was not going to do it twice.»** Draco: «Is Harry Potter coming to stay?» / «Who stopped? Him or you?» / «I did.» / «So you won.» / «Yes… Eat your egg.»
+2. **El estudio, después de comer.** Lucius cierra con el hechizo de privacidad. «He has asked after you. By name.» (Lucius no lo nombra; por lo que sigue, el Señor Oscuro): recuerda la carta de noviembre. Pide dos cosas: mantener callada y *orgullosa* a Slytherin, y el chico Potter. Lyra: «We’ve parted.» / «If he should come back to the window, my darling, leave it open.» **No la cree** («Nor did it seem to matter»). Severus llegó dos horas tarde la noche del regreso; «The Dark Lord accepted them. I suppose I must.» Retrato del abuelo, dormido: «nobody had ever died owing a Malfoy»; el libro con cerradura en la repisa baja, que Pobble desempolva los jueves; Abraxas murió de viruela de dragón con las puertas cerradas.
+3. **La escalera, al anochecer.** Narcissa le manda recogerse el pelo, comer, y «You’ll want your strength.» / «It’s going to be a long one.»
+4. **El estudio, pasada la medianoche.** Descalza, entra sin llamar: «Father, show me your arm.» Él sonríe y se arremanga despacio. La Marca: calavera y serpiente. «It went pale, after he fell… It came back on the night of the Third Task, over the port.» «One day, you will have one too. Not yet.» «Does it hurt?» / «Only when he calls.» Y: el anciano tiene «Errands for the Dark Lord», recoge «some old things of his that were left with friends».
+5. **Su cuarto.** Abre el cajón de las nueve de cada noche: solo el pañuelo; la banda de piel pálida donde estuvo el anillo trece meses. Mira al este, la luz del cottage. Lo último «old» del Señor Oscuro que su padre guardó vivió en un cajón y acabó en el caldero de una niña: *An old book*.
 
 ## Frases literales importantes
 - «Four days, and the last of them an hour short.»
-- «She had kept a thing to herself for four days once, because of whose house it was, and a man had died in them.»
-- «He has never asked after anybody’s child, Lyra.»
+- «She was not going to do it twice.»
+- «So you won.»
 - «If he should come back to the window, my darling, leave it open.»
-- «Your grandfather would have given a great deal to see this summer.»
-- «It’s going to be a long one.»
-- «Father, show me your arm.» / «I wondered when you would ask.»
-- «as a man turns back his sleeve to show a child a scar he got in a war he won»
-- «I felt it as you would feel your own heart start.»
-- «Only when he calls. And then, my darling, one is very glad to go.»
-- «collecting some old things of his, that were left with friends»
-- «*An old book*, he had called it, when she asked.»
+- «He used to say that nobody had ever died owing a Malfoy»
+- «Father, show me your arm.»
+- «Only when he calls.»
+- «He is collecting some old things of his that were left with friends.»
 
-## Fichas y cuentas
-- **El pañuelo:** en el cajón de la mesilla de la Mansión.
-- **El anillo:** con Harry (40); el cajón, vacío de él.
-- **Lyra → Crouch:** la culpa, nombrada: cuatro días.
-- **Lucius → Lyra:** la trata ya como «one of us».
+## Fichas (objetos y motivos)
+- **El anillo (el verde):** ya no está en el cajón; solo el pañuelo y la marca en el dedo.
+- **La Marca:** brazo izquierdo, «a skull, and the serpent coming out of its mouth».
+- **El retrato del abuelo** y **el libro con cerradura** bajo él.
+- **El cottage del este**, con luz de noche.
+- El pavo real blanco en el césped.
 
-## Quién sabe qué
-- **Lyra** sabe: que su padre lleva la Marca (vista entera) y que volvió la noche de la tercera prueba; que el Señor Tenebroso preguntó por ella por su nombre; que Snape llegó dos horas tarde; que el señor de la casita hace recados para el Señor Tenebroso, recogiendo «old things… left with friends»; que Draco le escribirá desde Hogwarts. **No sabe** quién es el señor, ni qué son las cosas.
-- **Lucius** no sabe que Lyra sostuvo la sala común el último día; cree que Potter sigue confiándole cosas.
-- **El lector** sabe que existió **Abraxas Malfoy**, muerto oficialmente de viruela de dragón, y que su retrato duerme siempre.
+## Libro de cuentas
+- La deuda de Lyra consigo: cuatro días callada ante Crouch; «not… twice».
+- Lyra piensa que quien recuerda «whose hand had carried» una carta recordará también quién llevó la siguiente y adónde.
+- «Nobody had ever died owing a Malfoy» (Karkaroff, para Lucius).
+
+## Quién sabe qué (al final)
+- **Lyra** ha visto la Marca por fin y sabe que el anciano recoge objetos para el Señor Oscuro.
+- **Lucius** no cree que haya roto con Potter; le pide que deje «the window» abierta.
+- **Draco** no sabe nada; cree que Lyra «won».
+- **Narcissa** mira la taza de Lyra y habla del verano largo.
 
 ## Hilos
-- El abuelo y el retrato (50: el retrato, quitado). Las manos que ya no tiemblan (cura, decisión 7).
-- Draco como canal del señor en Hogwarts (42, 44).
-- Snape, dos horas tarde (44, 47).
-- La ventana del 39, en boca de Lucius.
+- Moody y «the hour».
+- El anciano, sus «errands», lo que se guarda «with friends».
+- Karkaroff, reclamado por el Ministerio.
+- El libro viejo del verano de sus doce años, que su padre «kept for a friend».
+
+## Secundarios
+- Draco (el cottage, el ajedrez), Narcissa, Pobble (nombrado), el pavo real.
 
 ## Continuidad fácil de romper
-- El retrato de Abraxas es **uno de los cuatro** del despacho (2, 17): el más bajo, en el rincón oscuro. La tatarabuela dormida es otra, en la galería (2).
-- Abraxas murió «when she was too small to remember him»; **no** «antes de que naciera».
-- La Marca volvió «in the middle of dinner» la noche del 24 de junio.
-- Lyra **en la hierba**, junto al podio, el sábado (38): «gone up on to that platform».
-- El anillo vivió en el cajón de la Mansión el verano pasado (25).
+- Los Malfoy viven el verano en la Manor; el cottage está al final del sendero, hacia el este.
+- Lucius lleva la Marca en el **brazo izquierdo** y volvió con ella la noche de la Tercera Prueba.
+- El anillo estuvo en su dedo **trece meses**.
+- Los retratos de la planta: el del abuelo, el más bajo, siempre dormido.
+- El anciano «better than he has in forty years»; Draco debe escribirle cada semana.
 
-## Forma del final
-Gancho de información, distinto del abrazo del 40: «collecting some old things» y el diario como «an old book».
+## Forma
+Cinco escenas desde Lyra, un solo día: de la mesa del desayuno, con humor de Draco, a la manga de su padre. Sin besos. Acaba en la imagen de la casa guardando antes un objeto para el mismo dueño.

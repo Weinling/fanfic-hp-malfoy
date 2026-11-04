@@ -1,35 +1,55 @@
-# *Interlude: The Wrong Night* (Interludio 2)
-- **Archivo:** `borradores/interludio-2-the-wrong-night.md` · **Palabras:** ~3.715 · **Punto de vista:** Harry · **Va entre el 41 y el 42** · **Fechas:** domingo 30 de julio a mediados de agosto de 1995 · **Original:** 54 (segunda mitad), 55, 62 (muy cambiados)
+# Interludio 2: «The Wrong Night»
+- **Archivo:** `borradores/interludio-2-the-wrong-night.md` · **Palabras:** ~4.220 · **Punto de vista:** Harry · **Va entre el 41 y el 42** · **Fecha(s) en la historia:** julio hasta el 16 de agosto: el 31 de julio (lunes) es su cumpleaños y el ataque de los dementores; el 1 de agosto lo recogen; el 12 la vista; el 14 llegan los Weasley; el 16 va a Little Hangleton · **Estado:** escrito, sin publicar
 
 ## Escenas
-1. **Privet Drive.** El segundo dormitorio de Dudley. Los dos anillos: el suyo, en la mano derecha, plata lisa; el de ella, verde, en la lata de Honeydukes, en el baúl. La enfermería recordada: el hueco, *I think his son is alive. Ask Winky whose seat she was minding at the World Cup*, Hermione mirando la varita; la mentira: «It’s from Malfoy. She’s finished it. That’s all.» «Nobody, in either of his lives, had ever sent him anything hidden.» El *Prophet* (lo paga Harry; Vernon lo tira; él lo saca de la papelera): **una tumba dañada en Little Hangleton**, «Nothing is believed to have been taken». **La cuenta:** el diario (hace dos veranos, con un colmillo de la Cámara); el guardapelo (la cueva, agosto de 1994); **la diadema, la primera noche del curso de 1994**, en la Sala, en la cabeza de un busto feo, con el colmillo; dejó los restos donde nadie mira y se lo dijo a Dumbledore en el desayuno; **el anillo**, bajo una tabla en la casucha: Dumbledore, que sabe por Harry lo que le hizo en la otra vida, regresa de investigar con una sonda ennegrecida antes de alcanzar el anillo: debe deshacer la protección antes de retirarlo; el colmillo no resuelve esa defensa; la copa, en Gringotts; la serpiente; «And the one he did not count.» Espera los dementores el **2 de agosto**, «a little after half past eight».
-2. **La noche equivocada.** **31 de julio, su cumpleaños** (cumple quince). Errol con carta de Ron y dulce de la señora Weasley; una lechuza de Granger con un libro y «*Don’t do anything stupid, I mean it*»; nada de Wiltshire. El parque de Magnolia Crescent; el columpio. Los dementores **dos noches antes**: «*Not tonight. It’s Monday.*» Dudley de rodillas en el callejón hacia Wisteria Walk. Con el frío oye a Lyra: *that was the last one*. El Patronus: **el techo de lona de la tienda y una mano encima de la suya** (30). El zorro espera que le alaben; «It had her chin.» «“Lyra,” he said, to nobody, and the fox was gone.» La carta del Ministerio; la de Dumbledore («stay in the house»); el chocolate de Dudley.
-3. **Grimmauld Place.** Le recogen **Moody y Sirius** la noche siguiente («Happy birthday… There was a committee»), en escoba. **El mapa:** «It’s the Order’s now. You lent it to me, Potter. I’m keeping it lent… Ask him.» La casa, sucia, sin Weasleys todavía; Sirius solo desde Navidad, libre de la caza, no exonerado: «The proof’s about four feet tall and smells of rat, and it’s in Azkaban.» **Pettigrew:** Dumbledore se lo dio a Fudge en privado, y Fudge lo mandó a **Azkaban sin nombre**: «Sirius was free of the hunt because Fudge was not a cruel man. He was not cleared because Fudge was a frightened one.» Harry sabe **junio**: «A room full of arches, and a veil»; «*I knew the date of the Dementors as well.*» **Snape** en la escalera, de noche: Harry sabe lo que fue, «whose eyes it had been for», y no le odia; Snape se para en el rellano. **La vista, el 12, absuelto.** Los Weasley el 14; Hermione le mira «whenever he had forgotten that she might».
-4. **La casucha.** El 16, Sirius acepta **ir a mirar sin tocar nada**. Harry conoce una prueba de Dumbledore para detectar las protecciones y la hace dos veces: ya no responden. La tabla está levantada y falta el anillo; polvo removido hace semanas y tierra distinta en el umbral. La relación con la tumba es **hipótesis**, no identificación segura del suelo ni prueba de la misma noche. Alguien sabía qué buscar y cómo cruzar la protección. Los recuerdos del bosque y la luz verde mantienen el final.
+1. **Dudley’s second bedroom.** Dos anillos inútiles: el de Harry en la mano derecha, de plata corriente, y el de ella, verde, en una lata de galletas al fondo del baúl. La nota del hospital: un hueco de dos dedos; la varita la parte en dos y dentro: *I think his son is alive. Ask Winky whose seat she was minding at the World Cup.* A Hermione: «It’s from Malfoy. She’s finished it.» Llegó a las nueve y media de la mañana; a Dumbledore a las seis; Moody: «We were an hour too late». El *Prophet* culpa a Karkaroff y se burla de Dumbledore; dos líneas sobre una tumba dañada en Little Hangleton. La cuenta de los Horrocruxes: diario, relicario, diadema (tres); el anillo bajo una tabla de la cabaña, que Dumbledore aún no sabe sacar sin la maldición; la copa en Gringotts; la serpiente; «the one he did not count». Los dementores vendrán el 2 de agosto, poco después de las ocho y media.
+2. **31 de julio.** Cumple quince: lechuzas de Ron (con *Hermione says* cuatro veces, y fudge) y de Hermione (libro y *Don’t do anything stupid, I mean it*). Nada de Wiltshire; setenta y cuatro millas por el atlas. Los discursos contra ella acaban en *Who came?*. En el columpio, al anochecer, se apagan las farolas: **«Not tonight. It’s Monday.»** Dudley de rodillas en el callejón, dos dementores, el recuerdo feliz de una tienda de lona con un dragón rugiendo fuera; el zorro plateado («It had her chin»). «Lyra,» dice, y desaparece. Cartas: la del Ministerio a las nueve y media; la de Dumbledore veinte minutos después, «stay in the house», sin explicar por qué la noche equivocada.
+3. **La noche siguiente.** Moody y Sirius lo recogen en Privet Drive pasadas las once; Sirius: «Sorry it’s late. There was a committee.» Doce de Grimmauld Place. Harry pide el mapa: **«It’s the Order’s now. You lent it to me, Potter. I’m keeping it lent.»**
+4. **Sirius en la cocina.** Libre pero no limpio: «The proof’s about four feet tall and smells of rat, and it’s in Azkaban.» Fudge mandó a Pettigrew allí «under no name at all». Harry cuenta: «June. Ten months» y el velo.
+5. **Snape, la tercera noche.** En la escalera, con las cabezas de elfo mirando. Harry sabe lo que hay bajo la manga y no lo odia. «Potter.» / «Sir.» Snape se detiene en el rellano.
+6. **La vista y los Weasley.** Absuelto el día 12; el 14 llegan los Weasley y Hermione, que no le pregunta nada y lo mira.
+7. **Little Hangleton, el 16.** Harry deja de esperar a Dumbledore y se lo cuenta a Sirius. Van esa noche; Sirius, perro junto a la verja. Cerca de la chimenea la tabla está levantada y el hueco, vacío. Polvo de semanas; tierra pálida con restos blancos en el umbral. Podría ser el mismo viaje que se llevó el hueso. Se acerca al borde de lo que no mira: una luz verde.
 
 ## Frases literales importantes
-- «Nobody, in either of his lives, had ever sent him anything hidden.»
-- «And the one he did not count.»
-- «*Not tonight. It’s Monday.*»
-- «It had her chin.» / «“Lyra,” he said, to nobody»
-- «I’m keeping it lent.»
-- «He was not cleared because Fudge was a frightened one.»
-- «*I knew the date of the Dementors as well.*»
-- «as if Harry were a letter he had not been able to make himself open»
-- «And after it, nothing. There had never been anything after it.»
+- «It’s from Malfoy. She’s finished it.»
+- *I think his son is alive. Ask Winky whose seat she was minding at the World Cup.*
+- «Not tonight. It’s Monday.»
+- «It’s the Order’s now. You lent it to me, Potter. I’m keeping it lent.»
+- *Never own a Malfoy* (en voz de ella, en la cabeza de Harry) / *Who came?*
+- «Happy birthday… Sorry it’s late. There was a committee.» (Sirius)
 
-## Quién sabe qué
-- **Harry** sabe que falta el anillo y que las protecciones ya no están activas; **sospecha** que su retirada estuvo relacionada con el robo del hueso, sin probar la fecha. Sabe el cambio de los dementores y la muerte de Sirius en la otra vida; no sabe dónde fue el regreso ni quién recoge las cosas.
-- **Dumbledore** sabe de la diadema destruida y del anillo (se lo prohibió a Harry).
-- **Sirius** sabe del anillo (Harry se lo contó) y fue con él.
-- **Hermione** sospecha (le mira).
-- **Lyra no sabe** nada de esto: ni de Pettigrew en Azkaban, ni de la diadema.
+## Fichas (objetos y motivos)
+- **Los dos anillos:** el suyo, plata; el de ella, verde, en la lata, envuelto en papel de seda.
+- **La nota con el hueco** y su mitad oculta.
+- **El zorro** (Patronus), con el mentón de ella.
+- **El mapa**, en manos de Moody/la Orden.
+- **La tabla levantada** y la tierra pálida de la cabaña.
+- El columpio de Magnolia Crescent.
+
+## Libro de cuentas
+- Harry «had been the one who came»; casi se lo dice a ella.
+- Sirius sigue sin ser limpiado por la cobardía de Fudge.
+
+## Quién sabe qué (al final)
+- **Harry** sabe que el hijo de Crouch vive; que el anillo ya no está en la cabaña; que el hueso del cementerio pudo irse con él.
+- **Sirius** conoce ahora la historia del anillo.
+- **Dumbledore** sabe del anillo desde hace dos veranos y «was still working on it».
+- **Hermione** sabe que la nota era de Malfoy y que Harry oculta algo.
+
+## Hilos
+- Los dementores en la noche equivocada.
+- El anillo robado de la cabaña.
+- El mapa «kept lent».
+- Hermione, que mira.
+
+## Secundarios
+- Ron, Errol, los Weasley, Fred y George; los Dursley (Dudley, Petunia, Vernon); Moody; Snape; Fudge (nombrado).
 
 ## Continuidad fácil de romper
-- La diadema: **septiembre de 1994**, primera noche del curso; no agosto.
-- Pettigrew: atrapado el 2 de febrero de 1994; Dumbledore se lo contó a Harry el verano de 1994.
-- Los dementores: 31 de julio de 1995, en el parque y el callejón; no el 2 de agosto.
-- El anillo de Harry, en la mano derecha; el de Lyra, en la lata, en el baúl.
+- El 31 de julio es lunes; los dementores debían venir el 2 de agosto.
+- Sirius está solo en Grimmauld desde Navidad; no hay Weasleys ni Lupin al principio.
+- El anillo de Harry, en la mano derecha, desde «a cloister in May a year ago».
+- Llegada de los Weasley el 14; el 16 la cabaña.
 
-## Forma del final
-Un perro que gime en un camino oscuro: Sirius, y junio. No contemplativo sobre el pasado (como el 41).
+## Forma
+Siete escenas desde Harry, de la soledad de Privet Drive a la cabaña vacía. Sin ella en escena: solo en memoria y en el zorro.
