@@ -20,7 +20,7 @@ Harry took off the cloak.
 
 For some time neither of them said anything. It went on being one of the best moments of his life.
 
-“Go away,” said Malfoy. It came out as *Go away*, with all the consonants filed off. The left ear whistled. “I bean it, Botter. I’ll curse you. Bobfrey gave be sobething, it’s the Bepper-Up. It’s dot funny.”
+“Ged oud,” said Malfoy. All the consonants had been filed off. The left ear whistled. “I bean it, Botter. I’ll curse you. Bobfrey gave be sobething, it’s the Bepper-Up. It’s dot funny.”
 
 “I didn’t say anything.”
 
@@ -42,7 +42,7 @@ There was a silence. The left ear gave a small interested puff.
 
 “Go on,” said Malfoy.
 
-He went on. He did the Cauldron Thickness, and the Gobstones results. He read her a long complaint from a witch in Ottery St Catchpole about the Knight Bus. He got *Bagnold* wrong and she corrected him. He got it wrong again, and she told him how it was pronounced in the part of Wiltshire where they had known the family. He did the births and deaths in Mrs Skower’s voice. She blew her nose. She had got down a little way in the pillows, and at some point her hand had come out from under the shawl. It lay on the blanket near the edge, not doing anything. He put his on top of it, as he had in the Three Broomsticks, and she looked at that and made no remark. It was very hot and rather damp. He did not think he had ever in his life held anything so disgusting.
+He went on. He did the Cauldron Thickness, and the Gobstones results. He read her a long complaint from a witch in Ottery St Catchpole about the Knight Bus. He got *Bagnold* wrong and she corrected him. He got it wrong again, and she told him how it was pronounced in the part of Wiltshire where they had known the family. He did the births and deaths in Professor Binns’s voice. She blew her nose. She had got down a little way in the pillows, and at some point her hand had come out from under the shawl. It lay on the blanket near the edge, not doing anything. He put his on top of it, as he had in the Three Broomsticks, and she looked at that and made no remark. It was very hot and rather damp. He did not think he had ever in his life held anything so disgusting.
 
 The door at the far end opened. There were footsteps, brisk and rubber-soled, and Madam Pomfrey came down the ward with a tray. There was no time to do anything about it. She put back the curtain. She looked at the patient. She looked at the chair, at the boy in it with his mouth open and a newspaper on his knee, and at the blanket.
 
@@ -70,7 +70,7 @@ He ate the cake. He read the piece about Puddlemere, in a low voice, right throu
 
 He ought to go. He had Potions at two.
 
-He sat there. There was nothing in the world that needed doing. Nobody was going to try to kill him until June. He slid down in the chair until his head was against the edge of the mattress, and he looked at the small wisp of steam for a while, going up, and coming apart.
+He sat there. There was nothing in the world that needed doing. He slid down in the chair until his head was against the edge of the mattress, and he looked at the small wisp of steam for a while, going up, and coming apart.
 
 “*Bagnold*,” he said, quietly, the wrong way, just to see.
 

@@ -10,7 +10,7 @@ At dinner there was somebody in her mother’s chair.
 
 “So this is the one,” said Bellatrix Lestrange.
 
-She had her elbows on the table. She was eating a chop with her fingers, very fast, with her eyes going about the room. Azkaban had taken a good deal off her. The bones of her face stood out as they did on her sister’s, with a horrible likeness, as though somebody had taken a beautiful drawing and gone over it, hard, in black. She licked her thumb. She looked Lyra up and down, from the hair to the shoes, and her heavy lids came down, and she smiled. She had very few teeth left at the back.
+She had her elbows on the table. She was eating a chop with her fingers, fast, with her eyes going about the room. Azkaban had taken a good deal off her. The bones of her face stood out as they did on her sister’s, with a horrible likeness, as though somebody had taken a beautiful drawing and gone over it, hard, in black. She licked her thumb. She looked Lyra up and down, from the hair to the shoes, and her heavy lids came down, and she smiled. She had very few teeth left at the back.
 
 “He told me. I made him tell it twice. You got there on the second try, and you did it to *Lucius*.” She laughed. It was a high, happy, breathless noise. At the side of the table her father went on cutting up his meat. “Oh, Cissy, why have you been hiding her? I thought she’d be all ribbons. Come here. Show me your hand.”
 
@@ -20,7 +20,7 @@ It was in the long gallery, the next morning, with the rain on the glass.
 
 She had thought it would be the elf. She had lain awake on that. It was a peacock; somebody had brought it up from the terrace, in a sack, and it stood on the boards with its train dragging and one wing held out from its side, looking about it with its flat stupid eye. It was the white one. She had known it since it was an egg.
 
-“You’ve got it all in the shoulder,” said Aunt Bella. She walked round Lyra, trailing one long dirty finger across her back. She smelt of cold stone and something burnt. “Everybody does. They think it’s like throwing something. It’s more like *pouring*. You have to mean it, and you did, I’ll give you that; but you were meaning it at the whole of him, all at once, like a child in a tantrum. Nobody’s taught you the wrist. It’s all in where you put it. Now. Find the place, and go in there, and stay.”
+“You’ve got it all in the shoulder,” said Aunt Bella. She walked round Lyra, and rapped her on the shoulder blade with one long dirty finger. She smelt of cold stone and something burnt. “Everybody does. They think it’s like throwing something. It’s more like *pouring*. You have to mean it, and you did, I’ll give you that; but you were meaning it at the whole of him, all at once, like a child in a tantrum. Nobody’s taught you the wrist. It’s all in where you put it. Now. Find the place, and go in there, and stay.”
 
 He was at the end of the gallery, in the window. She had not seen him come. He had a chair, and he was sitting with one thin leg across the other and something long and heavy lying over his feet. He was not looking at her. He had a book. He turned a page.
 
@@ -28,7 +28,7 @@ He was at the end of the gallery, in the window. She had not seen him come. He h
 
 She found the place. It was quite easy to find. She had thought it would have gone, and she only had to reach for it, down the back stairs, and it was there: small, and hot, and exactly the size of her hand. She raised her wand.
 
-It took no longer than a moment. It made very little noise. It was only that its feathers stood out, all of them, all at once, and stayed like that. She watched it. She kept her wrist where she had been told. She had always wondered what they thought about.
+It took no longer than a moment. It made little noise. It was only that its feathers stood out, all of them, all at once, and stayed like that. She watched it. She kept her wrist where she had been told. She had always wondered what they thought about.
 
 “*There!*” cried Aunt Bella. She clapped her hands. There were tears of pure delight in her eyes. She seized Lyra’s face and kissed her on the temple, with cracked dry lips. “There she is! Oh, you little *beauty!* You’ve got Mother’s hands. Do you hear me, Cissy’s child? It’s in the *wrist!*”
 
@@ -36,9 +36,9 @@ At the end of the gallery, a page turned.
 
 “Thank you, Bella,” said the Dark Lord. He had not lifted his eyes. “Miss Malfoy, a word.”
 
-She went down the length of the boards. It was a long way. She put the room in order as she walked. It was getting harder to find things for it; it had got rather bare. She needed something that would stand a good deal of handling, and she took down from the wall of herself the best of what was left: the summer she was six, and the lawn in the early morning, and her father’s hands holding the broom steady, and his voice saying *Look up, my treasure. Don’t look at the ground, look up.* She carried it in and set it in the sun.
+It was a long way down the boards, and she put the room in order as she walked. It was getting harder to find things for it; it had got rather bare. She needed something that would stand a good deal of handling, and she took down from the wall of herself the best of what was left: the morning she was eight, and a letter about something else, with a gap in the second line, and her father’s face coming round the door, not saying anything, while she held it up to the light; and his voice saying *Well done, my treasure. Now find the next one.* She carried it in and set it in the sun.
 
-He looked. He was in no hurry. He had his finger in the book, to keep the place. He came in, and wiped his boots, and walked about, and she stood aside. He picked the morning up, and looked under it.
+He looked. He was in no hurry. He had his finger in the book, to keep the place. He came in, and wiped his boots, and walked about, and she stood aside. He picked the letter up, and looked under it.
 
 “He sleeps badly, I understand,” said the Dark Lord. “Your friend.”
 
@@ -50,7 +50,7 @@ He looked. He was in no hurry. He had his finger in the book, to keep the place.
 
 “Do,” he said. “You keep such a very tidy house.” His red eyes rested on her, with mild enjoyment, and they moved a little to the left, and came back. “You will tell your father that I was pleased about the man in Battersea. It’s so seldom that anybody brings me what I ask for.”
 
-That night she tried it. She had known she would. She lay in the dark and she went to the place, and there was the lawn. There was the dew on it. It had been early. His hands had been on the broom, she could have told anybody that; she knew what he had said. She looked at it. She stayed looking for rather a long time.
+That night she tried it. She had known she would. She lay in the dark and she went to the place, and there was the letter. There was the gap in it. It had been her birthday. There had been a treasure at the end, she could have told anybody that; she knew what he had said. She looked at it. She stayed looking for rather a long time.
 
 That was two.
 
@@ -66,9 +66,9 @@ She would not have known him. He was in a high-backed chair by the window. They 
 
 She moved it for him. There was no one else to do it. She looked at the board and she took his bishop with her queen, and for a while they went on in that way, with the rain on the bars and the black pieces muttering, and it occurred to her that he was going to beat her in about nine moves.
 
-She took up the bowl. It was soup. It seemed to be all that they gave him. She sat down on the stool, and put the napkin under his chin, and she dipped the spoon, and held it out. It was very odd to see that mouth open. A certain amount went down his neck.
+The bowl was soup; it seemed to be all they gave him. She sat down with it on the stool, and put the napkin under his chin, and dipped the spoon, and held it out. It was very odd to see that mouth open. A certain amount went down his neck.
 
-She did not do it for love. She wanted that noted. She had seen what was lying on the table by his bed, with the lock hanging open, and she knew very well who had the keeping of it now, and that it was not going to be an eleven-year-old who would not come up the stairs.
+She did not do it for love. She wanted that noted. She had seen what was lying on the table by his bed, with the lock hanging open, and she knew who had the keeping of it now, and that it was not going to be an eleven-year-old who would not come up the stairs.
 
 “You’ve got g-good hands,” said her grandfather, when she wiped his chin. His eyes had not left her face. “Steady. I had those.”
 
@@ -146,7 +146,7 @@ She pulled the chain. She went to the basin, and ran the cold water, and rinsed 
 
 Then she unlocked the door, and went back along the corridor to the ward, and helped them to finish handing out the eggs.
 
-Nobody spoke, in the carriage. It had come on to rain harder. Her mother sat across from her, very upright, with her gloves in her lap, looking out at the wet brown streets. They had gone about a mile before she moved. She did not look round. She put out one hand across the space between the seats, and she took Lyra’s right one, and held it, tight, for about as long as it took to pass the end of a road. Her fingers were quite cold.
+Nobody spoke, in the carriage. It had come on to rain harder. Her mother sat across from her, upright, with her gloves in her lap, looking out at the wet brown streets. They had gone about a mile before she moved. She did not look round. She put out one hand across the space between the seats, and she took Lyra’s right one, and held it, tight, for about as long as it took to pass the end of a road. Her fingers were quite cold.
 
 She let go. Lyra looked at the rain.
 
@@ -158,7 +158,7 @@ She let go. Lyra looked at the rain.
 
 “Go on. I’ve been working on it all week. Shut your eyes and hold out your hands.”
 
-It was the Sunday after they came back, the fourteenth. It had stopped raining at last. There was a thin clean April sun going through the small square window for the first time that year; it lay across the bald rug in a long stripe, and it made the room look rather shabby, and rather pleased with itself. He was standing in the stripe, in his shirtsleeves, with a dishcloth over his shoulder. He had got ink on his ear. He looked as though somebody had plugged him in. He had been on the stairs, she thought, when she came up; he had been sitting at the top, listening for her.
+It was the Sunday after they came back, the fourteenth. It had stopped raining at last. There was a thin clean April sun going through the small square window for the first time that year; it lay across the bald rug in a long stripe, and it made the room look rather shabby, and rather pleased with itself. He was standing in the stripe, in his shirtsleeves, with a dishcloth over his shoulder. He had got ink on his ear. He looked as though somebody had lit him. He had been on the stairs, she thought, when she came up; he had been sitting at the top, listening for her.
 
 She shut her eyes. She held out her hands.
 

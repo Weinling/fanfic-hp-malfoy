@@ -409,6 +409,9 @@ En orden de lectura. Las fechas marcadas «deducida» no las da el texto: salen 
 
 - **62 (18-30 mar. 1996):** ver `cap-62.md`. Cae Umbridge por la lista; Hopkins la lee y los catorce se levantan. Lyra guarda la hoja *Assisted by Miss M.* «Mine» / «Yes».
 
+- **Extra *Year Four* 2:** tras el 62. Mayo de 1995.
+- **63 (30 mar.-14 abr. 1996):** ver `cap-63.md`. Bellatrix en la Mansión; lección con el pavo real. Lyra pierde un segundo recuerdo. Da de comer a Abraxas y a Bode. Vomita, vuelve y sonríe.
+
 ## 5. Fichas vivas
 
 Al final del 57.
