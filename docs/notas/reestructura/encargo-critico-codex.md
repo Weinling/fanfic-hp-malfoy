@@ -15,7 +15,7 @@
 ## Prompt para pegar
 
 ```
-Eres el crítico externo de «Never Owe a Malfoy, Potter». Repositorio: Weinling/fanfic-hp-malfoy.
+Eres el crítico externo de «Never Own a Malfoy, Potter». Repositorio: Weinling/fanfic-hp-malfoy.
 Actualiza tu copia con `git pull origin main`. Trabaja en la rama codex/critica. No edites ningún capítulo.
 
 Critica: [CAPÍTULO, RUTA]

@@ -92,7 +92,11 @@ She had said a great many things to him, in five years, in a great many voices, 
 
 “I shall do nothing of the kind. That hand is the property of— It was a *remark*. It’s my bandage, that’s all. I’ve put a great deal of work into that hand, and I won’t have it mauled about by people with no training.” Her face was on fire. “Stop looking at me.”
 
-He did not stop. He took one step, and she had him by the jumper, or he had her. It was difficult to say. It went on for rather longer than the others had, and at some point she found that she had her forehead against his collarbone, and that his arms had gone round her, and that they were both simply standing there, on the sixth floor, breathing. His heart was going like a rabbit’s. His hands were holding on to the back of her robes, in two fists. She could feel that he was not going to be the one who let go.
+“Never own a Malfoy,” said Potter. It was hardly a voice at all. “You said.”
+
+“I said that *you* couldn’t. I said nothing whatever about the other way round.”
+
+He took one step, and she had him by the jumper, or he had her. It was difficult to say. It went on for rather longer than the others had, and at some point she found that she had her forehead against his collarbone, and that his arms had gone round her, and that they were both simply standing there, on the sixth floor, breathing. His heart was going like a rabbit’s. His hands were holding on to the back of her robes, in two fists. She could feel that he was not going to be the one who let go.
 
 It was she who let go. It took her some time.
 

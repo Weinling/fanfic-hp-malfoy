@@ -42,6 +42,18 @@ There was a third letter, which had come with the school owls without being a sc
 
 She would answer it. She would tell him that Granger was a prefect, which Granger certainly was, and that she was perfectly well, which Lyra had no means of knowing and no intention of finding out; and that his ship had been a disgrace from the moment it came out of the lake, and that his headmaster had left his coat behind.
 
+It would be the first letter she had finished all summer.
+
+She had started eleven. She wrote them at night, at the desk by the window, on the thin paper, and they all began *Potter*, and she burnt every one in the grate before she got as far as the signature, because Pobble could read a blotter. The first had run to four sides. It had gone through the whole of his conduct since 1992, under headings, and it was the finest thing she had ever written.
+
+About a week after the Owlery it had come to her what she ought to have said to *Who came?* By the end of July she had thought of nine things. Some of them were very good. She had a particular fondness for the sixth. She lay on her back in the dark and said them to the ceiling, with pauses for him to go white.
+
+He had put his hand into the one place where she would have sworn nobody could reach, and taken it out, and shown it to her. She hoped that he was miserable. She hoped that he was thin. She hoped that he woke up every morning in that dreadful house, wherever it was, with nobody to fight with and nothing to look at; and she had only to think of it to find that she had stopped reading, and was standing at the window, looking down the long white drive, as though anybody could possibly be coming up it.
+
+The letters got shorter. By August they were down to a side. The last, on the Sunday, said *You still owe me a tomorrow*, and nothing else, and she looked at that for some time, and held it to the candle herself.
+
+The handkerchief was another matter. She had got into the way of going to sleep with it in her hand. It was a disgusting habit, and she had given it up on the twentieth of July, and taken it up again on the twenty-first.
+
 ⁂
 
 Draco caught her on the back stairs after breakfast, which he only did when he had something to show that he was not supposed to.

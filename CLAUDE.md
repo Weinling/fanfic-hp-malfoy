@@ -1,4 +1,6 @@
-# Never Owe a Malfoy, Potter
+# Never Own a Malfoy, Potter
+
+**Título nuevo (autor, 4 de noviembre de 2026):** antes *Never Owe a Malfoy, Potter*. El cambio se justifica en la historia: la frase nace en el 39. El autor lo anuncia al publicar ese capítulo. Es el nombre vigente; el repositorio y los documentos antiguos conservan el anterior.
 
 Adaptación al inglés de una fanfic coreana de Harry Potter con un genderbend de Draco: Lyra Malfoy. Se publica en Wattpad y Webnovel. (Título de trabajo anterior: *Harry Potter and His Malfoy Problem*.) El autor es Edén. Habla con él en español; los capítulos se escriben en inglés británico.
 

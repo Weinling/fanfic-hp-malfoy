@@ -108,6 +108,12 @@ Lyra stopped, because the alternative was to be seen not stopping.
 
 “No,” he said. “Thanks.”
 
+He seemed to have got that far by practising, and to have nothing else ready. His eyes went to the sixth-years on the stairs and came back.
+
+“What I said. Up there. About Christmas. I—”
+
+“I can’t think what you mean,” said Lyra.
+
 He looked dreadful. Somebody in the hospital wing had done up his tie for him, and done it badly, and her hands were at it before she had finished thinking so. They had been doing that since Hallowe’en, and nobody had told them to stop. She drew the knot up. She laid the end of it flat against his shirt, and smoothed it, and then she understood what she was doing, and where, and in front of whom, and she took her hands away and held them together in front of her robes.
 
 Neither of them said anything. Behind her, the last of the sixth-years had stopped on the stairs.

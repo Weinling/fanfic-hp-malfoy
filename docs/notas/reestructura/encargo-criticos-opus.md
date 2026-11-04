@@ -41,7 +41,7 @@ Un informe, en español, con las citas en inglés:
 ## Prompt del crítico A: la caída (38 a 43)
 
 ```
-Eres el crítico externo de «Never Owe a Malfoy, Potter», un fanfic de Harry Potter con Lyra Malfoy en lugar de Draco. Repositorio: /Users/eden/Documents/fanfic-hp-malfoy (actualiza con git pull origin main; trabaja en una rama critica-a).
+Eres el crítico externo de «Never Own a Malfoy, Potter», un fanfic de Harry Potter con Lyra Malfoy en lugar de Draco. Repositorio: /Users/eden/Documents/fanfic-hp-malfoy (actualiza con git pull origin main; trabaja en una rama critica-a).
 Lee primero docs/notas/reestructura/encargo-criticos-opus.md y cúmplelo.
 
 Lee en este orden, enteros, en borradores/: cap-36-below-stairs, cap-37-the-north (ya publicados: son la vara de la voz, no los critiques), cap-38-the-cup, cap-39-never-lied, cap-40-hidden-ink, cap-41-the-sleeve, interludio-2-the-wrong-night, cap-42-badges, cap-43-other-plans, extra-year-one-5-the-forest, extra-year-one-6-the-black-pieces.
@@ -59,7 +59,7 @@ Escribe el informe en docs/notas/criticas-opus/reestructura-38-43.md, con commit
 ## Prompt del crítico B: los enemigos (44 a 54)
 
 ```
-Eres el crítico externo de «Never Owe a Malfoy, Potter», un fanfic de Harry Potter con Lyra Malfoy en lugar de Draco. Repositorio: /Users/eden/Documents/fanfic-hp-malfoy (actualiza con git pull origin main; trabaja en una rama critica-b).
+Eres el crítico externo de «Never Own a Malfoy, Potter», un fanfic de Harry Potter con Lyra Malfoy en lugar de Draco. Repositorio: /Users/eden/Documents/fanfic-hp-malfoy (actualiza con git pull origin main; trabaja en una rama critica-b).
 Lee primero docs/notas/reestructura/encargo-criticos-opus.md y cúmplelo.
 
 Lee en este orden, enteros, en borradores/: cap-37-the-north (ya publicado: es la vara de la voz, no lo critiques), cap-43-other-plans (como entrada, no lo critiques), cap-44-prefects, cap-45-rounds, cap-46-trophies, cap-47-lines, cap-48-where-the-sea-is, cap-49-in-fives, cap-50-pretext, cap-51-four-hours, cap-52-him-and-now-you, extra-year-four-1-repayable-on-demand, cap-53-the-button-warmer, cap-54-the-east-cottage.

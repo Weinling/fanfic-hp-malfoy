@@ -200,6 +200,22 @@ Zabini was still up, in the common room, when she went in.
 
 ⁂
 
+He had stopped looking at her.
+
+It took her until the second Monday to be sure of it. He had looked at her on the train. He had looked at her across the Great Hall, over Draco’s head. Then, the morning after that, he had stopped, as one stops a clock, and he had taken up being civil.
+
+That was what she could not forgive. She had been insulted by experts. She had been called things by Weasleys. Nobody in her life had ever held a door for her as Potter held the door of the Potions dungeon on the first Tuesday of term, with his eyes on a point just above her shoulder, and said “After you, Malfoy,” in the even, pleasant voice that he kept for teachers he had already decided about. He passed her the powdered root when Snape told him to. He said “Thanks,” and “Sorry,” and “Is this yours?” He asked Parvati Patil how her sister was, across the aisle, and he listened to the answer. At every meal he sat with his back to the Slytherin table. It was a thin back. She could have drawn it. There was a place at the crown of his head where the hair went the wrong way, and she had once had a good deal to say about that, and there it was, forty feet off, on a Wednesday, and she was eating an egg.
+
+It was exactly what she had told him to do. She noted that. She had told him so in June, at some length, and he was doing it very well.
+
+It was a curious thing, to miss somebody who was sitting in the same room. She had not known that one could. All summer she had supposed that it was the distance. She knew now that it was forty feet, and nineteen stairs, and two classrooms on a Thursday, and she woke at some dead hour every night under the green water with her whole chest pulling east, towards a tower, like a tooth; and in the morning she did her hair, and went up to breakfast, and did not turn her head.
+
+Her father wrote that old Mr Nott had asked to be remembered to her, and that Theodore had grown. He had, rather. He had a long clever face and very clean hands, and he had played chess with her through the whole of last November without once saying anything foolish. On the second Wednesday she allowed him to carry her bag up from the dungeons. She allowed it at about ten to eight, by way of the Great Hall, down the whole length of the Gryffindor table. He said something about the Goblin Rebellions, and she laughed; and she considered it, and she laughed again.
+
+Potter did not turn round. He went on buttering his toast, with great attention, right out to the corners. But the back of his neck had begun, very slowly, to change colour; and she went up to Arithmancy in such spirits that she got a sum wrong.
+
+⁂
+
 She had the seventh floor to herself for three nights, and on the fourth he was sitting in the window at the end of it.
 
 It was ten to one. There was a moon, and he had his feet up on the far side of the embrasure and his left arm round his knees and his right hand in his dressing-gown pocket, and he looked round when her wand-light came along the wall as though he had been expecting the post.
@@ -216,7 +232,23 @@ She stopped a few feet off, and looked down at him for some time. He had been to
 
 “What do you want?”
 
-“Nothing. Couldn’t sleep.” He looked at the moon. “You stayed behind. After Defence. She called you *dear*.”
+“Nothing. Couldn’t sleep.” He looked at the moon. “Nott’s carrying your bag.”
+
+It was the first thing he had said to her in eleven days that had not been about powdered root. She waited until she was sure of the sensation, which seemed to be going on somewhere behind her breastbone, and which she had no intention of giving him.
+
+“So you do have eyes,” said Lyra. “I had wondered. You have been so very civil, Potter. I thought that you had had a stroke.”
+
+“Is there something the matter with his arms?”
+
+“He has an excellent grip.”
+
+“He plays chess like a solicitor.”
+
+“He *speaks* like one. It’s extremely restful.”
+
+He turned his head at that, and looked at her properly, and it went through her from the top of her skull to the soles of her feet. She had not known how long eleven days were.
+
+“You stayed behind,” said Potter. “After Defence. She called you *dear*.”
 
 “She calls everybody dear. She called the Bloody Baron dear; he went through a wall.”
 
@@ -238,7 +270,7 @@ She stopped a few feet off, and looked down at him for some time. He had been to
 
 “I don’t,” said Potter; and he smiled.
 
-She had not seen it since March. It was not the one he kept for the Great Hall. It started at one corner and went crooked, and it had no business whatever on a face that thin at that hour of the night, in front of a person who had sent it a tin; he had asked her once whether he might do that in front of her, on a broomstick, and she had told him, and she could remember precisely what she had said.
+She had not seen it since March, and she would have liked it put on record that she was still extremely angry. It was not the one he kept for the Great Hall. It started at one corner and went crooked, and it had no business whatever on a face that thin at that hour of the night, in front of a person who had sent it a tin; he had asked her once whether he might do that in front of her, on a broomstick, and she had told him, and she could remember precisely what she had said.
 
 He got down off the sill. He was taller than he had been in June. She could not have told anybody afterwards which of them crossed the last of the floor; she only knew that she had hold of a handful of tartan dressing gown, and that it was quite short, and not at all sensible, and that he kept his right hand in his pocket the whole time, which she thought was very like his cheek.
 

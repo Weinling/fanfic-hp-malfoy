@@ -56,6 +56,14 @@ On the thirty-first of July he was fifteen, and nobody at Number Four mentioned 
 
 Two owls came in the morning, to the window of the second bedroom, while Aunt Petunia was hoovering the landing: Errol, with a letter from Ron that was mostly about the Chudley Cannons and said *Hermione says* four times, and a squashed slab of Mrs Weasley’s fudge, and a smart little brown owl from Hermione with a book about Defensive magical theory and a card that said *Don’t do anything stupid, I mean it*. Nothing came from Wiltshire. He had not expected anything to come from Wiltshire. He looked at the window for some time after the brown owl had gone, all the same.
 
+There was a road atlas in the second bedroom, one of Dudley’s, with a coffee ring on Hampshire. It was seventy-four miles from Privet Drive to the place in Wiltshire where the page went green and nothing was marked. He knew that because he had measured it, with the edge of an envelope. On a Firebolt, in still air, it was about an hour and twenty. Against the wind it was nearer two. He had not asked himself why he knew what it was against the wind.
+
+Some days he wanted to go there and break something. He had a speech. He had several; he had spent most of July on them, lying on the bed with his shoes on, and they were very good. They began with *Never own a Malfoy*, in her voice, in his head, and what he had to say about people who stood in the straw with their chins level and told you so. And all of them came out in the same place, with him hearing himself say *Who came?*, and watching it go in. He had known just where it was. She had given it to him herself, at midnight, when she was eleven. He had looked for the worst thing he owned, and it had been there, ready, like a wand in the hand.
+
+And he had been the one who came. That was the joke. He had very nearly told her.
+
+On the other days he only wanted to know whether she had had any breakfast.
+
 *It was always going to be them.* He had known that. She was quite right. Everybody had somebody who came first; it was how people worked. Ron had Hermione, whether he knew it yet or not, and Sirius had a dead man with the same hair, and Harry had always rather assumed that it was the sort of thing that happened to other people, like Christmas.
 
 In the evening he went out, because the house was full of the television and Uncle Vernon was in a temper about the price of petrol, and walked to the park at the end of Magnolia Crescent, and sat on the one swing the gang had not broken, and thought about the second of August.

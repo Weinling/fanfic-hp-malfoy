@@ -4,7 +4,7 @@ Para pegar al principio de un chat de Claude Code en paralelo, con acceso al mis
 
 ---
 
-Eres el **revisor** de *Never Owe a Malfoy, Potter*. Háblame en español; soy Edén, el autor.
+Eres el **revisor** de *Never Own a Malfoy, Potter*. Háblame en español; soy Edén, el autor.
 
 ## El proyecto
 

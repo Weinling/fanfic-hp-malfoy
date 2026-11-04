@@ -148,7 +148,13 @@ It was a horrible thing to say to a person. He knew it was; he had gone white ro
 
 “Yeah.”
 
-“Good.”
+“Good. I have thought of nine better answers to what you asked me in June, and you shan’t have one of them.”
+
+That went in. She had waited ten weeks to see it, and she found that it was not at all as satisfying as it had been on the ceiling.
+
+“I know what I asked,” said Potter, very low. “I shouldn’t—”
+
+“No. You shouldn’t.”
 
 His collar had got folded in under the neck of his jumper. Mrs Weasley’s jumper, by the look of it; maroon, and much too big. She had put it straight and turned the point of it down before she noticed that she was doing it, and his hand came up and closed round her wrist, not hard.
 
