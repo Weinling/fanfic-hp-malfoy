@@ -1,24 +1,16 @@
-# Capítulo 45: «Lines» · `borradores/cap-45-lines.md` · ~2.766 · Lyra · jueves 28 de septiembre a lunes 2 de octubre de 1995 · original 60 · **Revisión integral aplicada** (Codex, 1 de noviembre de 2026)
+# Capítulo 44: «Rounds» · `borradores/cap-44-rounds.md` · ~3.130 · Lyra · 4 a 16 de septiembre de 1995 · original 58-59 · **Revisión integral aplicada** (Codex, 1 de noviembre de 2026)
 
 ## Escenas
-1. **El encargo.** Umbridge, el último jueves de septiembre: «A little supervision… One wants someone *reliable*»; la llaman al Ministerio. Lyra lleva tres semanas de informante y le ha dado cuatro cosas ciertas que no valen nada. Acepta.
-2. **La detención** (viernes, a las cinco). El despacho rosa, tapetes, platos de gatitos. Potter con la mano derecha vuelta hacia la ventana; pluma sin tintero. «How many?» / «“Until it sinks in.”» «Because she’s lying… somebody’s got to say it, out loud, in a room, every time.» Lyra: «Whatever we were last year… It isn’t that now… I sit where I am put.» Potter: «Yeah. I know where you’re sitting.» Escribe otra cosa bajo la línea. Ella va a quitársela y lee: las líneas *I must not tell lies*, en rojo, y debajo, **«*I love you.*»**; en el dorso de su mano, la línea grabada y **las tres palabras abriéndose**. Sangre en el pergamino, el tapete y la alfombra. **No sabía que la pluma hería.**
-3. **Lo que hace.** Busca un pañuelo: **el de él está en el cajón de su mesilla, en Wiltshire.** No le coge la mano. Dobla el pergamino con las palabras dentro. «**Five points from Gryffindor. For writing what you were not told to write.**» «Go to the hospital wing… murtlap». En el pasillo, contra la pared, a oscuras, contando y con la respiración entrecortada. Ninguno de los dos lo había dicho nunca. «It was worse than Lupin.»
-4. **El sábado.** Lyra pregunta a Umbridge si bastaría tinta normal, con el pretexto del mantel manchado. Umbridge insiste en que la pluma forma parte de la corrección y amenaza con reiniciar la semana bajo su propia vigilancia si no se completa. Lyra pide vigilar también el lunes; escoge quedarse y buscar alivio para la mano, no porque ignore lo que ocurre. La narración no declara que la confesión de Harry carezca de presión o de súplica: deja interpretar el acto.
-5. **El domingo.** Lyra saca del almacén de Pociones **un frasco de esencia de murtlap** («minor cuts»). Crabbe: «Somebody cut themselves.» / «On something.» Su prima de Hufflepuff: Umbridge ha tenido a tres en ese despacho; uno lleva la mano en el bolsillo.
-6. **El lunes.** Potter con la mano vendada mal. Ella empuja el frasco hasta el borde de la mesa sin mirarle; él lo coge; escribe solo las líneas. «Same time tomorrow?» / «Yes.» «**Keep the jar.**»
-
-## Frases literales
-- «*I love you.*» (en sangre, bajo la línea, y en el dorso de la mano)
-- «Yeah. I know where you’re sitting.»
-- «Five points from Gryffindor… For writing what you were not told to write.»
-- «Very instructive, Professor.»
-- «Keep the jar.»
+1. **Defensa con Umbridge** (con los de Gryffindor): el aula de Moody sin nada de Moody; tapetes, flores secas, **platos con gatitos con lazo** que se mueven; *Defensive Magical Theory* de Wilbert Slinkhard; varitas guardadas. Lyra, en primera fila, sin girar la cabeza. Granger pregunta por usar los hechizos. Potter: «Not in class. Outside it»; los T.I.M.O.s son prácticos; «**He’s back. Voldemort.**» Umbridge: «Detention… Tomorrow evening. Five o’clock… a whole week… To give us time to talk about lies».
+2. **La informante.** Lyra se queda: «It is such a relief… to be taught by somebody sensible»; Moody, «difficult»; «I hear a great deal, in Slytherin. And on rounds… Things about the Headmaster»; Umbridge, «like a toad deciding whether a fly was worth the trouble of the tongue»: «I rather think it would.» Umbridge: «Lucius’s girl… Such a generous friend.»
+3. **Snape** (jueves). La ventana, reparada con cristal más verde. «You owe me, Miss Malfoy… A lie by the lake, which I allowed. A window, which I did not.» **Legilimens**; él ve la mesa del desayuno, el retrato dormido, la manga, la lata del terrier; ella **cierra la puerta**. Él, casi con respeto: «a natural defence of the mind… of a kind I have seen perhaps three times in thirty years. **And it is going to kill you.**» El Señor Tenebroso la mirará un día y, si cierra la puerta, sabrá qué es. «**You let him in. Into a room… Furnished… A daughter.**» La deuda: **los jueves a las ocho, tras la ronda**. No dice por qué. «Shut the door on your way out, Miss Malfoy, since you are so good at it.»
+4. **Draco y la ronda.** Draco tiene un amigo, el hermano pequeño de Urquhart. Su carta a la casita volvió sin abrir. Lyra lo encuentra descalzo, con vela y lista, ante la pared del séptimo piso; no consigue abrirla. No lee la lista: teme acudir a Lucius, que lo llama juego, o a Harry, que dejó correr lo de Ginny. Decide impedir las visitas ella misma, sin avisar al caballero. **Se ofrece a Zabini para cubrir todas sus rondas del séptimo durante el trimestre.** Es un plan concreto, imperfecto, cuyo límite se cobra en el 48–49.
 
 ## Quién sabe qué
-- **Lyra** sabe lo de la pluma y lo que escribió él. **Crabbe** sospecha (el frasco). **Umbridge** no sabe nada de la pareja.
-- La cicatriz de Harry: «I must not tell lies» y debajo «I love you», en el dorso de la mano derecha.
+- **Umbridge** tiene a Lyra de informante. **Snape** sabe que Lyra tiene una defensa natural muy fuerte y le enseña a «amueblar una habitación» (sin decir por qué); vio en su cabeza la manga, el retrato y la lata.
+- **Lyra** sabe que Draco busca algo en el séptimo piso para el señor de la casita, «a game»; no lo ha encontrado aún.
+- **Potter**: una semana de detenciones con Umbridge.
 
-## Fichas
-- **El frasco de murtlap** (nuevo): lo tiene Harry. **El pañuelo**: en Wiltshire.
-- **Es la primera vez** que cualquiera de los dos dice «I love you». No se vende como «primero» en la voz del narrador; lo lleva la escena.
+## Continuidad
+- Las clases con Snape: **jueves a las ocho**.
+- La carta de Draco al señor volvió sin abrir (el señor no estaba en la casita).
