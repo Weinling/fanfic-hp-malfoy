@@ -68,7 +68,7 @@ He sat holding the letter. He was aware of the fire on one side of his face, and
 
 Well. That was that, then.
 
-It was strange. He had thought, when this came, that it would feel like something. He had been frightened of it since he was thirteen. He had got it wrong in the Owlery, with his leg bleeding, and laughed; he had gone to the Odeon by himself with it. He knew what she was, and what was hers; he had always known. She’d said so. She had told him to his face, and it was the truest thing that anyone had ever told him, and now it had come, on a nice evening, and there was nothing to be done about it. He didn’t ask himself what he wanted. It did not seem to come into it. He looked for the part of him that would have asked, and he’d left it on the rug with everything else.
+It was strange. He had thought, when this came, that it would feel like something. He had been frightened of it since he was thirteen. He had got it wrong in the Owlery, with his leg bleeding, and laughed; he had taken it to the Odeon, with Sirius in the next seat. He knew what she was, and what was hers; he had always known. She’d said so. She had told him to his face, and it was the truest thing that anyone had ever told him, and now it had come, on a nice evening, and there was nothing to be done about it. He didn’t ask himself what he wanted. It did not seem to come into it. He looked for the part of him that would have asked, and he’d left it on the rug with everything else.
 
 You didn’t ask a person not to go to her brother.
 
@@ -174,7 +174,7 @@ He made a noise. He had no idea what noise it was; he thought it might be the on
 
 “*Tua!*” she shouted. “*Tua*, you illiterate, it agrees with *me!*”
 
-He let go of her, because he had to, because there was too much of it to stand still with. He turned round. He went across the room. It was four steps; he got to the far wall, and turned, and it was seven; the room had taken a good look at him and pushed the walls back. He ran. He ran round the armchair, with his arms out, in his socks, on the eve of his O.W.L.s, making a long thin noise through his teeth, and he had got round it twice before he noticed that he was laughing so hard he couldn’t see. He hit the bookcase. Something fell off it. “She said me!” he told the bookcase. “She said *me!*” He had lost a sock somewhere. He stopped in the middle of the rug, heaving for breath, and he looked at her standing there with her pins coming out and the tears running down beside her nose and her hand over her mouth, and it hit him all over again, from the feet up, and he had to bend over and hold his knees.
+He let go of her, because he had to, because there was too much of it to stand still with. He ran. He ran round the armchair, with his arms out, in his socks, on the eve of his O.W.L.s, making a long thin noise through his teeth. He hit the bookcase. “She said me!” he told the bookcase. “She said *me!*” He had lost a sock somewhere. He came back to the middle of the rug, heaving for breath, and there she was, with her pins coming out and her hand over her mouth, and that was no help at all.
 
 “Never own a Malfoy,” said Harry, when he could speak. “You said. You stood there. *Never own a Malfoy, Potter*. You can’t—”
 
@@ -194,7 +194,7 @@ She looked round at him. Her chin came up. “Don’t you *dare* be sorry.”
 
 “I’m not,” said Harry.
 
-And he wasn’t. He looked for it, to be fair; he went all through himself, like a man going through his coat, and there wasn’t a scrap of it anywhere. He’d have burnt that letter himself. He would have burnt the Manor. He grinned at her, with his swollen nose and his one sock, and he saw her take that in; and very slowly, on one side, in spite of everything she could do, the corner of her mouth went up to meet it.
+And he wasn’t. He looked for it, to be fair, like a man going through his coat, and there wasn’t a scrap of it anywhere. He grinned at her, with his swollen nose and his one sock; and very slowly, in spite of everything she could do, the corner of her mouth went up to meet it.
 
 The clock on the shelf struck six. It had a small, silly, tinny strike. They both turned their heads. On the rug, a little way from the fender, a plain horn button gave a shiver and went blue from the edges in, the blue of a gas ring, and it stayed like that for about as long as it took to say so. Then it was a button.
 

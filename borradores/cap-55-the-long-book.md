@@ -20,7 +20,11 @@ The chessmen were asleep on their board. The box had gone from the table, and th
 
 “How long?” said Lyra.
 
-“Since the February of 1982. You were not quite two, and I am told that you bit the Healer.” He pushed a cup towards her with one finger. “The pox was real. They gave me a fortnight, and for once they were being optimistic. The Dark Lord had been gone three months. Every man who had ever dined with him was being asked about it on oath, by Barty Crouch, in a very small room. It was your father’s idea, I should say, and the best he ever had: nobody can serve a summons on a family vault. We had a nice quiet funeral, with the doors shut. I sent lilies. I had the portrait brought down this autumn. A man who can hold a cup has no business being painted asleep.” He drank some of his tea. “Then I failed to die. I have been failing for fourteen years, in this chair, with a face like a suet pudding. It leaves one a good deal of time for correspondence.”
+“Since the February of 1982. You were not quite two, and I am told that you bit the Healer.” He pushed a cup towards her with one finger. “The pox was real. They gave me a fortnight, and for once they were being optimistic. The Dark Lord had been gone three months. Every man who had ever dined with him was being asked about it on oath, by Barty Crouch, in a very small room. It was your father’s idea, I should say, and the best he ever had: nobody can serve a summons on a family vault. We had a nice quiet funeral, with the doors shut. I sent lilies. I had the portrait brought down this autumn. A man who can hold a cup has no business being painted asleep.” He drank some of his tea. “Then I failed to die. I have been failing for fourteen years, in the north, and for the last two and a half of them in this chair, with a face like a suet pudding. It leaves one a good deal of time for correspondence.”
+
+“There was a man here one winter,” said Lyra. “I was twelve. Mother told me not to mention him at school.”
+
+“A month. That was the Christmas your father did something clever with a book, and I came down to see how much of it could be saved.” He looked into his cup. “It couldn’t. I came back on foot the next July, when he had finished losing it, and I have been here since. There are things one can’t do by post.”
 
 “You wrote the letter I took to Karkaroff.”
 
@@ -120,7 +124,7 @@ That evening she took a handkerchief out of the drawer of her bedside table, ver
 
 Her mother was at her glass, with her hair half down. She had a thin gold chain about her neck that went in under her collar. She did not turn round.
 
-“I have taken him his soup on Thursdays for fourteen years, darling,” said Narcissa Malfoy. “Who did you imagine it was for?”
+“I have taken him his soup on Thursdays for fourteen years, darling,” said Narcissa Malfoy. “By Portkey from the study, for the first eleven. Who did you imagine it was for?”
 
 “You told me he was dead.”
 

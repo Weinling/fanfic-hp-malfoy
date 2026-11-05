@@ -90,6 +90,8 @@ Es la misma lista que usa el autor. Cuando encuentres uno, cita el ejemplo.
 
 **Señalar si aparecen:** Lyra levantando la barbilla; la quietud como reacción (“did not move”, “kept her face still”); caras que cambian y vuelven; un gesto explicado dos veces; el narrador aclarando lo que una réplica ya dijo; paralelos con escenas anteriores explicados en vez de implícitos; saltos fuera del punto de vista de Lyra; dos metáforas para la misma emoción; listas repetidas dentro del capítulo; simetría de remates; diálogos de Harry demasiado pulidos; símiles con “the way…” en serie; reacciones corporales de catálogo; imágenes recicladas de capítulos anteriores; arranques de capítulo con una frase general ingeniosa o con Lyra de mal humor varias veces seguidas.
 
+**Patrones de la lectura seguida (Codex, noviembre):** caras que se leen «down the column»; superlativos que se renuevan («never in either life»); risa y llanto que siempre suben por la misma ruta; casas y puertas fuera de la Oclumancia; plazos medidos por «as long as it takes to…»; objetos que reaparecen con su historia entera; «I want that written down» en boca de todos; adultos cómplices que miran a otro lado.
+
 ## 6. Formato de la respuesta
 
 Entre 800 y 1.200 palabras, en este orden:

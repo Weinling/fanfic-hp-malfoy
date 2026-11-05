@@ -8,7 +8,7 @@ They ought not to have been there at all. Anthony Goldstein had taken to walking
 
 She came in at ten past two, limping.
 
-Neither of them had mentioned the night before. She had been very nice about it. She had said *please*, at breakfast, by moving the marmalade a quarter of an inch with one finger as she went past the end of the table, and he’d had the note by lunch, and now she shut the door behind her, or as good as, and put down a pile of Transfiguration cards, and turned over her left hand to look at it. There was a long red scrape across the heel of it, with grit in.
+Neither of them had mentioned the night before. She had been very nice about it. She had said *please*, at breakfast, by moving the marmalade a quarter of an inch with one finger as she went past the end of the table, and he’d had the note by lunch, and now she came in, said “*Muffliato*” over her shoulder to the door, as you’d tell a dog to stay, and put down a pile of Transfiguration cards, and turned over her left hand to look at it. There was a long red scrape across the heel of it, with grit in.
 
 “I wonder,” said Malfoy pleasantly, “whether anybody has ever explained to you how that thing works.”
 
@@ -72,11 +72,9 @@ It rang a little, on the glass. A pigeon went off the sill.
 
 He had his mouth open. He stood there, in the warm dust, with his hand in his pocket; and he saw her eyes go past him. He saw her stop breathing.
 
-She had shut the door, or as good as. It stood open by about the width of a hand, and she had not let the tapestry fall back.
+She had said *Muffliato* to that door, and it kept a conversation where you put it. It didn’t keep anybody out. It stood open by about the width of a hand, and Ron was standing just inside it, with the sleeping knight hanging at his shoulder.
 
-It moved, and it went on moving, slowly, on its own weight. Ron was standing on the other side of it, with the sleeping knight hanging at his shoulder.
-
-He was in his Quidditch things. He’d got his shin-guards on, and a pair of scarlet robes hanging over his arm, Harry’s robes, the ones Harry had left on the end of his bed. He must have come up to look for him, and heard shouting, and thought, *Oh, here we go*. It was still there, round his mouth, the start of a grin he had been going to come in with.
+He was in his Quidditch things. He’d got his shin-guards on, and a pair of scarlet robes hanging over his arm, Harry’s robes, the ones Harry had left on the end of his bed. He must have come up to look for him, and put his foot on something on the landing that wasn’t there. He had been falling over that Cloak for five years. He would have known what it was, and whose, and which tapestry, and he’d have thought, *Oh, here we go*, and come through to break it up. It was still there, round his mouth, the start of a grin he had been going to come in with.
 
 His ears were not pink. Harry had known those ears for five years, or twelve, however you wanted to count it. He had seen them every colour there was. He had never in either life seen them white.
 
@@ -132,7 +130,7 @@ There was an answer to that. It had been agreed, and written down, and blotted. 
 
 Nothing came. He stood there with his mouth a little open. He stayed like that for what must have been about three seconds, and it was the longest he had ever spent doing anything.
 
-He watched it arrive. Nobody had ever called Ron clever; you couldn’t have said that it was quick. It came up slowly from a long way down, like something rising through a pond, and it reached the surface, and Ron looked at it. His face didn’t change very much. It just stopped having anybody behind it for a moment.
+Ron had stopped waiting for an answer. Harry watched him put the silence together. His face didn’t change very much. It just stopped having anybody behind it for a moment.
 
 “Oh,” said Ron.
 

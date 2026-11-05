@@ -110,7 +110,7 @@ She had got hold of the front of his jumper. She found she was making a sound. I
 
 “I know it’s cheating! What was question six?”
 
-He looked down at her. He was scarlet, and furious, and it was starting to get away from him at one corner of his mouth. Nobody had laughed like that at him, she thought, in either of his lives. He found he did not mind.
+He looked down at her. He was scarlet, and furious, and it was starting to get away from him at one corner of his mouth. Nobody had laughed like that at him, she thought, in either of his lives. He let her go on.
 
 “Substantive charms,” said Potter. “Something about a goblet. I got it wrong.”
 

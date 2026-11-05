@@ -69,6 +69,29 @@ Un matiz a tu idea: Draco no se corrompió, se rompió. Si queremos corrupción,
 - **Hasta entonces, Harry no lo sabe.** «I don’t know» si sirvió. Lo que el lector tiene son indicios.
 - **Lo que no cambia:** el brazo y la palabra no le absuelven. El surco es suyo; dejar pasar el diario fue una decisión.
 
+## 8. Quién hizo qué en el Torneo (5 de noviembre; a partir de la propuesta de Codex y de la pregunta de un lector)
+
+Es la solución interna. Nada de esto cambia lo publicado. Se revela a trozos, nunca en un capítulo-acta.
+
+| Pregunta | Respuesta |
+|---|---|
+| El caballero | Abraxas. Vivió en la casa del norte de 1982 a julio de 1993. El hombre «soft-spoken» del 1 es él: un mes, Navidad de 1992, Lyra con doce años, porque Lucius había puesto el diario en juego. El hombre del 2 es él, que vuelve a pie para quedarse (55). |
+| Jorkins | La capturan en Albania, verano de 1994, los «friends abroad» de Karkaroff. Él busca a Riddle porque **Abraxas le ha cobrado una deuda del libro largo**: no por ambición. Sabía de la posada porque fue cosa suya (37). |
+| El sitio de Pettigrew | Crouch hijo, como sospecha el lector. Bertha da dos cosas: el Torneo y que Junior vive (el padre le borró la memoria). Tras el Mundial, Karkaroff y Riddle liberan a Junior y someten al padre. Junior cuida a Riddle en la casa del norte y maneja al padre. No hay nadie haciéndose pasar por Moody: Moody es Moody. |
+| El Cáliz | Lo Confunde **Crouch padre bajo Imperius**, con su acceso de juez y su fuerza real. Paga «Barty Crouch would cut out his own tongue before he bent a rule» (28). |
+| Para qué Harry | Para la sangre, bajo cobertura oficial. La Copa hace lo anunciado: le devuelve al podio. **El instrumento es el escreguto;** Crouch organizó la prueba y retira la caja («It drew blood?»). Hagrid no sabe nada. Riesgo aceptable, no plan infalible. |
+| La caja | Es el Traslador: Crouch, como juez, tiene licencia para los del Torneo. La lleva al barco; Junior y Karkaroff la usan. El barco es punto de recogida y luego la huida de Karkaroff. |
+| El hueso | Junior, en Little Hangleton. |
+| La carne | La mano de Karkaroff, su último pago. Huye manco con el barco; sus alumnos se quedan. |
+| Crouch padre | Junior le mantiene controlado de cerca, sin el trabajo de Moody. Sigue útil unos días; luego Junior le mata (41). |
+| La carta que llevó Lyra | La de Abraxas: tener el barco listo y despejado para la noche de la prueba. |
+
+**Rechazado de la propuesta:** Avery (un nombre más que no aporta) y que el mes del 1 fuera «lo que Lyra supo» (es más limpio que fuera un mes de verdad).
+
+**Pagos previstos:** 55 (el invierno; hecho). 72: Junior a Harry, «The Cup brought you back exactly where it was meant to. We were waiting for the crate.» Tanda siguiente: Lyra lee en el libro largo la deuda de Karkaroff y lo que hizo la carta que llevó; Jorkins y el padre, por Abraxas o Junior, de paso.
+
+**Para la tanda 73-84 (informe de Codex):** Hermione responde ante Ron y ante Ginny por su propia mentira; Ginny no se queda fuera para siempre; Hopkins y Miss Bode no quedan pagados; Goyle sigue pudiendo decir no; a Draco, algún fallo de niño; la rata del 58 pide consecuencia; Lyra acaba contando lo de Bode.
+
 ## Lo que decido si no dices lo contrario
 
 - **Unos 100 capítulos en total**, más extras: unos 50 más de los que hay ahora, contra los 35 que se estimaban. Son unas 200.000 palabras por escribir.

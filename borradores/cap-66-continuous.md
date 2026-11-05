@@ -56,7 +56,7 @@ She had one hand on the wall. It was very cold. She had known for some time, as 
 
 There was a long silence behind the door. Somebody turned over a page.
 
-“I take it you have finished the exercise, Potter,” said Snape.
+“I take it you can give me something dull at last, Potter,” said Snape.
 
 “Yes, sir. *Was* I?”
 
@@ -70,7 +70,7 @@ She walked on, quite quietly, on the balls of her feet, along the dark passage a
 
 *I taught you both.*
 
-She turned that over on the way to the fifth floor. There was only one thing Snape had ever taught to anybody in that room, and she had been learning it all year with her hands in her lap. So Potter had sat on the arm of her chair, in February, and looked her in the face, and said *He’s foul*, and he had kept it up for three months.
+She turned that over on the way to the fifth floor. *Something dull.* Those were her instructions. She had been hearing them all year, with her hands in her lap: something dull, in a room that looked as though nothing had ever been hidden in it. Every Thursday for her. Every Tuesday, it appeared, since February. So Potter had sat on the arm of her chair, in February, and looked her in the face, and said *He’s foul*, and he had kept it up for three months.
 
 And Snape knew. Snape, who went to that table and answered questions. She ought to have been a great deal more frightened than she was.
 
@@ -176,7 +176,7 @@ He did not smile. He didn’t let go.
 
 The fire ticked in the grate. She could feel each of his fingers through the sleeve. She waited for the corner of his mouth, and she waited for it for rather a long time.
 
-She had liked that word. She wished that noted. She had said it first, in the moonlight, with no warning at all; she had said *Yes* to it in front of nobody, and she had it now on a green ribbon. She looked for the laugh, in the usual place. It was the first time it had not been there.
+She had liked that word. She wished that noted. She had said it first, in the moonlight, with no warning at all; she had said *Yes* to it in front of nobody, and she had it now on a green ribbon. She looked for the laugh, in the usual place. This time she needed him to laugh.
 
 Then he seemed to see where his hand was. He looked at it. He went a slow bad colour, and took it away, very carefully, one finger at a time, and put it in his pocket.
 

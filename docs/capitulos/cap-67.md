@@ -13,7 +13,7 @@
 - **Harry** sabe lo de las notas quemadas.
 
 ## Continuidad fácil de romper
-La insignia de Ron está doblada. Ron y Hermione no hablan a Harry. Hopkins sujetó la puerta a principios de mayo. Harry vio esto desde el segundo piso. Nadie ha dicho quién dejó la Capa en el descansillo: hilo abierto, posible Pettigrew; si no se usa, queda como descuido de Harry.
+La insignia de Ron está doblada. Ron y Hermione no hablan a Harry. Hopkins sujetó la puerta a principios de mayo. Harry vio esto desde el segundo piso. Lyra pone *Muffliato* a la puerta; Ron entra porque pisa la Capa en el descansillo y sabe de quién es.
 
 ## Forma
 Empieza y acaba en lo que Harry repasa a solas; termina esperando a que amanezca.

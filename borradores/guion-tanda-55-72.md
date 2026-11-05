@@ -366,6 +366,8 @@
 
 ### Cap. 72 — *Mine* (Harry; coda de Lyra)
 
+**Cobrar aquí:** la cera de Bella (leyó la respuesta de Narcissa) y Junior: «The Cup brought you back exactly where it was meant to. We were waiting for the crate.» (decisiones, §8).
+
 - **Motor:** la batalla y la muerte de Sirius.
 - **Peldaño:** cae todo.
 - **Pantallazo:** «Mine.»

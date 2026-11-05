@@ -20,7 +20,7 @@ It was a very nice evening. He had got through a week of it. He had been down to
 
 “Oh, *don’t*,” said Malfoy. She was smiling already. “Please. I’ve had a very trying month.”
 
-He put it on the edge of the board, in the corner, behind its own pawn.
+He put it on the edge of the board, directly in front of its own pawn.
 
 It went on as those games did. She took a bishop. He gave her a rook by accident, and she thanked him. She had started to look like somebody on a holiday; she had stuck a pin in her mouth, to have her hands free for her hair, and she talked round it. He thought it was the first time he had seen her eat anything without being told to, when she reached over without looking and took the last of the toast. By the tenth move he was in check. He looked at it for some time. There did not seem to be any way out. She had her queen across the whole of the back rank, and her rook coming up, and his king was standing in the middle of nothing with a pained expression. So he did the only thing he could think of. He took hold of a pawn, and moved it in front.
 
@@ -42,7 +42,7 @@ The bishop looked at its feet. The whole of the black side had gone very quiet.
 
 “I beg your pardon, miss,” it said.
 
-“You said that before.” It was hardly a voice at all. “I’ve heard you say that. You said it to me. I was standing over a desk. I was—” She stopped. He watched her eyes go to the pawn, standing in front of its king, a square from where any sane person would have put it. They went to the corner, where a knight had been sitting for ten moves with its sword in its sheath, unable to reach a thing. They went slowly over the rest of the black pieces, one after another. Nobody had spoken a word of complaint. Nobody on that side of the board had complained in a year. The queen was gazing straight in front of her with an expression of long-suffering and affection, like an old nurse.
+“You said that before.” It was hardly a voice at all. “I’ve heard you say that. You said it to me. I was standing over a desk. I was—” She stopped. He watched her eyes go to the pawn, standing in front of its king, a square from where any sane person would have put it. They went to the edge of the board, where a knight had been sitting for ten moves with its sword in its sheath, unable to reach a thing. They went slowly over the rest of the black pieces, one after another. Nobody had spoken a word of complaint. Nobody on that side of the board had complained in a year. The queen was gazing straight in front of her with an expression of long-suffering and affection, like an old nurse.
 
 “They hate everybody,” said Malfoy. “They told my father he castled like a tradesman.”
 
