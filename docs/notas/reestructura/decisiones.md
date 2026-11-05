@@ -94,6 +94,27 @@ Es la solución interna. Nada de esto cambia lo publicado. Se revela a trozos, n
 
 **Para la tanda 73-84 (informe de Codex):** Hermione responde ante Ron y ante Ginny por su propia mentira; Ginny no se queda fuera para siempre; Hopkins y Miss Bode no quedan pagados; Goyle sigue pudiendo decir no; a Draco, algún fallo de niño; la rata del 58 pide consecuencia; Lyra acaba contando lo de Bode.
 
+## 9. Lo que se rescata del original (autor, 5 de noviembre)
+
+Solo ideas, nunca frases, y cambiando la causa cuando haga falta. Lo que no esté aquí no se consulta.
+
+**Ya en el plan:** la serpiente que duerme cuando su portadora se muere; el veneno delante de él; «I hope you win—No. I hope you live»; Harry con la cara de ella y Narcissa que le reconoce; «By whom, and on what authority?»; ella se ofrece y él se niega.
+
+**A incorporar:**
+1. **La Amortentia que no funciona** (ko-82): antes del veneno ella se la da para asegurarse de que él cumplirá; no le hace nada, porque ya la quiere. Es su prueba. Antes de beber.
+2. **La Felix** (ko-79): en lo peor de la Marca, él le deja caer el frasco en la bolsa sin mirarla. Es lo único que se dicen ese trimestre.
+3. **La cuchara** (ko-89): ella despierta y él le da de comer. Cobra a Bode y a Abraxas; él no sabe lo que hace. Ella cuenta.
+4. **La alacena** (ko-102): Lyra sabe desde tercero que durmió allí; verla, con el candado, es otra cosa. Última visita a Privet Drive.
+5. **Oír a Greer** (ko-81): escondida, Lyra oye a Greer y a Crabbe hablar de ella. Tiene que doler antes de los bombones.
+6. **Snape muere protegiéndole e insultándole** (ko-87), y su herencia con una dedicatoria grosera (ko-98). Otras palabras.
+7. **El plano final de la victoria** (ko-88): han ganado, y Harry se ve en los ojos de Dumbledore.
+8. **Riddle negocia** (ko-93): querer vivir le alimenta; ofrece una hora al día con ella a cambio de todo.
+9. **El Voto contra uno mismo** (ko-104): Harry quiere jurar que nunca tocará una varita; ella lee las cláusulas.
+10. **Harry enseña a volar a Draco** (ko-97): si queda Draco que enseñar.
+11. **Para reír, ya en paz:** Harry imita a Voldemort y Lucius se inclina (ko-95); Lucius y el CD (ko-109); la novela de Rita sobre ellos (ko-110).
+
+**Fuera:** Grindelwald; los ecos del Priori Incantatem; Fawkes; la batalla del Veritaserum; todo lo sexual y lo que erotiza la posesión; el epílogo muggle salvo lo anterior.
+
 ## Lo que decido si no dices lo contrario
 
 - **Unos 100 capítulos en total**, más extras: unos 50 más de los que hay ahora, contra los 35 que se estimaban. Son unas 200.000 palabras por escribir.

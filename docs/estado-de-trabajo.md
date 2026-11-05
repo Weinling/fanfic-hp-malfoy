@@ -15,11 +15,11 @@
 
 - **Crítico Opus:** reutilizable, pero lleva unos 800.000 tokens; para la tanda siguiente, uno nuevo con resumen.
 - **Codex:** ha leído hasta el 70; informe aplicado (`docs/notas/criticas-codex/lectura-58-70.md`). No ha leído el 71 ni el 72.
-- **Misterios del Torneo:** solución fijada en `docs/notas/reestructura/decisiones.md`, §8.
+- **Misterios del Torneo:** solución en `docs/notas/reestructura/decisiones.md`, §8. **Lo que se rescata del original:** §9.
 
 ## Siguiente paso exacto
 
-1. Guion de la tanda 73-84, con el guion general, `decisiones.md` y los pendientes del §8. Espera la decisión del autor sobre cómo usar el original.
+1. Guion de la tanda 73-84, con el guion general, `decisiones.md` y los pendientes del §8.
 
 ## Pendiente, sin urgencia
 
