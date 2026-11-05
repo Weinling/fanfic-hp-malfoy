@@ -400,6 +400,8 @@ En orden de lectura. Las fechas marcadas «deducida» no las da el texto: salen 
 - Beso que empieza ella (**decimotercero**; el texto no describe la boca): **«That was the last one.» / «This year.» / «It’s *January*.» / «Happy New Year.»** El anillo de Harry, tras ocho horas rojo, queda de un rosa pálido y dudoso.
 - Fallo menor: en el 55 Abraxas dice que la taza era imposible «since before you could walk»; en febrero de 1982 Lyra tenía casi dos años (`cap-55-the-long-book.md:77`).
 
+- **Añadidos de la revisión (5 de noviembre):** *Trials* (entre 44 y 45), *Lanterns* (partido en dos el 50), *Nobody* (segunda mitad del 50), *Two Hours* (tras el 51); ver sus manuales. La partida de Zabini, los jueves (49). Apuesta de los Cannons, dos Sickles (53). Goyle aprende a cocinar y cuida a Hopkins. Crabbe y Nott: casi.
+
 - **58 (enero de 1996):** ver `cap-58.md`. Narcissa encubre la salida de Lyra. Fuga de Azkaban: Bellatrix y, sin nombre, Pettigrew. Sala de los Menesteres: la butaca. Informes semanales; Voldemort pide lo que Harry teme y se ríe. Puntos, de diez en diez. Draco sigue sin hablarle. Crabbe, dolida por la promesa del día 2. Rata en el séptimo piso.
 
 - **59 (29 ene.-15 feb. 1996):** ver `cap-59.md`. Odio público ensayado; Lucius sabe y nadie más. **14 de febrero: Lyra dice «I love you» por primera vez, como insulto.** Su Patronus funciona tras el Crucio. Carta: Lucius pide un nombre del Ministerio.

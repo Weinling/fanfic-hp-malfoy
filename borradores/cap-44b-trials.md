@@ -92,7 +92,7 @@ It was exactly as bad. It had the same doilies. It had the same kittens, on the 
 
 He had shouted, the last time. He had been fifteen, and it had all been new; he had stood up in front of everybody with his fists shut and shouted at a toad. He wasn’t going to do that. He knew what it got you. He knew what was on the other end of it, on a little table by a window, in a long thin box. He had been going over what he knew about that quill, in the night, and he thought there was a fair chance that he could get through the whole year with his mouth shut, and the use of his hand. It was what any sensible person would do. Hermione was saying something about using spells. Umbridge laughed, and said that nobody was going to attack them in class. Harry looked at the back of Dean’s head.
 
-Twenty-seven people were sitting in that room with their wands in their bags. Eleven of them, by his count, would be dead or in St Mungo’s before they were twenty-five. Nobody had told them. Somebody at the back of the room was yawning.
+Twenty-seven people were sitting in that room with their wands in their bags. Eleven of them, by his count, would be dead or in St Mungo’s before they were twenty. Nobody had told them. Somebody at the back of the room was yawning.
 
 “Not in class,” said Harry. “Outside it.”
 
@@ -136,7 +136,7 @@ There were things you could tell people. He could feel it, running up the bones 
 
 He went to see Diggory on the Thursday. He had known what would happen, and he went anyway, as you press on a tooth.
 
-It had got about by then, in the way things did. There was a room behind the kitchens that had once been used for duelling, with a long strip of worn boards and a smell of cold dust; and the Head Boy had decided that if the Ministry of Magic was not going to teach anybody to defend themselves, then he would, on Mondays and Thursdays, and that he did not propose to ask. It was sixth- and seventh-years, somebody said. Cho Chang was in it. Fred and George were in it, on a promise. Harry found him at the end of lunch, in the Entrance Hall, by the doors, with four or five people round him and a list in his hand. He had his hand on the list and his badge on his chest. There was a fine white line in his hair.
+It had got about by then, in the way things did. There was a room behind the kitchens that had once been used for duelling, with a long strip of worn boards and a smell of cold dust; and the Head Boy had decided that if the Ministry of Magic was not going to teach anybody to defend themselves, then he would, on Tuesdays and Thursdays, and that he did not propose to ask. It was sixth- and seventh-years, somebody said. Cho Chang was in it. Fred and George were in it, on a promise. Harry found him at the end of lunch, in the Entrance Hall, by the doors, with four or five people round him and a list in his hand. He had his hand on the list and his badge on his chest. There was a fine white line in his hair.
 
 “I heard you’re starting something,” said Harry.
 

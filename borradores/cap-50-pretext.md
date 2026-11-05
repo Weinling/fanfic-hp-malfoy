@@ -30,7 +30,7 @@ It was the first Saturday of November, cold and bright, with a high thin wind th
 
 The Slytherins had a song.
 
-Lyra had heard it in the common room on the Thursday, being practised: a sixth-year had written it over the weekend, and it was about Weasley, and his family, and a bin, and it had a chorus that everybody could join in, and it was quite clever in the way that very cruel things often are. By the time the teams were in the air, half the Slytherin stand was singing it. The words came across the pitch in the wind in pieces, and every piece found Weasley, and she watched each one land.
+Lyra had heard it in the common room on the Thursday, being practised: a sixth-year had written it over the weekend, and it was about Weasley, and his family, and a sieve, and it had a chorus that everybody could join in, and it was quite clever in the way that very cruel things often are. By the time the teams were in the air, half the Slytherin stand was singing it. The words came across the pitch in the wind in pieces, and every piece found Weasley, and she watched each one land.
 
 He let in a goal in the second minute. He let in another in the fifth. The chorus went round again, louder.
 
@@ -106,7 +106,7 @@ He saw her come in, and broke off, and came across the room at a run.
 
 *Keep him so.*
 
-Lyra looked down at him. At the rosette, and the gap in his teeth, and the cold-red face, and the happiness coming off him like heat off a fire; at her brother, who was eleven, and had a list folded against his heart from an old man who ran errands for the Dark Lord, and had just spent an afternoon learning that it was a fine thing to sing about a boy and a bin until the boy let in four goals.
+Lyra looked down at him. At the rosette, and the gap in his teeth, and the cold-red face, and the happiness coming off him like heat off a fire; at her brother, who was eleven, and had a list folded against his heart from an old man who ran errands for the Dark Lord, and had just spent an afternoon learning that it was a fine thing to sing about a boy and a sieve until the boy let in four goals.
 
 She could have told him. She could have knelt down on the hearthrug, in front of the whole House, and told him what Granger had told her on the grass. He would have listened. He always listened to her, in the end.
 

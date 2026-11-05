@@ -12,13 +12,13 @@ It was a very good tune. That was the trouble with it. Dean had got as far as th
 
 Neither of them looked as if he thought so. Harry looked at the portrait hole.
 
-He had known. He had known for years; he had sat on a floor in September with a book on his knee and told somebody that he’d be fine. He had known about the first goal and the second. He had even known, roughly, how the chorus went, though in the other life it had been about something else, and there had been a crown in it. Six or seven things that you could say to a person had been lying ready in his head since August, and he had gone through them in the air, on a stolen second, with the wind cracking and the whole of a green stand singing at his best friend’s back. He had thought, *I’ll tell him it gets better. It did.* Then the Snitch had gone past somebody’s boot and he had stopped thinking about Ron altogether.
+He had known. He had known for years; he had sat on a floor in September with a book on his knee and told somebody that he’d get it. He had known about the first goal and the second. He had even known, roughly, how the chorus went, though in the other life it had been about something else, and there had been a crown in it. Six or seven things that you could say to a person had been lying ready in his head since August, and he had gone through them in the air, on a stolen second, with the wind cracking and the whole of a green stand singing at his best friend’s back. He had thought, *I’ll tell him it gets better. It did.* Then the Snitch had gone past somebody’s boot and he had stopped thinking about Ron altogether.
 
 That was the part he kept coming back to. He had looked across the pitch. There had been a girl up there, level with him, not singing and not stopping it, with something the matter with the way she held her left arm. There had been a corner of paper in her sleeve. He had come down sixty feet with his shoulder against hers, and he had been looking at that.
 
 “Where is he?” said a voice at his elbow.
 
-Ginny had a towel round her neck and her jaw set. She had flown two laps of the pitch that morning before anybody was up, as she had taken to doing, and she looked as though she would have liked to have somebody to do it to. She took the butterbeer out of Harry’s hand, drank some, and gave it back.
+Ginny had a towel round her neck and her jaw set. She had flown two laps of the pitch as soon as the stands had emptied, as she had taken to doing, and she looked as though she would have liked to have somebody to do it to. She took the butterbeer out of Harry’s hand, drank some, and gave it back.
 
 “He didn’t come in,” said Harry. “Hermione went to look.”
 
@@ -52,11 +52,11 @@ Harry came in and sat down on the floor. There was nowhere else. He put his back
 
 He did not say it angrily. He went on with the cloth. Harry stopped, and looked at the other five or six things, and there was nothing whatever the matter with them. They were all perfectly true. He had worked on them. He thought of a person telling him, at fifteen, what it would be like when he was older.
 
-“My mum knitted that scarf,” said Ron, after a while. “The one Ginny’s got. They had that in the song. I didn’t know you could get that much in. *Bin* and *Weasley’s in*, I can see that, that’s just rhyming, but somebody sat down and thought about my dad. Somebody sat in a chair, with a quill. They’d got the Ford Anglia.” He turned the broom over and looked at the other side. “And I could hear all of it. It’s very clear up there. You wouldn’t know, you’re always going somewhere. You just stay in one place, and it comes to you.”
+“My mum knitted that scarf,” said Ron, after a while. “The one Ginny’s got. They had that in the song. I didn’t know you could get that much in. *Sieve* and *live*, I can see that, that’s just rhyming, but somebody sat down and thought about my dad. Somebody sat in a chair, with a quill. They’d got the Ford Anglia.” He turned the broom over and looked at the other side. “And I could hear all of it. It’s very clear up there. You wouldn’t know, you’re always going somewhere. You just stay in one place, and it comes to you.”
 
 Harry didn’t say anything. It occurred to him that this was the first useful thing he had done all day.
 
-“I got that broom for being a prefect,” said Ron. “My mum saved up. I don’t know how long. Nobody’s said. And I went out there in front of everyone in the whole school, and they looked at me, and I thought, *right*. I could feel it go. It was just like I was eleven, and that mirror.” He stopped. His big raw hands had stopped too. “You said I’d be all right. On the floor. I keep thinking about that, I keep thinking what did you say that for. You weren’t even looking at me.”
+“I got that broom for being a prefect,” said Ron. “My mum saved up. I don’t know how long. Nobody’s said. And I went out there in front of everyone in the whole school, and they looked at me, and I thought, *right*. I could feel it go. It was just like I was eleven, and that mirror.” He stopped. His big raw hands had stopped too. “You said I’d get it. On the floor. I keep thinking about that, I keep thinking what did you say that for. You weren’t even looking at me.”
 
 There was a noise behind Harry. He looked round. Somebody had opened the door, and let in a good deal of cold and a smell of paraffin.
 
@@ -70,13 +70,13 @@ She had a lantern in each hand. They were the big storm kind that Hagrid hung ro
 
 “I’m not—”
 
-“You let in four,” said Ginny. “I counted. So did everybody. They all went to your left. Every single one. I watched you from the stand, and you know what you did? You turned your head first. You look where you’re going before you go. You do it at chess, it’s why you win. You did it on the Saturday in September, only that time you’d stopped thinking about it, because you were frightened of something else.” She walked in, kicked the bucket, gently, about an inch from his foot, and held out one of the lanterns. “It’s the easiest thing to mend that I’ve ever seen. You’d have it by Christmas, if you weren’t sitting in a shed. Get up. I’m not doing this in the morning, with people looking.”
+“You let in four,” said Ginny. “I counted. So did everybody. They all went to your left. Every single one. I watched you from the stand, and you know what you did? You turned your head first. You look where you’re going before you go. You do it at chess, it’s why you win.” She walked in, kicked the bucket, gently, about an inch from his foot, and held out one of the lanterns. “It’s the easiest thing to mend that I’ve ever seen. You’d have it by Christmas, if you weren’t sitting in a shed. Get up. I’m not doing this in the morning, with people looking.”
 
 “It’s after curfew,” said Ron. He said it in a dull voice, and he looked at the shelf. “I’m a prefect.”
 
 Hermione put back her hood. She had gone rather pink about the nose, and she was holding a sheet of parchment, with a ruler laid along the top of it to keep it flat.
 
-“I’ve put it on the rota,” said Hermione. “*Inspection of Quidditch hoops for frost damage, R. Weasley and H. Granger, 9.45 p.m. to midnight.* It’s perfectly in order. McGonagall signed it at dinner. She looked at me for rather a long time, and then she said that frost was a serious matter.” She reached past him, picked the badge up off the shelf, and held it out on her palm. “You’ve left this,” she said. “I think you’ll want it, if we meet Filch.”
+“I’ve put it on the rota,” said Hermione. “*Inspection of Quidditch hoops for frost damage, R. Weasley and H. Granger, 9.45 p.m. to midnight.* It’s perfectly in order. A prefect may inspect school property at her discretion. It’s Educational Decree Twenty-Four, page nine. I read it for somebody else.” She reached past him, picked the badge up off the shelf, and held it out on her palm. “You’ve left this,” she said. “I think you’ll want it, if we meet Filch.”
 
 Nobody moved. The lantern hissed.
 
@@ -138,7 +138,7 @@ He noticed that on the way back, going up the long slope, with the castle black 
 
 “Good.”
 
-Ron walked on for a while without saying anything. He looked up at the castle. Over to the left, down low near the lake, a line of very small green windows showed along the foot of the wall, and he looked at those.
+Ron walked on for a while without saying anything. He looked up at the castle. Over to the left, down by the black water, there was nothing to see at all, and he looked at that.
 
 “She was right above it,” he said.
 
@@ -148,7 +148,7 @@ Harry’s feet stopped hurting. He couldn’t have said why.
 
 The frost creaked. A long way ahead, a lantern went in at the doors.
 
-He had a number of answers. It was the sort of thing he was good at. He thought of a window on the seventh floor, and the point of her chin. *Eighty-five*, he had told her a week ago, with his arms round her, and he had thought it was the funniest thing that anybody had ever said. He thought of a corner of paper in a sleeve, and how long he’d looked at it. He had been able to tell you, to the inch, which way her wrist was turned.
+He had a number of answers. It was the sort of thing he was good at. He thought of a window on the sixth floor, and the point of her chin. *Eighty-five*, he had told her a week ago, with his arms round her, and he had thought it was the funniest thing that anybody had ever said. He thought of a corner of paper in a sleeve, and how long he’d looked at it. He had been able to tell you, to the inch, which way her wrist was turned.
 
 “Yeah,” said Harry. “I could.”
 

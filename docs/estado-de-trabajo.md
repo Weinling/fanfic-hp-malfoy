@@ -6,7 +6,7 @@
 
 ## Dónde estamos
 
-- **Escrito:** del 1 al 72, con *Year One* 1 a 6, *Year Four* 1 y 2 y dos interludios. **Publicado hasta el 37.**
+- **Escrito:** del 1 al 72 (más los nuevos de la revisión), con *Year One* 1 a 6, *Year Four* 1 y 2 y dos interludios. **Publicado hasta el 37.**
 - **Orden de lectura desde el 41:** 41, Interludio 2, 42, 43, *Year One* 5 y 6, 44 a 52, *Year Four* 1, 53 a 62, *Year Four* 2, 63 en adelante.
 - **Tanda 55-72 cerrada y criticada.** Su guion está en `docs/archivo/guiones/guion-tanda-55-72.md`.
 - **El 39 se reabrió y se rehízo el 5 de noviembre** (`docs/notas/criticas-opus/cap-39-rehecho.md`, aplicada). Falta que lo apruebe el autor.
@@ -19,8 +19,8 @@
 
 ## Siguiente paso exacto
 
-1. **El autor aprueba o corrige** el guion rehecho, `borradores/guion-tanda-73-84.md`.
-2. Después, la revisión del 40 al 72 (`docs/notas/reestructura/revision-39-72.md`), en orden, con crítico Opus en cada capítulo nuevo o rehecho.
+1. El guion rehecho, `borradores/guion-tanda-73-84.md`, está aprobado.
+2. **Revisión (`docs/notas/reestructura/revision-39-72.md`):** hecho del 40 al 54 (salvo Year Four, sin cambios). Sigue el 57. Falta del 57 al 72, con crítico Opus en lo nuevo o rehecho.
 3. Renumerar. Luego, la tanda 73-84.
 
 ## Pendiente, sin urgencia
@@ -31,4 +31,4 @@
 
 ## Espera al autor
 
-- El 39 rehecho y el guion 73-84. La decisión §7 (el otro Harry perdió) sigue en pie, con lo que añade el §10. La tarea nocturna está desactivada.
+- La decisión §7 (el otro Harry perdió) sigue en pie, con lo que añade el §10. La tarea nocturna está desactivada.

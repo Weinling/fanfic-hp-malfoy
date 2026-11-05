@@ -154,7 +154,7 @@ Lyra looked up from her Arithmancy. Then she looked along the table. Potter had 
 
 He came. He pulled out a chair with his foot, and sat on it, at an angle, as somebody sits in a dentist’s waiting room. Granger looked from one of them to the other. She had two spots of colour on her cheeks, and her hair was doing as it pleased.
 
-“I’ve been helping Ron with his figures,” she said. “For the meeting. He thinks it’s spite. I said I’d add it up, because somebody ought to, and because I’ve got a prefect’s right of access to the book. And I have to say that it’s beautifully kept.” She put her finger on the parchment. “Eighty-five points since the twelfth of September. Not one deduction in class, or at meals, or in front of anybody at all. All but one of them after ten at night, and hardly any before midnight. Four on the sixth. Eight on the seventh. One on the third, which isn’t on your rounds at all. And always, *always*, in fives.”
+“I’ve been helping Ron with his figures,” she said. “For the meeting. He thinks it’s spite. I said I’d add it up, because somebody ought to, and because I’ve got a prefect’s right of access to the book. And I have to say that it’s beautifully kept.” She put her finger on the parchment. “Eighty-five points since the twelfth of September. Not one deduction in class, or at meals, or in front of anybody at all. All but one of them after ten at night, and hardly any before midnight. Four on the sixth. Nine on the seventh. One on the third, which isn’t on your rounds at all. And always, *always*, in fives.”
 
 She looked up.
 

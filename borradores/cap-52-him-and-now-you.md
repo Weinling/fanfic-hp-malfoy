@@ -84,7 +84,7 @@ Lyra looked at his fist.
 
 “What club?”
 
-“A Defence club. A secret one. Diggory runs it. He’s *Head Boy*.” His voice had gone up; he brought it down again with a glance at the room. “Granger made the coins. It’s mostly the big ones. And me. I’m the only first-year in the whole thing. We learnt Disarming on Thursday, I got Summerby’s wand off him twice.”
+“A Defence club. A secret one. Diggory runs it. He’s *Head Boy*.” His voice had gone up; he brought it down again with a glance at the room. “Granger made the coins. It’s mostly the big ones. And me. I’m the only first-year in the whole thing. We did Patronuses on Thursday. I got a sort of fog, and Ginny Weasley says I hold my wand like a fish.”
 
 “How did a first-year get into that, Draco?”
 

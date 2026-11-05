@@ -4,7 +4,7 @@ There was a smell of baking in the passage behind the kitchens, and it was the o
 
 Harry sat on the floor with his back to the wall and his knees drawn up. He had been there since seven o’clock. It was a low stone corridor with a barrel-shaped roof, lit by two torches, and if you went along it past the bowl of fruit you came to a door of old black oak with a brass plate worn too smooth to read. Things happened behind that door. There was a thud, every so often, and somebody saying “Again,” and now and then a flash went under it and lit up the toes of his shoes.
 
-He had given away a thousand Galleons that afternoon. He wanted to be clear about that. He had seen it coming, the way you see a Bludger, and he had walked down the marble staircase with the bag in his hand and given it to Cedric Diggory in front of the school; and Diggory had turned it upside down. He had a Galleon in his turn-up. It had rolled there. He had not been able to bring himself to take it out.
+He had given away a thousand Galleons that afternoon. He had seen it coming, the way you see a Bludger, and he had walked down the marble staircase with the bag in his hand, in front of the school. He had a Galleon in his turn-up. It had rolled there. He had not been able to bring himself to take it out.
 
 It had been a stupid thing to do. Hermione had said so, at dinner, in two words, passing him the salt. It had not been for Diggory, whatever he told people. He wanted to get through that door, because there was a very small boy in Slytherin with a piece of paper against his chest and a corridor on the seventh floor in his head, and nobody was going to ask Harry Potter what he wanted with a first-year. He needed a room to put him in. He had looked for the way to do that, and that had been the way. So he had used the money, and the Tournament, and what he had done to Cedric in a hedge. It was very like him. He had thought of that on the stairs.
 
@@ -84,7 +84,7 @@ For some time Diggory didn’t say anything. Neville had stopped breathing. He w
 
 Neville opened his mouth. A small sound came out.
 
-“Monday and Thursday. Bring a clean shirt. Leave the plant.” He looked back at Harry. “That’s most of them. Not you.”
+“Tuesday and Thursday. Bring a clean shirt. Leave the plant.” He looked back at Harry. “That’s most of them. Not you.”
 
 “I know.”
 
@@ -134,11 +134,31 @@ It was the Thursday, in the long room. It had a low roof and a smell of cold dus
 
 “It’s only a Protean Charm,” said Hermione, and dropped one of the Galleons. It rolled, and a very small boy in a bow tie, who had been standing by himself next to the wall trying to look as though he did this every Thursday, got to it first.
 
+The room had gone rather quiet. Fred had stopped smiling. Thirty people were looking at a bow tie, and working out whose.
+
+“Potter,” said Diggory, not loudly.
+
+“You said anybody who asks,” said Harry.
+
+“I did.” Diggory looked down the room for some time at a very small boy with a coin held against his shirt. “Can you keep your mouth shut?”
+
+“Yes,” said Draco. It came out as a squeak, and everybody heard it.
+
+“Then he’s yours,” said Diggory to Harry, “and so is whatever comes of it. Bring a clean shirt.”
+
 Then somebody coughed, and it was Diggory, and Harry had to go and stand at the front.
 
 He didn’t know how to do this. It was absurd. He had done it before, in a room a good deal larger, with a lot of mirrors; he had been fifteen. He stood on the white line, with his back to the wall, and they all looked at him. There was a Hufflepuff girl with a plait and a glove. He could see Ron. He told them what it was for. He told them about the wand movement, and the words. It came to about a minute.
 
 “It runs on a memory,” said Harry. “That’s all. That’s the whole of it. You need the happiest thing you’ve got. Not something you think ought to be. Not your birthday, unless it was. You’ve got to go and look for it and find one that’s real, and stand in it. If it’s not good enough, it won’t come. So you’d better go and have a think, and try it. You don’t have to tell anybody.”
+
+“Show them,” said Diggory, from the wall.
+
+He had known that was coming. He put up his wand and went to look, and it was all there where he had left it: a canvas roof, and a dragon somewhere on the other side of it, and a hand laid over his. It had a wrist on the end of it.
+
+“Later,” said Harry. “They’ll only copy.”
+
+It wasn’t much of an answer. Diggory looked at him for rather longer than it deserved, and let it go.
 
 They told each other at once. It had not occurred to him that they would. He ought to have known. It was a cold room, and there wasn’t anything else to do with your hands, and within five minutes the whole length of it was full of people standing about in twos and threes, with their wands drooping, muttering and looking embarrassed and starting to laugh. Dean’s was a day at West Ham. Seamus’s had a bonfire in it, and his mother’s face, and had to be told twice. Fred and George had one between them and would not say what it was, and it was plainly illegal. A big seventh-year Hufflepuff he had never spoken to said that he had once won a marrow competition, and went red, and looked ready to fight anybody who laughed. Nobody did. Susan Bones’s was her aunt, at Christmas, doing a very bad impression of Madam Pince.
 
@@ -146,7 +166,7 @@ Neville stood by himself with his eyes shut. A wisp came out of his wand, about 
 
 “What was that?” said Harry.
 
-“It’s when it flowered,” said Neville, in a whisper. “The one my mum gave me. Well. She gave me the wrapper. And I grew—” He stopped. “It was only the once,” he said.
+“It’s when it flowered,” said Neville, in a whisper. “She gives me things, when we go. My mum. They’re only rubbish, she doesn’t— I put one in a pot. I was six. I didn’t know it wasn’t a seed.” He stopped. “It was only the once,” he said.
 
 Harry didn’t say anything. He had done this in the other life, and he hadn’t asked. He’d gone along the line and said *Good, try again*. He stood there beside Neville Longbottom in a cold room, and he felt something go through the bottom of his chest, and he said, “Do it again.”
 
@@ -168,8 +188,12 @@ He got to the end of the room. He had told himself that he would stop there, and
 
 “A good one.” His light eyes went to the bandage, and came away from it. He seemed to feel that he had said something rude. “I’ve got quite a lot. I keep getting them out, and they’re all right. I had a very nice time at my nan’s. Only they’ve all got a sort of mark on them now. I look at them, and I think, well, you didn’t know, did you? I don’t know why. It’s stupid. It’s only a hand.”
 
+He looked at it. Then, as if it might be some use to somebody, he felt in his robes with his left hand and got out a small new notebook, and showed Harry the page. There were two columns of something that might have been written by a spider in a high wind.
+
+“I’ve started it again,” said Hopkins. “There’s ten now. Nobody can read it. I’m ever so sorry. I thought that might be quite good.”
+
 Down the room, somebody laughed, and a thin bright thread of silver went up to the ceiling and vanished, and a lot of people cheered.
 
-Harry stood there. He had taught this. He’d had a hundred ways of doing it. He looked at that careful bandage, tied by someone who had done it very neatly; and at the fingers. He knew where she had been sitting. He had got her by the wrist. It had taken him eleven days to find out that you could have those two things in the same hand, and his was in his pocket, and it had closed.
+Harry stood there. He had taught this. He’d had a hundred ways of doing it. He looked at that careful bandage, tied by someone who had done it very neatly; and at the fingers. He knew where she had been sitting. He had got her by the wrist. His hand was in his pocket, and it had closed.
 
 “Sorry,” said Hopkins again, quite quietly, to the wand.
