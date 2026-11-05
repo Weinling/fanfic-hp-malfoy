@@ -36,7 +36,7 @@ Diggory had seen it a second after he did. He finished four lengths behind, flat
 
 “Fourteen weeks,” said Diggory. “*Later*, you said.”
 
-Harry had nothing to say to that. He had made a fox on a hearthrug three Sundays ago, and it had sat down with its chin up, and there was a very small boy in that long room who had grown up looking at that chin across the breakfast table.
+He had made a fox on a hearthrug three Sundays ago, and it had sat down with its chin up, and there was a very small boy in that room behind the kitchens who had grown up looking at that chin across the breakfast table.
 
 “I know,” said Harry.
 

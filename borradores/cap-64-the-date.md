@@ -12,7 +12,7 @@ It was the third Thursday in April, in the long room behind the kitchens, and th
 
 Harry put it up. He had learnt it twice, both times at fourteen, both times for a maze, and nobody had mentioned that part. He stood behind it with his feet where they had been put, and every inch of him wanted to be somewhere else. Five seconds. Six.
 
-“Hopkins does twelve,” said Diggory. “Left-handed.”
+“Hopkins holds twelve,” said Diggory. “Left-handed.”
 
 “Sorry,” said Hopkins, going past.
 
@@ -26,9 +26,9 @@ Diggory took the wand from behind his ear.
 
 “Right,” he said to the room, without raising his voice. “Mr Potter’s going to show you something. He’s been meaning to since November.”
 
-It went quiet from the far end first. Harry turned round. He could see Ron with his arms folded, and Ginny, who had stopped not trying at about Easter. He could see a very small boy in a bow tie, by himself against the wall. He had not said a word in this room since Christmas, and he had gone on coming twice a week, and he looked up now with his pale tired face.
+It went quiet down the length of the room, until there was only Neville, telling somebody’s wand, in the voice he used for the plant, “It knows you’re frightened. It doesn’t mind.” He looked up, and went pink. Harry turned round. He could see Ron with his arms folded, and Ginny, who had stopped not trying at about Easter. He could see a very small boy in a bow tie, by himself against the wall. He had not said a word in this room since Christmas, and he had gone on coming twice a week, and he looked up now with his pale tired face.
 
-Harry had known for some weeks that it couldn’t be the hand. He put up his wand and went along the passage in his head and took hold of a short-legged table with a book under one leg. A ceiling that said *THREE*. Somebody bawling “Mate!” in his ear, with no idea why.
+Harry had known for some weeks that it couldn’t be the hand. There was nothing to be done about the chin. He put up his wand and went along the passage in his head and took hold of a short-legged table with a book under one leg. A ceiling that said *THREE*. Somebody bawling “Mate!” in his ear, with no idea why.
 
 “*Expecto Patronum*,” said Harry.
 
@@ -36,15 +36,15 @@ It came out at a trot. It went up the white line with its brush straight out beh
 
 Nobody said anything. Neville’s third-years had stopped breathing.
 
-“It looks as if you’ve spilt something,” said a very small voice.
+“It looks as if it’s waiting to be thanked,” said a very small voice.
 
 Harry’s heart gave one hard knock. Draco Malfoy had come away from the wall. He was looking at the fox with his head on one side, and no expression on his face at all. He put out one finger towards its ear; it looked at him down its nose, and he took the finger back. Ron, for some reason, had started to cough.
 
-The fox went out. Diggory stood looking at the place where it had been, for rather longer than it deserved.
+The fox went out. Diggory stood looking at the place where it had been.
 
 “I get fog,” he said. He looked at Harry. “Don’t look pleased with yourself. Feet.”
 
-Harry looked down. His left foot had wandered off. He put it back, and he put up his wand, and he stood there behind nothing very much, doing the most boring thing he would ever do, with thirty people going back to work around him.
+Harry looked down. His left foot had wandered off. He put it back, and he put up his wand, and he stood there behind nothing very much, with thirty people going back to work around him.
 
 “Nine,” said Diggory at last, as if it had been got out of him with pliers, and he went away to see what Longbottom was doing to the third-years.
 
