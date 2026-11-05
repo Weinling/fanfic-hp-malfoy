@@ -428,6 +428,10 @@ En orden de lectura. Las fechas marcadas «deducida» no las da el texto: salen 
 
 - **Lectura de Codex aplicada (5 de noviembre):** el grupo de Diggory es rutina de todo el curso: martes y jueves, tras las cocinas; se entra de dos en dos hasta que cae Umbridge (52, 59). Harry va solo los jueves desde febrero; **Neville lleva los martes y a los pequeños**. Harry enseñó el zorro al grupo el 18 de abril, no antes (51b «Later», 60b, 64). Cedric le enseña a quedarse tras el Escudo, y sigue sin Patronus. Hermione y Goyle discuten en las cocinas (64). La tienda de Goyle y Crabbe se nombra por primera vez en la partida (49). **Lemon drop**, nunca «sherbet lemon» (36, 60, 71).
 
+- **73 (19-29 jun. 1996):** ver `cap-73.md`. «Pockets». Cedric deja el grupo a Neville. Lupin mandó el Patronus. Felix en marcha.
+- **74 (29 jun.-1 jul. 1996):** ver `cap-74.md`. Riddle agradece; la rata solo tiene papeles; Lyra, Secret Keeper; caja de veinticuatro. Lyra sabe lo de la fuente.
+- **75 (julio 1996):** ver `cap-75.md`. Libro largo leído. «It was *mine*.» Draco libre de la caja y fuera de la Marca; Lyme a crédito. Amelia Bones muerta el 25 de julio (*Prophet* del 26). La letra era la de Crabbe.
+
 ## 5. Fichas vivas
 
 Al final del 57.

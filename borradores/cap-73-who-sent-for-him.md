@@ -8,7 +8,11 @@ She told it standing up, with her back to the window and the wand in her hand, a
 
 It stopped. He saw her throat move. She looked at the wall, where a kitten in a bonnet had gone to sleep with its mouth open, and she got her breath in, and when her voice came back it had a crack in it from one end to the other.
 
-“He said he’d feed her to the crabs,” said Lyra. “And he *went*. They told him it was about his brother, and he went. I did that. I got it right, Potter, I had every single line of it *right*—”
+“He said he’d feed her to the crabs,” said Lyra. “And he *went*. We told him it was about his brother, and he went. I did that. I got it right, Potter, I had every single line of it *right*—”
+
+Then she went. She bent in the middle, and a noise came out of her that he had never heard, high and ugly, like a child who has run too far. His hand went out. He hadn’t sent it. She saw it come, and her whole body went back against the window-frame, and her wand came up; and they both looked at that. He put the hand down.
+
+“Go on,” said Lyra, when she could.
 
 Harry hadn’t sat down. Nobody had asked him to. He told her the moor, and it took less time than he’d have thought: page 71, and the letter about the seven, which had been rubbish, and forty-one sheep. He told her what he had put into Hermione’s hands. He told her about the owl every morning, to the bothy and nowhere else. Then he felt in his robes, and it was still there, gone soft along the folds. He held it out by one corner, and she took it by another.
 
@@ -26,7 +30,7 @@ He watched her read it. He watched her go down it, as he had gone down it on a f
 
 “And that was when you—”
 
-She didn’t finish it. She stood holding the bit of parchment, and they had it all out on the carpet between them now, the two halves of it. He had moved Sirius because she sat at a table with a man who read people. She had moved him because somebody was going to need bait. They had each looked at the only other person in the world who could have helped. They had each thought of something very kind. On the last night they had sat in that chair with her hand in his and their mouths shut, and the two things had fitted together so exactly that you’d have thought it had taken years of planning.
+She didn’t finish it. She stood holding the bit of parchment, and they had it all out on the carpet between them now, the two halves of it. They had each looked at the only other person in the world who could have helped, and thought of something very kind. On the last night they had sat in that chair with her hand in his and their mouths shut, and the two things had fitted together so exactly that you’d have thought it had taken years of planning.
 
 “You could have told me,” said Harry.
 
@@ -48,7 +52,7 @@ His voice had gone again, and it came out scraped. He looked at the pale square 
 
 “I know,” said Lyra. “I was there.”
 
-“You said—”
+“You were trying to say—”
 
 “I didn’t say anything. That was rather the point.”
 
@@ -88,7 +92,7 @@ He had never been so aware of his hands in his life.
 
 “Don’t go,” said Harry.
 
-He heard it as it came out. He had said that in an Owlery, a year ago, with his leg bleeding. He had heard her say it yesterday, in this room, with her back to a fire. So had she. The corner of her mouth moved, and it was terrible to see.
+He heard it as it came out. He had said that once, with his hand round her arm. He had heard her say it yesterday, in this room, with her back to a fire. So had she. The corner of her mouth moved, and it was terrible to see.
 
 “*Go?*” said Lyra. “Go where? I signed it, you stupid boy. I wrote it out and dried it and put the date.” Her voice went. She stood and waited for it, and got it back, and it was very nearly level. “It says *not repayable*. It doesn’t say I have to like it.”
 
@@ -146,7 +150,7 @@ Neville looked at him, with his round mild eyes. He rubbed the slate on his slee
 
 *ALL RIGHT*
 
-There was no question mark on it this time. He held it up and went on holding it. Harry found that he needed to look at the window.
+He held it up and went on holding it. Harry found that he needed to look at the window.
 
 “Don’t encourage him,” said a voice from the next bed. “I’ve had that for two days.”
 
@@ -192,13 +196,15 @@ Lupin’s face did not change. He had been waiting for that, Harry saw. He had b
 
 The dog sighed, and put its chin down.
 
-“Ron got to McGonagall at ten past four. She got to Moody. We were at Grimmauld Place inside ten minutes, those of us who could be. We’d been looking for Sirius for twelve days, you know; he left a note on the kitchen table saying that he’d gone to see a man about a sheep.” It was a quiet, rusty voice, and it went on without any particular expression. “Moody said, get Black. He said he’d take every wand he could lay hands on, and he didn’t care where it had been. You can’t send an owl to nowhere. There’s an old thing we used, in the last war. It isn’t in the books. You can give a Patronus something to say, and think of a person, and it goes. It doesn’t need an address. It’s the fastest thing I’ve ever owned.” He looked at his hands. “It found him on a wall in Dorset. He told me that himself, going down the stairs at the Ministry, at a run. He seemed to think it was funny.” He stopped for a little. “*They’ve got Harry. The Ministry. Come now.* That was all it said. It says it in your own voice. That’s how they know it’s you.”
+“Ron got to McGonagall at ten past four. She got to Moody. We were at Grimmauld Place inside ten minutes, those of us who could be. We’d been looking for Sirius for twelve days, you know; he left a note on the kitchen table saying that he’d gone to see a man about a sheep.” It was a quiet, rusty voice, and it went on without any particular expression. “Moody said, get Black. He said he’d take every wand he could lay hands on, and he didn’t care where it had been. I’d sent four owls. He sent them back with drawings of a sheep. There’s an old thing we used, in the last war. It isn’t in the books. You can give a Patronus something to say, and think of a person, and it goes. It doesn’t need an address. It also shows for ten miles and tells anybody watching just where he is, so we’d kept it back. It’s the fastest thing I’ve ever owned.” He looked at his hands. “It found him on a wall in Dorset. He told me that himself, going down the stairs at the Ministry, at a run. He seemed to think it was funny.” He stopped for a little. “*They’ve got Harry. The Ministry. Come now.* That was all it said. It says it in your own voice. That’s how they know it’s you.”
+
+He had seen that done, at a wedding: a lynx, landing among the chairs. It hadn’t once crossed his mind.
 
 Neither of them said anything. Down the ward, a spoon rang on a plate.
 
 *Sit down, Harry*, she had said. She’d held it up in front of his face, in his own writing, with a reference.
 
-So that was the sum. He stood by an empty bed in the smell of fish pie, and he did it, and it was very short. If he had sat down on that step, Ron wouldn’t have run. If Ron hadn’t run, nobody would have gone to Moody. Nobody would have needed a wand. Nothing silver would have gone over Salisbury Plain at four in the afternoon looking for somebody, and at about the time that Harry Potter was handing in a History paper with one sentence not quite finished, a man in a plum-coloured waistcoat would have been sitting on a wall by the sea with his boots hanging over, swearing at his cousin, and eating an ice.
+So that was the sum. He stood by an empty bed in the smell of fish pie, and he did it, and it was very short. If he had sat down on that step, Ron wouldn’t have run. If Ron hadn’t run, nobody would have gone to Moody. Nobody would have needed a wand. Nothing silver would have gone over Salisbury Plain looking for somebody, and at about the time that Harry Potter was handing in a History paper with one sentence not quite finished, a man in a plum-coloured waistcoat would have been sitting on a wall by the sea with his boots hanging over, swearing at his cousin, and eating an ice.
 
 He had been safe. He’d been safe twice. Harry had seen to it, and she had seen to it, and it had worked. It had all worked. And then the one thing in the whole of England that could reach him had got up off a step and run.
 
@@ -224,7 +230,7 @@ It was the first thing he had said to Harry for twenty-seven days.
 
 Ron nodded. He hitched up the broom and went on down. His big feet went away round the turn of the stair, and on, and across the landing. He didn’t look back.
 
-Harry stayed where he was. A boy who had once sat on a roof on Rannoch Moor with his tongue between his teeth and a mouthful of nails had said four words to him, and he thought that he might have those. Nobody had said he couldn’t. He stood on the step and held on to them for a bit, in the pocket with his hand.
+Harry stayed where he was. A boy who had once sat on a roof on Rannoch Moor with his tongue between his teeth and a mouthful of nails had said three words to him, and he thought that he might have those. Nobody had said he couldn’t. He stood on the step and held on to them for a bit, in the pocket with his hand.
 
 ⁂
 
@@ -236,7 +242,7 @@ It was what they did. It went on for nine nights. He wouldn’t have told you it
 
 On the third night he brought a cauldron.
 
-He had got the recipe by heart, in another life, out of somebody else’s handwriting, and he had got the first of what he needed from the third shelf on the left, and written it down in the book. It wanted a low fire and a great deal of patience, and it would be ready, if he didn’t kill it, some time before Christmas. He couldn’t have said that he had a plan. He’d stopped having those. He had lain awake and looked at a staircase, and a boy on it with a square of parchment in his hand, and he had thought: *It wasn’t that I didn’t know. I knew everything. I just didn’t know which foot.* There was a thing that did that for you. For about twelve hours, there was a thing that told you where to put your foot.
+He had got the recipe by heart, in another life, out of somebody else’s handwriting, and he had got the first of what he needed from the third shelf on the left, at night, under the Cloak, and not written it down in any book. It wanted a low fire and a great deal of patience, and it would be ready, if he didn’t kill it, some time before Christmas. He couldn’t have said that he had a plan. He’d stopped having those. He had lain awake and looked at a staircase, and a boy on it with a square of parchment in his hand, and he had thought: *It wasn’t that I didn’t know. I knew everything. I just didn’t know which foot.* There was a thing that did that for you. For about twelve hours, there was a thing that told you where to put your foot.
 
 He lit it. He knelt there in the thin bright smell, stirring it the wrong way round, nine times, with his sleeves rolled up.
 
@@ -252,9 +258,9 @@ He got down from the train at the back of the crowd, with his trunk and an empty
 
 The Slytherins had got out at the front.
 
-He saw it from thirty yards away. It was like watching iron filings on a sheet of paper. There must have been forty of them on that stretch of platform, with their parents, and there was a space in the middle, about the size of a good carpet, and everybody on the edge of it was standing with their feet turned slightly inwards. Montague had taken his hat off. Parkinson had got hold of a trunk that wasn’t his. Harry saw old Nott bend from the waist, by about an inch, over a very thin white hand; and he saw a thickset woman in black, who had a husband in the Ministry cells since Tuesday week, take a step forward and say something, low and warm, and press the thin hand between both of her own.
+He saw it from thirty yards away. It was like watching iron filings on a sheet of paper. There must have been forty of them on that stretch of platform, with their parents, and there was a space in the middle, about the size of a good carpet, and everybody on the edge of it was standing with their feet turned slightly inwards. Montague had taken his hat off. Parkinson had got hold of a trunk that wasn’t his. Harry saw old Nott bend from the waist, by about an inch, over a very thin white hand; and he saw a thickset woman in black, who had had a husband in the Ministry cells since a week last Tuesday, take a step forward and say something, low and warm, and press the thin hand between both of her own.
 
-It had gone round. Of course it had. Eleven men had been in that line and any one of them could talk. *You may tell my daughter it was very well done.*
+It had gone round. Of course it had. Any man in that line could talk. *You may tell my daughter it was very well done.*
 
 She stood in the middle of it, in a long pale travelling cloak, with her hair up, and she inclined her head to Mrs Crabbe exactly as far as was correct. Her mother was behind her with one hand flat on the top of Draco’s head. There was a lot of green and silver, and it looked at her as if she had a crown on.
 
@@ -274,7 +280,7 @@ It was for anybody to hear. She looked him up and down, as you’d look at somet
 
 It was very quiet. Her lips hardly moved. He thought that he had never heard her say anything with so little in it. A long way down the platform a guard was shouting about a door, and Mrs Crabbe was still looking at her, with that warm grateful stupid face.
 
-He could have done it. He had it ready. It was only three words long. He’d had it since the fountain, and he had got up with it and cleaned his teeth with it, and he looked at her, and he thought of a green fire, and a breath going in. Of how she had stopped, in that room, for just about as long as it takes to rule a line. He’d seen that. He knew what he’d seen. He had not looked at it since, and he found that he’d walked all round it, all week, as you walk round something in the road.
+He could have done it. He had it ready. It was only three words long. He’d had it since the fountain, and he had got up with it and cleaned his teeth with it, and he looked at her, and he thought of a green fire, and a breath going in. Of how she had stopped, in that room, and looked at Hermione. He’d seen that. He knew what he’d seen. He had not looked at it since, and he found that he’d walked all round it, all week, as you walk round something in the road.
 
 She had moved her hand. He looked down. She had taken a fold of his sleeve, just above the cuff, between her finger and thumb. No more than that. You couldn’t have seen it from a yard away. He could feel it all the way up his arm.
 
