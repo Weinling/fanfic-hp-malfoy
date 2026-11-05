@@ -25,7 +25,7 @@ Ignora el resto de borradores/, sobre todo guion-tanda-73-84.md hasta la fase 2.
 TU PRIORIDAD
 Coherencia: que no haya nada fuera de lugar. Que sea disfrutable y de alta calidad. Que cumpla lo que se propone. Puedes dar ideas si encajan mejor que lo que hay, pero van después de eso.
 
-LO QUE NADIE HA REVISADO BIEN (léelo con especial cuidado)
+LO QUE NADIE HA REVISADO BIEN (léelo con especial cuidado; números de archivo)
 - 39: el final se rehízo y, después de su crítica, cambió otra vez: sin exclamaciones en el derrumbe y con la frase sobre «Put it on the bill».
 - 59: reescrito en parte; solo se criticaron trozos.
 - 62: el paquete de Goyle y el reparto de la operación.
@@ -33,13 +33,13 @@ LO QUE NADIE HA REVISADO BIEN (léelo con especial cuidado)
 - Retoques sin crítico: 40, 41, 42, 43, interludio-2, 44, 46, 53, 57, 61, 64, 66, 67, 69, 70.
 - 58 y 69: solo se miraron las escenas nuevas.
 
-CRÍTICO COMPLETO EN ESTOS CAPÍTULOS
+CRÍTICO COMPLETO EN ESTOS CAPÍTULOS (números del lector)
 Nota, lo mejor, lo peor, qué sobra y qué falta: 39 Never Lied; 45 Trials; 46 Rounds; 52 Lanterns; 53 Nobody; 55 Two Hours; 56 Him, and Now You; 63 In Public; 65 Three; 67 The List; 71 Bothy; 73 Through a Door; 77 Mid-Sentence; 78 Mine.
 
-LO QUE QUIERO QUE COMPRUEBES
+LO QUE QUIERO QUE COMPRUEBES (aquí los números son los de archivo)
 1. La prueba principal: ¿notas qué capítulos son nuevos? ¿Se ve la costura entre prosa antigua y nueva, en tono, voz o ritmo? ¿La sensación de amistad es constante o son parches? ¿Sigue la energía, o los nuevos frenan?
 2. El grupo de Diggory: tras «Two Hours» desaparece del texto de enero a junio, y luego Neville y Cedric le siguen al Ministerio. Sé que es un hueco: dime cuánto pesa y dónde iría lo mínimo.
-3. Ron sabe lo de Lyra desde «Bothy». ¿Choca con algo antes o después, sobre todo en 67, 68 y 71 de trabajo?
+3. Ron sabe lo de Lyra desde «Bothy». ¿Choca con algo antes o después, sobre todo en 67, 68 y 71?
 4. Goyle: ¿tiene vida propia o solo cuida? ¿Encajan la cocina, Hopkins, Draco y el paquete con cómo era hasta el 37?
 5. Crabbe y Nott: ¿se lee sin subrayar, y encaja con lo publicado en 29 y 32?
 6. La apuesta de los Cannons: 53, 59, 60b, 70. Y el Patronus: Harry no puede conjurarlo delante de todos en «Two Hours», y en el 59 sí. ¿Se entiende por qué?
