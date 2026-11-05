@@ -2,33 +2,29 @@
 
 They held it in the Hufflepuff corridor, by the barrels, because Slytherin had nowhere that would have done.
 
-It wasn’t anybody’s idea, or it hadn’t started as one. Professor Sprout had offered the use of a greenhouse. Snape had said something brief in the Great Hall on the Monday about a student of his House, and a heart. Her mother had come for her on the Tuesday, and there would be something private, in the north, with a very small number of people, and it was understood that nobody from the school would be going. And then, on the Thursday, at about four in the afternoon, with the snow coming down past the high barred windows and the whole castle smelling of wet wool and last lessons, Harry had come along the passage by the kitchens on his way to nowhere, and found it full.
+Her mother had come for her on the Tuesday, and nobody from the school would be going to the north. So on the Thursday, at about four in the afternoon, with the snow coming down past the high barred windows, Harry came along the passage by the kitchens on his way to nowhere, and found it full.
 
 There must have been eighty of them. They were standing along both walls, not saying very much. Somebody had brought a chair and put it by the pear. On the chair was a plate.
 
 Hopkins had done that. He had carried it up from the kitchens himself, with his left hand and his forearm, and set it down, and stepped back. It was a slice of fish pie. It had gone a bit cold. He stood looking at that, long and mild, with his bad hand against his chest, and he didn’t appear to be going to say anything. There was a house-elf beside the chair, and another, and then you noticed that there were a good many, in a row, along the skirting, with their ears down. They had brought a very small loaf.
 
-Nobody had organised anything. They just came up, as you’d go up for a Sorting. A second-year put down a bun. Nott stood there for some time with his long dull careful face, and took a chess piece out of his pocket, and looked at it, and put it back. He went and stood beside a thickset girl who wasn’t looking at him; and after a while, without turning her head, she moved over by about an inch. Weasley’s team had turned up, in their scarves. Ron had his hands jammed in his pockets, and he was scowling at the floor with his ears red. He’d said a thing about a pie, at dinner on Sunday, to nobody, in a thick voice, and gone out.
+Nobody had organised anything. They just came up, as you’d go up for a Sorting. A second-year put down a bun. Nott stood there for some time with his long dull careful face, and took a chess piece out of his pocket, and looked at it, and put it back. He went and stood beside a thickset girl who wasn’t looking at him; and after a while, without turning her head, she moved over by about an inch.
 
 There was a sort of hiccup, by the wall.
 
 Harry looked round. Everybody did. Hermione Granger was standing with her back to the stone, with a bag of woolly hats held against her chest in both arms. She had her chin up. She was crying. It wasn’t what you would have called discreet. It was coming out of her in great tearing ugly gulps, with her mouth square and her nose running, like a child of about six, and she made no attempt to do anything about it; she stood there in front of half the school and howled. Harry had known her since she was eleven, in two lives. She’d cried for him; he had seen her cry for Ron. He had never heard that noise. “She *said*,” Hermione was saying. “She said there was too much sugar in the— I was going to— I’d got a *rota*—” Nobody had been expecting it. Goyle had been a Slytherin. Ginny went over, without any hurry, and stood next to her. She took one hand off the bag, and held it.
 
-Blaise Zabini had come by the back way. He didn’t look at anyone. He was as elegant as a knife. He walked up the middle of the passage, between the two rows, and it went quiet, and he stopped by the chair. He felt in his top pocket. He took out a small white square of card, and he stood for a moment holding that. He didn’t write anything on it. He laid it on the edge of the plate, face up, and aligned it; and he turned and walked back the way that he had come.
-
 Crabbe went last.
 
-She had been standing at the far end. They made room for her. It took her some time to come; she walked as though she was carrying something, slowly, with her big plain pale face looking straight in front of her. She stopped at the chair. She put her hand into the pocket of her robes. She brought out a piece of greaseproof paper, folded small. She laid that on the seat. She went on. She had been wearing those robes for some weeks, it seemed, and she had got them from somewhere; there was a toffee paper, and a stub of pencil. There was a recipe for something, on the back of a page of Arithmancy, in a big slow round hand. There was a bit of string. She got out a long thin sheet, with figures on it, *Eight Galleons a quarter*, and an estimate from a man in Tutshill for a slab of Welsh marble. She emptied one pocket and then the other. She turned them inside out. She took her time. She stood and looked at it all, lying on the chair, with her hands empty at her sides.
+She had been standing at the far end. They made room for her. It took her some time to come; she walked as though she was carrying something, slowly, with her big plain pale face looking straight in front of her. She stopped at the chair. She put her hand into the pocket of her robes. She brought out a piece of greaseproof paper, folded small. She laid that on the seat. She went on. She had been wearing those robes for some weeks, it seemed, and she had got them from somewhere; there was a toffee paper, and a stub of pencil. There was a recipe for something, on the back of a page of Arithmancy, in a big slow round hand. There was a bit of string. She got out a long thin sheet, with figures on it, *Eight Galleons a quarter*, and an estimate from a man in Tutshill for a slab of Welsh marble. She emptied one pocket and then the other. She turned them inside out.
 
-She didn’t cry. She looked up. It was the first time that Harry had seen her look at anyone directly since a Tuesday in November. She looked along the wall, slow and careful and thorough, at a person who was standing by herself, a little apart, with a good three feet of stone on either side of her that nobody had liked to fill.
+She didn’t cry. She looked up. She looked along the wall, slow and careful and thorough, at a person who was standing by herself, a little apart, with a good three feet of stone on either side of her that nobody had liked to fill.
 
 He’d been trying not to. He looked.
 
-She was in black. She’d got her hair up. She was the colour of the snow on the sill, and she stood very straight, with her hands held together in front of her, and she was wearing a pair of old grey woollen gloves, that didn’t fit. He could see that from here. One thumb was a good deal too long. There was nothing on her face at all. There hadn’t been since Sunday. He’d looked at it at ten past eight on four mornings, as you’d look at the clock. *Bacon*, she had said. It had been the last thing that had happened. It had been about twenty-three hours before.
+She was in black. She’d got her hair up. She was the colour of the snow on the sill, and she stood very straight, with her hands held together in front of her, and she was wearing a pair of old grey woollen gloves, that didn’t fit. He could see that from here. One thumb was a good deal too long. There was nothing on her face at all. There hadn’t been since Sunday. He’d looked at it at ten past eight on four mornings, as you’d look at the clock.
 
-He had thought about that a good deal. He had stood on a stair, with something opening in his chest that he’d thought had died. And on the Sunday he’d been in the common room, and someone had come running. He had seen her at dinner. *How dreadful*, she’d said. He had heard about it. It had been very well done.
-
-Crabbe’s eyes rested on her for about as long as it takes to read a line. Then they moved away.
+Crabbe’s eyes rested on her for a while. Then they moved away.
 
 His pocket had got warm.
 
@@ -60,7 +56,7 @@ He read it. He read it twice. There was a roaring noise, somewhere, and it seeme
 
 “When did you get this?”
 
-“This morning. It was on my plate.” *Hic*. “Nobody saw. I was so—” He stopped. Something had started to happen to his mouth, and he did something to it, with his teeth. “He said that I would do. He said so again. I went at lunchtime. I know all her hiding places, she thinks that I don’t. It was where he said. She’d put it back very neatly. It had a card in it. I didn’t want to look. I was told not to, in the summer. But it’s not— It’s not mine now. She took it. So I thought that it was all right.”
+“This morning. It was on my plate.” *Hic*. “Nobody saw. I was so—” He stopped. Something had started to happen to his mouth, and he did something to it, with his teeth. “He said that I would do. He said so again. I went at lunchtime. I know all her hiding places, she thinks that I don’t. It was locked. I’ve always had a key. It was where he said. She’d put it back very neatly. It had a card in it. I didn’t want to look. I was told not to, in the summer. But it’s not— It’s not mine now. She took it. So I thought that it was all right.”
 
 He unwound the scarf.
 
@@ -82,7 +78,7 @@ One gap.
 
 *Her heart*, somebody had said.
 
-He stayed there, on one knee. The torch was hissing. He looked at the small brown mark; he didn’t seem to be able to look at anything else. He had seen a girl go up the Great Hall with a tray. *You want to mind the grain*. There was a very large soft person who had once set down a side of pork on a desk, and hadn’t asked. There was a boy looking at him across a Hall, across a heap of toast and marmalade. It was as if someone had taken hold of the inside of his chest, quite gently, and started to turn it.
+He stayed there, on one knee. The torch was hissing. 
 
 “She gave me pastry,” said Draco.
 
@@ -96,7 +92,7 @@ Harry put out his hands. He didn’t think about it. He took hold of the end of 
 
 “You told me,” said Harry. His voice was very strange. “You did it right. You did exactly right. D’you hear me? You told me first. You don’t have to go anywhere. You’re not going to the seventh floor, you’re not going anywhere, you’re going to go with Neville. You know Neville. You’re going to go to the greenhouse, with Neville, now, and stay there till somebody comes. I’ll fix it. I’ll fix it, I swear. Give me that.”
 
-He took the sheet of paper. He had got his coin in his hand, and he pressed. Very quickly and rather clumsily he made it say what you’d make it say; somewhere at the far end of the passage, by a chair with a slice of pie on it, a boy with a crooked jaw would be feeling in his pocket. He stood up. He had the box under his arm. He looked at it. He looked at his right hand. It lay there at the end of his wrist, quite still, with the white letters on it, and it wasn’t shaking at all.
+He took the sheet of paper. He had got his coin in his hand, and he pressed. Very quickly and rather clumsily he made it say what you’d make it say; somewhere at the far end of the passage, by a chair with a slice of pie on it, a boy with a crooked jaw would be feeling in his pocket.
 
 His ring had started to burn.
 
@@ -114,9 +110,9 @@ He could hear the water from the end of the corridor. There was a tap running, o
 
 She was at the sinks.
 
-She was on the floor. He didn’t see her, for a moment, and then he did. She had got down on the wet stone, at the foot of the big round basin with the snake on the tap, with her back against it and her legs anyhow. She’d lost a shoe. Her hair had come down. He had seen that in a gale, and he’d seen it in a green fire. He’d never seen it like that, in wet ropes, stuck to her face. She had taken off the black robe, and it lay in a heap in a puddle, and she was holding on to something, with her arms wrapped round it. It was a pair of grey gloves. She had got them pressed against her mouth.
+She was on the floor. He didn’t see her, for a moment, and then he did. She had got down on the wet stone, at the foot of the big round basin with the snake on the tap, with her back against it and her legs anyhow. She’d lost a shoe. Her hair had come down. He had seen that in a gale, and he’d seen it in a green fire. He’d never seen it like that, in wet ropes, stuck to her face. She was holding on to something, with her arms wrapped round it. It was a pair of grey gloves. She had got them pressed against her mouth.
 
-She was crying. It wasn’t anything that he had ever heard. He’d thought that he had. He’d heard it in an Owlery; he had made that happen. That had been a girl of fifteen. This hadn’t got any age. Her mouth was wide open, against the wool, and her whole face had gone into it, and her eyes were shut. It came up out of her, and it had no shape, no breath, no end. It was what you’d hear from an animal in a trap, if the trap had been there for a very long time. She had been doing it for hours. It was the first time since Sunday. He knew that. Nobody in the world had seen this. She had got her left arm clamped against her ribs, and she was rocking, a very little, backward and forward, on the stone, and she was saying something. It was one word, over and over. He couldn’t make it out. It might have been a name. It might have been *nice*.
+She was crying. It wasn’t anything that he had ever heard. Her mouth was wide open, against the wool, and her whole face had gone into it, and her eyes were shut. It came up out of her, and it had no shape, no breath, no end. It was what you’d hear from an animal in a trap, if the trap had been there for a very long time. She had been doing it for hours. It was the first time since Sunday. He knew that. Nobody in the world had seen this. She had got her left arm clamped against her ribs, and she was rocking, a very little, backward and forward, on the stone, and she was saying something. It was one word, over and over. He couldn’t make it out. It might have been a name. It might have been *nice*.
 
 He’d stopped in the door.
 
@@ -136,7 +132,7 @@ It wasn’t loud. It went round the walls and came back.
 
 She lifted her head.
 
-He hadn’t been ready for her eyes. They were swollen nearly shut. There was nothing left of her face but that. She looked at his boots, and up. She looked at the box. He saw it reach her, slowly, from a long way off; he saw her lips go together. She didn’t scream, or start. She got one hand down on the stone. Her fingers scrabbled. She got it under her, and then her knee, and she began to get up. It took a long time. She held on to the basin. She pulled herself up it, an inch at a time, with the water running down her, and her hair in her mouth. She stood. She had one shoe on, and she stood there, swaying, in a white shirt, with her left arm pressed in against her side, and she got her chin up. God knows how. It was shaking so much that she could hardly keep it there. She looked at him, out of what was left.
+He hadn’t been ready for her eyes. They were swollen nearly shut. There was nothing left of her face but that. She looked at his boots, and up. She looked at the box. He saw it reach her, slowly, from a long way off; he saw her lips go together. She didn’t scream, or start. She got one hand down on the stone. Her fingers scrabbled. She got it under her, and then her knee, and she began to get up. It took a long time. She held on to the basin. She pulled herself up it, an inch at a time, with her hair in her mouth. She stood. She had one shoe on, and she stood there, swaying, in her black robes, with her left arm pressed in against her side, and she got her chin up. God knows how. It was shaking so much that she could hardly keep it there. She looked at him, out of what was left.
 
 “Draco,” she said. It was a dreadful voice. There wasn’t anything of it. “Where’s—”
 
@@ -144,7 +140,7 @@ He hadn’t been ready for her eyes. They were swollen nearly shut. There was no
 
 She didn’t say anything.
 
-“It wasn’t her *heart*. Was it? I’ve been looking at you for five days. You stood at the table. *Poor Goyle*. I heard. I thought— I don’t know what I thought. On the stairs. I thought that you’d— She made you a *sandwich!* She made you a sandwich every day for six months!” His voice had cracked. It went up, and it broke; he heard it go; and something ran down the side of his nose, and it was wet. He was crying. He hadn’t known. It wasn’t what you’d have called noble. It didn’t feel like grief. It was all coming at once, it had been dammed up behind that polite tired face since a morning in June, and it was mostly rage, it was six months of a chair nine feet away; it was *Herodotus*, it was *How nice*, it was every word that she had said to the air over his left shoulder. “You let me think— You sat there! I’ve been— I said *Please come*, I did that to you, I’ve wanted to cut my tongue out; and you’ve got this, you had this in a *boot*, all the time, and I’ve been— Who are you? Who *are* you? I asked you! I stood there and I asked you who you were talking to!”
+“It wasn’t her *heart*. Was it? I’ve been looking at you for five days. You stood at the table. *Poor Goyle*. I heard. I thought— I don’t know what I thought. On the stairs. I thought that you’d— She made you a *sandwich!* She made you a sandwich every day for six months!” His voice had cracked. It went up, and it broke; he heard it go; and something ran down the side of his nose, and it was wet. He was crying. He hadn’t known. It wasn’t what you’d have called noble. “You let me think— You sat there! I’ve been— I said *Please come*, I did that to you, I’ve wanted to cut my tongue out; and you’ve got this, you had this in a *boot*, all the time, and I’ve been— Who are you? Who *are* you? I asked you! I stood there and I asked you who you were talking to!”
 
 Her lips had moved. It might have been *Stop*. Her eyes had gone very wide, and they’d gone to the wall, the door, the empty stalls. Her right hand had started to come up, palm out. She was shaking her head. She shook it, a very small quick shake. *No*. He’d seen her do that, across a room, once, in a dream.
 
@@ -168,15 +164,15 @@ He saw that. He would see that till he died. He saw her hear what she was saying
 
 She took it down.
 
-She did it. He saw her. It was the hardest thing that anybody had ever done. It took the whole of her. Her arm shook, from the shoulder; it came down an inch, and another, it was like watching someone lift a house. She lowered it. She had got it nearly to her side. A half a word doesn’t do anything. He knew that. Everyone knew that. There’d been nothing there, nothing had touched him, there wasn’t so much as a spark. She had stopped. She’d stopped herself, in the middle, with her teeth, in the worst hour of her life, and she stood there with her empty face turned up to him and her mouth bleeding. She had got her hand down.
+She did it. He saw her. It was the hardest thing that anybody had ever done. It took the whole of her. Her arm shook, from the shoulder; it came down an inch, and another, it was like watching someone lift a house. She lowered it. She had got it nearly to her side. Half of that word did nothing. It wanted meaning, to the end, and she had bitten off the end. There’d been nothing there, nothing had touched him, there wasn’t so much as a spark. She had stopped. She’d stopped herself, in the middle, with her teeth, in the worst hour of her life, and she stood there with her empty face turned up to him and her mouth bleeding. She had got her hand down.
 
 And his arm had come up.
 
-He hadn’t lifted it. He felt it go. He looked. It rose from the shoulder, very smooth and level, with no weight in it at all. It had the wand in it. He didn’t know when. It had been lying on a step; it had been in his pocket. It knew this room. It knew the wet floor, and the long cracked mirror, and the taps. It had been here before. There’d been somebody by that basin, at sixteen, in the other life, crying, with their hair in their eyes. They had looked up. A wand had come out, and someone had said a word that he didn’t catch. It was the same. It was all exactly the same. It had a taste like a coin. It came up out of the floor of him, up a long dark groove that had been waiting there since a corridor when he was eleven. He knew what it was. He knew exactly what it was. He saw her wand go down.
+He hadn’t lifted it. He felt it go. He looked. It rose from the shoulder, very smooth and level, with no weight in it at all. It had the wand in it. He didn’t know when. It knew this room. It had a taste like a coin. It came up out of the floor of him, up a long dark groove that had been waiting there since a corridor when he was eleven. He knew what it was. He knew exactly what it was. He saw her wand go down.
 
 *No*, he thought. *She’s stopped. She’s stopped, look at her, she’s stopped*—
 
-*Mine*, it said. Very quietly, behind his right ear. It was so pleased.
+*Mine*, it said. Very quietly, behind his right ear. It was so pleased. For an instant, God help him, so was he.
 
 He tried. He’d say that for himself. He would say that to anybody, in a very long life, and it wouldn’t help. He threw his whole weight against it. He saw her face, a yard away. She had looked up. She’d seen. He saw her see, he saw her eyes go to the end of his arm, and she didn’t move. She didn’t lift a finger. She stood there. She had taken a good look at that, some time ago, in a wardrobe, and she knew what it was. He got his mouth open. He had the whole of his breath. It was the only thing that was still his. He tried to get it out, with everything that he had, the one word, to get her out of the way, to get her out from in front of it; he screamed at her, with his throat tearing, from the bottom of two lives.
 
@@ -190,11 +186,11 @@ And the other came out on the same breath.
 
 He had got it wrong, about the noise. He’d thought that there would be one.
 
-There wasn’t a flash. She didn’t cry out. She made a very small sound, of surprise, like somebody who has been told something interesting. Her head went back a little. She took one step. There was a line on her white shirt, that went from the left side of her neck down across her arm, as neat as the crease in a letter; he saw it, he’d have sworn that it was a thread. Then the line had a good deal of width. Then she was sitting down, in the water, with her back against the basin, and her legs folding under her, as if somebody had told her that she could. She was looking at him. She looked as if she was going to ask him something.
+There wasn’t a flash. She didn’t cry out. She made a very small sound, of surprise, like somebody who has been told something interesting. Her head went back a little. She took one step. There was a line on the black of her robe, that went from the left side of her neck down across her arm, as neat as the crease in a letter; he saw it, he’d have sworn that it was a thread. Then the line had a good deal of width. Then she was sitting down, in the water, with her back against the basin, and her legs folding under her, as if somebody had told her that she could. She was looking at him. She looked as if she was going to ask him something.
 
 The water had started to change colour.
 
-He’d dropped his wand. No. He had it. He didn’t know how he’d got there. He was on his knees. He had crossed the floor, there was a lot of water, and it was warm; it had got into his sleeves. He’d got his hands on her. *Don’t*, he was saying. *Don’t, don’t, don’t, no, no, please, I didn’t, no*— It came up between his fingers. There was so much. Nobody had told him. There had been a side of pork. He pressed, and it came up round the edges of his hands, in time with something. He got his wand. He’d got it. He knew this. It had taken him thirteen weeks. *You will not be in a state to sing*. You held it an inch above; against the direction of the wound. There were three notes and a fourth. He opened his mouth.
+He’d dropped his wand. No. He had it. He didn’t know how he’d got there. He was on his knees. He had crossed the floor, there was a lot of water, and it was warm; it had got into his sleeves. He’d got his hands on the place. *Don’t*, he was saying. *Don’t, don’t, don’t, no, no, please, I didn’t, no*— It came up between his fingers. There was so much. Nobody had told him. There had been a side of pork. He pressed, and it came up round the edges of his hands, in time with something. He got his wand. He’d got it. He knew this. It had taken him thirteen weeks. *You will not be in a state to sing*. You held it an inch above; against the direction of the wound. There were three notes and a fourth. He opened his mouth.
 
 It came out as a sort of croak. He tried again. He sang. He knelt in the red water of the girls’ bathroom on the second floor, with the tears running into his mouth, and he sang, in a cracked high tuneless shaking voice, up and down, the song that he had learnt for a leg of mutton. His hand was jumping. It closed. It closed for about an inch, like a badly sewn pocket, and it came undone. *Again*, somebody said. *The patient has by now bled to death*. He couldn’t breathe. If you stopped to breathe it came undone. Her sleeve had gone. It had been cut through from the shoulder, and it fell open along her arm, wet and heavy; and he dragged it back, to see, to get at it, with his red slippery fingers. He looked.
 
@@ -216,7 +212,7 @@ She looked at him. There was something at the corner of her mouth. It was very n
 
 “Hold it,” said Lyra.
 
-He couldn’t see. He held it. He held it as you’d hold an egg, or a lit match, as he had held it on a hill, in the snow, with her teeth chattering, a hundred years ago. He’d been told that he could. She had said. *Until I tell you*. He put his forehead down on her arm. He had got his other hand on the wound, and he’d got his wand in that, and he started again, from the top, three notes and a fourth, against her skin. He sang it into the crook of her elbow. His whole body was shaking. It closed. It closed for a bit, and it stayed. *Please*, he sang, there weren’t any words, it was just the sound. *Please. Please. Come. Please.*
+He couldn’t see. He held it. He held it as you’d hold an egg, or a lit match, as he had held it on a hill, in the snow, with her teeth chattering, a hundred years ago. He’d been told that he could. She had said. *Until I tell you*. He put his forehead down on her arm. He had got his other hand on the wound, and he’d got his wand in that, and he started again, from the top, three notes and a fourth. His whole body was shaking. It closed. It closed for a bit, and it stayed. *Please*, he sang, there weren’t any words, it was just the sound. *Please. Please. Come. Please.*
 
 Something moved under his thumb.
 
@@ -228,7 +224,7 @@ The lid had come down. There hadn’t been a lid. There was a thin grey skin, th
 
 He heard her breathe in.
 
-It was a very long breath, and it had a catch in it. He looked at her. He had seen that face do everything that a face could do. He’d seen it across a chessboard. He’d seen it across a Great Hall. He hadn’t seen this since a Tuesday in June, with a cake. It had changed. All the bones had let go. She had felt it. She’d felt it stop. Something that had been standing behind a door, for a hundred and forty-one days, wasn’t there, and every line of her had started, slowly, to come down. Her eyes had filled. She looked up at him, and there was somebody in them, right up at the front, all of her, looking straight into his face from about a foot away. Oh, God. There she was. *There you are*. She was so tired. She was smiling.
+It was a very long breath, and it had a catch in it. He looked at her. He had seen that face do everything that a face could do. He’d seen it across a chessboard. He’d seen it across a Great Hall. He hadn’t seen this since a Wednesday in June, with a cake. It had changed. All the bones had let go. She had felt it. She’d felt it stop. Something that had been standing behind a door, for a hundred and forty-one days, wasn’t there, and every line of her had started, slowly, to come down. Her eyes had filled. She looked up at him, and there was somebody in them, right up at the front, all of her, looking straight into his face from about a foot away. Oh, God. There she was. *There you are*. She was so tired. She was smiling.
 
 “It’s asleep,” said Lyra.
 
@@ -238,7 +234,7 @@ It wasn’t much more than the shape of it. It was the voice from the wind. He�
 
 “Harry.” It had a kind of wonder in it. “*Harry*. I can… It’s asleep. Listen. Listen to me. It hears.” Her fingers moved on his. “It’s always heard. Every word. That’s all it’s for. In the room. That’s why. All of it. Oh, your stupid *face*. I’ve been telling you… I told you… You said *What?*”
 
-He stared at her. He was still singing. He couldn’t stop, he didn’t dare; it was coming out of him, three notes and a fourth, by itself. He looked at the thing under his thumb. He looked at her lips. *It hears*. Somewhere, a very long way down, something had started to fall, in slow motion, down a very long flight of stairs. *You don’t want to talk*. Herodotus. A voice in a pleasant tone, to the air above his left shoulder, like someone having it taken down. A girl with her hands laid straight. *Who are you talking to? You, I’d imagined.*
+He stared at her. He was still singing; it was coming out of him by itself. *It hears*. Somewhere, a very long way down, something had started to fall.
 
 *I SAID YOUR FLYING’S A DISGRACE!*
 
@@ -248,31 +244,29 @@ He hadn’t any breath. It stopped the song. He got it going again. The wound ha
 
 Her eyes had changed.
 
-She was looking at his hand, at the wand going along her arm, and the line of the wound closing up behind it. She looked down at her own wrist. He saw the smile stop. It didn’t go. It stayed where it was, and something came up behind it, from a long way off. It was a look that he knew. He’d seen that in a library, across a good many hours; he had seen it over a column of figures, when she’d got nearly to the bottom, and it had started to come out. Her eyebrows drew together, very slightly, in a small tired frown. She looked at the sealed grey lid. She looked at the wound. She’d always been so quick. Her lips had started to move, and there wasn’t any sound. She got her tongue round it.
+She was looking at his hand, at the wand going along her arm, and the line of the wound closing up behind it. She looked down at her own wrist. He saw the smile stop. It didn’t go. It stayed where it was, and something came up behind it, from a long way off. It was a look that he knew. Her eyebrows drew together, very slightly, in a small tired frown. She looked at the sealed grey lid. She looked at the wound. She’d always been so quick. Her lips had started to move, and there wasn’t any sound. She got her tongue round it.
 
 “It only sleeps—” said Lyra.
 
 The door hit the wall.
 
-He came through it like something thrown. The black robes were flying out behind him. He’d lost all his colour; he had his left hand clamped round his own right wrist, as hard as it would go, and there was smoke coming from between the fingers, a thin grey curl of it, with a stink of burning. Harry had never seen him run. He stopped dead, in the red water, with his boots in it, and he looked at the floor. He looked at her, and at the boy on his knees, and at the wand; and he looked along that long ragged half-closed line. He’d have known it anywhere. He had drawn it himself, one spring, in a temper, in a lavatory on the third floor. The black eyes came up to Harry’s, and there was nothing in the world that you could have called an expression in them.
+He came through it like something thrown. The black robes were flying out behind him. He’d lost all his colour; he had his left hand clamped round his own right wrist, as hard as it would go, and there was smoke coming from between the fingers, a thin grey curl of it, with a stink of burning. Harry had never seen him run. He stopped dead, in the red water, with his boots in it, and he looked at the floor. He looked at her, and at the boy on his knees, and at the wand; and he looked along that long ragged half-closed line. The black eyes came up to Harry’s, and there was nothing in the world that you could have called an expression in them.
 
 “That,” said Severus Snape, “is *mine*.”
 
 He hit Harry in the chest with his forearm, and Harry went over. He hadn’t let go. His arm stretched out. He felt the stone come up under his shoulder, and he lay on his side in it, with his fingers still round her wrist. Snape had gone down on both knees. He had got his thin black wand out. He didn’t look at anything else. He drew one breath, through his nose. And the song came out of him, low and harsh and rusty, up and down, with no gap in it at all, as it had come in another room in another life; it was the most beautiful thing that Harry had ever heard. The ragged edges stirred. They drew together, as a thing draws together that remembers what it was. It went along her arm and up her shoulder, with the wand going before it, a line of hard white light; it took about as long as it had taken to do. He didn’t stop to breathe. He went over it three times.
 
-The water had stopped running. Somebody had turned off a tap. He didn’t know who. There was a pale pearly shape up by the ceiling, with its hand over its mouth.
-
 It was closed.
 
-There was a long raised seam, as thick as a bootlace, from the side of her neck to the middle of her arm. It would never go. He’d been told that. It had not been designed to go. Snape sat back on his heels. His face was running with sweat. He looked at it. He put two yellow fingers on the side of her throat, and he stayed there, with his head bent, and his chest going in and out. Her eyes had shut. She was breathing. She was the colour of the basin; but it went in and out, slow and shallow, and quite regular, and her lips had come together, with that very small frown still between her brows.
+There was a long raised seam, as thick as a bootlace, from the side of her neck to the middle of her arm. Her eyes had shut. She was breathing. She was the colour of the basin; but it went in and out, slow and shallow, and quite regular, and her lips had come together, with that very small frown still between her brows.
 
 Nobody spoke. The snow-light had nearly gone. There was just the wet dark floor, and the long mirror.
 
-He got up on one elbow. It took some time. He couldn’t feel his legs. He looked at his right hand, and it was red to the wrist, and it was still there. It was lying on her arm. He hadn’t let go. He didn’t think that he’d be able to. Snape’s eyes went to it. They rested there for a moment, on the fingers, on the thumb, on what was under the thumb. Something went across his long yellow face, and it was very tired. He didn’t tell him to take it away.
+He got up on one elbow. It took some time. He couldn’t feel his legs. He looked at his right hand, and it was red to the wrist, and it was still there. It was lying on her arm. He hadn’t let go. He didn’t think that he’d be able to.
 
 He felt it, then.
 
-Her pulse had got stronger. It was going along under the ball of his thumb, quite evenly, as it should. She’d been so nearly gone, and she was coming back, a little at a time, like the tide coming up a beach. He had done that. He’d done that with his hands. He’d cut her from the neck to the elbow, and he had got down in it, and he had held on. He lay on the floor of the second-floor bathroom, and he thought, with a great dull stupid surge of joy, that she was going to live.
+Her pulse had got stronger. It was going along under the ball of his thumb, quite evenly, as it should. She’d been so nearly gone, and she was coming back, a little at a time, like the tide coming up a beach. He had cut her from the neck to the elbow; and he thought, with a great dull stupid surge of joy, that she was going to live.
 
 Something moved, under his thumb.
 
@@ -280,6 +274,6 @@ It was very slight. It was about the size of a grain of rice. It gave a small dr
 
 The thin grey skin had started to draw back.
 
-He couldn’t do anything. He couldn’t take his eyes away. It slid up, and it slid down, very gently, in no sort of hurry at all. There was a line of dull brown, and a slit, and it widened. It was the colour of weak tea. It was quite round, and it was perfectly awake. It lay on the pulse of the only person that he had ever wanted, and it opened all the way.
+He couldn’t do anything. He couldn’t take his eyes away. It slid up, and it slid down, very gently, in no sort of hurry at all. There was a line of dull brown, and a slit, and it widened. It was the colour of weak tea. It was quite round, and it was perfectly awake. It lay on the pulse of the only person that he had ever come for, and it opened all the way.
 
 It looked at him.

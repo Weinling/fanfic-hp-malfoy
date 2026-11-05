@@ -72,6 +72,8 @@ La regla de oro: **subir la temperatura sin bajar la calidad**. Más emoción qu
 
 **Medido por Codex (5 de noviembre; del 73 en adelante, vigilar):** «eleven» incidental (2,8 veces más que en lo publicado; se queda el que habla de la infancia); «There was/were» abriendo revelaciones (el doble); frases con «It» en los golpes emocionales (algo pasa, se dice que fue algo, se niega que fuese otra cosa y se explica qué significaba); la familia «wanted it understood / written down» (firma, no voz); «as you’d» (dieciséis, y cero en lo publicado). **El defecto de fondo es la segunda explicación:** el gesto ya está y el párrafo siguiente lo traduce. Podar la glosa, no el gesto. Conversaciones como exámenes: no todas.
 
+**Crítica de la tanda 73-84 (6 de noviembre):** el tic que más ha crecido es la frase corta: «It» pasa de 8,5 a 19,4 por mil entre el 71 y el 86, y ya no se distingue el clímax del pasillo. Vigilar también «that» como pronombre («She smoothed that down»), el brazo «from the shoulder», «there wasn’t anyone there», los objetos que vuelven con su historia entera y el final con gesto mudo. Para la tanda siguiente: un capítulo de frases largas, otro sin un solo eco, y algo bueno que no cueste nada.
+
 Antes de entregar: una pasada buscando estos tics y otra de **lectura en frío** (¿dónde se cansaría un lector de Wattpad?, ¿qué frase citaría?, ¿sabe en cada momento clave qué siente Lyra?).
 
 ## 5. Personajes: su función
@@ -112,7 +114,7 @@ Detalle del fondo en `docs/notas/lo-que-sabe-harry.md`. Lo decidido (`docs/notas
 ## 8. Rumbo
 
 - **Hasta el final:** `docs/notas/reestructura/decisiones.md` (aprobadas) y `guion-general.md`. Lo lejano solo son puntos fijos; el final es una dirección.
-- **Revisión del 39 al 72:** hecha (`docs/notas/reestructura/revision-39-72.md`). Numeración: `docs/notas/reestructura/numeracion.md`. **Tanda siguiente:** `borradores/guion-tanda-73-84.md` (aprobado). La anterior, en `docs/archivo/guiones/`.
+- **Revisión del 39 al 72:** hecha (`docs/notas/reestructura/revision-39-72.md`). Numeración: `docs/notas/reestructura/numeracion.md`. **Tanda 73-84, escrita y criticada** (catorce capítulos, 79 a 92 del lector): su guion está en `docs/archivo/guiones/`. **Falta el guion del tramo 4.**
 - **Lo que se quita del original:** `docs/notas/reestructura/poda-agente.md` y el guion general.
 - **Decidido en la tanda:** lo que toca Voldemort deja de sentirse (56); Bode recibe el Beso y Lyra le da de comer (63); Hopkins nunca sabe quién le vengó (62).
 
