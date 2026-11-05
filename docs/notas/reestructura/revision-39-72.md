@@ -1,6 +1,6 @@
 # Revisión del 39 al 72: la amistad en la línea principal
 
-*5 de noviembre de 2026. Análisis capítulo a capítulo, a partir de `decisiones.md`, §10. Leído en texto: del 40 al 54, Interludio 2, 55 al 72, los dos Year Four, Year One 4, el 39. **Espera la aprobación del autor. No se ha tocado ningún capítulo por esta revisión.***
+*5 de noviembre de 2026. Análisis capítulo a capítulo, a partir de `decisiones.md`, §10. Leído en texto: del 40 al 54, Interludio 2, 55 al 72, los dos Year Four, Year One 4, el 39. **Aprobado por el autor, con las respuestas por defecto del §8.** No se ha tocado todavía ningún capítulo por esta revisión.*
 
 ## 1. Diagnóstico
 
@@ -164,8 +164,9 @@ Calculo unas 18.000 palabras de capítulos nuevos, unas 6.000 en escenas y retoq
 - El grupo sigue en sexto: Harry y Neville lo llevan. Ahí se nota su cambio de energía.
 - Crabbe y Nott: sus padres, en junio.
 - La tienda de Goyle y Crabbe se queda en un libro de cuentas sin usar.
-- Si se hace un capítulo desde Ron, para ver a Harry desde fuera, va numerado, no como interludio.
-- La frase de Goyle del 82 cambia, porque llevó la nota del 62: «I only carry the nice ones.»
+- Un capítulo numerado desde Ron ve a Harry desde fuera.
+- La frase de Goyle cambia, porque llevó la nota del 62: «I only carry the nice ones.»
+- Hedwig, el Comedor y la decisión de Harry ocupan un capítulo propio. La tanda sube a catorce.
 
 ## 7. Orden de trabajo
 

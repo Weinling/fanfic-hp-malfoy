@@ -19,8 +19,9 @@
 
 ## Siguiente paso exacto
 
-1. **Dirección nueva:** `decisiones.md`, §10. Análisis capítulo a capítulo: `docs/notas/reestructura/revision-39-72.md`, pendiente de que lo apruebe el autor.
-2. Después, rehacer `borradores/guion-tanda-73-84.md`, que ha quedado superado en parte. No se escribe nada de la tanda hasta entonces.
+1. **El autor aprueba o corrige** el guion rehecho, `borradores/guion-tanda-73-84.md`.
+2. Después, la revisión del 40 al 72 (`docs/notas/reestructura/revision-39-72.md`), en orden, con crítico Opus en cada capítulo nuevo o rehecho.
+3. Renumerar. Luego, la tanda 73-84.
 
 ## Pendiente, sin urgencia
 
@@ -30,4 +31,4 @@
 
 ## Espera al autor
 
-- El 39 rehecho y `revision-39-72.md`. La decisión §7 (el otro Harry perdió) sigue en pie, con lo que añade el §10. La tarea nocturna está desactivada.
+- El 39 rehecho y el guion 73-84. La decisión §7 (el otro Harry perdió) sigue en pie, con lo que añade el §10. La tarea nocturna está desactivada.

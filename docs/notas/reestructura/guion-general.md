@@ -1,5 +1,7 @@
 # Guion general hasta el final
 
+*Actualización: `decisiones.md`, §10, y `revision-39-72.md` mandan sobre esto donde choquen; suman capítulos y amplían el tramo 3 a catorce.*
+
 *3 de noviembre de 2026. Sale de `decisiones.md` (aprobadas). **Cuanto más lejos, menos fijo:** el tramo 1 va capítulo a capítulo; el 2, por arcos; del 3 en adelante solo hay puntos que no se pueden romper, y todo lo demás se decide al llegar. El final es una dirección, no un compromiso: se trabaja cuando toque.*
 
 ## Recuento
