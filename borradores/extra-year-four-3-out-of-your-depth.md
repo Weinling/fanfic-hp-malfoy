@@ -70,7 +70,7 @@ They did it again. They did it, by the end of that long bright afternoon, ninete
 
 It got to be five o’clock. All the long shining lake had turned the colour of weak tea. Crabbe closed her notebook, and she held it out at arm’s length, and looked at it. He had gone from twelve and a half seconds to fourteen. It was, she said, in her low reasonable voice, an improvement in the sense that it had taken him longer to be got out.
 
-He sat on the edge of the rock, in the sun, with his feet in the water and his shirt stuck to him. He had his glasses back. There was a bit of green stuff in his hair, and he looked as happy as she had ever seen him. Weasley lay on his back on the stones with his eyes shut.
+He sat on the edge of the rock, in the sun, with his feet in the water. He had his glasses back. There was a bit of green stuff in his hair, and he looked as happy as she had ever seen him. Weasley lay on his back on the stones with his eyes shut.
 
 “I can’t swim,” Potter remarked.
 

@@ -2,7 +2,7 @@
 
 The voice came on the Saturday night, at about one o’clock, while he was awake.
 
-That was what he couldn’t get over, afterwards. There had always been a dream. There was a corridor, or a tall man on some steps; you got a bit of warning; you could tell yourself that you had been asleep. He was lying on his back in the dark with his glasses on, looking at the top of his four-poster. He’d been doing that since about ten. Seamus was snoring. There was a bar of moon on the floor, and the bed next to his had its blanket pulled straight, and his left hand lay on his chest with a cold blue ring on it. He thought about a knife going along a piece of toast. He had not stopped thinking about that for fifteen hours. He didn’t feel any better.
+That was what he couldn’t get over, afterwards. There had always been a dream. There was a corridor, or a tall man on some steps; you got a bit of warning; you could tell yourself that you had been asleep. He was lying on his back in the dark with his glasses on, looking at the top of his four-poster. He’d been doing that since about ten. Seamus was snoring. There was a bar of moon on the floor, and the bed next to his had its blanket pulled straight, and his right hand lay on his chest with a cold blue ring on it. He thought about a knife going along a piece of toast. He had not stopped thinking about that for fifteen hours. He didn’t feel any better.
 
 His forehead gave a small, polite, single throb, like someone clearing his throat.
 
@@ -20,11 +20,11 @@ He had got up on his elbows. He could feel his heart going, in his throat. He pu
 
 He couldn’t move.
 
-“Canvas, I think. There’s a smell of crushed grass. There’s a dragon somewhere, and a hand. I must say that I thought it rather touching. I hadn’t known that you could get so much out of a hand. I have been looking at that, on and off. I thought that you’d like to know how the account stands.”
+“Canvas, I think. There’s a smell of crushed grass. There’s a dragon somewhere, and a hand. I must say that I thought it rather touching. I hadn’t known that one could live on so little. I have been looking at that, on and off. I thought that you’d like to know how the account stands.”
 
 There was a pause. He seemed to be turning something over, by the stem.
 
-“You sent her back to me on the eighth of January, Mr Potter, with a bag of scraps. You sat on a rug and you wrote them out. You thought that was clever. She has been at my table, every holiday since; she’s been in and out of my study; she has come when she was called. I had her. You lent her. I only wanted to say how very much obliged I am.”
+“You sent her back to me on the eighth of January, Mr Potter, with a bag of scraps. You sat on a rug and you wrote them out. You thought that was clever. She has sat at my table every holiday since, and written out my reports. I was short of a clerk, and you lent me one. I only wanted to say how very much obliged I am.”
 
 It stopped. It didn’t fade. It went away as a person does, who has looked in at a door, and has nodded. His forehead gave one more small throb, and was quiet. Seamus turned over and muttered something about West Ham.
 
@@ -52,13 +52,13 @@ There was a bit of string round her leg.
 
 It was a neat, small, rather clever knot. He had got quite good at that. He had done it every morning for twelve days, in June, with his tongue between his teeth, at a dormitory window. He had got so that he could do it with one hand. There was a scrap of parchment tied there, folded in four.
 
-His fingers seemed to be a long way off. They went out across the table, by themselves, past the wet white feathers, and they were still warm. She was still warm. He undid it. He got it the first time. He unfolded the paper. It was very clean, good, cream-coloured paper, and it had three words on it, and no name. It was the hand of a boy who has won prizes for that.
+His fingers seemed to be a long way off. They went out across the table, by themselves, past the wet white feathers, and they were still warm. She was still warm. He undid it. He got it the first time. He unfolded the paper. It was very clean, good, cream-coloured paper, and it had two words on it, and no name. It was the hand of a boy who has won prizes for that.
 
 *Still bored?*
 
 It had gone quiet. He noticed it spreading. It went out from where he sat, along the bench, and across to Hufflepuff. Someone had stopped laughing, in the middle. A girl somewhere said, “Oh, *no*.” There were a lot of faces. He could feel them all, turning, in the grey light, and there were a great many people there; there were six hundred people, in that room, and they’d seen him do most things. They had seen him come out of a maze. He’d come in at those doors with a split lip, and with a bandage, and with Sirius dead. They had seen him laugh and go white and spit in a Hufflepuff’s eye. Nobody had ever seen him cry at that table. He had been rather careful about that, for five and a half years, in two lives. There was a rule.
 
-He had given her a piece of bacon. It was the last thing that he’d said to her. *You’re late.*
+He couldn’t remember the last thing that he had said to her. He tried.
 
 It came up from the bottom of him, and he couldn’t do anything about it at all.
 
@@ -144,7 +144,7 @@ She was sitting where she sat, with her back to the wall, between Goyle and a ga
 
 His scar went white-hot.
 
-It was so sudden that he dropped the spoon. It didn’t hurt, or it did, it hurt a very great deal, but that wasn’t what it was. Something had come through. It had come through the door without opening it. It was warm. It was spreading, up the back of his skull and across, and down the insides of his arms. He knew that. He’d felt that on a staircase, with his fingers on his forehead. *He’s happy.* It was a slow, delicious, luxurious kind of warmth, like getting into a very hot bath. There was somebody sitting in a long room, a hundred and fifty miles away, who had finished his coffee. He had turned back his cuff; and he’d laid the tip of one long white finger on the inside of his own left arm, quite lightly. He was smiling.
+It was so sudden that he dropped the spoon. It didn’t hurt, or it did, it hurt a very great deal, but that wasn’t what it was. Something had come through. It had come through the door without opening it. It was warm. It was spreading, up the back of his skull and across, and down the insides of his arms. He knew that. He’d felt that on a staircase, with his fingers on his forehead. *He’s happy.* It was a slow, contented kind of warmth, like a man’s after a good dinner. There was somebody sitting in a long room, four hundred miles away, who had finished his coffee. He had turned back his cuff; and he’d laid the tip of one long white finger on the inside of his own left arm, quite lightly. He was smiling.
 
 *Watch the toast*, it said.
 
@@ -152,11 +152,11 @@ He raised his head.
 
 He saw her stop.
 
-It wasn’t anything. Nobody else would have noticed. She had brought the knife down to the edge of the bread, and it stayed there for perhaps the space of a heartbeat; and every bit of colour went out of her face. It went like water out of a basin. It left her lips the same as the rest. Her left arm was lying along the table, beside the plate. He saw the fingers of that hand open, all at once, as wide as they would go. He saw them shake. They scrabbled at the cloth, and stopped. She pressed them flat. He could see the tendons standing up on the back of her hand, and the whole of the arm had gone rigid, from the shoulder, and it had started to tremble, a very fine fast tremor, like a wire in a gale. Something was happening inside the sleeve. He could feel it. God help him, he could feel that, he could feel what it was like from the other end. It was going in. It was going in at the wrist, like a red-hot needle, slowly, along the vein, and it was so *pleasant*.
+It wasn’t anything. Nobody else would have noticed. She had brought the knife down to the edge of the bread, and it stayed there for perhaps the space of a heartbeat; and every bit of colour went out of her face. It went like water out of a basin. It left her lips the same as the rest. Her left arm was lying along the table, beside the plate. He saw the fingers of that hand open, all at once, as wide as they would go. He saw them shake. They scrabbled at the cloth, and stopped. She pressed them flat. He could see the tendons standing up on the back of her hand, and the whole of the arm had gone rigid, from the shoulder, and it had started to tremble, a very fine fast tremor, like a wire in a gale. Something was happening inside the sleeve. He could feel it. God help him, he could feel that, he could feel what it was like from the other end. It was going in. It was going in at the wrist, like a red-hot needle, slowly, along the vein, and it was so *interesting*.
 
 She moved the knife.
 
-She moved it along the toast. It went about an inch. Her back had not altered by a hair. She drew a very small breath through her nose. There was a muscle jumping in her jaw, and a thin bright line had appeared on her lower lip, where she had got it between her teeth, on the inside; he saw it, he saw a bead come up at the corner, and she licked that away. She looked straight in front of her. She took some butter on the end of the knife, and she spread it. She took some more.
+She moved it along the toast. It went about an inch. Her back had not altered by a hair. She drew a very small breath through her nose. There was a muscle jumping in her jaw, and a thin bright line had appeared on her lower lip, where she had got it between her teeth, on the inside; he saw it, he saw a bead come up at the corner, and it was gone. She looked straight in front of her. She took some butter on the end of the knife, and she spread it. She took some more.
 
 Five seconds. Ten.
 
@@ -168,17 +168,17 @@ Twenty seconds. Thirty.
 
 Goyle had looked up. She had a bun in her hand. Her small slow eyes went to the side of Lyra’s face, and stayed there. She didn’t say anything. She put down the bun. She reached out, without any hurry, with one big arm, and took hold of the teapot; she filled a cup, and she moved that along the table, an inch at a time, until it was standing by the plate, and she left her hand there, on the cloth, beside it, and she went on looking at nothing.
 
-*Every time*, said the warmth, very softly. It was all through him now. It had got into his teeth. *Every time, Mr Potter. Do you see? I had thought that you ought to have a receipt. A word from you, and this. Whatever you do. Wherever you go. Anything that you do to me, ever, I’ll have it from her. I find that it’s so much more satisfying than the other thing.* It stretched, and it sighed. *Isn’t she good? She doesn’t get that from Lucius.*
+*Every time*, said the warmth, very softly. It was all through him now. It had got into his teeth. *Every time, Mr Potter. Do you see? I had thought that you ought to have a receipt. A word from you, and this. Whatever you do. Wherever you go. Anything that you do to me, ever, I’ll have it from her. I find that it’s so much more instructive than the other thing.* *She’s very well brought up. She doesn’t get that from Lucius.*
 
 His lips were moving.
 
-He could feel them. He couldn’t stop it. It wasn’t him, there was nothing funny, he was going to be sick. They had started to draw back from his teeth. He could feel the corners of his mouth going up, by themselves, a little at a time, with a slow and tender and enormous pleasure. He was smiling at her. He was sitting in the Great Hall with the tears starting to run out of his left eye, and looking down forty feet of table at a girl with a butter knife, and it felt wonderful.
+He could feel them. He couldn’t stop it. It wasn’t him, there was nothing funny, he was going to be sick. They had started to draw back from his teeth. He could feel the corners of his mouth going up, by themselves, a little at a time, with a slow, enormous satisfaction. He was smiling at her. He was sitting in the Great Hall with the tears starting to run out of his left eye, and looking down forty feet of table at a girl with a butter knife, and it felt like winning.
 
 Fifty.
 
 His right arm had come up.
 
-It came off the table, very smooth. It had no weight in it at all. He looked at it. It seemed to know exactly where it was going, it was going past the Slytherin table and away over the frost, for a hundred and fifty miles, to a long room with a fire. It had the wand in its hand. He hadn’t known that. It was perfectly steady, and there was a word on his tongue, and it had a taste like a coin. *Sec*—
+It came off the table, very smooth. It had no weight in it at all. He looked at it. It seemed to know exactly where it was going, it was going past the Slytherin table and away over the frost, for four hundred miles, to a long room with a fire. It had the wand in its hand. He hadn’t known that. It was perfectly steady, and there was a word on his tongue, and it had a taste like a coin. *Sec*—
 
 Something took hold of his sleeve.
 
@@ -192,7 +192,7 @@ It stopped.
 
 It went out of him all at once. It was like being dropped. He felt it go, the whole of that warmth; it drew back along his arms and up his neck, and it went away, unhurried, through a door that it had no need to close. *There*, it said. He heard the small click of a cup going down on a saucer. His arm fell on the table. His wand rolled off into the porridge. He got his hand over his mouth, and he swallowed, and swallowed.
 
-She had finished. There wasn’t a spot on that piece of toast that hadn’t got butter on it. It went out to the edges, in all four directions, perfectly even, as if it had been done by a machine. She laid the knife on her plate. Her hand was shaking so much that it rang. She looked at the toast for a moment. She took her hand away and she put it in her lap, the right one; she put that over the left; and he saw her breast go out, in one long slow shuddering breath, and her head came up.
+She had finished. There wasn’t a spot on that piece of toast that hadn’t got butter on it. It went out to the edges, in all four directions, perfectly even, as if it had been done by a machine. She laid the knife on her plate. Her hand was shaking so much that it rang. She looked at the toast for a moment. She took her hand away and she put it in her lap, the right one; she put that over the left; and she drew one long breath, and her head came up.
 
 She looked along the Hall.
 

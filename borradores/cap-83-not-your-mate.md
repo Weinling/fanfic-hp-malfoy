@@ -10,7 +10,7 @@ He wasn’t proud of that. He kept it in his Quidditch book. It started all righ
 
 So that was one thing. There were a few others.
 
-He was captain of Gryffindor, for a start. It was the only thing he had ever wanted that he’d been given. He had a badge for it and a whistle and a very good view of what was wrong with everybody’s left side, and they’d lost to Slytherin by ten points in the worst weather since the Flood, with the best save of his life, and then they’d flattened Ravenclaw. He ought to have been enjoying that. He had a new Chaser who could actually catch. He’d worked out a thing with the Beaters that made Angelina write to him from Holyhead, in capitals. He got up at six, and he stood in the freezing dark with his breath going up and his team shouting at him. He’d think: *This is it, then. This is what it’s like. I’m good at something.* Then he’d look round for someone to tell, and that was when he’d get out the chart.
+He was captain of Gryffindor, for a start. It was the only thing he had ever wanted that he’d been given. He had a badge for it and a whistle and a very good view of what was wrong with everybody’s left side, and they’d lost to Slytherin by ten points in the worst weather since the Flood, with the best save of his life, and then they’d flattened Ravenclaw. He ought to have been enjoying that. He got up at six, and he stood in the freezing dark with his breath going up and his team shouting at him. He’d think: *This is it, then. This is what it’s like. I’m good at something.* Then he’d look round for someone to tell, and that was when he’d get out the chart.
 
 His sister slept with the light on. That was another. Parvati had told him. She didn’t make a thing of it; she’d just got a small steady blue flame in a jam jar, on her locker, that she had asked Hermione how to do. She came down in the mornings and ate her toast. She laughed at the right places, she scored nine goals against Ravenclaw, and every so often he’d see her stop, in the middle of a sentence, and look at her own hand. She’d stopped burning things. She had started keeping them. She’d got a box of it now, under her bed, everything that she’d written since the ninth of November, all dated. She went through it on Sundays. Nobody had told him who had done that to her. He was fairly sure that two people knew. He had asked one of them, in a cupboard, with a mop in his hands, and he’d got that face.
 
@@ -18,11 +18,11 @@ His sister slept with the light on. That was another. Parvati had told him. She 
 
 And there was the other thing.
 
-He found it in the Charms book. He’d stopped being surprised. It would be there on a Tuesday, about once a month, tucked in at the Substantive Charms, and he never saw anyone put it there. It was a slip of thick ribbed paper about the size of a Chocolate Frog card, and it had one line on it, in a clear upright beautiful hand that he’d have known in the dark. *Puddlemere by two hundred. Two Sickles.*
+He found it in the Charms book. He’d stopped being surprised. It would be there on a Tuesday, most weeks, tucked in at the Substantive Charms, and he never saw anyone put it there. It was a slip of thick ribbed paper about the size of a Chocolate Frog card, and it had one line on it, in a clear upright beautiful hand that he’d have known in the dark. *Puddlemere by two hundred. Two Sickles.*
 
 He hadn’t answered one since May. He had decided that. He’d been standing in a doorway at the time. She had said what she had said, in that voice, with her hair coming down, and he’d heard it, and he had known what she was. There’d been a good deal of what she was. Ginny had got a light on.
 
-They just kept coming. They didn’t say anything. They never had. It was a bet about the League. They had started up again on the eighth of October, after the Wasps game, and nobody had asked her to. He would look at it. He’d look at the way that she did her *P*. Puddlemere had beaten the Harpies by two hundred and ten, as a matter of fact, on the Saturday, and that was a very good call, nobody else had seen that coming, it had been the wind; and he’d catch himself thinking so, in Charms, with his mouth open. He would shut the book.
+They just kept coming. They didn’t say anything. They never had. It was a bet about the League. They had started up again on the eighth of October, after the Wasps game, and nobody had asked her to. He would look at it. He’d look at the way that she did her *P*.
 
 He didn’t throw them away. He’d got six. He didn’t know what you’d put for that, either.
 
@@ -30,8 +30,7 @@ He didn’t throw them away. He’d got six. He didn’t know what you’d put f
 
 The thing about Harry was that he had stopped being any trouble.
 
-You’d have thought that it would be a relief. Ron could remember the term before, and the way he’d been all through the spring, with his hair on end and his leg going under the table, whistling, and eating four sausages. He remembered the autumn before that, and the hand. He had been a nightmare. He’d gone about with a look on his face like a kicked dog and said *I’m fine*, and he’d been the worst liar that you ever saw in your life. You’d wanted to shake him. There had always been something. He’d come in late, with mud on him. He’d laugh in the wrong place, about two seconds early, as if he had read the joke before. Hermione had a whole notebook on that.
-
+You’d have thought that it would be a relief.
 He’d stopped laughing. That wasn’t it, exactly. He didn’t laugh early, and he didn’t laugh late. He just had a very polite face. It was thinner, and it had got sort of smoothed down; he looked as if somebody had gone over him with a damp cloth. He got up at half past five. He did his essays, and they were good. He said “Thanks” when you passed him something. He’d sit at the end of the table by himself with a book propped up on the milk jug, and he didn’t eat, he refuelled. You’d see him put it in. He had stopped going down to the dungeon stairs. He’d stopped looking at the Slytherin table at all, except for once, every morning at about ten past eight, for roughly a minute, with no expression, as you’d look at the clock.
 
 That was when he’d started getting the books.
@@ -54,7 +53,7 @@ He looked at the armour. He looked at a place on the armour where there was a de
 
 There was a draught coming from somewhere. It moved the flame.
 
-He ought to have said something. He’d got a lot of things. He’d had a hundred and eighty-seven days, and they were all in his book. He turned round, and he looked at her, at the small white straight face. He had been looking at that face since he was eleven. He knew what it did when it had got something wrong in Arithmancy. He’d seen it across a fender at three o’clock in the morning, with its hand on his hair.
+He ought to have said something. He’d got a lot of things. He’d had a hundred and eighty days, and they were all in his book. He turned round, and he looked at her, at the small white straight face. He had been looking at that face since he was eleven. He knew what it did when it had got something wrong in Arithmancy. He’d seen it across a fender at three o’clock in the morning, with its hand on his hair.
 
 “How long did you know?” said Ron.
 
@@ -66,7 +65,7 @@ She didn’t pretend not to understand. He’d give her that.
 
 “Of course I counted.”
 
-“You sat on my *bed*. You let me fall asleep on your— You watched me eat a chip.” It had started to come up. It had been down there for six months, and he’d thought that he had got it nailed. “He’d told you that he had let it happen. To *Ginny*. You knew that. You came to the Burrow for Christmas, you sat there with my mum, she gave you a *jumper*. You looked at my sister across the table, and you passed her the sprouts! Every single day! And I said to you, I actually said, in March, I said, *I’m glad that you’re— that it’s all* — You said, *Yes*. You looked me in the face!”
+“You sat on my *bed*. You let me fall asleep on your— You watched me eat a chip.” It had started to come up. It had been down there for six months, and he’d thought that he had got it nailed. “He’d told you that he had let it happen. To *Ginny*. You knew that. You were at Grimmauld Place for Christmas, you sat there with my mum, she gave you a *jumper*. You looked at my sister across the table, and you passed her the sprouts! Every single day! And I said to you, I actually said, in March, I said, *I’m glad that you’re— that it’s all* — You said, *Yes*. You looked me in the face!”
 
 His voice was going round the stairwell. He stopped.
 
@@ -142,7 +141,7 @@ But she’d gone back to her pastry.
 
 ⁂
 
-It was the thirtieth of November, and he knew what it was going to be as soon as he came in.
+It was the twenty-eighth of November, and he knew what it was going to be as soon as he came in.
 
 He’d gone along because he went. It was a Thursday. It had got to be about forty of them by now, in the long room behind the kitchens, what with the first-years and the Ravenclaws and everyone who’d read about Madam Bones. They were doing Disarming, down at the far end. Neville was going up and down with his sleeves rolled and that pot under his arm, saying “Sorry. Your other left.” It smelt of cold dust and bacon. There was a good noise, a lot of people shouting *Expelliarmus* and missing. Somebody’d got Dean’s wand in the rafters.
 
@@ -274,7 +273,7 @@ He hadn’t been going to say that. It just came out, with his mouth full. He sw
 
 He waited.
 
-He’d known Harry Potter for five years and three months, or however you wanted to count it. He’d seen him with an answer to everything. He’d seen him come out with stuff that nobody could have known, about things that hadn’t happened; he’d seen him stand in a pit and talk for half an hour to a room full of Death Eaters. He had seen him look you in the eye. He heard a very small sound beside him. It was the pencil. It had been laid down on the book.
+He’d known Harry Potter for five years and three months, or however you wanted to count it. He heard a very small sound beside him. It was the pencil. It had been laid down on the book.
 
 Nothing else happened.
 
@@ -296,11 +295,11 @@ He had his head in his bag. He’d lost his stirring rod. He looked up, for no r
 
 She had gone to the front, with her phial. She’d left her bag on the stool. It was that grey thing with the silver clasp, and it was standing a bit open, and there was no one near it. Well. There was one person. He was going by, on his way to the sink, with his hands full of dirty glass. He hadn’t looked at it. He wasn’t looking at anything. He had that polite shut tired face on. He didn’t stop. He didn’t so much as slow down. It was only that as he went past the stool, his left hand opened, down by his side, and something very small dropped out of the sleeve. It was about the size of a thumb. Ron saw it go. It had a kind of a gleam, like a bit of the inside of a watch, gold, and it went in at the top of the bag, without a sound. He’d gone on. He was running the tap.
 
-It had taken about as long as it takes to sneeze.
+It had taken no time at all.
 
 Ron stayed exactly as he was, with his hand in his bag.
 
-He was a prefect. He had got the badge on. It had a dent in it. He’d been told about this, at some length, on the first of September in his fifth year, by somebody who’d got it out of a book: there was to be no passing of unlabelled substances, in class, at any time. He had seen a lot of notes go across a lot of rooms. He’d got a bit of a chart, in his robes. There was a girl who’d taken eighty-five points off his house, and had gone and said what she’d said, in a room with a tapestry. There was somebody in a long grey sleeve who had looked after Ron’s bets for two years. Somebody had done something to his sister. There was someone who had taken three weeks over a turnip. He thought about that. He looked at the bag. He could go up there now and say, *Excuse me, Professor*. It was his job. He knew what Hermione would have said; there’d have been a reference. He knew exactly what that had been. He’d seen the stuff, in a book, with a picture. It took six months. Someone had been stirring that on a camping stove, since before his best friend stopped being his best friend, and hadn’t told a living soul. He’d got it all the way through the whole of this, the whole of the worst year that anybody had ever had. He had kept it going. He’d sat in the corner with his books about the Middle Ages.
+He was a prefect. He had got the badge on. It had a dent in it. He’d been told about this, at some length, on the first of September in his fifth year, by somebody who’d got it out of a book: there was to be no passing of unlabelled substances, in class, at any time. He had seen a lot of notes go across a lot of rooms. He’d got a bit of a chart, in his robes. He looked at the bag. He could go up there now and say, *Excuse me, Professor*. It was his job. He knew what Hermione would have said; there’d have been a reference. He knew exactly what that had been. He’d seen the stuff, in a book, with a picture. It took six months. That meant June. Someone had started stirring that in the week that Sirius died, and hadn’t told a living soul.
 
 And he had just given it away.
 
