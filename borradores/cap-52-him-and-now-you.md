@@ -42,7 +42,7 @@ Lyra turned back to *Numerology and Grammatica*, and read the same page for anot
 
 She saw how Potter got into Diggory’s group that afternoon, in the Entrance Hall, at the end of lunch, with half the school going past.
 
-She had known about the group for a fortnight, since passing two sixth-years on rounds who were arguing about a Shield Charm Diggory had taught them. The Head Boy had decided that if Umbridge would not teach them to defend themselves, he would, and had been meeting a dozen or so seventh- and sixth-years in the old duelling room behind the kitchens twice a week. Since the second Friday in November, it was said, he took anybody who asked. Umbridge did not know yet. Lyra had kept it to herself, in case it was worth more later.
+She had known about the group for a fortnight, since passing two sixth-years on rounds who were arguing about a Shield Charm Diggory had taught them. The Head Boy had decided that if Umbridge would not teach them to defend themselves, he would, and had been meeting a dozen or so seventh- and sixth-years in the old duelling room behind the kitchens twice a week. Since the second Friday in November, it was said, he took anybody who asked. They went in by twos and threes, at different times, through the kitchens, and Umbridge did not know yet. Lyra had kept it to herself, in case it was worth more later.
 
 Potter was not in it. Diggory had not forgiven him for a hedge in June, and a curse in the back, and a cup; and he had said so, in front of witnesses, in the first week of term, quite pleasantly, in the voice of a man who would never say so again.
 

@@ -66,6 +66,8 @@ There remained the matter of the post.
 
 It was six o’clock on the Monday morning, and still dark, and Goyle was sitting on the edge of her bed in the vast flannel nightgown, doing up her shoes. Lyra stood in front of her with a package in her hand, sealed, with nothing on the outside. It was the first time that she had asked her for anything since a Tuesday in March. She had thought about that as well.
 
+“It’s for Madam Bones, at the Ministry,” she said. “A school owl. Not ours.”
+
 Goyle looked at the package. She did not take it. She looked up, and her big soft face had nothing much on it at this hour.
 
 “Is it a nice one?” said Goyle.
@@ -120,7 +122,7 @@ He did not say anything. He just got up, with his hair on end and his toast left
 
 “Bones, S.”
 
-There was a sound from the Hufflepuffs. A sturdy girl with a plait had risen to her feet. She had started to cry, and she was holding up a hand with a glove on it. “Macmillan, E.” He stood. “Thomas, D.” “Abbott, H.” They were getting up all over the room. It went on. They stood up one at a time, here and there along the benches, a third-year, a big Ravenclaw, a very small boy who had to be helped over the seat, and each of them stayed where they were. No one had told them to. He read out the nine in his own hand. He turned the page, and he went on, in that small shaking stubborn voice, with what had been written by somebody else. There were thirteen. By the time he had got to the bottom of the sheet there was no other sound at all but the owls.
+There was a sound from the Hufflepuffs. A sturdy girl with a plait had risen to her feet. She had started to cry, and she was holding up a hand with a glove on it. “Macmillan, E.” He stood. “Thomas, D.” “Abbott, H.” They were getting up all over the room. It went on. They stood up one at a time, here and there along the benches, a third-year, a big Ravenclaw, a very small boy who had to be helped over the seat, and each of them stayed where they were. No one had told them to. A good many of them had their feet apart and their wand arms free, she noticed; somebody had been teaching them to stand, on Tuesdays and Thursdays, in a room behind the kitchens. He read out the nine in his own hand. He turned the page, and he went on, in that small shaking stubborn voice, with what had been written by somebody else. There were thirteen. By the time he had got to the bottom of the sheet there was no other sound at all but the owls.
 
 He stopped. He looked at the page. He looked at the place at the bottom where it ended, and at the torn edge of the paper in the stitching, and a slight puzzled line came between his eyebrows.
 

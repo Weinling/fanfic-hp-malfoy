@@ -80,7 +80,7 @@ He unfolded it.
 
 ⁂
 
-Someone was running. There was a lot of echo. He went up the marble staircase, and he remembered the gargoyle on the second floor, because he hit it. “Sherbet lemon,” he said. “Cockroach Cluster. Fizzing Whizzbee, *please*.” It looked over his head. The Headmaster had gone off at noon, said a portrait with its wig on crooked, he’d had a note from the Minister. He went down again. He went down four flights and along the dungeon passage. He felt the third flagstone rock, and he beat on the door with both his fists. It was locked. Nobody came. He stood there with his forehead on the wood.
+Someone was running. There was a lot of echo. He went up the marble staircase, and he remembered the gargoyle on the second floor, because he hit it. “Lemon drop,” he said. “Cockroach Cluster. Fizzing Whizzbee, *please*.” It looked over his head. The Headmaster had gone off at noon, said a portrait with its wig on crooked, he’d had a note from the Minister. He went down again. He went down four flights and along the dungeon passage. He felt the third flagstone rock, and he beat on the door with both his fists. It was locked. Nobody came. He stood there with his forehead on the wood.
 
 *Think.*
 

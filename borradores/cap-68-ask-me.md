@@ -258,4 +258,4 @@ He started to laugh. It didn’t come to much; it hardly stirred the cloak.
 
 “Mm.”
 
-He was. He went to sleep smiling, with marmalade on his chin. He did not hear her go down to her rounds. He slept for eleven hours, and he didn’t dream of anything at all.
+He was. He went to sleep smiling, with marmalade on his chin. He did not hear her go down to her rounds. He slept for ten hours, and he didn’t dream of anything at all.

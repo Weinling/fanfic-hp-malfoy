@@ -32,6 +32,16 @@ He couldn’t have said what it was. He hung up there on the end of the longest 
 
 He put his head down and went.
 
+Diggory had seen it a second after he did. He finished four lengths behind, flat along his broom, and came down at the Hufflepuff end and got off rather slowly, as a captain does with thirty points. Then he walked the length of the pitch, because there were people looking and he was Head Boy, and he shook Harry’s hand, once. He looked at the Snitch, which was trying to get out between Harry’s fingers.
+
+“Fourteen weeks,” said Diggory. “*Later*, you said.”
+
+Harry had nothing to say to that. He had made a fox on a hearthrug three Sundays ago, and it had sat down with its chin up, and there was a very small boy in that long room who had grown up looking at that chin across the breakfast table.
+
+“I know,” said Harry.
+
+“Good game,” said Diggory, in a clear pleasant carrying voice, and he went away to see to his team.
+
 ⁂
 
 The final score was two hundred to thirty. Ron had let in three.

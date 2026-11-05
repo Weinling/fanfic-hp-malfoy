@@ -48,7 +48,7 @@ He was in the Owlery when she got there.
 
 She had known he would be. The ring had pulled her up the west staircase and out along the cold stone passage and up the last winding flight to the top of the tower, warm and then warmer, and it had stopped pulling at the door; and when she pushed it open he was standing at the far window, in the straw, with his back to the light and his hands in his pockets, and every owl in the place awake and watching him.
 
-He had not stood at the foot of the dungeon steps where anybody could see him for three weeks, and he did not come towards her now. He had his weight off the left leg, and the bandage had come through his trousers in a long brown stain; nobody in their senses would have let him up that tower. He looked at her face, and whatever he saw in it, he stayed where he was.
+He had not stood at the foot of the dungeon steps where anybody could see him for three weeks, and he did not come towards her now. He had his weight off the left leg, and the bandage had bled through his trousers in a long brown stain; nobody in their senses would have let him up that tower. He looked at her face, and whatever he saw in it, he stayed where he was.
 
 “You called,” said Potter.
 
@@ -254,7 +254,7 @@ It was one breath of a laugh, with nothing in it. She had not known that he owne
 
 “You’re good at it. You’ve just told me so. You did it in that classroom with the moon on the lake, and I never—” His voice cracked straight up the middle. “Once more. That’s all. It wouldn’t have cost you anything. You could have said *I don’t know*. You could have said *don’t ask me that*. You could have looked at the *floor!*”
 
-He had shouted it. In four years she had heard him angry in a great many voices, and they had all been quiet. Every owl in the tower went up at once, and the air was full of wings and straw and a hard dry clatter; and Lyra stood where she was and waited for it to settle, and found that she was angrier than she had ever been in her life. It was a great relief.
+He had shouted it. In four years she had heard him angry in a great many voices, and nearly all of them had been quiet. Every owl in the tower went up at once, and the air was full of wings and straw and a hard dry clatter; and Lyra stood where she was and waited for it to settle, and found that she was angrier than she had ever been in her life. It was a great relief.
 
 “*I* could have lied,” she said.
 
@@ -396,6 +396,6 @@ She took her hands out of his robes, the left and then the right. She did not lo
 
 “This year,” said Potter, behind her.
 
-He had tried to make it a joke. She heard him try. It came out on no breath at all, and there was not an owl in that tower that could have taken it for one.
+He had tried to make it a joke. It came out on no breath at all.
 
 She went down the stairs.

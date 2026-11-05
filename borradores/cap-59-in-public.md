@@ -54,7 +54,7 @@ Granger had not said anything. She had made a small neat tick, on a piece of par
 
 Then there was the timetable.
 
-It had been in Lyra’s pigeonhole on the Friday, folded into a square. It was ruled in three colours. *Mon. and Fri., 8.30 to 10.30. Sun., 2 to 5, reports. NOT Weds. (Harry: Potions essays.) NOT Thurs. (You know why.) Both of you will go to dinner. I have spoken to Goyle.* There was a note at the bottom, in the same small upright hand. *He has O.W.L.s in June as well, whatever he may think. This is not a kindness. I want that written down.*
+It had been in Lyra’s pigeonhole on the Friday, folded into a square. It was ruled in three colours. *Mon. and Fri., 8.30 to 10.30. Sun., 2 to 5, reports. NOT Tues. (Harry: Diggory.) NOT Weds. (Harry: Potions essays.) NOT Thurs. (Diggory, and you know why.) Both of you will go to dinner. I have spoken to Goyle.* There was a note at the bottom, in the same small upright hand. *He has O.W.L.s in June as well, whatever he may think. This is not a kindness. I want that written down.*
 
 She had read it three times. She had never in her life been told what to do by anybody so badly dressed. She had pinned it up over the fireplace, because it was, when one looked at it, an extremely good timetable.
 

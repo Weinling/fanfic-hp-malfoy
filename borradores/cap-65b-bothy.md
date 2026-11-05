@@ -2,7 +2,7 @@
 
 He left on the Saturday night, after the castle had gone quiet, from the flat roof behind the owlery stair.
 
-It was the first warm night of the year. There was half a moon, and a wind you could have lit a match in. He had the Firebolt, and the atlas buttoned inside his jumper, and two days. Nobody would miss him until Monday. He had told Hermione he’d got a headache, and she had looked at him over the Ancient Runes and said nothing, as she’d been saying it for a week. He had done Sunday’s report on the Friday, and told a person on the seventh floor that he had some Potions to catch up on. She was so happy. She had laughed, with her feet on his knee, and told him to mind he didn’t fall in. He stood on the leads and looked at the dark line of the mountains to the north.
+It was the first warm night of the year. The moon was a night past full, and there was a wind you could have lit a match in. He had the Firebolt, and the atlas buttoned inside his jumper, and two days. Nobody would miss him until Monday. He had told Hermione he’d got a headache, and she had looked at him over the Ancient Runes and said nothing, as she’d been saying it for a week. He had done Sunday’s report on the Friday, and told a person on the seventh floor that he had some Potions to catch up on. She was so happy. She had laughed, with her feet on his knee, and told him to mind he didn’t fall in. He stood on the leads and looked at the dark line of the mountains to the north.
 
 There were forty-five days of Sirius. He had found a place on page 71, a long way from any of the red lines. It had a small grey square on it and two words in italics, and he wanted to see if there was a roof.
 
@@ -34,7 +34,7 @@ Nothing was the matter. It had gone. He could feel it going, draining down out o
 
 “North,” said Harry.
 
-“Right,” said Ron. “Is it far?”
+“Right,” said Ron. “Is it far? Only Diggory wants us both back for Thursday.”
 
 ⁂
 

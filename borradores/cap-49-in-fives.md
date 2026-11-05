@@ -64,6 +64,8 @@ Goyle’s big soft face fell about an inch.
 
 “It’s my scale, Greer.”
 
+“Full price for him, when we’ve got the shop,” said Goyle to Crabbe. Crabbe took a stub of pencil from behind her ear and made a small mark beside the word *butter*. Lyra, who had a hand to think about, took this for a joke.
+
 Draco, who had no business being up, had got his chin on the arm of Lyra’s chair and was looking at the tin with his whole soul. Goyle pushed it an inch towards him without turning her head.
 
 Nott dealt. He played cards as he played chess, like somebody drafting a lease; and across from him Crabbe, who had been looking at her hand for some time with her slow, careful, thorough look, laid it down one card after another, and took eleven Sickles off him. Nott looked at the cards, and then at Crabbe. It was the first time that Lyra had seen his teeth.

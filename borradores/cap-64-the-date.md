@@ -1,5 +1,55 @@
 # Chapter 69: The Date
 
+“You keep leaving,” said Diggory.
+
+Harry lowered his wand, and the Shield went out with a small flat pop. He had held it for about four seconds.
+
+It was the third Thursday in April, in the long room behind the kitchens, and the smell of somebody’s bread was coming through the wall. Umbridge had been gone three weeks. Nobody had to come in by twos any more, and the room was full. Down at the far end Neville had the third-years and the little ones in a row along the white line, with their wands up and their tongues out. He had been doing that since February. Harry had started spending his Tuesdays on a stone floor, and he had come back one Thursday to find a corner of the room that did what Neville told it, in a whisper, without either side having apparently noticed.
+
+“I’m here,” said Harry.
+
+“You’re not. You put it up faster than anybody I’ve ever seen, and then you’re out from behind it, looking for something to hit.” Diggory came round with his wand behind his ear and looked at Harry’s feet. He took Harry’s left elbow in two fingers and moved it an inch, as you might move a vase. “It isn’t a door, Potter. You don’t open it and go through. You stay behind it. That’s all it is. It’s the most boring thing you’ll ever do, and you go on doing it while somebody else does the interesting part. Again.”
+
+Harry put it up. He had learnt it twice, both times at fourteen, both times for a maze, and nobody had mentioned that part. He stood behind it with his feet where they had been put, and every inch of him wanted to be somewhere else. Five seconds. Six.
+
+“Hopkins does twelve,” said Diggory. “Left-handed.”
+
+“Sorry,” said Hopkins, going past.
+
+The door at the kitchen end opened, and Hermione came in backwards. She had flour to the elbow, and she was saying to somebody behind her that it was not a question of whether they *liked* it.
+
+“They like it,” said a slow voice from the passage.
+
+“That’s what’s *wrong!*” said Hermione. A large hand came round the door with a bun in it. She looked at the bun. She took it, with dignity, and shut the door, and saw them all looking. “It’s a very complicated position,” said Hermione.
+
+Diggory took the wand from behind his ear.
+
+“Right,” he said to the room, without raising his voice. “Mr Potter’s going to show you something. He’s been meaning to since November.”
+
+It went quiet from the far end first. Harry turned round. He could see Ron with his arms folded, and Ginny, who had stopped not trying at about Easter. He could see a very small boy in a bow tie, by himself against the wall. He had not said a word in this room since Christmas, and he had gone on coming twice a week, and he looked up now with his pale tired face.
+
+Harry had known for some weeks that it couldn’t be the hand. He put up his wand and went along the passage in his head and took hold of a short-legged table with a book under one leg. A ceiling that said *THREE*. Somebody bawling “Mate!” in his ear, with no idea why.
+
+“*Expecto Patronum*,” said Harry.
+
+It came out at a trot. It went up the white line with its brush straight out behind it, silver and in no hurry, and the whole room backed away against the walls with its mouth open. It stopped in the middle of the boards. It looked round at all of them, one after another. Then it sat down with its chin up.
+
+Nobody said anything. Neville’s third-years had stopped breathing.
+
+“It looks as if you’ve spilt something,” said a very small voice.
+
+Harry’s heart gave one hard knock. Draco Malfoy had come away from the wall. He was looking at the fox with his head on one side, and no expression on his face at all. He put out one finger towards its ear; it looked at him down its nose, and he took the finger back. Ron, for some reason, had started to cough.
+
+The fox went out. Diggory stood looking at the place where it had been, for rather longer than it deserved.
+
+“I get fog,” he said. He looked at Harry. “Don’t look pleased with yourself. Feet.”
+
+Harry looked down. His left foot had wandered off. He put it back, and he put up his wand, and he stood there behind nothing very much, doing the most boring thing he would ever do, with thirty people going back to work around him.
+
+“Nine,” said Diggory at last, as if it had been got out of him with pliers, and he went away to see what Longbottom was doing to the third-years.
+
+⁂
+
 There was no chip shop in Hogsmeade, so Hermione had looked into it.
 
 It turned out that an old wizard from Grimsby had taken the shed behind Zonko’s over the Easter holidays, and was frying things in it on Saturdays with a cauldron and a bad-tempered Heating Charm, and that you could get a pennyworth of chips in a cone of the *Daily Prophet* for a Knut and a half if you did not mind what was on the page. She told them this at breakfast on the third Saturday in April, in the tone of somebody reading out the minutes. Harry put down his fork. He looked at her across the toast, and she looked back at him, with a small straight face and her chin on her hand, and turned over a piece of parchment; and that was how it came about that at half past twelve that day, in the first warm sun of the year, the three of them were sitting in a row on the low wall behind the post office, with their legs hanging down, eating chips.

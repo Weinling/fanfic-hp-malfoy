@@ -30,7 +30,7 @@ She left a gap in the second line. Between *Potter.* and *You were*: a blank in 
 
 She took out her wand and touched its tip to the blank.
 
-The parchment gave a soft crack, like a seal breaking, and split along its own thickness into two thin layers that lifted apart at the edge, exactly as her father’s letters did; he had shown her how, years ago, for a birthday treasure hunt, and she had never once used it for anything until now. Between the layers the parchment was clean and pale, like the inside of a shell.
+The parchment gave a soft crack, like a seal breaking, and split along its own thickness into two thin layers that lifted apart at the edge, exactly as her father’s letters did; he had shown her how, years ago, for a birthday treasure hunt, and she had never once used it to hide anything of her own until now. Between the layers the parchment was clean and pale, like the inside of a shell.
 
 She wrote, very small, with the finest nib she had:
 

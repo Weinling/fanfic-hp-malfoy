@@ -202,7 +202,7 @@ She knew that smile.
 
 She had known it at once. It had taken her some little while to think from where; she’d had the leisure. It had been in a wardrobe, in the staff room, with a smell of mothballs, and she had been thirteen. It had been patient and quite cold, and there hadn’t been any hurry in it at all. It had looked as if it had all the time in the world, and already knew how everything would end.
 
-She had hoped very much that she never would.
+She had hoped very much never to see it on him.
 
 *Stay there*, he had said.
 
