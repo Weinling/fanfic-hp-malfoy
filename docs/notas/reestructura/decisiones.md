@@ -135,7 +135,9 @@ Corrige lo anterior donde choque. Informes: `docs/notas/criticas-codex/segunda-o
 
 **Voldemort contra Harry, en presente.** «I had her. You lent her», por la cicatriz. Hedwig llega muerta con una nota en letra de colegial: *Still bored?* Harry le contesta, y Riddle se lo cobra en Lyra: al día siguiente, en el Comedor, le hace arder la Marca durante un minuto delante de seiscientas personas. Ella sigue untando la tostada; Harry nota el placer de Riddle por la cicatriz. Cada cosa que él haga la pagará ella. Ahí nace su decisión de matarle del modo más doloroso posible. No se cumplirá: el cuerpo cae rápido y sin satisfacción, y a Riddle lo mata ella. Ese odio alimenta al fragmento: cuanto más quiere matarle, mejor le suena la voz. Sus amigos lo notan, y eso tiene consecuencias.
 
-**La revisión del 39 al 72 es una revisión, no un añadido.** Los capítulos nuevos se quedan con algo que ya pasa en otro sitio; no añaden hechos. Hay que tocar los vecinos para mantener cronología y energía, y ningún capítulo puede sobrar.
+**La revisión del 39 al 72 cambia el tono de la historia entera (autor).** Seis capítulos entre setenta no lo compensan, y venderlos como interludios o extras invalida la idea. La amistad va en la línea principal: se analiza cada capítulo hecho, y los amigos empujan la trama y tienen vida propia dentro de los capítulos normales. Lo nuevo se queda con algo que ya pasa en otro sitio, no añade hechos. Hay que mantener cronología, lógica y constancia, y ningún capítulo puede sobrar. Sin pasarse, para no aburrir.
+
+**Lyra se rompe y Harry es gris (autor).** Ella es una cría: se rompe delante de los demás, sin racionarlo. A él no se le da una moral ni una nobleza que no tiene. El 39 ya está rehecho así.
 
 ## Lo que decido si no dices lo contrario
 

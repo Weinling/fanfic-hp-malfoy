@@ -1,5 +1,5 @@
 # Capítulo 39: «Never Lied»
-- **Archivo:** `borradores/cap-39-never-lied.md` · **Palabras:** ~5.630 · **Punto de vista:** Lyra · **Fecha(s) en la historia:** domingo y lunes siguientes a la Tercera Prueba (que fue el sábado); la carta, en el desayuno del lunes; el Owlery, el lunes hacia las seis de la tarde · **Estado:** escrito
+- **Archivo:** `borradores/cap-39-never-lied.md` · **Palabras:** ~6.050 · **Punto de vista:** Lyra · **Fecha(s) en la historia:** domingo y lunes siguientes a la Tercera Prueba (que fue el sábado); la carta, en el desayuno del lunes; el Owlery, el lunes hacia las seis de la tarde · **Estado:** escrito
 
 ## Escenas
 1. **El domingo y la carta (Lyra).** Nadie sabe nada: Dumbledore habla del coraje y de Diggory; Potter no come; nadie menciona el barco, el abrigo ni a Crouch con la caja. El lunes llega la lechuza de su padre: entre *your mother* y *says* hay un hueco de «the width of two fingers»; ella separa las capas con la varita. Carta oculta: **«Our master has returned.»** La familia está en su gracia «thanks in no small measure to you»; su «errand in November» fue «a piece of a great work»; «never owe a Malfoy. He tells me, smiling, that he does.» El Señor Tenebroso ha preguntado por «a certain book»: Lucius le ha dicho que se llevó en las redadas del Ministerio y ella debe decir lo mismo. Cierra: «You were never anything but ours.» Lyra recuerda su promesa de aquella Navidad (hace dieciocho meses) de estar a los pies del padre aunque fuera contra Potter. A las seis, el anillo se calienta.
@@ -7,7 +7,7 @@
 3. **La confesión.** «Yes. I have.» Otra vida, años más allá; a los once, en un pasillo con Quirrell, lo recordó a trozos; por Semana Santa sabía casi todo. En esa vida no existía Lyra: era Draco. «Not you.» Cómo acabó: **«Can’t.»** Dumbledore lo sabe «Since the end of second year»; **«Him, and now you.»**
 4. **El diario y el huevo.** Dejó que Lucius pusiera el diario en el caldero de la Weasley («She was *eleven*»): cambiar algo grande le quitaba lo que sabía, y necesitaba el diario y el colmillo. Del huevo: **«I wanted you to have it.»**
 5. **Las tres cosas.** Lee la primera línea de la carta. (1) Su familia está dentro del todo. (2) Ella le mintió en aquella aula, cuando le hizo jurar, y no dirá en qué. (3) Él la puso a crédito sin decirle los términos. **«I can’t be with you.»** Él se ríe sin aire: «You could have lied.» Gritos; los búhos se levantan. Él, con lo de primer curso: **«When there was nobody.»** / «Who came?» Ella, a punto de llorar: «Nobody.» Él ofrece darle información para sus padres; ella: «Don’t insult me, Potter.» / **«Never *own* a Malfoy, Potter.»**
-6. **El beso.** Ella ya con la mano en el pestillo. «I’m going to kiss you.» / «Those are the terms.» / «Put it on the bill.» Beso largo; ella entiende lo que hace él: dejarle algo que llevarse a Wiltshire, ponerla en su deuda. Nada perdonado. Cierre: **«That was the last one»** / **«This year.»**
+6. **El beso (rehecho el 5 de noviembre).** Antes de «Who came?»: «I don’t want you to go.» / «I don’t want to.» / «But you’re going.» Tras «Who came?» Lyra se rompe delante de él, a gritos, y sigue llorando hasta el final. Con la mano en el pestillo: «I’m going to kiss you.» / «Those are the terms.» / «Put it on the bill.» Él quiere que se quede y no puede retenerla: es egoísmo, no nobleza. Nada perdonado. Cierre: «That was the last one» / «I don’t want it to be» / ella se va / **«This year»**, súplica fallida. Se va sin volverse.
 
 ## Frases literales importantes
 - «Our master has returned.»
@@ -19,7 +19,8 @@
 - «Who came?» / «Nobody.»
 - «Never *own* a Malfoy, Potter.»
 - «Put it on the bill.»
-- «That was the last one,» / «This year,»
+- «I don’t want you to go.» / «I don’t want to.»
+- «That was the last one.» / «I don’t want it to be.» / «This year.»
 
 ## Fichas (objetos y motivos)
 - **La carta con capa oculta:** hueco de dos dedos, varita para separarla; la guarda en la manga.
