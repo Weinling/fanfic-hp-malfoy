@@ -144,7 +144,7 @@ She took it to the window at the end of the Slytherin corridor, where the lake l
 
 There was no gap in it. She looked. He had not troubled with one for months. It was a single side, and the hand went down across the page like something falling slowly down a flight of steps.
 
-*This will be the last thing I ask of you.*
+*I shall not ask you for anything again.*
 
 *The boy must be out of the castle tomorrow, by four o’clock. I do not ask how you will do it, and you need not know why. You have always been able to make him go where you wished. I don’t think you can have any idea how much I have relied on that.*
 

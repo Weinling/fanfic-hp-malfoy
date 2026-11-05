@@ -216,7 +216,7 @@ He didn’t want her to be frightened. She was to understand that there was noth
 
 He kissed her on the forehead, as you’d sign something. Her skin was cold.
 
-“I’ll be back,” said Harry. “Stay there.”
+“I won’t be long,” said Harry. “Stay there.”
 
 He stood up. He picked up the pot and straightened it on the shelf. On the wall a kitten in a bonnet mewed at him.
 

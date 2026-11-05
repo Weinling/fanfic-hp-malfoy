@@ -6,7 +6,7 @@
 2. **Granger y el atlas.** (Sáb. 8) Harry deja a Granger un cuadrado de pergamino; va al cuaderno. (Lun. 10) Lyra tiene el atlas en la mano, abierto por una página muy usada; **no lo abre**: lo que no sabe, Voldemort no lo encuentra.
 3. **Aritmancia y la tarta** (mié. 12). Granger ya no la mira: «Your cuff’s in the ink.» Saca las once preguntas. Harry le hace una tarta horrible que dice ***TAU***. Beso pequeño. *I got all of it. There isn’t one thing wrong.*
 4. **Snape** (jue. 13). «The third flagstone rocks.» Sabe que ella oyó. «If he had, Miss Malfoy, you’d have read about it in the *Prophet*.» El informe del 19 de mayo: Voldemort pidió oírlo dos veces, y se rio. Ya no pregunta.
-5. **La última orden** (lun. 17). Lucius: ***This will be the last thing I ask of you.*** Potter fuera del castillo antes de las cuatro; a cambio, «no occasion to trouble Draco». «You stood on a stool to read my ledgers.» *Burn it.* Ella lo quema; no se lo dice (tendría que contar lo del huevo).
+5. **La última orden** (lun. 17). Lucius: ***I shall not ask you for anything again.*** Potter fuera del castillo antes de las cuatro; a cambio, «no occasion to trouble Draco». «You stood on a stool to read my ledgers.» *Burn it.* Ella lo quema; no se lo dice (tendría que contar lo del huevo).
 6. **La última noche.** Cada uno cree tenerlo resuelto. Harry le pide llevar el anillo en el dedo: anular izquierdo. Arriba de la escalera de mármol, él se toca la cicatriz: **«He’s happy.»**
 
 ## Quién sabe qué
