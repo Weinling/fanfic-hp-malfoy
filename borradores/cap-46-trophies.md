@@ -110,7 +110,7 @@ She got up, and stepped over the tin. It was only the one step. It was very brie
 
 ⁂
 
-They reached the second cabinet at about half past ten, and stopped for dinner, which neither of them had had. Lyra felt in the pocket of her robes for a handkerchief and found, instead, something wrapped in a napkin. It was a pumpkin pasty, slightly flattened. There was a note on it, in a large round hand. *EAT THIS. I mean it. G.*
+They reached the second cabinet at about half past ten, and stopped for dinner, which neither of them had had. Lyra felt in the pocket of her robes for a handkerchief and found, instead, something wrapped in a napkin. It was a pumpkin pasty, slightly flattened, and rather better than the last. Nothing that had been near an elf was that shape. There was a note on it, in a large round hand. *EAT THIS. I mean it. G.*
 
 She looked at that for a moment. Goyle had been doing this for some weeks. It was quite absurd. She had found a sugar mouse in her Arithmancy on Tuesday.
 

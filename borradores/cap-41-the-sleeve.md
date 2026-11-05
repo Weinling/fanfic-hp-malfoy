@@ -130,6 +130,10 @@ She knew the story, as one knows the story of a house: Abraxas Malfoy had died o
 
 ⁂
 
+There was a parcel on her bed when she went up. It had come by the Goyles’ elderly owl, who had apparently sat on it. Inside was a pasty, or the remains of one, nearly black along one edge. *I MADE THIS*, said a note in a large round hand. *WITH MY HANDS. EAT IT. G.* And at the foot, in the plainest writing in Slytherin: *It isn’t very good. She says to say it is. V.*
+
+Lyra ate the middle. She had not known that she was going to laugh, and it hurt rather, and it stopped.
+
 Her mother wanted her for nothing whatever. Lyra met her at the top of the stairs at dusk, on the way down to dinner, and her mother stopped, and looked at her hair.
 
 “Put it up,” she said. “It’s too hot to wear it down at the table.”

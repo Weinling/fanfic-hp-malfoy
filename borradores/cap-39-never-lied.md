@@ -312,7 +312,7 @@ She felt it go, down one side of her nose and then the other, hot and perfectly 
 
 It took her two attempts. The first had no sound in it.
 
-“Nobody *came!* Is that what you want? Nobody came, nobody ever— I know what they are, Potter, thank you! I have been reading my father’s face since before I could read! I know what he sent me up that gangplank with, and I know what he calls me, and I know what he’d spend, you needn’t tell me, you needn’t stand there and *tell* me— They didn’t come, and they’re mine, and I am going home! That’s what the word *means!* Do you imagine that if one got to choose—”
+“Nobody came. Is that what you want? Nobody came, nobody ever— I know what they are, Potter, thank you. I have been reading my father’s face since before I could read. I know what he sent me up that gangplank with, and I know what he calls me, and I know what he’d spend, you needn’t tell me, you needn’t stand there and *tell* me— They didn’t come, and they’re mine, and I am going home. That’s what the word means. Do you imagine that if one got to choose—”
 
 It broke. It went out from under her in the middle, like a stair. The noise that came instead was high and wet and not at all the noise of a Malfoy, and every owl on the near perches turned to look. She put the back of her hand against her mouth. It did no good. She stood in front of him with her shoulders going and her nose running, and she could not make it stop, and he could see all of it.
 
@@ -320,7 +320,7 @@ She saw what it did to him. He looked, which was absurd, as though he had heard 
 
 “Lyra,” said Potter. “I didn’t—”
 
-“You *did!*” It came out in pieces. “You’ve been— saving it. It was very well done.”
+“You did.” It came out in pieces. “You’ve been— saving it. It was very well done.”
 
 He opened his mouth, and he shut it. He had.
 
@@ -367,6 +367,8 @@ Lyra stared at him.
 “Did you hear *one word* that I—”
 
 “Every word.” The corner of his mouth moved. It was the most insolent thing she had ever seen, and his eyes were still wet. “Never own a Malfoy. I heard. Put it on the bill.”
+
+It was a filthy thing to say to somebody with her nose running. He knew that; she could see that he knew. It was also the first thing anybody had said to her in a quarter of an hour that she knew how to answer.
 
 She had taken him apart, in order, under headings, with her nose running, and he was still standing there, on one leg. She had her wand in her sleeve and the door at her back, and nobody in the world was stopping her.
 

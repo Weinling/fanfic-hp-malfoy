@@ -1,56 +1,8 @@
 # Chapter 45: Rounds
 
-Professor Umbridge’s classroom had been Mad-Eye Moody’s classroom, and nothing of Moody was left in it.
+Lyra read the first chapter of Wilbert Slinkhard with every appearance of delight, and could not have told anybody a word of it.
 
-The desks were back in their rows. The jars of things that wept were gone from the shelves, and the cracked mirror with the grey shapes in it, and the trunk; and in their place there were lace doilies, and a vase of dried flowers, and on the wall behind the desk a set of china plates, each with a kitten painted on it, wearing a bow. The kittens moved. They played with balls of wool. One of them, as Lyra sat down in the front row, looked at her and yawned.
-
-“Wands away,” said Professor Umbridge, sweetly, before anybody had got theirs out. “We shan’t be needing those.”
-
-It was a double period, with the Gryffindors. Lyra had chosen the front row because it was where a prefect sat, and because she could not see the Gryffindor side from it without turning her head, and she had no intention of turning her head. She put her wand away. She opened *Defensive Magical Theory*, by Wilbert Slinkhard, at chapter one, as instructed, and began to read it, as instructed, with every appearance of finding it delightful.
-
-It was the worst book she had ever opened. It was about the theory of defensive magic, and nothing else; there was not a single spell in it that one was expected to cast, only a great deal about the importance of non-retaliation and the dangers of overreaching oneself. It had been written, as far as she could tell, for people who wanted to be attacked politely.
-
-Behind her, on the Gryffindor side, a hand went up. She knew whose without turning round. Granger’s hand made a particular sound going up, a kind of rush of air, as though it had been waiting all summer.
-
-It went on going up, and staying up, for some time. Umbridge read the register. Umbridge explained the course aims, which were on the blackboard. Umbridge smiled at the hand and looked straight through it. When at last she did, it was only to say that Miss Granger would find everything she needed in chapter one, if she read it.
-
-“But there’s nothing in it about *using* defensive spells,” said Granger.
-
-“Using them?” Umbridge gave a little laugh. “Why, I can’t imagine any situation arising in my classroom that would require you to use a defensive spell, Miss Granger. You surely aren’t expecting to be attacked during class?”
-
-“Not in class,” said a different voice. “Outside it.”
-
-Lyra kept her eyes on her book.
-
-“Mr Potter.” Umbridge’s voice stayed exactly where it was. “Hands up, please, in my class.”
-
-“Sorry.” He sounded nothing of the kind. He sounded like nothing at all; it was the even, pleasant voice he kept for teachers he had already decided about. “It’s only that the O.W.L.s are practical. You have to do the spells in front of an examiner. It seems a bit odd to learn them out of a book and never try one.”
-
-“The Ministry believes that a theoretical knowledge will be more than sufficient to get you through your examination—”
-
-“And afterwards?”
-
-“I beg your pardon?”
-
-“After the exam, Professor. When there’s something out there that’s actually trying to hurt people. Is that theoretical as well?”
-
-The room had gone very quiet. Even the kittens on the wall had stopped playing.
-
-“Nothing out there is trying to hurt children,” said Professor Umbridge, “Mr Potter. Whatever you may have been told.”
-
-“He’s back,” said Potter. “Voldemort. You know he is. Professor Dumbledore told the whole school in June.”
-
-Half the class drew in its breath at the name. Parkinson made a small noise like a kettle. Lyra kept her eyes on page four of Wilbert Slinkhard and felt it go over her, the name, as it always had, since she was eleven: a cold small shock at the back of the neck, like a door left open in winter.
-
-“Detention, Mr Potter,” said Professor Umbridge, with the sweetest smile Lyra had ever seen on a grown woman. “Tomorrow evening. Five o’clock. My office.” She turned a page of her register. “I think we shall have a whole week of them, don’t you? To give us time to talk about lies, and why we tell them.”
-
-Lyra turned the page of her book.
-
-She had known he would do it. She had known on the platform, probably; certainly at the feast, when she saw his face. He could no more have sat quiet in that classroom than he could have sat quiet in the Great Hall with a cup of fire spitting his name. And she had known, too, what it would get him. One did not need to be Harry Potter to see what sort of woman put kittens on her wall.
-
-She read to the end of chapter one and could not have said a word of it.
-
-⁂
+She had known that he would do it. She had known on the platform, probably; certainly at the feast, when she saw his face. He could no more have sat quiet in that classroom than he could have sat quiet in the Great Hall with a cup of fire spitting his name. He had even been polite about it, which she had not expected and did not care for. And she had known, too, what it would get him. One did not need to be Harry Potter to see what sort of woman put kittens on her wall.
 
 When the bell went, the room emptied in a rush, the Gryffindors fastest, as though the doilies were catching. Lyra put her book in her bag very slowly, and let Crabbe and Goyle go on ahead, and was the last at the door; and then she turned round.
 
@@ -210,7 +162,7 @@ It was exactly what she had told him to do. She noted that. She had told him so 
 
 It was a curious thing, to miss somebody who was sitting in the same room. She had not known that one could. All summer she had supposed it was the distance. She knew now that it was forty feet, and nineteen stairs, and two classrooms on a Thursday, and she woke at some dead hour every night under the green water with her whole chest pulling upwards, towards a tower, like a tooth; and in the morning she did her hair, and went up to breakfast, and did not turn her head.
 
-Her father wrote that old Mr Nott had asked to be remembered to her, and that Theodore had grown. He had, rather. He had a long clever face and very clean hands, and he had played chess with her through the whole of last November without once saying anything foolish. That same Monday she allowed him to carry her bag up from the dungeons. She allowed it at about ten to eight, by way of the Great Hall, down the whole length of the Gryffindor table. He said something about the Goblin Rebellions, and she laughed; and she considered it, and she laughed again.
+Her father wrote that old Mr Nott had asked to be remembered to her, and that Theodore had grown. He had, rather. He had a long clever face and very clean hands, and he had played chess with her through the whole of last November without once saying anything foolish. That same Monday she allowed him to carry her bag up from the dungeons. Crabbe, who had been about to say something to him about a horse, shut her mouth and dropped back a step to make room. Lyra allowed it at about ten to eight, by way of the Great Hall, down the whole length of the Gryffindor table. He said something about the Goblin Rebellions, and she laughed; and she considered it, and she laughed again.
 
 Potter did not turn round. He went on buttering his toast, with great attention, right out to the corners. But the back of his neck had begun, very slowly, to change colour; and she went up to Arithmancy in such spirits that she got a sum wrong.
 

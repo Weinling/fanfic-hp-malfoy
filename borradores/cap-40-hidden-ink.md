@@ -244,7 +244,7 @@ On the train somebody had the *Prophet*.
 
 It went round their compartment twice before they reached the moors, and Goyle read the best bit out, in the Minister’s voice: that the Minister deeply regretted that Professor Dumbledore had seen fit to alarm a hall full of children on the eve of their holidays with irresponsible rumours, at a time when the Ministry was doing everything in its power to bring Mr Crouch’s murderer to justice. Nobody laughed. Crabbe took it off her, after the second time, and folded it up small, and sat on it.
 
-Somewhere after York, Goyle held out a Chocolate Frog, and went on holding it out. “Eat something,” she said. Lyra looked at it until it gave up trying to get out of the packet.
+Somewhere after York, Goyle put away a bit of paper she had been reading with her lips moving, a recipe she had begged off an elf on her way to the carriages, and held out a Chocolate Frog, and went on holding it out. “Eat something,” she said. Lyra looked at it until it gave up trying to get out of the packet.
 
 Lyra looked out of the window most of the way, at the hills going by and then the fields and then the backs of houses, and did not take part in the conversation, and nobody asked her to.
 

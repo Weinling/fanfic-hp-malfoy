@@ -40,6 +40,8 @@ There was a third letter, which had come with the school owls without being a sc
 
 “Nobody.” Lyra put it in her pocket. She was smiling, which she had not done at that table since July.
 
+Crabbe’s came on Sundays, four lines about the weather and her Arithmancy; the last had added, without comment, a small neat column headed *G.’s butter*, and a total. It did not appear to want an answer. Lyra had been meaning to ask what it was for.
+
 She would answer it. She would tell him that Granger was a prefect, which Granger certainly was, and that she was perfectly well, which Lyra had no means of knowing and no intention of finding out; and that his ship had been a disgrace from the moment it came out of the lake, and that his headmaster had left his coat behind.
 
 It would be the first letter she had finished all summer.

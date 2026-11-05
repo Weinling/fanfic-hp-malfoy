@@ -134,7 +134,7 @@ She looked at him. She looked at the ears. She had had no quill that day, and no
 
 He did not answer. It was quite the most pathetic thing she had ever heard of. She kept her face where it was, and underneath it something that had sat up on a dungeon staircase in June sat up again and asked to be told the whole thing slowly.
 
-“I am allowed to laugh, Potter. It’s not against any law. He wanted to know whether Hufflepuff could be cured.” She took a breath. “What would you have preferred? Should I have been crying? Would that have suited you better?”
+“I am allowed to laugh, Potter. It’s not against any law. He wanted to know whether Hufflepuff could be cured.” She took a breath. “What would you have preferred? Should I have been crying? You’ve seen that. Would it have suited you better?”
 
 He looked at the owl. He looked at the floor, and then he looked at her, and she saw him decide.
 
