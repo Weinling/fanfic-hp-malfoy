@@ -57,7 +57,7 @@ Un matiz a tu idea: Draco no se corrompió, se rompió. Si queremos corrupción,
 5. Escribe *You don’t owe me anything* y lo quema. Arden Riddle, la otra vida, nueve siglos, la fortuna, el nombre. Salen todos los cobrados, Greer también.
 6. Ya no hay regla que le traiga: es libre y puede irse. Se queda con él hasta el amanecer, con el anillo plateado (32). Se calienta. **Elige él.** «You don’t owe me anything.» «I know. That’s why I came.» No recuerda la otra vida. Por primera vez, nadie sabe qué pasa después.
 
-## 7. El otro Harry perdió (autor, 4 de noviembre; dirección, no se revela hasta el tramo 4 o 5)
+## 7. El otro Harry perdió (autor, 4 de noviembre; confirmado el 5; no se revela hasta el tramo 4 o 5)
 
 **El otro Harry murió en el Bosque y no se levantó. Voldemort ganó su guerra.** No fue un viaje: nadie volvió. Encaja con la decisión 3 sin cambiarla: el fragmento moribundo huyó con toda aquella vida, y por eso lo que recuerda Harry acaba exactamente en la luz verde. El corte no es un olvido: es el momento en que murió el dueño de esos recuerdos.
 

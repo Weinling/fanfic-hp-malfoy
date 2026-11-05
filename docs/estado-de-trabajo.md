@@ -19,7 +19,8 @@
 
 ## Siguiente paso exacto
 
-1. Guion de la tanda 73-84, con el guion general, `decisiones.md` y los pendientes del §8.
+1. **El autor aprueba o corrige** `docs/notas/reestructura/propuesta-tanda-73-84.md`.
+2. Entonces, `borradores/guion-tanda-73-84.md`; la propuesta se funde en él y se borra. La tanda no se escribe hasta que apruebe el guion.
 
 ## Pendiente, sin urgencia
 
@@ -29,4 +30,4 @@
 
 ## Espera al autor
 
-- Confirmar la decisión §7 (el otro Harry perdió). La tarea nocturna está desactivada.
+- La propuesta de la tanda 73-84. La decisión §7 (el otro Harry perdió) está confirmada. La tarea nocturna está desactivada.
