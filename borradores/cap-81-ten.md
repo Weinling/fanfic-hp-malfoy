@@ -10,7 +10,7 @@ Ron had a badge on, with a dent across the middle. He’d got bigger through the
 
 It didn’t mean anything, for a moment.
 
-“Saturday. After the match. She came off the pitch and went in to change, and the next thing she knows it’s dark, and she’s in the passage behind Charms with her gloves in her hand and no idea how she got there. She didn’t tell anyone. She didn’t tell me till last night. I found her in the common room at three o’clock in the morning, with a candle. She’s got everything that she’s written since September, she’s got it all out on the floor. She’s going over it with a pencil.”
+“Saturday. After the match. She went up for a long ball, and the next thing she knows it’s dark, and she’s in the passage behind Charms with her gloves in her hand and no idea how she got there. She didn’t tell anyone. She didn’t tell me till last night. I found her in the common room at three o’clock in the morning, with a candle. She’s got everything that she’s written since September, she’s got it all out on the floor. She’s going over it with a pencil.”
 
 His voice cracked in the middle. He brought his eyes down. They were red round the rims, and they were very blue, and they came to rest on Harry’s face, and it was the first time that they had done that for five and a half months.
 
@@ -166,11 +166,11 @@ It was only a whisper. He hadn’t meant to say it.
 
 There was something hot on his finger.
 
-He looked down. He had put his hand out in front of him, and he looked at it, and for a moment he didn’t understand. He’d had that ring on the same finger for thirteen months. It had been a plain thin band of silver since the morning that he’d stood on a chalk hill; it hadn’t so much as flickered. She’d stopped wearing hers on her hand; it had gone back on its ribbon. He had seen the green at the neck of her dress. It would have to be against her skin.
+He looked down. He had put his hand out in front of him, and he looked at it, and for a moment he didn’t understand. He’d had that ring on the same finger for two and a half years. It had been a plain thin band of silver since the morning that he’d stood on a chalk hill; it hadn’t so much as flickered. She’d stopped wearing hers on her hand; it had gone back on its ribbon. He had seen the green at the neck of her dress. It would have to be against her skin.
 
 It had gone blue.
 
-It was a deep, dark, unhappy blue, like the sky an hour after the sun has set. He’d seen that once, in her palm, on a night in October, when he was fifteen. She had looked at it, and she’d said *What does that mean?* And he’d said—
+It was a deep, dark, unhappy blue, like the sky an hour after the sun has set. He’d seen that once, in her palm, on a night in October, when he was fifteen. Neither of them had said what it was. They had both known.
 
 He raised his eyes.
 
@@ -190,7 +190,7 @@ He hadn’t been to bed. He’d shaved. He came in at twenty past eight, with hi
 
 He could see the Slytherin table, forty feet off. She’d come down. She had her back very straight and a cup at her elbow, and Goyle next to her, and Crabbe two places along. Her hair was up. There wasn’t a pin out of place. She looked as if she’d slept for nine hours. She was buttering something.
 
-He got up. He didn’t decide to. It was only that it was a Saturday, and he was walking down the Hall; it was what they did. They’d been doing it for a year. *A formal programme of hostilities*. People saw him coming, and they’d started to grin. Somebody nudged somebody else. There was a pleasant small stir all along the benches, as there is when the band strikes up. You could set your watch by it. Potter and Malfoy. He’d stopped at the end of the Slytherin table, by Parkinson’s elbow, with his hands in his pockets, and he looked down at her. She looked up. She took her time. She raised one eyebrow, by an eighth of an inch.
+He got up. It was a Saturday, and he was walking down the Hall; it was what they did. They’d been doing it for a year. *A formal programme of hostilities*. People saw him coming, and they’d started to grin. Somebody nudged somebody else. There was a pleasant small stir all along the benches, as there is when the band strikes up. You could set your watch by it. Potter and Malfoy. He’d stopped at the end of the Slytherin table, by Parkinson’s elbow, with his hands in his pockets, and he looked down at her. She looked up. She took her time. She raised one eyebrow, by an eighth of an inch.
 
 “Why, Potter,” said Lyra. It carried very nicely. “You’ve got egg on your tie. I should have thought that it was too early in the day to be so disappointing.”
 
@@ -208,7 +208,7 @@ It wasn’t much. Nobody laughed; they didn’t know what it was. A few people l
 
 Lyra had stopped buttering.
 
-The knife stayed where it was, with its edge on the toast. It stayed for about as long as it takes to breathe in. He watched. He watched as hard as he’d ever watched anything. He saw her eyelids come down, about a sixteenth of an inch, and rise. Her eyes were on his. For the first time since the eighteenth of June, they were on his, and there wasn’t any air between. They were the palest grey, and they didn’t blink. He’d seen them look like that in an Owlery, with her nose running. *You’ve been saving it.*
+The knife stayed where it was, with its edge on the toast. It stayed for about as long as it takes to breathe in. He watched. He watched as hard as he’d ever watched anything. He saw her eyelids come down, about a sixteenth of an inch, and rise. Her eyes were on his. They were on his, and there wasn’t any air between. They were the palest grey, and they didn’t blink. He’d seen them look like that in an Owlery, with her nose running.
 
 Then the knife moved. It went on along the toast. She buttered right up to the crust, and across, and she did the corner. She laid it down, with its handle parallel to the edge of the plate.
 

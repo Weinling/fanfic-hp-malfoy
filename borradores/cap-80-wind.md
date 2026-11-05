@@ -44,7 +44,7 @@ But he wouldn’t hear.
 
 She put the Firebolt’s nose down, and went.
 
-The wind tried to take her sideways. She let it. She came down across the middle of the pitch in a long screaming curve, past somebody’s Bludger and somebody’s face; she could see the stands turn and a whole bank of green go up on its feet. They thought that she had seen the Snitch. So did he. His head had come up. He wrenched his broom round and he came after her, flat out, staring at the air in front of her. She shot past that, and turned, and stood the Firebolt on the wind, ten feet from him, and five. She pulled up, level, broadside on, with the whole gale at her back, and he was there. He’d stopped. He had looked round, and there wasn’t any Snitch. He was looking at her, with his mouth open and his wet black hair flat in his eyes, about a yard away. One of his eyebrows was a slightly different colour from the other.
+The wind tried to take her sideways. She let it. She came down across the middle of the pitch in a long screaming curve, past somebody’s Bludger and somebody’s face; she could see the stands turn and a whole bank of green go up on its feet. They thought that she had seen the Snitch. So did he. His head had come up. He wrenched his broom round and he came after her, flat out, staring at the air in front of her. She shot past that, and turned, and stood the Firebolt on the wind, ten feet from him, and five. She pulled up, level, broadside on, with the whole gale going through between them, and he was there. He’d stopped. He had looked round, and there wasn’t any Snitch. He was looking at her, with his mouth open and his wet black hair flat in his eyes, about a yard away. One of his eyebrows was a slightly different colour from the other.
 
 “*I’ve got a snake on my arm!*” said Lyra.
 
@@ -68,7 +68,7 @@ It reached her as a very small sound, like someone calling from the far end of a
 
 She stared at him.
 
-It started somewhere down by her knees. She couldn’t have stopped it for a thousand Galleons. It came up through her ribs, it shook the broom, and she let go with one hand and clutched at her stomach, and she howled. She howled with laughter. She rocked in the saddle. He looked more baffled than ever, he looked like an owl that has been hit by a door, and he’d started to grin, because she was; he couldn’t help it, he had no idea why, and she saw that go over his face, the old one, the terrible lopsided one, that she hadn’t seen since the seventeenth of June.
+It started somewhere down by her knees. She couldn’t have stopped it for a thousand Galleons. It came up through her ribs, it shook the broom, and she let go with one hand and clutched at her stomach, and she howled. She howled with laughter. She rocked in the saddle. He looked more baffled than ever, he looked like an owl that has been hit by a door, and he’d started to grin, because she was; he couldn’t help it, he had no idea why, and she saw that go over his face, the old one, the terrible lopsided one, that she had seen only once since the seventeenth of June, under half a forehead.
 
 He shoved in closer. “*WHAT DID YOU SAY?*”
 
@@ -96,7 +96,7 @@ Two hundred to a hundred and ninety. She found that out afterwards. It seemed th
 
 “*HARRY! HARRY, DID YOU SEE THAT? DID YOU—*”
 
-It was a thing you could lip-read from the ground. Harry had got to his knees. He’d lifted his head, with his glasses crooked. She saw it go across his face.
+You could tell what it was from the ground, by the fists. Harry had got to his knees. He’d lifted his head, with his glasses crooked. She saw it go across his face.
 
 She saw Weasley stop. He stood there with his fists up. It was about as long as you’d take to remember something. He brought them down, slowly, and looked at them; and he turned his broom round.
 
@@ -158,7 +158,7 @@ Her wand was in her hand. It had been in her sleeve. It was pointing at the midd
 
 “*Obliviate*,” said Lyra.
 
-She hadn’t raised her voice. It was one of the prettiest things that she had ever done. It’s a difficult charm. You have to know exactly where to cut, and it is a matter of the wrist. She took it back as you’d take a stitch out of silk: down the passage, up the lawn, through the doors and the mud and the whole of the last hour, to a girl in the air with a Quaffle under one arm, looking at a Slytherin’s back, and thinking about something else. She took it out clean. She didn’t leave a thread. It needed about as long as it takes to breathe in, and she held it there, and she felt it come away.
+She hadn’t raised her voice. It was one of the prettiest things that she had ever done. It’s a difficult charm. You have to know exactly where to cut, and it is a matter of the wrist. She took it back as you’d take a stitch out of silk: down the passage, up the lawn, through the doors and the mud and the whole of the last hour, to a girl in the air with a Quaffle under one arm, looking at a Slytherin’s back, and thinking about something else. She took it out clean. She didn’t leave a thread. It needed one breath, and she held it there, and she felt it come away.
 
 Ginny Weasley stood very still. Her lips were a little parted. Her eyes had gone flat and mild and rather stupid, like water when a boat has passed. She swayed.
 
@@ -172,7 +172,7 @@ She bent down, and got them, and put them into the slack cold fingers, and close
 
 She didn’t look to see. She walked on, not fast, with her heels sounding on the stone. She went round the corner and down the stairs. They had got the barrel open. She could hear it from the second landing, a long way down, a great warm green confused bellowing; somebody had started on the song. Her hand was in her sleeve. It had gone back there by itself, with the wand in it, and it was perfectly steady. She looked at that. She thought that she had better look at it.
 
-It hadn’t asked her anything. She went through it, on the stairs. She’d had a second, and there had been a good deal that one might have put into a second. She had been the cleverest child that anybody ever saw. She had been doing the sums since she was eight. And it had just gone. It had gone by itself, up out of the sleeve, from the shoulder, as smooth and as level as you please. She had known what that was. She’d had it described to her. She had stood on a pink carpet once and asked somebody how he could have done such a thing, to a child of eleven; how long he could possibly have stood there, thinking it over.
+It hadn’t asked her anything. She went through it, on the stairs. She’d had a second, and there had been a good deal that one might have put into a second. She had been the cleverest child that anybody ever saw. She had been doing the sums since she was eight. And it had just gone. It had gone by itself, up out of the sleeve, from the shoulder, as smooth and as level as you please. She had known what that was. She’d had it described to her. She had stood in a dusty classroom once and asked somebody how he could have done such a thing, to a child of eleven; how long he could possibly have stood there, thinking it over.
 
 They saw her at the door. A shout went up. She put on her face and held up her chin, and went in to the party.
 
