@@ -45,7 +45,21 @@
 | 70 | 76 | Cousins |
 | 71 | 77 | Mid-Sentence |
 | 72 | 78 | Mine |
+| 73 | 79 | Who Sent for Him |
+| 74 | 80 | A Very Tidy House |
+| 75 | 81 | Give It to Me |
+| 76 | 82 | Where the House Was |
+| 77 | 83 | A Good Day |
+| 78 | 84 | The Ear |
+| 79 | 85 | Two Chairs |
+| 80 | 86 | Wind |
+| 81 | 87 | Ten |
+| 82 | 88 | Still Bored |
+| 83 | 89 | Not Your Mate |
+| 84 | 90 | The Plainest Hand |
+| 85 | 91 | It’s a Nice One |
+| 86 | 92 | Twenty-Three |
 
-**La tanda 73-84 del guion** es, para el lector, del 79 al 92.
+**Orden de lectura de la tanda:** 73, 74, 75, Interludio 3, 76 a 81, *Year Four* 3, 82 a 86.
 
 **Orden de lectura desde el 41:** 41, Interludio 2, 42, 43, *Year One* 5 y 6, 44, 44b, 45 a 49, 50, 50b, 50c, 51, 51b, 52, *Year Four* 1, 53 a 60, 60b, 61, 62, *Year Four* 2, 63, 64, 65, 65b, 66 en adelante.

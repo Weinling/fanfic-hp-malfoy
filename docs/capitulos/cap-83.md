@@ -1,0 +1,5 @@
+# Capítulo 83: «Not Your Mate» (lector, 89)
+- **Archivo:** `borradores/cap-83-not-your-mate.md` · **Palabras:** ~6.500 · **Punto de vista:** Ron, por primera vez · **Fecha:** finales de noviembre a viernes 13 de diciembre de 1996.
+
+## Escenas
+El cuadro de Hermione. Ginny y el tarro de luz. Las notas de Puddlemere, sin contestar. Harry educado y vacío; los libros de Grimmauld. Rondas: Hermione ha visto las tablas. **«How long did you know?» «A hundred and ninety-six days.» «I’m sorry about your face.»** Le añade una columna al cuadro. Cocinas: Hermione y Goyle; «Sixpence a slice. When we’ve got the shop.» **El muñeco, 28 de noviembre:** nabo en tiras. Hopkins: «No, thank you.» Se van. Neville termina la clase; Draco mira. **5 de diciembre: «Not you, Harry.»** Mesa del rincón: Ginny: «You don’t leave him on his own with it.» **6 de diciembre:** «I’m not your mate. I’m just sitting here.» La patata. «What are you going to do on the Thursday?» Turnos de Hermione. **13 de diciembre:** Ron ve caer el Felix en la bolsa y decide no verlo.
