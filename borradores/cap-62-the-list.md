@@ -22,7 +22,7 @@ It took twenty minutes. It was a nasty little Gryffindor sort of charm that he h
 
 The notebook was in the bottom left-hand drawer, under a box of lace-edged envelopes, tied up in pink.
 
-She had seen it go in. She had been seeing it go in, one way and another, since November. It was the Saturday. Professor Umbridge had been called to the Minister, and she had asked Lyra, in her little breathless way, whether she would be a dear and water the African violets. So she stood in that dreadful room with the kittens looking on and a small brass can in her left hand. She was rude to the lock. It gave a shocked click.
+She had seen it go in. She had been seeing it go in, one way and another, since November. It was the Saturday. Goyle had remarked at breakfast, to her egg, that the kitchens had been told to send up no tray. Zabini had undertaken, for a consideration he did not name, to have a question about the Squad’s expenses that would keep Filch on the stairs until eleven. Professor Umbridge had been called to the Minister, and she had asked Lyra, in her little breathless way, whether she would be a dear and water the African violets. So she stood in that dreadful room with the kittens looking on and a small brass can in her left hand. She was rude to the lock. It gave a shocked click.
 
 It was an ordinary exercise book with a blue cover. *W. Hopkins, 5th Yr, History of Magic* had been ruled out on the front. She untied the ribbon, and she stood and read it through by the window. He wrote a careful round hand, like somebody crossing a stream on stones. *Potter, H. Since 6th Sept. Back of right hand. Won’t say how many lines. Bones, S. Twice. Left hand, she writes with her left. Macmillan, E.* There were nine of them, in that hand, and they stopped halfway down a page. After that somebody else had gone on. There was a different ink, and a small upright rounded script with little circles for the dots. Umbridge had kept it up. She had added five more, in date order, with the number of lines beside each and a neat tick; she had been keeping it, it appeared, for pleasure.
 
@@ -59,6 +59,22 @@ It took her some time. Crabbe read everything slowly. Lyra watched her get to th
 For a moment the pale eyes looked at her: slow, careful, thorough. She could not read them at all. She had been able to read that face since she was eleven. It came to her that she did not know, now, what Crabbe thought about anything; that she had not known since November; that a very great deal seemed to have been going on behind that face without her.
 
 “This isn’t anything,” said Crabbe, and she went back to the window.
+
+⁂
+
+There remained the matter of the post.
+
+It was six o’clock on the Monday morning, and still dark, and Goyle was sitting on the edge of her bed in the vast flannel nightgown, doing up her shoes. Lyra stood in front of her with a package in her hand, sealed, with nothing on the outside. It was the first time that she had asked her for anything since a Tuesday in March. She had thought about that as well.
+
+Goyle looked at the package. She did not take it. She looked up, and her big soft face had nothing much on it at this hour.
+
+“Is it a nice one?” said Goyle.
+
+There were a number of things that one could say. Lyra looked at them. It had a boy’s hand in it, in a blue exercise book, and a line that she had torn off the end.
+
+“It’s the nicest I ever wrote,” said Lyra.
+
+Goyle considered that, for about as long as it took to tie a bow. Then she held out both hands. She took it as she had once taken a tin, as though it might go off, and she put it in the pocket of her dressing gown, and went away up the stairs, one at a time, towards the Owlery.
 
 ⁂
 

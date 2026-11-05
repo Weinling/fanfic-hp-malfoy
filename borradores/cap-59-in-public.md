@@ -58,6 +58,8 @@ It had been in Lyra’s pigeonhole on the Friday, folded into a square. It was r
 
 She had read it three times. She had never in her life been told what to do by anybody so badly dressed. She had pinned it up over the fireplace, because it was, when one looked at it, an extremely good timetable.
 
+Granger got ninety-seven for the January Arithmancy paper. Lyra got ninety-eight. She left hers lying face up on the table by the window, and Granger looked at it, and took out a pencil, and found the question. “That’s the wrong method, you know,” said Granger. “You got there by luck.” “It’s called flair.” They were put out by Madam Pince at twenty to six, with their voices still lowered and their hair coming down, having covered four sheets of parchment, and it was not until the stairs that Lyra noticed she had enjoyed herself. There was a napkin in her book when she opened it. *Cannons 90, Falmouth 80. Told you. R.W.* She wrote *Falmouth were drunk* underneath, and it went back by the same post, without comment, on the Tuesday. Granger took it between finger and thumb, as one takes a dead mouse, and was seen to be biting her lip.
+
 ⁂
 
 “‘Describe the causes of the goblin rebellion of 1612,’” Lyra read. “You have twenty minutes.”
@@ -120,9 +122,9 @@ They went back to the goblins, since it was on the timetable. She read out the d
 
 ⁂
 
-There were, that term, a certain number of matters to be cleared up.
+Theodore Nott lent her a book at the cards, on a Thursday. Goyle’s lemon cake had just been given a seven and a half, and she was sitting very upright, trying not to look as though she minded. Crabbe had been telling him something about a horse, in about nine words. He stopped listening, quite politely, in the middle of the seventh, and reached under his chair. It was only *The Great Houses of Wessex*, in two volumes, with plates. Lyra said something gracious. Crabbe looked at her cards.
 
-There was Theodore Nott, for one. He had given her a book. It was only *The Great Houses of Wessex*, in two volumes, with plates, and he had lent it to her in the most gentlemanly manner, at the end of Ancient Runes. She took it up to the seventh floor and left it on the shelf. On the following Monday she took down the first volume, to check something about a Selwyn, and she found that somebody had been writing in it. It was in pencil, in a small untidy hand. *No it isn’t*, it said, on page 40. *Who says?* And further on: *He’s just copied this out of Bagshot.* And on page 212, with a line under it, pressed so hard that it had gone through to the plate: *RUBBISH.*
+She took it up to the seventh floor and left it on the shelf. On the following Monday she took down the first volume, to check something about a Selwyn, and she found that somebody had been writing in it. It was in pencil, in a small untidy hand. *No it isn’t*, it said, on page 40. *Who says?* And further on: *He’s just copied this out of Bagshot.* And on page 212, with a line under it, pressed so hard that it had gone through to the plate: *RUBBISH.*
 
 “You read it,” said Lyra.
 
@@ -136,19 +138,9 @@ Potter looked up from his Transfiguration essay with an open and innocent face.
 
 “I bet he irons his socks. Have you seen his hands? I’ve never trusted anybody who had hands like that.”
 
-She closed the volume and put it back. It was perfectly ridiculous. There was no reason on earth why anybody should feel so extremely well about it. She made him rub out *RUBBISH*, and it took him twenty minutes, and he did it with very bad grace; and she took the opportunity to raise the matter of Cho Chang, and a certain breakfast in the autumn of their third year.
+She closed the volume and put it back. It was perfectly ridiculous. There was no reason on earth why anybody should feel so extremely well about it. She made him rub out *RUBBISH*, and it took him twenty minutes, and he did it with very bad grace.
 
-“What breakfast?”
-
-“You know perfectly well. She dropped her spoon.”
-
-“I don’t remember any spoon! I was *thirteen!*”
-
-“You were thirteen, and you picked it up. I was three tables away. I’ve got the date.”
-
-It cost him a bad quarter of an hour. She kissed him at the end of it, to show that there was no ill feeling, and then again, on reflection, because there was.
-
-There was the question of the Bishop of Bath and Wells, which he kept trying to bring back. There was the question of who had eaten the last of Goyle’s fruit cake; and of whether a person could be said to have a good singing voice if she had been told so only by her mother; and there was a very long dispute, on the first Sunday in February, as to whether or not a fox could climb a tree.
+There was the question of the Bishop of Bath and Wells, which he kept trying to bring back; and there was a very long dispute, on the first Sunday in February, as to whether or not a fox could climb a tree.
 
 “They can’t,” said Potter. “They’re not cats. Their feet don’t work.”
 

@@ -68,7 +68,7 @@ In five years nobody had ever asked her that. Greer Goyle had carried things for
 
 “It’s to my father.”
 
-“I know.” Goyle’s voice was as it always was: slow and rather thick, as though it were coming up from a long way under a good dinner. “Only you’ve got the face on. You had it in November. You had it when you went up to her, that Monday, before the Hufflepuff. I don’t know what it’s for, it’s not for me to know. Vanessa says I’m not to ask you things.” She finished with the left shoe, and tied a large careful bow. She sat with her hands on her knees. “I don’t want to, Lyra.”
+“I know.” Goyle’s voice was as it always was: slow and rather thick, as though it were coming up from a long way under a good dinner. “Only you’ve got the face on. You had it in November. You had it when you went up to her, that Monday, before the Hufflepuff. I don’t know what it’s for, it’s not for me to know. Vanessa says I’m not to ask you things.” She finished with the left shoe, and tied a large careful bow. “He can do up a button now. The Hufflepuff. He showed me. It took him all of breakfast.” She sat with her hands on her knees. “I don’t want to, Lyra.”
 
 The lake moved on the ceiling.
 

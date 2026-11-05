@@ -194,6 +194,18 @@ She read it at the Slytherin table. She read it again. She had thought she would
 
 ⁂
 
+She found out about the kitchens on a Monday, at ten past six in the morning, coming off the last of her rounds.
+
+There was a smell of bread in the passage past the fruit bowl. The door stood open by about a hand. She could see the end of a long scrubbed table, and Goyle’s back, and a good deal of steam; and on a stool at the table, in his pyjamas, with flour to the elbows and the tip of his tongue out, a very small boy was hitting a lump of dough.
+
+Nobody was saying anything. Goyle reached over with one large hand, without looking, and turned the dough a quarter of the way round. He hit it again. It was a pale, tired, shut sort of face, and Lyra had been looking at it down the length of the Great Hall for a fortnight. It had got a smear on its chin. He pulled off a bit of the dough and ate it. “That’ll give you a stomach ache,” said Goyle, not turning round, and he said, “I know,” in a voice that she had not thought she would hear again.
+
+She stood in the dark with her book of rounds. One had only to push the door. She could see exactly what would happen to his face.
+
+She went up the stairs on the balls of her feet. At breakfast Goyle pushed the toast rack an inch towards her, and neither of them said anything about it, then or ever.
+
+⁂
+
 She did not tell him about the letter. She told him about the Thursday.
 
 It was not that anything had happened. He was sitting in the chair when she came in, with his feet on the fender. She sat down in what was left of it, and for a time she said nothing whatever, and he went on reading a book about Chudley with one hand and let her.

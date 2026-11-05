@@ -52,7 +52,7 @@ There was no help for it: the desks went by the alphabet of something, and when 
 
 Granger’s eyes passed over her in the corridor at a quarter past nine. They did not stop. They were perfectly civil; they went by as they’d go by a coat on a peg.
 
-It had not occurred to Lyra that that was a thing one could miss.
+It had not occurred to Lyra that that was a thing one could miss. There had been no napkin in her book since the twenty-fifth of May, either. The Cannons had finished last. Nobody had come to collect.
 
 “Your cuff’s in the ink,” she said, at the end of the second hour, when they had been told to lay down their pens.
 

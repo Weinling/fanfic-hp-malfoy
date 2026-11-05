@@ -106,9 +106,7 @@ Ron did not say he was mad. Harry had been waiting for that; he had been rather 
 
 “For definite.”
 
-He opened his mouth. There was a fly walking up the armour’s breastplate.
-
-“She did last time,” said Harry.
+He opened his mouth. “She did last time,” said Harry.
 
 “Last time,” said Ron. He nodded, slowly, several times. “Right. So it was just, what, it was probably going to be all right. Odds on. And you could’ve stopped it. In the shop.”
 
@@ -117,6 +115,16 @@ He opened his mouth. There was a fly walking up the armour’s breastplate.
 “You could’ve just knocked the cauldron over.”
 
 “Yes.”
+
+Ron nodded. He seemed to be looking at something a long way off.
+
+“That place on the moor,” he said. “With the roof.”
+
+Harry opened his mouth.
+
+“What’s that for? Who’s that going to happen to?” He waited. He gave it plenty of time. “I brought sandwiches,” said Ron.
+
+There was a fly walking up the armour’s breastplate. It got to the top, and turned round.
 
 “You came to ours that summer. My mum did your socks. You went down that pipe with me, and I cried, I sat down there crying, and you put your hand on my arm, you told me we’d find her.” It was all quite quiet. There was only a sort of thickness to it. “She burns her notes. Did you know that? No, you didn’t, nobody does. After every exam, every bit of paper she’s written on, she takes it round behind the broom shed and burns it. She thinks nobody’s noticed. She’s fourteen.”
 

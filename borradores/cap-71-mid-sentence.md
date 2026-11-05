@@ -84,7 +84,7 @@ Someone was running. There was a lot of echo. He went up the marble staircase, a
 
 *Think.*
 
-She had never in her life come back with a note undelivered. She had done exactly what he’d told her. She’d have gone to the bothy. She’d have gone round it, and sat on the wall; she’d have waited, hours, she always waited. And he hadn’t been there. He had been there yesterday. He’d been there every day for twelve days, counting sheep. There was nowhere for him to go. Nobody knew. *Nobody knew.* There were two people in the whole world who knew about that hillside, and one of them was Hermione. He had made sure of that. He had seen to it.
+She had never in her life come back with a note undelivered. She had done exactly what he’d told her. She’d have gone to the bothy. She’d have gone round it, and sat on the wall; she’d have waited, hours, she always waited. And he hadn’t been there. He had been there yesterday. He’d been there every day for twelve days, counting sheep. There was nowhere for him to go. Nobody knew. *Nobody knew.* There were three people in the whole world who knew about that hillside. One of them was Hermione, and one had put the roof on, and had not spoken to him since May. He had made sure of that. He had seen to it.
 
 He had looked at that dog, with its leg going the wrong way.
 
@@ -126,7 +126,7 @@ For a little while neither of them moved. He saw her hand go to her wand. It was
 
 “No,” said Hermione. “I didn’t think so.” She shut her eyes and she opened them. “It’s Sirius. I’m coming. I’m not coming with you, I want you to know the difference.”
 
-She turned, and walked straight across the Entrance Hall. Ron had come out with Dean Thomas, and he stopped dead when he saw who was walking at him. She said something, about a dozen words. Harry saw his ears. He saw him look down at her, and for a moment he thought he was going to look up, over her head, towards the stairs. He didn’t. He gave one nod. He dropped his bag where he stood, and he went off along the corridor towards McGonagall’s office, at a run, with his big feet slapping on the stone.
+She turned, and walked straight across the Entrance Hall. Ron had come out with Dean Thomas, and he stopped dead when he saw who was walking at him. She said something, about a dozen words. Harry saw his ears. He saw him look down at her, and for a moment he thought he was going to look up, over her head, towards the stairs. He didn’t. He had laid those slates himself, with his tongue between his teeth. He gave one nod. He dropped his bag where he stood, and he went off along the corridor towards McGonagall’s office, at a run, with his big feet slapping on the stone.
 
 That was the Order told, then. Somebody would come. It would take them an hour, and he hadn’t got one.
 

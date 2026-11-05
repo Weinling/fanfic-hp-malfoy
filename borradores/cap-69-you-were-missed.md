@@ -90,6 +90,10 @@ She looked. There wasn’t any.
 
 When she raised her head he was walking away from her, down the length of the Slytherin table, not fast, with his hands at his sides. He had always run. He had run everywhere, since he was two; they had given up telling him. He went on past the first-years and he didn’t turn in there. He went straight on to the doors.
 
+A large shape had come back along the bench, and stood behind her, looking down the Hall.
+
+“He’s not been down,” said Goyle. “Not since Sunday. He used to come at six.” She looked at the plate, and the strips of bread laid side by side, and she picked up the one that he had left, and held it in her big fingers, and did not eat it.
+
 ⁂
 
 She took the Practical at two. She made a wineglass sing, in tune, and she Banished a pincushion through a very small hoop, and Cheered a fretful-looking toad until it lay on its back and waved. The old witch with the ear trumpet told her it was the prettiest wandwork she had seen since Dumbledore’s.

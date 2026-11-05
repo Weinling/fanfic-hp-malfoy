@@ -2,7 +2,7 @@
 
 At four minutes to midnight on the last day of 1995, Sirius Black was standing on the kitchen table at Number Twelve, Grimmauld Place, conducting “Auld Lang Syne” with a ham bone, and Harry’s ring tried to take his finger off.
 
-He thought for a moment that somebody had hexed him. He was by the stove, with a mug. He had been by the stove for most of Christmas. It was where you stood in that house if you wanted to look as if you were joining in. Fred and George had got Kreacher’s tea cosy to sing the descant, and Ron had his arm along the back of Hermione’s chair without appearing to have told anybody, and Harry looked down, and the ring on his right hand had gone the colour of the inside of a mouth.
+He thought for a moment that somebody had hexed him. He was by the stove, with a mug. He had been by the stove for most of Christmas. It was where you stood in that house if you wanted to look as if you were joining in. Fred and George had got Kreacher’s tea cosy to sing the descant, Ginny was showing somebody what was wrong with Ron’s left side, with a fork, and Ron had his arm along the back of Hermione’s chair without appearing to have told anybody, and Harry looked down, and the ring on his right hand had gone the colour of the inside of a mouth.
 
 It had done something on Christmas night. He had seen that: a few seconds of a sick dirty yellow, at about one in the morning, and then plain silver again, and he had called and called and got nothing back. He had lain awake working out what you could do with a few seconds of yellow.
 
