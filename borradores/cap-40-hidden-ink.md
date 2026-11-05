@@ -2,7 +2,7 @@
 
 The ring did not want to come off.
 
-It had shrunk to fit her finger under a cloister thirteen months ago, and again in a corridor in December, and it had been there ever since, and now that she wanted it gone it held on. Lyra sat on the end of her bed with the hangings drawn on the Tuesday morning and worked at it with her thumb, round and round, until the skin under it was red; and then it gave, and slid off over the knuckle, and lay in her palm. It was green. It had been green since the podium.
+It had shrunk to fit her finger under a cloister thirteen months ago, and again in a corridor in December, and it had been there ever since, and now that she wanted it gone it held on. Lyra sat on the end of her bed with the hangings drawn on the Tuesday morning and worked at it with her thumb, round and round, until the skin under it was red; and then it gave, and slid off over the knuckle, and lay in her palm. It was green. It had gone back to green by the time she reached the dungeons, as if nothing had happened.
 
 She wrapped it in a twist of tissue paper so that she would not have to look at what colour it went next.
 
@@ -184,7 +184,7 @@ When it did, she was sitting on the cold stone floor with her back against the w
 
 “I wanted to stay,” said Lyra, aloud, to nobody.
 
-It sounded very small in the green bathroom.
+Nobody came.
 
 After a while she got up.
 
