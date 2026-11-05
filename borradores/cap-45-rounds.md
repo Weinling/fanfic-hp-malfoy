@@ -1,8 +1,8 @@
 # Chapter 45: Rounds
 
-Lyra read the first chapter of Wilbert Slinkhard with every appearance of delight, and could not have told anybody a word of it.
+On that first Wednesday, while Potter was finding out how polite he could be, Lyra read the first chapter of Wilbert Slinkhard with every appearance of delight, and could not have told anybody a word of it.
 
-She had known that he would do it. She had known on the platform, probably; certainly at the feast, when she saw his face. He could no more have sat quiet in that classroom than he could have sat quiet in the Great Hall with a cup of fire spitting his name. He had even been polite about it, which she had not expected and did not care for. And she had known, too, what it would get him. One did not need to be Harry Potter to see what sort of woman put kittens on her wall.
+She had known that he would say it. She had known on the platform, probably; certainly at the feast, when she saw his face. He could no more have sat quiet in that classroom than he could have sat quiet in the Great Hall with a cup of fire spitting his name. He had even been polite about it, which she had not expected and did not care for. And she had known, too, what it would get him. One did not need to be Harry Potter to see what sort of woman put kittens on her wall.
 
 When the bell went, the room emptied in a rush, the Gryffindors fastest, as though the doilies were catching. Lyra put her book in her bag very slowly, and let Crabbe and Goyle go on ahead, and was the last at the door; and then she turned round.
 

@@ -42,7 +42,7 @@ By the Sunday night, Hermione had the end of it, with a stack of parchment and h
 
 “Angelina hasn’t said anything about my elbows.”
 
-“Angelina hasn’t seen them. Trials are on Saturday.” She bit her apple. “I’ve seen them. I’ve been throwing things at them since I was six.”
+“Angelina hasn’t seen them. Trials are on Saturday.” She bit her apple. “I’ve seen them. I’ve been throwing things at them since I was six, and I’m having Angelina’s place the day she leaves, and I’m not going out on that pitch with a jug.”
 
 Ron’s ears had started. He moved a bishop, took Dean’s queen, and put the magazine down. There was a page of it he seemed to have been reading for some time. It was a piece about the Cannons’ new Keeper, and he had got his thumb on the photograph, as you would hold something down.
 
@@ -56,13 +56,13 @@ He was on the floor with his back against the sofa, not doing his Potions. He ha
 
 “Yeah.”
 
-“You’re not just saying that?”
+“You’re not being funny? Like with Head Boy?”
 
-He was not just saying it. That was the awkward thing. He had stood on the ground in another autumn and watched Ron Weasley save a penalty off a big red-faced boy called something else, and fly away grinning like a lamp. He knew how it went after that, too. He knew how the first match went. He knew what a Slytherin stand could do to a person, in a good loud wind, with a tune that everybody could join in. He had thought about that, on and off, since the summer, and he had thought of six or seven things you might say to somebody to help them through it. And all of them began with knowing about it.
+He was not being funny. That was the awkward thing. He had been funny on a pavement in Diagon Alley, and Ron had gone red and looked at his brown paper, and neither of them had mentioned it since. He had missed this, the first time. There had been a trial and a detention at the same hour, and he had come back up to the tower with his hand on fire and had the whole of it from Ron in about nine words. A year later he had stood on the ground and watched him do it again, in front of a big red-faced boy called something else, and fly away grinning like a lamp. He knew how it went after that, too. He knew how the first match went. He knew what a Slytherin stand could do to a person, in a good loud wind, with a tune that everybody could join in. He had thought about that, on and off, since the summer, and he had thought of six or seven things you might say to somebody to help them through it. And all of them began with knowing about it.
 
 It might be different. Everything else was.
 
-“You’ve got a new broom,” said Harry. “And you’ve been stopping Ginny’s for ten years. I’m only saying.”
+“You’ve got a new broom,” said Harry. “And you’ve been stopping Ginny’s for eight years. I’m only saying.”
 
 “Oh,” said Ron. He turned back, slowly. He had gone a dull, surprised, pleased colour, and he looked at his chessmen as if they had been saying something nice about him behind his back. “Well. Yeah. I suppose.”
 
@@ -72,11 +72,21 @@ Seamus looked down at the board. “Who said that? He’s not even looking!”
 
 “He’s got you in four,” said Ginny. “I’m saving time.”
 
-Hermione had raised her head. She looked at Harry, over the top of her ruler, for about as long as it takes to read a line, and then she looked at the floor by the sofa, at what he was sitting on; he had taken to sitting on the side of the rug that faced the fire. She did not say anything. She made a small neat mark on her rota, and blew on it.
+Hermione had raised her head. She looked at Harry, over the top of her ruler, for about as long as it takes to read a line, and then she looked at the rug, and at which side of it he had taken to sitting on.
+
+“You’ve moved,” said Hermione.
+
+“Draught.”
+
+“In here?” She waited, and he went on not doing his Potions, and after a moment she looked down. “I’ve put Ron and me on the same nights, by the way. All of them. It’s the most efficient arrangement.”
+
+“’Course it is,” said Ginny.
+
+Hermione went pink to the parting, made a small neat mark on her rota, and blew on it.
 
 ⁂
 
-He had been looking forward to Defence Against the Dark Arts in the way you look forward to the dentist, with a certain interest in seeing whether it would be as bad as you remembered.
+Defence Against the Dark Arts came round on the Wednesday. He had been looking forward to it in the way you look forward to the dentist, with a certain interest in seeing whether it would be as bad as you remembered.
 
 It was exactly as bad. It had the same doilies. It had the same kittens, on the same plates, and the same small round girlish voice; and he sat in the third row with a book called *Defensive Magical Theory* open in front of him, and listened to Hermione’s hand going up. There was a good deal of pale hair in the front row, neatly pinned. It was not behind him now. It was very difficult to arrange that. He looked at the blackboard.
 
@@ -168,7 +178,7 @@ The third shot came in low, from Alicia. Ron went for it. He had his mouth open 
 
 Harry was on his feet.
 
-He did not remember getting up. He seemed to have got toffees all over the seat. There was somebody shouting “*YES!*” in a very loud cracked voice, and people were looking at him; he had not made a noise like that about anything since he had got here; and it was the most extraordinary feeling. He knew how this came out. He had seen it. He stood on the bench with his bad hand in his pocket, and yelled at Ron Weasley as if the world depended on it.
+He did not remember getting up. He seemed to have got toffees all over the seat. There was somebody shouting “*YES!*” in a very loud cracked voice, and people were looking at him; he had not made a noise like that about anything since he had got here; and it was the most extraordinary feeling. He knew how this came out. He had been told. He had never once seen it. He stood on the bench with his bad hand in his pocket, and yelled at Ron Weasley as if the world depended on it.
 
 Ron stopped the fourth with his foot. It was not clear that he had meant to. Katie took the fifth herself, hard and high, straight at the top of the middle hoop. He was going the other way. He flung himself back along the broom, nearly came off it, and got the Quaffle full in the side of the head. There was a sound like somebody dropping a cushion. It went wide. Ron hung there for a moment, with one leg over the handle, looking mildly surprised, and one of his ears gradually turning the colour of a boiled beetroot.
 
@@ -184,19 +194,25 @@ Ginny was the first to reach him. She flew out without a broom of her own, on th
 
 “You said! You *said* I’d— I got three! With my *head!*”
 
-He was laughing, with his whole big raw red face, and his ear was coming up like a loaf. Hermione had arrived and was doing something to it, and crying a bit, and telling him it was concussion. There wasn’t anything else that needed doing in the whole of Scotland. Harry had his left arm round somebody’s neck. It was a thing that had already happened. He had seen it, and he had thought that you could not have the same thing twice. And he looked at Ron’s ear, and his own face hurt, and he noticed that he was not thinking about what came next.
-
-It lasted until nearly four o’clock.
+He was laughing, with his whole big raw red face, and his ear was coming up like a loaf. Hermione had arrived and was doing something to it, and crying a bit, and telling him it was concussion. There wasn’t anything else that needed doing in the whole of Scotland. Harry had his left arm round somebody’s neck. It was a thing that had already happened. He had missed it, and he had thought that you didn’t get those back. And he looked at Ron’s ear, and his own face hurt, and he noticed that he was not thinking about what came next.
 
 ⁂
 
-They had the party at the short-legged table, because it spread out from there. Fred and George went away and came back with a sack. There were pumpkin pasties and a great many Chocolate Frogs and something fizzy in a bucket; and Lee Jordan did the save, with sound effects, using Neville’s head, with his permission. Somebody started to sing. Ginny had got on to a chair. Neville’s plant had been given a very small paper hat. Ron sat in the middle of it, with a cold flannel on his ear and a Chocolate Frog in each hand, being told what he had done by people who had been there; and every so often he looked across the rude dragon at Harry, and started to grin again, and winced. Nobody asked Harry anything. He ate four pasties, left-handed. He stayed till the end.
+Angelina came in at one o’clock with mud on her whistle, read out one name, looked at his ear, and said, “Tuesday. Elbows in.” They had the party at the short-legged table, because it spread out from there. Fred and George went away and came back with a sack. There were pumpkin pasties and a great many Chocolate Frogs and something fizzy in a bucket; and Lee Jordan did the save, with sound effects, using Neville’s head, with his permission. Somebody started to sing. Ginny had got on to a chair. Neville’s plant had been given a very small paper hat.
+
+“I told it about the save,” Neville said, in Harry’s ear, over the noise. “I thought it ought to know.”
+
+“Did you tell it about the head?”
+
+Neville looked at the plant, and considered this with some care. “I thought I’d leave that till it’s older,” he said.
+
+Ron sat in the middle of it, with a cold flannel on his ear and a Chocolate Frog in each hand, being told what he had done by people who had been there; and every so often he looked across the rude dragon at Harry, and started to grin again, and winced. Nobody asked Harry anything. He ate four pasties, left-handed. He stayed till the end.
 
 ⁂
 
 The rota went up on the Monday.
 
-It was on the noticeboard by the portrait hole, among the usual things: a notice about Hogsmeade, somebody’s lost cat. Harry had come down early, because of his hand, which had been written on five times now and hurt in a dull, reasonable way, like somebody explaining something. He had the common room to himself. Pinned at the bottom, in Hermione’s small square writing, was the prefects’ list for the term, ruled in three colours.
+It was on the noticeboard by the portrait hole, among the usual things: a notice about Hogsmeade, somebody’s lost cat. Harry had come down early, because of his hand, which had been written on three times now and hurt in a dull, reasonable way, like somebody explaining something. He had the common room to himself. Pinned at the bottom, in Hermione’s small square writing, was the prefects’ list for the term, ruled in three colours.
 
 He had not been going to look at that.
 
@@ -206,7 +222,7 @@ Somebody had come along since and changed it. It would have come through the pre
 
 Harry stood and looked at it.
 
-There wasn’t anything on the seventh floor. There was a bare wall, and a bust in a wig, and a tapestry of some trolls. She had no reason in the world to want it. She hated the cold. There was nothing up there at all, at midnight, except a room that he knew about and nobody else did; and a very long corridor, with a window at the end of it, a deep one, that you could sit in.
+There wasn’t anything on the seventh floor, not at that hour. There was the Arithmancy door, which he had stood outside every morning for five months, and which would be locked. There was a bare wall, and a bust in a wig, and a tapestry of some trolls. She had no reason in the world to want it. She hated the cold. There was nothing up there at all, at midnight, except a room that he knew about and nobody else did; and a very long corridor, with a window at the end of it, a deep one, that you could sit in.
 
 He was not going to do anything. He wanted that understood. He had given this up. He just wanted to know where she was. It wasn’t the same as looking.
 

@@ -44,7 +44,35 @@ They were not all funny. She did not put that in the book. There was a night beh
 
 “Yes,” said Lyra. “*Them*.”
 
-Neither of them could have said afterwards who started it. It tasted of the argument. She wrote *Insolence*, and for once it was the plain truth.
+Neither of them could have said afterwards who started it. It was the same argument, by other means. She wrote *Insolence*, and for once it was the plain truth.
+
+⁂
+
+On Thursdays, after Snape, there were cards.
+
+It was Zabini’s game. It had started in the autumn of the Tournament, when somebody had to entertain the Bulgarians, and it had outlived them: a table behind the pillar in the common room, with the green lamp pulled down, a pack that had been through a great deal, and a running score in the back of Zabini’s Charms notes that nobody was allowed to see. Lyra came to it with her head ringing, and took the chair with its back to the wall. She did not play very well on Thursdays. Nobody mentioned it.
+
+Goyle had a tin. She put it on the table without saying anything, took off the lid, and sat on her hands. It was fruit cake, cut in small squares. Zabini laid down his cards. He took a square between finger and thumb and looked at it on both sides; he ate it slowly, with his eyes shut, as his mother was understood to taste Burgundy.
+
+“Six,” said Zabini.
+
+Goyle’s big soft face fell about an inch.
+
+“It was five last week. It wants more of the orange.” He took another. “Six and a half.”
+
+“You can’t have a half.”
+
+“It’s my scale, Greer.”
+
+Draco, who had no business being up, had got his chin on the arm of Lyra’s chair and was looking at the tin with his whole soul. Goyle pushed it an inch towards him without turning her head.
+
+Nott dealt. He played cards as he played chess, like somebody drafting a lease; and across from him Crabbe, who had been looking at her hand for some time with her slow, careful, thorough look, laid it down one card after another, and took eleven Sickles off him. Nott looked at the cards, and then at Crabbe. It was the first time that Lyra had seen his teeth.
+
+“That’s twice,” he said. “Who taught you that?”
+
+“Nobody,” said Crabbe. She had gone a little pink along the jaw. “I watch.”
+
+Lyra picked up her bag. She was extremely tired, and there had been something she had been meaning to ask somebody about butter. “You’ll carry this up in the morning, Nott,” she said; and he said, “Of course,” and stopped smiling, and picked up his cards. Crabbe looked at hers.
 
 ⁂
 

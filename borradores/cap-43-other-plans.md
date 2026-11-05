@@ -200,7 +200,7 @@ He could have told her. There was nobody else in the aisle, and it was all there
 
 He had not known it could be done to him. He felt it go in.
 
-She unfolded her arms. She looked along the shelf beside her, and took down the thickest book on it, without hurry, as somebody might choose a stick; and she stepped forward and pushed it into his chest, hard, with the flat of her hand, so that he had to take it or drop it. For a moment her hand stayed there, on the cover, with the book between them. He could smell vanilla.
+She unfolded her arms. She looked along the shelf beside her, and took down the thickest book on it, without hurry, as somebody might choose a stick; and she stepped forward and pushed it into his chest, hard, with the flat of her hand, so that he had to take it or drop it. For a moment her hand stayed there, on the cover, with the book between them.
 
 “*Numerology and Grammatica*,” she said. “Buy that. You’re going to fail Arithmancy.”
 

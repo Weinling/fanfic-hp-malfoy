@@ -100,7 +100,7 @@ He sat back on his heels. He had a black smear on his forehead. He looked at her
 
 She looked for something to say to that. It seemed to have been put somewhere she could not reach.
 
-She got up, and stepped over the tin. It was only the one step. It was very brief, and he tasted of metal polish, and when it was over she looked at him severely from about four inches away.
+She got up, and stepped over the tin. It was only the one step. It was very brief, and there was metal polish on his chin, and when it was over she looked at him severely from about four inches away.
 
 “That was the last one.”
 
@@ -174,7 +174,7 @@ She did not remember sitting down again.
 
 It had been the third cabinet, and the plates had been very small and very many. There had been a dispute about whether the Inter-House Cup of 1926 counted as one object or two. At some point she had said that she would merely rest her eyes, on the floor, in order to deny him the satisfaction of the chair, which neither of them had sat in for an hour, and which stood in the middle of the room on its folded rag with nobody in it, as a monument. The lamp had burned low. The cabinets went away into the dark on either side, full of small gold gleams.
 
-Something was wrong with her neck. There was something under her cheek that was warm and scratchy, and smelt of metal polish and boy.
+Something was wrong with her neck. There was something under her cheek that was warm and scratchy, and smelt of metal polish.
 
 She opened one eye, about a quarter of an inch. It was a shoulder. She had her head on it. It was going up and down very slowly. There was a jumper over her knees that she had not had before, and a good deal of pale pink hair had got across his collar. His head had tipped back against the glass. He had his glasses on crooked, and his mouth a little open, and he had his left hand lying on the floor beside her, palm up, as though he had put something down and forgotten what.
 

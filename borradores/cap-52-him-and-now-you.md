@@ -42,7 +42,7 @@ Lyra turned back to *Numerology and Grammatica*, and read the same page for anot
 
 She saw how Potter got into Diggory’s group that afternoon, in the Entrance Hall, at the end of lunch, with half the school going past.
 
-She had known about the group for a fortnight, since passing two sixth-years on rounds who were arguing about a Shield Charm Diggory had taught them. The Head Boy had decided that if Umbridge would not teach them to defend themselves, he would, and was meeting a dozen or so seventh- and sixth-years in the old duelling room behind the kitchens twice a week. Umbridge did not know yet. Lyra had kept it to herself, in case it was worth more later.
+She had known about the group for a fortnight, since passing two sixth-years on rounds who were arguing about a Shield Charm Diggory had taught them. The Head Boy had decided that if Umbridge would not teach them to defend themselves, he would, and had been meeting a dozen or so seventh- and sixth-years in the old duelling room behind the kitchens twice a week. Since the second Friday in November, it was said, he took anybody who asked. Umbridge did not know yet. Lyra had kept it to herself, in case it was worth more later.
 
 Potter was not in it. Diggory had not forgiven him for a hedge in June, and a curse in the back, and a cup; and he had said so, in front of witnesses, in the first week of term, quite pleasantly, in the voice of a man who would never say so again.
 
@@ -68,7 +68,7 @@ Potter stood in the middle of the Entrance Hall in a sea of gold, with the whole
 
 It was the ugliest thing Lyra had ever seen him do, and the bravest, and she could not for the life of her have said which was which. She went down the dungeon steps with three Galleons in the toe of her shoe, where they had rolled, and left them on the bottom step for whoever wanted them.
 
-By Saturday, Zabini, who heard everything and repeated almost none of it, had mentioned over his cards that Potter had gone down to the old duelling room that same night and waited outside the door for two hours. Diggory had let him in because he could teach them a corporeal Patronus, and had told him that if he ever turned his back on any of them in there, Diggory would know.
+By the Thursday, Zabini, who heard everything and repeated almost none of it, had mentioned over his cards that Potter was in.
 
 ⁂
 
@@ -84,9 +84,9 @@ Lyra looked at his fist.
 
 “What club?”
 
-“A Defence club. A secret one. Diggory runs it. He’s *Head Boy*.” His voice had gone up; he brought it down again with a glance at the room. “Only seventh years and sixth years. And me. I’m the only first-year in the whole thing. We learnt Disarming on Thursday, I got Summerby’s wand off him twice.”
+“A Defence club. A secret one. Diggory runs it. He’s *Head Boy*.” His voice had gone up; he brought it down again with a glance at the room. “Granger made the coins. It’s mostly the big ones. And me. I’m the only first-year in the whole thing. We learnt Disarming on Thursday, I got Summerby’s wand off him twice.”
 
-“How did a first-year get into a club for sixth and seventh years, Draco?”
+“How did a first-year get into that, Draco?”
 
 He went pink with pleasure.
 

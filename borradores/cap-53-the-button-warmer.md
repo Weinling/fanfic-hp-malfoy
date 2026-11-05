@@ -110,6 +110,10 @@ She let him look. For some minutes nobody said anything. Then Weasley said somet
 
 “By whom? Their own Keeper?”
 
+“Two Sickles says they beat Wimbourne before Easter.”
+
+“Done,” said Lyra; and Weasley looked at his own hand, as though it had been shaken by somebody else, and Granger wrote it on a napkin.
+
 It went on from there: the Cannons, and the Wasps, and whether Lynch had any business calling himself a Seeker, until Weasley was red to the ears and Lyra was pink to hers and Goyle was eating her way steadily through a plate of crumpets as though at a play. Lyra left Weasley’s four goals out of it. When she caught Granger looking at her, she looked away.
 
 She had not looked at Potter once since she sat down.
