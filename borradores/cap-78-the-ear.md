@@ -48,7 +48,7 @@ She had been up since five. She had done her hair, and got her sleeves right; sh
 
 He had got his clean grey suit on, and his hair flat. He was holding a bow tie in his right hand, by one end.
 
-He hadn’t spoken to her for thirty-seven days. He had passed her the salt. She looked at him, and he went on looking at the wall, with his clean shut little face; and she saw that his chin had started, very slightly, to pucker, and that he was doing something about it, with his teeth.
+He hadn’t spoken to her for thirty-seven days. He had passed her the salt. She looked at him, and he went on looking at the wall, with his clean little face; and she saw that his chin had started, very slightly, to pucker, and that he was doing something about it, with his teeth.
 
 He had always had that done for him. She’d forgotten. He could cut bread into strips of equal width and he could tell you to the Sickle what a Thestral was worth, and he was twelve, and it was five minutes to eight. It had always been their mother, or Pobble, or it had been her; there had been a time, when she was home, that he used to come and stand on a stool. Nobody in that house had thought about it this morning. He must have tried. There was a crease in the silk where he’d tried. He had been standing out here, she thought, for some time.
 
@@ -72,7 +72,7 @@ She held out the gloves. They were a very good pair, in pale kid. She laid them 
 
 They rose when she came into the common room.
 
-She hadn’t expected that. She’d thought it would be looks. She came down the stone steps behind a first-year with the password, with the green lamps swinging, and Montague got to his feet. So did Warrington’s sister. It went on across the room, in a small rustling wave, from the fire to the door. There were fourteen people in Slytherin whose fathers had been put under the Wizengamot in June, and every one of them knew what had been done, and who had done it; they’d had it from their mothers. *By four o’clock, as I asked.* A fifth-year who had never spoken to her got up and gave her the chair. It was the good one. She had fought Parkinson for that chair for five years, and he was holding the back of it for her now, with shining eyes.
+She hadn’t expected that. She’d thought it would be looks. She came down the stone steps behind a first-year with the password, with the green lamps swinging, and Montague got to his feet. So did Warrington’s sister. It went on across the room, in a small rustling wave, from the fire to the door. There were seven people in Slytherin whose fathers had been put under the Wizengamot in June, and every one of them knew what had been done, and who had done it; they’d had it from their mothers. *By four o’clock, as I asked.* A fifth-year who had never spoken to her got up and gave her the chair. It was the good one. She had fought Parkinson for that chair for five years, and he was holding the back of it for her now, with shining eyes.
 
 There was a badge on her pillow, in silver: *Captain*. There was a note about it from Snape, one line. Weasley had got the other. She heard that at supper; she had it from Zabini, who said that it was the first thing to have happened in Gryffindor in years that he would pay to see. She had a good laugh, in the right place.
 
@@ -152,7 +152,7 @@ There was Apparition. It was on Saturday mornings in the Great Hall, with the ta
 
 It was his left eyebrow. It lay in the centre of the hoop on the bare boards, and it looked extremely surprised.
 
-She had to turn her back. She had to put her hand over her mouth, and hold on to Goyle. It got out anyway. She had not laughed since a Sunday in June. It hurt her under the ribs, it hurt where the house was, and she stood with her shoulders going and the tears running down, wheezing; and when she got her head up, he had found her, right across the Hall, with his hand clapped to the place, and half his forehead bald. He was grinning at her. He couldn’t help it. Nor could she. It was only about as long as it takes to say so. Then the man with the ruler had got there, and someone had shouted for Madam Pomfrey, and she’d straightened up, and put her face back on, and taken ten points from Gryffindor for leaving parts of itself on school property.
+She had to turn her back. She had to put her hand over her mouth, and hold on to Goyle. It got out anyway. She had not laughed since a Sunday in June. It hurt her under the ribs, it hurt where the house was, and she stood with her shoulders going and the tears running down, wheezing; and when she got her head up, he had found her, right across the Hall, with his hand clapped to the place, and half his forehead bald. He was grinning at her. He couldn’t help it. Nor could she. It didn’t last. Then the man with the ruler had got there, and someone had shouted for Madam Pomfrey, and she’d straightened up, and put her face back on, and taken ten points from Gryffindor for leaving parts of itself on school property.
 
 “It wants more of something,” said Zabini.
 
@@ -196,7 +196,7 @@ Lyra hadn’t the least idea what her face was doing. She thought that it must b
 
 Granger picked up the pen, and turned it over. It took her some time to do that. A slow dull colour had come up in her thin cheeks, and it went on rising. She looked, of all things, ashamed. Lyra had seen Hermione Granger in a good many states. She had seen her with a hand clapped over her mouth, on a staircase. She’d never seen that.
 
-“I was Petrified for six weeks when I was twelve,” said Granger. “In second year. Your father put that book in a cauldron. I’ve known since last November that it’s rather more complicated than that; I know who stood by. But it was your father, and you’d called me what you called me, and you were ten yards away from me the day that I was brought back, and you asked Crabbe if I’d had a nice rest. I don’t remember it. You don’t, you see. You can’t remember anything. I’ve always wondered.”
+“I was Petrified for a month when I was thirteen,” said Granger. “In second year. Your father put that book in a cauldron. I’ve known since last November that it’s rather more complicated than that; I know who stood by. But it was your father, and you’d called me what you called me, and you were ten yards away from me the day that I was brought back, and you asked Crabbe if I’d had a nice rest. I don’t remember it. You don’t, you see. You can’t remember anything. I’ve always wondered.”
 
 She raised her eyes.
 

@@ -46,13 +46,13 @@ Harry looked up. It took him a moment. He had been carrying that for two lives, 
 
 “Yours, sir,” said Harry.
 
-The fire gave a small dry tick. It went on for a long time. In the passage, far away, someone trod on the third flagstone, and stopped, and went away.
+The fire gave a small dry tick. Nobody spoke for a long time. In the passage, far away, someone trod on the third flagstone, and stopped, and went away.
 
 “I see,” said Snape. His voice had nothing in it at all. “I wrote that in the spring of 1976, in the boys’ lavatory on the third floor, in a temper. I have never told it to a living soul. There’s no copy of that book in this world but one, and it’s in a trunk, and I have not opened it for twenty years.” He drew one long breath, through his nose. “You have it from me. I suppose that it was inevitable. What did you cut?”
 
 “Sir?”
 
-“You’ve been here since the middle of July in your own mind, Potter, and I have been shown a table. You don’t come to me for a counter-curse out of historical interest. There is a woman at my master’s elbow with a wound on her face that no Healer can shut. She has told the story at table fourteen times, and she does the voice. Half a word. I have been asked what I make of that.” The black eyes had not moved. “I told him that a boy might find almost anything in a library. What did you cut?”
+“You have been elsewhere since June, in your own mind, Potter, and I have been shown a table. You don’t come to me for a counter-curse out of historical interest. There is a woman at my master’s elbow with a wound on her face that no Healer can shut. She has told the story at table fourteen times, and she does the voice. Half a word. I have been asked what I make of that.” The black eyes had not moved. “I told him that a boy might find almost anything in a library. What did you cut?”
 
 There was no point in it. There had never been any point, in that room.
 
@@ -78,7 +78,7 @@ It took him until after midnight. Snape cut it himself. He didn’t say the word
 
 “Again. You are not icing a cake. *Again*. The patient has by now bled to death. I congratulate you. Again.”
 
-He had never been so tired. There was blood on his cuffs, or something that was going to have to pass for it. By the end the whole of that dim green room had started to smell like a butcher’s, and his throat was raw. He’d got a line three inches long to close, and stay closed, and he stood looking at it with his arm shaking. It had left a thick pale scar. Nothing that you did would take that away, Snape remarked, wiping his wand. It had not been designed to be taken away. He went round and sat down. He picked up his pen.
+He had never been so tired. There was blood on his cuffs, or something that was going to have to pass for it. He’d got a line three inches long to close, and stay closed, and he stood looking at it with his arm shaking. It had left a thick pale scar. Nothing that you did would take that away, Snape remarked, wiping his wand. It had not been designed to be taken away. He went round and sat down. He picked up his pen.
 
 “Tuesdays,” said Snape. “After the other. I’d advise you to practise on something that can’t complain. You will tell no one. And, Potter.” He didn’t look up. “When you find that you want this, you won’t be in a state to sing. It’s a pity. It’s a very beautiful piece of work. I was rather proud of it.”
 
@@ -86,7 +86,7 @@ He had never been so tired. There was blood on his cuffs, or something that was 
 
 There were thirty-four of them that Thursday, in the long room behind the kitchens.
 
-It had a notice on the door now, in Neville’s round hand, and a stamp from Professor Lupin. *Defence Society. Tues. and Thurs. Please wipe your feet.* It still smelt of cold dust and frying. Somebody had mended the white line. There were seven new first-years along the wall, looking at their wands as if they might go off, and Neville stood in the middle of the boards with his crooked jaw and his sleeves pushed up, and a pot under one arm. He hadn’t wanted to do this. He had told them so, on the first evening, for some time. He’d said that he was very sorry, and that he had no idea what he was doing, and that it was going to be a lot of Shields. Then he had shown them. Nobody had coughed. They’d have followed him into a lake.
+It had a notice on the door now, in Neville’s round hand, and a stamp from Professor Lupin. *Defence Society. Tues. and Thurs. Please wipe your feet.* It still smelt of cold dust and frying. Somebody had mended the white line. There were seven new first-years along the wall, looking at their wands as if they might go off, and Neville stood in the middle of the boards with his crooked jaw and his sleeves pushed up, and a pot under one arm. He hadn’t wanted to do this. He had told them so, on the first evening, for some time. Then he had shown them. Nobody had coughed. They’d have followed him into a lake.
 
 Harry stood at the front, where he could be seen.
 
@@ -106,7 +106,7 @@ Harry looked round. Neville had come up the room, without saying anything, and s
 
 “What was it?” said Harry. It came out rather hoarse. “The memory?”
 
-Hopkins looked at him. He had light tired eyes, and he didn’t hurry them. There was a good deal in the way that he looked at Harry, and he’d been looking in that way for most of a year, from a certain distance. *There’s a bell on the boy*, somebody might have said. *You used that hand.*
+Hopkins looked at him. He had light tired eyes, and he didn’t hurry them.
 
 “I don’t think I’ll say,” said Hopkins. “Thank you.”
 
@@ -134,7 +134,7 @@ He had been waiting. It was by the Charms corridor, and there was a bit of late 
 
 It stopped. It looked up. He’d been frightened of that, and it was worse than he’d been expecting. It wasn’t that the face was unhappy. It was a nice clean pale face, with very good manners. There was nothing on it. He had known another boy with that nose, and he’d seen him cry in a bathroom, and that one had been a good deal more alive.
 
-He’d put a coin in that child’s pocket. It was a year ago next month. He had stood on these stairs and looked him in the eye, and used him as you’d use a bell on a cat. He’d told himself that it was to keep him safe. He had shown him how to make a Shield, and taught him to throw a Quaffle at a wall; and he’d got fond of him. That hadn’t been in the plan. It had come on rather slowly, like a cold.
+He’d put a coin in that child’s pocket, a year ago next month, and used him as you’d use a bell on a cat. He’d got fond of him. That hadn’t been in the plan.
 
 “D’you still have it?” said Harry. “The coin.”
 
@@ -150,7 +150,7 @@ The pale eyes rested on him. He had seen them on a very old man. They went over 
 
 “Did I?” said Draco.
 
-“You said. On these stairs.” He held out his own hand, and turned it over, and there was a Galleon in it, just like the other. “That’s mine. Look. Hermione did it. It goes both ways. Nobody ever bothered, because we only ever used it the one way. You don’t have to send me a message. You don’t have to find me or say anything to anybody. You just hold it in your hand and think, and it’ll get hot. Mine will. I’ll know. I’ll come wherever you are, it doesn’t matter what time it is. I’ll come straight away.”
+“You said. By the armour.” He held out his own hand, and turned it over, and there was a Galleon in it, just like the other. “That’s mine. Look. Hermione did it. It goes both ways. Nobody ever bothered, because we only ever used it the one way. You don’t have to send me a message. You don’t have to find me or say anything to anybody. You just hold it in your hand and think, and it’ll get hot. Mine will. I’ll know. I’ll come wherever you are, it doesn’t matter what time it is. I’ll come straight away.”
 
 He heard himself say that. He heard how it sounded. There was a field in Wiltshire, with some thistles.
 
@@ -158,7 +158,7 @@ Draco looked at the coin in Harry’s hand, and at his own. He seemed to go thro
 
 He didn’t say anything. He closed his fingers. He put the coin back in his pocket, and he patted the place, once, as you’d make sure of a ticket; and he went on along the wall towards Herbology, with his hands at his sides.
 
-*The Lestrange vault is empty*, the Headmaster said on the Saturday, in about four more words than that. He’d had it from a goblin who owed someone a favour. It had been cleared in the third week of June, while the Aurors were busy, with a key. So that was the cup. That was the ring gone and the cup gone, and nobody knew where; there was the snake; and he’d known exactly where everything was, once, it had all been on a list. He sat in the chair and looked at the bowl of lemon drops. Dumbledore’s left hand was lying on the blotter, and there was something the matter with the ends of the fingers. He didn’t mention it. Harry didn’t ask.
+*The Lestrange vault is empty*, the Headmaster said on the Saturday, in about four more words than that. It had been cleared in the third week of June, while the Aurors were busy, with a key. So that was the cup. That was the ring gone and the cup gone, and nobody knew where; there was the snake; and he’d known exactly where everything was, once, it had all been on a list. He sat in the chair and looked at the bowl of lemon drops. Dumbledore’s left hand was lying on the blotter, and there was something the matter with the ends of the fingers. He didn’t mention it. Harry didn’t ask.
 
 *Oct. 5. Ate half a roll. Oct. 6. Sunday. Out at 2.40. Not at the Owlery. Back at 3.50, washed her face.*
 
@@ -166,7 +166,7 @@ He didn’t say anything. He closed his fingers. He put the coin back in his poc
 
 It happened on the Wednesday.
 
-It wasn’t a bad evening. He would think about that. She’d been reading, and it was Thucydides by then, and he had been on the rug, seeing to the fire. The cauldron had reached the stage where you could see your face in it, and he hadn’t looked. It had got to be ten o’clock. She shut the book. She stood up from the old chair, and put it under her arm, the right one, and looked about her for her bag. She said something in that pleasant voice about the weather for Saturday. He’d been sitting nine feet away from her for four weeks. He had heard Herodotus, and the Peloponnesian War. He had been told what the forecast was. She walked across the rug towards the door, in her long sleeves, about a yard away from him, with a piece of hair coming down at the back of her neck. She was going to go out. She would go down by the east stairs. She’d be a thin straight back at the far end of a corridor, in a hundred years’ time, not looking round. He hadn’t heard her say his name for sixty-one days.
+It wasn’t a bad evening. He would think about that. She’d been reading, and it was Thucydides by then, and he had been on the rug, seeing to the fire. The cauldron had reached the stage where you could see your face in it, and he hadn’t looked. It had got to be ten o’clock. She shut the book. She stood up from the old chair, and put it under her arm, the right one, and looked about her for her bag. She said something in that pleasant voice about the weather for Saturday. He’d been sitting nine feet away from her for four weeks. He had heard Herodotus, and the Peloponnesian War. He had been told what the forecast was. She walked across the rug towards the door, in her long sleeves, about a yard away from him, with a piece of hair coming down at the back of her neck. She was going to go out. She would go down by the east stairs. She’d be a thin straight back at the far end of a corridor, in a hundred years’ time, not looking round. He hadn’t heard her say his name for fifty-one days.
 
 He was on his feet. He didn’t remember that. He’d got her by the arm.
 
@@ -174,7 +174,7 @@ It was the right arm, above the elbow, and he’d got it hard. He felt the book 
 
 “*Mine*,” said Harry.
 
-He had never said that to her. Not like that. They’d said it a good many times, across a Great Hall, without moving their lips. They had said it on a sofa, with toast. He’d said it on a landing, with his hand round her wrist, and she had said *Say that again*.
+He had never said that to her. Not like that. They’d said it a good many times, across a Great Hall, without moving their lips. They had said it on a sofa, with toast. He’d said it once with his hand round her arm, and she had started to laugh.
 
 She turned her head. She did it slowly, and she looked at his hand. There it lay on her sleeve, with the white letters on it. She looked for a while. Then she raised her eyes as far as his face.
 
@@ -210,7 +210,7 @@ Then he heard her.
 
 She had a chair, or she was standing with her back to something. It was quite close. He could hear every word. It wasn’t the pleasant voice. He’d got used to that; he’d got so used to it that it gave him a shock. This was clear and quick, and rather low. It went on evenly, with a slight pause every so often. It was the voice she’d use for going through a column.
 
-“—still seven of them, in the Society, who would answer to that. I don’t recommend it. The girl has stopped eating. No. No, I shouldn’t think so.”
+“—still seven of them, in the Society, who would answer to that. I don’t recommend it. The girl has stopped eating.”
 
 There was a pause. He held his breath. He couldn’t hear anybody else. It seemed that she was listening to something. A mirror, he thought. He had had one once. You’d only need to hold it up. It was Sunday; it had always been Sunday. Her father was under the Wizengamot in a cell, and he had thought that that was over. He had thought there was nothing to write. Nobody had sat down on a rug with him for four months and said *What shall we give them?*
 
