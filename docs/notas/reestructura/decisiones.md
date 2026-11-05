@@ -115,6 +115,28 @@ Solo ideas, nunca frases, y cambiando la causa cuando haga falta. Lo que no est�
 
 **Fuera:** Grindelwald; los ecos del Priori Incantatem; Fawkes; la batalla del Veritaserum; todo lo sexual y lo que erotiza la posesión; el epílogo muggle salvo lo anterior.
 
+## 10. Dirección nueva (autor, 5 de noviembre; a partir de la segunda opinión de Codex)
+
+Corrige lo anterior donde choque. Informes: `docs/notas/criticas-codex/segunda-opinion-73-84-y-direccion-emocional.md` y `revision-emocional-cap-39-y-ruptura.md`.
+
+**El Bosque: vinieron a por él.** El otro Harry sigue muriendo en el Bosque y el fragmento huye en ese instante; no hay otro mecanismo. Lo que cambia es lo que pasó en el claro. Hermione hizo la cuenta y Ron no le dejó ir solo. Fueron tras él con un colmillo, a por la serpiente. Voldemort los mató delante de él y luego le mató a él. El fragmento le cortó ese trozo: la luz verde que Harry recuerda es la primera, la de Ron, y «He was not afraid» (60) es falso. Lo cortó por interés: a un chico que se sabe querido no se le pone correa. **«Who came?» tenía respuesta, y Riddle se la robó.** Harry no suplica nada: no sabe que existe la transmisión. Lo recupera por el surco cuando vuelve Ron (tramo 5), sin que eso obligue a nadie a perdonarle. Pistas ya en el texto: el «clean edge» (60), «one thing you can’t have got wrong» (67), los brazos de Granger (*Year One* 4).
+
+**La rata nunca entró en el cuarto.** Solo lee lo que sale de él: borradores tirados, papeles de los bolsillos de Harry. Por eso Riddle cita al Obispo. Da a entender que lo oyó todo, y es mentira. Lyra lo sabrá más adelante. Nada de lo que se dijo allí salió de allí.
+
+**Lo que no se convierte en trampa:** la butaca, el ajedrez negro, los zorros, el muro de las patatas, la comida de Greer.
+
+**Greer muere, y antes tiene vida.** Aprende cocina con los elfos (61). Zabini puntúa sus pasteles, y son sus únicos dieces. Planea una tienda con Crabbe, que llevaría las cuentas, sin Lyra. Cuida de Draco cuando deja de hablar a su hermana. Causa de la muerte: Lyra se lo ordena con su voz de siempre, Greer dice «No», y solo queda gritar la verdad delante del oído. El veneno mata en poco más de un minuto. Lyra no llevaba bezoar, y eso es un fallo suyo. Nada de Pomfrey hablando de su peso.
+
+**El libro** no obliga a nadie en vida. **El Voto:** reescribir la tercera cláusula antes de redactarlo, porque si Lyra falla el 20 de diciembre obligaría a Snape de inmediato. **El baño:** Riddle oye de sobra, pero el trato dice «por ella» y Harry lo supo por Draco; no cobra. Fuera el «It’s December».
+
+**Los informes del 79:** Harry la oye vender algo no pactado: que le tiene miedo a su propia mano.
+
+**El viento:** ella lo grita porque él no puede oírla.
+
+**Voldemort contra Harry, en presente.** «I had her. You lent her», por la cicatriz. Hedwig llega muerta con una nota en letra de colegial: *Still bored?* Harry le contesta, y Riddle se lo cobra en Lyra: al día siguiente, en el Comedor, le hace arder la Marca durante un minuto delante de seiscientas personas. Ella sigue untando la tostada; Harry nota el placer de Riddle por la cicatriz. Cada cosa que él haga la pagará ella. Ahí nace su decisión de matarle del modo más doloroso posible. No se cumplirá: el cuerpo cae rápido y sin satisfacción, y a Riddle lo mata ella. Ese odio alimenta al fragmento: cuanto más quiere matarle, mejor le suena la voz. Sus amigos lo notan, y eso tiene consecuencias.
+
+**La revisión del 39 al 72 es una revisión, no un añadido.** Los capítulos nuevos se quedan con algo que ya pasa en otro sitio; no añaden hechos. Hay que tocar los vecinos para mantener cronología y energía, y ningún capítulo puede sobrar.
+
 ## Lo que decido si no dices lo contrario
 
 - **Unos 100 capítulos en total**, más extras: unos 50 más de los que hay ahora, contra los 35 que se estimaban. Son unas 200.000 palabras por escribir.

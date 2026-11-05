@@ -19,8 +19,8 @@
 
 ## Siguiente paso exacto
 
-1. **El autor aprueba o corrige** `borradores/guion-tanda-73-84.md`. La tanda no se escribe hasta entonces.
-2. Luego, el 73, con un crítico Opus nuevo por capítulo (`docs/notas/reestructura/encargo-criticos-opus.md`).
+1. **Dirección nueva:** `decisiones.md`, §10. El autor decide sobre el mapa de revisión del 39 al 72 y sobre los cambios del 39.
+2. Después, rehacer `borradores/guion-tanda-73-84.md`, que ha quedado superado en parte. No se escribe nada de la tanda hasta entonces.
 
 ## Pendiente, sin urgencia
 
@@ -30,4 +30,4 @@
 
 ## Espera al autor
 
-- El guion de la tanda 73-84. La decisión §7 (el otro Harry perdió) está confirmada. La tarea nocturna está desactivada.
+- El mapa de revisión y el 39. La decisión §7 (el otro Harry perdió) sigue en pie, con lo que añade el §10. La tarea nocturna está desactivada.
