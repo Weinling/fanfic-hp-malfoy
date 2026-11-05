@@ -7,7 +7,7 @@ Es el documento de trabajo. Dice qué es la historia y cómo se escribe. Lo que 
 ## 1. El proyecto
 
 - **Qué es:** *Never Own a Malfoy, Potter* (antes *Never Owe*): adaptación al inglés británico de una fanfic coreana de Harry Potter con un genderbend de Draco, **Lyra Malfoy** (Karina en el original; Carina en la traducción oficial). Draco es su hermano, cuatro años menor. El autor es Edén; se le habla en español.
-- **No es una traducción.** El original aporta trama y escenas; la prosa se reconstruye. Desde la reestructura del 3 de noviembre el rumbo es propio, y el original es una guía que se lee para cada capítulo, nunca para la frase: ninguna línea nuestra sale de una suya.
+- **No es una traducción.** El original aporta trama y escenas; la prosa se reconstruye. Desde la reestructura del 3 de noviembre el rumbo es propio y el original ya no se lee: de él solo se rescata la lista de `decisiones.md`, §9. Ninguna línea nuestra sale de una suya.
 - **Fuentes:** `coreano/` (hasta el 35), `referencia/oficial-en/` (del 36 en adelante), resúmenes en `referencia/resumenes/`.
 - **Contenido:** los protagonistas tienen 14 años en cuarto y como mucho 17 al final. Son menores: **nada sexual ni sensual**, ni escenas, ni insinuación, ni descripción erótica de cuerpos o de besos. El afecto es de dos críos: torpe, cómico, tierno, intenso.
 - **Publicación:** la lleva el autor; está en `CLAUDE.md`.
@@ -110,7 +110,7 @@ Detalle del fondo en `docs/notas/lo-que-sabe-harry.md`. Lo decidido (`docs/notas
 ## 8. Rumbo
 
 - **Hasta el final:** `docs/notas/reestructura/decisiones.md` (aprobadas) y `guion-general.md`. Lo lejano solo son puntos fijos; el final es una dirección.
-- **Tanda en curso:** `docs/archivo/guiones/guion-tanda-55-72.md` (aprobado el 4 de noviembre).
+- **Tanda en curso:** `borradores/guion-tanda-73-84.md` (pendiente de aprobación). La anterior, en `docs/archivo/guiones/`.
 - **Lo que se quita del original:** `docs/notas/reestructura/poda-agente.md` y el guion general.
 - **Decidido en la tanda:** lo que toca Voldemort deja de sentirse (56); Bode recibe el Beso y Lyra le da de comer (63); Hopkins nunca sabe quién le vengó (62).
 

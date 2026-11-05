@@ -19,8 +19,8 @@
 
 ## Siguiente paso exacto
 
-1. **El autor aprueba o corrige** `docs/notas/reestructura/propuesta-tanda-73-84.md`.
-2. Entonces, `borradores/guion-tanda-73-84.md`; la propuesta se funde en él y se borra. La tanda no se escribe hasta que apruebe el guion.
+1. **El autor aprueba o corrige** `borradores/guion-tanda-73-84.md`. La tanda no se escribe hasta entonces.
+2. Luego, el 73, con un crítico Opus nuevo por capítulo (`docs/notas/reestructura/encargo-criticos-opus.md`).
 
 ## Pendiente, sin urgencia
 
@@ -30,4 +30,4 @@
 
 ## Espera al autor
 
-- La propuesta de la tanda 73-84. La decisión §7 (el otro Harry perdió) está confirmada. La tarea nocturna está desactivada.
+- El guion de la tanda 73-84. La decisión §7 (el otro Harry perdió) está confirmada. La tarea nocturna está desactivada.
