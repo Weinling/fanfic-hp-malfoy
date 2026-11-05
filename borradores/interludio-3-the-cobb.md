@@ -20,7 +20,7 @@ He was thirty-six. I hadn’t been ready for it. His hair had gone grey over the
 
 I said what I had come to say. He looked at my shoes. He said that if this was one of Lucius’s, there were crabs just below him who had been waiting for me for some time. I undid the clasp. It took me a little while; I found that I could not feel the ends of my fingers, in that heat. I held it out to him, the paper with its small brass case, and he looked at it, and then at me, and for the first time he stopped smiling.
 
-He knew the hand before he had unfolded it. I saw him know. Regulus made his capital letters as our father did, with the little stroke at the foot, and he had been told about it.
+He knew the hand before he had unfolded it. I saw him know. Regulus made his capital letters as his father did, with the little stroke at the foot, and he had been told about it.
 
 I shall not put down what it said. There are three lines and some initials. He read it. He read it with his head bent, in the sun, with the gulls going over, and I stood at the end of a stone wall in Dorset and looked out at the English Channel and I did not watch. I am able to do that. I have sat at table for six months with what I have sat at table with. It went on for some time. When I looked round, he had his forearm across his eyes, and his shoulders were not moving, and his mouth was open a little, like that of a person who has been running.
 
@@ -33,6 +33,8 @@ I said that it had been brought. He looked at me. He has our family’s eyes. He
 I did not reply. I have not been asked that question before.
 
 He laughed for some time. He seemed to find it the best thing that had happened to him since Azkaban. He beat on the stone with his hand. He made me sit down, and I sat; I sat on the end of the Cobb in a dress from Madame Levasseur, with my feet above the water. A Muggle had a cart at the landward end, and he went and bought two ices, with money that I gave him, because he had not got any, and he brought one back to me, in a sort of biscuit. Nobody has ever handed me such a thing in my life. I held it. It started to run down my wrist.
+
+At some point he went down the steps at the end of the wall and stood in the sea to his knees, in his boots, and came back with weed on his cuff. He said that he had wanted to see if it was still wet.
 
 He told me about the sheep.
 
@@ -54,7 +56,7 @@ He didn’t look at me. It was the only courtesy that I have ever known him to s
 
 I still have it. Bella has not found it. It’s under the third drawer.
 
-I had meant to stay for a quarter of an hour. The tide had come in round the foot of the wall and gone a good way out again. The clock of St Michael’s struck four, up the hill behind us, and I had not sat anywhere for four hours together since my wedding.
+I had meant to stay for a quarter of an hour. The tide had come in round the foot of the wall and gone a good way out again. The clock of St Michael’s struck the half-hour after four, up the hill behind us, and I had not sat anywhere for four hours together since my wedding.
 
 He had the paper folded small by then, and he had put it away in the pocket of that waistcoat. He patted it. I had thought that he would give it back; I had meant to ask. I found that I didn’t.
 
@@ -90,7 +92,7 @@ I have known him since he was eleven. He has eaten at my table for fifteen years
 
 I said that I wished him to swear.
 
-He asked me what, as one asks the price of something in a shop where one has no intention of buying. I told him. I have had some time to get the wording right. I wrote it out, and I learnt it, and I burnt the paper. I said that there were three things. He would watch over my daughter. He would protect her from all harm, as far as lay in his power. And should her life be asked for the deed undone, he would do the deed in her place.
+He asked me what, as one asks the price of something in a shop where one has no intention of buying. I told him. I have had some time to get the wording right. I wrote it out, and I learnt it, and I burnt the paper. I said that there were three things. He would keep her in his sight. He would put himself between her and anything that came, so far as he was able. And should her life be asked for the thing undone, he would do that thing in her place.
 
 Nobody spoke. The hands were going, under the linen, with that noise.
 

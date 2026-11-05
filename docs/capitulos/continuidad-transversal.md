@@ -432,6 +432,12 @@ En orden de lectura. Las fechas marcadas «deducida» no las da el texto: salen 
 - **74 (29 jun.-1 jul. 1996):** ver `cap-74.md`. Riddle agradece; la rata solo tiene papeles; Lyra, Secret Keeper; caja de veinticuatro. Lyra sabe lo de la fuente.
 - **75 (julio 1996):** ver `cap-75.md`. Libro largo leído. «It was *mine*.» Draco libre de la caja y fuera de la Marca; Lyme a crédito. Amelia Bones muerta el 25 de julio (*Prophet* del 26). La letra era la de Crabbe.
 
+- **Interludio 3 (julio 1996, con el 18 de junio dentro):** Narcissa. Sirius sabía que Harry le mentía y estaba orgulloso; el papel de Regulus cruzó el velo. Voto ante Abraxas: tenerla a la vista, ponerse entre ella y lo que venga, y «should her life be asked for the thing undone, he would do that thing in her place».
+- **76 (31 jul.-1 ago.):** ver `cap-76.md`. Marca el 31; el prado; el calcetín; «No».
+- **77 (agosto):** ver `cap-77.md`. Ginny sabe la fuente y «Mine». Primer Harry que miente a Moody.
+- **78 (ago.-oct.):** ver `cap-78.md`. Reglas de la Marca. Cree que la rata lo oyó todo.
+- **79 (sep.-13 oct.):** ver `cap-79.md`. Dos sillas. Contramaleficio. Harry vuelve a agarrarla.
+
 ## 5. Fichas vivas
 
 Al final del 57.

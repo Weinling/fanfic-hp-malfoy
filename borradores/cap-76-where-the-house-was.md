@@ -94,7 +94,7 @@ It stopped him as if he had walked into a pane of glass.
 
 He knew that voice. He had heard it across a table with a lace cloth, over a plate with a kitten on it. It was perfectly pleasant, and rather high, and it had no one in it. It didn’t seem to be addressed to him so much as to the air slightly above his left shoulder. She’d used that voice, once, to ask if he took sugar.
 
-“It went red,” said Harry. His own voice came out as a croak. “It went— At half past nine. For *four hours*. I came, I was there in forty minutes, I was there. There’s nothing there! I was in a field—”
+“It went red,” said Harry. His own voice came out as a croak. “It went— At half past nine. For *four hours*. I came, I was there in an hour, I was there. There’s nothing there! I was in a field—”
 
 “Yes,” said Lyra. “I imagine that you were. There’s been a certain amount of building work.”
 
@@ -162,7 +162,7 @@ She looked at him. She had got the light full on her now. She looked for what se
 
 She didn’t say anything.
 
-She turned round, and she walked back along the top of the hill, in the new sun, with her shadow going out long and thin on her right hand. She didn’t hurry. She walked as far as the broom, and stopped there, for a moment, with her back to him. He saw her shoulders go up and come down. She put one leg across, and took the handle in her right hand. The left she kept in against her body. She rose off the ridge very slowly, and turned south; and when the broom had steadied she let go of it, as she had let go of a good many brooms, and her right hand came across and closed round her own left forearm, a few inches above the wrist, and pressed. She flew like that, up into the light, until she was too small to see.
+She turned round, and she walked back along the top of the hill, in the new sun, with her shadow going out long and thin on her right hand. She didn’t hurry. She walked as far as the broom, and stopped there, for a moment, with her back to him. He saw her shoulders go up and come down. She put one leg across, and took the handle in her right hand. The left she kept in against her body. She rose off the ridge very slowly, and turned south; and when the broom had steadied she let go of it, as she had let go of a good many brooms, and her right hand came across and closed round her own left arm, just above the wrist, and pressed. She flew like that, up into the light, until she was too small to see.
 
 He stood on the hill with a sock in his pocket.
 

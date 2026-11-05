@@ -24,7 +24,7 @@ When it was over the elf stayed where he was, twisting his long fingers in his r
 
 Harry put down the cup.
 
-“The bad master told Kreacher. He told Kreacher it was found. He said that he would have it from Mistress’s niece, and Kreacher should see it, he said so, he laughed at Kreacher, he said *your little master could write, you know*. Kreacher has looked. Kreacher has been in all the pockets.” He looked up. It was the first time that he had ever met Harry’s eye, in either life, and there was nothing in his face but a sort of terrible hope. “Where has he put it?”
+“The bad master came through the kitchen, the last day, running. He had a letter from Mistress’s niece. He said that it was found. He said that Kreacher should see it, after, he said so, he laughed at Kreacher, he said *your little master could write, you know*. Kreacher has looked. Kreacher has been in all the pockets.” He looked up. It was the first time that he had ever met Harry’s eye, in either life, and there was nothing in his face but a sort of terrible hope. “Where has he put it?”
 
 There had been a corner of old paper sticking out of a pocket. Harry had seen it. He’d been standing about a yard away.
 
@@ -44,7 +44,7 @@ There were ten lines, in purple, with a Ministry crest. He’d got an O in Defen
 
 *History of Magic: D.*
 
-It wasn’t even the right sort of D. He had got as far as question nine. He’d spelt Bagnold. He had done the Goblin Rebellion of 1612 in three neat causes; he had been looking forward to that paper for four and a half years, and he had left it in the middle of a word, with a line trailing off the *d* of *would*, and gone to the Ministry of Magic, and somewhere in a cold office an old wizard with an egg-timer had totted up what there was and given him exactly what it came to. The last time that he had done this exam, in another life, he’d got a D as well.
+It wasn’t even the right sort of D. He had got as far as question nine. He’d spelt Bagnold. He had done the Goblin Rebellion of 1612 in three neat causes; he had been looking forward to that paper for four and a half years, and he had left it in the middle of a sentence, with a line trailing off the *d* of *would*, and gone to the Ministry of Magic, and somewhere in a cold office an old wizard with an egg-timer had totted up what there was and given him exactly what it came to. The last time that he had done this exam, in another life, he’d got a D as well.
 
 He hadn’t made a noise. It came out through his nose. His shoulders had started. The dog got up from under the chair and came over and looked at him, with its head on one side; and Lupin came in from the scullery with a dishcloth, and stopped in the doorway. It was the first time that either of them had heard anything of the kind in that kitchen since June.
 
@@ -58,7 +58,7 @@ Moody came that Friday, down the area steps, in a filthy temper and a borrowed h
 
 “Wiltshire,” he said.
 
-Harry had been expecting it. He’d had a fortnight to get ready.
+Harry had been expecting it. He’d had nine days to get ready.
 
 They had taken over the back kitchen. Moody sat down on the coal bunker with his bad leg out in front of him and the blue eye going round the walls, and he took a pull at his flask. He’d had six people over that field, he said. Kingsley had been on his hands and knees. There wasn’t a thing there, not a stone, and there were sixty acres on the Ordnance Survey that nobody could make walk straight; you could set off across them with a compass and find that you had been thinking about something else. Malfoy Manor had been standing on that spot since the Conquest. It wasn’t there now. Somebody had put it in their pocket. He had one lad who’d been sitting in a hedge in Little Whinging, on the night of the thirty-first, and been run over by a Firebolt. So he’d like to know how Harry had got on to it.
 
@@ -72,9 +72,9 @@ They had taken over the back kitchen. Moody sat down on the coal bunker with his
 
 “Yeah.”
 
-“I’ll tell you what I heard, Potter.” He screwed the top on the flask. “I had Crouch by the neck, in the Atrium, when they brought that line past. I was as close to Malfoy as I am to this bunker. *By four o’clock, as I asked. You may tell my daughter it was very well done.* There were three of us heard that. I saw that girl on the platform. I saw old Nott take his hat off. I’ve seen ’em do that before, to one or two people, in the last war, and I went to the funerals. Now then. You’ve known her since you were eleven. What did he mean?”
+“I’ll tell you what I heard, Potter.” He screwed the top on the flask. “I had Crouch by the neck, in the Atrium, when they brought that line past. I was as close to Malfoy as I am to this bunker. *By four o’clock, as I asked. You may tell my daughter it was very well done.* There were three of us heard that. I saw that girl on the platform. I saw old Nott bow. I’ve seen ’em do that before, to one or two people, in the last war, and I went to the funerals. Now then. You’ve known her since you were eleven. What did he mean?”
 
-The eye was very blue, and it wasn’t on his face. He could feel it going over his left side, in a thoughtful way, through his shirt, and stopping at the place where a sock was folded in his pocket.
+The eye was very blue, and it wasn’t on his face. He could feel it going down his left side, in a thoughtful way, and stopping at his ankle, at a very good dark grey sock.
 
 He had thought about what you did. It was all there, ready to hand. He had been in a room with Lucius Malfoy, on the night he’d lost everything he had. He’d seen him smile. Harry let his shoulders go down. He let himself look tired, which took no effort; and he met the dark eye and he held it, with a slight sour twist to his mouth, that he had taken some trouble over.
 
@@ -156,7 +156,7 @@ His mouth had gone dry. He had talked to Dumbledore across that desk, and to Rid
 
 He looked at the cup. “Since I was eleven,” he said. “Since I got here. I knew it was your dad’s cauldron and I knew which day. I knew what was in the book. I was standing there, I could have knocked it out of your hand. I’d got a whole year to do something in.” It came out flat, and rather quick. “I needed the fang. There’s a— I needed something that was down there. There wasn’t another way to get it. I needed it to happen, so I let it.”
 
-She didn’t move. Something had gone across the skin under her eyes, and come back, like wind across a pool. She nodded, once, as you’d tick something.
+She didn’t move. It went across her face and came back, like wind across a pool. She nodded, once, as you’d tick something.
 
 “Right,” said Ginny. “That’s what Ron said. I wanted to hear you do it.”
 
@@ -180,7 +180,7 @@ She looked at him for rather a long time.
 
 She unlaced her fingers, and looked at the ink on them. She rubbed it with her thumb.
 
-“You want to know why I burn them,” she said. “Ron told you that. He saw me behind the shed. You’ll have been wondering. It isn’t on the list, I’ll tell you for nothing. I write it all out, whatever it is. It might be Charms. Then I go over it with a pencil, every letter, to see if I know the hand. Then I burn it, so that it can’t answer. I’ve done that for four years. I’m getting O’s, you’ll be glad to hear. Hermione knows. Did she tell you? No, she wouldn’t. She came and sat with me after, when I was eleven, when she came out of the Hospital Wing. She didn’t say anything. She held my hand, every night, for a fortnight, in the dormitory. She’d read somewhere that you ought to. She’d have been twelve. I thought that she was the only person in that whole school who—” It stopped. She breathed in through her nose. “She told me about it, in the four lines, what she’s known and how long for. *She held my hand for a fortnight when I was eleven.* I’ve told her what that was.”
+“I burn my essays,” she said. “That’s another thing you didn’t ask. I write it all out, whatever it is. It might be Charms. Then I go over it with a pencil, every letter, to see if I know the hand. Then I burn it, so that it can’t answer. I’ve done that for three years. I’m getting O’s, you’ll be glad to hear. Hermione knows. Did she tell you? No, she wouldn’t. She came and sat with me after, when I was eleven, when she came out of the Hospital Wing. She didn’t say anything. She held my hand, every night, for a fortnight, in the dormitory. She’d read somewhere that you ought to. She’d have been twelve. I thought that she was the only person in that whole school who—” It stopped. She breathed in through her nose. “She told me, in the four lines, what she’s known and how long for. It was two years too late to be part of it. So I’ve still got the fortnight. I’ve told her what that was.”
 
 He couldn’t have said anything if you’d paid him.
 
@@ -194,7 +194,7 @@ No one had asked him that. Dumbledore had asked him what he’d said. He had tol
 
 He looked at the mustard waistcoat, on its chair. There was nobody else in the house. It was a quarter past eleven, and he hadn’t laughed for a while. He could feel his heart, going slowly and hard. And he thought, with a dull surprise, that there was one person alive who could not be told anything that would make her think worse of him. It would be like putting down a heavy bag on somebody else’s floor.
 
-So he told her. He hadn’t told anybody. He told it to the lamp. He told her that he’d run up the stairs after Bellatrix Lestrange, because he had decided to, and that he wanted that clear. He told her how it had been in the gold room: and then that it had stopped being him. His arm had come up. It had done that before. It did it by itself, on a landing, and in a pink room, from the shoulder, without any weight in it, as if it had been lifted by someone who knew the way. He told her there was a word. He told her what it had done to a woman’s face, with half of it unsaid. He told her what the worst of it was. There had been a voice. It was very quiet. It wasn’t Voldemort’s, and it wasn’t his. It had come from just here, behind his right ear, and it had said one word. It had sounded so pleased.
+So he told her. He hadn’t told anybody. He told it to the lamp. He told her that he’d run up the stairs after Bellatrix Lestrange, because he had decided to, and that he wanted that clear. He told her how it had been in the gold room: and then that it had stopped being him. His arm had come up by itself, as if it had been lifted by someone who knew the way. He told her there was a word. He told her what it had done to a woman’s face, with half of it unsaid. He told her what the worst of it was. There had been a voice. It was very quiet. It wasn’t Voldemort’s, and it wasn’t his. It had come from just here, behind his right ear, and it had said one word. It had sounded so pleased.
 
 He put up his hand and touched the place. It didn’t feel like anything.
 
