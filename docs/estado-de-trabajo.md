@@ -19,7 +19,7 @@
 
 ## Siguiente paso exacto
 
-1. **Dirección nueva:** `decisiones.md`, §10. Análisis capítulo a capítulo del 40 al 72 para meter la amistad en la línea principal, si el autor lo aprueba.
+1. **Dirección nueva:** `decisiones.md`, §10. Análisis capítulo a capítulo: `docs/notas/reestructura/revision-39-72.md`, pendiente de que lo apruebe el autor.
 2. Después, rehacer `borradores/guion-tanda-73-84.md`, que ha quedado superado en parte. No se escribe nada de la tanda hasta entonces.
 
 ## Pendiente, sin urgencia
@@ -30,4 +30,4 @@
 
 ## Espera al autor
 
-- El 39 rehecho y el análisis capítulo a capítulo. La decisión §7 (el otro Harry perdió) sigue en pie, con lo que añade el §10. La tarea nocturna está desactivada.
+- El 39 rehecho y `revision-39-72.md`. La decisión §7 (el otro Harry perdió) sigue en pie, con lo que añade el §10. La tarea nocturna está desactivada.
