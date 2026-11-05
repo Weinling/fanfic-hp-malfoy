@@ -15,6 +15,7 @@ They were gloves. They were hand-knitted, in thick oatmeal-grey wool, and they h
 *Dear Miss Malfoy, I expect you won’t remember me. The Sister told me that you had been again in the summer, and sat with my brother, and that you did not mind about his chin. It’s a thing that very few do mind about, I’m sorry to say. I hope that you won’t think me forward. You had such cold hands, at Easter. I noticed. It is a comfort to know that there are still young people. Broderick would have thanked you himself, if he could. Yours respectfully, E. Bode (Miss), Battersea.*
 
 The Hall went on around her. Somebody was laughing, down by Parkinson. She sat with a pair of grey gloves in her lap, and it seemed to her that she had got to be very good at something. She could feel the wool. It was rather scratchy.
+
 She had a good many pairs of gloves. They were kid, and they fitted.
 
 She drew these on, one at a time, under the edge of the table. She buttoned her cuffs over them. It was a very cold morning. She picked up her cup, and they made it hard to feel the handle.
