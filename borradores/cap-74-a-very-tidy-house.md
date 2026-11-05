@@ -16,7 +16,7 @@ He was sitting on his bed with his hands on his knees. He had come home from Kin
 
 “Aren’t you going to open it?” said Lyra.
 
-He considered her for a moment. “No,” said Draco.
+He went on looking at the wall. “No,” said Draco.
 
 ⁂
 
@@ -106,9 +106,9 @@ No one was moving. Across the table, her mother had laid down her spoon, without
 
 She could hear a very small sound, regular and exact. Draco was cutting his bread into strips.
 
-*She had moved a piece on a board that neither of them could see.* She had lain with her hands folded on her chest. She’d been able to feel her feet.
+She had moved a piece on a board that neither of them could see. She had lain with her hands folded on her chest. She’d been able to feel her feet.
 
-“Your father knows how to value that,” he went on. “He told them so. He stopped in front of the fountain, you know, in the middle of the Ministry of Magic, with his hands tied, and eleven of my friends behind him, and he said it to the boy’s face. *By four o’clock, as I asked. You may tell my daughter it was very well done.* I thought it quite the best thing that he’s ever done. It has gone all over the county. He’s in a cell under the Wizengamot with a blanket, and I’m told that he’s a great deal easier in his mind.”
+“Your father knows how to value that,” he went on. “He told them so. He stopped in front of the fountain, you know, in the middle of the Ministry of Magic, with his hands tied, and my friends in a line behind him, and he said it to the boy’s face. *By four o’clock, as I asked. You may tell my daughter it was very well done.* I thought it quite the best thing that he’s ever done. It has gone all over the county. He’s in a cell under the Wizengamot with a blanket, and I’m told that he’s a great deal easier in his mind.”
 
 So that was what that was.
 
@@ -122,7 +122,7 @@ She hadn’t seen the door open. It was the service door, in the panelling behin
 
 He held it out. He came all the way up the room, keeping close to the wall, and he stood at the end of the table and held it out in both hands, and it shook. It was a handful of bits and pieces, creased and dirty, some with a scorched edge. The Dark Lord took them from him, and shook out his napkin, and began laying them on the cloth, one at a time, smoothing each with his long finger.
 
-“*He has nits*,” he read, “*and he’s afraid that people will find out.*” He looked up. “I preferred the first version, I think. It had more feeling.”
+“*He has nits*,” he read, “*and it preys upon him.*” He looked up. “I preferred it the way he said it, I think. It had more feeling.”
 
 She knew the paper. She knew the ink. She kept it for her father. It was the sheet that she’d spoiled in January, on her stomach, with her feet in the air. She had crumpled it up. She had thrown it at somebody’s head.
 
@@ -138,7 +138,7 @@ Nobody knew about the Bishop. There was nobody in the world. It had been a stupi
 
 There had been a rat. She had seen it in January, on the seventh floor, by the skirting. She had looked straight at it, and thought about something else.
 
-“He has been so attentive,” said the Dark Lord. His eyes rested on the small soft man. “Five months, and never once a complaint. You wouldn’t believe the places that a little creature can get to. And you do keep it so warm up there.”
+“He has been most attentive,” said the Dark Lord. His eyes rested on the small soft man. “Five months, and never once a complaint. You wouldn’t believe the places that a little creature can get to. And you do keep it so warm up there.”
 
 Wormtail looked at the carpet. His lips had drawn back from his front teeth in a kind of smile.
 
@@ -150,7 +150,7 @@ There was a linen cupboard on the second floor, behind the old nurseries. It was
 
 She got the door shut. She got in at the back, on the floor, between the winter blankets. She took a double sheet down from the shelf, one of the good ones with the crest on it, and she folded it in four, and then she put her face in it, and she opened her mouth as far as it would go.
 
-She didn’t know how long that was. It went on until there wasn’t any more air, and then it went on anyway. It wasn’t crying. She had done crying. She had done that in an Owlery, with her nose running, and she knew how it went. This came from a good deal lower down, and it had no words in it, and it tore. Her arms hurt. She bit the sheet. She rocked. She thought, in some small clear place at the very top of her head, that nobody at all would have recognised the noise; that she’d have liked to go to him, and tell him; and that it was the only thing in the whole of that house that would not be going in a report.
+She didn’t know how long that was. It went on until there wasn’t any more air, and then it went on anyway. She had cried in an Owlery, with her nose running, and she knew how that went. This came from a good deal lower down, and it had no words in it, and it tore. Her arms hurt. She bit the sheet. She rocked. She thought, in some small clear place at the very top of her head, that nobody at all would have recognised the noise; that she’d have liked to go to him, and tell him; and that it was the only thing in the whole of that house that would not be going in a report.
 
 When it stopped, she lay for a while with her cheek on the boards. She could see her own hand, a long way away. There was a pale ring round the fourth finger, and the ring was on it.
 
@@ -168,7 +168,7 @@ It didn’t hurt. She had thought that it would. He stood her on the step with h
 
 After that she stood in the door.
 
-They had to be told. It was the only way. They came up from the road, one at a time, to the place where the gravel stopped, and they stood there in the sunshine looking about them at an empty field, and she walked down to them and said it. She said it to Bellatrix, who kissed her. She said it to Avery. She said it to old Nott, who took off his hat. It took nine words. Towards three she walked down the drive for a thin man in black, with a long yellow face, who stood with his hands in his sleeves and looked at the air above her head. She told him where he was. He looked at her then. He looked for about as long as it takes to read a line. She saw him take in her eyes, and what had been done about them.
+They had to be told. It was the only way. They came up from the road, one at a time, to the place where the gravel stopped, and they stood there in the sunshine looking about them at an empty field, and she walked down to them and said it. She said it to Bellatrix, who kissed her. She said it to Avery. She said it to old Nott, who took off his hat. It took nine words. Towards three she walked down the drive for a thin man in black, with a long yellow face, who stood with his hands in his sleeves and looked at the air above her head. She told him where he was. He looked at her then. He looked once. She saw him take in her eyes, and what had been done about them.
 
 “Miss Malfoy,” said Snape. He walked past her towards the house.
 

@@ -176,7 +176,7 @@ That was true. That was what she kept noticing. It was the truest thing she had.
 
 ⁂
 
-*I am writing to you about the grey*, she wrote, *which has come back from Madame Malkin’s with the hem let down.*
+*I am writing to you about the grey*, she wrote, *which has come back from Madam Malkin’s with the hem let down.*
 
 She did that one on the Thursday night, behind her hangings. She took her time. There was a good deal about the hem. It filled a side of second-best paper, in her neatest hand, a dutiful and rather tiresome letter from a girl in the middle of her examinations, who was sorry about Sunday, and it had a gap in it, between *your* and *obedient*, of the width of two fingers.
 
