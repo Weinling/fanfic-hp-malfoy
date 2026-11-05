@@ -13,14 +13,15 @@
 
 ## En marcha
 
-- **Codex:** ha leído hasta el 72; informes aplicados (`docs/notas/criticas-codex/lectura-58-70.md` y `lectura-71-72.md`).
+- **Codex leyó del 1 al 78:** `docs/notas/criticas-codex/lectura-39-78.md`, comprobado contra el texto. Mi valoración, a la espera del visto bueno del autor; nada aplicado aún.
 - **Misterios del Torneo:** solución en `docs/notas/reestructura/decisiones.md`, §8. **Lo que se rescata del original:** §9.
 
 ## Siguiente paso exacto
 
 1. Revisión del 39 al 72, **hecha** (`docs/notas/reestructura/revision-39-72.md`). Los títulos llevan ya el número del lector; archivos y documentos conservan el de trabajo: `docs/notas/reestructura/numeracion.md`.
-2. **Codex lee del 1 al 78** (`docs/notas/reestructura/encargo-codex-revision-39-78.md`). Con su informe, una sesión nueva abre con `prompt-apertura-tras-codex.md`.
-3. Después, la tanda 73-84, con un crítico Opus nuevo.
+2. Codex leyó del 1 al 78. **Ahora:** el autor aprueba qué se aplica (39 incluido) y los cambios al guion 73-84.
+3. Arreglos del 39 al 72, con crítico Opus nuevo en lo rehecho.
+4. Después, la tanda 73-84, con un crítico Opus nuevo.
 
 ## Pendiente, sin urgencia
 
