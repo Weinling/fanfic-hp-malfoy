@@ -1,4 +1,4 @@
-# Chapter 72: Mine
+# Chapter 78: Mine
 
 There was a notice on the fountain.
 

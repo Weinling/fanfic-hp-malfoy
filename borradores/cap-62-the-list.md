@@ -1,4 +1,4 @@
-# Chapter 62: The List
+# Chapter 67: The List
 
 “What would you do,” said Lyra, “about a drawer?”
 

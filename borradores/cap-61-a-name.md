@@ -1,4 +1,4 @@
-# Chapter 61: A Name
+# Chapter 66: A Name
 
 “One does so worry about the Ministry, Professor,” said Lyra.
 

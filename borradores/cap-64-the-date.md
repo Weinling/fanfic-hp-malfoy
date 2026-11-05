@@ -1,4 +1,4 @@
-# Chapter 64: The Date
+# Chapter 69: The Date
 
 There was no chip shop in Hogsmeade, so Hermione had looked into it.
 

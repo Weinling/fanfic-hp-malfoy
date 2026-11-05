@@ -110,7 +110,7 @@ Detalle del fondo en `docs/notas/lo-que-sabe-harry.md`. Lo decidido (`docs/notas
 ## 8. Rumbo
 
 - **Hasta el final:** `docs/notas/reestructura/decisiones.md` (aprobadas) y `guion-general.md`. Lo lejano solo son puntos fijos; el final es una dirección.
-- **Revisión en curso:** `docs/notas/reestructura/revision-39-72.md` (aprobada). **Tanda siguiente:** `borradores/guion-tanda-73-84.md` (pendiente de aprobación). La anterior, en `docs/archivo/guiones/`.
+- **Revisión del 39 al 72:** hecha (`docs/notas/reestructura/revision-39-72.md`). Numeración: `docs/notas/reestructura/numeracion.md`. **Tanda siguiente:** `borradores/guion-tanda-73-84.md` (aprobado). La anterior, en `docs/archivo/guiones/`.
 - **Lo que se quita del original:** `docs/notas/reestructura/poda-agente.md` y el guion general.
 - **Decidido en la tanda:** lo que toca Voldemort deja de sentirse (56); Bode recibe el Beso y Lyra le da de comer (63); Hopkins nunca sabe quién le vengó (62).
 

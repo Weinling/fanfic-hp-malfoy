@@ -1,4 +1,4 @@
-# Chapter: Three
+# Chapter 65: Three
 
 Harry came out on to the pitch on the Saturday with the taste of disinfectant still in his mouth.
 
@@ -28,7 +28,7 @@ Smith tried the right-hand hoop. Ron took that one against his chest and sat bac
 
 *Oh*, thought Harry.
 
-He couldn’t have said what it was. He hung up there on the end of the longest week of his life. He hadn’t anything to do with it at all; nobody had told him this one. He had seen it the once, on another pitch, in another year, in a crowd that was singing about a king. It was not the same. It was a wet Saturday in February and somebody who had put his badge on with cold hands in the dark had just done something that he’d been told he couldn’t. He felt it begin somewhere under his ribs. It came up through his chest and it hurt, like the blood coming back into a foot. There was a small gold flicker just off the end of the Hufflepuff stand, about a yard behind Cho Chang’s friend’s left ear. He had been looking at it for some time.
+He couldn’t have said what it was. He hung up there on the end of the longest week of his life. He hadn’t anything to do with it at all; nobody had told him this one. He had seen the end of it once, in another life, coming up from the trees, in a crowd that was singing about a king. It was not the same. It was a cold Saturday in February and somebody who had put his badge on with cold hands in the dark had just done something that he’d been told he couldn’t. He felt it begin somewhere under his ribs. It came up through his chest and it hurt, like the blood coming back into a foot. There was a small gold flicker just off the end of the Hufflepuff stand, about a yard behind Cho Chang’s friend’s left ear. He had been looking at it for some time.
 
 He put his head down and went.
 
@@ -36,13 +36,13 @@ He put his head down and went.
 
 The final score was two hundred to thirty. Ron had let in three.
 
-He said so to everyone. He said it on the pitch, with Ginny on his back and Angelina shaking him by the front of his robes. He said it in the changing room, and all the way up the marble staircase, walking in the middle of a crowd of people who were all walking backwards, and he said it to the Fat Lady, who said that she was delighted. “Three,” said Ron. “Out of *nineteen*. I’ve been working it out. That’s eighty-four per cent.” He had a split lip and a bruise coming up on his collarbone in the exact shape of a Quaffle, and he had an expression on his face that Harry had last seen on a dog of Hagrid’s that had been allowed to carry something.
+He said so to everyone. He said it on the pitch, with Ginny on his back and Angelina shaking him by the front of his robes. He said it in the changing room, and all the way up the marble staircase, walking in the middle of a crowd of people who were all walking backwards, and he said it to the Fat Lady, who said that she was delighted. “Three,” said Ron. “Out of *nineteen*. I’ve been working it out. That’s eighty-four per cent.” He had a split lip and a bruise coming up on his collarbone in the exact shape of a Quaffle, and he had an expression on his face that Harry had last seen on Neville, on the morning that his plant put out a knob.
 
 “Eighty-four point two,” said Hermione, who had gone hoarse, and had not let go of his sleeve. “It was very good tackling.”
 
 “It’s not *called*— It doesn’t matter. It’s not called that. Say it again.”
 
-The party started in the corner and spread. Nobody decided that it should. It was the short-legged table, with a bucket on it, and then the sofa, and then the whole of the room. Fred and George had got something in a crate that they would only say was educational. It went off at about seven, and it wrote *THREE* on the ceiling in green and gold sparks, and then it wrote something else, and McGonagall’s Patronus would have had to be a very broad-minded cat. Dean had got out a long roll of parchment, with a drawing on it of Smith’s face at the moment of the third save, and he went round pinning it up. It was extremely like. Lavender Brown did Lee Jordan. Lee did Lavender. Somebody found the wireless.
+The party started in the corner and spread. Nobody decided that it should. It was the short-legged table, with a bucket on it, and then the sofa, and then the whole of the room. Fred and George had got something in a crate that they would only say was educational. It went off at about seven, and it wrote *THREE* on the ceiling in green and gold sparks, and then it wrote something else. Dean had got out a long roll of parchment, with a drawing on it of Smith’s face at the moment of the third save, and he went round pinning it up. It was extremely like. Lavender Brown gave them Lee Jordan. Lee gave them Lavender, with the hair. Somebody found the wireless.
 
 Harry did not do very much for the first hour. He sat on the floor by the fender with a plate. He had got a lot of noise on all sides of him, and it was warm; he was aware of being rather slow, like somebody who has been a long time under water. Neville sat down next to him, with the pot.
 
@@ -114,7 +114,7 @@ He had thought it would come back. He’d been waiting for that, in a dim way, f
 
 *Give me something dull*, somebody had said.
 
-He thought about that. He was very nearly asleep. He went along the passage, in a manner of speaking, as he had been going every night, to the cold clean place he had built, with its wall and its Herbology essay and the bare floor in the middle where there was nothing to put. He had looked for days. He only had the one good thing, and he had carried it as far back as he could get, and stood in front of it. You could not leave that out for anyone to pick up.
+He thought about that. He was very nearly asleep. He went along the passage, in a manner of speaking, as he had been going every night, to the cold clean place he had built, with its wall and its Herbology essay and the bare floor in the middle where there was nothing to put. He had looked for days. He only had the one good thing, and you could not leave that out.
 
 He went back to the corner. He got hold of the table.
 

@@ -1,4 +1,4 @@
-# Chapter 45: Rounds
+# Chapter 46: Rounds
 
 On that first Wednesday, while Potter was finding out how polite he could be, Lyra read the first chapter of Wilbert Slinkhard with every appearance of delight, and could not have told anybody a word of it.
 

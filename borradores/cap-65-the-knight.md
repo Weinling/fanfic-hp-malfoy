@@ -1,4 +1,4 @@
-# Chapter 65: The Knight
+# Chapter 70: The Knight
 
 “You are the only person I have ever met,” said Malfoy, “who can lose a game of chess by looking at it.”
 
@@ -16,7 +16,7 @@ They bowed to her as she set them out. They had always done that. They were old 
 
 She moved her king’s pawn. He looked at the board with his chin on his fist.
 
-It was a very nice evening. He had got through a week of it. He had been down to Snape’s office on Tuesday, and given him the dull thing, a good clean room with a Herbology essay in it, and been told that it had the charm of a municipal lavatory. He had found a place in the atlas that had no roads. It was going to be all right. He looked at his hand, going out across the board, and it wavered about, as it always did. It came down on a knight.
+It was a very nice evening. He had got through a week of it. He had been down to Snape’s office on Tuesday, and given him the dull thing, a good clean room with a bad table in it, and Snape had walked round it twice and told him that it was the first thing he had ever produced with the decency to be boring. He had found a place in the atlas that had no roads. It was going to be all right. He looked at his hand, going out across the board, and it wavered about, as it always did. It came down on a knight.
 
 “Oh, *don’t*,” said Malfoy. She was smiling already. “Please. I’ve had a very trying month.”
 

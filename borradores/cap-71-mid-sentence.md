@@ -1,4 +1,4 @@
-# Chapter 71: Mid-Sentence
+# Chapter 77: Mid-Sentence
 
 Harry had been looking forward to the History of Magic examination for four years and five months.
 

@@ -1,4 +1,4 @@
-# Chapter 59: In Public
+# Chapter 63: In Public
 
 “Malfoy,” said Harry Potter, stopping behind her at breakfast. “Did your father buy you that face, or was it left to you?”
 
@@ -58,7 +58,7 @@ It had been in Lyra’s pigeonhole on the Friday, folded into a square. It was r
 
 She had read it three times. She had never in her life been told what to do by anybody so badly dressed. She had pinned it up over the fireplace, because it was, when one looked at it, an extremely good timetable.
 
-Granger got ninety-seven for the January Arithmancy paper. Lyra got ninety-eight. She left hers lying face up on the table by the window, and Granger looked at it, and took out a pencil, and found the question. “That’s the wrong method, you know,” said Granger. “You got there by luck.” “It’s called flair.” They were put out by Madam Pince at twenty to six, with their voices still lowered and their hair coming down, having covered four sheets of parchment, and it was not until the stairs that Lyra noticed she had enjoyed herself. There was a napkin in her book when she opened it. *Cannons 90, Falmouth 80. Told you. R.W.* She wrote *Falmouth were drunk* underneath, and it went back by the same post, without comment, on the Tuesday. Granger took it between finger and thumb, as one takes a dead mouse, and was seen to be biting her lip.
+Granger got ninety-seven for the January Arithmancy paper. Lyra got ninety-eight. She left hers lying face up on the table by the window, and Granger looked at it, and took out a pencil, and found the question. “That’s the wrong method, you know,” said Granger. “You got there by luck.” “It’s called flair.” They were put out by Madam Pince at twenty to six, with their voices still lowered and their hair coming down, having covered four sheets of parchment, and it was not until the stairs that Lyra noticed she had enjoyed herself. There was a napkin in her book when she opened it. *Cannons 90, Falmouth 240. Moral victory. R.W.* She wrote *Falmouth were asleep* underneath, and it went back by the same post, without comment, on the Tuesday. Granger took it between finger and thumb, as one takes a dead mouse, and was seen to be biting her lip.
 
 ⁂
 

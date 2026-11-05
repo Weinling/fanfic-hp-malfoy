@@ -1,12 +1,12 @@
-# Chapter: Bothy
+# Chapter 71: Bothy
 
 He left on the Saturday night, after the castle had gone quiet, from the flat roof behind the owlery stair.
 
-It was the first warm night of the year. There was half a moon, and a wind you could have lit a match in. He had the Firebolt, and the atlas buttoned inside his jumper, and two days. Nobody would miss him until Monday. He had told Hermione he’d got a headache, and she had looked at him over the Ancient Runes and said nothing, as she’d been saying it for a week. He had told a person on the seventh floor that he had some Potions to catch up on. She was so happy. She had laughed, with her feet on his knee, and told him to mind he didn’t fall in. He stood on the leads and looked at the dark line of the mountains to the north.
+It was the first warm night of the year. There was half a moon, and a wind you could have lit a match in. He had the Firebolt, and the atlas buttoned inside his jumper, and two days. Nobody would miss him until Monday. He had told Hermione he’d got a headache, and she had looked at him over the Ancient Runes and said nothing, as she’d been saying it for a week. He had done Sunday’s report on the Friday, and told a person on the seventh floor that he had some Potions to catch up on. She was so happy. She had laughed, with her feet on his knee, and told him to mind he didn’t fall in. He stood on the leads and looked at the dark line of the mountains to the north.
 
 There were forty-five days of Sirius. He had found a place on page 71, a long way from any of the red lines. It had a small grey square on it and two words in italics, and he wanted to see if there was a roof.
 
-That was what he was doing. He wanted that understood. He wasn’t going anywhere to get away from a bathroom mirror.
+That was what he was doing. He wasn’t going anywhere to get away from a bathroom mirror.
 
 He kicked off, and the castle dropped away, and he flew up the long black side of the lake with his hands getting cold. It was very good to have something to steer. He had gone about half a mile. He was over the first of the trees, with the Forest going by underneath like a sea, and he was thinking of nothing at all, when somebody behind him and a little to the left said, in a perfectly ordinary voice:
 
@@ -14,7 +14,7 @@ He kicked off, and the castle dropped away, and he flew up the long black side o
 
 His arm came up.
 
-It came round from the shoulder, with no weight in it at all, and the wand was in his hand. He hadn’t got the broom under him any more; he had turned on it, in the air, without knowing; there was a sound in his ears like a great many people breathing in. He couldn’t have told you what had happened. Everything in him had stopped. It was cold, and it smelt of leaves. He knew that voice. He knew it, and he had got to get that word out of his mouth before— There was something the matter with his chest. It had simply closed. Somebody ought not to be here. That was all he knew. Somebody ought not to be *here*, he had left them, he had gone on purpose, he had not said goodbye—
+It came round from the shoulder, with no weight in it at all, and the wand was in his hand. He hadn’t got the broom under him any more; he had turned on it, in the air, without knowing; there was a sound in his ears like a great many people breathing in. It was cold, and it smelt of leaves. He knew that voice. He knew it, and he had got to get that word out of his mouth before— Somebody ought not to be *here*, he had left them, he had gone on purpose, he had not said goodbye—
 
 “Blimey,” said Ron. “Put that down.”
 
@@ -30,7 +30,7 @@ Harry looked at the wand. It seemed to be somebody else’s. He looked along his
 
 Harry opened his mouth.
 
-Nothing was the matter. It had gone. He could feel it going, draining down out of his chest, and leaving him cold and rather sick, as you are when you’ve missed a step in the dark. He couldn’t remember what he had thought. He’d been going to say something. He looked at Ron’s hand, which was still held up, and which was very big and had a split nail, and his eyes had got hot.
+Nothing was the matter. It had gone. He could feel it going, draining down out of his chest, and leaving him cold and rather sick. He couldn’t remember what he had thought. He’d been going to say something. He looked at Ron’s hand, which was still held up, and which was very big and had a split nail, and his eyes had got hot.
 
 “North,” said Harry.
 
@@ -110,7 +110,7 @@ He said it quite easily. A sheep coughed, somewhere down the slope. Harry looked
 
 “There’s nobody in Slough.”
 
-“No,” said Ron. “I know.” He put the stalk back in his mouth. “She went up to tens in January. Malfoy. The day after, you started humming. I’ve got a graph, mate. You’ve seen it. It’s got two lines on it, I did the other one for a laugh.” He said it to the clouds, not at all loudly. “I’m not asking. I don’t want to know. I can’t stand her. She’s a horrible cow, and I’ve been losing Sickles to her since Christmas, and if you tell me about it, I’ll have to have an opinion. I just thought you’d want to know that you’re not as clever as you think.”
+“No,” said Ron. “I know.” He put the stalk back in his mouth. “You started humming at New Year. Malfoy went up to tens about a fortnight after. I’ve got a graph, mate. You’ve seen it. It’s got two lines on it, I did the other one for a laugh.” He said it to the clouds, not at all loudly. “I’m not asking. I don’t want to know. I can’t stand her. She’s a horrible cow, and I’ve been losing Sickles to her since Christmas, and if you tell me about it, I’ll have to have an opinion. I just thought you’d want to know that you’re not as clever as you think.”
 
 Harry lay perfectly still. He had a feeling as if somebody had reached over and taken a heavy bag out of his hand, without comment, and put it down.
 
@@ -152,9 +152,9 @@ He didn’t look up. He was doing something to a buckle, with his big fingers.
 
 It was a very quiet evening. A long way down, somebody was calling a cat.
 
-Harry looked at him. He looked at the big bent head with the sun on it, and the bits of heather, and the ears. He had been through this door before, a great many times. He could feel the whole of the thing that was on the other side: a cauldron, in a bookshop. A girl behind a shed. There was nothing whatever to stop him. There was nobody up there at all. He only had to open his mouth.
+Harry looked at him. He looked at the big bent head with the sun on it, and the bits of heather, and the ears. He had been through this door before, a great many times. He could feel the whole of the thing that was on the other side: a cauldron, in a bookshop. A small cold hand on a wet stone floor. There was nothing whatever to stop him. There was nobody up there at all. He only had to open his mouth.
 
-He had had the best day of his life.
+It had been such a good day.
 
 “Yeah,” said Harry.
 

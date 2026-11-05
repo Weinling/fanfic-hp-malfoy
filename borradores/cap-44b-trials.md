@@ -1,4 +1,4 @@
-# Chapter: Trials
+# Chapter 45: Trials
 
 On the first morning of term Harry changed his seat.
 

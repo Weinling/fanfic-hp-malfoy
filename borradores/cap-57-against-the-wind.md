@@ -1,4 +1,4 @@
-# Chapter 57: Against the Wind
+# Chapter 61: Against the Wind
 
 At four minutes to midnight on the last day of 1995, Sirius Black was standing on the kitchen table at Number Twelve, Grimmauld Place, conducting “Auld Lang Syne” with a ham bone, and Harry’s ring tried to take his finger off.
 

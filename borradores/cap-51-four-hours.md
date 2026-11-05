@@ -1,4 +1,4 @@
-# Chapter 51: Four Hours
+# Chapter 54: Four Hours
 
 Hermione locked the door, put a chair against it, and took eleven sandwiches out of her bag.
 

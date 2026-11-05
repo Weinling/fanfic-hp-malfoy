@@ -1,4 +1,4 @@
-# Chapter 54: The East Cottage
+# Chapter 58: The East Cottage
 
 She gave her mother the note on the first evening, in the dressing room at the end of the west corridor, with the door shut.
 

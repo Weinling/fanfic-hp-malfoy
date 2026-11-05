@@ -1,4 +1,4 @@
-# Chapter 50: Pretext
+# Chapter 51: Pretext
 
 Her father’s owl came on the morning of the match, and she opened the letter in the changing room, alone, with her Quidditch robes half on.
 

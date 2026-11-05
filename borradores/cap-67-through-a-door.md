@@ -1,4 +1,4 @@
-# Chapter 67: Through a Door
+# Chapter 73: Through a Door
 
 You could go back along it as far as you liked, afterwards, and you still got to the Cloak.
 
@@ -122,7 +122,7 @@ Ron nodded. He seemed to be looking at something a long way off.
 
 Harry opened his mouth.
 
-“What’s that for? Who’s that going to happen to?” He waited. He gave it plenty of time. “I brought sandwiches,” said Ron.
+“What’s that for? Who’s that going to happen to?” He gave it plenty of time. “I brought sandwiches,” said Ron.
 
 There was a fly walking up the armour’s breastplate. It got to the top, and turned round.
 

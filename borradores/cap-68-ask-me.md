@@ -1,4 +1,4 @@
-# Chapter 68: Ask Me
+# Chapter 74: Ask Me
 
 “I think I ate him,” said Harry.
 

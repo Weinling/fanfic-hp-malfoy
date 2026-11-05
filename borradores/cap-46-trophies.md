@@ -1,4 +1,4 @@
-# Chapter 46: Trophies
+# Chapter 47: Trophies
 
 “Forty-one pages of school rules,” said Professor McGonagall, “and I find I shall have to look this up.”
 

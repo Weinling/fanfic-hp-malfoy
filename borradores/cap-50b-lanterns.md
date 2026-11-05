@@ -1,4 +1,4 @@
-# Chapter: Lanterns
+# Chapter 52: Lanterns
 
 They had won, so there was a party.
 

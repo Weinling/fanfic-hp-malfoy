@@ -7,21 +7,19 @@
 ## Dónde estamos
 
 - **Escrito:** del 1 al 72 (más los nuevos de la revisión), con *Year One* 1 a 6, *Year Four* 1 y 2 y dos interludios. **Publicado hasta el 37.**
-- **Orden de lectura desde el 41:** 41, Interludio 2, 42, 43, *Year One* 5 y 6, 44 a 52, *Year Four* 1, 53 a 62, *Year Four* 2, 63 en adelante.
+- **Orden de lectura:** `docs/notas/reestructura/numeracion.md`.
 - **Tanda 55-72 cerrada y criticada.** Su guion está en `docs/archivo/guiones/guion-tanda-55-72.md`.
 - **El 39 se reabrió y se rehízo el 5 de noviembre** (`docs/notas/criticas-opus/cap-39-rehecho.md`, aplicada). Falta que lo apruebe el autor.
 
 ## En marcha
 
-- **Crítico Opus:** reutilizable, pero lleva unos 800.000 tokens; para la tanda siguiente, uno nuevo con resumen.
 - **Codex:** ha leído hasta el 72; informes aplicados (`docs/notas/criticas-codex/lectura-58-70.md` y `lectura-71-72.md`).
 - **Misterios del Torneo:** solución en `docs/notas/reestructura/decisiones.md`, §8. **Lo que se rescata del original:** §9.
 
 ## Siguiente paso exacto
 
-1. El guion rehecho, `borradores/guion-tanda-73-84.md`, está aprobado.
-2. **Revisión (`docs/notas/reestructura/revision-39-72.md`):** hecho del 40 al 54 (salvo Year Four, sin cambios). Sigue el 57. Falta del 57 al 72, con crítico Opus en lo nuevo o rehecho.
-3. Renumerar. Luego, la tanda 73-84.
+1. Revisión del 39 al 72, **hecha** (`docs/notas/reestructura/revision-39-72.md`). Los títulos llevan ya el número del lector; archivos y documentos conservan el de trabajo: `docs/notas/reestructura/numeracion.md`.
+2. Escribir la tanda 73-84 con el guion aprobado, con un crítico Opus nuevo: el de la revisión lleva unos 440.000 tokens.
 
 ## Pendiente, sin urgencia
 

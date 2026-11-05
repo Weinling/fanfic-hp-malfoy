@@ -1,4 +1,4 @@
-# Chapter 60: Furniture
+# Chapter 64: Furniture
 
 “You will go to Professor Snape,” said Dumbledore, “on Tuesdays.”
 

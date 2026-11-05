@@ -1,4 +1,4 @@
-# Chapter 69: You Were Missed
+# Chapter 75: You Were Missed
 
 Harry came down to breakfast on the morning of the Charms examination with both his socks on, whistling.
 
