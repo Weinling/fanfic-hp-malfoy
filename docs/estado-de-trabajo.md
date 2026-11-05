@@ -14,7 +14,7 @@
 ## En marcha
 
 - **Crítico Opus:** reutilizable, pero lleva unos 800.000 tokens; para la tanda siguiente, uno nuevo con resumen.
-- **Codex:** ha leído hasta el 70; informe aplicado (`docs/notas/criticas-codex/lectura-58-70.md`). No ha leído el 71 ni el 72.
+- **Codex:** ha leído hasta el 72; informes aplicados (`docs/notas/criticas-codex/lectura-58-70.md` y `lectura-71-72.md`).
 - **Misterios del Torneo:** solución en `docs/notas/reestructura/decisiones.md`, §8. **Lo que se rescata del original:** §9.
 
 ## Siguiente paso exacto

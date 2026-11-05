@@ -2,7 +2,7 @@
 
 Harry had been looking forward to the History of Magic examination for four years and five months.
 
-He got up at seven and cleaned his teeth. It was a white, still, airless morning, with the sun already hot on the dormitory floor, and he stood at the basin and looked at himself and felt, for the first time in his life, like the only person who has read the last page. The bed next to his had its blanket pulled straight. He tied a bit of parchment to Hedwig’s leg, at the window, as he had done every morning for twelve days. *Still bored? H.* He gave her a piece of bacon. She went off north over the Forbidden Forest with her shadow going along under her, and that was everything he had to do.
+He got up at seven and cleaned his teeth. It was a white, still, airless morning, with the sun already hot on the dormitory floor, and he stood at the basin and looked at himself and felt, for the first time in his life, like the only person who has read the last page. The bed next to his had its blanket pulled straight. He tied a bit of parchment to Hedwig’s leg, at the window, as he had done every morning for twelve days. *Still bored? H.* To the bothy and nowhere else; if he wasn’t there she was to bring it straight back, and not go looking. He had been very firm with her about that. People watched owls. He gave her a piece of bacon. She went off north over the Forbidden Forest with her shadow going along under her, and that was everything he had to do.
 
 He knew where Sirius was. That was the beauty of it. On page 71 of Dudley’s road atlas there was a place on Rannoch Moor, a long way from any of the thin red lines, with a small grey square on it that the Ordnance Survey had marked as *Bothy (ruin)*. He had got him there in a week. He had written to say he’d found something, that it was to do with the seven, that somebody had to sit on that hillside until the nineteenth and watch who came, and that it couldn’t be anybody in the Order, because one of them was talking, and that it couldn’t be mentioned to Dumbledore. All of that was rubbish. Sirius had been shut up in his mother’s house since January, and he had gone like a dog out of a car. *FINALLY*, he had written, in letters an inch high. And every day since, Hedwig had come back with a scrap of something tied to her leg, smelling of peat.
 
@@ -84,7 +84,7 @@ Someone was running. There was a lot of echo. He went up the marble staircase, a
 
 *Think.*
 
-She didn’t leave her post. She had never in her life come back with a note undelivered. She’d have gone to the bothy. She’d have gone round it, and sat on the wall; she’d have waited, hours, she always waited. And he hadn’t been there. He had been there yesterday. He’d been there every day for twelve days, counting sheep. There was nowhere for him to go. Nobody knew. *Nobody knew.* There were two people in the whole world who knew about that hillside, and one of them was Hermione. He had made sure of that. He had seen to it.
+She had never in her life come back with a note undelivered. She had done exactly what he’d told her. She’d have gone to the bothy. She’d have gone round it, and sat on the wall; she’d have waited, hours, she always waited. And he hadn’t been there. He had been there yesterday. He’d been there every day for twelve days, counting sheep. There was nowhere for him to go. Nobody knew. *Nobody knew.* There were two people in the whole world who knew about that hillside, and one of them was Hermione. He had made sure of that. He had seen to it.
 
 He had looked at that dog, with its leg going the wrong way.
 
@@ -221,6 +221,10 @@ He kissed her on the forehead, as you’d sign something. Her skin was cold.
 He stood up. He picked up the pot and straightened it on the shelf. On the wall a kitten in a bonnet mewed at him.
 
 Hermione hadn’t moved. He’d forgotten about her. She was standing by the fender, with the powder running slowly out between her fingers on to the hearth. He looked at her, and she looked back. She had seen him in a good many ways. She’d sat at a desk and watched him cry, and she had seen him in a corridor, in first year, with a girl’s wand in his hand. She looked down at the carpet. She looked for some time. She looked up at his face, at whatever was on it. He did not know what was on it. He couldn’t feel anything there at all.
+
+“It wears off,” said Harry.
+
+It didn’t. She’d have looked that up when she was eleven, with everything else. He saw her know it. He saw her look from the carpet to the green fire, and back: a girl who would keep, and a man who might not. It took about as long as ruling a line.
 
 She didn’t say anything. She had no notebook in her hand, and she didn’t reach for it.
 

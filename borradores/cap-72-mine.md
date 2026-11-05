@@ -20,7 +20,7 @@ At the bottom of the steps, across the foot of the arch, lay something big and b
 
 He went down those benches three at a time. He didn’t feel his feet. He heard Hermione say his name. He dropped on his knees on the dais and got both hands into the rough wet fur, and it lifted its head, and looked at him. It had brown eyes, a torn ear, and a bit of frayed rope round its neck. It thumped its tail on the stone, once, hopefully. It was a dog.
 
-It was just a dog. It was some old stray that somebody had picked up in Knockturn Alley, with its leg broken.
+It was just a dog. It was some old stray that somebody had picked up off a street, with its leg broken.
 
 Up on the benches, in the dimness, a single person started to clap.
 
@@ -98,7 +98,7 @@ He knew what this was. He had cleaned his teeth with it every morning for four a
 
 No, thought Harry.
 
-He had a clear view. That was what was so extraordinary. It had been the left, last time; he had been down at the foot, a long way off, with something in his hands. He wasn’t now. He was here, he was four steps away and he’d been here for years, and he knew the angle and he knew her arm. He saw her wrist turn over. He knew it before she did. He’d got there. He went up those steps with everything he had, with his wand arm out and every Shield that he had ever learnt coming up in his mouth, and he got in front. He was there. He was standing in the place; he had his back against that plum-coloured waistcoat, and he was looking straight along her wand. For the first time in two lives there was somebody between Sirius Black and the end of that sentence, and it was him.
+He had a clear view. That was what was so extraordinary. It had been the left, last time; he had been down at the foot, a long way off, with something in his hands. He wasn’t now. He was here, he was four steps away and he’d been here for years. It wasn’t the same angle, and they weren’t on the same step, and it didn’t matter. He knew that arm. He saw her wrist turn over, and he moved before he had worked out how. He went up those steps with everything he had, with his wand arm out and every Shield that he had ever learnt coming up in his mouth, and he got in front. He was there. He was standing in the place; he had his back against that plum-coloured waistcoat, and he was looking straight along her wand. For the first time in two lives there was somebody between Sirius Black and the end of that sentence, and it was him.
 
 A hand took him in the chest.
 
@@ -162,13 +162,13 @@ They took him on. Harry watched him go, down the long gold floor, with his back 
 
 He could not think what he had meant. He didn’t try. He thought about it a good deal, later.
 
-They mended Neville’s jaw on a bench. Somebody said that Diggory would be all right. Hermione had a burn all down one arm. She sat by herself on the steps of the fountain, with a blanket that a witch from the Ministry had put round her, and he looked up and found her eyes on him. She had seen the fountain. She’d come up after him, in time. She didn’t get out her notebook. She turned away and looked at the water.
+They mended Neville’s jaw on a bench. Tonks came up with the dog in her arms, and it lay on her cloak with a splint on its leg, looking hopefully at everybody. Somebody said that Diggory would be all right. Hermione had a burn all down one arm. She sat by herself on the steps of the fountain, with a blanket that a witch from the Ministry had put round her, and he looked up and found her eyes on him. She had seen the fountain. She’d come up after him, in time. She didn’t get out her notebook. She turned away and looked at the water.
 
 It got to be after three. Dumbledore was sitting on the rim beside him, looking very old, with his hands between his knees. He’d been saying something. He had said it twice. There was a fire lit, he said, when Harry was ready. Harry could go back through to the school. He needn’t talk, if he would rather not.
 
 He felt in his pocket for his glasses. They were on his face. He had thought he might want a handkerchief, because something appeared to be the matter with his nose. He didn’t have a handkerchief. His fingers closed on something else, long and thin, of dark smooth wood. He drew it out.
 
-It lay across his palm, in the gold light. He had held it once before, in a corridor, when he was eleven.
+It lay across his palm, in the gold light. He had held it like this in a corridor, when he was eleven.
 
 *I won’t be long.*
 
@@ -188,7 +188,7 @@ He’d done that. She lay and looked at it, in the only direction that there was
 
 She finished the word. She had been finishing it for some time. It was a perfectly ordinary word and it had two syllables. It went round. *Mother. He’s with my mother. Mother.* She’d had it right there at the front of her teeth. She’d only looked at Granger for a moment. She had only stopped to get her breath, and to think how it could be said, in front of Granger; to think what it would cost. She had looked at that for a moment, as she had been taught.
 
-Granger had stood over her, for some time, with the powder running out of her hand. Then there had been a green light. Lyra found she had no complaint to make. There was a boy in Hufflepuff who could have told her what that was worth.
+Granger had stood over her, for some time, with the powder running out of her hand. *It wears off*, he had told her. It didn’t, and Granger had known that since she was eleven. Then there had been a green light. Lyra found she had no complaint to make. There was a boy in Hufflepuff who could have told her what that was worth.
 
 The ring was on the fourth finger of her left hand. She couldn’t see it. She could feel it. It had been hot for a long time, hotter and hotter, like something being held against a stove, and at a certain moment, while the light was still on the wall, it had stopped being anything. It had gone out. She didn’t know what that meant. She lay and waited for it to come on, and after a while it came on, very faint, and it had gone cold.
 
@@ -200,7 +200,7 @@ She’d had it above her, at a distance of about a foot. He had been so careful.
 
 She knew that smile.
 
-She had known it at once. It had taken her some little while to think from where; she’d had the leisure. It was in the third year. It had been in a wardrobe, in the staff room, with a smell of mothballs and old robes, and she’d gone up to it with her wand out, thirteen years old, with the whole class watching. She had seen him smug and spiteful, and bored. She had gone up the stairs afterwards with her heart going. It had been patient and quite cold, and there hadn’t been any hurry in it at all. It had looked as if it had all the time in the world, and already knew how everything would end.
+She had known it at once. It had taken her some little while to think from where; she’d had the leisure. It had been in a wardrobe, in the staff room, with a smell of mothballs, and she had been thirteen. It had been patient and quite cold, and there hadn’t been any hurry in it at all. It had looked as if it had all the time in the world, and already knew how everything would end.
 
 She had hoped very much that she never would.
 

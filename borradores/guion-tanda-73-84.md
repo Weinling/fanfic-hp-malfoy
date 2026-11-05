@@ -1,6 +1,6 @@
 # Guion de la tanda 73-84: La serpiente (de la mañana del Ministerio al baño)
 
-*5 de noviembre de 2026. Sale de `docs/notas/reestructura/decisiones.md`, `guion-general.md` (tramo 3) y de la propuesta que el autor aprobó ese día. Base leída: handoff, continuidad, decisiones, guion general, `lo-que-sabe-harry.md`, *Year One* 4, *Year Four* 1 y 2, y del 55 al 72 en texto. Del 1 al 54, continuidad y búsquedas (§5). El original no se ha abierto. Las frases en inglés son nuestras y son orientativas: al escribir se pueden mejorar. **Aprobada la propuesta; este guion espera la aprobación del autor. La tanda no se escribe hasta entonces.***
+*5 de noviembre de 2026. Sale de `docs/notas/reestructura/decisiones.md`, `guion-general.md` (tramo 3) y de la propuesta que el autor aprobó ese día. Base leída: handoff, continuidad, decisiones, guion general, `lo-que-sabe-harry.md`, *Year One* 4, *Year Four* 1 y 2, y del 55 al 72 en texto, con el informe de Codex sobre el 71 y el 72. Del 1 al 54, continuidad y búsquedas (§5). El original no se ha abierto. Las frases en inglés son nuestras y son orientativas: al escribir se pueden mejorar. **Aprobada la propuesta; este guion espera la aprobación del autor. La tanda no se escribe hasta entonces.***
 
 ---
 
@@ -25,6 +25,10 @@
 - **El trato:** Narcissa debe lo de Lyme, «on credit». El día que Harry sepa por ella lo que lleva, paga su madre.
 - **Podría escribirle, y no lo hace.** El papel no oye, y Riddle no le lee las manos. Calla porque él la petrificó: si se lo cuenta, Harry lo arreglará a su manera y la pondrá en algún sitio. Ese es el coste real del Ministerio. Se dice una sola vez, por escrito, con Snape (82).
 - **Solo duerme cuando ella se muere.** Nadie lo sabe hasta el final.
+
+**Regla de las palabras a medias:** no hay proporción. Una palabra a medias no hace nada. Lo de la fuente (72) funcionó porque salió por el surco y la palabra ya no hacía falta. Por eso el «*Cru*—» de Lyra (84) no hace nada y el «*Sec*—» de Harry sí.
+
+**Lo que Harry ya sabe y no se puede borrar:** ella corrió por el castillo e intentó decírselo, y Bellatrix lo confirmó. Lucius solo envenena si se construye encima (81). Y nada de lo que se sepa del fragmento absuelve el «*Petrificus*»: eso fue él.
 
 **Los bombones:** veinticuatro, con centro líquido, en una caja de madera clara, con una tarjeta para el Director. Veneno rápido, de minutos, sin rastro que se pueda probar. Un bezoar lo cura si se llega a tiempo. Plazo: el banquete del viernes 20 de diciembre. Riddle eligió a Draco porque lleva lo que le dan, no pregunta y no sabe nada que se le pueda leer.
 
@@ -77,11 +81,11 @@
 
 **Escenas:**
 
-1. El despacho rosa, sigue la escena. Ella le cuenta Lyme en cuatro frases, con fechas: la nota con limón, su madre, el Cobb a mediodía. Él cuenta el páramo. Ponen las dos jugadas juntas, sobre la alfombra, como dos que comparan cuentas de una ruina. Ella no menciona la carta de su padre ni a Draco. Él no menciona la fuente. «Will you do that again?» «I don’t know.» Es la verdad más temible que le ha dicho. Ella asiente. Él: «Don’t go.» Ella señala el anillo, frío, en su dedo. Frase del pantallazo.
+1. El despacho rosa, sigue la escena. Ella le cuenta Lyme en cuatro frases, con fechas: la nota con limón, su madre, el Cobb a mediodía. Él cuenta el páramo. Ponen las dos jugadas juntas, sobre la alfombra, como dos que comparan cuentas de una ruina. Ella no menciona la carta de su padre ni a Draco. Él no menciona la fuente. «Will you do that again?» «I don’t know.» Es la verdad más temible que le ha dicho. Ella asiente. **Frontera, que no es para aliviarle:** «Pockets.» Ya no es broma: las manos fuera de ella hasta que ella diga, y su varita no se toca. Él no puede corregirlo con nada que sepa. Él: «Don’t go.» Ella señala el anillo, frío, en su dedo. Frase del pantallazo.
 2. Dumbledore, esa mañana. La profecía rota, Fudge que ya no puede negar, y que Harry debe volver a Privet Drive hasta su cumpleaños (la protección: Interludio 2). La herencia de Sirius: Grimmauld, Kreacher. Dumbledore vio la cara de Bellatrix: «What did you say to her, Harry?» Harry miente. Dumbledore lo sabe y no insiste.
-3. La enfermería. Neville y la pizarra. Cedric: no le da las gracias a nadie. Lupin, sentado junto a una cama vacía. Harry pregunta quién avisó a Sirius. «I did. Moody said get Black, so I sent him the fastest thing I had. It found him on a wall in Dorset.» **Ahí se cierra la cuenta:** si Harry se queda sentado, nadie manda nada, y Sirius sigue en un muro de Dorset comiéndose un helado. Y si la hubiera dejado acabar la frase.
+3. La enfermería. Neville y la pizarra. Cedric: no le da las gracias a nadie. El perro de tres patas, que nadie reclama, duerme bajo una cama; Tonks no sabe qué hacer con él. Lupin, sentado junto a una cama vacía. Harry pregunta quién avisó a Sirius. «I did. Moody said get Black, so I sent him the fastest thing I had. It found him on a wall in Dorset.» **Es la primera vez que un Patronus lleva un mensaje:** una línea que lo explique. **Ahí se cierra la cuenta:** si Harry se queda sentado, nadie manda nada, y Sirius sigue en un muro de Dorset comiéndose un helado. Y si la hubiera dejado acabar la frase.
 4. Las noches del 20 al 28. Harry enciende un caldero en el cuarto de la butaca: Felix Felicis. No lo decide del todo: quiere lo que le faltó en la escalera, saber qué pie poner. Tarda casi seis meses. Lo sabe hacer por un libro de la otra vida. Ella entra, lo mira y no pregunta. Es lo primero que no se preguntan por voluntad. La butaca sigue coja sobre *Wessex*.
-5. King’s Cross, 29 de junio. Slytherin la trata de otro modo: el rumor de «very well done» ha llegado por las cartas de los padres. Moody en la barrera, mirándola con los dos ojos. Ella se para junto a Harry un segundo, a la vista de todos, y le toma la manga entre dos dedos, como en el 68. Gancho.
+5. King’s Cross, 29 de junio. Slytherin la trata de otro modo: el rumor de «very well done» ha llegado por las cartas de los padres. Moody en la barrera, mirándola con los dos ojos. Harry no pregunta porque ya vio una cosa que no quiere mirar: que en el despacho ella se paró a medir la frase. Ella se para junto a Harry un segundo, a la vista de todos, y le toma la manga entre dos dedos, como en el 68. Gancho.
 
 **Quién sabe qué:** Harry sabe que Sirius estaba a salvo hasta que él se fue. Lyra lo sabe. Moody y las filas de detrás oyeron a Lucius. Harry no ha dicho *Sec*—. Lyra no sabe lo de la fuente.
 
@@ -139,7 +143,7 @@
 **Escenas:**
 
 1. Un jueves. La sopa, como hace catorce años, ahora a la escalera del este. Bellatrix la acompaña por las mañanas; a mediodía se la deja. Snape sube a ver las manos de Abraxas.
-2. Lyme, 18 de junio, a mediodía, recordado mientras espera. El vestido de Charmouth. Sirius al final del muro, con chaleco color ciruela, grosero. Le da la nota de Regulus. La lee dos veces y se le hinchan los ojos. Ella le dice que lo pidió Lyra; él ata cabos: la chica de Slough es la del muslo de pollo. Se ríe, encantado. «Tell her it’s on my account.» Llega el Patronus de Lupin, por el agua. Oye el nombre de Harry. Se guarda el papel en el chaleco. Se va sin decir adiós. Era lo único que ella tenía de Regulus.
+2. Lyme, 18 de junio, a mediodía, recordado mientras espera. El vestido de Charmouth. Sirius al final del muro, con chaleco color ciruela, grosero. Le da la nota de Regulus. La lee dos veces y se le hinchan los ojos. Ella le dice que lo pidió Lyra; él ata cabos: la chica de Slough es la del muslo de pollo. Se ríe, encantado. Habla de Harry, de Harry y no de James: las ovejas, cómo miente, lo orgulloso que está. El lector tiene que saber que le veía a él, aunque Harry no lo sepa nunca. «Tell her it’s on my account.» Llega el Patronus de Lupin, por el agua. Oye el nombre de Harry. Se guarda el papel en el chaleco. Se va sin decir adiós. Era lo único que ella tenía de Regulus.
 3. El Voto, en el cuarto de los barrotes, con Abraxas de atador: sus manos no paran, y hay que atarle la varita a los dedos con la misma tira de lino. Tres cláusulas: velar por Lyra; protegerla de todo daño, hasta donde él pueda; **y si llega a ser la obra o ella, tomar la obra sobre sí.** Snape sabe lo que le pide, y sabe más que ella: ha visto el suelo de la Casa de los Gritos. «You needn’t look at me as though I had anywhere else to be.» Abraxas propone apuntarlo en el libro. Snape: «I have signed one book. I don’t care for the bindings.»
 4. **Cuidado:** las cláusulas dejan sitio al tramo 4. Dumbledore muere a manos de Harry poseído; Snape puede morir rompiendo la tercera. Se decide al llegar.
 5. Gancho.
@@ -171,7 +175,7 @@
 - **Peldaño:** a distancia. Se ven una vez, de acera a acera, y hacen teatro.
 - **Deseo del lector:** que alguien le diga la verdad a Harry. Se paga, de quien menos espera.
 - **Pantallazo:** «It doesn’t sound like somebody else. That’s what nobody tells you. It sounds like you on a good day.»
-- **Calor:** Kreacher, horrorizado por el té de Harry; las notas de los TIMOs: **una D en Historia de la Magia, otra vez.**
+- **Calor:** Kreacher, horrorizado por el té de Harry; el perro de tres patas, que vive en la cocina y sin nombre, porque Harry no se lo pone; las notas de los TIMOs: **una D en Historia de la Magia, otra vez.**
 - **Gancho:** la frase del pantallazo.
 
 **Escenas:**
@@ -201,7 +205,7 @@
 3. Slytherin. Los hijos de los detenidos la tratan como a una reina: dicen que entregó a Potter con un anillo por cebo (todos vieron el anillo el 18). Parkinson le guarda sitio. Crabbe vuelve con la casa vacía: «It’s quieter.» Goyle ha adelgazado y sigue trayendo cosas. Lyra es capitana de Slytherin; Weasley, de Gryffindor, y solo le habla a Harry para darle la hora del entrenamiento.
 4. El cuarto, la primera noche. Ella va porque si no va él irá a buscarla. Sabe que puede haber una rata. Le propone el guion para este año, a voces para el oído: un guion nuevo, con notas. Él cree que hace eso para no hablar. Aparición, en el Comedor. Por una tarde es verdad la risa.
 5. Lupin ha vuelto a Defensa. Se fija en que ya no se muerde la uña. «I find I’m still in your debt, Miss Malfoy.» Ella no puede ni darle las gracias con la voz que tiene.
-6. Granger en la biblioteca, por fin. «Five hours and ten minutes.» «I know. I’ve written it down.» Por qué la dejó: pensó que si la soltaba iría tras él, y que él la mataría. O quiso que lo sintiera. No sabe cuál. «I don’t know which. I’ve got both on the same page.» Lyra, con la serpiente delante, solo puede decir lo que diría una Malfoy.
+6. Granger en la biblioteca, por fin. «Five hours and ten minutes.» «I know. I’ve written it down.» Lo responde sin excusas: sabía que el hechizo no se pasa solo; él le dijo que sí, y ella se dejó decir. Eligió a Sirius en lo que se tarda en trazar una raya. Y a medianoche, en el Atrio, con el brazo quemado, se acordó y tampoco lo dijo. Por qué, no lo sabe: «Part of me wanted you to know what it was like. I’ve got both on the same page.» Lyra, con la serpiente delante, solo puede decir lo que diría una Malfoy.
 7. El séptimo piso, una noche. La rata, en la luz, sentada. Gancho.
 
 **Quién sabe qué:** Lyra sabe que Pettigrew sigue en el castillo. Slytherin cree que ella le entregó. Granger ha pagado lo que puede.
@@ -251,8 +255,8 @@
 
 - **Motor:** Harry pregunta por fin.
 - **Peldaño:** lo más bajo de la tanda. No rompen.
-- **Deseo del lector:** que ella le diga la verdad. Se frustra del peor modo: dice «Yes».
-- **Pantallazo:** «You got me out of the castle.» / «Yes.»
+- **Deseo del lector:** que ella le diga la verdad. Se frustra del peor modo: todo lo que dice es cierto, y la lectura es falsa.
+- **Pantallazo:** «You told me not to go.» / «Yes. It’s the surest way I know.»
 - **Calor:** poco, y es de Ron, que se ha acordado de que Harry existe.
 - **Gancho:** Zabini le da el primer diez. «I should stop there, if I were you. Both of you.»
 
@@ -261,10 +265,10 @@
 1. Ron, en el vestuario, primeras palabras que no son del horario desde mayo. Está blanco. Ginny ha perdido una hora, y ha cogido un lápiz y ha mirado la letra. «You know about this. You’d know. Is it back? Is it *back?*» Hermione detrás de él, con el cuaderno cerrado.
 2. Ginny, en una clase vacía. Le enseña el hueco. Última cosa que recuerda: la espalda de Malfoy. No es Riddle: Harry ve el corte limpio, sin rastro. Hermione mira a Harry; ya lo ha sumado. Harry le dice a Ron «It’s not back.» «How d’you know?» No se lo puede decir. O sí: **no se lo dice**. Ron se va. Lo ha vuelto a hacer.
 3. El cuarto de las dos sillas. «She lost an hour.» Ella: la cara de la mesa del desayuno. «Did she? How careless.» «She was *eleven*. You said that. You stood there and said that to me.» Silencio. Ya no le importa la rata ni nada. Lleva cinco meses con la frase en la boca: **«By four o’clock.»** Por fin. «What did your father mean?» Ella tiene la serpiente abierta a un palmo de la voz. Su coartada, Draco, su madre.
-4. «You got me out of the castle.» Pantallazo. El anillo de él se pone azul, hondo y desdichado, y él lo mira. «It was very well done, I’m told.» Ella se queda sentada con las manos muy rectas a los lados del cuerpo, como él se las puso. No hay beso, ni portazo. Él se levanta para irse y no puede: se queda de pie. Ella tampoco se va. Es lo peor.
+4. **La mentira no inventa nada: adopta la lectura de Riddle (74) sobre hechos que Harry conoce.** Sí, su padre le escribió la víspera: que le sacara del castillo antes de las cuatro. Sí, se sentó en la butaca esa noche con la carta quemada y se puso el anillo. Sí, sacó a Sirius del páramo. «You told me not to go. You stood at the fire.» Pantallazo: ¿quién ha conseguido alguna vez que Harry Potter se quede quieto por decírselo? Él no se lo cree con la parte que sostuvo la capa. Pero ya le pasó por la cabeza en el 71, y ella se paró a mirar a Hermione, y él lo vio. No se lo cree y no se lo puede quitar de encima. El anillo se pone azul, hondo y desdichado, y él lo mira. «It was very well done, I’m told.» Ella se queda sentada con las manos muy rectas a los lados del cuerpo, como él se las puso. No hay beso, ni portazo. Él se levanta para irse y no puede: se queda de pie. Ella tampoco se va. Es lo peor.
 5. Al día siguiente, en el Comedor, le dice una cosa de verdad, delante de todos. No es el guion. Sale de lo que le contó ella en el 65. Slytherin aplaude. Ella contesta bien. Zabini baraja, y no sonríe. Gancho.
 
-**Quién sabe qué:** Harry cree que fue ella quien le sacó del castillo, a medias, y cree que le borró la hora a Ginny, entero. Hermione lo sabe por suma. Ron no sabe quién.
+**Quién sabe qué:** Harry sabe, porque es verdad, que ella tuvo la carta y calló. No sabe si lo demás es cierto, y eso es el daño. Sabe que le borró la hora a Ginny. Hermione lo sabe por suma. Ron no sabe quién.
 
 ### *Year Four* 3 — *Out of Your Depth* (Lyra)
 
@@ -333,7 +337,7 @@ Mayo de 1995, un sábado de calor, tras la segunda prueba y antes del 37. Ella d
 9. Snape. Entra casi corriendo, con la mano derecha apretándose la muñeca izquierda: le ha traído algo que le quema (el Voto; Harry no lo sabe). Se para ante la herida. La reconoce como se reconoce la propia letra. «That is mine.» Aparta a Harry y canta. Le sale bien. Las cicatrices se quedan.
 10. La herida se cierra. Harry sigue teniéndole la muñeca. Nadie habla. Bajo su pulgar, algo se mueve. Gancho: el ojo se abre, y le mira.
 
-**Quién sabe qué:** Harry sabe que oye, que solo duerme cuando ella se muere, que Greer murió de la caja, que la caja era para Dumbledore, y lo que ha hecho con la palabra. Snape, lo mismo, y que Harry lo sabe. Draco, que su hermana perdió uno. **Harry no sabe** que la Marca es el precio de «Ask me», ni que «Yes» era mentira, ni que ella guarda la casa. Lo de Bode tampoco. **Dónde está la caja:** con Harry.
+**Quién sabe qué:** Harry sabe que oye, que solo duerme cuando ella se muere, que Greer murió de la caja, que la caja era para Dumbledore, y lo que ha hecho con la palabra. Snape, lo mismo, y que Harry lo sabe. Draco, que su hermana perdió uno. **Harry no sabe** que la Marca es el precio de «Ask me», ni qué era verdad en lo que le dijo en el 81, ni que ella guarda la casa. Lo de Bode tampoco. **Dónde está la caja:** con Harry.
 
 ---
 
@@ -396,6 +400,10 @@ Mayo de 1995, un sábado de calor, tras la segunda prueba y antes del 37. Ella d
 | Lupin | 19, 27 | Sigue en deuda |
 | El mapa | Int. 2 | Con la Orden. Harry no lo tiene |
 | Harry no sabe nadar | 35:63 | Para el extra |
+| Patronus con mensaje | Sin rastro | **Primera vez** en el 73 |
+| El hechizo no se pasa solo | 71, 72 | Hermione lo sabe; «It wears off» es mentira de Harry |
+| Hedwig | 71:5, 71:87 | Orden de entregar solo en la borda; volver prueba ausencia |
+| El perro | 72 | Lo sube Tonks; acaba en Grimmauld |
 | Felix, Amortentia, *Sectumsempra* entera, Slughorn, Luna | Sin rastro | **Primera vez** el Felix y el contramaleficio. Slughorn no existe; Snape sigue en Pociones |
 
 **Para el tramo 4:** Harry lleva un bezoar desde el baño. La caja, en su poder. La tercera cláusula del Voto. Qué oyó la serpiente. Lo que Lyra no le dijo en ese minuto. La cuchara (Bode). Crabbe y Greer.

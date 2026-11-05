@@ -18,7 +18,7 @@
 - La profecía está rota.
 
 ## Continuidad fácil de romper
-Bellatrix tiene una cicatriz de la sien a la boca. Sirius llevaba la nota de Regulus en el chaleco: cruzó con ella. No rompen.
+Bellatrix tiene una cicatriz de la sien a la boca. El perro, con la pata entablillada, lo sube Tonks. Sirius llevaba la nota de Regulus en el chaleco: cruzó con ella. No rompen.
 
 ## Forma
 Termina acabando la frase del 71.
