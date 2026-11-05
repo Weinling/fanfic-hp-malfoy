@@ -4,7 +4,7 @@ Harry had been looking forward to the History of Magic examination for four year
 
 He got up at seven and cleaned his teeth. It was a white, still, airless morning, with the sun already hot on the dormitory floor, and he stood at the basin and looked at himself and felt, for the first time in his life, like the only person who has read the last page. The bed next to his had its blanket pulled straight. He tied a bit of parchment to Hedwig’s leg, at the window, as he had done every morning for twelve days. *Still bored? H.* He gave her a piece of bacon. She went off north over the Forbidden Forest with her shadow going along under her, and that was everything he had to do.
 
-He knew where Sirius was. That was the beauty of it. On page 71 of Dudley’s road atlas there was a place on Rannoch Moor, a long way from any of the thin red lines, with a small grey square on it that the Ordnance Survey had marked as *Bothy (ruin)*. He had got him there in a week. It hadn’t been hard. He’d have liked it to be harder. He had written to say that he’d found something, that it was to do with the seven, that somebody had to sit on that hillside until the nineteenth and watch who came, and that it couldn’t be anybody in the Order, because one of them was talking, and that it couldn’t be mentioned to Dumbledore. All of that was rubbish. Sirius had been shut up in his mother’s house for ten months, and he had gone like a dog out of a car. *FINALLY*, he had written, in letters an inch high. And every day since, Hedwig had come back with a scrap of something tied to her leg, smelling of peat.
+He knew where Sirius was. That was the beauty of it. On page 71 of Dudley’s road atlas there was a place on Rannoch Moor, a long way from any of the thin red lines, with a small grey square on it that the Ordnance Survey had marked as *Bothy (ruin)*. He had got him there in a week. He had written to say he’d found something, that it was to do with the seven, that somebody had to sit on that hillside until the nineteenth and watch who came, and that it couldn’t be anybody in the Order, because one of them was talking, and that it couldn’t be mentioned to Dumbledore. All of that was rubbish. Sirius had been shut up in his mother’s house since January, and he had gone like a dog out of a car. *FINALLY*, he had written, in letters an inch high. And every day since, Hedwig had come back with a scrap of something tied to her leg, smelling of peat.
 
 *Day 9. Have counted the sheep. 41. One of them is looking at me.*
 
@@ -12,9 +12,9 @@ He knew where Sirius was. That was the beauty of it. On page 71 of Dudley’s ro
 
 Yes, thought Harry. He was very sure.
 
-He had put a square of parchment into Hermione’s hands to make certain. He was rather proud of that. He’d worked on it for most of a night. *He’s here*, and the reference, six figures. *It’s for the 18th. There’ll be a dream, in History, that they’ve got him. It’s a trap and it isn’t true. Whatever I say, whatever I look like, don’t let me go.* He had thought of that himself. Nobody in the other life had thought of that. There was a boy of fifteen going to get up from a desk this afternoon, howling for his godfather, and he was the only one who knew it, and he’d left instructions.
+He had put a square of parchment into Hermione’s hands to make certain. *He’s here*, and the reference, six figures. *It’s for the 18th. There’ll be a dream, in History, that they’ve got him. It’s a trap and it isn’t true. Whatever I say, whatever I look like, don’t let me go.* Nobody in the other life had thought of that. There was a boy of fifteen going to get up from a desk this afternoon, howling for his godfather, and he was the only one who knew it, and he’d left instructions.
 
-And he’d be there, in the Great Hall, with a sharpened quill. He was looking forward to that part. Today, for a single afternoon, he was going to know exactly what would happen next. He’d sit in his chair. He’d get the dream and look it in the eye. He would go on with the question.
+And he’d be there, in the Great Hall, with a sharpened quill. Today, for a single afternoon, he was going to know exactly what would happen next. He’d sit in his chair. He’d get the dream and look it in the eye. He would go on with the question.
 
 At breakfast Parkinson dropped his fork.
 
@@ -30,7 +30,7 @@ They went in at two. The four long rows of little desks had been set out again, 
 
 She was four rows in front of him and one to the left. He could see the back of her head.
 
-He knew a surprising amount. It came to him as he went down the paper. He’d been made to learn it twice, and in the second life he had been heard on it by a person who hit you with the book. He did Bagnold. He spelt her right. He gave the three causes of the Goblin Rebellion of 1612. His quill went along with a dry, even, contented sound. It got to be twenty to three, and three; a bluebottle was walking on the rim of the inkwell, and he felt nothing at all but a little sleepy. He had begun to think that it might not come. He thought he would be rather annoyed. *Question 9*, said the paper. *Explain why the International Statute of Secrecy was thought necessary in 1689, and why*
+He knew a surprising amount. He did Bagnold. He spelt her right. He gave the three causes of the Goblin Rebellion of 1612. His quill went along with a dry, even, contented sound. It got to be twenty to three, and three; a bluebottle was walking on the rim of the inkwell, and he felt nothing at all but a little sleepy. He had begun to think that it might not come. He thought he would be rather annoyed. *Question 9*, said the paper. *Explain why the International Statute of Secrecy was thought necessary in 1689, and why*
 
 He dipped his quill.
 
@@ -58,9 +58,9 @@ The voice was light and courteous. It was addressed to him personally.
 
 There was a bluebottle. There was a smell of floor polish, against his cheek. He was lying on his side in the aisle, with a lot of faces and a very old wizard bending down, and somebody’s sandal, and his head was full of broken glass, and he’d been sick, a little, on his sleeve.
 
-He found that he was smiling.
+He found he was smiling.
 
-It was the most tremendous relief. He lay and looked at the sandal, and it went through him like a hot drink. *That’s it. That’s all. That’s the lot.* It had come. It had come at exactly ten past three on the eighteenth of June, in the middle of the paper, and it was a lie, and he’d known it was a lie. He had lain there and looked at it, and he’d said *Nice try*. Four and a half years. He had got his foot on it. “I’m fine,” he said. “Sorry. Too hot.” They got him up. He saw a pale pointed face turned round, four rows on, with a pen stopped in the air, and white as paper; and he gave her, he actually gave her, a small thumbs-up. He let them walk him down the aisle to the doors. “You may finish in the Hospital Wing, Mr Potter, I’m sure in the circumstances—” “It’s all right, sir. I’ll just get some air. I’ll come back.” *I’ll come back*, he thought; and that struck him as so funny that he had to look down at his shoes. He’d left his quill on the desk. He had left a sentence with no end on it. He was going to go and sit on the front steps for ten minutes in the sun, and then he’d go in and finish it.
+It was the most tremendous relief. He lay and looked at the sandal, and it went through him like a hot drink. *That’s it. That’s all. That’s the lot.* It had come. It had come at exactly ten past three on the eighteenth of June, in the middle of the paper, and it was a lie, and he’d known it was a lie. He had lain there and looked at it, and he’d said *Nice try*. Four and a half years. He had got his foot on it. “I’m fine,” he said. “Sorry. Too hot.” They got him up. He saw a pale pointed face turned round, four rows on, with a pen stopped in the air, and white as paper; and he gave her, he actually gave her, a small thumbs-up. He let them walk him down the aisle to the doors. “You may finish in the Hospital Wing, Mr Potter, I’m sure in the circumstances—” “It’s all right, sir. I’ll just get some air. I’ll come back.” He’d left his quill on the desk. He had left a sentence with no end on it. He was going to go and sit on the front steps for ten minutes in the sun, and then he’d go in and finish it.
 
 The steps were hot through his robes. There was nobody out there. The lawn ran down white and shimmering towards the lake, and there wasn’t a breath of air.
 
@@ -80,7 +80,7 @@ He unfolded it.
 
 ⁂
 
-Someone was running. There was a lot of echo. He went up the marble staircase, and he remembered the gargoyle on the second floor, because he hit it. “Sherbet lemon,” he said. “Cockroach Cluster. Fizzing Whizbee, *please*.” It looked over his head. The Headmaster had gone off at noon, said a portrait with its wig on crooked, he’d had a note from the Minister. He went down again. He went down four flights and along the dungeon passage. He felt the third flagstone rock, and he beat on the door with both his fists. It was locked. Nobody came. It had a cold, shut, emptied feeling. He stood there with his forehead on the wood.
+Someone was running. There was a lot of echo. He went up the marble staircase, and he remembered the gargoyle on the second floor, because he hit it. “Sherbet lemon,” he said. “Cockroach Cluster. Fizzing Whizzbee, *please*.” It looked over his head. The Headmaster had gone off at noon, said a portrait with its wig on crooked, he’d had a note from the Minister. He went down again. He went down four flights and along the dungeon passage. He felt the third flagstone rock, and he beat on the door with both his fists. It was locked. Nobody came. He stood there with his forehead on the wood.
 
 *Think.*
 
@@ -92,7 +92,7 @@ It was a dream. It was a false one; he knew it was. He knew exactly how it was d
 
 So where was he?
 
-You could not have told anyone what that was like. He tried, later on. He’d had five years of it, the most frightful certainty, going down the days like a man going down the rungs of a ladder in the dark, knowing each one; he had hated it, he’d have given anything to be rid of it. He had been so tired. And he put out his foot, and it wasn’t there. There was no next rung. There was only the dark, in every direction, with nothing written on it, and it occurred to him that this was what it was like. It was what it was like for everybody. It was what it had always been like for all of them; they got up every morning and walked out on to this. He’d never known. He didn’t know how anyone could bear it.
+You could not have told anyone what that was like. He tried, later on. He’d had five years of it, the most frightful certainty, going down the days like a man going down the rungs of a ladder in the dark, knowing each one; he had hated it, he’d have given anything to be rid of it. He had been so tired. And he put out his foot, and it wasn’t there. There was no next rung. There was only the dark, in every direction, with nothing written on it, and it occurred to him that this was what it was like for everybody. They got up every morning and walked out on to this. He’d never known. He didn’t know how anyone could bear it.
 
 If he’d only known what would happen next. He’d have given his hand.
 
@@ -122,7 +122,7 @@ He looked back at her.
 
 “No,” said Harry.
 
-For a little while neither of them moved. People had started to come out past them, in twos and threes, blinking and comparing dates. Then something went out of her shoulders. She folded the square of parchment in half, and in half again, and put it in the notebook and snapped the band.
+For a little while neither of them moved. He saw her hand go to her wand. It was what he had asked for, in writing, with a reference. He saw it stay there, and he saw her think of it. Then it came away. People had started to come out past them, in twos and threes, blinking and comparing dates. Then something went out of her shoulders. She folded the square of parchment in half, and in half again, and put it in the notebook and snapped the band.
 
 “No,” said Hermione. “I didn’t think so.” She shut her eyes and she opened them. “It’s Sirius. I’m coming. I’m not coming with you, I want you to know the difference.”
 
@@ -138,11 +138,11 @@ Neville looked at him. He had a blot on his chin. He looked for about a second a
 
 “All right,” said Neville.
 
-There wasn’t anyone else. He thought that, going up the stairs, with the blood banging in his head. He’d had a list. There’d been so many of them, last time, and a girl with radishes in her ears. You couldn’t ask, that was the trouble, you could never just ask, you had to know already; and he came round the corner of the first-floor corridor and there was a tall boy leaning against the wall opposite Umbridge’s door, with his arms folded and his Head Boy’s badge in the sun.
+There wasn’t anyone else. He thought that, going up the stairs, with the blood banging in his head; and he came round the corner of the first-floor corridor and there was a tall boy leaning against the wall opposite Umbridge’s door, with his arms folded and his Head Boy’s badge in the sun.
 
 “You came out of that exam on your feet, Potter,” said Cedric Diggory, “and you’ve been running ever since, and Granger’s got a face like a coroner. I saw you at the gargoyle. What’s going on?”
 
-He told him. It took three sentences. He’d never in his life been so brief. Cedric listened, with no expression. There was a good deal less expression on that handsome face than there had been a year ago; it had shut, somewhere round about a maze. He looked at the door, and at Neville, and at Hermione coming up behind them with her wand already out.
+He told him. It took three sentences. Cedric listened, with no expression. He looked at the door, and at Neville, and at Hermione coming up behind them with her wand already out.
 
 “Fireplace?” he said.
 
@@ -184,7 +184,7 @@ It was only for an instant; she had looked past his shoulder, at Hermione, stand
 
 Everything got slow and quite bright.
 
-He could see each of the kittens. He could see the wand in her hand, and the fire. *You’re not to leave the*—she had a letter; she always had a letter. She’d been sitting on something for days. He’d felt it. She had looked at him across the Great Hall that very morning, over the toast. *I’ve seen to it.* He’d thought it was a joke. She’d looked at him just like that, with her chin up, when she was thirteen, and fourteen; she had looked like that in a classroom on the third floor, and she’d said *No*. And there had been five months of Sundays, in her best hand. *He dreams of his godfather’s death.* Nobody knew about the moor. Nobody knew where he was; and here she stood, between him and the only thing he’d got left, with a Malfoy’s wand in her hand, telling him she knew.
+He could see each of the kittens. He could see the wand in her hand, and the fire. She had looked at him across the Great Hall that very morning, over the toast. *I’ve seen to it.* He’d thought it was a joke. She’d looked at him just like that, with her chin up, when she was thirteen, and fourteen; she had looked like that in a classroom on the third floor, and she’d said *No*. And there had been five months of Sundays, in her best hand. *He dreams of his godfather’s death.* Nobody knew about the moor. Nobody knew where he was; and here she stood, between him and the only thing he’d got left, with a Malfoy’s wand in her hand, telling him she knew.
 
 He didn’t believe it. He would swear to that. He never for one moment believed it, not with the part of him that had got up on a Sunday and held a coat.
 
@@ -204,17 +204,17 @@ It took her in the middle of the word. He saw it go across her face, from the ha
 
 He caught her.
 
-He hadn’t thought about it. He’d dropped the pot. He had got one arm behind her head before it reached the iron, and he took her weight, which was nothing, and he went down on one knee, and he lowered her on to the pink carpet, in the pale square where the desk had stood. He was very careful. He drew her away from the hearth. There was a pin that had worked loose, and it was going to dig into her, so he took it out, and he moved the hair off her forehead with one finger and laid it straight. He took the wand from between her fingers and looked at it. He put it in his pocket. He put her hands right. It seemed important to get that done properly: he set them side by side, with the left one uppermost, so that she wouldn’t have them under her.
+He hadn’t thought about it. He’d dropped the pot. He got one arm behind her head before it reached the iron, and he went down on one knee and put her on the pink carpet, in the pale square where the desk had stood, and drew her clear of the hearth. He took the wand from between her fingers and looked at it. He put it in his pocket. Her hands were wrong. It seemed important to get that done properly: he set them straight at her sides, as you’d square a pile of cards. There was a pin that had worked loose. He took it out, and laid it on the fender.
 
 He looked at his work. It was all quite tidy.
 
 She was looking at him.
 
-Of course she was. It didn’t stop your eyes. They were wide open and very pale, about a foot from his, and they moved. They went over his face, from one side to the other, down the column. There was water standing in them that couldn’t fall, because she couldn’t blink. She could hear him; she could hear everything. She was trying to say the rest of the word.
+Of course she was. It didn’t stop your eyes. They were wide open and very pale, about a foot from his, and they moved. They went over his face, from one side to the other. There was water standing in them that couldn’t fall, because she couldn’t blink. She could hear him; she could hear everything. She was trying to say the rest of the word.
 
-He didn’t want her to be frightened. She was to understand that there was nothing to be frightened of. It would wear off. She would be quite safe here; nobody ever came. He knew what he was doing. He knew exactly what he was doing, and he wasn’t angry; there wasn’t any hurry, he had all the time he needed, and he would see to it. He would see to all of it. He bent down, and he smiled at her, so that she’d know.
+He didn’t want her to be frightened. She was to understand that there was nothing to be frightened of. It would wear off. She would be quite safe here; nobody ever came. He knew what he was doing. He knew exactly what he was doing, and he wasn’t angry; there wasn’t any hurry, he had all the time in the world, and he would see to it. He would see to all of it. He bent down, and he smiled at her, so that she’d know.
 
-He kissed her on the forehead. Her skin was cold.
+He kissed her on the forehead, as you’d sign something. Her skin was cold.
 
 “I’ll be back,” said Harry. “Stay there.”
 
