@@ -10,7 +10,7 @@ It was propped against the golden wizard’s foot, on a little brass easel, in t
 
 “I know,” said Harry.
 
-He was already walking. He didn’t need the signs. He took them through the golden gates and into the lift, and he put his thumb on the button at the bottom of the panel, and when the cool voice told him where he was, he got out. There was the bare passage, and the plain black door. He’d been dreaming of it since he was eleven. It swung open at the sight of him, like the door of somebody’s house.
+He was already walking. He didn’t need the signs. He took them through the golden gates and into the lift, and he put his thumb on the button at the bottom of the panel, and when the cool voice told him where he was, he got out. There was the bare passage, and the plain black door. It swung open at the sight of him, like the door of somebody’s house.
 
 The round room spun, and stopped. He didn’t wait. He crossed it and put his hand on the fourth door along, and went through.
 
@@ -24,7 +24,7 @@ It was just a dog. It was some old stray that somebody had picked up in Knocktur
 
 Up on the benches, in the dimness, a single person started to clap.
 
-They were sitting all round the room. They must have been there the whole time, on every side, in the tiers, quite still, with their hands on their knees, like people who have come early to get good seats; and now there were lights, at the ends of a dozen wands, going on one after another. They had taken off their masks. There didn’t seem to be any reason to keep them on. There was Lucius Malfoy, standing, thinner than Harry had ever seen him, with his cane under his arm. There was Bellatrix Lestrange on the top step with her finger in her mouth, exactly as she’d been in the dream.
+They were sitting all round the room. They must have been there the whole time, on every side, in the tiers, quite still, with their hands on their knees, like people who have come early to get good seats; and now there were lights, at the ends of a dozen wands, going on one after another. There was Lucius Malfoy, standing, thinner than Harry had ever seen him, with his cane under his arm. There was Bellatrix Lestrange on the top step with her finger in her mouth, exactly as she’d been in the dream.
 
 “Oh, *look*,” she said. “He’s found it! Isn’t he sweet?”
 
@@ -38,7 +38,7 @@ Nobody spoke. The curtain moved.
 
 *That creature. It drew blood?*
 
-He had stood there. He’d stood with his leg on fire and watched a dead-faced man carry it away, and he had watched the wrong thing, because he’d known what happened next. He had known for four years. He had known about this as well.
+He had stood there. He’d stood with his leg on fire and watched a dead-faced man carry a Skrewt away in a box, with his blood on its sting; and he had gone on looking at the Cup, because he’d known what happened next.
 
 He got up. He took his hands out of the dog’s fur, and turned round, and there were Neville and Cedric and Hermione, on the steps behind him, back to back, with wands pointing out of all sides of them. Someone had come down and stood behind them. He looked at Hermione’s face, and it didn’t have anything on it.
 
@@ -48,13 +48,13 @@ He got up. He took his hands out of the dog’s fur, and turned round, and there
 
 “A small matter first,” said Lucius Malfoy.
 
-He spoke as you’d speak at the end of a long meeting. He had got very old. He told it quite briefly: there was a room next door, with a great many shelves. There was a little glass ball on the ninety-seventh row. Nobody could lift it from the shelf but the person it concerned. If Mr Potter would be so good as to fetch it, there was no reason that these three young people should not go home in time for supper. His eyes rested on Harry’s, pale and tired and very clear, and for an instant, with a horrible shock, Harry saw whose they were.
+He had got very old. He told it quite briefly: there was a room next door, with a great many shelves. There was a little glass ball on the ninety-seventh row. Nobody could lift it from the shelf but the person it concerned. If Mr Potter would be so good as to fetch it, there was no reason that these three young people should not go home in time for supper. His eyes rested on Harry’s, pale and tired and very clear, and for an instant, with a horrible shock, Harry saw whose they were.
 
 Somebody would come. Ron had run. It would take them an hour. He had got that far, and it was the last thing he had.
 
 So he did what he was good at.
 
-He’d never in his life worked so hard. He talked. He said he knew what was in it; he said that he’d known for four years, and he told them the first line, and he saw three heads turn. He asked Lucius how long he thought he’d last, once it was out of the glass. He asked Rookwood what he’d been promised, by name, across the room. He said that he’d fetch it for Neville but not for Cedric. He changed his mind. He made Bellatrix scream with rage, and he made them argue, he got two of them out of the row, he had them walking him by inches to the door and through it and along an aisle of dim blue lights with the small glass globes going by on either side. He knew who would look at whom. He got twenty-five minutes. He got thirty. He stood at last in front of a shelf with a yellowed label on it, with Bellatrix’s wand under Neville’s ear; he reached up, and his fingers closed on it, and it was warm. He had wondered what that would be like.
+He’d never worked so hard. He talked. “I know what’s in it,” he said, “and so do you, Lucius, or you’d have sent somebody else. D’you want the first line?” He told them the first line, and he saw three heads turn. “How long d’you think you’ll last, once it’s out of the glass?” He asked Rookwood what he’d been promised, by name, across the room. He said he’d fetch it for Neville but not for Cedric. He changed his mind. He made Bellatrix scream with rage, and he got two of them out of the row, and he had them walking him by inches to the door and along an aisle of dim blue lights with the small glass globes going by on either side. He knew who would look at whom. He got twenty-five minutes. He got thirty. He stood at last in front of a shelf with a yellowed label on it, with Bellatrix’s wand under Neville’s ear; he reached up, and his fingers closed on it, and it was warm. He had wondered what that would be like.
 
 Lucius held out his hand. It was a long, fine, beautiful hand. It had a bad tremor.
 
@@ -63,8 +63,6 @@ Lucius held out his hand. It was a long, fine, beautiful hand. It had a bad trem
 Harry looked at the hand. He thought of a cauldron, in a bookshop. He looked at that for a moment. He opened his fingers.
 
 It hit the stone with hardly any sound. A small pale shape got up out of the bits, in a shawl, and said something in a hollow voice, and nobody could hear what it was, because Bellatrix Lestrange had begun to shriek.
-
-Then everything happened.
 
 He didn’t have it all, afterwards. He had pieces. He had Cedric’s Shield going up, huge and silver, and holding, and holding, while the shelves came down on either side in a long roar of glass and a hundred small voices started talking at once; and a jet of purple that took Cedric in the chest, and his face going surprised and young. He dragged him by the collar. Hermione had got hold of Neville. Neville was on his knees with his teeth together and his nose running blood, and he had got his wand up; he was saying “*Stupefy*, *Stupefy*,” in a mild, thick, determined voice at Alice Longbottom’s torturer, and missing, and she was laughing so hard she could scarcely stand. Then she flicked one finger. He heard the sound Neville made. They went backwards through a door, all in a heap, and it was the wrong door, or the right one. There were the stone benches. They went down them. He had a dead weight in one hand and a fistful of Hermione in the other; the old dog was struggling up on its three legs, barking; there were eleven of them, coming down the tiers on all sides with their wands up, in no hurry; and he stood on the dais with his back to the arch, and he had thought of everything. There wasn’t anything left that he had not thought of.
 
@@ -96,7 +94,7 @@ It took him about a second. He would have liked it to take longer. He stood in t
 
 Then Sirius had shouted, and gone by him, and it was the eighteenth of June.
 
-He knew what this was. He knew it as he knew his own hand. He’d worked it out on the back of a Charms essay; he had cleaned his teeth with it every morning for four and a half years. It had taken no time at all, the last time. There was the top step of the dais, and there was Sirius on it, fighting his cousin, ducking under a red jet and bouncing up again, flushed and delighted, with his teeth showing. He was shouting something at her. He’d been shut up in a house for a year. He looked twenty-five. He looked as he’d looked with his boots on a table, telling you a story about somebody else.
+He knew what this was. He had cleaned his teeth with it every morning for four and a half years. There was the top step of the dais, and there was Sirius on it, fighting his cousin, ducking under a red jet and bouncing up again, flushed and delighted, with his teeth showing. He was shouting something at her. He’d been shut up in a house for months. He looked twenty-five. He looked as he’d looked with his boots on a table, telling you a story about somebody else.
 
 No, thought Harry.
 
@@ -110,13 +108,13 @@ It was a big, hard, warm hand, and it came round from behind him and shoved. He 
 
 Then the light hit him.
 
-It got him high up. His eyebrows rose a little, as if he’d been told something quite interesting. He stood for a moment with the laugh still on his face; and he took one step back, and another, in a long graceful curve, like a man who has been asked to dance; and his shoulders touched the curtain, and it gave. It moved aside for him as you’d move aside for someone in a doorway. It fluttered, and hung still.
+It got him high up. His eyebrows rose a little, as if he’d been told something quite interesting. He stood for a moment with the laugh still on his face; and he took one step back, and another, like a man who has been asked to dance; and his shoulders touched the curtain, and it gave. It moved aside for him as you’d move aside for someone in a doorway. It fluttered, and hung still.
 
 He didn’t come out at the other side. There was the arch, and the air, and nobody.
 
 The curtain stirred a little in the wind that wasn’t blowing.
 
-Somebody was shouting his name. Somebody had got him round the chest, from behind, with both arms, and it hurt; Lupin’s voice was saying, “No. Harry. There’s nothing you can do. Harry, he’s gone,” and it was just the same. He’d said that before, in the same voice. They were the same words. He had gone up four steps. He had seen it coming. He had changed where everybody stood, and which day it would feel like, and he’d got a man off a moor and made him laugh; he had moved the entire board, for four and a half years, and the man had looked him in the face and called him by somebody else’s name, and gone through.
+Somebody was shouting his name. Somebody had got him round the chest, from behind, with both arms, and it hurt; Lupin’s voice was saying, “No. Harry. There’s nothing you can do. Harry, he’s gone,” and it was just the same. He’d said that before, in the same voice. They were the same words. He had moved the entire board, for four and a half years, and the man had looked him in the face and called him by somebody else’s name, and gone through.
 
 *Prongs.*
 
@@ -132,13 +130,13 @@ He didn’t feel anything. That was quite interesting. He got out of Lupin’s a
 
 His arm came up.
 
-He didn’t lift it. It rose, from the shoulder, all by itself, very smooth and level, with no weight in it at all. It didn’t shake. It was the same as it had been on a landing, and in a pink room. There was somebody standing just behind him. There was a word in his mouth. He had never learnt it. He didn’t know what it meant or where it came from; it had come up out of the floor of him, up a long dark groove that had been there all the time, and it had a taste, like a coin, and it knew exactly where it was going. It had been waiting since a corridor when he was eleven.
+He would have told you he didn’t lift it. It rose, from the shoulder, very smooth and level, with no weight in it at all. It didn’t shake. It was the same as it had been on a landing, and in a pink room. There was somebody standing just behind him. There was a word in his mouth. He knew that word. He had got it out of a book, at sixteen, in the other life, and tried it on a boy in a bathroom, and stood in the red water looking at what it did; and he had sworn. It came up out of the floor of him, up a long dark groove that had been there all the time, and it had a taste, like a coin, and it knew exactly where it was going. It had been waiting since a corridor when he was eleven.
 
 “*Sec*—” said Harry.
 
 It wasn’t a loud noise. There was no flash. Bellatrix Lestrange stopped in the middle of a skip, with her head on one side. Then a line opened on her face, from the temple to the corner of the mouth, as neat as the crease in a letter, and it began to run.
 
-He stood with his hand out. He couldn’t get the rest of it out. He didn’t know the rest. It stayed there, on his tongue, half said.
+He stood with his hand out. He couldn’t get the rest of it out. It stayed there, on his tongue, half said.
 
 She had gone down on one knee. She put up her long dirty fingers, and touched it, and looked at them. She looked at him. And slowly, with the blood going down her neck, her whole face lit up. She looked as she had looked at a peacock. She got to her feet, and she began, in a high soft crooning voice, to laugh.
 
@@ -152,7 +150,7 @@ What frightened him was how good it sounded.
 
 ⁂
 
-The rest of it happened to someone else. The fires went up green along both walls of the Atrium, one after another. A tall old man in midnight blue walked out from the golden gates and said “Good evening, Tom,” to somebody who had come in behind Harry and was looking down at him from a great height with a light, courteous interest. The statues came to life. There was a great deal of noise. He lay against the rim of the fountain, where someone had put him, with wet robes, and looked at it. He didn’t turn his head. There was a moment when a long white hand came into his view, and the light changed, and the whole of the Ministry seemed to be pressing on him from the inside, and he heard himself say, politely, “Not today,” and it went away. People had started to arrive. There were Aurors, and a lime-green bowler hat rolling on the floor. There was a stout pale man with his mouth open, saying, “He was here! I saw him! He was *here*, Dawlish, in the Atrium, I saw him, he—” over and over.
+The rest of it happened to someone else. The fires went up green along both walls of the Atrium, one after another. A tall old man in midnight blue walked out from the golden gates and said “Good evening, Tom,” to somebody who had come in behind Harry and was looking down at him from a great height with a light, courteous interest. The statues came to life. There was a great deal of noise. He lay against the rim of the fountain, where someone had put him, with wet robes, and looked at it. He didn’t turn his head. There was a moment when a long white hand came into his view, and the light changed, and the whole of the Ministry seemed to be pressing on him from the inside, and he heard himself say, politely, “Not today,” and it went away. There was a lime-green bowler hat rolling on the floor.
 
 They brought them up from below in a line, with their wands gone and their hands bound. Barty Crouch went by, with his tongue moving, looking at nothing. Moody had him by the neck. Behind him came Lucius Malfoy, between two Aurors, with his hair in his eyes and blood on his collar, walking very straight. He had lost his cane. He stopped when he drew level with the fountain. He looked down.
 
@@ -164,11 +162,11 @@ They took him on. Harry watched him go, down the long gold floor, with his back 
 
 He could not think what he had meant. He didn’t try. He thought about it a good deal, later.
 
-They mended Neville’s jaw on a bench. Somebody said that Diggory would be all right. Hermione had a burn all down one arm. She sat by herself on the steps of the fountain, with a blanket that a witch from the Ministry had put round her, and at some time in the small hours he looked up and found her eyes on him. She had seen the fountain. She’d come up after him, in time. She looked at him for a while. She didn’t get out her notebook. She turned away and looked at the water.
+They mended Neville’s jaw on a bench. Somebody said that Diggory would be all right. Hermione had a burn all down one arm. She sat by herself on the steps of the fountain, with a blanket that a witch from the Ministry had put round her, and he looked up and found her eyes on him. She had seen the fountain. She’d come up after him, in time. She didn’t get out her notebook. She turned away and looked at the water.
 
-It got to be some time after three. Dumbledore was sitting on the rim beside him, looking very old, with his hands between his knees. He’d been saying something. He had said it twice. There was a fire lit, he said, when Harry was ready. Harry could go back through to the school. He needn’t talk, if he would rather not.
+It got to be after three. Dumbledore was sitting on the rim beside him, looking very old, with his hands between his knees. He’d been saying something. He had said it twice. There was a fire lit, he said, when Harry was ready. Harry could go back through to the school. He needn’t talk, if he would rather not.
 
-He felt in his pocket for his glasses. They were on his face. He had thought that he might want a handkerchief, because something appeared to be the matter with his nose. He didn’t have a handkerchief. His fingers closed on something else, long and thin, of dark smooth wood. He drew it out.
+He felt in his pocket for his glasses. They were on his face. He had thought he might want a handkerchief, because something appeared to be the matter with his nose. He didn’t have a handkerchief. His fingers closed on something else, long and thin, of dark smooth wood. He drew it out.
 
 It lay across his palm, in the gold light. He had held it once before, in a corridor, when he was eleven.
 
@@ -190,6 +188,8 @@ He’d done that. She lay and looked at it, in the only direction that there was
 
 She finished the word. She had been finishing it for some time. It was a perfectly ordinary word and it had two syllables. It went round. *Mother. He’s with my mother. Mother.* She’d had it right there at the front of her teeth. She’d only looked at Granger for a moment. She had only stopped to get her breath, and to think how it could be said, in front of Granger; to think what it would cost. She had looked at that for a moment, as she had been taught.
 
+Granger had stood over her, for some time, with the powder running out of her hand. Then there had been a green light. Lyra found she had no complaint to make. There was a boy in Hufflepuff who could have told her what that was worth.
+
 The ring was on the fourth finger of her left hand. She couldn’t see it. She could feel it. It had been hot for a long time, hotter and hotter, like something being held against a stove, and at a certain moment, while the light was still on the wall, it had stopped being anything. It had gone out. She didn’t know what that meant. She lay and waited for it to come on, and after a while it came on, very faint, and it had gone cold.
 
 That wasn’t what she thought about. She thought about that as little as she could. She had a room for it.
@@ -208,7 +208,7 @@ She had hoped very much that she never would.
 
 Well. She was. She didn’t see that anybody could fault her on that.
 
-The grey shape on the ceiling went to blue. There were a great many feet, a long way away, and voices on a stair, and a door slamming. Nobody came. Nobody ever came to that room. He’d been right about that. She had been lying there for a very long time, and she found that she knew exactly how long; she had always been able to do it, without a clock. She knew what you did with your hands. She lay on her back on the pink carpet, with her eyes wide open, eleven years old, and listened to the corridor.
+The grey shape on the ceiling went to blue. There were a great many feet, a long way away, and voices on a stair, and a door slamming. Nobody came. Nobody ever came to that room. He’d been right about that. She had been lying there for a very long time, and she found she knew exactly how long; she had always been able to do it, without a clock. She knew what you did with your hands. She lay on her back on the pink carpet, with her eyes wide open, eleven years old, and listened to the corridor.
 
 *Please come.*
 
@@ -270,7 +270,7 @@ She looked at him. She didn’t need to ask it. She had looked at him across a g
 
 There was a long silence.
 
-The light grew. A long way down, somebody had opened a door to let the morning in, and there was a smell of wet grass. She stood with her wand in her hand and her fingers quite steady. She’d had thirteen hours. She had gone over this. She had thought of a very great number of things that she might say to him, on that carpet, in the blue dusk; she had put them in order. There were some that would have taken the skin off him. There was one, she thought, that would have let him lie down. She looked at his split mouth, and the one sock. She looked at him for rather a long time, and she found that all of it had gone, and there was just the end of a sentence, that she’d been holding in her teeth since four o’clock the previous afternoon. Somebody would have to hear it. It wouldn’t be finished until somebody had.
+The light grew. A long way down, somebody had opened a door to let the morning in, and there was a smell of wet grass. She stood with her wand in her hand and her fingers quite steady. She had thought of a very great number of things that she might say to him, on that carpet, in the blue dusk; she had put them in order. There were some that would have taken the skin off him. There was one, she thought, that would have let him lie down. She looked at his split mouth, and the one sock. She looked at him for rather a long time, and she found that all of it had gone, and there was just the end of a sentence, that she’d been holding in her teeth since four o’clock the previous afternoon.
 
 “He was with my mother,” said Lyra.
 

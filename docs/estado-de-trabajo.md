@@ -2,23 +2,24 @@
 
 **Una página. Se reescribe en cada paso; no es un diario** (la historia está en git y en `docs/archivo/sesiones/estado-historico-hasta-4-nov.md`).
 
-Última actualización: 4 de noviembre de 2026.
+Última actualización: 5 de noviembre de 2026.
 
 ## Dónde estamos
 
-- **Escrito:** del 1 al 57, con *Year One* 1 a 6, *Year Four* 1 y dos interludios. **Publicado hasta el 37.**
-- **Orden de lectura desde el 41:** 41, Interludio 2, 42, 43, *Year One* 5 y 6, 44 a 52, *Year Four* 1, 53, 54, 55…
-- **Tanda en curso:** `borradores/guion-tanda-55-72.md`, aprobada. Hechos y criticados del 55 al 71, con el extra *Bed Rest*.
+- **Escrito:** del 1 al 72, con *Year One* 1 a 6, *Year Four* 1 y 2 y dos interludios. **Publicado hasta el 37.**
+- **Orden de lectura desde el 41:** 41, Interludio 2, 42, 43, *Year One* 5 y 6, 44 a 52, *Year Four* 1, 53 a 62, *Year Four* 2, 63 en adelante.
+- **Tanda 55-72 cerrada y criticada.** Su guion está en `docs/archivo/guiones/guion-tanda-55-72.md`.
 - **El 39 está cerrado** por el autor.
 
 ## En marcha
 
-- **Crítico Opus:** vivo y reutilizable para el 58. Crítica del 55-57 aplicada (`docs/notas/criticas-opus/cap-55-57.md`).
-- **Codex:** lectura completa hecha y aplicada (`docs/notas/criticas-opus/decisiones-reestructura.md`).
+- **Crítico Opus:** reutilizable, pero lleva unos 800.000 tokens; para la tanda siguiente, uno nuevo con resumen.
+- **Codex:** ha leído hasta el 70; informe aplicado (`docs/notas/criticas-codex/lectura-58-70.md`). No ha leído el 71 ni el 72.
+- **Misterios del Torneo:** solución fijada en `docs/notas/reestructura/decisiones.md`, §8.
 
 ## Siguiente paso exacto
 
-1. Escribir el 72, *Mine*, con los avisos del §3 del guion.
+1. Guion de la tanda 73-84, con el guion general, `decisiones.md` y los pendientes del §8. Espera la decisión del autor sobre cómo usar el original.
 
 ## Pendiente, sin urgencia
 

@@ -421,6 +421,7 @@ En orden de lectura. Las fechas marcadas «deducida» no las da el texto: salen 
 - **69 (3-6 jun. 1996):** ver `cap-69.md`. «You were missed.» Draco: «He said I would do.» «She’d do it again.» Primera mentira de amor. Lyra pide a Narcissa que aleje a Sirius: «He’d come for Regulus.» Desde aquí el narrador de Lyra dice «Harry».
 - **70 (8-17 jun. 1996):** ver `cap-70.md`. Cita de Sirius y Narcissa en el Cobb de Lyme, el 18 a mediodía. Harry confía la nota a Hermione. *TAU*. Lucius: «I shall not ask you for anything again»; ofrece a Draco a cambio de Potter. Anillo en el dedo. «He’s happy.»
 - **71 (18 jun. 1996):** ver `cap-71.md`. Sirius escondido en Rannoch; se va a Lyme. Sueño falso; Hedwig vuelve con la nota sin abrir. Hermione, Neville y Cedric van con él. Harry petrifica a Lyra a media frase: «he’s with my—».
+- **72 (18-19 jun. 1996):** ver `cap-72.md`. Ministerio. «We were waiting for the crate.» Muere Sirius: «Good one, Prongs.» «*Sec*—»; «Mine». Lucius y Crouch detenidos. Lyra reconoce la cara del armario. «He was with my mother.»
 
 ## 5. Fichas vivas
 

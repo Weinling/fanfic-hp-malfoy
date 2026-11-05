@@ -90,6 +90,8 @@ Es la solución interna. Nada de esto cambia lo publicado. Se revela a trozos, n
 
 **Pagos previstos:** 55 (el invierno; hecho). 72: Junior a Harry, «The Cup brought you back exactly where it was meant to. We were waiting for the crate.» Tanda siguiente: Lyra lee en el libro largo la deuda de Karkaroff y lo que hizo la carta que llevó; Jorkins y el padre, por Abraxas o Junior, de paso.
 
+**Para la tanda 73-84 (del 72):** la marcha de Harry sacó a Sirius de Lyme (él aún no lo ha pensado); lo que oyó a Lucius; la nota de Regulus se fue con Sirius; «Everything» como oportunidad de no cobrar; *Not repayable* frente a la regla del libro.
+
 **Para la tanda 73-84 (informe de Codex):** Hermione responde ante Ron y ante Ginny por su propia mentira; Ginny no se queda fuera para siempre; Hopkins y Miss Bode no quedan pagados; Goyle sigue pudiendo decir no; a Draco, algún fallo de niño; la rata del 58 pide consecuencia; Lyra acaba contando lo de Bode.
 
 ## Lo que decido si no dices lo contrario
