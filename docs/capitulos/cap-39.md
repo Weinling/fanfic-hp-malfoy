@@ -53,3 +53,6 @@
 
 ## Forma
 Carta y desayuno, luego una larga escena de dos en el Owlery. Termina con el beso y las dos frases.
+
+## Lectura de Codex (5 de noviembre, con visto bueno del autor)
+«nearly all of them had been quiet» (se gritaron en el Bosque, *Year One* 5). «the bandage had bled through». Cierre: «He had tried to make it a joke. It came out on no breath at all.» Las exclamaciones de Lyra se quedan: volvieron a propósito. «the most selfish thing», el segundo «very well done» (lo recoge Lucius en el 72) y «She wanted it clearly understood» no se tocan.

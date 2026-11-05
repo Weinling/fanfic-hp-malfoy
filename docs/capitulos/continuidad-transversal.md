@@ -426,6 +426,8 @@ En orden de lectura. Las fechas marcadas «deducida» no las da el texto: salen 
 - **71 (18 jun. 1996):** ver `cap-71.md`. Sirius escondido en Rannoch; se va a Lyme. Sueño falso; Hedwig vuelve con la nota sin abrir. Hermione, Neville y Cedric van con él. Harry petrifica a Lyra a media frase: «he’s with my—».
 - **72 (18-19 jun. 1996):** ver `cap-72.md`. Ministerio. «We were waiting for the crate.» Muere Sirius: «Good one, Prongs.» «*Sec*—»; «Mine». Lucius y Crouch detenidos. Lyra reconoce la cara del armario. «He was with my mother.»
 
+- **Lectura de Codex aplicada (5 de noviembre):** el grupo de Diggory es rutina de todo el curso: martes y jueves, tras las cocinas; se entra de dos en dos hasta que cae Umbridge (52, 59). Harry va solo los jueves desde febrero; **Neville lleva los martes y a los pequeños**. Harry enseñó el zorro al grupo el 18 de abril, no antes (51b «Later», 60b, 64). Cedric le enseña a quedarse tras el Escudo, y sigue sin Patronus. Hermione y Goyle discuten en las cocinas (64). La tienda de Goyle y Crabbe se nombra por primera vez en la partida (49). **Lemon drop**, nunca «sherbet lemon» (36, 60, 71).
+
 ## 5. Fichas vivas
 
 Al final del 57.

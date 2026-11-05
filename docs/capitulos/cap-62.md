@@ -18,3 +18,6 @@ Trece leídos más Hopkins: catorce de pie. Los nombres: Hopkins se apunta él. 
 
 ## Forma
 Termina con ella esperando a que pasen.
+
+## Añadido (5 de noviembre)
+Lyra da a Goyle el destinatario antes de «Is it a nice one?»: Madam Bones, lechuza del colegio. Los que se levantan llevan los pies y el brazo como enseña el grupo.

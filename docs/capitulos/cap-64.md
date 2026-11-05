@@ -16,3 +16,6 @@ Sirius está encerrado desde la fuga, por orden de Moody. Lyra tiene el pañuelo
 
 ## Forma
 Termina en el atlas.
+
+## Añadido (5 de noviembre)
+Escena nueva al principio, jueves 18 de abril, en la sala de duelos. Diggory le corrige el Escudo: «You keep leaving.» «It isn’t a door.» Hopkins aguanta doce segundos con la izquierda; Harry, nueve. Neville lleva a los pequeños desde febrero, porque los martes Harry está con Snape. Hermione y Goyle: «They like it.» «That’s what’s *wrong!*» y el bollo. Harry enseña por fin el zorro, con el recuerdo de la mesa y no con el de la mano. Draco, primera palabra en esa sala desde Navidad: «It looks as if you’ve spilt something.» Cedric sigue sin Patronus («I get fog»). **Paga «You’ll want somebody who can hold a shield» (71).**

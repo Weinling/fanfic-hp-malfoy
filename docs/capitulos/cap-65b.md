@@ -6,3 +6,6 @@ Harry sale de noche hacia Rannoch. «Oi.» **«You’re not going on your own.»
 
 ## Quién sabe qué
 **Ron sabe que Harry y Malfoy han vuelto**, y dónde está la borda. No sabe para qué es.
+
+## Añadido (5 de noviembre)
+La luna, un día después de la llena (3 de mayo de 1996). Ron: «Only Diggory wants us both back for Thursday.»

@@ -6,3 +6,6 @@ Gryffindor 200, Hufflepuff 30. Ron deja de girar la cabeza y para a Smith. Hermi
 
 ## Quién sabe qué
 Ron sospecha de quién es la nota. Harry tiene algo que dar a Snape (65).
+
+## Añadido (5 de noviembre)
+Diggory, capitán y buscador de Hufflepuff, pierde y se lo cobra: «Fourteen weeks. *Later*, you said.» Harry no ha enseñado el zorro al grupo porque tiene el mentón de Lyra y Draco está en la sala.

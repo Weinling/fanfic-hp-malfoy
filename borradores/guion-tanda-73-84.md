@@ -1,6 +1,6 @@
 # Guion de la tanda 73-84: La serpiente (de la mañana del Ministerio al baño)
 
-*5 de noviembre de 2026. Versión rehecha. Sale de `docs/notas/reestructura/decisiones.md` (§10 incluido), `guion-general.md` (tramo 3) y `revision-39-72.md`, aprobada por el autor, con su respuesta por defecto a las dudas: Ron va a Rannoch, Crabbe y Nott se quedan en casi, Goyle y Zabini no son pareja en público. Base leída: del 39 al 72 en texto. El original no se ha abierto. Las frases en inglés son nuestras y son orientativas. **Espera la aprobación del autor. Esta tanda se escribe después de la revisión del 39 al 72.***
+*5 de noviembre de 2026. Versión rehecha. Sale de `docs/notas/reestructura/decisiones.md` (§10 incluido), `guion-general.md` (tramo 3) y `revision-39-72.md`, aprobada por el autor, con su respuesta por defecto a las dudas: Ron va a Rannoch, Crabbe y Nott se quedan en casi, Goyle y Zabini no son pareja en público. Base leída: del 39 al 72 en texto. El original no se ha abierto. Las frases en inglés son nuestras y son orientativas. **Aprobado por el autor el 5 de noviembre, con los cambios tras la lectura de Codex (`docs/notas/criticas-codex/lectura-39-78.md`), ya incorporados.***
 
 *Los números son los de antes de renumerar. La tanda se sigue llamando 73-84 aunque ahora tenga catorce capítulos.*
 
@@ -93,9 +93,9 @@
 - **Calor:** Neville, con la mandíbula sujeta, escribe en una pizarra: *ALL RIGHT?*
 - **Gancho:** en el andén ella le pregunta si tiene algo que preguntarle. «No,» said Harry.
 
-1. El despacho rosa, sigue la escena. Ella le cuenta Lyme, con fechas, y aquí se le rompe la voz. Él cuenta el páramo. Ponen las dos jugadas juntas. Ella calla la carta de su padre y a Draco. Él calla la fuente. «Will you do that again?» «I don’t know.» **Frontera:** «Pockets.» Ya no es broma: las manos fuera de ella hasta que ella diga, y su varita no se toca. Él: «Don’t go.» Frase del pantallazo.
+1. El despacho rosa, sigue la escena. Ella le cuenta Lyme, con fechas, y aquí se le rompe la voz. Él cuenta el páramo. Ponen las dos jugadas juntas. Él dice lo que hizo sin adornos: la inmovilizó, le quitó la varita y se fue; lo eligió. Ella calla la carta de su padre y a Draco. Él calla la fuente. «Will you do that again?» «I don’t know.» **Frontera:** «Pockets.» Ya no es broma: las manos fuera de ella hasta que ella diga, y su varita no se toca. Él: «Don’t go.» Frase del pantallazo.
 2. Dumbledore. La profecía rota, Fudge sin poder negar, Privet Drive hasta su cumpleaños, la herencia de Sirius: Grimmauld y Kreacher. Vio la cara de Bellatrix: «What did you say to her, Harry?» Harry miente.
-3. La enfermería. Neville y la pizarra. Cedric. Hopkins le trae a Cedric una bandeja que ha cocinado Goyle. El perro de tres patas bajo una cama. Lupin, junto a una cama vacía: «I did. Moody said get Black, so I sent him the fastest thing I had. It found him on a wall in Dorset.» **Primera vez que un Patronus lleva un mensaje:** una línea que lo explique. Ahí se cierra la cuenta: si Harry se queda sentado, nadie manda nada.
+3. La enfermería. Neville y la pizarra. Cedric se va del colegio y **deja el grupo a Neville**, que no puede contestar: «He put his bag down first.» Harry pregunta qué pasa con él. «Not you.» Seguirá enseñando el Patronus, al frente, donde Neville le vea. Hopkins le trae a Cedric una bandeja que ha cocinado Goyle. El perro de tres patas bajo una cama. Lupin, junto a una cama vacía: «I did. Moody said get Black, so I sent him the fastest thing I had. It found him on a wall in Dorset.» **Primera vez que un Patronus lleva un mensaje:** una línea que lo explique. Ahí se cierra la cuenta: si Harry se queda sentado, nadie manda nada.
 4. Ron, en la escalera. Es lo único que le dice desde mayo: «Sorry about Sirius.» Y sigue subiendo. Ron arregló aquel techo con él. Harry se queda con eso.
 5. Las noches del 20 al 28. Enciende un caldero en el cuarto: Felix Felicis. Quiere lo que le faltó en la escalera: saber qué pie poner. Tarda casi seis meses. Ella entra, lo mira y no pregunta.
 6. King’s Cross. Slytherin la trata como a una reina: ya ha llegado «very well done». Moody la mira. Harry no pregunta porque vio una cosa que no quiere mirar: en el despacho ella se paró a medir la frase. Le toma la manga entre dos dedos. Gancho.
@@ -134,7 +134,7 @@
 2. Le enseña su libro verde. Lee las dos líneas. «It doesn’t bind him, child. He’d just do it. That’s rather worse.» Podría decirle a Harry que se aleje, y él lo haría. Sería moverle sin preguntar. Cierra el libro.
 3. Abraxas: no se le compra nada a quien lo tiene todo; se le hace una oferta mejor.
 4. La mesa. «Give it to me.» Razones de contable. «And the reason?» «I was missed.» Consigue a Draco fuera de la caja y sin Marca. Precio: enseñar lo que sabe hacer, y llevar algo suyo en el brazo. Lyme queda a crédito.
-5. **Bones, operación de verdad.** Dos notas en la letra de Crabbe, sacada de cinco años de apuntes. La primera es cierta y le cuesta a Riddle un escondite: Bones comprueba, y la fuente queda probada. La segunda pide verse y no dice dónde. Bones elige el sitio, porque es lista: una casa segura del Ministerio, con dos Aurores en la calle. **Lyra adivinó cuál elegiría;** es lo mejor que ha hecho nunca con su cabeza. Riddle ya estaba dentro. El *Prophet*: Amelia Bones, en una habitación cerrada por dentro. Su sobrina, una Hufflepuff, se enteró en casa.
+5. **Bones, operación de verdad.** Riddle tiene de Crouch padre, de sus meses bajo el Imperius, la lista de las casas seguras del Ministerio y sus llaves: cuatro. Dos notas en la letra de Crabbe, sacada de cinco años de apuntes. La primera es cierta y le cuesta a Riddle un escondite: Bones comprueba, y la fuente queda probada. La segunda pide verse y no dice dónde. **Lyra no adivina: acota.** Redacta a un informante que necesita tres cosas, cada una razonable (no puede cruzar el río, no puede pasar por un Flu, no puede estar fuera más de una hora), y de cuatro casas queda una. Bones elige bien, con dos Aurores en la calle, y elige sola. Es lo mejor que ha hecho nunca con su cabeza. Riddle ya estaba dentro. El *Prophet*: Amelia Bones, en una habitación cerrada por dentro. Su sobrina, una Hufflepuff, se enteró en casa.
 6. Draco. Se entera de que le han quitado la caja. «He said I’d do. Nobody ever said that. You take everything.» Llave.
 
 ### Interludio 3 — *The Cobb* (Narcissa)
@@ -192,9 +192,9 @@ Va aquí porque nadie más estuvo en el Cobb, y porque jura al saber lo de Lyra.
 1. Las reglas, contadas como Aritmancia.
 2. 1 de septiembre. Draco en su puerta con la pajarita en la mano, mudo. Se la ata. **Fallo de niño.** Narcissa: «He said it’s on his account.»
 3. Slytherin. Los hijos de los detenidos la tratan como a una reina. Crabbe, sin padre en casa: «It’s quieter.» Goyle y su libreta de recetas; Crabbe le lleva las cuentas de una tienda que aún no existe, y se callan cuando entra Lyra. Lyra capitana de Slytherin; Weasley, de Gryffindor.
-4. El cuarto, la primera noche. Le propone a voces el guion para este año. Él cree que lo hace para no hablar. Esa noche empieza una nota, *It hears*, y la quema.
+4. El cuarto, la primera noche. Le propone a voces el guion para este año. Él cree que lo hace para no hablar. Esa noche empieza una nota, *It hears*, y la quema. **Aquí queda claro por qué:** no hay hechizo que se lo impida. Lo que él sabe lo lee Riddle, y si lo sabe la pondrá en algún sitio.
 5. Lupin ha vuelto a Defensa. «I find I’m still in your debt, Miss Malfoy.»
-6. Granger. «Five hours and ten minutes.» «I know. I’ve written it down.» Sabía que el hechizo no se pasa solo. Eligió a Sirius. «Part of me wanted you to know what it was like. I’ve got both on the same page.»
+6. Granger. «Five hours and ten minutes.» «I know. I’ve written it down.» Sabía que el hechizo no se pasa solo. Eligió a Sirius. «Part of me wanted you to know what it was like. I’ve got both on the same page.» No se arregla aquí: siguen compitiendo en Aritmancia, y Lyra deja de dejar sus notas boca arriba.
 7. La rata. Gancho.
 
 ### 79 — *Two Chairs* (Harry)
@@ -203,12 +203,12 @@ Va aquí porque nadie más estuvo en el Cobb, y porque jura al saber lo de Lyra.
 - **Peldaño:** baja. El control, a la vista.
 - **Deseo del lector:** que deje de vigilarla. Se frustra: la sigue bajo la capa.
 - **Pantallazo:** la Sala le da dos sillas.
-- **Calor:** el grupo, que ahora lleva con Neville: Hopkins hace su primer Patronus, una cosa pequeña y sin forma, y dice «Sorry». Todos aplauden.
+- **Calor:** el grupo, que ahora lleva Neville: Hopkins hace su primer Patronus, una cosa pequeña y sin forma, y es la primera vez que no le pide perdón a nada. Neville se da cuenta y no lo dice.
 - **Gancho:** oye su voz tras la puerta de un baño: «He has a cauldron. He’s frightened of his own right hand.»
 
 1. La Sala. Dos sillas. Él las junta; a la vuelta están separadas. Lleva un cuaderno: a qué hora sale, con quién. Sabe quién le enseñó.
 2. Snape. Le dice lo que hizo en la otra vida en un baño, y que Snape lo cerró cantando. Quiere el contramaleficio. «What did you cut?» «Because it’s going to happen again.» Se lo enseña, de mala manera, sobre carne de la cocina, que trae Goyle sin preguntar.
-3. El grupo en el pasillo de las cocinas. Neville le pide que le enseñe lo que le hizo a Bellatrix. «No.» «All right.»
+3. El grupo, ya legal con Lupin, sigue tras las cocinas y sigue siendo de Neville: Cedric se lo dejó a él, y Harry enseña el Patronus y nada más. Neville le pide que le enseñe lo que le hizo a Bellatrix. «No.» «All right.»
 4. Draco. Harry le recuerda la promesa y le enseña que la moneda funciona en los dos sentidos. Draco se encoge de un hombro. Se la guarda.
 5. Dumbledore: la cámara de los Lestrange está vacía.
 6. La mano. Ella se levanta y él le coge el brazo. «Mine.» Ella no le quita puntos: «How nice.» Le suelta. Rompió «Pockets» otra vez. Algo satisfecho detrás de la oreja.
@@ -244,7 +244,7 @@ Va aquí porque nadie más estuvo en el Cobb, y porque jura al saber lo de Lyra.
 1. Ron, en el vestuario. Ginny ha perdido una hora y mira su letra con un lápiz. «You know about this. Is it *back?*» Hermione detrás.
 2. Ginny le enseña el hueco. Lo último que recuerda es una espalda con el pelo suelto. No es Riddle: es un corte limpio. Hermione ya lo ha sumado. Harry a Ron: «It’s not back.» «How d’you know?» **No se lo dice.** Lo ha vuelto a hacer.
 3. Las dos sillas. «She lost an hour.» «Did she? How careless.» «She was *eleven*. You stood there and said that to me.» Y por fin: **«By four o’clock.»** Lleva cinco meses con ello y además la oyó vender su mano.
-4. **La mentira no inventa nada: adopta la lectura de Riddle (74) sobre hechos ciertos.** Sí, su padre le escribió la víspera. Sí, quemó la carta y se puso el anillo. Sí, sacó a Sirius del páramo. «You told me not to go. You stood at the fire.» Pantallazo. Él no se lo cree con la parte que sostuvo la capa. Pero ya le pasó por la cabeza en el 71, y la vio medir la frase. **No se lo cree y no se lo puede quitar.** El anillo de él se pone azul. «It was very well done, I’m told.» Ella se queda sentada con las manos rectas, como él se las puso.
+4. **Ella no le habla a él: le habla al oído.** Riddle ya le dio las gracias por todo eso (74) y lo oye todo, así que tiene que confirmarlo en voz alta. Sí, su padre le escribió la víspera. Sí, quemó la carta y se puso el anillo. Sí, sacó a Sirius del páramo. «You told me not to go. You stood at the fire.» Pantallazo. **Harry le pone delante las pruebas:** corrió por el castillo, «he’s with my—», cinco horas y diez en la alfombra. Ella contesta con la voz de las tazas, mirando un poco por encima de su hombro, como quien dicta. Él sabe que miente y no entiende por qué. Eso es lo que no se puede quitar: ya le pasó por la cabeza en el 71, la vio medir la frase, y la oyó vender su mano. No es un malentendido: **sabe que hay algo y no le deja entrar.** El anillo de él se pone azul. «It was very well done, I’m told.» Ella se queda sentada con las manos rectas, como él se las puso.
 5. Al día siguiente, en el Comedor, le dice una cosa de verdad delante de todos. Sale de lo que ella le contó en el 65. Gancho. Goyle aparta el plato por primera vez.
 
 ### *Year Four* 3 — *Out of Your Depth* (Lyra)
@@ -258,10 +258,10 @@ Mayo de 1995. Lyra decide que un campeón no puede no saber nadar. Dirige desde 
 - **Deseo del lector:** que Harry le haga daño. Se paga, y lo paga ella.
 - **Pantallazo:** ella sigue untando la tostada hasta los bordes.
 - **Calor:** Neville, la mano en su manga. Solo eso.
-- **Gancho:** «I’m going to kill him,» said Harry. «I want it to take a long time.» Neville: «All right.»
+- **Gancho:** «I’m going to kill him,» said Harry. «I want it to take a long time.» Neville, que sabe lo que es mucho tiempo, no dice «All right». Es la primera vez.
 
 1. La noche del 16. Por la cicatriz, en el dormitorio, sin sueño previo: una voz cortés que le habla a él. **«I had her. You lent her.»** Vio la tienda en el Atrio, cuando entró un instante en su cabeza. No necesita más.
-2. Por la mañana, en el Comedor, llega el correo. Hedwig cae sobre la mesa, con el cuello torcido. Lleva atado su nudo, y una nota en letra de colegial: *Still bored?* Nadie le ha visto llorar en esa mesa. Ron se levanta y se le queda al lado sin decir nada. Hermione entierra el pájaro con él, junto a la cabaña de Hagrid, que llora por los dos: Harry había dicho que iría a verle.
+2. Por la mañana, en el Comedor, llega el correo. Hedwig cae sobre la mesa, con el cuello torcido. Lleva atado su nudo, y una nota en letra de colegial: *Still bored?* Es lo que Harry escribió en junio: Riddle lo sacó de su cabeza en el Atrio, y a Hedwig la ha cogido ahora, en noviembre, no en junio. Nadie le ha visto llorar en esa mesa. Ron se levanta y se le queda al lado sin decir nada. Hermione entierra el pájaro con él, junto a la cabaña de Hagrid, que llora por los dos: Harry había dicho que iría a verle.
 3. Esa noche abre la puerta a propósito, contra lo que le enseñó Snape. Le dice lo que sabe: que tiene miedo, que hizo siete porque le da pánico morir, que le ganó un bebé. **Riddle pierde la cortesía por primera vez:** un segundo, y es lo más aterrador que ha sentido. Luego vuelve la voz: «You’ll want to see what that costs.»
 4. El Comedor, al desayuno. Lyra con la tostada. Le arde la Marca: un minuto entero. Nadie lo ve. Ella sigue, muy derecha, y se muerde el labio por dentro; Goyle le acerca el té. Harry nota por la cicatriz el placer de Riddle, y sus propios labios quieren sonreír. *Every time.* Su brazo empieza a subir. La mano de Neville en la manga. Solo cuando Riddle para, ella mira un segundo a la mesa de Gryffindor. No sabe por qué.
 5. Entiende que cada cosa que haga la pagará ella. Gancho.
@@ -270,21 +270,22 @@ Mayo de 1995. Lyra decide que un campeón no puede no saber nadar. Dirige desde 
 
 ### 83 — *Not Your Mate* (Ron)
 
-- **Motor:** Ron ve lo que le pasa a Harry y decide qué hacer.
+- **Motor:** Ron ve lo que le pasa a Harry y decide qué hacer; y sigue sin saber qué hacer con Hermione, que le mintió seis meses.
 - **Peldaño:** la pareja, vista de lejos.
 - **Deseo del lector:** que alguien le sujete. Se paga, sin perdón.
 - **Pantallazo:** «I’m not your mate. I’m just sitting here.»
 - **Calor:** todo. Es el capítulo más divertido de la tanda: la voz de Ron, la mesa del rincón, Ginny, el equipo, Hermione y Goyle discutiendo por los elfos.
 - **Gancho:** ve lo que Harry mete en una bolsa y decide no verlo.
 
-**Por qué desde Ron y numerado:** es la primera vez que vemos a Harry desde fuera desde el 39. Al lector le tiene que dar miedo. Y es la prueba de que la historia tiene más gente que ellos dos.
+**Por qué desde Ron y numerado:** Ron nunca ha narrado, y ve a Harry como nadie. Al lector le tiene que dar miedo. Y es la prueba de que la historia tiene más gente que ellos dos.
 
 1. Las cuentas de Ron: cuántas veces se ha enfadado con Harry, en un cuadro que le ha prestado Hermione. Es capitán, va ganando y su hermana duerme con la luz puesta. En su libro de Encantamientos, una nota en una letra que conoce: *Puddlemere by two hundred. Two Sickles.* Lleva meses sin contestarlas. No la tira.
 2. Harry ya no se ríe tarde ni pronto. No come con nadie. Trae libros de la biblioteca de Grimmauld. Hermione ve el cuaderno: páginas de qué duele más y durante cuánto. No es odio ruidoso: es tranquilo y se le da bien.
-3. El grupo, en la sala de duelos. Harry hace una demostración sobre un muñeco y todos se callan. Neville tiene que terminar la clase. Hopkins se va. Draco se queda mirando.
-4. Ron, Hermione, Neville y Ginny en la mesa del rincón. No perdonan nada. ¿Qué se hace con alguien así? Ginny: «You don’t leave him on his own with it. That’s all I know. That’s what nobody did.»
-5. Ron se sienta a su lado en la cena. «What are you doing?» Pantallazo. Le pone delante una patata. Le pregunta qué pasa cuando le haya matado. Harry no tiene respuesta. A la noche siguiente Ron vuelve, y Neville, y Ginny, a horarios que Hermione ha organizado.
-6. Harry mete algo en la bolsa de Malfoy, en Pociones. Ron lo ve y decide no verlo: es la primera cosa que decide no ver desde que es prefecto. Gancho.
+3. El grupo, en la sala de duelos. Harry hace una demostración sobre un muñeco y todos se callan. Pide un voluntario. Hopkins: «No, thank you.» Se va, y se van otros. Neville termina la clase. Draco se queda mirando. El jueves siguiente Neville espera en la puerta, muy colorado: **«Not you.»** Lo mismo que Cedric. No es perdón ni castigo: tiene críos en esa sala.
+4. Ron y Hermione, a solas, en la ronda: la mentira de seis meses. Ella no se disculpa por saber; sí por haberle mirado a la cara. Él: el cuadro prestado se lo devuelve, y no se lo devuelve. No se cierra.
+5. Ron, Hermione, Neville y Ginny en la mesa del rincón. No perdonan nada. ¿Qué se hace con alguien así? Ginny: «You don’t leave him on his own with it. That’s all I know. That’s what nobody did.»
+6. Ron se sienta a su lado en la cena. «What are you doing?» Pantallazo. Le pone delante una patata. Le pregunta qué pasa cuando le haya matado. Harry no tiene respuesta. A la noche siguiente Ron vuelve, y Neville, y Ginny, a horarios que Hermione ha organizado.
+7. Harry mete algo en la bolsa de Malfoy, en Pociones. Ron lo ve y decide no verlo: es la primera cosa que decide no ver desde que es prefecto. Gancho.
 
 **Ron vuelve del todo en el tramo 5.** Aquí se sienta. No es lo mismo, y el capítulo lo dice.
 
@@ -320,7 +321,7 @@ Mayo de 1995. Lyra decide que un campeón no puede no saber nadar. Dirige desde 
 4. Lyra se lo ordena. La voz de siempre: «Put that down.» **«No,»** dice Goyle, riéndose: se lo enseñó ella. Elige uno. «Look. I’ll go first.»
 5. **El segundo.** Ya solo queda decir la palabra en voz alta, delante de la serpiente abierta. Su madre. Draco. La cuenta es perfecta y es muy rápida. La mano que fue sola con Ginny no va: solo era rápida para salvarse a sí misma. Cuando acaba, Goyle tiene los ojos cerrados y ha tragado. «That’s orange.»
 6. Poco más de un minuto. Ni un bezoar en el cuarto: es un fallo de Lyra, y lo sabe, llevando eso desde julio. El almacén está a cuatro pisos. Le coge la mano. Coge otro y se lo tiende. Lo último es el pantallazo. Lyra se lo quita de los dedos y guarda la caja. **Entonces** grita. En la bolsa, sin abrir, tiene un frasco de suerte que guardaba para el viernes.
-7. Pomfrey, Snape, Crabbe en la puerta. Snape le huele la boca. Mira a Lyra. **Decide:** es la segunda cláusula, y le cuesta. «It was her heart.» Pomfrey quiere llevarla a San Mungo y Snape firma. Parkinson dirá lo del tamaño, en la cena, y Zabini se levantará. Lyra asiente. Gancho.
+7. Pomfrey, Snape, Crabbe en la puerta. Snape le huele la boca. Mira a Lyra. **Decide:** es la segunda cláusula, y le cuesta. «It was her heart.» Pomfrey quiere llevarla a San Mungo. Snape, como jefe de su Casa, avisa a Mrs Goyle, y ella se niega a que abran a su hija: es costumbre en las familias antiguas, y a su marido lo tiene en Azkaban y a Riddle en la puerta. Pomfrey no se lo cree, lo dice y firma. Se queda con la duda. Parkinson dirá lo del tamaño, en la cena, y Zabini se levantará. Lyra asiente. Gancho.
 
 **Quién sabe qué:** Lyra y Snape. Veintitrés.
 
@@ -357,7 +358,7 @@ La escena se ordena en torno a dos cosas: ella se corta sola y él no; «Hold it
 | **Hopkins** | Sospecha | Nada probado |
 | **Ginny** | La primera capa, «Mine» | Quién le quitó la hora |
 | **Ron y Hermione** | La hora; Hermione lo ha sumado. El cuaderno de Harry | Ron, quién |
-| **Neville** | El Comedor, casi todo | |
+| **Neville** | El Comedor, casi todo. Lleva el grupo; Harry, fuera desde el 83 | |
 | **Draco** | Veintitrés, y qué significa, a medias | |
 | **Riddle** | Casi todo lo del baño | |
 | **La Orden** | Fidelius en la Mansión | Quién lo guarda |
@@ -394,6 +395,7 @@ La escena se ordena en torno a dos cosas: ella se corta sola y él no; «Hold it
 | Moneda | 52:87-113 | Dos sentidos: 79 |
 | Fidelius | 11:87-91 | |
 | «tidy house» | 56:105, 63:51 | |
+| Lemon drop | 36 (publicado), 60, 71 | Siempre «lemon drop», nunca «sherbet lemon» |
 | «doorways» | 54:145 | |
 | El Obispo tachado | 58:185 | El borrador sale del cuarto |
 | Fecha y hora en papel | 59:221-227, 60:7 | Va en el bolsillo de Harry |

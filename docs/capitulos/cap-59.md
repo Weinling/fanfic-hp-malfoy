@@ -21,3 +21,6 @@ Los jueves son de Snape. Lucius escribe el martes y la lechuza llega el miércol
 
 ## Forma
 Termina en acción corriente: la tostada, hasta los bordes.
+
+## Añadido (5 de noviembre)
+El horario de Hermione deja libres martes y jueves por el grupo de Diggory; el jueves, además, por Snape y Lyra.

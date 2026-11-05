@@ -70,6 +70,8 @@ La regla de oro: **subir la temperatura sin bajar la calidad**. Más emoción qu
 
 **Vigilar:** Lyra levantando la barbilla; la quietud como reacción; caras que cambian y vuelven; explicar un gesto dos veces; el narrador aclarando lo que una réplica ya dijo; espejos explicados; saltos fuera del punto de vista; dos metáforas para la misma emoción; repetir una lista dentro del capítulo; simetría de remates; diálogos de Harry demasiado pulidos; símiles con «the way…» en serie; reacciones corporales de catálogo; imágenes recicladas («watch his face», «nothing to do with anything», las noticias que llegan «in pieces», las orejas rojas de Harry, la mano a la cicatriz); varios arranques seguidos con Lyra de mal humor.
 
+**Medido por Codex (5 de noviembre; del 73 en adelante, vigilar):** «eleven» incidental (2,8 veces más que en lo publicado; se queda el que habla de la infancia); «There was/were» abriendo revelaciones (el doble); frases con «It» en los golpes emocionales (algo pasa, se dice que fue algo, se niega que fuese otra cosa y se explica qué significaba); la familia «wanted it understood / written down» (firma, no voz); «as you’d» (dieciséis, y cero en lo publicado). **El defecto de fondo es la segunda explicación:** el gesto ya está y el párrafo siguiente lo traduce. Podar la glosa, no el gesto. Conversaciones como exámenes: no todas.
+
 Antes de entregar: una pasada buscando estos tics y otra de **lectura en frío** (¿dónde se cansaría un lector de Wattpad?, ¿qué frase citaría?, ¿sabe en cada momento clave qué siente Lyra?).
 
 ## 5. Personajes: su función
