@@ -13,8 +13,12 @@
 
 ## Siguiente paso exacto
 
-1. **Lectura de Codex de la tanda, aplicada** (`docs/notas/criticas-codex/lectura-73-84.md`). Sus exigencias para lo siguiente: `decisiones.md`, §11. El relevo de lectores es `docs/notas/criticas-codex/cuaderno-lector.md`: nadie relee la historia entera.
-2. Guion del tramo 4 (del baño a julio de 1997): `decisiones.md`, §5, §6, §9 y §10, y las notas «Para el tramo 4» del guion archivado.
+1. **Romance del 40 al 72:** decidir y aplicar lo que valga de `docs/notas/criticas-codex/revision-romance-inedito.md` y `laboratorio-romance-inedito.md`, con crítico Opus en lo rehecho. Es romance no sexual: son menores, y un beso largo lo llena lo que ocurre, no el beso. Encargo: en la rama `codex/encargo-romance-inedito`.
+2. **Guion del tramo 4** (del baño a julio de 1997), sobre el texto ya cambiado: `decisiones.md`, §5, §6, §9, §10 y §11, y las notas «Para el tramo 4» del guion archivado. Va después porque se apoya en los peldaños del romance.
+3. **Del 73 al 86, romance:** Codex lo amplía cuando el autor lo confirme. La versión aplicada está en `main`. Puede ir a la vez que el guion: esa tanda se pudre, y el tramo 4 no depende de sus matices.
+4. El autor lee la tanda cuando quiera. Si cambia algo de fondo, manda eso.
+
+**Antes de cada commit:** `git branch --show-current`. Codex cambió una vez esta carpeta a su rama y un commit cayó ahí. Sus trabajos, en su propia carpeta.
 
 ## Pendiente, sin urgencia
 
