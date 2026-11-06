@@ -60,7 +60,7 @@ Lucius held out his hand. It was a long, fine, beautiful hand. It had a bad trem
 
 “Thank you,” said Lucius.
 
-Harry looked at the hand. He thought of a cauldron, in a bookshop. He looked at that for a moment. He opened his fingers.
+Harry looked at the hand. He thought of a cauldron, in a bookshop. He looked at it for a moment. He opened his fingers.
 
 It hit the stone with hardly any sound. A small pale shape got up out of the bits, in a shawl, and said something in a hollow voice, and nobody could hear what it was, because Bellatrix Lestrange had begun to shriek.
 
@@ -130,7 +130,7 @@ He didn’t feel anything. That was quite interesting. He got out of Lupin’s a
 
 His arm came up.
 
-He would have told you he didn’t lift it. It rose, from the shoulder, very smooth and level, with no weight in it at all. It didn’t shake. It was the same as it had been on a landing, and in a pink room. There was somebody standing just behind him. There was a word in his mouth. He knew that word. He had got it out of a book, at sixteen, in the other life, and tried it on a boy in a bathroom, and stood in the red water looking at what it did; and he had sworn. It came up out of the floor of him, up a long dark groove that had been there all the time, and it had a taste, like a coin, and it knew exactly where it was going. It had been waiting since a corridor when he was eleven.
+He would have told you he didn’t lift it. It rose from the shoulder, very smooth and level, with no weight in it at all, as it had on a landing and in a pink room. Somebody was standing just behind him. There was a word in his mouth, and he knew that word: he had got it out of a book, at sixteen, in the other life, and tried it on a boy in a bathroom, and stood in the red water looking at what it did; and he had sworn. It came up out of the floor of him, up a long dark groove that had been there all the time, with a taste like a coin, and it knew exactly where it was going. It had been waiting since a corridor when he was eleven.
 
 “*Sec*—” said Harry.
 
@@ -144,7 +144,7 @@ She had gone down on one knee. She put up her long dirty fingers, and touched it
 
 *Mine.*
 
-He heard it quite clearly. It wasn’t her. It wasn’t anyone. It was in his head, a little behind his right ear, and it was very quiet and rather pleased. It didn’t sound like him. It didn’t sound altogether like the voice that had said *Come and see*. He thought, afterwards, that he must have thought of it himself. It was the sort of thing you would think.
+He heard it quite clearly. It wasn’t her, or anyone. It came from inside his head, a little behind his right ear, very quiet and rather pleased, and it didn’t sound like him; nor altogether like the voice that had said *Come and see*. He thought, afterwards, that he must have thought of it himself. It was the sort of thing you would think.
 
 What frightened him was how good it sounded.
 
@@ -186,11 +186,11 @@ She found out a number of things about the Full Body-Bind. You could breathe. It
 
 He’d done that. She lay and looked at it, in the only direction that there was.
 
-She finished the word. She had been finishing it for some time. It was a perfectly ordinary word and it had two syllables. It went round. *Mother. He’s with my mother. Mother.* She’d had it right there at the front of her teeth. She’d only looked at Granger for a moment. She had only stopped to get her breath, and to think how it could be said, in front of Granger; to think what it would cost. She had looked at that for a moment, as she had been taught.
+She finished the word. She had been finishing it for some time. It was a perfectly ordinary word and it had two syllables. It went round. *Mother. He’s with my mother. Mother.* She’d had it right there at the front of her teeth. She’d only looked at Granger for a moment. She had only stopped to get her breath, and to think how it could be said, in front of Granger; to think what it would cost. She had looked at it for a moment, as she had been taught.
 
 Granger had stood over her, for some time, with the powder running out of her hand. *It wears off*, he had told her. It didn’t, and Granger had known that since she was eleven. Then there had been a green light. Lyra found she had no complaint to make. There was a boy in Hufflepuff who could have told her what that was worth.
 
-The ring was on the fourth finger of her left hand. She couldn’t see it. She could feel it. It had been hot for a long time, hotter and hotter, like something being held against a stove, and at a certain moment, while the light was still on the wall, it had stopped being anything. It had gone out. She didn’t know what that meant. She lay and waited for it to come on, and after a while it came on, very faint, and it had gone cold.
+The ring was on the fourth finger of her left hand, where she couldn’t see it. She could feel it. It had been hot for a long time, hotter and hotter, like something held against a stove, and at a certain moment, while the light was still on the wall, it had stopped being anything. She didn’t know what that meant. She lay and waited, and after a while it came on again, very faint, and cold.
 
 That wasn’t what she thought about. She thought about that as little as she could. She had a room for it.
 
@@ -258,7 +258,7 @@ She had expected, she supposed, that he’d look different. He didn’t look lik
 
 Then he raised his eyes.
 
-Neither of them said anything. The fire went down behind him with a small dry sigh. He looked at her, standing there against the light with her hair up and her hands by her sides. She saw him look for the word, and she saw that there wasn’t one. He had a wand in his hand. He’d had it in his hand, she thought, for some time. He crossed the carpet, and it took four steps. He held it out to her, across both his palms, like somebody returning a thing he had found in the road.
+Neither of them said anything. The fire went down behind him with a small dry sigh. He looked at her, standing there against the light with her hair up and her hands by her sides. She saw him look for the word, and she saw there wasn’t one. He had a wand in his hand. He’d had it in his hand, she thought, for some time. He crossed the carpet, and it took four steps. He held it out to her, across both his palms, like somebody returning a thing he had found in the road.
 
 She took it. It was warm.
 

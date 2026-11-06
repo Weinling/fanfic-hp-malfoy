@@ -8,7 +8,7 @@ There was no lid. She had looked. It was about the size of a grain of rice, and 
 
 *Let E be the ear*, wrote Lyra.
 
-She had been given the rule by the Dark Lord himself, in the warmest possible way, when she was in a position to appreciate it. He had thought that she would like to know what she was wearing. Her part in it was to live, and that was all; it needed no attention. The rest she had established for herself, by experiment, as one does.
+She had been given the rule by the Dark Lord himself, in the warmest possible way, when she was in a position to appreciate it. He had thought she would like to know what she was wearing. Her part in it was to live, and that was all; it needed no attention. The rest she had established for herself, by experiment, as one does.
 
 *1. E hears.* On the fourth of August she had told Pobble, in the linen room, with the door shut, that the second lime from the gate was to be left alone, because a thrush had got into it. Nobody else alive could have known about that thrush. On the sixth, at dinner, as they were taking away the fish, the Dark Lord had asked her how the bird was doing.
 
@@ -24,7 +24,7 @@ There was a sixth. It wasn’t a matter of experiment. He had told her that as w
 
 *6. If H. learns of E from L.M.: N.M. pays.*
 
-She looked at that. She had been very well taught, and she went through it with the end of her pen, for the leak. It wasn’t a spell. There was no cleverness in it. Nothing would go off. It was simply a contract, between a person and a person, and it would only be enforced if he found out. Very well: then how would he find out? There was what she might say aloud, and that was item one. And suppose that she said nothing. Suppose she took a sheet of the second-best paper, and put it into a boy’s hand, in silence, at the top of a stair.
+She went through it with the end of her pen, for the leak. It wasn’t a spell. Nothing would go off. It was simply a contract, between a person and a person, and it would only be enforced if he found out. Very well: then how would he find out? There was what she might say aloud, and that was item one. And suppose she said nothing. Suppose she took a sheet of the second-best paper, and put it into a boy’s hand, in silence, at the top of a stair.
 
 She had got as far as that, on the window seat, with the wasps going round in the sun. She had felt something start up in her chest. It was very small and it hurt a great deal. She made herself stop, and she drew a line, and she went on.
 
@@ -32,7 +32,7 @@ He had a door in his head. She had seen what came through it: she’d heard him 
 
 She looked at the other for rather longer.
 
-He would come. He’d read her note, and he would look up, and he’d go white and quiet. He’d count. He would stand very still, with his hands in his pockets, and say that it would be all right. And within the week it would have been arranged. There would have been an atlas. He would know a place, and he’d have been to see about the roof. Somebody would have been spoken to; a very old wizard would have looked at her over his half-moons, with great sadness. She would be lifted up, with extreme tenderness, and her hands would be put straight, and she would find herself on a hillside, safe, counting sheep, while her mother paid, and Draco paid, and he went and saw to it. *Stay there.* He would do it for love. He wouldn’t be able to stop himself. She’d asked him, and he had told her so, on a pink carpet, with one sock on.
+He would come. He’d read her note, and he would look up, and he’d go white and quiet. He’d count. He would stand very still, with his hands in his pockets, and say it would be all right. And within the week it would have been arranged. There would have been an atlas. He would know a place, and he’d have been to see about the roof. Somebody would have been spoken to; a very old wizard would have looked at her over his half-moons, with great sadness. She would be lifted up, with extreme tenderness, and her hands would be put straight, and she would find herself on a hillside, safe, counting sheep, while her mother paid, and Draco paid, and he went and saw to it. *Stay there.* He would do it for love. He wouldn’t be able to stop himself. She’d asked him, and he had told her so, on a pink carpet, with one sock on.
 
 She wrote that down as well. It was only fair.
 
@@ -56,27 +56,27 @@ Lyra didn’t say anything. It was perhaps the most difficult thing that she had
 
 He looked at her then. It was only for a moment. His eyes were red round the edges. He didn’t thank her; she would have been alarmed if he had. He turned, and walked away down the passage, with his hands at his sides, and she heard him on the stairs: and at the turn, where he had always done it, he took the last four at a jump. She heard him land. There was a short horrified silence. Then the feet went on, slowly, walking.
 
-She stood in the door for a little. She found that she had to put a hand on the frame.
+She stood in the door for a little. She found she had to put a hand on the frame.
 
 “You’ll be wanting your gloves,” said her mother.
 
-She had come along from the other end, in the grey, and stopped where the light fell from the landing window. She stood with her hands together, looking at nothing. They had not been alone in the same room since the kitchen. It didn’t make very much difference. She had been told what it was, and she knew how far it carried. She’d looked at that arm once, on the morning of the first of August, when Lyra had got as far as her own bed; and she had taken the sponge from the elf, and done the rest herself. Her eyes rested for an instant on Lyra’s left sleeve.
+She had come along from the other end, in the grey, and stopped where the light fell from the landing window. She stood with her hands together, looking at nothing. They had not been alone in the same room since the kitchen. It didn’t make very much difference. She had been told what it was, and she knew how far it carried. She’d looked at it arm once, on the morning of the first of August, when Lyra had got as far as her own bed; and she had taken the sponge from the elf, and done the rest herself. Her eyes rested for an instant on Lyra’s left sleeve.
 
 “I had a message for you,” said Narcissa Malfoy, in her ordinary voice. “I had quite forgotten. It’s of no consequence. It was from a person that I met at the seaside. He asked me to say that the chicken was on his account. And the chocolate.”
 
 She held out the gloves. They were a very good pair, in pale kid. She laid them across Lyra’s hand, and she straightened one of the fingers.
 
-“I thought that you ought to have it in writing,” she said. “But I find I haven’t any paper.”
+“I thought you ought to have it in writing,” she said. “But I find I haven’t any paper.”
 
 ⁂
 
 They rose when she came into the common room.
 
-She hadn’t expected that. She’d thought it would be looks. She came down the stone steps behind a first-year with the password, with the green lamps swinging, and Montague got to his feet. So did Warrington’s sister. It went on across the room, in a small rustling wave, from the fire to the door. There were seven people in Slytherin whose fathers had been put under the Wizengamot in June, and every one of them knew what had been done, and who had done it; they’d had it from their mothers. *By four o’clock, as I asked.* A fifth-year who had never spoken to her got up and gave her the chair. It was the good one. She had fought Parkinson for that chair for five years, and he was holding the back of it for her now, with shining eyes.
+She had expected looks. She came down the stone steps behind a first-year with the password, with the green lamps swinging, and Montague got to his feet, and Warrington’s sister, and it went on across the room in a small rustling wave, from the fire to the door. Seven people in Slytherin had fathers under the Wizengamot since June, and every one of them knew what had been done, and who had done it; they’d had it from their mothers. *By four o’clock, as I asked.* A fifth-year who had never spoken to her got up and gave her the chair. It was the good one. She had fought Parkinson for that chair for five years, and he was holding the back of it for her now, with shining eyes.
 
-There was a badge on her pillow, in silver: *Captain*. There was a note about it from Snape, one line. Weasley had got the other. She heard that at supper; she had it from Zabini, who said that it was the first thing to have happened in Gryffindor in years that he would pay to see. She had a good laugh, in the right place.
+There was a badge on her pillow, in silver: *Captain*. There was a note about it from Snape, one line. Weasley had got the other. She heard that at supper; she had it from Zabini, who said it was the first thing to have happened in Gryffindor in years that he would pay to see. She had a good laugh, in the right place.
 
-Crabbe was on the end of the bench in the dormitory, with her boots off. Her father had got nine years, on the sixteenth of August, for his part in an affair in a room full of glass. She’d taken some time over one of the laces. She looked up when Lyra came in, slow and careful and thorough, and it went to the left sleeve, and on, and it did not stop.
+Crabbe was on the end of the bench in the dormitory, with her boots off. Her father had got nine years, on the sixteenth of August, for his part in an affair in a room full of glass. She’d taken some time over one of the laces. She looked up when Lyra came in, without hurry, and it went to the left sleeve, and on, and it did not stop.
 
 “I was sorry to hear about your father,” said Lyra.
 
@@ -94,23 +94,23 @@ Goyle sat on the next bed, with her big knees apart. She had got a fat black not
 
 ⁂
 
-She went up to the seventh floor on the second night, at nine o’clock. She had thought that she wouldn’t. She’d gone over all that in the summer. There was no reason at all to go to a room that had been read out at dinner, with a rat in it, and she had been round it, in her head, a hundred times, on her knees, looking for the hole. She had walked past the bare wall three times, with her hands cold, thinking about what she needed. There was the door. It seemed to know her.
+She went up to the seventh floor on the second night, at nine o’clock. She had thought she wouldn’t. She’d gone over all that in the summer. There was no reason at all to go to a room that had been read out at dinner, with a rat in it, and she had been round it, in her head, a hundred times, on her knees, looking for the hole. She had walked past the bare wall three times, with her hands cold, thinking about what she needed. There was the door. It seemed to know her.
 
-The fire was laid. There was the bald rug, and the fender. The chair had gone on sinking to the left, on its heap of books. It was just the same. She stood on the threshold and it went through her like a blade. She’d have given anything for it to have been altered; for there to be a hole, a crack, a smear of droppings in the corner. It was an extremely good room. It had never been anything but kind.
+The fire was laid. There were the bald rug and the fender, and the chair had gone on sinking to the left on its heap of books, and she stood on the threshold and it went through her like a blade. She’d have given anything for it to have been altered; for a hole, a crack, a smear of droppings in the corner. It was an extremely good room. It had never been anything but kind.
 
 He was by the hearth, on his knees, with the cauldron on a trivet and his sleeves rolled up. The gold had gone dark and thick, and there was a slow thread of something going round on it, like a hair of light. He’d got taller. He sat back on his heels, and looked at her; and his hands went, without his appearing to think about it, to his pockets.
 
 “Hello,” said Harry.
 
-It was the first thing that anybody had said to her in a fortnight, in that tone of voice. He had a sock on. She had seen it, in Diagon Alley; she’d seen it on the terrace, with his boot crossed on his knee. He was wearing it now. She looked at that. Something rose up from the bottom of her with such force that she could feel it behind her teeth.
+It was the first thing anybody had said to her in a fortnight, in that tone of voice. He had a sock on. She had seen it, in Diagon Alley; she’d seen it on the terrace, with his boot crossed on his knee. He was wearing it now. She looked at it. Something rose up from the bottom of her with such force that she could feel it behind her teeth.
 
-*It hears. It’s on my arm. It’s got one eye. He did it on your birthday and it took three and a half hours, and I screamed for you. I screamed so loudly, Harry. You were in the field. I could feel you there, it was the only thing that I could feel, you were right on top of me. You came. You came in an hour, and I couldn’t—*
+*It hears. It’s on my arm. It’s got one eye. He did it on your birthday and it took three and a half hours, and I screamed for you. I screamed so loudly, Harry. You were in the field. I could feel you there, it was the only thing I could feel, you were right on top of me. You came. You came in an hour, and I couldn’t—*
 
 It weighed about as much as a grain of rice. It lay quite quietly along the vein.
 
 “You’ve let that go down,” said Lyra. “It wants another half-turn.”
 
-It was the pleasant voice. She’d got rather good at it. She crossed the rug, by way of the far side, and sat down in the chair, and arranged her skirts. She took out a sheet of the second-best paper. She heard herself say that she had been giving some thought to the coming year. It seemed to her that last year’s arrangement had grown slack, and that a certain freshness had gone out of the performance, at any rate on the Gryffindor side. Now that one of them was a captain and the other was not, she proposed a formal programme of hostilities. She’d drawn up some heads. She read them out. She read them in a clear carrying tone, rather slowly, with her chin up, as one might read to somebody at the far end of a long room; and they were extremely funny. There was a passage about his Apparition. There was a good deal about Weasley’s nose.
+It was the pleasant voice. She’d got rather good at it. She crossed the rug, by way of the far side, sat down in the chair, arranged her skirts and took out a sheet of the second-best paper. She heard herself say she had been giving some thought to the coming year. It seemed to her that last year’s arrangement had grown slack, and that a certain freshness had gone out of the performance, at any rate on the Gryffindor side; and now that one of them was a captain and the other was not, she proposed a formal programme of hostilities. She’d drawn up some heads. She read them out in a clear carrying tone, rather slowly, with her chin up, as one might read to somebody at the far end of a long room, and they were extremely funny. There was a passage about his Apparition, and a good deal about Weasley’s nose.
 
 She didn’t look at him. She could feel him looking at her.
 
@@ -136,13 +136,13 @@ She looked at them till the candle guttered. She looked at her arm. She held the
 
 It was remarkable how much of the term there was.
 
-She had thought that it would be impossible. It wasn’t even very difficult. You simply stopped saying things. You went through your day as you’d go across a floor with somebody asleep on it, and you learnt where the boards were. She didn’t talk in her sleep; she’d had Crabbe’s word on that, in the second year. She found that she was reading aloud rather more, in the evenings, in a pleasant voice, about nothing. A note came to her plate one morning in October, that no owl had brought, in a good round prize-winning hand. *You have such a nice speaking voice. Do go on with the Herodotus.*
+She had thought it would be impossible. It wasn’t even very difficult. You simply stopped saying things. You went through your day as you’d go across a floor with somebody asleep on it, and you learnt where the boards were. She didn’t talk in her sleep; she’d had Crabbe’s word on that, in the second year. She found she was reading aloud rather more, in the evenings, in a pleasant voice, about nothing. A note came to her plate one morning in October, that no owl had brought, in a good round prize-winning hand. *You have such a nice speaking voice. Do go on with the Herodotus.*
 
 There were even, God help her, some good days.
 
 Professor Lupin had come back to Defence. Nobody knew who’d persuaded him. He stood in front of the sixth year, on the first Wednesday, looking as if he had been left out in the garden since June, in the same brown jacket; and at the end of the lesson he asked Miss Malfoy to stay behind. He sat on the edge of the desk. He looked at her for a little while, with his tired kind intelligent eyes. He’d been given a letter once, by a girl of fourteen, about a goblet. She had never asked him for one thing.
 
-“I find that I’m still in your debt, Miss Malfoy,” he said. “I wanted to say so. It’s been a bad year for those. If there should come a day when you’d like to collect, I hope you won’t stand on ceremony.” He smiled at her a little, with his grey face. “I’d take it as a kindness.”
+“I find I’m still in your debt, Miss Malfoy,” he said. “I wanted to say so. It’s been a bad year for those. If there should come a day when you’d like to collect, I hope you won’t stand on ceremony.” He smiled at her a little, with his grey face. “I’d take it as a kindness.”
 
 The Marks were always in the left arm. He’d know that. He had been in a war. She stood with her book held against her chest, in the slanting light, and looked at the only adult who had ever offered her anything without a clause in it; and it was quite extraordinary how much she wanted to sit down on the floor.
 
@@ -184,11 +184,11 @@ She hadn’t known that she was going to say that. It had just been lying there,
 
 Somebody went by behind them with a trolley. Neither of them turned her head. Lyra could hear it go, all the way to the end of the bay, with one wheel ticking.
 
-“It doesn’t pass off. I looked that up when I was eleven. You’d need another person, and I was the other person; I was standing a yard away. It takes four seconds. I’ve timed it.” Her voice was quite dry. She had her eyes on Lyra’s, level and brown and adding. “I had powder in my hand, and I looked at you, and I looked at the fire. I thought, she’ll keep. I thought that Sirius might not. I want you to know that I did that on purpose, and I didn’t do it in a hurry. I’d do the same again. He was dying, and you weren’t, and if I’d had four seconds I’d have spent them on the right person. I’ve been through it a great many times, and it comes out.” She stopped. She looked down at the pen. “He died anyway.”
+“It doesn’t pass off. I looked that up when I was eleven. You’d need another person, and I was the other person; I was standing a yard away. It takes four seconds. I’ve timed it.” Her voice was quite dry. She had her eyes on Lyra’s, level and brown and adding. “I had powder in my hand, and I looked at you, and I looked at the fire. I thought, she’ll keep. I thought that Sirius might not. I want you to know I did that on purpose, and I didn’t do it in a hurry. I’d do the same again. He was dying, and you weren’t, and if I’d had four seconds I’d have spent them on the right person. I’ve been through it a great many times, and it comes out.” She stopped. She looked down at the pen. “He died anyway.”
 
 The rain had got heavier. There was a Ravenclaw at the next table, moving his lips.
 
-Lyra hadn’t the least idea what her face was doing. She thought that it must be all right. It usually was.
+Lyra hadn’t the least idea what her face was doing. She thought it must be all right. It usually was.
 
 “How tidy,” she said. “Was that all?”
 
@@ -200,7 +200,7 @@ Granger picked up the pen, and turned it over. It took her some time to do that.
 
 She raised her eyes.
 
-“Part of me wanted you to know what it was like,” said Hermione Granger. “There was about a second. I don’t know how big a part. I’ve been trying to work it out. It wasn’t why I went. I’m nearly sure that it wasn’t why I went. But it was there, and I looked at it, and I threw the powder.” She laid down the pen again. Her hand was not perfectly steady. “I’ve got both on the same page. I thought that you should see the page.”
+“Part of me wanted you to know what it was like,” said Hermione Granger. “There was about a second. I don’t know how big a part. I’ve been trying to work it out. It wasn’t why I went. I’m nearly sure it wasn’t why I went. But it was there, and I looked at it, and I threw the powder.” She laid down the pen again. Her hand was not perfectly steady. “I’ve got both on the same page. I thought you should see the page.”
 
 Lyra sat quite still.
 
@@ -224,11 +224,11 @@ She had come off her rounds. She’d been up there rather longer than she had an
 
 Something moved, by the skirting.
 
-She stopped. It didn’t run. It had been going along the bottom of the wall, close in, with its hindquarters low, and it stopped too, about four yards from her. It sat up. It was a large grey dirty rat, rather bald about the tail, and it held its front paws up in front of its chest, and its nose went, and went. It looked at her. It had very small, wet, bright, sorry eyes.
+She stopped. It didn’t run. It had been going along the bottom of the wall, close in, with its hindquarters low, and it stopped too, about four yards from her, and sat up: a large grey dirty rat, rather bald about the tail, holding its front paws in front of its chest, while its nose went, and went. It looked at her with very small, wet, bright, sorry eyes.
 
-So it was the same. She had rather thought that it would be.
+So it was the same. She had rather thought it would be.
 
-She felt nothing much. She had felt it all in a linen cupboard. She stood with her book of rounds in the crook of her arm, and looked at the small soft creature that had sat by her fire. It had gone through a boy’s pockets, and heard everything that she’d ever said. *I love you*, and *Please come*; it had seen him with his glasses off. It had a coat that had been made for somebody else. It wasn’t even afraid of her, she thought; or no more than it was of everything. She supposed that it would be told what she did.
+She felt nothing much. She had felt it all in a linen cupboard. She stood with her book of rounds in the crook of her arm, and looked at the small soft creature that had sat by her fire. It had gone through a boy’s pockets, and heard everything that she’d ever said. *I love you*, and *Please come*; it had seen him with his glasses off. It had a coat that had been made for somebody else. It wasn’t even afraid of her, she thought; or no more than it was of everything. She supposed it would be told what she did.
 
 She had been caught out once, at thirteen, for not having counted. She’d said so to Weasley, with some heat.
 

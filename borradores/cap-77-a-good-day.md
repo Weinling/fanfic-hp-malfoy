@@ -4,7 +4,7 @@ There had been a second waistcoat. Nobody had known about that.
 
 It was mustard-coloured, with a brown stripe, and it was hanging on the back of a kitchen chair at Number Twelve, Grimmauld Place, with one button loose. Harry found it on the second of August, when he came in with his trunk. He didn’t move it. Nor did Lupin. For the next three weeks they ate their meals on either side of a chair that nobody sat in, and the dog with the torn ear lay down underneath it, on the first evening, with a sigh, and put its splint on the stone.
 
-It was his house. He’d been told that. He owned the stairs, and the elves’ heads on the wall, and the long dim hall with the curtains that screamed. He owned a smell of cats and cold soot. He went from room to room in the first few days and looked at what he had. In the bedroom at the top somebody had left a tumbler by the bed, with a dead fly in it, and on the wall there was a Muggle motorbike, cut out of a magazine. He stood and looked at that. He had stood here before. He’d stood in this room at seventeen, in the other life, and found a bit of a letter; he remembered how his hands had felt. He shut the door.
+It was his house, he’d been told. He owned the stairs, and the elves’ heads on the wall, and the long dim hall with the curtains that screamed, and a smell of cats and cold soot. He went from room to room in the first few days and looked at what he had. In the bedroom at the top somebody had left a tumbler by the bed, with a dead fly in it, and a Muggle motorbike, cut out of a magazine, on the wall. He had stood in this room at seventeen, in the other life, and found a bit of a letter; he remembered how his hands had felt. He shut the door.
 
 Kreacher came on the fourth day.
 
@@ -24,13 +24,13 @@ When it was over the elf stayed where he was, twisting his long fingers in his r
 
 Harry put down the cup.
 
-“The bad master came through the kitchen, the last day, running. He had a letter from Mistress’s niece. He said that it was found. He said that Kreacher should see it, after, he said so, he laughed at Kreacher, he said *your little master could write, you know*. Kreacher has looked. Kreacher has been in all the pockets.” He looked up. It was the first time that he had ever met Harry’s eye, in either life, and there was nothing in his face but a sort of terrible hope. “Where has he put it?”
+“The bad master came through the kitchen, the last day, running. He had a letter from Mistress’s niece. He said it was found. He said that Kreacher should see it, after, he said so, he laughed at Kreacher, he said *your little master could write, you know*. Kreacher has looked. Kreacher has been in all the pockets.” He looked up. It was the first time he had ever met Harry’s eye, in either life, and there was nothing in his face but a sort of terrible hope. “Where has he put it?”
 
 There had been a corner of old paper sticking out of a pocket. Harry had seen it. He’d been standing about a yard away.
 
 “He had it on him,” said Harry.
 
-He watched that go in. It took a little while. He’d told a lot of people a lot of things lately, and he found that it didn’t get any easier if you did it in a kitchen. Kreacher stood quite still. Then he turned, and he went away along the passage, keeping very close to the wall, and the door of the boiler cupboard closed; and Lupin, who had been at the stove the whole time with his back to them, stirring something, went on stirring.
+He watched that go in. It took a little while. He’d told a lot of people a lot of things lately, and he found it didn’t get any easier if you did it in a kitchen. Kreacher stood quite still. Then he turned, and he went away along the passage, keeping very close to the wall, and the door of the boiler cupboard closed; and Lupin, who had been at the stove the whole time with his back to them, stirring something, went on stirring.
 
 “He’ll want feeding,” said Lupin, after a moment. “He won’t let you. Leave it on the step.”
 
@@ -40,7 +40,7 @@ He was a dreadful cook. He did it every night. He’d got very grey, and he had 
 
 The results came on the fifth of August, by a brown owl, while Harry was looking at some toast.
 
-There were ten lines, in purple, with a Ministry crest. He’d got an O in Defence Against the Dark Arts, and in Herbology, for some reason. He had got an E in Potions, and he read that twice. He went on down. He got to the last line but one. He looked at that, and something odd began to happen in the region of his chest, and he put the paper down, with care, and got his hand over his mouth.
+There were ten lines, in purple, with a Ministry crest. He’d got an O in Defence Against the Dark Arts, and in Herbology, for some reason. He had got an E in Potions, and he read that twice. He went on down. He got to the last line but one. He looked at it, and something odd began to happen in the region of his chest, and he put the paper down, with care, and got his hand over his mouth.
 
 *History of Magic: D.*
 
@@ -60,7 +60,7 @@ Moody came that Friday, down the area steps, in a filthy temper and a borrowed h
 
 Harry had been expecting it. He’d had nine days to get ready.
 
-They had taken over the back kitchen. Moody sat down on the coal bunker with his bad leg out in front of him and the blue eye going round the walls, and he took a pull at his flask. He’d had six people over that field, he said. Kingsley had been on his hands and knees. There wasn’t a thing there, not a stone, and there were sixty acres on the Ordnance Survey that nobody could make walk straight; you could set off across them with a compass and find that you had been thinking about something else. Malfoy Manor had been standing on that spot since the Conquest. It wasn’t there now. Somebody had put it in their pocket. He had one lad who’d been sitting in a hedge in Little Whinging, on the night of the thirty-first, and been run over by a Firebolt. So he’d like to know how Harry had got on to it.
+They had taken over the back kitchen. Moody sat down on the coal bunker with his bad leg out in front of him and the blue eye going round the walls, and he took a pull at his flask. He’d had six people over that field, he said. Kingsley had been on his hands and knees. There wasn’t a thing there, not a stone, and there were sixty acres on the Ordnance Survey that nobody could make walk straight; you could set off across them with a compass and find you had been thinking about something else. Malfoy Manor had been standing on that spot since the Conquest. It wasn’t there now. Somebody had put it in their pocket. He had one lad who’d been sitting in a hedge in Little Whinging, on the night of the thirty-first, and been run over by a Firebolt. So he’d like to know how Harry had got on to it.
 
 “I had a ring,” said Harry.
 
@@ -90,13 +90,13 @@ Moody said nothing for some time. He sucked his teeth.
 
 Neville arrived on the fifteenth, out of the kitchen fire, backwards, carrying a pot.
 
-He had a small suitcase, and a clean collar, and he stood on the hearth coughing and apologising to Lupin. His gran had said he could. She had read something about Harry in the *Prophet*, and she’d said that it was a disgrace, and that a boy of that age shouldn’t be rattling round a house with a werewolf, no offence, and that he could go till Thursday if he wiped his feet. His jaw had set a bit crooked. It gave him a thoughtful look. He had the list from the drawer in his suitcase, and he’d been making notes on it; he had worked out that you could have the third-years on the Thursday if you moved Dean. The grey thing had put out two new stalks. He stood it on the dresser, where it could look at the wall, and within an hour it had eaten a tea towel, and on the Friday the two of them took it up to the first-floor landing and held it in front of the curtains, as an experiment.
+He had a small suitcase, and a clean collar, and he stood on the hearth coughing and apologising to Lupin. His gran had said he could. She had read something about Harry in the *Prophet*, and she’d said it was a disgrace, and that a boy of that age shouldn’t be rattling round a house with a werewolf, no offence, and that he could go till Thursday if he wiped his feet. His jaw had set a bit crooked. It gave him a thoughtful look. He had the list from the drawer in his suitcase, and he’d been making notes on it; he had worked out that you could have the third-years on the Thursday if you moved Dean. The grey thing had put out two new stalks. He stood it on the dresser, where it could look at the wall, and within an hour it had eaten a tea towel, and on the Friday the two of them took it up to the first-floor landing and held it in front of the curtains, as an experiment.
 
 There was a very great deal of screaming. *BLOOD TRAITORS! FILTH! ABOMINATIONS OF—* It broke off. There was a thick crunching sound, and a long, outraged gurgle. A fair-sized piece of black velvet went slowly down the plant’s throat, and it sat there, looking pleased. Neville had gone pink to the ears. “Oh, I say,” said Neville. “Sorry. I’m so sorry,” and he and Harry looked at each other, and then at the hole in the curtain, through which one furious yellowed eye was glaring out; and Harry had to go and sit on the stairs.
 
 That was the second laugh since June, he thought. He’d got into the way of counting.
 
-Neville came to Diagon Alley with him on the Monday, because somebody had to. It wasn’t what it had been. A good third of the shops had got boards up, and the rest had a lot of purple posters on their windows, about what to do in the event of. Florean Fortescue’s had a plank across the door, and someone had written a word on it; but they had left the little iron tables out on the terrace, because who’d take them, and Harry sat down at one in a thin bright sun, with his book list, because it was where he had once sat and looked at a girl across the road. He told himself that it was to rest his leg. Neville sat opposite and didn’t ask him which.
+Neville came to Diagon Alley with him on the Monday, because somebody had to. It wasn’t what it had been. A good third of the shops had got boards up, and the rest had a lot of purple posters on their windows, about what to do in the event of. Florean Fortescue’s had a plank across the door, and someone had written a word on it; but they had left the little iron tables out on the terrace, because who’d take them, and Harry sat down at one in a thin bright sun, with his book list, because it was where he had once sat and looked at a girl across the road. He told himself it was to rest his leg. Neville sat opposite and didn’t ask him which.
 
 He heard her before he saw her. It was only heels. He’d have known them on the moon.
 
@@ -114,7 +114,7 @@ That was the script. It wasn’t on any bit of paper. It was what they did. He k
 
 “Only the ones who’ve been at your dad’s.” He looked her up and down. He leaned back, so that the iron chair creaked; he was aware of Neville, across the table, going very slowly red. “Nice parasol. Did they let you have that in the cell, or is it just for the visits?”
 
-Somebody drew in a breath. It was a good one. It would be round the shops by lunch. She turned her head at last and looked at him; and the corner of her mouth lifted by about a sixteenth of an inch; he’d seen her do that in the middle of a duel. It was perfect. It was every bit of it perfect. It was the same as it had been in January, when they’d rehearsed it, on their stomachs, with a sheet of paper, and he had laughed so much that he had got the hiccups. Her eyes were on his. There wasn’t anybody in them.
+Somebody drew in a breath. It was a good one, and it would be round the shops by lunch. She turned her head at last and looked at him, and the corner of her mouth lifted by about a sixteenth of an inch, as he’d seen it do in the middle of a duel. It was every bit of it perfect. It was the same as it had been in January, when they’d rehearsed it, on their stomachs, with a sheet of paper, and he had laughed until he got the hiccups. Her eyes were on his. There wasn’t anybody in them.
 
 He didn’t know why he said it. It wasn’t in the script.
 
@@ -134,13 +134,13 @@ Neville was looking at his hands. After a while he reached across, without sayin
 
 The fire went up green at twenty to eleven on the Thursday night, and it was Ginny.
 
-He was by himself. Lupin had gone north for the Order, with a sandwich; Neville had gone home. He had the long kitchen table to himself, with the lamp turned down and the Potions list, and he was doing something with a cold cup. He heard the hearth cough. He looked up. She stepped out on to the stone, and brushed the soot off one shoulder, and stood there with her hands by her sides, looking at him. She’d got a Muggle anorak on, and her hair tied back. She had grown. He’d thought of her, all summer, as about eleven.
+He was by himself. Lupin had gone north for the Order, with a sandwich, and Neville had gone home, and he had the long kitchen table to himself, with the lamp turned down and the Potions list, and was doing something with a cold cup. The hearth coughed. She stepped out on to the stone, brushed the soot off one shoulder, and stood with her hands by her sides, looking at him, in a Muggle anorak, with her hair tied back. She had grown. He’d thought of her, all summer, as about eleven.
 
 The dog got up and went to her. She put a hand down, not looking, and let it smell that.
 
-“Mum thinks I’m at Luna’s,” said Ginny. “Luna thinks that I’m looking for something. I’ve got about an hour. Don’t get up.”
+“Mum thinks I’m at Luna’s,” said Ginny. “Luna thinks I’m looking for something. I’ve got about an hour. Don’t get up.”
 
-He hadn’t. He found that he couldn’t have. She pulled out a chair, not the one with the waistcoat. She looked at that, for a moment, as she went by. She sat down across from him and set her elbows on the table, and laced her fingers. They had ink on them. She had very direct eyes. He had thought about them once a good deal, in another life, and it hadn’t helped.
+He hadn’t. He found he couldn’t have. She pulled out a chair, not the one with the waistcoat. She looked at it, for a moment, as she went by. She sat down across from him and set her elbows on the table, and laced her fingers. They had ink on them. She had very direct eyes. He had thought about them once a good deal, in another life, and it hadn’t helped.
 
 “Ron told me,” she said. “In July. It took him a month. He came and sat on the end of my bed at the Burrow, and he told me all about it, with his ears going; he’d got it written on his hand. I asked Hermione, and she didn’t say it wasn’t so. She wrote back four lines. So you needn’t do your face. I know about the other time, I know about my first year, and I know you were standing next to me in Flourish and Blotts. I want to ask you three things. Then I’m going home.”
 
@@ -166,7 +166,7 @@ Water was dripping somewhere in the scullery.
 
 He opened his mouth.
 
-He had an answer. He’d been going to say yes. He had the words ready, it was what you would say. *You were fine. You were brilliant. You played Chaser, and you were the best in the D.A. You were funny, and everybody—* There was a hot wet stone, and a girl on it, in another life; and then there had been a Ginny who laughed at things, who’d had a Bat-Bogey Hex. He’d gone out with her for a bit. He looked for the thing that came after that. He went along the whole of it, six years, from one end to the other. He had sat next to her at breakfast. He had kissed her, in front of the entire common room, and he had thought that it was the best thing that had ever happened. He’d been told, he remembered, that she’d been a bit quiet, her second year.
+He had an answer. He’d been going to say yes. He had the words ready, it was what you would say. *You were fine. You were brilliant. You played Chaser, and you were the best in the D.A. You were funny, and everybody—* There was a hot wet stone, and a girl on it, in another life; and then there had been a Ginny who laughed at things, who’d had a Bat-Bogey Hex. He’d gone out with her for a bit. He looked for the thing that came after that. He went along the whole of it, six years, from one end to the other. He had sat next to her at breakfast. He had kissed her, in front of the entire common room, and he had thought it was the best thing that had ever happened. He’d been told, he remembered, that she’d been a bit quiet, her second year.
 
 “I don’t know,” said Harry.
 
@@ -180,7 +180,7 @@ She looked at him for rather a long time.
 
 She unlaced her fingers, and looked at the ink on them. She rubbed it with her thumb.
 
-“I burn my essays,” she said. “That’s another thing you didn’t ask. I write it all out, whatever it is. It might be Charms. Then I go over it with a pencil, every letter, to see if I know the hand. Then I burn it, so that it can’t answer. I’ve done that for three years. I’m getting O’s, you’ll be glad to hear. Hermione knows. Did she tell you? No, she wouldn’t. She came and sat with me after, when I was eleven, when she came out of the Hospital Wing. She didn’t say anything. She held my hand, every night, for a fortnight, in the dormitory. She’d read somewhere that you ought to. She’d have been thirteen. I thought that she was the only person in that whole school who—” It stopped. She breathed in through her nose. “She told me, in the four lines, what she’s known and how long for. It was two years too late to be part of it. So I’ve still got the fortnight. I’ve told her what that was.”
+“I burn my essays,” she said. “That’s another thing you didn’t ask. I write it all out, whatever it is. It might be Charms. Then I go over it with a pencil, every letter, to see if I know the hand. Then I burn it, so that it can’t answer. I’ve done that for three years. I’m getting O’s, you’ll be glad to hear. Hermione knows. Did she tell you? No, she wouldn’t. She came and sat with me after, when I was eleven, when she came out of the Hospital Wing. She didn’t say anything. She held my hand, every night, for a fortnight, in the dormitory. She’d read somewhere that you ought to. She’d have been thirteen. I thought she was the only person in that whole school who—” It stopped. She breathed in through her nose. “She told me, in the four lines, what she’s known and how long for. It was two years too late to be part of it. So I’ve still got the fortnight. I’ve told her what that was.”
 
 He couldn’t have said anything if you’d paid him.
 
@@ -194,7 +194,7 @@ No one had asked him that. Dumbledore had asked him what he’d said. He had tol
 
 He looked at the mustard waistcoat, on its chair. There was nobody else in the house. It was a quarter past eleven, and he hadn’t laughed for a while. He could feel his heart, going slowly and hard. And he thought, with a dull surprise, that there was one person alive who could not be told anything that would make her think worse of him. It would be like putting down a heavy bag on somebody else’s floor.
 
-So he told her. He hadn’t told anybody. He told it to the lamp. He told her that he’d run up the stairs after Bellatrix Lestrange, because he had decided to, and that he wanted that clear. He told her how it had been in the gold room: and then that it had stopped being him. His arm had come up by itself, as if it had been lifted by someone who knew the way. He told her there was a word. He told her what it had done to a woman’s face, with half of it unsaid. He told her what the worst of it was. There had been a voice. It was very quiet. It wasn’t Voldemort’s, and it wasn’t his. It had come from just here, behind his right ear, and it had said one word. It had sounded so pleased.
+So he told her. He hadn’t told anybody. He told it to the lamp: that he’d run up the stairs after Bellatrix Lestrange because he had decided to, and that he wanted that clear; and how it had been in the gold room, and then that it had stopped being him. His arm had come up by itself, as if it had been lifted by someone who knew the way. He told her there was a word, and what it had done to a woman’s face with half of it unsaid. Then he told her the worst of it. There had been a voice, very quiet, that wasn’t Voldemort’s and wasn’t his. It had come from just here, behind his right ear, and it had said one word, and it had sounded so pleased.
 
 He put up his hand and touched the place. It didn’t feel like anything.
 
@@ -206,6 +206,6 @@ Ginny had not moved. He looked up. He had seen her ride a broom through a Bludge
 
 The dog had started to whine, under the chair, very softly.
 
-He thought that she might be going to get up. He thought that she might be sick. He’d have liked somebody to tell him what he’d just done. When her voice came it was quite small and quite clear, and there wasn’t any kindness in it at all.
+He thought she might be going to get up. He thought she might be sick. He’d have liked somebody to tell him what he’d just done. When her voice came it was quite small and quite clear, and there wasn’t any kindness in it at all.
 
 “It doesn’t sound like somebody else,” said Ginny. “That’s what nobody tells you. It sounds like you on a good day.”

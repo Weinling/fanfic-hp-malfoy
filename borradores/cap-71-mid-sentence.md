@@ -30,19 +30,19 @@ They went in at two. The four long rows of little desks had been set out again, 
 
 She was four rows in front of him and one to the left. He could see the back of her head.
 
-He knew a surprising amount. He did Bagnold. He spelt her right. He gave the three causes of the Goblin Rebellion of 1612. His quill went along with a dry, even, contented sound. It got to be twenty to three, and three; a bluebottle was walking on the rim of the inkwell, and he felt nothing at all but a little sleepy. He had begun to think that it might not come. He thought he would be rather annoyed. *Question 9*, said the paper. *Explain why the International Statute of Secrecy was thought necessary in 1689, and why*
+He knew a surprising amount. He did Bagnold. He spelt her right. He gave the three causes of the Goblin Rebellion of 1612. His quill went along with a dry, even, contented sound. It got to be twenty to three, and three; a bluebottle was walking on the rim of the inkwell, and he felt nothing at all but a little sleepy. He had begun to think it might not come. He thought he would be rather annoyed. *Question 9*, said the paper. *Explain why the International Statute of Secrecy was thought necessary in 1689, and why*
 
 He dipped his quill.
 
 *The wizarding community feared that Muggle persecution would*, wrote Harry, and his forehead split open.
 
-He had forgotten. You couldn’t remember it, that was the thing. You thought that you could, but it didn’t keep. He saw the sheet of parchment go a long way off. He saw the nib slide away from the *d* of *would*, trailing a thin black line. Then the floor of the Great Hall was coming up, or he was going down, and it was dark and enormously cool, and he was walking. He was tall. There was a lot of him, and he was pleased. His hand was long and white and he didn’t need to look at it. He went down some stone steps, at his leisure, with people on either side of him pressing themselves against the benches. There was a pit, and in the middle of the pit, on a raised place, there was an arch with something stirring in it.
+He had forgotten. You couldn’t remember it, that was the thing. You thought you could, but it didn’t keep. He saw the sheet of parchment go a long way off. He saw the nib slide away from the *d* of *would*, trailing a thin black line. Then the floor of the Great Hall was coming up, or he was going down, and it was dark and enormously cool, and he was walking. He was tall. There was a lot of him, and he was pleased. His hand was long and white and he didn’t need to look at it. He went down some stone steps, at his leisure, with people on either side of him pressing themselves against the benches. There was a pit, and in the middle of the pit, on a raised place, there was an arch with something stirring in it.
 
 He knew that room. He had known it for a while. He would know it till he died.
 
 *All right*, thought Harry, from a long way up, in a small clear voice. *All right, here we go. There you are.*
 
-It was different. He noted that. It should have been the shelves, with all the little glass balls, and the rows going by. He wasn’t bothered; it was the same road. There was Bellatrix Lestrange on the top step, with her dirty finger in her mouth and her eyes shining. She was laughing without any noise. She had something by the scruff. She gave it a shake, and it dropped, and it lay across the bottom of the arch, breathing in great wet pulls: a big black shaggy dog, with one foreleg going the wrong way, and its tongue on the stone.
+It was different, he noted. It should have been the shelves, with all the little glass balls and the rows going by, but he wasn’t bothered; it was the same road. Bellatrix Lestrange stood on the top step, with her dirty finger in her mouth and her eyes shining, laughing without any noise, and she had something by the scruff. She gave it a shake, and it dropped across the bottom of the arch, breathing in great wet pulls: a big black shaggy dog, with one foreleg going the wrong way, and its tongue on the stone.
 
 It was very good. It was extremely well done. You could see the burrs in its coat. *Nice try*, thought Harry. He’d got his teeth together. He felt the long white hand lift a little, and the wand turn over in the fingers, and he felt how much it was enjoying itself; and the thing he had been looking out of stopped.
 
@@ -86,7 +86,7 @@ Someone was running. There was a lot of echo. He went up the marble staircase, a
 
 She had never in her life come back with a note undelivered. She had done exactly what he’d told her. She’d have gone to the bothy. She’d have gone round it, and sat on the wall; she’d have waited, hours, she always waited. And he hadn’t been there. He had been there yesterday. He’d been there every day for twelve days, counting sheep. There was nowhere for him to go. Nobody knew. *Nobody knew.* There were three people in the whole world who knew about that hillside. One of them was Hermione, and one had put the roof on, and had not spoken to him since May. He had made sure of that. He had seen to it.
 
-He had looked at that dog, with its leg going the wrong way.
+He had looked at it dog, with its leg going the wrong way.
 
 It was a dream. It was a false one; he knew it was. He knew exactly how it was done. They’d sent it on purpose. He had given them the idea himself, on a rug, with a quill behind his ear.
 
@@ -220,7 +220,7 @@ He kissed her on the forehead, as you’d sign something. Her skin was cold.
 
 He stood up. He picked up the pot and straightened it on the shelf. On the wall a kitten in a bonnet mewed at him.
 
-Hermione hadn’t moved. He’d forgotten about her. She was standing by the fender, with the powder running slowly out between her fingers on to the hearth. He looked at her, and she looked back. She had seen him in a good many ways. She’d sat at a desk and watched him cry, and she had seen him in a corridor, in first year, with a girl’s wand in his hand. She looked down at the carpet. She looked for some time. She looked up at his face, at whatever was on it. He did not know what was on it. He couldn’t feel anything there at all.
+Hermione hadn’t moved. He’d forgotten about her. She was standing by the fender, with the powder running slowly out between her fingers on to the hearth, and when he looked at her she looked back. She had sat at a desk and watched him cry; she had seen him in a corridor, in first year, with a girl’s wand in his hand. She looked down at the carpet for some time, and then up at his face, at whatever was on it. He did not know what was on it. He couldn’t feel anything there at all.
 
 “It wears off,” said Harry.
 

@@ -6,7 +6,7 @@ It was the second week of July, and they had brought him back from the north in 
 
 She gave him the soup first. She had got better at it. You brought the spoon in from the side and you waited for the swallow. Then she wiped his chin, and moved his knight where he told her, and lifted the long book on to the stool, and turned the key. He had given her that without being asked. He kept it on a bit of black ribbon round his neck, and on the first afternoon he had looked at it, and at her, and she had taken it off over his head.
 
-She found the place. It was about two-thirds of the way through, on the good thick cream-coloured paper, and it began in a tall sloping foreign hand. *I, Igor Karkaroff, do acknowledge myself indebted to the House of Malfoy, for a word spoken in the right ear, in the matter of my release, January 1982. Repayable on demand.* He had signed it with a flourish. He had been thirty-eight, and just out of a cell, and she supposed that it had seemed a small thing to sign. All the rest of the page was in her grandfather’s writing, one line under another, at intervals of a year or two. The first few were as firm as print.
+She found the place. It was about two-thirds of the way through, on the good thick cream-coloured paper, and it began in a tall sloping foreign hand. *I, Igor Karkaroff, do acknowledge myself indebted to the House of Malfoy, for a word spoken in the right ear, in the matter of my release, January 1982. Repayable on demand.* He had signed it with a flourish. He had been thirty-eight, and just out of a cell, and she supposed it had seemed a small thing to sign. All the rest of the page was in her grandfather’s writing, one line under another, at intervals of a year or two. The first few were as firm as print.
 
 “*Sept. 1985*,” read Lyra. “*A list of the boys at Durmstrang with English connections. Paid.*”
 
@@ -30,7 +30,7 @@ There was a fly on the sill. It walked as far as the first of the bars, and cons
 
 *24 June 1995. Received, at the boat: one right hand. Paid in full.*
 
-She had been fourteen. She’d worn the grey. She had walked down to that ship with a sealed letter in her sleeve, over the frost, feeling rather pleased with herself, because she had a plan about dragons. A man with a goatee had kissed her fingers. She had thought that she was the one using him. She looked at the two letters, *L.M.*, for some time. They weren’t even underlined.
+She had been fourteen. She’d worn the grey. She had walked down to that ship with a sealed letter in her sleeve, over the frost, feeling rather pleased with herself, because she had a plan about dragons. A man with a goatee had kissed her fingers. She had thought she was the one using him. She looked at the two letters, *L.M.*, for some time. They weren’t even underlined.
 
 “You might have told me what I was carrying,” said Lyra.
 
@@ -50,7 +50,7 @@ And underneath, in a hand that she had always considered to be the best in Slyth
 
 *Yours. L. Malfoy. Not repayable.*
 
-She didn’t know what she had expected. She had lain awake over it. She had read every page that he’d let her see, about what that paper did, and to whom. It collected when the debtor died, and it kept what it collected; it had kept Thomas Greengrass since 1688. It was the same paper. She had taken it from the same drawer. She had looked at that for a week, in the small hours, with an island of cold under her ribs that had the house in it. She needed to know what she had signed, and what he had.
+She didn’t know what she had expected. She had lain awake over it. She had read every page that he’d let her see, about what that paper did, and to whom. It collected when the debtor died, and it kept what it collected; it had kept Thomas Greengrass since 1688. It was the same paper. She had taken it from the same drawer. She had looked at it for a week, in the small hours, with an island of cold under her ribs that had the house in it. She needed to know what she had signed, and what he had.
 
 A thin high wheezing had begun. She looked up, in some alarm. His whole frame had started to shake, inside the strips of linen, and his mouth had come open, and for an instant she thought that this was the end of it, and that she would have to go and find somebody. There was water running out of his eyes. It went down along the marks. *Not*, he was saying. *Not re*— He got his breath, with a noise like a saw, and it set him off again. It was the most dreadful sound; he laughed and laughed, and she had to get up and put her arm behind his neck, and hold the cup for him. Most of it went down his front.
 
@@ -98,7 +98,7 @@ He was turning his own by the stem. He didn’t seem to be surprised. He looked 
 
 “The box.”
 
-She had the whole of it ready. She had gone through it in the nursery, and on the stairs, and she laid it out in front of him, in order, under headings, in the voice she kept for Snape. She had always been able to do that. The child was twelve. He was very truthful, and he would do exactly as he was told, and it was an excellent thing in a boy; but he would be walking the length of the Great Hall, with a box in his arms, under the eyes of the best Legilimens in Britain after one. What he would find was a boy who didn’t know what was in it, who had been told to say that it was from the second year. There was no second year. Nobody had taken up a subscription. It would take one question from Minerva McGonagall. It had no second string. If the old man was not hungry on the night, or passed it down the table, or set it aside for the morning, then that was six months’ work gone and no one left to pick it up. Draco couldn’t pick it up. He couldn’t improvise. He had never needed to. She was a prefect. She’d be Quidditch captain, she had every reason to believe. She went in and out of that man’s office with reports. She’d been lying to a Headmaster since she was thirteen, and to an Auror with a magic eye, and she had yet to be caught in anything but a good hemline.
+She had the whole of it ready. She had gone through it in the nursery, and on the stairs, and she laid it out in front of him, in order, under headings, in the voice she kept for Snape. The child was twelve. He was truthful, and he would do exactly as he was told, which was an excellent thing in a boy; but he would be walking the length of the Great Hall with a box in his arms, under the eyes of the best Legilimens in Britain after one, who would find a boy who didn’t know what was in it, and who had been told to say it was from the second year. There was no second year. Nobody had taken up a subscription, and it would take one question from Minerva McGonagall. If the old man was not hungry on the night, or passed it down the table, or set it aside for the morning, then that was six months’ work gone, and Draco couldn’t pick it up, because he couldn’t improvise; he had never needed to. Whereas she was a prefect, and would be Quidditch captain, she had every reason to believe. She went in and out of that man’s office with reports. She’d been lying to a Headmaster since she was thirteen, and to an Auror with a magic eye, and she had yet to be caught in anything but a good hemline.
 
 “And I have the house,” said Lyra. “I can’t very well be replaced. You may as well have the use of me.”
 
@@ -112,7 +112,7 @@ She had known that he would ask. She had been told. She stood there, in the good
 
 Her voice shook. She let it.
 
-“I was. I had a reason, and I know what it was, and I daresay you think that I’ll be sorry for that for the rest of my life. I am. But you came in at half past, and you looked at my chair, and you said good evening to my brother. You told him he would do. He’s *twelve*. He cuts up his bread. I have been doing this since I was eight years old. I learnt it on a stool. I took down Umbridge and I gave you Bode and I burnt my own— I did your Crucio on my own father, the second time, at this table, because you asked. And you’ve given it to a child who doesn’t know what it’s *for*.”
+“I was. I had a reason, and I know what it was, and I daresay you think I’ll be sorry for that for the rest of my life. I am. But you came in at half past, and you looked at my chair, and you said good evening to my brother. You told him he would do. He’s *twelve*. He cuts up his bread. I have been doing this since I was eight years old. I learnt it on a stool. I took down Umbridge and I gave you Bode and I burnt my own— I did your Crucio on my own father, the second time, at this table, because you asked. And you’ve given it to a child who doesn’t know what it’s *for*.”
 
 She had started to cry. It hadn’t been in the plan. It was running down her face, and she could do nothing about it. She didn’t put up her hand. She had got her chin up, and it was shaking, and she saw Avery look at his plate. She looked down the whole length of that table at the long white face.
 
@@ -132,15 +132,15 @@ She had been told about that. She’d been told to think about what had been hap
 
 He got up. He came down the room, along the row of chairs, trailing one finger, and he stopped behind her brother’s place; it was empty; the boy had been sent to bed. He laid his hand on the back of it. He stood looking at her, and his red eyes were warm.
 
-“Of course it was. Nobody ever asked for anything of me so prettily. Very well. The boy shall keep his Herbology and his bread and butter; I’ve no further use for him, and I shan’t put anything on his arm.” He let that rest for a moment. He smiled at her mother. “You see, Narcissa, I’m not unreasonable. I hadn’t forgotten about Lyme. A cousin, and the old wax, and a dressmaker in Charmouth. I don’t think that we need to go into that at table. We’ll let it stand. On credit; you’re a family who understands these things. I shall tell you when it falls due.” And to Lyra, gently, as one reminds a child about its manners: “There’s the small matter of showing me what you can do. Then you’ll want something to wear.”
+“Of course it was. Nobody ever asked for anything of me so prettily. Very well. The boy shall keep his Herbology and his bread and butter; I’ve no further use for him, and I shan’t put anything on his arm.” He let that rest for a moment. He smiled at her mother. “You see, Narcissa, I’m not unreasonable. I hadn’t forgotten about Lyme. A cousin, and the old wax, and a dressmaker in Charmouth. I don’t think we need to go into that at table. We’ll let it stand. On credit; you’re a family who understands these things. I shall tell you when it falls due.” And to Lyra, gently, as one reminds a child about its manners: “There’s the small matter of showing me what you can do. Then you’ll want something to wear.”
 
 ⁂
 
 It took her twelve days.
 
-He wanted someone from the Ministry. He didn’t much mind who; he thought it would be instructive if it were somebody good. She asked him for the list, and she sat down with it at her father’s desk, with the purple ribbon cut and the summer going on outside, and she found that she knew which name it was going to be before she got to the bottom. A square grey woman with a monocle had once walked up a long Hall and held out a notebook to a boy with one good hand. *I’ve left my other glasses in the office.* She had received a parcel, that March, with nothing on the outside and four lines within, in a plain round careful hand. She had acted on it within the day, and she had never found out where it came from.
+He wanted someone from the Ministry. He didn’t much mind who; he thought it would be instructive if it were somebody good. She asked him for the list, and she sat down with it at her father’s desk, with the purple ribbon cut and the summer going on outside, and she found she knew which name it was going to be before she got to the bottom. A square grey woman with a monocle had once walked up a long Hall and held out a notebook to a boy with one good hand. *I’ve left my other glasses in the office.* She had received a parcel, that March, with nothing on the outside and four lines within, in a plain round careful hand. She had acted on it within the day, and she had never found out where it came from.
 
-Lyra had five years of that hand. She had it in a box, in bundles, tied with tape: Potions, Herbology, the Goblin Wars. She got it out. She sat with it for three evenings, with a good nib and the blinds half down, doing *a*’s and *g*’s, until she could do the small hitch that Crabbe made in a capital *M* with her eyes shut. It wasn’t difficult. It was the plainest hand in the world. She found that she had started to breathe through her mouth, as Crabbe did when she wrote.
+Lyra had five years of that hand. She had it in a box, in bundles, tied with tape: Potions, Herbology, the Goblin Wars. She got it out. She sat with it for three evenings, with a good nib and the blinds half down, doing *a*’s and *g*’s, until she could do the small hitch that Crabbe made in a capital *M* with her eyes shut. It wasn’t difficult. It was the plainest hand in the world. She found she had started to breathe through her mouth, as Crabbe did when she wrote.
 
 The first note was true. It said that a certain house near Whitby was not what it appeared; it had taken her some time to find one that he could spare. Aurors went there on the Thursday, and found two of his people, and a quantity of what they had been making. It was in the *Prophet*. So that was the source proved. The same friend had brought down Umbridge, and the same friend had now handed the Ministry its first arrest since June.
 
@@ -152,9 +152,9 @@ That left the one in Pimlico. It had a blue door. Madam Bones chose it herself. 
 
 It was the best thing that Lyra had ever done with her head. She knew that. She had never done anything so clean. She had made a very able, very careful person do precisely what she ought; she had not told one lie that mattered. She sat in the window seat on the morning of the twenty-sixth with the *Prophet* on her knee.
 
-*AMELIA BONES FOUND DEAD. Locked Room Baffles Aurors.* It said that the Head of the Department of Magical Law Enforcement had been a Hufflepuff, and a magistrate of the old school. There was a photograph. She looked up at you through the monocle, without any particular expression, and looked down at something on her desk, and went on reading. It said that she had been found at her table, with her pen in her hand, and that she left a niece, Susan, 16, a pupil at Hogwarts School, who had been told at home.
+*AMELIA BONES FOUND DEAD. Locked Room Baffles Aurors.* It said that the Head of the Department of Magical Law Enforcement had been a Hufflepuff, and a magistrate of the old school. There was a photograph. She looked up at you through the monocle, without any particular expression, and looked down at something on her desk, and went on reading. It said she had been found at her table, with her pen in her hand, and that she left a niece, Susan, 16, a pupil at Hogwarts School, who had been told at home.
 
-She read it to the end. She looked for the place in herself. She had been told that it was like pouring, and she supposed that it had been. It was a fine hot morning. Down on the lawn the white peacock’s mate was walking about, looking for something.
+She read it to the end. She looked for the place in herself. She had been told that it was like pouring, and she supposed it had been. It was a fine hot morning. Down on the lawn the white peacock’s mate was walking about, looking for something.
 
 There was a plait, she remembered. There had been a girl who stood up, crying, with a glove.
 
@@ -166,7 +166,7 @@ She folded the paper, so that the photograph was inside.
 
 Draco had been told at breakfast.
 
-She found that out from Pobble. She went up. It was the first time that she’d been up to that end of the passage since the first night. She knocked, and there was no reply, and she turned the handle, and went in.
+She found that out from Pobble. She went up. It was the first time she’d been up to that end of the passage since the first night. She knocked, and there was no reply, and she turned the handle, and went in.
 
 He was sitting on the floor with his back against his bed. He had got the pale box out from under it, and he had taken off the lid, as he’d been told not to. There was nobody left to tell him. They lay in their pleated paper, two layers of them, and he was looking at them with his hands on his knees. He had the tin beside him. There were twenty-one biscuits left in it; he hadn’t had one since June. He didn’t look up.
 
@@ -178,7 +178,7 @@ He moved one of them, a very little, in its paper.
 
 “He said I’d do.”
 
-It was very quiet. She stood with her hand on the door. All the way up the stairs she had been thinking that she didn’t need him to thank her. She was prepared not to be thanked. It wasn’t an emotion that she’d ever thought of as being difficult. She had seen a good deal of what was going to happen to him, on a sheet of cream paper, and she had taken it out of his hands. She knew exactly what she’d paid. He was going to go back to school in September, and he’d be twelve. He would be late for Herbology. He would have a clean left arm, for as long as she could keep it so.
+It was very quiet. She stood with her hand on the door. All the way up the stairs she had been telling herself that she didn’t need him to thank her, and that she was prepared not to be thanked, which had never struck her as a difficult emotion. She had seen what was going to happen to him, on a sheet of cream paper, and she had taken it out of his hands. He was going back to school in September, and he’d be twelve, and late for Herbology, with a clean left arm, for as long as she could keep it so.
 
 “I know he did. It wasn’t— Draco, you don’t know what that was. It isn’t a nice thing. It’s not what you think it is. When you’re older I’ll—”
 
@@ -190,20 +190,20 @@ He had raised his head. She had been expecting tears. He had always been a crier
 
 She had opened her mouth. There wasn’t anything in it.
 
-He had been there. He’d been sent to bed. *The boy has been sent to bed*, she had thought. She had looked at that empty chair. She thought of the service door behind the sideboard, and the way that a house could be listened to; she thought of a very small boy who had been finding his way round this one, in the dark, for years, and knew where all the panels were.
+He had been there. He’d been sent to bed. *The boy has been sent to bed*, she had thought. She had looked at it empty chair. She thought of the service door behind the sideboard, and the way that a house could be listened to; she thought of a very small boy who had been finding his way round this one, in the dark, for years, and knew where all the panels were.
 
 “You take everything,” said Draco.
 
-He said it without any heat. It was only a thing he had noticed. He got to his feet. He put the lid on the box, and pressed down each corner, and he carried it to the door, past her, holding it in both hands. She moved aside. It didn’t occur to her until afterwards that she’d done that. He held it out. After a moment she took it, because she was being handed it. It weighed very little.
+He said it without any heat, as a thing he had noticed. He got to his feet. He put the lid on the box, and pressed down each corner, and he carried it to the door in both hands, past her; she moved aside, and it didn’t occur to her until afterwards that she’d done that. He held it out. After a moment she took it, because she was being handed it. It weighed very little.
 
 “There are twenty-four,” said Draco. “I counted.”
 
 He looked up at her, from a height of four foot six, and his face was clean and quite polite.
 
-Then he closed the door, and she stood on the passage carpet and heard the key go round. There was a pause, about as long as it takes to reach up. It went round again.
+Then he closed the door, and she stood on the passage carpet and heard the key go round. There was a pause, while somebody reached up. It went round again.
 
 She hadn’t known that it did that. It had a second turn. He must have had it oiled.
 
 She was still standing there when she noticed that the passage had got colder. She didn’t turn round. There was the faintest possible smell of clean leather. He’d come up by the back stairs, she supposed; he went about the house a good deal in the afternoons. He stood looking at the door for a while, in a friendly way, with his hands behind him.
 
-“Such a good boy,” said the Dark Lord. “You’ll want a little time to get ready. Let me see. Wednesday, I think.” He turned his head, and she felt his eyes rest on her left arm, on the inside, a few inches above the wrist, where the sleeve lay against the skin. He seemed to be choosing a place. “It’s somebody’s birthday.”
+“Such a good boy,” said the Dark Lord. “You’ll want a little time to get ready. Let me see. Wednesday, I think.” He turned his head, and she felt his eyes rest on her left arm, on the inside, just above the wrist, where the sleeve lay against the skin. He seemed to be choosing a place. “It’s somebody’s birthday.”

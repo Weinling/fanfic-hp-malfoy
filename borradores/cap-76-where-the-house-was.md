@@ -2,7 +2,7 @@
 
 The plant arrived at breakfast on the morning that Harry turned sixteen, and it bit Uncle Vernon.
 
-It came by owl, a very tired one, in a pot with a sock over the top, and there was a card tied to the stem. *Happy Birthday Harry. It likes the dark. It bites. Sorry. N.* Uncle Vernon had picked it up to see what it was. He stood in the kitchen with his thumb in his mouth and his neck going slowly purple, and he said a number of things about the post, and Aunt Petunia took the pot between two oven gloves and put it out on the back step. Dudley watched this over a grapefruit. He had got very large across the shoulders, and a good deal quieter. He had a boxer’s nose now. He looked at Harry, and he looked at the card on the floor, and he went on eating.
+It came by owl, a very tired one, in a pot with a sock over the top, with a card tied to the stem. *Happy Birthday Harry. It likes the dark. It bites. Sorry. N.* Uncle Vernon had picked it up to see what it was. He stood in the kitchen with his thumb in his mouth and his neck going slowly purple, saying a number of things about the post, while Aunt Petunia took the pot between two oven gloves and put it out on the back step. Dudley watched this over a grapefruit. He had got very large across the shoulders and a good deal quieter, and he had a boxer’s nose now. He looked at Harry, and at the card on the floor, and went on eating.
 
 That was all the post there was.
 
@@ -22,11 +22,11 @@ It felt as if somebody had shut his finger in a door.
 
 He dropped the ladle. He had his hand up in front of his face before he’d had time to think. He could see it, by the blue flame of a Muggle camping stove. It had gone the colour of a fresh cut.
 
-He didn’t stop to think about anything. That was a thing he noticed, later on. He had thought that he would think. He had his Cloak in one hand and the Firebolt out from behind the wardrobe in the other, and he’d got as far as the top of the stairs when he remembered the atlas. It was on the floor. It was somewhere under the cassettes. He went back and threw things, and it wasn’t there, and the ring had started to burn down into the bone. He could hear himself breathing. *If mine goes red, I’ll know.* He’d said that when he was fifteen.
+He didn’t stop to think about anything. That was a thing he noticed, later on. He had thought he would think. He had his Cloak in one hand and the Firebolt out from behind the wardrobe in the other, and he’d got as far as the top of the stairs when he remembered the atlas. It was on the floor. It was somewhere under the cassettes. He went back and threw things, and it wasn’t there, and the ring had started to burn down into the bone. He could hear himself breathing. *If mine goes red, I’ll know.* He’d said that when he was fifteen.
 
 “Oi,” said someone behind him.
 
-Dudley was on the landing, in a vast pair of shorts, with a glass of milk. He filled most of it. He looked at the broomstick, for about as long as it took to swallow. He looked at the door of the second bedroom, and the smoke, and at Harry’s hand, which Harry had put behind his back. It hadn’t been a thing they discussed, the two of them, since an alley in Little Whinging. Dudley didn’t discuss. He bent down, with a grunt, and reached behind the banisters, and he came up with something large and floppy that had a torn cover and a coffee ring on Hampshire.
+Dudley was on the landing, in a vast pair of shorts, with a glass of milk. He filled most of it. He looked at the broomstick, while he swallowed. He looked at the door of the second bedroom, and the smoke, and at Harry’s hand, which Harry had put behind his back. It hadn’t been a thing they discussed, the two of them, since an alley in Little Whinging. Dudley didn’t discuss. He bent down, with a grunt, and reached behind the banisters, and he came up with something large and floppy that had a torn cover and a coffee ring on Hampshire.
 
 “You left it in the bog,” said Dudley.
 
@@ -38,11 +38,11 @@ He held it out. Harry took it. Dudley stayed there for a moment, breathing throu
 
 There wasn’t a breath of wind.
 
-Seventy-four miles. He had done ninety-one in a blizzard, with his eyelids freezing together, and it had taken him four hours and two falls. He had been fifteen. This was a warm thick still summer night, with half the stars of England out, and the Firebolt went through it like a hot wire. He crossed the Hog’s Back with the lights of Guildford going by under his left boot. He picked up the railway, and the long black line of the Downs. He didn’t use the atlas. He’d got it inside his shirt. He had no need of it: the ring was pulling, hot and straight, a little south of west, like a hand round his finger, and all he had to do was lie along the broom and let it. *I’m coming*, he said, out loud, with the air ripping it away. *I’m coming. Hold on. I’m coming, I’ve got it, I’m nearly there.*
+Seventy-four miles. He had done ninety-one in a blizzard at fifteen, with his eyelids freezing together, and it had taken him four hours and two falls. This was a warm thick still summer night, with half the stars of England out, and the Firebolt went through it like a hot wire. He crossed the Hog’s Back with the lights of Guildford going by under his left boot, and picked up the railway, and the long black line of the Downs. The atlas stayed inside his shirt. He had no need of it: the ring was pulling, hot and straight, a little south of west, like a hand round his finger, and all he had to do was lie along the broom and let it. *I’m coming*, he said, out loud, with the air ripping it away. *I’m coming. Hold on. I’m coming, I’ve got it, I’m nearly there.*
 
 He looked at his watch at Andover. Forty minutes. He’d never been so fast. There wasn’t a person in England who could have got there faster. Nobody had held him up; he hadn’t had to go round anything, or wait for anyone, or stand in a corridor while somebody’s bloody Hedwig got her breath. He was early. Whatever it was, it had just started; his whole body knew it, it was singing in him. He had been late for everyone he’d ever cared about, in two lives. He had been late for his mother by ten years. He had been five seconds and four steps too late for a man in a waistcoat.
 
-Not this time, thought Harry. His lip had split again, and he found that he was grinning. Not *this* time.
+Not this time, thought Harry. His lip had split again, and he found he was grinning. Not *this* time.
 
 The ring turned over.
 
@@ -70,21 +70,21 @@ He didn’t know what somebody was doing. It was going through his finger. There
 
 It went out over the hedge, and away. Every sheep in the field turned round, and ran.
 
-He stayed on his knees. He didn’t try anything else. He had got nothing else to try. He had put his forehead against the back of his own hand, and he stayed there, in the dark, with the ring against his skin. He could feel it beating. He didn’t pray; he had never known how. He counted. He had got good at that. He got up to a very large number. At some time after one o’clock, when the Plough had gone a long way round, it stopped. It didn’t fade. It stopped as a clock does. He held up his hand, and it was a plain thin band of silver, with the starlight on it, and quite cold.
+He stayed on his knees, because he had nothing else to try. He put his forehead against the back of his own hand, in the dark, with the ring beating against his skin. He didn’t pray; he had never known how. He counted, which he was good at, and he got up to a very large number. At some time after one o’clock, when the Plough had gone a long way round, it stopped, not fading, but as a clock stops. He held up his hand, and it was a plain thin band of silver, with the starlight on it, and quite cold.
 
 ⁂
 
 He couldn’t have told you why he went to the horse.
 
-It wasn’t anywhere near. It was fourteen miles north-east of the field, by the atlas, and he went there, because you had to go somewhere and that was where she had been, on the only other night that this had ever happened. He came down on the ridge a little before three. There it lay on the dark side of the hill, long and thin and white, with its one round eye; it had been running for a good while, and it hadn’t got anywhere. He sat down in the short dry grass beside the Firebolt. It was the same place. There wasn’t any snow, and the wind had dropped. He put his hands in his pockets. He looked at that, and he left them there.
+It wasn’t anywhere near. It was fourteen miles north-east of the field, by the atlas, and he went there, because you had to go somewhere and that was where she had been, on the only other night that this had ever happened. He came down on the ridge a little before three. There it lay on the dark side of the hill, long and thin and white, with its one round eye; it had been running for a good while, and it hadn’t got anywhere. He sat down in the short dry grass beside the Firebolt. It was the same place. There wasn’t any snow, and the wind had dropped. He put his hands in his pockets. He looked at it, and he left them there.
 
-He didn’t think that she would come. He sat and didn’t think it, for an hour.
+He didn’t think she would come. He sat and didn’t think it, for an hour.
 
 The sky went a dull grey-green along the bottom, and birds had started up, down in the valley, one at a time. He had got rather cold. He heard it before he saw it: a faint high rushing, and a whisper in the grass. He stood up. He stood up so fast that he went dizzy, and there was a dark thing coming along the top of the ridge, low and rather slowly. It came down on the far side of the horse’s ear. It stayed where it was for a moment. Then someone got off it, with care, and stood the broom against nothing, and it stayed. She came along the turf towards him, with her cloak round her.
 
 She walked very straight. He’d seen her walk like that down the middle of the Great Hall with a broken arm. She had a long grey dress on, with long sleeves, buttoned at the wrist, and it was the thirty-first of July; or it had been. She stopped about four yards away.
 
-He couldn’t see her properly. It was too dark for that, and then the light came up a little. Her face had no blood in it at all. He’d seen wax that had more. It was white as a wall, as plaster, right to the edges of her lips, and all that he could see of her eyes was how very large they were. She had done her hair. Every pin of it was in place.
+He couldn’t see her properly. It was too dark for that, and then the light came up a little. Her face had no blood in it at all. He’d seen wax that had more. It was white as a wall, as plaster, right to the edges of her lips, and all he could see of her eyes was how very large they were. She had done her hair. Every pin of it was in place.
 
 He had opened his mouth. He had thought of something to say, on the ridge. He’d had about nine hours.
 
@@ -106,13 +106,13 @@ He knew that voice. He had heard it across a table with a lace cloth, over a pla
 
 “Many happy returns,” said Lyra. “I’ve brought you something. It’s very small. I wasn’t able to get to the shops.”
 
-She had put her right hand into the fold of her cloak. She took it out and she held something towards him, at the full length of her arm; and she stayed where she was, so that he had to come forward. He came. He went across the grass, one step and another, with his eyes on her face. It was a little flat parcel in tissue paper, tied up with a bit of green thread. He took it from the very ends of her fingers. It was shaking. He could see that now. All of her was: not much, you’d have had to know. It went on, steadily, in a fine fast tremor, through the hand and the arm and the long grey sleeve, like something with the current on. He’d been told about that. He had seen it, in a chair, with strips of linen. He undid the thread, because it was what you did. His hands didn’t feel like anything.
+She put her right hand into the fold of her cloak and held something towards him, at the full length of her arm; and she stayed where she was, so that he had to come forward. He went across the grass with his eyes on her face. It was a little flat parcel in tissue paper, tied up with a bit of green thread, and he took it from the very ends of her fingers. They were shaking. He could see that now. All of her was, not much, you’d have had to know, in a fine fast tremor that ran through the hand and the arm and the long grey sleeve, like something with the current on. He had seen that in a chair, with strips of linen. He undid the thread, because it was what you did, with hands that didn’t feel like anything.
 
 It was a sock. It was a very good one, in fine dark grey wool. There was just the one.
 
 “You seemed to be short,” said Lyra.
 
-He looked at it. He looked at her. A long way behind her, the sky had started to come up, a thin cold yellow, and the first of the light had got on to her cheek, and there was a small bright bead of sweat running down from her hair, and she didn’t lift a hand to it. She was standing on the chalk with her chin up, smiling very slightly. She was going to fall down. He had known her for five years, and he had never seen anything so clear in his life. She was shaking, she was shaking all over, and it had been on a hill just like this, on this hill, in the snow, with her teeth going. She had got him by the wrist. She’d pulled his hand out of his pocket, and put it on her, and that had been the end of the worst thing that had ever happened to either of them. It hadn’t been that long ago. It was there in his arm. It knew the way.
+He looked at it, and at her. A long way behind her, the sky had started to come up, a thin cold yellow, and the first of the light had got on to her cheek, where a small bright bead of sweat was running down from her hair, and she didn’t lift a hand to it. She stood on the chalk with her chin up, smiling very slightly, and she was going to fall down. He had known her for five years, and he had never seen anything so clear in his life. She was shaking all over, and it had been on this hill, in the snow, with her teeth going, that she had got him by the wrist and pulled his hand out of his pocket and put it on her; and that had been the end of the worst thing that had ever happened to either of them. It was there in his arm. It knew the way.
 
 His hand had come out. He saw it go. It went past the sock, and across the little space between them, towards her left wrist.
 
@@ -124,7 +124,7 @@ She hadn’t raised her voice. She had moved: it was a very slight movement, and
 
 It took him a moment. He saw it arrive. *You don’t take hold of me. Not my arm. Not my wrist. Until I tell you.*
 
-He had forgotten. That was the thing. He had given his word, near enough. He’d had his hands in his pockets for six weeks, on a platform, on a rug, and he had thought that he was getting rather good at it; and the very first time, the very first time that it had counted for anything, the thing had gone straight out on the end of his arm, without so much as a by-your-leave, and made for her.
+He had forgotten. That was the thing. He had given his word, near enough. He’d had his hands in his pockets for six weeks, on a platform, on a rug, and he had thought he was getting rather good at it; and the very first time, the very first time that it had counted for anything, the thing had gone straight out on the end of his arm, without so much as a by-your-leave, and made for her.
 
 He took it back. It seemed to weigh a good deal. He put it in his pocket, and the sock with it.
 
@@ -134,7 +134,7 @@ She didn’t answer. Something had happened to the skin round her eyes, and for 
 
 “Is it them?” said Harry. He could hardly get it out. “Lyra. Is it them, have they got you— Is that where you are? Under that field? Are they *in* there? I’ll come. I’ll get Dumbledore. Tell me who’s got the— Tell me how to get in.”
 
-She went on looking at the horse. It had come up out of the dark by now; you could see the long bones of it, cut into the hill. There was a muscle going in her cheek. He’d seen that, on this ridge. He knew what it meant, and to the Knut. He stood and waited, and she breathed in, through her nose, and her lips moved a little, as if she was reading something over to see that it would do.
+She went on looking at the horse. It had come up out of the dark by now; you could see the long bones of it, cut into the hill. There was a muscle going in her cheek. He’d seen that, on this ridge. He knew what it meant, and to the Knut. He stood and waited, and she breathed in, through her nose, and her lips moved a little, as if she was reading something over to see it would do.
 
 “You mustn’t come,” she said, in the pleasant voice. “You won’t find it.”
 

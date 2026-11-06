@@ -16,11 +16,11 @@ It wasn’t in his ears. It was very quiet and very close. It seemed to come fro
 
 He had got up on his elbows. He could feel his heart going, in his throat. He put up his hand, and pressed, and it made no difference. There was a door. He’d been told about that. He knew just where it was, he had been down to a dungeon every Tuesday for nine months, he had built a room with a bad table in it. He went for it. He got it shut; he stood there in the dark, in his head, with his whole body against the wood; and the voice went on, without the least alteration, from the other side.
 
-“Oh, very nice. You’ve been having lessons. You needn’t trouble. I’m not coming in; I only want a word. I looked round once, you’ll recall, in June, for a moment. I don’t suppose that it took as long as it takes to sneeze. Such a lot of furniture. It’s all very sad, and it’s so badly kept. All those people. A table with one leg. And right at the back, in the only room with a fire in it, there’s a tent.”
+“Oh, very nice. You’ve been having lessons. You needn’t trouble. I’m not coming in; I only want a word. I looked round once, you’ll recall, in June, for a moment. I don’t suppose it took as long as it takes to sneeze. Such a lot of furniture. It’s all very sad, and it’s so badly kept. All those people. A table with one leg. And right at the back, in the only room with a fire in it, there’s a tent.”
 
 He couldn’t move.
 
-“Canvas, I think. There’s a smell of crushed grass. There’s a dragon somewhere, and a hand. I must say that I thought it rather touching. I hadn’t known that one could live on so little. I have been looking at that, on and off. I thought that you’d like to know how the account stands.”
+“Canvas, I think. There’s a smell of crushed grass. There’s a dragon somewhere, and a hand. I must say I thought it rather touching. I hadn’t known that one could live on so little. I have been looking at that, on and off. I thought you’d like to know how the account stands.”
 
 There was a pause. He seemed to be turning something over, by the stem.
 
@@ -28,7 +28,7 @@ There was a pause. He seemed to be turning something over, by the stem.
 
 It stopped. It didn’t fade. It went away as a person does, who has looked in at a door, and has nodded. His forehead gave one more small throb, and was quiet. Seamus turned over and muttered something about West Ham.
 
-He lay there. He was very cold. After a while he noticed that he had bitten through the inside of his cheek.
+He lay there. He was very cold. After a while he noticed he had bitten through the inside of his cheek.
 
 ⁂
 
@@ -62,13 +62,13 @@ He couldn’t remember the last thing that he had said to her. He tried.
 
 It came up from the bottom of him, and he couldn’t do anything about it at all.
 
-It made no noise. He didn’t put his hands over his face. He just sat there, with his arms on either side of the toast rack, looking down, and it ran out from under his glasses and dropped off the end of his nose; it was going on to the feathers. His mouth had come open a little. He had been given that owl by a man with an umbrella, when he was eleven. He’d been in a cupboard, and then he’d had a white owl. She had been the first thing that anybody had ever given him, and she’d been the only one that he’d had in both.
+It made no noise. He didn’t put his hands over his face. He just sat there, with his arms on either side of the toast rack, looking down, and it ran out from under his glasses and dropped off the end of his nose; it was going on to the feathers. His mouth had come open a little. He had been given that owl by a man with an umbrella, when he was eleven. He’d been in a cupboard, and then he’d had a white owl. She had been the first thing anybody had ever given him, and she’d been the only one that he’d had in both.
 
 Somebody had got up.
 
 He heard the bench. He heard a plate go down. There were feet, large ones, coming along behind the row of backs, not fast. They stopped. He didn’t look round. He could see a bit of a sleeve, out of the corner of his eye, and the end of a big freckled hand, with a graze across the knuckles. It didn’t touch him. It didn’t do anything. Ron Weasley had come up the length of the Gryffindor table, in front of the whole school, for the first time in six months. He stood there beside him, with his arms hanging and his ears very red, facing the Hall.
 
-He stayed there. He didn’t say a word. He looked at Seamus, and Seamus looked down. He looked at a table of Ravenclaws, and they found that they’d got things to do. He stood like a man holding a door. After a while the talk started up again, in a low uneasy way, along the benches, and he went on standing.
+He stayed there. He didn’t say a word. He looked at Seamus, and Seamus looked down. He looked at a table of Ravenclaws, and they found they’d got things to do. He stood like a man holding a door. After a while the talk started up again, in a low uneasy way, along the benches, and he went on standing.
 
 There was a very small dry sound beside the toast rack. Hermione had come round the other way. She’d got a clean napkin, a big one. She didn’t say anything either. She unfolded that, and she laid it over the wing, and tucked it in, with her thin quick careful fingers. It took her some time, because she couldn’t see very well.
 
@@ -98,13 +98,13 @@ It was dark, and very large. It smelt of cold stone, and something clean. He had
 
 “Hello, Tom,” said Harry.
 
-He hadn’t got a voice. It didn’t need one. He found that he’d been thinking about this for some time. He’d thought about it with a spade in his hand, and he knew exactly how he was going to do it.
+He hadn’t got a voice. It didn’t need one. He found he’d been thinking about this for some time. He’d thought about it with a spade in his hand, and he knew exactly how he was going to do it.
 
 “I got your note. I thought I’d answer. It’s only polite.”
 
 Nothing. It was waiting; it was rather amused. He could feel that, along his arms.
 
-“I’ll tell you what I know. I know you’re frightened. I don’t mean of me. I know what you’re frightened of. I’ve always known. You saw your mum’s ring and you saw her father, you saw that place with the iron beds, you had your first look at a dead person when you were eleven and you’ve never got over it. I’ve seen your Boggart. It’s you. It’s a corpse on the ground. It’s just you, and nobody coming. You made seven. *Seven*. Who needs seven? Abraxas Malfoy has been laughing at that for fifty years. You did it to the thing you’re proudest of, you tore it up like a Muggle tearing up a ten-bob note, and you hid the bits in a lot of old cups, because you’re so scared. You’re the most frightened person who’s ever lived. It’s all that you are. You’ve got a very nice voice and it’s got nothing behind it but a boy in a blanket.”
+“I’ll tell you what I know. I know you’re frightened. I don’t mean of me. I know what you’re frightened of. I’ve always known. You saw your mum’s ring and you saw her father, you saw that place with the iron beds, you had your first look at a dead person when you were eleven and you’ve never got over it. I’ve seen your Boggart. It’s you. It’s a corpse on the ground. It’s just you, and nobody coming. You made seven. *Seven*. Who needs seven? Abraxas Malfoy has been laughing at that for fifty years. You did it to the thing you’re proudest of, you tore it up like a Muggle tearing up a ten-bob note, and you hid the bits in a lot of old cups, because you’re so scared. You’re the most frightened person who’s ever lived. It’s all you are. You’ve got a very nice voice and it’s got nothing behind it but a boy in a blanket.”
 
 The hand had not moved.
 
@@ -114,7 +114,7 @@ He could feel his own heart, a long way away, in a bed. It was going slowly. He 
 
 It was very quiet.
 
-He had thought that there would be something. He’d thought it would be rage, and he had been looking forward to that. It wasn’t. For about as long as it takes to drop a cup, nothing happened at all.
+He had thought there would be something. He’d thought it would be rage, and he had been looking forward to that. It wasn’t. For the length of a dropped cup, nothing happened at all.
 
 And then the voice wasn’t there.
 
@@ -168,7 +168,7 @@ Twenty seconds. Thirty.
 
 Goyle had looked up. She had a bun in her hand. Her small slow eyes went to the side of Lyra’s face, and stayed there. She didn’t say anything. She put down the bun. She reached out, without any hurry, with one big arm, and took hold of the teapot; she filled a cup, and she moved that along the table, an inch at a time, until it was standing by the plate, and she left her hand there, on the cloth, beside it, and she went on looking at nothing.
 
-*Every time*, said the warmth, very softly. It was all through him now. It had got into his teeth. *Every time, Mr Potter. Do you see? I had thought that you ought to have a receipt. A word from you, and this. Whatever you do. Wherever you go. Anything that you do to me, ever, I’ll have it from her. I find that it’s so much more instructive than the other thing.* *She’s very well brought up. She doesn’t get that from Lucius.*
+*Every time*, said the warmth, very softly. It was all through him now. It had got into his teeth. *Every time, Mr Potter. Do you see? I had thought you ought to have a receipt. A word from you, and this. Whatever you do. Wherever you go. Anything that you do to me, ever, I’ll have it from her. I find it’s so much more instructive than the other thing.* *She’s very well brought up. She doesn’t get that from Lucius.*
 
 His lips were moving.
 
@@ -196,7 +196,7 @@ She had finished. There wasn’t a spot on that piece of toast that hadn’t got
 
 She looked along the Hall.
 
-It was only for a second. He didn’t think she knew that she was doing it. There wasn’t any reason. Her eyes were perfectly black. They came across the benches and across the sun, past Hufflepuff, and they stopped on him. She looked at him. She looked like a person who has been a long way under water, and has come up, and doesn’t yet know where she is; and she looks for the shore. She didn’t know why. He saw that. She couldn’t have told you. There wasn’t anything on her face at all.
+It was only for a second. He didn’t think she knew she was doing it. There wasn’t any reason. Her eyes were perfectly black. They came across the benches and across the sun, past Hufflepuff, and they stopped on him. She looked at him. She looked like a person who has been a long way under water, and has come up, and doesn’t yet know where she is; and she looks for the shore. She didn’t know why. He saw that.  There wasn’t anything on her face at all.
 
 Then her eyes went down. She reached out, slowly, with her right hand. She took up Goyle’s cup, and she drank.
 
@@ -220,7 +220,7 @@ Neville didn’t ask. He’d got his bag on his knee. He looked out of the windo
 
 Neither of them said anything for a long time. The frost had started to go from the top of the pane.
 
-It came up in him very quietly. There wasn’t any heat in it. That was what was so restful. He had hated people before; he’d hated Snape, and Dudley, and a woman with a lace collar. It had been a hot, stupid, exhausting thing, and it had made his hands shake. This was as cool and clear as water in a glass. It had no bottom to it. He looked at that, and he thought that it was the first thing he had felt in five months that he knew what to do with. He knew what you could do to a man who was afraid of dying. He had got a very great deal of information.
+It came up in him very quietly. There wasn’t any heat in it. That was what was so restful. He had hated people before; he’d hated Snape, and Dudley, and a woman with a lace collar. It had been a hot, stupid, exhausting thing, and it had made his hands shake. This was as cool and clear as water in a glass. It had no bottom to it. He looked at it, and he thought it was the first thing he had felt in five months that he knew what to do with. He knew what you could do to a man who was afraid of dying. He had got a very great deal of information.
 
 A little behind his right ear, something stirred, and made itself comfortable.
 

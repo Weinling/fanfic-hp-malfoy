@@ -22,7 +22,7 @@ He went on looking at the wall. “No,” said Draco.
 
 On the Sunday they had nobody.
 
-She woke late, and lay and looked at that. The house had a sound she had forgotten. A pigeon was going on in the limes. Somewhere below, a long way off, a door stood open and it was banging a little in the wind, and no one had come to see about it, and no one had flinched. She got up and went downstairs in her dressing gown, which she had not done since she was ten. The dining-room table had been pushed against the wall, for the Aurors, and it had a long raw scratch on it that nobody could account for; and at noon her mother came and stood in the doorway and looked at that, and at the ceiling.
+She woke late, and lay and looked at it. The house had a sound she had forgotten. A pigeon was going on in the limes. Somewhere below, a long way off, a door stood open and it was banging a little in the wind, and no one had come to see about it, and no one had flinched. She got up and went downstairs in her dressing gown, which she had not done since she was ten. The dining-room table had been pushed against the wall, for the Aurors, and it had a long raw scratch on it that nobody could account for; and at noon her mother came and stood in the doorway and looked at it, and at the ceiling.
 
 “I don’t believe that I can sit in here,” said Narcissa Malfoy. “Where does one eat?”
 
@@ -42,19 +42,19 @@ Draco looked at it. He looked for some time, with that clean, incurious face. A 
 
 “Thank you, Draco. Perhaps you would like to tell Madam Malkin about her hemming.”
 
-She put down the knife. There was butter on her thumb. She looked at it in astonishment, and then, since there was nobody there, she put it in her mouth. Lyra heard a small dry noise, and it was a moment before she knew what it was; she had only heard it three or four times in her life, through doors. Her mother was laughing. She made no sound to speak of. She had put the back of her wrist against her lips, and her thin shoulders had started to go, and she looked about nineteen. It was the most frightening thing that Lyra had seen all year, and she found that she had started too.
+She put down the knife. There was butter on her thumb. She looked at it in astonishment, and then, since there was nobody there, she put it in her mouth. Lyra heard a small dry noise, and it was a moment before she knew what it was; she had only heard it three or four times in her life, through doors. Her mother was laughing. She made no sound to speak of. She had put the back of her wrist against her lips, and her thin shoulders had started to go, and she looked about nineteen. It was the most frightening thing that Lyra had seen all year, and she found she had started too.
 
 Draco got down from the bench. He went out, and they heard him on the stairs, going up, not fast. They heard him coming down. He came back along the table with the tin in both hands, and set it in front of him, and undid the knot; he didn’t cut it, he picked it out with his nails, and wound the string round two fingers and put it in his pocket. He took off the lid.
 
 They were small and round and rather uneven, and they had been packed in greaseproof paper, in rows. They smelt of butter. He counted them. His lips moved. He had taken to doing that. There were twelve in each layer, and he lifted the top paper by the corner to see the ones below.
 
-He took out one and put it down in front of his mother. He took out one for himself. Then he sat with his hands on either side of the tin, and he looked across at Lyra. It was the first time that he had looked at her since a boiled egg. She held quite still. He seemed to be going through it, from the top. He put out one finger, and pushed the tin an inch towards her across the boards, without turning his head.
+He took out one and put it down in front of his mother. He took out one for himself. Then he sat with his hands on either side of the tin, and he looked across at Lyra. It was the first time he had looked at her since a boiled egg. She held quite still. He seemed to be going through it, from the top. He put out one finger, and pushed the tin an inch towards her across the boards, without turning his head.
 
 She had seen that done. She knew who had taught him. She took one.
 
 “It’s got orange in it,” said Draco, with his mouth full.
 
-It had. It had gone a little soft, in the heat of the train. It was by some way the best thing that she had eaten in that house. She ate it slowly, with the sun on her arm and the crumbs on her dressing gown, and when she looked up her mother had cut another piece of bread, or done something to it, and had held it out to her on the end of the knife. Nobody said anything about a fountain. Nobody said anything about the Cobb. Lyra ate that as well, and she ate an egg, and some cold ham that Pobble came in and laid at her elbow, sobbing with joy; and Draco showed their mother, with some contempt, how you did a slice. They sat on until the sun had gone off the table. The door went on banging, up above, and she thought that she would go and see about it, and she didn’t.
+It had. It had gone a little soft, in the heat of the train. It was by some way the best thing that she had eaten in that house. She ate it slowly, with the sun on her arm and the crumbs on her dressing gown, and when she looked up her mother had cut another piece of bread, or done something to it, and had held it out to her on the end of the knife. Nobody said anything about a fountain. Nobody said anything about the Cobb. Lyra ate that as well, and she ate an egg, and some cold ham that Pobble came in and laid at her elbow, sobbing with joy; and Draco showed their mother, with some contempt, how you did a slice. They sat on until the sun had gone off the table. The door went on banging, up above, and she thought she would go and see about it, and she didn’t.
 
 ⁂
 
@@ -76,9 +76,9 @@ She let go. She patted Lyra’s cheek, twice, and ran down the stairs again.
 
 Lyra stood with her hand on the banister.
 
-*Is that all of it?* he had asked, in that room, with his one sock. *Is that everything?* He had looked her in the eye. She had looked at him, with a burnt letter under her tongue, and said yes, and he’d stood there with this in his mouth and told her that he didn’t know. So they had each made sure of that. It had a sort of finish to it.
+*Is that all of it?* he had asked, in that room, with his one sock. *Is that everything?* He had looked her in the eye. She had looked at him, with a burnt letter under her tongue, and said yes, and he’d stood there with this in his mouth and told her he didn’t know. So they had each made sure of that. It had a sort of finish to it.
 
-She found that she’d put a hand up to her own face, and she took it down.
+She found she’d put a hand up to her own face, and she took it down.
 
 ⁂
 
@@ -86,7 +86,7 @@ There were six at table. He had the chair at the head. They had put the table ba
 
 He ate nothing. He turned his glass by the stem and he let them get through the soup. Bellatrix was telling a story about a Healer in Knockturn Alley. Lyra had her back straight and her hands where they should be, and she had taken two spoonfuls, and she was thinking that one could do this; it was a question of breathing through the nose. She had given him the whole of the breakfast table, with the sun on it. He hadn’t even looked yet.
 
-“I find that I owe you an apology, Miss Malfoy,” said the Dark Lord.
+“I find I owe you an apology, Miss Malfoy,” said the Dark Lord.
 
 Bellatrix stopped.
 
@@ -96,9 +96,9 @@ Bellatrix stopped.
 
 “The note with the lemon.”
 
-She had a spoon in her hand. She looked down, and saw that it was perfectly steady, and she was rather interested. There was a small gold rim on the plate.
+She had a spoon in her hand. She looked down, and saw it was perfectly steady, and she was rather interested. There was a small gold rim on the plate.
 
-“The hem,” he said. “I did enjoy that. You gave me the gap, for my trouble, and six lines about his breakfast, and you must have thought that I would be so pleased with those. It’s an elegant thing, a paper pattern. Your mother’s, I believe. But, my dear, I was brought up by a charitable institution, in south London, during the slump. We did it with milk. We did it with anything we could get. There isn’t a boy in that dormitory who wouldn’t have held it up to a candle before he had finished his tea.”
+“The hem,” he said. “I did enjoy that. You gave me the gap, for my trouble, and six lines about his breakfast, and you must have thought I would be so pleased with those. It’s an elegant thing, a paper pattern. Your mother’s, I believe. But, my dear, I was brought up by a charitable institution, in south London, during the slump. We did it with milk. We did it with anything we could get. There isn’t a boy in that dormitory who wouldn’t have held it up to a candle before he had finished his tea.”
 
 No one was moving. Across the table, her mother had laid down her spoon, without any sound, and put her hands in her lap.
 
@@ -112,7 +112,7 @@ She had moved a piece on a board that neither of them could see. She had lain wi
 
 So that was what that was.
 
-She had heard about it on the train; Parkinson had told it to her with tears in his eyes. She’d thought that it was the last of his vanity, or the last of his malice. She looked at it. He had burnt the whole of what he had left, in front of every family that mattered, to buy her a chair at this table. He had known that she’d done nothing. He must have known. He had been cleaned out, and he had felt in all his pockets, and that was what he’d found. She kept her eyes on the gold rim. If she blinked, she thought, she would have to do something about it.
+She had heard about it on the train; Parkinson had told it to her with tears in his eyes. She’d thought it was the last of his vanity, or the last of his malice. She looked at it. He had burnt the whole of what he had left, in front of every family that mattered, to buy her a chair at this table. He had known that she’d done nothing. He must have known. He had been cleaned out, and he had felt in all his pockets, and that was what he’d found. She kept her eyes on the gold rim. If she blinked, she thought, she would have to do something about it.
 
 “Thank you, my lord,” said Lyra. “It’s very good of you to say so.”
 
@@ -160,15 +160,15 @@ The sheet was wet through, and she had bitten a hole in the crest. She folded it
 
 He told her why at nine o’clock the next morning, on the top step.
 
-It was a soft bright day, and all the peacocks had come out on the lawn. He’d had a small table brought, with his coffee on it, which he didn’t drink. It was only sensible, he said. The Ministry had been through the house; they would not be so foolish as to leave it alone, now that poor Cornelius had seen what he’d seen. It would have to be taken off the map. It wanted a Fidelius, and a Fidelius wanted a Keeper, and he had given some thought to who that should be. Bellatrix had asked. So had others. He understood that it had been done rather badly once before.
+It was a soft bright day, and all the peacocks had come out on the lawn. He’d had a small table brought, with his coffee on it, which he didn’t drink. It was only sensible, he said. The Ministry had been through the house; they would not be so foolish as to leave it alone, now that poor Cornelius had seen what he’d seen. It would have to be taken off the map. It wanted a Fidelius, and a Fidelius wanted a Keeper, and he had given some thought to who that should be. Bellatrix had asked. So had others. He understood it had been done rather badly once before.
 
 “The boy will come to you,” said the Dark Lord. “You see that, of course. Whatever you’ve told him; whatever he has been told. I had a look at the inside of his head in the Atrium, for a moment. It wasn’t a long visit. He’ll come through a wall. He can’t help it; he’s never in his life had anything else that he wanted. And when he has done with all his schemes and his little old wizards, and he has found nothing left that’s worth destroying, and he has worked out at last where I must be, there’ll be one person on earth who can tell him the way in.” He looked at her, with his head a little on one side. “I do so want him to find the door.”
 
-It didn’t hurt. She had thought that it would. He stood her on the step with her back to the house, and he put out one long white finger and laid it on her breastbone, and it was like being given something to swallow. It was very cold, and very large. It went down and it went on going. She felt the whole of the place come in at the top of her chest and settle, stair by stair: the limes, and the lake, and the long gallery. There were the kitchens, with a loaf on the table. There were her mother and her brother. She had to put out a hand. It sat under her ribs, on the left, where she kept things; and when she looked up there was the drive going away in the sun, with a little blue haze at the end of it, and the gates had gone.
+It didn’t hurt, as she had thought it would. He stood her on the step with her back to the house, and laid one long white finger on her breastbone, and it was like being given something to swallow, very cold and very large, that went down and went on going. She felt the whole of the place come in at the top of her chest and settle, stair by stair: the limes, and the lake, and the long gallery, the kitchens with a loaf on the table, her mother and her brother. She had to put out a hand. It sat under her ribs, on the left, where she kept things; and when she looked up the drive was going away in the sun, with a little blue haze at the end of it, and the gates had gone.
 
 After that she stood in the door.
 
-They had to be told. It was the only way. They came up from the road, one at a time, to the place where the gravel stopped, and they stood there in the sunshine looking about them at an empty field, and she walked down to them and said it. She said it to Bellatrix, who kissed her. She said it to Avery. She said it to old Nott, who took off his hat. It took nine words. Towards three she walked down the drive for a thin man in black, with a long yellow face, who stood with his hands in his sleeves and looked at the air above her head. She told him where he was. He looked at her then. He looked once. She saw him take in her eyes, and what had been done about them.
+They had to be told; it was the only way. They came up from the road, one at a time, to the place where the gravel stopped, and stood in the sunshine looking about them at an empty field, and she walked down and said it: to Bellatrix, who kissed her; to Avery; to old Nott, who took off his hat. It took nine words. Towards three she walked down the drive for a thin man in black, with a long yellow face, who stood with his hands in his sleeves and looked at the air above her head. She told him where he was. He looked at her then, once, and she saw him take in her eyes, and what had been done about them.
 
 “Miss Malfoy,” said Snape. He walked past her towards the house.
 

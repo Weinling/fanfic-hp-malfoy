@@ -10,7 +10,7 @@ She had given the matter some thought. There was a third task to come, and nobod
 
 “Can you swim?”
 
-“I have had lessons,” said Lyra, “from a Frenchwoman, at Biarritz, in a costume with sleeves. I fail to see that it’s relevant. One doesn’t have to be able to lay an egg in order to know when it has been done badly.”
+“I have had lessons,” said Lyra, “from a Frenchwoman, at Biarritz, in a costume with sleeves. I fail to see it’s relevant. One doesn’t have to be able to lay an egg in order to know when it has been done badly.”
 
 They went down at two. She took up her position on the big flat rock at the edge of the shallows, in a clean blouse and her good shoes, with a parasol, and a silver whistle that she had got from Madam Hooch by means she did not propose to go into. Crabbe sat on the shingle behind her with a stopwatch, because somebody had to. Weasley had come for the sake of the spectacle. He’d brought a sandwich.
 
@@ -58,7 +58,7 @@ She blew the whistle.
 
 “Again.”
 
-They did it again. They did it, by the end of that long bright afternoon, nineteen times. She tried him with his chin up and with his chin down. She had him lie on his back. She had him think of something buoyant; he said that he’d thought of Slughorn, whoever that was, and he went down faster than ever. She directed from the rock, with the parasol, in a clear carrying voice, and she got a certain amount of sun on her nose, and at some point in the third hour she discovered that she’d taken off her shoes. Weasley had stopped going back for his sandwich. He just stood there, up to his chest in the lake with his red hair drying in spikes, finishing an apple with one hand and holding Harry Potter up by the neck of his shirt with the other. It seemed to have become a thing that he did. Every so often he would let go, for purposes of research, and look down at the bubbles, and fish about, and bring him up again.
+They did it again. They did it, by the end of that long bright afternoon, nineteen times. She tried him with his chin up and with his chin down. She had him lie on his back. She had him think of something buoyant; he said he’d thought of Slughorn, whoever that was, and he went down faster than ever. She directed from the rock, with the parasol, in a clear carrying voice, and she got a certain amount of sun on her nose, and at some point in the third hour she discovered that she’d taken off her shoes. Weasley had stopped going back for his sandwich. He just stood there, up to his chest in the lake with his red hair drying in spikes, finishing an apple with one hand and holding Harry Potter up by the neck of his shirt with the other. It seemed to have become a thing that he did. Every so often he would let go, for purposes of research, and look down at the bubbles, and fish about, and bring him up again.
 
 “You’re not *trying*,” Weasley told him, shaking him a little, to get the water out. “You’re just going down there. I’ve seen you. You like it.”
 
@@ -76,7 +76,7 @@ He sat on the edge of the rock, in the sun, with his feet in the water. He had h
 
 “No.”
 
-“I don’t think that I’m going to be able to.”
+“I don’t think I’m going to be able to.”
 
 She looked down at him. She reached out, with the end of the parasol, and removed the weed. She considered the boy, the lake, and the whole of the situation.
 

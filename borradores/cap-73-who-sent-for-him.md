@@ -2,7 +2,7 @@
 
 She told it with dates.
 
-She told it standing up, with her back to the window and the wand in her hand, and she didn’t raise her voice. On the sixth of June she had written to her mother in lemon juice. Her mother had written to Sirius Black, without one word of affection, about a piece of paper in Regulus’s hand, and the owl had been three days finding him. He had told her to go to hell. He had said that he’d be at the end of the Cobb at Lyme on the eighteenth, at noon, and that she had better bring it. Lyra had read that on the eleventh, in bed, off the back of a seed catalogue.
+She told it standing up, with her back to the window and the wand in her hand, and she didn’t raise her voice. On the sixth of June she had written to her mother in lemon juice. Her mother had written to Sirius Black, without one word of affection, about a piece of paper in Regulus’s hand, and the owl had been three days finding him. He had told her to go to hell. He had said he’d be at the end of the Cobb at Lyme on the eighteenth, at noon, and that she had better bring it. Lyra had read that on the eleventh, in bed, off the back of a seed catalogue.
 
 “Noon,” she said. “A hundred and forty miles from that room. Nobody could have used him for anything. That was all it was for. You could have gone or not gone, it couldn’t have mattered, there’d have been nothing there but a—”
 
@@ -10,7 +10,7 @@ It stopped. He saw her throat move. She looked at the wall, where a kitten in a 
 
 “He said he’d feed her to the crabs,” said Lyra. “And he *went*. We told him it was about his brother, and he went. I did that. I got it right, Potter, I had every single line of it *right*—”
 
-Then she went. She bent in the middle, and a noise came out of her that he had never heard, high and ugly, like a child who has run too far. His hand went out. He hadn’t sent it. She saw it come, and her whole body went back against the window-frame, and her wand came up; and they both looked at that. He put the hand down.
+Then she went. She bent in the middle, and a noise came out of her that he had never heard, high and ugly, like a child who has run too far. His hand went out. He hadn’t sent it. She saw it come, and her whole body went back against the window-frame, and her wand came up; and they both looked at it. He put the hand down.
 
 “Go on,” said Lyra, when she could.
 
@@ -70,7 +70,7 @@ She did not go on. She turned her wand over in her fingers and looked along it, 
 
 “Will you do that again?”
 
-He would have given a good deal to say no. It was the obvious answer; she had left room for it. He thought of his arm coming up on a landing, and in this room. He thought of a line opening on a woman’s face, as neat as the crease in a letter, and something very pleased behind his right ear. He looked at that, and he put it where he kept things. It wasn’t her business. It wasn’t anybody’s. He had lied to this person about nearly everything for five years, and he noticed that he was going to go on, and that he couldn’t, all the same, get the one small word out past his teeth.
+He would have given a good deal to say no. It was the obvious answer; she had left room for it. He thought of his arm coming up on a landing, and in this room. He thought of a line opening on a woman’s face, as neat as the crease in a letter, and something very pleased behind his right ear. He looked at it, and he put it where he kept things. It wasn’t her business. It wasn’t anybody’s. He had lied to this person about nearly everything for five years, and he noticed he was going to go on, and that he couldn’t, all the same, get the one small word out past his teeth.
 
 “I don’t know,” said Harry.
 
@@ -108,7 +108,7 @@ She picked up the long pin from the fender, and she walked past him, with a good
 
 “Yes.” He had his long hands flat on the desk, and he looked at them. “I do beg your pardon. I keep forgetting.”
 
-It was Wednesday afternoon, or it might have been Thursday. All the silver things were going round and puffing on their spindly tables. Harry sat in the chair that he’d been put in. The bowl of lemon drops was where it always was. He had thought that he might want to break something in this room, and he looked about him for that, in an interested way, and it didn’t seem to be there.
+It was Wednesday afternoon, or it might have been Thursday. All the silver things were going round and puffing on their spindly tables. Harry sat in the chair that he’d been put in. The bowl of lemon drops was where it always was. He had thought he might want to break something in this room, and he looked about him for that, in an interested way, and it didn’t seem to be there.
 
 The prophecy was gone, Dumbledore said, and nobody had ever heard the whole of it but the two of them; Tom had the first line and a quantity of abuse. Cornelius Fudge had stood in his own Atrium and seen what there was to see, in front of six of his Aurors and a lift attendant. It would be in the *Prophet* tomorrow. It would be a great deal of use, for about a fortnight, to a number of people who were no longer there. The Headmaster had gone to London at noon on the eighteenth because the Minister had sent him a note. He said that. He didn’t add anything to it. He looked a hundred and fifty.
 
@@ -126,7 +126,7 @@ He read that three times. It didn’t seem to settle anything.
 
 “One thing more,” said Dumbledore gently. “Mrs Lestrange was seen this morning, in Knockturn Alley, by a person who is sometimes useful to Alastor. She has been to two Healers. She has a cut from here to here that neither of them can close.” He drew one long finger down his own cheek, through the beard. “I don’t know of a curse that does that. What did you say to her, Harry?”
 
-Harry looked up. He looked into the very blue eyes, with the half-moons in front of them. He knew how it was done. You didn’t look away; you let it come out tired, and a bit ashamed, and you let them see that you were trying to remember. He was tired. He was ashamed. It was one of the best he had ever told.
+Harry looked up. He looked into the very blue eyes, with the half-moons in front of them. He knew how it was done. You didn’t look away; you let it come out tired, and a bit ashamed, and you let them see you were trying to remember. He was tired. He was ashamed. It was one of the best he had ever told.
 
 “I don’t know, sir,” he said. “I was throwing everything I’d got. *Diffindo*, I think. I don’t really remember. It all went a bit—”
 
@@ -150,7 +150,7 @@ Neville looked at him, with his round mild eyes. He rubbed the slate on his slee
 
 *ALL RIGHT*
 
-He held it up and went on holding it. Harry found that he needed to look at the window.
+He held it up and went on holding it. Harry found he needed to look at the window.
 
 “Don’t encourage him,” said a voice from the next bed. “I’ve had that for two days.”
 
@@ -176,7 +176,7 @@ He had been, as a matter of fact. It was absurd. He had stood at the front of th
 
 “Not you,” said Diggory. “You’ll teach the Patronus. You’ll stand at the front, where he can see you.” He shut his eyes. It seemed to have cost him something. “Nine seconds,” he said. “I told you to stay behind it.”
 
-Somebody went by the end of the bed. It was Hopkins, long and mild and spotty, carrying a tray with his left hand and the edge of his right forearm, as he’d worked out how to; and on the tray was a dish with a crust on it, which he put down on Diggory’s locker with a good deal of care. It had come up from the kitchens. Goyle had sent it, he said; it was soft. She’d said to say that there was a nutmeg in it, and to tell her if that was wrong.
+Somebody went by the end of the bed. It was Hopkins, long and mild and spotty, carrying a tray with his left hand and the edge of his right forearm, as he’d worked out how to; and on the tray was a dish with a crust on it, which he put down on Diggory’s locker with a good deal of care. It had come up from the kitchens. Goyle had sent it, he said; it was soft. She’d said to say there was a nutmeg in it, and to tell her if that was wrong.
 
 “Sorry about your godfather,” said Hopkins, to Harry. He looked at him with his light tired eyes. “I don’t know what you’re meant to say.”
 
@@ -230,7 +230,7 @@ It was the first thing he had said to Harry for twenty-seven days.
 
 Ron nodded. He hitched up the broom and went on down. His big feet went away round the turn of the stair, and on, and across the landing. He didn’t look back.
 
-Harry stayed where he was. A boy who had once sat on a roof on Rannoch Moor with his tongue between his teeth and a mouthful of nails had said three words to him, and he thought that he might have those. Nobody had said he couldn’t. He stood on the step and held on to them for a bit, in the pocket with his hand.
+Harry stayed where he was. A boy who had once sat on a roof on Rannoch Moor with his tongue between his teeth and a mouthful of nails had said three words to him, and he thought he might have those. Nobody had said he couldn’t. He stood on the step and held on to them for a bit, in the pocket with his hand.
 
 ⁂
 
@@ -238,11 +238,11 @@ She still came.
 
 He hadn’t been sure of that. He went up on the Thursday night, because there wasn’t anywhere else, and walked past the bare wall, and the door was there. There were the bald rug and the fender and the chair. The next evening, at about ten, she came in with her book of rounds and sat down in it with her feet under her, and she opened the book. She didn’t say anything. He stayed on the rug, on the far side, with his hands where he’d been told. After a while she turned over a page.
 
-It was what they did. It went on for nine nights. He wouldn’t have told you it was bearable. He wouldn’t have told you it was anything else he could have done without.
+It was what they did. It went on for nine nights. It wasn’t bearable, and he couldn’t have done without it.
 
 On the third night he brought a cauldron.
 
-He had got the recipe by heart, in another life, out of somebody else’s handwriting, and he had got the first of what he needed from the third shelf on the left, at night, under the Cloak, and not written it down in any book. It wanted a low fire and a great deal of patience, and it would be ready, if he didn’t kill it, some time before Christmas. He couldn’t have said that he had a plan. He’d stopped having those. He had lain awake and looked at a staircase, and a boy on it with a square of parchment in his hand, and he had thought: *It wasn’t that I didn’t know. I knew everything. I just didn’t know which foot.* There was a thing that did that for you. For about twelve hours, there was a thing that told you where to put your foot.
+He had got the recipe by heart, in another life, out of somebody else’s handwriting, and he had got the first of what he needed from the third shelf on the left, at night, under the Cloak, and not written it down in any book. It wanted a low fire and a great deal of patience, and it would be ready, if he didn’t kill it, some time before Christmas. He had stopped having plans. He had lain awake and looked at a staircase, and a boy on it with a square of parchment in his hand, and he had thought: *It wasn’t that I didn’t know. I knew everything. I just didn’t know which foot.* There was a thing that did that for you. For about twelve hours, there was a thing that told you where to put your foot.
 
 He lit it. He knelt there in the thin bright smell, stirring it the wrong way round, nine times, with his sleeves rolled up.
 
@@ -278,9 +278,9 @@ It was for anybody to hear. She looked him up and down, as you’d look at somet
 
 “Have you anything you want to ask me?” she said.
 
-It was very quiet. Her lips hardly moved. He thought that he had never heard her say anything with so little in it. A long way down the platform a guard was shouting about a door, and Mrs Crabbe was still looking at her, with that warm grateful stupid face.
+It was very quiet. Her lips hardly moved. He thought he had never heard her say anything with so little in it. A long way down the platform a guard was shouting about a door, and Mrs Crabbe was still looking at her, with that warm grateful stupid face.
 
-He could have done it. He had it ready. It was only three words long. He’d had it since the fountain, and he had got up with it and cleaned his teeth with it, and he looked at her, and he thought of a green fire, and a breath going in. Of how she had stopped, in that room, and looked at Hermione. He’d seen that. He knew what he’d seen. He had not looked at it since, and he found that he’d walked all round it, all week, as you walk round something in the road.
+He could have done it. He had it ready. It was only three words long. He’d had it since the fountain, and he had got up with it and cleaned his teeth with it, and he looked at her, and he thought of a green fire, and a breath going in. Of how she had stopped, in that room, and looked at Hermione. He’d seen that. He knew what he’d seen. He had not looked at it since, and he found he’d walked all round it, all week, as you walk round something in the road.
 
 She had moved her hand. He looked down. She had taken a fold of his sleeve, just above the cuff, between her finger and thumb. No more than that. You couldn’t have seen it from a yard away. He could feel it all the way up his arm.
 
