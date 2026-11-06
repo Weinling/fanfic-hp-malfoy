@@ -12,7 +12,7 @@ The other was a soft lumpy parcel in brown paper, with a great deal of string. S
 
 They were gloves. They were hand-knitted, in thick oatmeal-grey wool, and they had been made by someone who had not been able to see very well, or who’d been thinking about something else. One thumb was a good deal longer than the other. There was a note, on lined paper, with a pressed flower in it.
 
-*Dear Miss Malfoy, I expect you won’t remember me. The Sister told me you had been again in the summer, and sat with my brother, and that you did not mind about his chin. It’s a thing that very few do mind about, I’m sorry to say. I hope that you won’t think me forward. You had such cold hands, at Easter. I noticed. It is a comfort to know there are still young people. Broderick would have thanked you himself, if he could. Yours respectfully, E. Bode (Miss), Battersea.*
+*Dear Miss Malfoy, I expect you won’t remember me. The Sister told me you had been again in the summer, and sat with my brother, and that you did not mind about his chin. Few people will do that for him, I’m sorry to say. I hope that you won’t think me forward. You had such cold hands, at Easter. I noticed. It is a comfort to know there are still young people. Broderick would have thanked you himself, if he could. Yours respectfully, E. Bode (Miss), Battersea.*
 
 The Hall went on around her. Somebody was laughing, down by Parkinson. She sat with a pair of grey gloves in her lap, and it seemed to her that she had got to be very good at something. She could feel the wool. It was rather scratchy.
 
@@ -298,7 +298,7 @@ Nobody said anything for a while. A long way away, on the other side of the wall
 
 The line of light went out.
 
-She heard her get up. It took some time; there was a good deal to move. A soft bare heavy step came over the boards, and another, round the end of the bed, and stopped just on the far side of the hangings, about a foot from Lyra’s face. She could hear it breathing, through its mouth. She lay with her eyes wide open and her hand closed over a small glass phial, and she did not, she did not, she did not make a sound. It smelt of flannel and cold fat. There was a tiny movement of the curtain. Something had been put down, very gently, on the bedside table, with the faint crackle of greaseproof paper.
+She heard her get up. It took some time; there was a good deal to move. A soft bare heavy step came over the boards, and another, round the end of the bed, and stopped just on the far side of the hangings, about a foot from Lyra’s face. She could hear her breathing, through her mouth. She lay with her eyes wide open and her hand closed over a small glass phial, and she did not, she did not, she did not make a sound. She smelt of flannel and cold fat. There was a tiny movement of the curtain. Something had been put down, very gently, on the bedside table, with the faint crackle of greaseproof paper.
 
 The feet went away.
 

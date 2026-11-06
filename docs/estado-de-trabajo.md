@@ -13,7 +13,7 @@
 
 ## Siguiente paso exacto
 
-1. El autor lee la tanda y dice qué cambia. **Codex:** primero `docs/notas/reestructura/encargo-codex-cuaderno-lector.md`, en el mismo chat; después `encargo-codex-lectura-73-84.md`. Nadie relee la historia entera: el relevo es el cuaderno (`docs/notas/criticas-codex/cuaderno-lector.md`).
+1. **Lectura de Codex de la tanda, aplicada** (`docs/notas/criticas-codex/lectura-73-84.md`). Sus exigencias para lo siguiente: `decisiones.md`, §11. El relevo de lectores es `docs/notas/criticas-codex/cuaderno-lector.md`: nadie relee la historia entera.
 2. Guion del tramo 4 (del baño a julio de 1997): `decisiones.md`, §5, §6, §9 y §10, y las notas «Para el tramo 4» del guion archivado.
 
 ## Pendiente, sin urgencia

@@ -2,7 +2,7 @@
 
 They held it in the Hufflepuff corridor, by the barrels, because Slytherin had nowhere that would have done.
 
-Her mother had come for her on the Tuesday, and nobody from the school would be going to the north. So on the Thursday, at about four in the afternoon, with the snow coming down past the high barred windows, Harry came along the passage by the kitchens on his way to nowhere, and found it full.
+Her mother had come for her on the Tuesday, and had looked at the form and at Madam Pomfrey, and said that no Goyle had ever been opened; and nobody from the school would be going to the north. So on the Thursday, at about four in the afternoon, with the snow coming down past the high barred windows, Harry came along the passage by the kitchens on his way to nowhere, and found it full.
 
 There must have been eighty of them. They were standing along both walls, not saying very much. Somebody had brought a chair and put it by the pear. On the chair was a plate.
 
@@ -160,11 +160,11 @@ He heard it. He heard the first half of the word go out on the wet air.
 
 So did she.
 
-He would see that till he died. He saw her hear what she was saying. It went across her face from the hairline, like something being wiped, and her teeth came together on the rest; she bit it clean through, and he actually heard them click. There was blood on her lip. Her eyes had gone huge and blind and appalled, and they had gone to her own hand, hanging at the end of her arm as if it had been left by somebody else, with the wand in it, pointing at his heart. A breath went into her, with a thin high whooping noise, like a child’s.
+He would see that till he died. He saw her hear what she was saying. It went across her face from the hairline, like something being wiped. Her teeth came together on the rest. He heard them click. There was blood on her lip. Her eyes had gone huge and blind and appalled, and they had gone to her own hand, hanging at the end of her arm as if it had been left by somebody else, with the wand in it, pointing at his heart. A breath went into her, with a thin high whooping noise, like a child’s.
 
 She took it down.
 
-She took it down, and it was the hardest thing that anybody had ever done. It took the whole of her. Her arm shook; it came down an inch, and another, like someone lifting a house, until she had got it nearly to her side. Half of that word did nothing. It wanted meaning, to the end, and she had bitten off the end. She had stopped herself, in the middle, with her teeth, in the worst hour of her life, and she stood there with her empty face turned up to him and her mouth bleeding, and she had got her hand down.
+She took it down. Her arm shook; it came down an inch, and another, until she had got it nearly to her side. Nothing happened. She stood there with her empty face turned up to him and her mouth bleeding, and she had got her hand down.
 
 And his arm had come up.
 

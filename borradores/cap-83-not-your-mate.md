@@ -75,7 +75,7 @@ She hadn’t moved. Her eyes had filled, slowly, right up to the edge, and they 
 
 He waited.
 
-“I’m not going to say I’m sorry I knew. I want to be clear. I made him tell me, I locked a door. I’d do that again. He’d have gone mad, and I don’t think you can imagine how close it was, and he was my friend. I said I’d lie to you, and he made me swear it, in writing, and it was the right decision on the evidence that I had. I’ve been through that, Ron. I’ve been through it more than you’d believe.” She took a small breath. It caught on something. “But I could have looked at the floor. That’s what I’ve got. I could have just gone on knowing it, and looked at the floor, or gone out of the room. I didn’t need to look you in the face. I found I could do that, and it worked, and you believed me. You’ve got such an honest— You thought I was happy. I *was* happy. I was sitting there with your head on my knee, with that in my notebook, and I was so happy. That’s what I can’t get to come out.”
+“I’m not going to say I’m sorry I knew. I want to be clear. I made him tell me, I locked a door. I’d do that again. He’d have gone mad, and I don’t think you can imagine how close it was, and he was my friend. I told him he was never to tell you, and I wrote that down myself, and it was the right decision on the evidence that I had. I’ve been through that, Ron. I’ve been through it more than you’d believe.” She took a small breath. It caught on something. “But I could have looked at the floor. That’s what I’ve got. I could have just gone on knowing it, and looked at the floor, or gone out of the room. I didn’t need to look you in the face. I found I could do that, and it worked, and you believed me. You’ve got such an honest— You thought I was happy. I *was* happy. I was sitting there with your head on my knee, with that in my notebook, and I was so happy. That’s what I can’t get to come out.”
 
 It had run over. It went down by the side of her nose, and she let it.
 
@@ -299,7 +299,7 @@ It had taken no time at all.
 
 Ron stayed exactly as he was, with his hand in his bag.
 
-He was a prefect. He had the badge on, with a dent in it. He’d been told about this, at some length, on the first of September in his fifth year, by somebody who’d got it out of a book: there was to be no passing of unlabelled substances, in class, at any time. He looked at the bag. He could go up there now and say, *Excuse me, Professor*. It was his job, and he knew what Hermione would have said; there’d have been a reference. He knew exactly what that stuff was. He’d seen it in a book, with a picture. It took six months. That meant June. Someone had started stirring it in the week that Sirius died, and hadn’t told a living soul.
+He was a prefect. He had the badge on, with a dent in it. He’d been told about this, at some length, on the first of September in his fifth year, by somebody who’d got it out of a book: there was to be no passing of unlabelled substances, in class, at any time. He looked at the bag. He could go up there now and say, *Excuse me, Professor*. It was his job, and he knew what Hermione would have said; there’d have been a reference. He knew exactly what that stuff was. He’d seen it in a book, with a picture. It took nearly six months. That meant June. Someone had started stirring it in the week that Sirius died, and hadn’t told a living soul.
 
 And he had just given it away.
 

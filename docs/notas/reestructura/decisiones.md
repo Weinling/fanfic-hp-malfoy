@@ -139,6 +139,22 @@ Corrige lo anterior donde choque. Informes: `docs/notas/criticas-codex/segunda-o
 
 **Lyra se rompe y Harry es gris (autor).** Ella es una cría: se rompe delante de los demás, sin racionarlo. A él no se le da una moral ni una nobleza que no tiene. El 39 ya está rehecho así.
 
+## 11. Lo que la tanda 73-84 le exige al tramo 4 (informe de Codex, 6 de noviembre; aprobado)
+
+Informe: `docs/notas/criticas-codex/lectura-73-84.md`, §7.
+
+- **Supervivencia no es reparación.** Harry puede curarla sin volver a decidir dónde debe estar. El corte, «Pockets» y la voz no son un solo accidente, y la curación no paga el corte. Antes del baño ya estaban la vigilancia, el brazo, «Please come», Ron y la tortura, a plena conciencia.
+- **La ventana del oído, con fuentes y tiempos:** qué dijo antes de cerrarse el ojo, qué dijo durante, qué puede sacar Riddle de la cabeza de Harry y por qué no cobra. La caja la supo por Draco; que oye, por ella, mientras dormía. No es lo mismo.
+- **Greer tiene consecuencias fuera de Lyra:** Crabbe, Zabini, Hopkins, Hermione, Draco, los elfos, Pomfrey, que dejó escrito lo que vio, y Mrs Goyle. Crabbe no comprende de golpe.
+- **Ginny es el sujeto de su hora.** Sabe lo bastante para decidir, y sigue jugando.
+- **El grupo sigue sin Harry.** Volver exige que Neville quiera y que los chicos puedan negarse. Matar a Riddle no es el certificado.
+- **Ron y Hermione:** sentarse por turnos no paga cómo le miró.
+- **Bode y Bones son confesiones distintas.** Nada de una lista de pecados que Harry perdona.
+- **Draco:** obedeció bien y pidió ayuda. Si Riddle lo alcanza, no es castigo por pedirla.
+- **La rata:** el desmentido devuelve algo verdadero a Lyra en escena, dato por dato.
+- **El veneno y «Not yet»:** el consentimiento, sin que la intoxicación sea un examen romántico.
+- **Qué sabe Dumbledore de Greer:** abierto. Snape dijo que diría lo mismo; no se ha visto.
+
 ## Lo que decido si no dices lo contrario
 
 - **Unos 100 capítulos en total**, más extras: unos 50 más de los que hay ahora, contra los 35 que se estimaban. Son unas 200.000 palabras por escribir.

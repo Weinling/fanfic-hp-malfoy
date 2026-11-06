@@ -6,3 +6,6 @@ El local de Hogsmeade: horno, mostrador, taburete para ancianas. Ocho Galeones e
 
 ## Quién sabe qué
 Lyra y Snape. Veintitrés. Pomfrey duda. Dumbledore firma lo que dice Snape.
+
+## Lectura de Codex (6 de noviembre)
+Pomfrey: «I shall write down what I found.» Queda por escrito.

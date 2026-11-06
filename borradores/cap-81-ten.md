@@ -4,7 +4,7 @@ Ron found him in the changing room.
 
 It was the Monday. Harry had stayed behind after practice, to do something to his broom that didn’t need doing. It smelt of wet wool and liniment and it had started to get dark. He heard the door go. He knew the feet, and he went on with what he was doing; and they came along between the benches and stopped, and he looked up.
 
-Ron had a badge on, with a dent across the middle. He’d got bigger through the neck. He stood with his arms hanging, in his practice things, and looked at a point on the wall about a foot above Harry’s head. He had said three words to Harry since May, and it looked as if he would rather have swallowed a Bludger than make it four.
+Ron had a badge on, with a dent across the middle. He’d got bigger through the neck. He stood with his arms hanging, in his practice things, and looked at a point on the wall about a foot above Harry’s head. Apart from Saturday, he had said three words to Harry since May, and it looked as if he would rather have swallowed a Bludger than make it four.
 
 “Ginny’s lost an hour,” said Ron.
 

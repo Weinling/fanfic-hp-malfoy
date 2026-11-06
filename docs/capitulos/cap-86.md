@@ -6,3 +6,6 @@ Homenaje a Goyle junto a las barricas. Draco en la escalera, moneda ardiendo: la
 
 ## Quién sabe qué
 Harry sabe la Marca, que oye, Greer. No sabe por qué se cerró. Lyra sabe *Sec*— y que el ojo solo duerme cuando ella se muere. Riddle ha oído casi todo; no se ha roto el trato: Harry lo supo por Draco.
+
+## Lectura de Codex (6 de noviembre)
+Mrs Goyle se niega en persona el martes: «no Goyle had ever been opened». Lyra sabe que la caja se la dio Draco.

@@ -442,6 +442,8 @@ En orden de lectura. Las fechas marcadas «deducida» no las da el texto: salen 
 - **Besos en la boca de la tanda:** 76 (colina) y 85 (escalera).
 - **Moneda:** va en los dos sentidos (79). **Grupo:** «Defence Society», de Neville; Harry, fuera desde el 5 de diciembre de 1996. **Felix:** en el bolsillo de Lyra. **Caja:** en poder de Harry, veintitrés (86; queda en el lavabo: tramo 4). **El libro negro de Crabbe y el local:** sin dueña. **Calcetín:** Harry. **Guantes de Miss Bode:** Lyra.
 
+- **Pobble es elfa** (2, 26, 36, 56, 74). **Hermione exigió el silencio ante Ron** y lo escribió ella (51, 83). Crouch padre estuvo controlado de octubre de 1994 a junio de 1995.
+
 ## 5. Fichas vivas
 
 Al final del 57.

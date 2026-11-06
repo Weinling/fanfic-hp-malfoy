@@ -9,3 +9,6 @@
 
 ## Quién sabe qué
 Lyra tiene la caja. Draco sabe veinticuatro, no qué son. Narcissa sabe que Lyme está a crédito.
+
+## Lectura de Codex (6 de noviembre)
+Bones cambió las palabras, no la lista: el rol de las cuatro casas se copia cada Año Nuevo y nadie lo lee desde 1952. Crouch añadió *T. M. Riddle* en la primavera de 1995.

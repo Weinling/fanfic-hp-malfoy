@@ -86,7 +86,7 @@ She walked very straight. He’d seen her walk like that down the middle of the 
 
 He couldn’t see her properly. It was too dark for that, and then the light came up a little. Her face had no blood in it at all. He’d seen wax that had more. It was white as a wall, as plaster, right to the edges of her lips, and all he could see of her eyes was how very large they were. She had done her hair. Every pin of it was in place.
 
-He had opened his mouth. He had thought of something to say, on the ridge. He’d had about nine hours.
+He had opened his mouth. He had thought of something to say, on the ridge. He’d had all night to think of it.
 
 “You’re early,” said Lyra.
 

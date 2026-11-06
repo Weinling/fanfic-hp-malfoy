@@ -2,7 +2,7 @@
 
 I take the soup up on Thursdays.
 
-I have done so for fourteen years and five months, and until this spring I took it to the east cottage, through the study, by a Portkey that I have never been thanked for. Now it goes to the old nursery. There are forty-one stairs. It is barley, because he can manage barley. I carry the tray myself, since Pobble’s hands have started to shake when he comes to that door, and I set it on the stool, and I tie the napkin, and then I give it to my daughter, who has taken to being there.
+I have done so for fourteen years and five months, and until this spring I took it to the east cottage, through the study, by a Portkey that I have never been thanked for. Now it goes to the old nursery. There are forty-one stairs. It is barley, because he can manage barley. I carry the tray myself, since Pobble’s hands have started to shake when she comes to that door, and I set it on the stool, and I tie the napkin, and then I give it to my daughter, who has taken to being there.
 
 I have a list. One should. The linen was counted this morning. One of the double sheets in the second-floor cupboard has a hole bitten in the crest. It was at the bottom of the pile, folded with the hole inside. I have not spoken to anyone about that. I put it back as I found it. The limes want cutting. My husband is allowed one blanket and has written to ask for a second. My son has oiled his key. There are sixteen people dining tomorrow, and the Dark Lord does not eat, which means that I shall have to think of something to do with his plate.
 

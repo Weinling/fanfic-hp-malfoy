@@ -124,7 +124,7 @@ She looked at her across the sun, from under her pale eyebrows, and at the bottl
 
 “No,” said Goyle.
 
-She was laughing. She could hardly get it out. It was the funniest thing that had ever happened. She had learnt that word. It had taken her five. She’d found out what it was for; and it worked, it had worked on the Wednesday, you just said it, and it didn’t matter a bit, and nobody died. She had been so looking forward to doing it again.
+She was laughing. She could hardly get it out. It was the funniest thing that had ever happened. She had learnt that word. It had taken her five. She had been so looking forward to doing it again.
 
 “You taught me that,” said Goyle. “Didn’t you? Oh, your *face*. Look at you. You’re not hungry. You’ve got butter on the Herodotus. No, I won’t, you can’t make me, I’m going to stand here till you’ve had one. They’re not going to poison you. I’ll tell you what. Look.”
 
@@ -178,7 +178,7 @@ It came across the small space between them, not very steadily, with its bit of 
 
 “Go on,” said Goyle.
 
-It was hardly a breath. She was smiling. She’d got that frightful great slow smile, like all the shutters in a house. Her eyes had started to go past Lyra’s shoulder, and she brought them back. It took her a good deal of trouble. It was a thing that had to be got done. She had been trying to do that for six months. She’d been at it, one way and another, since the train.
+It was hardly a breath. She was smiling. She was still smiling. Her eyes had started to go past Lyra’s shoulder, and she brought them back. It took her a good deal of trouble. It was a thing that had to be got done. She had been trying to do that for six months. She’d been at it, one way and another, since the train.
 
 “It’s a nice one,” said Greer Goyle.
 
@@ -238,7 +238,7 @@ She looked at him for a long moment. She looked down, at the big plain face on t
 
 There was a silence.
 
-“Give me the form,” she said.
+“Give me the form,” she said. “I shall write down what I found.”
 
 They took her away at about six, on a stretcher, under a sheet. It needed four. Someone had told Crabbe she could sit down. She hadn’t. She’d stayed at the door until the last of them had gone by; she’d looked at what was on the stretcher, all the way to the turn of the stairs. Then she walked across the dormitory. She went to the next bed, the one that gave at the corner. She laid the long black book on the pillow. She stood there, with her back to the room, and she put her hand in the pocket of her shawl and took out a pencil. She looked at it. She didn’t seem to know what it was for.
 

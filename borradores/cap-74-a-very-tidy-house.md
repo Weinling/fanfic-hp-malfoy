@@ -2,7 +2,7 @@
 
 The Aurors had gone to the cellars at last.
 
-Pobble told her so in the hall, taking her cloak, with his ears flat. They had come on the Thursday and again on the Friday, nine of them, in boots. They had taken up the flags in the wine vault, and had the back off the cupboard under the still-room stairs, where nobody had been since her great-grandmother. They had found four hundred bottles of the ’47 and a quantity of dead mice. In 1992 Arthur Weasley would have sold one of his children for that afternoon, and he’d had several to spare; and they had gone away on the Friday evening with mud on the Aubusson, looking tired. There had been nothing to find, and nobody at home to find it. Everyone had left for the north before breakfast on the Wednesday, Pobble said, and the master’s study had a purple ribbon across the door, and would Miss Lyra be wanting a bath.
+Pobble told her so in the hall, taking her cloak, with her ears flat. They had come on the Thursday and again on the Friday, nine of them, in boots. They had taken up the flags in the wine vault, and had the back off the cupboard under the still-room stairs, where nobody had been since her great-grandmother. They had found four hundred bottles of the ’47 and a quantity of dead mice. In 1992 Arthur Weasley would have sold one of his children for that afternoon, and he’d had several to spare; and they had gone away on the Friday evening with mud on the Aubusson, looking tired. There had been nothing to find, and nobody at home to find it. Everyone had left for the north before breakfast on the Wednesday, Pobble said, and the master’s study had a purple ribbon across the door, and would Miss Lyra be wanting a bath.
 
 She went up and looked. She didn’t take off her gloves. She walked the whole length of the south wing, with her heels going ahead of her down the boards, and all the shutters had been folded back and the windows stood open on the evening. There was a smell of cut grass. In the end room somebody had stripped the bed and squared the mattress and left the blankets folded at the foot, with the corners true. He had been brought up in an institution. She stood and looked at those corners for a little while, and there wasn’t a hair on the pillow-ticking, or a ring from a glass. You could not have said that anyone had ever been there.
 
@@ -26,7 +26,7 @@ She woke late, and lay and looked at it. The house had a sound she had forgotten
 
 “I don’t believe that I can sit in here,” said Narcissa Malfoy. “Where does one eat?”
 
-Lyra had to take her. She had been in the kitchens of Hogwarts, on rounds, at an hour when she had no business to be, and she knew the way down here because she had come to steal things at seven. Her mother had lived in that house for seventeen years. She came down the back stairs with her skirt in one hand, slowly, looking about her, as one might go down into a foreign port. It was a long stone room with a high barred window, and the sun came in at a slant. Pobble dropped a colander. He was begged to get up. He wept into the tablecloth. It took some time, and in the end he was sent away to see to the silver, and there they were, the three of them, at the end of a scrubbed table, with a loaf.
+Lyra had to take her. She had been in the kitchens of Hogwarts, on rounds, at an hour when she had no business to be, and she knew the way down here because she had come to steal things at seven. Her mother had lived in that house for seventeen years. She came down the back stairs with her skirt in one hand, slowly, looking about her, as one might go down into a foreign port. It was a long stone room with a high barred window, and the sun came in at a slant. Pobble dropped a colander, and was begged to get up, and wept into the tablecloth. It took some time, and in the end she was sent away to see to the silver, and there they were, the three of them, at the end of a scrubbed table, with a loaf.
 
 “One cuts it, I suppose,” said her mother.
 
@@ -60,7 +60,7 @@ It had. It had gone a little soft, in the heat of the train, and it was by some 
 
 He came back at seven, on foot.
 
-She saw him from the landing window. He walked up the middle of the drive, in the long gold light, with his hands behind him, looking about at the limes like a man who is thinking of taking a lease. There was something moving through the grass, a little way behind him. At the bottom of the steps he stopped and cleaned his boots on the scraper, the left and then the right, and he took some trouble over it. Then he gave his hat to Pobble, and thanked him.
+She saw him from the landing window. He walked up the middle of the drive, in the long gold light, with his hands behind him, looking about at the limes like a man who is thinking of taking a lease. There was something moving through the grass, a little way behind him. At the bottom of the steps he stopped and cleaned his boots on the scraper, the left and then the right, and he took some trouble over it. Then he gave his hat to Pobble, and thanked her.
 
 They were all in the hall by then. She didn’t know how that had come about. Her mother had changed her dress. Aunt Bella came in at the great door behind him, with her head back, sniffing the house; and she saw Lyra on the stairs and gave a small scream of delight, and came up them two at a time with her hair flying.
 
