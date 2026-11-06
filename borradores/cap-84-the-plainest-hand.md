@@ -58,7 +58,7 @@ The square pale face did not change. It looked at her. It had hoped for rather m
 
 She went past, along the wall. Her shoulders were very square. Lyra turned to go in, and he hadn’t moved.
 
-He stood there. He was about a head taller than she was. She hadn’t been so near him since the second week of November, last year, on a Tuesday, in a pink room, with a cup. She knew what colour his eyes were, now. They were very light, and they looked rather tired; and they weren’t looking at her face. They had gone down. They had gone to her hands, in their long lumpy grey gloves, holding a Herodotus. They stayed there for a moment. They went to her left sleeve, and came up. It didn’t take long. He didn’t do anything with his mouth.
+He stood there, about a head taller than she was. She hadn’t been so near him since the second week of November, last year, on a Tuesday, in a pink room, with a cup. She knew what colour his eyes were, now: very light, and rather tired. They weren’t looking at her face. They had gone to her hands, in their long lumpy grey gloves, holding a Herodotus, and they stayed there for a moment before they went to her left sleeve, and came up. He didn’t do anything with his mouth.
 
 It was one moment too long. She saw him know that.
 
@@ -70,7 +70,7 @@ He hitched up his bag with his forearm. He went away down the corridor, after hi
 
 She’d been expecting it. She had thought it would be sooner.
 
-It was the same night, or it was very late. The others had gone to bed. The dormitory lay in the green dark, with the lake moving on the ceiling, and she had been sitting up on the edge of her mattress for some time with her boots still on. There was a bar of light at the bottom of the hangings of the next bed. It went out. She heard the curtain rings. There was a soft heavy step on the boards, and someone came round, in a flannel dressing gown, and stood at the foot of her bed.
+It was the same night, very late. The others had gone to bed, and the dormitory lay in the green dark, with the lake moving on the ceiling, and she had been sitting on the edge of her mattress for some time with her boots still on. The bar of light at the bottom of the next bed’s hangings went out. She heard the curtain rings, and a soft heavy step on the boards, and someone came round, in a flannel dressing gown, and stood at the foot of her bed.
 
 She didn’t lift her head at once. She knew how she stood. She had been standing there, one way and another, since they were eleven.
 
@@ -82,9 +82,9 @@ She looked at it, and at the wool on her own hand.
 
 “That’s mine,” said Crabbe.
 
-It was her low reasonable voice. There wasn’t anything in it. Lyra raised her eyes, and they were on a level with a thick flannel belt. She went up. It was a big pale plain square face, and the green light was moving on it, and it was looking down at her, slowly, without hurry.
+It was her low reasonable voice, with nothing in it. Lyra raised her eyes from a thick flannel belt, and went on up, to a big pale plain square face with the green light moving on it, looking down at her without hurry.
 
-She could think of nothing whatever to say. That had never happened to her before. She had nine answers to everything. She looked for one. She sat there with her boots on, on the edge of the bed, and she looked at the person who had taken down every lesson for her for five years, who had picked up a wand once and given it back. *Yes*, she said. It didn’t make any sound. She tried again.
+She could think of nothing whatever to say. That had never happened to her before; she had nine answers to everything. She sat there with her boots on, on the edge of the bed, and looked at the person who had taken down every lesson for her for five years, who had picked up a wand once and given it back. *Yes*, she said. It didn’t make any sound. She tried again.
 
 “Yes,” said Lyra.
 
@@ -124,7 +124,7 @@ She wasn’t cross. She had a slow, thick, comfortable sort of voice, and it sou
 
 She went away. Lyra heard her going down the stairs, one at a time.
 
-She sat quite still. After a while she found she had turned round. It was a nice clean tray. There was a small blue egg cup on it that she had owned since she was seven. Somebody must have written to Pobble. She didn’t eat the toast. She wanted that known. She sat and looked at it, until it had gone hard.
+She sat quite still. After a while she found she had turned round. It was a nice clean tray, with a small blue egg cup on it that she had owned since she was seven; somebody must have written to Pobble. She didn’t eat the toast. She sat and looked at it until it had gone hard.
 
 ⁂
 
@@ -134,7 +134,7 @@ It was in the corner by the big fire. It had shrunk, a little. Nott dealt, with 
 
 Nobody said anything. It had got about. She didn’t know how these things got about. People had started to look up, from all over the room. Zabini had laid his cards face down on the table, and aligned them. He leaned back. He took his long fingers, one after another, and he cracked them.
 
-It was only a cake. It wasn’t even very big. It was a plain flat dark round thing with a bit of a shine on it, and she set that down in front of him, on the green baize, with a fork, and she stepped back. She took hold of her apron with both hands. She had been at this since the summer before last; Lyra had seen some of it. There’d been a walnut one, in October. She’d had the fat black notebook propped up against the salt, every morning at six, in the kitchens, for fourteen months. There had been a four, and a six and a half, and a seven and a half, and a nine, a nine, a nine. *It wants more of something.* You could hear her breathing.
+It was only a cake, and not even a very big one: a plain flat dark round thing with a bit of a shine on it. She set it down in front of him, on the green baize, with a fork, stepped back, and took hold of her apron with both hands. She’d had the fat black notebook propped up against the salt, every morning at six, in the kitchens, for fourteen months. There had been a four, and a six and a half, and a seven and a half, and a nine, a nine, a nine. *It wants more of something.* You could hear her breathing.
 
 Zabini looked at the cake. He picked up the fork. He cut a small neat triangle, and put that in his mouth, and closed his eyes.
 
@@ -152,7 +152,7 @@ There was a silence.
 
 Goyle didn’t say anything.
 
-It started at her collar. It came up slowly, in a great hot tide, over her big soft neck and her chins, and it went on rising, until it had got as far as the roots of her hair; and her small slow eyes had filled, and she stood there, enormous, holding on to her apron. She’d started to smile. She didn’t seem to know how it was done. It was the most frightful thing to look at. It was as if someone had opened all the shutters in a very large plain house.
+It started at her collar. It came up slowly, in a great hot tide, over her big soft neck and her chins, until it had got as far as the roots of her hair, and her small slow eyes had filled, and she stood there, enormous, holding on to her apron. She’d started to smile. She didn’t seem to know how it was done, and it was the most frightful thing to look at, as if someone had opened all the shutters in a very large plain house.
 
 There was a roar. It wasn’t Slytherin’s sort of noise. Someone was banging on a table. Nott had got up from his seat, of all people, and he was shaking Goyle’s hand, up and down, with his long dull face gone pink; and someone had got her by the arm, a thickset person, who had come in at the door and stopped. Crabbe had a stub of pencil in her fingers. She wasn’t looking at anybody else in the room. She was writing something in a very small hand on the back of her wrist, and it looked like a sum, and her lips were moving.
 
@@ -162,7 +162,7 @@ Lyra looked at it. She had the saucer in her lap. She could feel them all not lo
 
 She took off one grey glove, and picked up the fork.
 
-It was very dark. It was soft, and heavy, and rather bitter; and then something opened, a long way back, on the sides of her tongue. It was like going out of a warm room on to a terrace, in the sun. She hadn’t tasted anything since June. She’d forgotten that one did. She chewed. She found, to her alarm, that her throat had closed up, and that she was going to have to swallow it round something. She kept her eyes on the fire.
+It was very dark, and soft, and heavy, and rather bitter; and then something opened, a long way back, on the sides of her tongue, like going out of a warm room on to a terrace in the sun. She hadn’t tasted anything since June. She’d forgotten that one did. She found, to her alarm, that her throat had closed up, and that she was going to have to swallow it round something. She kept her eyes on the fire.
 
 She got through about half. She laid the fork down on the saucer. Her hand was shaking, a little. She looked up, and Goyle was standing over her, with her whole face wet, and nobody had ever looked at anybody like that.
 
@@ -176,7 +176,7 @@ She gave him the breakfast table. It was the same night, at eight o’clock, in 
 
 “You may go,” said Snape.
 
-He hadn’t looked up. He was writing something. She got to her feet. She had taken a step, and his left hand moved, on the desk; the thin yellow forefinger came out, and it tapped once on the blotter, without a sound. It stayed there.
+He hadn’t looked up. She got to her feet and had taken a step, when his left hand moved on the desk; the thin yellow forefinger came out, tapped once on the blotter, without a sound, and stayed there.
 
 She looked.
 
@@ -198,7 +198,7 @@ He took the sheet, without looking, and drew it towards him. He read that. He wr
 
 She looked at those two words for some time.
 
-It went through her, from the bottom. She couldn’t have said what it was. She had to put out her left hand and rest the tips of her fingers on the edge of the desk. There wasn’t anyone else alive. There wasn’t a soul who would ever have said that to her. He sat there in his dreadful black, with his dirty hair, not looking at her. He had called her *Miss Malfoy*, in that voice, for six years. *Tell Potter*. He hated the boy. He’d hated him since before he could walk; he had been made to teach him. Why would he want— She stood with the pen in her hand, and the whole of it was there, right there, at the end of her arm. She had burnt it, at a candle, on the second of September. It would have gone in a sugar mouse.
+It went through her, from the bottom, and she had to put out her left hand and rest the tips of her fingers on the edge of the desk. There wasn’t a soul alive who would ever have said that to her. He sat there in his dreadful black, with his dirty hair, not looking at her. *Tell Potter*. He hated the boy; he’d hated him since before he could walk. She stood with the pen in her hand, and the whole of it was there, at the end of her arm. She had burnt it, at a candle, on the second of September. It would have gone in a sugar mouse.
 
 She wrote it very small. It took her a little while.
 
@@ -220,13 +220,13 @@ It was Friday the thirteenth, and it had been snowing since dawn.
 
 She found it after Potions. She had gone along to the bathroom with the broken tap, to get ten minutes, and had opened her bag for a handkerchief. It was lying on the Herodotus. She hadn’t put it there. She looked at it for some time, with her hand in the air.
 
-It wasn’t any bigger than the top joint of her thumb. It was a very small plain glass phial, with a good cork, and a bit of wire round that, as you’d do it if you had taught yourself from a book. She took it out. It lay in the palm of her grey woollen glove, weighing nothing. She went over to the window with it. The light was going. She held it up, and it filled with a slow, thick, heavy, deep-gold shine, like the sun going down on a very calm evening. There were small bright threads turning over, down in the bottom. It didn’t seem to take any notice of her.
+It wasn’t any bigger than the top joint of her thumb: a very small plain glass phial, with a good cork and a bit of wire round it, as you’d do it if you had taught yourself from a book. It lay in the palm of her grey woollen glove, weighing nothing. She took it over to the window, where the light was going, and held it up, and it filled with a slow, thick, heavy, deep-gold shine, like the sun going down on a very calm evening, with small bright threads turning over, down in the bottom. It didn’t seem to take any notice of her.
 
 She knew what it was. She’d moved the damper herself, in June.
 
-It had taken him a hundred and seventy-four days. He had never said what it was for. He’d looked at it as a man looks at the only match he’s got. It would give you twelve hours. There would be one day in the whole of your life when you’d know which foot. She’d heard him say, *Please come*. She had gone on buttering. He hadn’t spoken a word to her since.
+It had taken him a hundred and seventy-four days, and he had never said what it was for. He’d looked at it as a man looks at the only match he’s got. It would give you twelve hours: one day in the whole of your life when you’d know which foot. She’d heard him say *Please come*, and she had gone on buttering, and he hadn’t spoken a word to her since.
 
-There wasn’t any note. She looked. She felt round the bottom of the bag. She turned out the Herodotus. There was no slip of second-best paper; there wasn’t a line. He hadn’t written *on account*. It was the first thing he had given her in six months that nobody was keeping a record of. Nothing had been said about it. There would be nothing said. Tomorrow, at ten past eight, he would look at her for a minute, as one looks at a clock.
+There wasn’t any note. She felt round the bottom of the bag and turned out the Herodotus, and there was no slip of second-best paper, not a line. He hadn’t written *on account*. It was the first thing he had given her in six months that nobody was keeping a record of, and nothing had been said about it, and nothing would be. Tomorrow, at ten past eight, he would look at her for a minute, as one looks at a clock.
 
 She couldn’t see the phial any more. She seemed to have got something in her eyes.
 
@@ -240,7 +240,7 @@ She kept her hand there, on the outside. She could feel it, through the wool, ab
 
 She’d gone to bed at nine. She had said she had a headache.
 
-She hadn’t got anything. She lay on her side with the hangings drawn and her back to the room, and the phial against her ribs, in the thick warm dark. She wasn’t asleep. There was a good deal of snow going by the lake. She had heard the others come up. She’d heard Parkinson’s cousin being sick; she’d heard the taps go; and after that for a long time she didn’t hear anything at all. It must have been about eleven. She had her arm under the pillow, and she had got to the stage of counting her own pulse.
+She hadn’t got anything. She lay on her side with the hangings drawn and her back to the room, and the phial against her ribs, in the thick warm dark, and she heard the others come up, and Parkinson’s cousin being sick, and the taps; and after that for a long time she didn’t hear anything at all. It must have been about eleven. She had got to the stage of counting her own pulse.
 
 There was a creak. Somebody had sat down on the next bed. It was the one that gave at the corner.
 
@@ -248,7 +248,7 @@ There was a creak. Somebody had sat down on the next bed. It was the one that ga
 
 She stopped counting.
 
-There was a sound of someone moving, and blankets. A very small light had come on, out on the far side of her curtains, and it made a line along the bottom of the hangings, about as wide as a ruler. She could smell cold mutton. Somebody took a bite of something. It went on for some time. She could have told you who it was with her eyes shut. She’d been listening to those two people eat, in the dark, for five and a half years.
+There was a sound of blankets. A very small light had come on, out on the far side of her curtains, and it made a line along the bottom of the hangings, about as wide as a ruler. She could smell cold mutton. Somebody took a bite of something. She could have told you who it was with her eyes shut; she’d been listening to those two people eat, in the dark, for five and a half years.
 
 “I told you,” said Crabbe. “Tuesday. I told you what that was.”
 
@@ -306,7 +306,7 @@ The rings slid. The bed by the wall gave its long sigh. She waited. She lay and 
 
 She put out her hand. Her arm didn’t seem to want to do it. It went out through the gap in the hangings, into the cold, and it felt about, over the wood; and it found that, and brought it in.
 
-It was a sandwich. She held it in both hands, under the blankets, with her knees drawn up. She undid the paper. It took a while, because of the way her fingers were; it made a noise like a house falling down. It was quite cold, and it had been made some hours ago, by someone who knew what she was doing. It was thick white bread, with the crusts cut off. She lifted it up, in the dark. She could smell it.
+It was a sandwich. She held it in both hands, under the blankets, with her knees drawn up, and undid the paper, which took a while, because of the way her fingers were; it made a noise like a house falling down. It was quite cold, and it had been made some hours ago, by someone who knew what she was doing: thick white bread, with the crusts cut off. She lifted it up in the dark, and she could smell it.
 
 “It’s a bacon one,” said Lyra.
 

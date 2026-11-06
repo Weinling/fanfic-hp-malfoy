@@ -2,17 +2,17 @@
 
 Ron Weasley had a chart.
 
-It wasn’t his fault. It had been lent to him. Hermione had ruled it for him in the first week of June, on a double sheet of squared parchment, at a moment when she’d have ruled anything for anybody if it got her out of a room. It had a column for the date and a column for the reason. It had a little key in the corner. He had meant to give it back. He’d only taken it so that he could keep track of how many times he’d been angry with Harry Potter, because he had a feeling that it was going to come in useful, for when they had the row.
+It wasn’t his fault. It had been lent to him. Hermione had ruled it for him in the first week of June, on a double sheet of squared parchment, at a moment when she’d have ruled anything for anybody if it got her out of a room, with a column for the date and a column for the reason and a little key in the corner. He had meant to give it back. He’d only taken it to keep track of how many times he’d been angry with Harry Potter, because he had a feeling it was going to come in useful, for when they had the row.
 
 By the last week of November it had a hundred and eighty-seven entries on it, and he was on his third sheet.
 
-He wasn’t proud of that. He kept it in his Quidditch book. It started all right. *25 May: Knew about G. Knew about G. KNEW ABOUT G.* You could tell he had been pressing on. It got quieter after that, and there was a good bit in August where it was mostly *Didn’t write*, and *Nor did I*. There was a *Sorry about Sirius (mine)*, which he’d put in, and crossed out, and put in. There was a long stretch in the autumn that just said *Same*. He had been working on a system for that. On the seventeenth of November he had stood up in the Great Hall in front of six hundred people and gone and stood next to him, because of an owl. He didn’t know what you put for that. He’d looked at it for some time. In the end he had written *Hedwig*, and he’d left the reason blank. That wasn’t forgiving him. It was an owl.
+He wasn’t proud of it. He kept it in his Quidditch book. It started all right. *25 May: Knew about G. Knew about G. KNEW ABOUT G.* You could tell he had been pressing on. It got quieter after that, and there was a good bit in August where it was mostly *Didn’t write*, and *Nor did I*, and a *Sorry about Sirius (mine)*, which he’d put in, and crossed out, and put in, and then a long stretch in the autumn that just said *Same*. On the seventeenth of November he had got up in the Great Hall in front of six hundred people and gone and stood next to him, because of an owl, and he didn’t know what you put for that. In the end he’d written *Hedwig*, and left the reason blank. That wasn’t forgiving him. It was an owl.
 
 So that was one thing. There were a few others.
 
 He was captain of Gryffindor, for a start. It was the only thing he had ever wanted that he’d been given. He had a badge for it and a whistle and a very good view of what was wrong with everybody’s left side, and they’d lost to Slytherin by ten points in the worst weather since the Flood, with the best save of his life, and then they’d flattened Ravenclaw. He ought to have been enjoying that. He got up at six, and he stood in the freezing dark with his breath going up and his team shouting at him. He’d think: *This is it, then. This is what it’s like. I’m good at something.* Then he’d look round for someone to tell, and that was when he’d get out the chart.
 
-His sister slept with the light on. That was another. Parvati had told him. She didn’t make a thing of it; she’d just got a small steady blue flame in a jam jar, on her locker, that she had asked Hermione how to do. She came down in the mornings and ate her toast. She laughed at the right places, she scored nine goals against Ravenclaw, and every so often he’d see her stop, in the middle of a sentence, and look at her own hand. She’d stopped burning things. She had started keeping them. She’d got a box of it now, under her bed, everything that she’d written since the ninth of November, all dated. She went through it on Sundays. Nobody had told him who had done that to her. He was fairly sure that two people knew. He had asked one of them, in a cupboard, with a mop in his hands, and he’d got that face.
+His sister slept with the light on. That was another. Parvati had told him. She didn’t make a thing of it; she’d just got a small steady blue flame in a jam jar on her locker, that she had asked Hermione how to do. She came down in the mornings and ate her toast and laughed at the right places, and she scored nine goals against Ravenclaw, and every so often he’d see her stop, in the middle of a sentence, and look at her own hand. She’d stopped burning things and started keeping them, a whole box under her bed, everything she’d written since the ninth of November, all dated, and she went through it on Sundays. Nobody had told him who had done that to her. He was fairly sure two people knew. He had asked one of them, in a cupboard, with a mop in his hands, and he’d got that face.
 
 *Nov. 11: “I just know.”* He had gone over that one twice.
 
@@ -39,7 +39,7 @@ They came from Grimmauld Place, by parcel, in brown paper, with Kreacher’s hor
 
 Hermione saw inside it on the twenty-first.
 
-She didn’t tell Ron. She had got out of the way of telling him things. They were doing rounds together on the Thursday, the fourth floor and the fifth, because that was how the rota fell, and it had fallen like that since May; she had drawn it up herself, and it hadn’t occurred to either of them to change it. You walked. You kept about a yard and a half apart. She held the lamp. They’d been up and down those stairs together sixty times since September, and he could have told you the whole of what they’d said. “That’s the east stair done.” “There’s a Fifth-year behind that tapestry.” “Your lace is undone.” He had been going to ask her something, in May. He had told someone on a moor. It had been a really good question.
+She didn’t tell Ron. She had got out of the way of telling him things. They were doing rounds together on the Thursday, the fourth floor and the fifth, because that was how the rota fell; she had drawn it up herself in May, and it hadn’t occurred to either of them to change it. You walked, about a yard and a half apart, and she held the lamp. They’d been up and down those stairs together sixty times since September, and he could have told you the whole of what they’d said. “That’s the east stair done.” “There’s a Fifth-year behind that tapestry.” “Your lace is undone.” He had been going to ask her something, in May. He had told someone on a moor. It had been a really good question.
 
 She stopped on the landing, by the armour with no head.
 
@@ -87,9 +87,9 @@ He felt in his robes. It was there, with the Puddlemere fixtures. He took it out
 
 “I’ve been meaning to give you that back,” said Ron.
 
-She looked at it. She looked at his hand, holding it out, and it wasn’t very steady. Very slowly she put up her thin scarred arm and wiped her face on her sleeve. She took the thing from him. She unfolded it; she held it to the lamp. He saw her see *Same*. He saw her go down the whole of that autumn, line by line, with her lips pressed together. She got to the bottom. There was a date there, the twenty-first of November, and he hadn’t filled that in.
+She looked at his hand, holding it out, not very steady. Very slowly she put up her thin scarred arm and wiped her face on her sleeve, and she took the thing from him and unfolded it and held it to the lamp. He saw her see *Same*. He saw her go down the whole of that autumn, line by line, with her lips pressed together, to a date at the bottom, the twenty-first of November, that he hadn’t filled in.
 
-She didn’t say anything. She got out her pen. She laid the sheet on the headless shoulder of the armour, and she ruled a new line, very straight, and a fresh column at the end of it. It took her about a minute. She blew on it. She held it out.
+She didn’t say anything. She got out her pen, laid the sheet on the headless shoulder of the armour, and ruled a new line, very straight, and a fresh column at the end of it. She blew on it, and held it out.
 
 “You’d run out of room,” said Hermione.
 
@@ -123,7 +123,7 @@ Ron stopped. He had been in that kitchen a fair number of times, and he’d seen
 
 “The custard. Friday. You always do. You think it wants more because you’re cross.” She turned the pastry a quarter of the way round. She hadn’t looked up. “Hello, Weasley. There’s a pie.”
 
-There was. It was on a rack by the range, it was the size of a small shield, and it had leaves on it. He didn’t say anything. He had stopped being able to. It was steak and something, with a crust that broke with a noise like walking on frost, and he sat down on the end of the bench with a plate, and for about four minutes he wasn’t anybody’s captain. He ate it with his eyes shut. When he opened them she was standing on the other side of the table with her hands in a cloth, looking at him, with her head a bit on one side. She’d got small slow eyes. He had never really looked at them. She was Malfoy’s, she’d always been Malfoy’s, she had sat next to that for five and a half years.
+There was. It was on a rack by the range, the size of a small shield, with leaves on it. It was steak and something, with a crust that broke with a noise like walking on frost, and he sat down on the end of the bench with a plate, and for about four minutes he wasn’t anybody’s captain. He ate it with his eyes shut. When he opened them she was standing on the other side of the table with her hands in a cloth, looking at him, with her head a bit on one side. She’d got small slow eyes, and he had never really looked at them. She was Malfoy’s, she’d always been Malfoy’s, she had sat next to it for five and a half years.
 
 “Well?” said Goyle.
 
@@ -151,9 +151,9 @@ Harry had finished with the Patronus lot at eight. He’d had them for an hour, 
 
 He didn’t say it very loudly. He’d said it to a couple of fourth-years. That was the funny thing. It was just his ordinary voice. It carried right down the room, and they all stopped.
 
-Ron couldn’t have told you what he did. That was what he’d think about. He had seen Harry Potter do a lot of things with a wand. He had seen him send a Bludger through a window and he had seen him hit a dragon in the eye. He’d have said he knew what it looked like. It wasn’t any of that. There wasn’t a flash. Harry had walked up to it, and he’d looked at it for a moment, with his head a little on one side, the way that you’d look at a shelf you were going to put up. He had said something, under his breath, very quietly. He moved his wand about an inch.
+Ron couldn’t have told you what he did. That was what he’d think about. He had seen Harry Potter send a Bludger through a window and hit a dragon in the eye, and he’d have said he knew what it looked like, and it wasn’t any of that. There wasn’t a flash. Harry walked up to it and looked at it for a moment, with his head a little on one side, the way you’d look at a shelf you were going to put up. He said something, very quietly, and moved his wand about an inch.
 
-He’d said something else. He moved it again. He was explaining. That was what got you. He was talking the whole time, in that nice clear tired voice, the one that he’d used for *happy memories*. You’d want to start here, he said. You didn’t want the big muscles. People always went for the big muscles and it was a waste. A person could lose all that and not really notice. It was better to find something that had a lot of nerves, and to take your time. It took a bit of practice. If you did this, it would hold; and then you could do this. There was no blood, of course, there was only canvas, and straw, and a slow sort of creeping and parting in the coat. The turnip had started to do something. It had started very slowly to come apart, in thin neat curling strips, from the crown down. You’d want to leave the eyes till last.
+He said something else, and moved it again. He was explaining. That was what got you. He was talking the whole time, in that nice clear tired voice, the one he’d used for *happy memories*. You’d want to start here, he said. You didn’t want the big muscles; people always went for the big muscles and it was a waste. It was better to find something with a lot of nerves, and to take your time. If you did this, it would hold, and then you could do this. There was no blood, of course, only canvas and straw, and a slow sort of creeping and parting in the coat. The turnip had started very slowly to come apart, in thin neat curling strips, from the crown down. You’d want to leave the eyes till last.
 
 Nobody was making any noise at all.
 
@@ -167,7 +167,7 @@ He looked along the row. He had very green eyes, and they weren’t looking at a
 
 “Hopkins,” said Harry. “You’ve got a reason, if anyone has.”
 
-There wasn’t a sound. Wayne Hopkins looked at him. He had a wand in his left hand. He looked at the dummy, and the strips of turnip lying on the boards. He took his time; he’d got into the way of it. He had got that small puzzled line between his eyebrows, as if someone had asked him the way to somewhere that he’d never heard of. Ron thought he’d say *Sorry*. He’d have put money on it.
+There wasn’t a sound. Wayne Hopkins looked at him, with a wand in his left hand. He looked at the dummy, and the strips of turnip lying on the boards, and he took his time; he’d got into the way of it. He had that small puzzled line between his eyebrows, as if someone had asked him the way to somewhere he’d never heard of. Ron thought he’d say *Sorry*. He’d have put money on it.
 
 “No, thank you,” said Hopkins.
 
@@ -181,7 +181,7 @@ He had got rather white. It made his jaw look more crooked than ever. He put the
 
 “Right,” said Neville. “Sorry. Where were we? It’s all right, Tamsin. It’s only a turnip. Wands up. Elbows in. We were doing your other left.”
 
-They did it. God knows how. Ron got his wand out, and his hand wasn’t all that steady, and he stood up and did it, next to a first-year. *Expelliarmus*. Harry had stayed where he was for a bit. Then he had picked up his book, and walked out. There was only one person who didn’t move. He was standing by himself against the wall, with his hands at his sides and his tie perfectly straight. He wasn’t looking at Neville. He had come a little way forward. He had got his head on one side, and he was looking at the turnip with the most careful and thoughtful attention, as you’d look at something that you might want to remember.
+They did it, God knows how. Ron got his wand out and stood up next to a first-year, and his hand wasn’t all that steady. *Expelliarmus*. Harry stayed where he was for a bit, and then picked up his book and walked out. Only one person didn’t move. He was standing by himself near the wall, with his hands at his sides and his tie perfectly straight, and he wasn’t looking at Neville. He had come a little way forward, and he had his head on one side, and he was looking at the turnip with the most careful and thoughtful attention, the way you’d look at something you might want to remember.
 
 The next Thursday, at five to seven, Neville was standing in the passage outside the long room.
 
@@ -189,7 +189,7 @@ Ron saw it. He had come along early to help with the benches. There was the noti
 
 Nobody said anything.
 
-Neville had gone a slow, deep, painful red. It came up from his collar. He looked as if he was going to be sick. He’d got thirty-seven people in that room, and some of them were eleven. He took a breath. It went in a long way.
+Neville had gone a slow, deep, painful red, from the collar up, and he looked as if he was going to be sick. He’d got thirty-seven people in that room, and some of them were eleven. He took a breath, and it went in a long way.
 
 “Not you,” said Neville.
 
@@ -207,7 +207,7 @@ He turned round, and went back the way that he had come.
 
 They sat down at the corner table, that night, after the common room had thinned out.
 
-It wasn’t a meeting. Nobody had called it. Ron had just been sitting there, with a Puddlemere fixture list, and Neville had come in and lowered himself on to the sofa end like an old man. Ginny was on the floor with her back against the short-legged table, and her jam jar, and her box. Hermione had a Rune dictionary open at nothing. There was a rude dragon on the table top, that Fred had drawn in fourth year. The fire had got low. Someone had left a Chocolate Frog on the *Unfogging the Future*, under the short leg. Nobody could remember why.
+It wasn’t a meeting. Nobody had called it. Ron had just been sitting there with a Puddlemere fixture list, and Neville had come in and lowered himself on to the sofa end like an old man. Ginny was on the floor with her back against the short-legged table, with her jam jar and her box, and Hermione had a Rune dictionary open at nothing. The fire had got low.
 
 “I told him,” said Neville.
 
@@ -243,9 +243,9 @@ She put the jar down, on the boards, quite gently.
 
 He’d worked out what he was going to say. He had worked it out in the shower, with his forehead against the tiles.
 
-It was Friday, at dinner. There was a lot of noise, with the Hogsmeade list going up, and rain on the high windows. It was something brown with dumplings. Harry was at the very end of the table, by the doors, where the draught came in. He had a book propped on the salt. There was a space on the bench beside him about six feet long, and nobody had sat in that since September.
+It was Friday, at dinner, with a lot of noise and rain on the high windows, and something brown with dumplings. Harry was at the very end of the table, by the doors, where the draught came in, with a book propped on the salt. There was a space on the bench beside him about six feet long, and nobody had sat in it since September.
 
-Ron took his plate. He’d got the whole team looking at him; he felt that, between his shoulder blades. He walked down. It was about the longest walk that he’d ever done, and he had walked out in front of a Slytherin stand. He stepped over the bench. He sat down. He’d picked a place about a foot away, and it was too close, and he didn’t move. He put his plate on the table. He picked up his fork.
+Ron took his plate. He’d got the whole team looking at him; he felt it between his shoulder blades. It was about the longest walk he’d ever done, and he had walked out in front of a Slytherin stand. He stepped over the bench and sat down, about a foot away, which was too close, and he didn’t move. He put his plate on the table and picked up his fork.
 
 Harry didn’t look up. He finished his paragraph. He made a very small mark in the margin, with a pencil. He turned his head. The eyes came round, polite and green and rather tired. There was a thin white scar, at the corner of his mouth, that Ron had never noticed.
 
@@ -277,11 +277,11 @@ He’d known Harry Potter for five years and three months, or however you wanted
 
 Nothing else happened.
 
-It went on not happening. He looked round, in the end. He couldn’t help it. Harry was looking at the potato. He’d got his hands on either side of it. There wasn’t anything on his face that you could have called an expression. He just looked like a person who has gone up a long flight of stairs in the dark, and put his foot out for one more step, and it wasn’t there.
+It went on not happening. He looked round, in the end; he couldn’t help it. Harry was looking at the potato, with his hands on either side of it. He just looked like a person who has gone up a long flight of stairs in the dark, and put his foot out for one more step, and it wasn’t there.
 
 Ron finished his dinner. He ate the whole thing. He got up, and stepped back over the bench, and took his plate.
 
-The next night he was there at six. He’d brought a Quidditch magazine. He didn’t say anything, and neither did Harry, and at some point the potato went. On the Sunday it was Neville, with a pot, and he talked to it. On the Monday it was Ginny, who sat down across from him and looked at him, with her very direct eyes, for forty minutes, and ate a whole treacle tart. There was a rota. It was pinned up inside the lid of Hermione’s Rune dictionary, in three colours. She had Tuesdays. Nobody said it was for anything. Nobody forgave anybody. It was just that, from the first week of December onward, at every meal, whichever end of the table he went to and however fast he ate, there was someone sitting there, doing nothing, not being his mate.
+The next night he was there at six, with a Quidditch magazine. He didn’t say anything, and neither did Harry, and at some point the potato went. On the Sunday it was Neville, with a pot, and he talked to it. On the Monday it was Ginny, who sat down across from him and looked at him, with her very direct eyes, for forty minutes, and ate a whole treacle tart. There was a rota, pinned up inside the lid of Hermione’s Rune dictionary, in three colours, and she had Tuesdays. Nobody said it was for anything. Nobody forgave anybody. It was just that, from the first week of December onward, at every meal, whichever end of the table he went to and however fast he ate, there was someone sitting there, doing nothing, not being his mate.
 
 *Dec. 6*, Ron wrote, on the fourth sheet, in the new column. He looked at it. He sucked his quill. *Sitting*.
 
@@ -293,13 +293,13 @@ It was Friday, in the last double Potions of term. It had been snowing since daw
 
 He had his head in his bag. He’d lost his stirring rod. He looked up, for no reason, with his hand in a lot of old Chocolate Frog cards. He could see along the bench.
 
-She had gone to the front, with her phial. She’d left her bag on the stool. It was that grey thing with the silver clasp, and it was standing a bit open, and there was no one near it. Well. There was one person. He was going by, on his way to the sink, with his hands full of dirty glass. He hadn’t looked at it. He wasn’t looking at anything. He had that polite shut tired face on. He didn’t stop. He didn’t so much as slow down. It was only that as he went past the stool, his left hand opened, down by his side, and something very small dropped out of the sleeve. It was about the size of a thumb. Ron saw it go. It had a kind of a gleam, like a bit of the inside of a watch, gold, and it went in at the top of the bag, without a sound. He’d gone on. He was running the tap.
+She had gone to the front with her phial and left her bag on the stool, that grey thing with the silver clasp, standing a bit open, with no one near it. Well. There was one person. He was going by, on his way to the sink, with his hands full of dirty glass and that polite shut tired face on, not looking at anything. He didn’t so much as slow down. It was only that as he went past the stool, his left hand opened, down by his side, and something about the size of a thumb dropped out of the sleeve. It had a kind of a gleam, like a bit of the inside of a watch, gold, and it went in at the top of the bag without a sound. He’d gone on. He was running the tap.
 
 It had taken no time at all.
 
 Ron stayed exactly as he was, with his hand in his bag.
 
-He was a prefect. He had got the badge on. It had a dent in it. He’d been told about this, at some length, on the first of September in his fifth year, by somebody who’d got it out of a book: there was to be no passing of unlabelled substances, in class, at any time. He had seen a lot of notes go across a lot of rooms. He’d got a bit of a chart, in his robes. He looked at the bag. He could go up there now and say, *Excuse me, Professor*. It was his job. He knew what Hermione would have said; there’d have been a reference. He knew exactly what that had been. He’d seen the stuff, in a book, with a picture. It took six months. That meant June. Someone had started stirring that in the week that Sirius died, and hadn’t told a living soul.
+He was a prefect. He had the badge on, with a dent in it. He’d been told about this, at some length, on the first of September in his fifth year, by somebody who’d got it out of a book: there was to be no passing of unlabelled substances, in class, at any time. He looked at the bag. He could go up there now and say, *Excuse me, Professor*. It was his job, and he knew what Hermione would have said; there’d have been a reference. He knew exactly what that stuff was. He’d seen it in a book, with a picture. It took six months. That meant June. Someone had started stirring it in the week that Sirius died, and hadn’t told a living soul.
 
 And he had just given it away.
 

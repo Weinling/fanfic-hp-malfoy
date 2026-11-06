@@ -24,9 +24,9 @@ The door banged. A thickset figure had come in backwards, shaking snow from a sh
 
 She said it with pride. She felt in her apron, and held it out, on the flat of her big pink hand. It was quite an ordinary Galleon. It had been polished. There was a very small square of card tied to it with a bit of thread, and on the card, in a slanting elegant bored hand, Lyra read: *As an investment. I expect nothing. B.Z.*
 
-A very small movement had occurred at the corner of Crabbe’s mouth. Lyra saw it. She had never seen that book. It had a stiff black spine. It was ruled by hand. There were dates in it that went back two years, in the small round careful writing, a whole long patient history of butter, and all the way down the margin, in a much larger, slower, rounder script, somebody had been adding remarks in pencil. *Good. More nutmeg. Ness says no.*
+A very small movement had occurred at the corner of Crabbe’s mouth. Lyra saw it. She had never seen that book, with its stiff black spine, ruled by hand. There were dates in it that went back two years, in the small round careful writing, a whole long patient history of butter, and all the way down the margin, in a much larger, slower, rounder script, somebody had been adding remarks in pencil. *Good. More nutmeg. Ness says no.*
 
-Two years. She stood on the boards with the cold coming up through her soles. They’d gone quiet when she came in at the door. They had always gone quiet. She had thought it was respect. She’d sat in that dormitory for five and a half years, at the centre of everything, with those two people on either side of her like a pair of good bookends; and all that time there had been this. It had got a yard at the back. It had a stool in it, for old ladies. She looked for the place that had been kept for her. She went over the whole of that small dim smelly room. She wasn’t in it. Nobody had meant anything by that. It had simply never occurred to anyone that she would want to be.
+Two years. She stood on the boards with the cold coming up through her soles. They had always gone quiet when she came in at the door, and she had thought it was respect. She’d sat in that dormitory for five and a half years, at the centre of everything, with those two people on either side of her like a pair of good bookends; and all that time there had been this, with a yard at the back, and a stool in it for old ladies. She went over the whole of that small dim smelly room, looking for the place that had been kept for her. Nobody had meant anything by it. It had simply never occurred to anyone that she would want to be there.
 
 She had a slight sensation of having looked through a window, from the dark outside, into a house with people in it.
 
@@ -64,17 +64,17 @@ His voice was hoarse. It didn’t have anything in it. He said it as a person mi
 
 There was a pause, of about the width of a finger and thumb.
 
-She looked for the pleasant voice. She knew where she’d left it. It lay along the vein. It was a Saturday evening, with the snow going by. He might have put down his cup; he might have been reading. She thought about Herodotus. She thought about a boy on a stone seat, and a wall of faces, and a thing that had gone in under her breastbone in the Great Hall, and had not come out. She’d never forgive that. She had looked at it from every side. There was a small glass phial, about the size of a tooth, buttoned against her ribs. She’d had half a mince pie.
+She looked for the pleasant voice. She knew where she’d left it. It was a Saturday evening, with the snow going by, and he might have put down his cup; he might have been reading. She thought about a boy on a stone seat, and a wall of faces, and a thing that had gone in under her breastbone in the Great Hall and had not come out, and that she would never forgive. There was a small glass phial, about the size of a tooth, buttoned against her ribs. She’d had half a mince pie.
 
 “Bacon,” said Lyra.
 
 It came out rather low, and it had a crack down the side; and it was the first thing she had said to him since a chalk hill that was for him.
 
-She saw it reach him. He didn’t move. He didn’t do anything at all. His chest had stopped. He stood two steps above her with his hands in his pockets, and his eyes behind the mended glasses went very wide; they filled up, quite slowly, from the bottom, with something that she couldn’t look at. His lips parted. *Don’t*, she thought. *Don’t speak, you idiot. Don’t say anything, not one word. Oh, don’t.*
+She saw it reach him. His chest had stopped. He stood two steps above her with his hands in his pockets, and his eyes behind the mended glasses went very wide, and filled up, quite slowly, from the bottom, with something she couldn’t look at. His lips parted. *Don’t*, she thought. *Don’t speak, you idiot. Don’t say anything, not one word. Oh, don’t.*
 
 He didn’t. He’d shut his mouth. He pushed his hands down, as far as they would go, so that she saw his shoulders move.
 
-She went up the two steps. It didn’t take very long. She took hold of the edge of his collar, between one grey woollen finger and thumb, and she stood on her toes. His mouth was chapped and cold, and it was shaking. It was hardly anything. It was a very small one. It lasted for about as long as it takes for a snowflake to go out on a hot stove. He hadn’t breathed. She could feel him not breathing. Neither of them made any sound. There wasn’t a thing to hear.
+She went up the two steps. She took hold of the edge of his collar, between one grey woollen finger and thumb, and she stood on her toes. His mouth was chapped and cold, and it was shaking. It was a very small one, and it lasted for as long as a snowflake lasts on a hot stove. She could feel him not breathing. Neither of them made any sound. There wasn’t a thing to hear.
 
 She let go. She smoothed it down, once. She went on past him, up the stairs, with her cloak dripping, and she didn’t look back. At the turn she noticed she’d got her left hand pressed flat against her ribs. She was smiling. She could feel it on her face, like something that had been left out in the rain and had started, very stiffly, to dry.
 
@@ -120,7 +120,7 @@ She had not moved. Her heart didn’t seem to be doing anything. She heard someo
 
 Goyle looked at her.
 
-She looked at her across the sun, from under her pale eyebrows. She looked at the bottle of ink. Something had started to happen to her. It began at the corners of her eyes; it spread. She was sixteen years old. She had been told what to do by that voice since the first of September, 1991, and she’d got a ten, and a Galleon in her pocket with a bit of thread on it. It had been a very good weekend. She had shown someone an oven. She’d heard her laugh. Her shoulders had begun to shake. She sat on the bed with a box of chocolates on her lap, and she looked up at Lyra Malfoy, with her small eyes gone to slits, and her big soft chin trembling with delight.
+She looked at her across the sun, from under her pale eyebrows, and at the bottle of ink, and it began at the corners of her eyes, and spread. She was sixteen years old. She had been told what to do by that voice since the first of September, 1991, and she’d got a ten, and a Galleon in her pocket with a bit of thread on it, and she had shown someone an oven and heard her laugh. Her shoulders had begun to shake. She sat on the bed with a box of chocolates on her lap, and she looked up at Lyra Malfoy, with her small eyes gone to slits and her big soft chin trembling with delight.
 
 “No,” said Goyle.
 
@@ -168,9 +168,9 @@ She had opened her eyes. They were looking at Lyra, from quite close, with a kin
 
 “It’s got a sort of a… It’s got a bit of a kick, hasn’t it, at the back. What’s he put in that? I can’t get it. It’s not cloves.” She ran her tongue round her teeth. She swallowed. “It’s gone to my feet. That’s funny. I’ve got pins and needles. Is it cold in here? You don’t want to sit on that floor.”
 
-She couldn’t say anything. It wasn’t that she’d chosen. She had her mouth open, and nothing whatever came out of it. There was a pulse going, under her thumb, in that big soft wrist. It was very fast. It stumbled, and went on. She held on. She had both hands round it now. She knew what you did with your hands. *Hold it*, somebody had said. She’d said that. On a hill.
+She couldn’t say anything. It wasn’t that she’d chosen. She had her mouth open, and nothing whatever came out of it. A pulse was going, under her thumb, in that big soft wrist, very fast, and it stumbled, and went on. She had both hands round it now. She knew what you did with your hands. *Hold it*, somebody had said. She’d said that. On a hill.
 
-The colour was going out of Goyle’s face. It went slowly. She looked down at it, at Lyra’s hands, in those dreadful gloves. She looked very much surprised. She seemed to be thinking about something, with some difficulty, a long way off. Her breath had got short. She had let the box slide a little on her knee, and she moved her other hand. Lyra saw it go. It was shaking, rather. It went out to the box. It went along the row, with one thick finger and thumb, feeling its way, very carefully, because she’d always been so careful; it took one up, by the edges. It was the next along.
+The colour was going out of Goyle’s face, slowly. She looked down at Lyra’s hands, in those dreadful gloves, very much surprised, and she seemed to be thinking about something, with some difficulty, a long way off. Her breath had got short. She had let the box slide a little on her knee, and Lyra saw her other hand go out to it, shaking rather, and along the row, with one thick finger and thumb, feeling its way, very carefully, because she’d always been so careful; and it took up the next one by the edges.
 
 She held it out.
 
@@ -202,9 +202,9 @@ It wasn’t a word. It wasn’t anything that she had ever heard. It came from a
 
 They came. There were a great many feet.
 
-There was Parkinson’s cousin in the doorway, with her skates round her neck, and then she wasn’t. There was somebody being sick. Madam Pomfrey had got there, in nine minutes, with her cap crooked and her breath whistling. She didn’t ask anybody anything. She had Goyle laid down flat on the boards, and her scarf undone; she’d got her wand at the big soft throat, and her ear against the chest, and she stayed like that for a long time. She said “Come along, dear. Come along, now.” She said that several times, in a sharp cross voice. It got slower. She sat back on her heels.
+There was Parkinson’s cousin in the doorway, with her skates round her neck, and then she wasn’t, and somebody was being sick. Madam Pomfrey got there in nine minutes, with her cap crooked and her breath whistling, and she didn’t ask anybody anything. She had Goyle laid down flat on the boards, with her scarf undone and a wand at the big soft throat, and she stayed like that for a long time. “Come along, dear,” she said, in a sharp cross voice. “Come along, now.” She said it several times, and it got slower. She sat back on her heels.
 
-There was someone else at the door. She hadn’t seen her come. She had got cold air on her, and a shawl. She’d got as far as the threshold, and stopped, with one hand on the frame; and she stood there, a thickset girl, holding a long black book against her chest. She didn’t come any further. She looked. She looked slowly and carefully and thoroughly, at the boots, and the two wet marks, and the big pale hand lying open on the floor. Her face didn’t change. There wasn’t any change that it could have made. She went on standing there, and nobody told her to go.
+Someone else had come to the door, with cold air on her, and a shawl. She had got as far as the threshold and stopped, with one hand on the frame, a thickset girl holding a long black book against her chest, and she didn’t come any further. She looked, slowly and thoroughly, at the boots, and the two wet marks, and the big pale hand lying open on the floor. Her face didn’t change. There wasn’t any change it could have made. She went on standing there, and nobody told her to go.
 
 There was a smell of cold stone.
 
@@ -212,9 +212,9 @@ He came in without any sound. The black robes went by Lyra’s elbow, and stoppe
 
 He raised his eyes.
 
-They came up from the floor and they found her. She was standing at the end of the bed. She hadn’t moved. She had ink on her hands, and all down her skirt. He looked at it. They went on. They went into the dark behind her eyes, with no more sound than a key; she didn’t stop him. She couldn’t have found the breakfast table. There wasn’t any table. There was a bar of sun, and it was all just lying there. He’d only to look.
+They came up from the floor and they found her, at the end of the bed, with ink on her hands and all down her skirt. They went on, into the dark behind her eyes, with no more sound than a key, and she didn’t stop him. She couldn’t have found the breakfast table. There wasn’t any table. There was a bar of sun, and it was all just lying there.
 
-Something happened to his throat. It was very slight. It might have been that he swallowed. A small white dint had appeared on either side of his nose; and for an instant she saw him stand on the edge of something, as you might see somebody at the far end of a long dark room, stopped, with a hand on a door. She didn’t know what it was. He looked older than she had thought. It cost him something. She could see that, she’d been very well taught. She could have told you what it cost to the Knut.
+His throat moved, very slightly, as if he had swallowed. A small white dint had appeared on either side of his nose; and for an instant she saw him stand on the edge of something, as you might see somebody at the far end of a long dark room, stopped, with a hand on a door. She didn’t know what it was. He looked older than she had thought. It cost him something, and she could have told you what, to the Knut.
 
 He got to his feet. He drew his robes straight.
 
@@ -242,19 +242,19 @@ There was a silence.
 
 They took her away at about six, on a stretcher, under a sheet. It needed four. Someone had told Crabbe she could sit down. She hadn’t. She’d stayed at the door until the last of them had gone by; she’d looked at what was on the stretcher, all the way to the turn of the stairs. Then she walked across the dormitory. She went to the next bed, the one that gave at the corner. She laid the long black book on the pillow. She stood there, with her back to the room, and she put her hand in the pocket of her shawl and took out a pencil. She looked at it. She didn’t seem to know what it was for.
 
-It was Sunday. There was dinner. People went. You could hear it, all down the benches, as she came in: a low shocked hungry murmur, and it stopped, and started up behind her. She walked the length of the Slytherin table with her back straight and her hair up. She’d washed. It didn’t all come off. She sat down in her place. There was a gap on her left, about as wide as a very large girl, and nobody had liked to sit in it. There was some soup.
+It was Sunday, and there was dinner, and people went. You could hear it all down the benches as she came in, a low shocked hungry murmur that stopped, and started up behind her. She walked the length of the Slytherin table with her back straight and her hair up. She’d washed, and it hadn’t all come off. She sat down in her place, beside a gap about as wide as a very large girl, that nobody had liked to sit in. There was some soup.
 
 “Well,” said Parkinson. He wasn’t a bad boy, she supposed. He had gone a queer colour, and he’d had a drink from somewhere; he was speaking rather loudly, to no one, looking at his spoon, as one whistles going past a churchyard. “I mean. Her heart. It’s very sad. I’m not saying it isn’t. But you can’t say it’s altogether a surprise. I mean, the *size* of her. All those pies. It’s got to go somewhere. My mother always said you can’t go on—”
 
 A chair went back.
 
-It didn’t go very fast. Blaise Zabini had got to his feet. He was at the far side of the table, by himself, with his long hands flat on the wood. He was perfectly dressed. He was as grey as a dishcloth. He looked at Panther Parkinson. There was something in the set of his head, and he went on looking; she had known him for five and a half years, and she’d seen him lose everything that he had at cards, with a yawn. His lips had drawn back very slightly from his teeth. He didn’t say a word. He felt in his top pocket, and took out a small square of white card; and he laid it on the table, and put one finger on it, and pushed it across the wood. It stopped against Parkinson’s spoon.
+It didn’t go very fast. Blaise Zabini had got to his feet, at the far side of the table, by himself, with his long hands flat on the wood. He was perfectly dressed, and as grey as a dishcloth, and he looked at Panther Parkinson. She had known him for five and a half years and seen him lose everything he had at cards, with a yawn. His lips had drawn back very slightly from his teeth. He didn’t say a word. He felt in his top pocket and took out a small square of white card, and he laid it on the table, put one finger on it, and pushed it across the wood until it stopped against Parkinson’s spoon.
 
 It was blank.
 
 Nobody breathed. Parkinson looked at it. He’d begun to shake. Zabini stood a moment longer. Then he picked up his glass, and looked into it, and set it down, and walked out, between the benches, down the whole length of the Hall, and his footsteps went on for quite a long time.
 
-Heads had begun to turn. It went along the table towards her, in the candlelight. There were a lot of pale eyes. Montague was looking at her, with a sort of awe. *She was with her*, somebody was saying. *She found her. She was holding her hand*. It seemed that she was going to have to say something. They were waiting.  She looked at her soup. She took up her spoon, and it was quite steady, and she laid that down, a little to the right. She raised her eyes.
+Heads had begun to turn, along the table towards her, in the candlelight. Montague was looking at her with a sort of awe. *She was with her*, somebody was saying. *She found her. She was holding her hand*. It seemed that she was going to have to say something. She looked at her soup. She took up her spoon, quite steadily, and laid it down a little to the right, and she raised her eyes.
 
 “How dreadful,” said Lyra. “Poor Goyle.”
 

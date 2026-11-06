@@ -6,13 +6,13 @@ It was the ninth of November, and there had never been anything like it. It had 
 
 She had tied her hair. She had done that before every match since she was twelve, with a bit of green cord, and she’d put on her gauntlets over her cuffs and buckled the left one rather tight. She kicked off.
 
-It took her like a slap. She had flown in worse; she was almost sure of that. The Firebolt went up on its tail and stood there shuddering. She got her head down and her knees in and she went up in long hard slants, with the rain coming at her sideways and the stands dropping away, and the whole of the school a smear of wet colour with its mouth open. A hundred feet. Two. Somebody went past below her, upside down, screaming with what might have been joy; that was Urquhart. There was a Bludger going out to sea. She could feel the cold get in at the neck of her robes, and in at the wrists, and run up inside her sleeves. She rose through three hundred feet and came out on a sort of shelf in the air, where the wind stopped being gusts and became one enormous thing, leaning. It filled her ears. It filled her head. It went through her from one side to the other, and it roared, and she stopped.
+It took her like a slap. She had flown in worse, or she was almost sure of it. The Firebolt went up on its tail and stood there shuddering, and she got her head down and her knees in and climbed in long hard slants, with the rain coming at her sideways and the stands dropping away, until the whole of the school was a smear of wet colour with its mouth open. Somebody went past below her, upside down, screaming with what might have been joy; that was Urquhart. A Bludger was going out to sea. The cold got in at the neck of her robes and in at the wrists, and ran up inside her sleeves, and she rose through three hundred feet and came out on a sort of shelf in the air, where the wind stopped being gusts and became one enormous thing, leaning, that filled her ears and her head and went through her from one side to the other, and roared; and she stopped.
 
 She hung there, with her hair cord streaming.
 
 Something was wrong.
 
-She looked round quickly, for the Snitch, for a Bludger. There was nothing, only cloud, going by at a tremendous rate. She looked at her hands. They were all right. She felt along the broom with her knees. She didn’t know what it was. It was as if somebody had gone out of a room. You’d have had to have been sitting for a long time, with a clock, in a very quiet house; you would have stopped hearing it weeks ago, and you’d have been reading, or sewing, and you would raise your head.
+She looked round quickly, for the Snitch, for a Bludger, and found only cloud, going by at a tremendous rate. Her hands were all right. She felt along the broom with her knees. She didn’t know what it was, unless it was as if somebody had gone out of a room. You’d have had to have been sitting for a long time, with a clock, in a very quiet house; you would have stopped hearing it weeks ago, and you’d have been reading, or sewing, and you would raise your head.
 
 It had stopped.
 
@@ -24,27 +24,27 @@ She didn’t breathe. She didn’t move for some time. Then, very carefully, as 
 
 “Bum,” said Lyra.
 
-She couldn’t hear it. She felt it in her throat. It was blown off her teeth and it was gone, before it had got as far as her own ears. She tried again, with a good deal more force. She told the sky what she thought of Dolores Umbridge. She shouted a word that she had got from Weasley, in the second year, and she had never had occasion to use. Nothing. She had no voice. She might have been a fish.
+She couldn’t hear it. She felt it in her throat, and it was blown off her teeth before it had got as far as her own ears. She tried again, with a good deal more force. She told the sky what she thought of Dolores Umbridge, and she shouted a word she had got from Weasley in the second year and had never had occasion to use, and nothing came of any of it. She might have been a fish.
 
-*It hears what is said within the length of a room*, she had written. She had written that with a ruled margin. *Through wool. Through a wall. In the bath.* She had never once thought about the top of a mountain in a gale. She’d had no reason to. Her heart had started to go very fast. It couldn’t hear *her*. If she couldn’t, it couldn’t. It was lying down there, on the pulse, with its little tea-coloured eye wide open and the whole of the North Sea going past. It was deaf. It had gone stone deaf. He could take that out and hold it to his long white ear, in the south wing, and all he would get was a noise like a very large shell.
+*It hears what is said within the length of a room*, she had written, with a ruled margin. *Through wool. Through a wall. In the bath.* She had never once thought about the top of a mountain in a gale, having had no reason to. Her heart had started to go very fast. If she couldn’t hear her, it couldn’t. It was lying down there on the pulse, with its little tea-coloured eye wide open and the whole of the North Sea going past, stone deaf. He could take it out and hold it to his long white ear, in the south wing, and all he would get was a noise like a very large shell.
 
 She opened her mouth as wide as it would go.
 
 “*Lyra Malfoy!*” she screamed. “*Lyra! Lyra Malfoy! My name’s Lyra! I’m sixteen! I hate you! I hate you, I hate you, you’ve got horrible hands!*”
 
-It was the most marvellous thing that had ever happened to her. She was laughing. She could feel that, in her chest, though she couldn’t hear a thing. There was water running out of her eyes and going straight back into her ears. She threw back her head. She had been quiet for a hundred and one days; she had crossed all those floors. She’d read out the whole of Herodotus. She shouted out her mother’s name. She shouted Bones. She shouted *Pimlico*, and *a blue door*, and she shouted every word that had been sitting behind her teeth since August, in no order, as one might turn out a drawer. And she looked down.
+It was the most marvellous thing that had ever happened to her. She could feel herself laughing, in her chest, though she couldn’t hear a thing, and the water ran out of her eyes and straight back into her ears. She had been quiet for a hundred and one days. She had crossed all those floors and read out the whole of Herodotus, and now she threw back her head and shouted her mother’s name, and Bones, and *Pimlico*, and *a blue door*, and every word that had been sitting behind her teeth since August, in no order, as one might turn out a drawer. And she looked down.
 
 He was about sixty feet below her, on the far side of the pitch, with his knees clamped in, and his robes flat against him. He’d got his head going from side to side. He was looking for the Snitch. He was a thin bent stubborn scarlet shape, in the middle of all that, with his glasses running.
 
 She’d stopped laughing.
 
-She looked at him. She hung up there, in the roar. She knew exactly what it was that she was going to do. She wanted that clear. She went through it first, because she’d been very well brought up, and it took about as long as it takes to pull down a sleeve. It wouldn’t be a warning. She wasn’t such a fool. She had paper, if she wanted to warn him; she’d had paper every day since September, and a good steady hand. It was all quite as it had been. Item six stood where it stood, and item seven. There was no way on earth that she was going to tell Harry Potter anything. She had looked at it from every side.
+She hung up there, in the roar, and looked at him, and she knew exactly what she was going to do. She went through it first, as she had been brought up to, and it took no longer than pulling down a sleeve. It wouldn’t be a warning. She wasn’t such a fool; she had paper, if she wanted to warn him, and a good steady hand. Item six stood where it stood, and item seven, and there was no way on earth that she was going to tell Harry Potter anything.
 
 But he wouldn’t hear.
 
 She put the Firebolt’s nose down, and went.
 
-The wind tried to take her sideways. She let it. She came down across the middle of the pitch in a long screaming curve, past somebody’s Bludger and somebody’s face; she could see the stands turn and a whole bank of green go up on its feet. They thought she had seen the Snitch. So did he. His head had come up. He wrenched his broom round and he came after her, flat out, staring at the air in front of her. She shot past that, and turned, and stood the Firebolt on the wind, ten feet from him, and five. She pulled up, level, broadside on, with the whole gale going through between them, and he was there. He’d stopped. He had looked round, and there wasn’t any Snitch. He was looking at her, with his mouth open and his wet black hair flat in his eyes, about a yard away. One of his eyebrows was a slightly different colour from the other.
+The wind tried to take her sideways, and she let it. She came down across the middle of the pitch in a long screaming curve, past somebody’s Bludger and somebody’s face, and a whole bank of green went up on its feet. They thought she had seen the Snitch. So did he: his head came up, and he wrenched his broom round and came after her, flat out, staring at the air in front of her. She shot past it, and turned, and stood the Firebolt on the wind, and pulled up level, broadside on, with the whole gale going through between them; and there he was, looking round for a Snitch that wasn’t there, and then at her, with his mouth open and his wet black hair flat in his eyes, about a yard away. One of his eyebrows was a slightly different colour from the other.
 
 “*I’ve got a snake on my arm!*” said Lyra.
 
@@ -78,7 +78,7 @@ He shoved in closer. “*WHAT DID YOU SAY?*”
 
 “*A DISGRACE!*” She made a gesture. It was a gesture that she had learnt from Fred Weasley. “*YOUR ELBOWS!*”
 
-That got through. He threw back his head. She saw him laugh, in complete silence, with the rain going into his mouth. He leaned out from the broom, and yelled something; she thought it was about her hair. She yelled something about his eyebrow. He wheeled away, and she went after him. It had been five months, or a hundred years. They went round the top of the sky together, at full stretch, dropping and rising on the gale, each of them shouting things that nobody in the world would ever hear; she cut under him, and he rolled and came down at her from above, whooping; she clipped the tail of his broom with her boot. There was a Quidditch match going on somewhere. She had completely forgotten about it. It was perhaps half a minute. It was perhaps not even that.
+That got through. He threw back his head, and she saw him laugh, in complete silence, with the rain going into his mouth. He leaned out from the broom and yelled something that she thought was about her hair, and she yelled something about his eyebrow, and he wheeled away and she went after him. It had been five months, or a hundred years. They went round the top of the sky together at full stretch, dropping and rising on the gale, each of them shouting things that nobody in the world would ever hear; she cut under him, and he rolled and came down at her from above, whooping, and she clipped the tail of his broom with her boot. There was a Quidditch match going on somewhere, and she had completely forgotten about it. It was perhaps half a minute. It was perhaps not even that.
 
 Then he’d looked down, and she saw his face change, and she saw it too.
 
@@ -90,9 +90,9 @@ It was a straight drop of three hundred feet with the wind behind it, and she’
 
 She pulled out so low that she took a yard of turf off with her boot.
 
-She had it. She was sitting on the grass, she didn’t know how, with the Firebolt ten feet away and her ribs on fire; and she looked at her closed glove, with a small gold wing sticking out of the end of it. It had been an inch. It couldn’t have been more. He had come down a little way off, on his hands and knees, with mud in his mouth. He looked up.
+She had it. She was sitting on the grass, she didn’t know how, with the Firebolt ten feet away and her ribs on fire, looking at her closed glove, with a small gold wing sticking out of the end of it. It had been an inch. He had come down a little way off, on his hands and knees, with mud in his mouth, and he looked up.
 
-Two hundred to a hundred and ninety. She found that out afterwards. It seemed that Weasley had stopped something in the last minute, a thing that Urquhart had got hold of, up by the hoops, with the whole weight of the gale behind it. It had been going about ninety miles an hour, and it couldn’t be done. People were still talking about it at Christmas. He’d gone out flat along his broom with one long arm, and got his glove to it, and turned it round the post; and he had come up with his mouth wide open and his nose streaming, and looked round, the way you do, for the one person. She saw him. He was standing up on his broom, a very long way above her, in scarlet, with both his fists in the air, bawling at the top of his lungs, down the whole length of the pitch.
+Two hundred to a hundred and ninety, she found out afterwards. It seemed that Weasley had stopped something in the last minute, a thing that Urquhart had got hold of, up by the hoops, with the whole weight of the gale behind it, going at about ninety miles an hour; it couldn’t be done, and people were still talking about it at Christmas. He’d gone out flat along his broom with one long arm, and got his glove to it, and turned it round the post, and he had come up with his mouth wide open and his nose streaming, and looked round, the way you do, for the one person. She saw him. He was standing up on his broom, a very long way above her, in scarlet, with both his fists in the air, bawling at the top of his lungs, down the whole length of the pitch.
 
 “*HARRY! HARRY, DID YOU SEE THAT? DID YOU—*”
 
@@ -104,13 +104,13 @@ She saw Weasley stop. He stood there with his fists up. It was about as long as 
 
 She didn’t go in with the others.
 
-They’d got her on their shoulders. Montague was crying. There was a great green roaring tide of it, right up to the castle doors, and someone had hold of her boot, and she laughed, and she held up the Snitch, and she let it go on for as long as was correct. The wind was dropping. She had felt that, on the way up the lawn. It had gone down, as it does, at about the time that the light started to go. By the time that she’d got to the Entrance Hall there was nothing but a steady wet blow, and the doors swung to behind them with a boom.
+They’d got her on their shoulders. Montague was crying, and there was a great green roaring tide of it right up to the castle doors, and she laughed, and held up the Snitch, and let it go on for as long as was correct. The wind was dropping. She had felt that on the way up the lawn. It had gone down, as it does, when the light started to go, and by the time she got to the Entrance Hall there was only a steady wet blow, and the doors swung to behind them with a boom.
 
 It was quite quiet, indoors.
 
 She felt it come back.
 
-She was on the third step, with somebody’s hand under her elbow. It came on very gently. It was like the moment when you’ve been swimming, in cold water, and your foot goes down and finds the bottom. There was the slight, even, attentive pressure. There was the air of someone standing behind a door. It hadn’t gone anywhere. It lay along the inside of her wrist, and it was not even warm, and nothing whatever had altered.
+She was on the third step, with somebody’s hand under her elbow. It came on very gently, as when you’ve been swimming in cold water, and your foot goes down and finds the bottom: the slight, even, attentive pressure, the air of someone standing behind a door. It lay along the inside of her wrist, not even warm, and nothing whatever had altered.
 
 She kept walking. She was smiling. She said something to Zabini, in a pleasant voice, about the second half.
 
@@ -118,7 +118,7 @@ She’d got to get out of the wet things. That was the reason that she gave; she
 
 *Yours*, she had said. *It’s in writing.*
 
-She’d said it all. That was what she kept thinking. She had said it to his face, and it had happened, and nobody in the whole world would ever know. It was still in her chest. It was still warm. She hadn’t told him anything. She had looked at it from every side, she had been perfectly careful. It was the only completely happy half a minute that she was likely to have, and she would have it for ever, and he’d thought she had said something about his elbows.
+She’d said it all. That was what she kept thinking. She had said it to his face, and it had happened, and nobody in the whole world would ever know, and it was still in her chest, and still warm. She hadn’t told him anything; she had been perfectly careful. It was the only completely happy half a minute that she was likely to have, and she would have it for ever, and he’d thought she had said something about his elbows.
 
 She didn’t cry. She had done that. She stayed there with her eyes shut, and she held on to her left arm, above the wrist, with her right hand. It had got to be a habit.
 
@@ -126,7 +126,7 @@ She didn’t cry. She had done that. She stayed there with her eyes shut, and sh
 
 She opened her eyes.
 
-She took her time. She straightened up, and let go, and turned round; and it was all done very smoothly. It had been a long while since anybody had got within ten yards of her without her hearing. There was a small figure, at the end of the passage, against the window. It came forward. It was in a wet red-and-gold scarf and a Muggle anorak, with its hair tied back. It wasn’t carrying anything except a pair of Chaser’s gloves, and it stopped about six feet away. She could see the freckles. She’d seen them at the other end of a Quaffle, an hour ago.
+She took her time. She straightened up, and let go, and turned round, and it was all done very smoothly, though it had been a long while since anybody had got within ten yards of her without her hearing. A small figure had come along the passage, against the window, in a wet red-and-gold scarf and a Muggle anorak, with its hair tied back and a pair of Chaser’s gloves in its hand, and it stopped about six feet away. She could see the freckles. She’d seen them at the other end of a Quaffle, an hour ago.
 
 “Weasley,” said Lyra. “Your brother’s in the showers. You might care to tell him that it was a very pretty save. I’m told that they have a shelf for that sort of thing, in the Cannons’ trophy room.”
 
@@ -158,7 +158,7 @@ Her wand was in her hand. It had been in her sleeve. It was pointing at the midd
 
 “*Obliviate*,” said Lyra.
 
-She hadn’t raised her voice. It was one of the prettiest things that she had ever done. It’s a difficult charm. You have to know exactly where to cut, and it is a matter of the wrist. She took it back as you’d take a stitch out of silk: down the passage, up the lawn, through the doors and the mud and the whole of the last hour, to a girl in the air with a Quaffle under one arm, looking at a Slytherin’s back, and thinking about something else. She took it out clean. She didn’t leave a thread. It needed one breath, and she held it there, and she felt it come away.
+She hadn’t raised her voice. It was one of the prettiest things she had ever done. It’s a difficult charm: you have to know exactly where to cut, and it is a matter of the wrist. She took it back as you’d take a stitch out of silk, down the passage, up the lawn, through the doors and the mud and the whole of the last hour, to a girl in the air with a Quaffle under one arm, looking at a Slytherin’s back and thinking about something else. It needed one breath, and she held it there, and she felt it come away clean, without a thread.
 
 Ginny Weasley stood very still. Her lips were a little parted. Her eyes had gone flat and mild and rather stupid, like water when a boat has passed. She swayed.
 
@@ -170,9 +170,9 @@ She bent down, and got them, and put them into the slack cold fingers, and close
 
 “You’ve dropped your glove, Weasley,” said Lyra, over her shoulder.
 
-She didn’t look to see. She walked on, not fast, with her heels sounding on the stone. She went round the corner and down the stairs. They had got the barrel open. She could hear it from the second landing, a long way down, a great warm green confused bellowing; somebody had started on the song. Her hand was in her sleeve. It had gone back there by itself, with the wand in it, and it was perfectly steady. She looked at it. She thought she had better look at it.
+She didn’t look to see. She walked on, not fast, with her heels sounding on the stone, round the corner and down the stairs. They had got the barrel open; she could hear it from the second landing, a long way down, a great warm green confused bellowing, and somebody had started on the song. Her hand had gone back into her sleeve by itself, with the wand in it, and it was perfectly steady. She thought she had better look at it.
 
-It hadn’t asked her anything. She went through it, on the stairs. She’d had a second, and there had been a good deal that one might have put into a second. She had been the cleverest child that anybody ever saw. She had been doing the sums since she was eight. And it had just gone. It had gone by itself, up out of the sleeve, from the shoulder, as smooth and as level as you please. She had known what that was. She’d had it described to her. She had stood in a dusty classroom once and asked somebody how he could have done such a thing, to a child of eleven; how long he could possibly have stood there, thinking it over.
+It hadn’t asked her anything. She went through it, on the stairs. She’d had a second, and there was a good deal that one might have put into a second; she had been the cleverest child that anybody ever saw, doing the sums since she was eight. And it had just gone, up out of the sleeve, as smooth and level as you please. She knew what that was. She’d had it described to her. She had stood in a dusty classroom once and asked somebody how he could have done such a thing, to a child of eleven; how long he could possibly have stood there, thinking it over.
 
 They saw her at the door. A shout went up. She put on her face and held up her chin, and went in to the party.
 
