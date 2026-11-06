@@ -2,7 +2,7 @@
 
 On the third Monday of term, the room gave them two chairs.
 
-Harry stood and looked at it, with his hand still on the door. There was the bald rug and the fender. There was the old one, down on its left side, with its stuffing coming out and *Some Lesser Houses of Wessex* under the leg, where it had always been. And on the far side of the hearth, about nine feet off, stood another. It was upright and thin, with a hard seat and wooden arms, and it was the kind of chair that you get in the corridor outside a Healer’s. It had not been there on Friday.
+Harry stood and looked at it, with his hand still on the door. There were the bald rug and the fender, and the old one, down on its left side, with its stuffing coming out and *Some Lesser Houses of Wessex* under the leg, where it had always been. And on the far side of the hearth, about nine feet off, stood another. It was upright and thin, with a hard seat and wooden arms, and it was the kind of chair that you get in the corridor outside a Healer’s. It had not been there on Friday.
 
 Nobody had asked for it. You couldn’t ask for that; he’d been told how it worked. You walked past the wall and thought very hard of what you needed. It was supposed to be the only room in the castle that never lied to you.
 
@@ -20,7 +20,7 @@ He knew who had taught him. She had kept a book on him for five years, with colu
 
 “I want you to teach me something,” said Harry.
 
-It was a Tuesday, and it was raining. It seemed to rain on Tuesdays. He had sat in the upright chair for twenty minutes and given Snape a table with one short leg; it had got rather crowded, that table, and there were some gaps at it now. Snape had gone through it with his long cold attention and had found nothing to say. He’d picked up his pen. That was the end of the lesson.
+It was raining. It seemed to rain on Tuesdays. He had sat in the upright chair for twenty minutes and given Snape a table with one short leg; it had got rather crowded, that table, and there were some gaps at it now. Snape had gone through it with his long cold attention and had found nothing to say. He’d picked up his pen. That was the end of the lesson.
 
 “Have you been drinking, Potter?”
 
@@ -98,7 +98,7 @@ Hopkins had come every week for ten months. He would stand a little to one side,
 
 He didn’t say it very loudly. It wasn’t any different from all the other times. Harry had been looking at somebody else. He heard Dean’s voice stop. He turned round, and a little silver thing had come out from the end of the wand, and it was hanging in the air about a foot from Hopkins’s nose.
 
-It hadn’t got a shape. It was about as big as a bread roll. It was soft, and rather lopsided, and it wavered; it gave off a thin clear light, like the light from under a door, and it stayed. It stayed there for quite a long time. Hopkins stood looking at it with his eyebrows slowly going up.
+It hadn’t got a shape. It was about as big as a bread roll, soft and rather lopsided, and it wavered, giving off a thin clear light, like the light from under a door; and it stayed. It stayed for quite a long time. Hopkins stood looking at it with his eyebrows slowly going up.
 
 It had gone very quiet, all the way down the room. Somebody had started to clap, at the kitchen end. It was a heavy, thoughtful noise. Then they were all doing it, and Dean had let out a whoop, and the first-years were jumping up and down without any idea why. It went out. Hopkins went on standing there, with the wand held away from his body. He looked at the end of it. Harry saw his lips part. He saw them begin to make the shape. He stopped. He seemed to think about it, for a moment, with a slight puzzled line between his eyebrows. He closed his mouth, and he put the wand in his sleeve.
 
@@ -132,13 +132,13 @@ He had been waiting. It was by the Charms corridor, and there was a bit of late 
 
 “Malfoy,” said Harry.
 
-It stopped. It looked up. He’d been frightened of that, and it was worse than he’d been expecting. It wasn’t that the face was unhappy. It was a nice clean pale face, with very good manners. There was nothing on it. He had known another boy with that nose, and he’d seen him cry in a bathroom, and that one had been a good deal more alive.
+It stopped. It looked up. He’d been frightened of that, and it was worse than he’d been expecting. It wasn’t that the face was unhappy. It was a nice clean pale face, with very good manners, and nothing on it. He had known another boy with that nose, and he’d seen him cry in a bathroom, and that one had been a good deal more alive.
 
 He’d put a coin in that child’s pocket, a year ago next month, and used him as you’d use a bell on a cat. He’d got fond of him. That hadn’t been in the plan.
 
 “D’you still have it?” said Harry. “The coin.”
 
-For a moment nothing happened. Then a small hand went to a pocket, and came out, and opened. It lay on the palm. It had been polished.
+For a moment nothing happened. Then a small hand went to a pocket, and came out, and opened. It lay on the palm, polished.
 
 “How was your summer?”
 
@@ -170,7 +170,7 @@ It wasn’t a bad evening, and he would think about that. She’d been reading, 
 
 He was on his feet. He didn’t remember that. He’d got her by the arm.
 
-It was the right arm, above the elbow, and he’d got it hard. He felt the book slide. He felt how thin it was; his fingers went nearly the whole way round. She stopped. She didn’t pull. She stood there, quite still, with her back half turned to him. He could smell soap. His heart was going like something trying to get out, and he had her, he actually had her, she was warm, there she was. There was a great wave of relief going through him. It was rushing up from under his ribs, it was the best thing that he had felt since June. It went all along his arm. It came out of his mouth. It didn’t feel like saying anything.
+It was the right arm, above the elbow, and he’d got it hard. He felt the book slide. He felt how thin it was; his fingers went nearly the whole way round. She stopped. She didn’t pull. She stood there, quite still, with her back half turned to him. He could smell soap. His heart was going like something trying to get out, and he had her, he actually had her, she was warm, there she was. A great wave of relief was rushing up from under his ribs, the best thing he had felt since June. It went all along his arm and out of his mouth, and it didn’t feel like saying anything.
 
 “*Mine*,” said Harry.
 
@@ -182,13 +182,13 @@ She’d have had the book out by now. That was what he thought. She would have s
 
 “How nice,” said Lyra.
 
-It was very pleasant. It was just the voice that she’d have used to say that the rain seemed to be stopping. Her eyes were on his, wide open, the colour of nothing. There wasn’t anyone there.
+It was very pleasant, just the voice she’d have used to say that the rain seemed to be stopping. Her eyes were on his, wide open, the colour of nothing. There wasn’t anyone there.
 
 His fingers came open. He didn’t seem to be doing it himself. He looked at them. There was a crease in the grey wool, in the shape of four fingers and a thumb, and it slowly began to go away. He had done that. He had done that twice now. He’d said *Sorry* the last time, on a hill. His hand went to his pocket, by itself, like something going back to its kennel. *You don’t take hold of me.* Somebody ought to have been ashamed of that. He looked for it, he felt round for it, in the place where it should have been.
 
 Something had settled, a little behind his right ear.
 
-It was very slight. It wasn’t a voice. It didn’t say anything. It was more the way that a cat will turn round once and lie down. It had the air of being rather satisfied; and for one blink, God help him, so had he.
+It was very slight, and it didn’t say anything. It was more the way a cat will turn round once and lie down. It had the air of being rather satisfied; and for one blink, God help him, so had he.
 
 She picked up her book. She smoothed her sleeve, once, with the flat of her left hand, and he saw there was a tremor in that. She went to the door.
 
@@ -200,7 +200,7 @@ He followed her on the Sunday.
 
 He’d been going to stop. He told himself so, on the Thursday, and again on the Friday night; he took the notebook out of his robes, and held it over the flames, and he put it back. He had to know what it was. That was all. There was something wrong with her, and she wouldn’t say. Nobody could be expected to stand that. It was what you’d do for anybody that you wanted to keep safe.
 
-It was the thirteenth of October, and it was raining again. At twenty-five to three she came out of the Slytherin passage, by herself, with nothing in her hands. He gave her thirty yards. He had the Cloak pulled down and his shoes in his pocket. She went up the marble staircase, walking neither fast nor slowly. She didn’t look behind her. She knew all about looking behind you. She turned off at the second floor, along the corridor where nobody went, past the place that had once had writing on the wall, and he stopped at the corner with his heart going, because he knew where this was. He knew that door. It had a sign on it, *OUT OF ORDER*, that had been there since before he was born, or since he was twelve. There was water all over the floor. There had been a sink with a tap that had a little snake on it.
+It was the thirteenth of October, and it was raining again. At twenty-five to three she came out of the Slytherin passage, by herself, with nothing in her hands. He gave her thirty yards. He had the Cloak pulled down and his shoes in his pocket. She went up the marble staircase, walking neither fast nor slowly. She didn’t look behind her. She knew all about looking behind you. She turned off at the second floor, along the corridor where nobody went, past the place that had once had writing on the wall, and he stopped at the corner with his heart going, because he knew where this was. He knew that door. It had a sign on it, *OUT OF ORDER*, that had been there since before he was born, or since he was twelve. The floor would be all over water, and there would be a sink with a little snake on the tap.
 
 She went in. She shut it after her.
 
@@ -208,7 +208,7 @@ He gave it a slow count of a hundred. He went along the wall, in his socks. One 
 
 Then he heard her.
 
-She had a chair, or she was standing with her back to something. It was quite close. He could hear every word. It wasn’t the pleasant voice. He’d got used to that; he’d got so used to it that it gave him a shock. This was clear and quick, and rather low. It went on evenly, with a slight pause every so often. It was the voice she’d use for going through a column.
+She had a chair, or she was standing with her back to something. It was quite close. He could hear every word. It wasn’t the pleasant voice. He’d got used to that; he’d got so used to it that it gave him a shock. This was clear and quick, and rather low. It went on evenly, with a slight pause every so often, the voice she’d use for going through a column.
 
 “—still seven of them, in the Society, who would answer to that. I don’t recommend it. The girl has stopped eating.”
 
@@ -222,6 +222,6 @@ There was a pause. He held his breath, and he couldn’t hear anybody else. She 
 
 The water ran. A long way off, somebody sobbed, and hiccupped.
 
-She had paused. He heard her breathe in. He had known that breath for five years. It was the small one, that she took on a staircase, before she said a thing that she had made up her mind to say. It was very clear. It was exact and thoughtful, and it might have been the price of something.
+She had paused. He heard her breathe in. He had known that breath for five years. It was the small one, that she took on a staircase, before she said a thing that she had made up her mind to say. It was very clear, exact and thoughtful, and it might have been the price of something.
 
 “He has a cauldron,” said Lyra. “He’s frightened of his own right hand.”

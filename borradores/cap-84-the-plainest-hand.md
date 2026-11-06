@@ -28,7 +28,7 @@ She saw them from the end of the corridor. There was a window there with a seat 
 
 “Malfoy,” said Susan Bones. “Have you got a minute?”
 
-She had not spoken in the Society since September. Everybody knew that. She’d got a square pale determined face, and she had grown very like the photograph. There was a thing that happened to the eyes. She had a Hufflepuff prefect’s badge pinned rather crooked, and she took her hand out of her pocket. There was a glove on it. There were two pieces of paper in it.
+She had not spoken in the Society since September. Everybody knew it. She’d got a square pale determined face, and she had grown very like the photograph. There was a thing that happened to the eyes. She had a Hufflepuff prefect’s badge pinned rather crooked, and she took her hand out of her pocket. It had a glove on it, and two pieces of paper in it.
 
 “You’re good at this sort of thing,” she said. “People say so. We wouldn’t ask, but there’s nobody else.” It was a low thick careful voice. It sounded as if she hadn’t used it for some time. “They gave me her things. The Ministry did. They’ve finished with them. I had to sign. These were in her desk, in the top drawer, in a folder of their own. She’d written on it. It said *My friend*.”
 
@@ -50,7 +50,7 @@ She took her time. She carried the sheets across to the window, for the light. I
 
 “Yes,” said Susan Bones. “That’s what—”
 
-“It’s the plainest hand that I ever saw. Round, and careful, and quite without character. It might be anybody’s. She held them out. She smiled a little, with regret. “I should keep them somewhere dry. I am sorry about your aunt. She seems to have been very able.”
+“It’s the plainest hand that I ever saw. Round, and careful, and quite without character. It might be anybody’s.” She held them out. She smiled a little, with regret. “I should keep them somewhere dry. I am sorry about your aunt. She seems to have been very able.”
 
 The square pale face did not change. It looked at her. It had hoped for rather more than that, and it wasn’t surprised. Susan Bones took the two sheets and put them away, and she got her gloved hand back in her pocket.
 
@@ -130,7 +130,7 @@ She sat quite still. After a while she found she had turned round. It was a nice
 
 She went to the game on the Thursday, because she would have been noticed if she hadn’t.
 
-It was in the corner by the big fire. It had shrunk, a little. Nott dealt, with his long dull lawyer’s face, and Montague had taken to sitting in, and losing, and thanking her with his eyes. Crabbe wasn’t there. She had a good deal to do. Draco hadn’t come for a year. Lyra sat with five bad cards and her feet together, in the good chair that nobody else now used, and she had just taken a trick when Goyle came down the stone steps from the passage with something on a board.
+It was in the corner by the big fire, and it had shrunk a little. Nott dealt, with his long dull lawyer’s face, and Montague had taken to sitting in, and losing, and thanking her with his eyes. Crabbe wasn’t there. She had a good deal to do. Draco hadn’t come for a year. Lyra sat with five bad cards and her feet together, in the good chair that nobody else now used, and she had just taken a trick when Goyle came down the stone steps from the passage with something on a board.
 
 Nobody said anything. It had got about. She didn’t know how these things got about. People had started to look up, from all over the room. Zabini had laid his cards face down on the table, and aligned them. He leaned back. He took his long fingers, one after another, and he cracked them.
 
@@ -154,7 +154,7 @@ Goyle didn’t say anything.
 
 It started at her collar. It came up slowly, in a great hot tide, over her big soft neck and her chins, until it had got as far as the roots of her hair, and her small slow eyes had filled, and she stood there, enormous, holding on to her apron. She’d started to smile. She didn’t seem to know how it was done, and it was the most frightful thing to look at, as if someone had opened all the shutters in a very large plain house.
 
-There was a roar. It wasn’t Slytherin’s sort of noise. Someone was banging on a table. Nott had got up from his seat, of all people, and he was shaking Goyle’s hand, up and down, with his long dull face gone pink; and someone had got her by the arm, a thickset person, who had come in at the door and stopped. Crabbe had a stub of pencil in her fingers. She wasn’t looking at anybody else in the room. She was writing something in a very small hand on the back of her wrist, and it looked like a sum, and her lips were moving.
+The roar wasn’t Slytherin’s sort of noise. Someone was banging on a table. Nott had got up from his seat, of all people, and he was shaking Goyle’s hand, up and down, with his long dull face gone pink; and someone had got her by the arm, a thickset person, who had come in at the door and stopped. Crabbe had a stub of pencil in her fingers. She wasn’t looking at anybody else in the room. She was writing something in a very small hand on the back of her wrist, and it looked like a sum, and her lips were moving.
 
 They cut it up. It went round. Goyle did that herself, in an awed sort of way, with a table knife, and it got as far as the good chair, on a saucer. It was held out, in front of her, in a big unsteady floury hand.
 
@@ -290,7 +290,7 @@ It was said quite placidly. There was the small wet sound of a thumb being licke
 
 “Then *why?*”
 
-It had broken, in the middle. It had come out high and rough and quite unlike her, and she stopped it at once; there was a hard unsteady breath. Lyra had heard Vanessa Crabbe cry just once in her life, when they were twelve. She’d been told at the time that it was a cold.
+It had broken in the middle, and come out high and rough and quite unlike her, and she stopped it at once; there was a hard unsteady breath. Lyra had heard Vanessa Crabbe cry just once in her life, when they were twelve. She’d been told at the time that it was a cold.
 
 Nobody said anything for a while. A long way away, on the other side of the wall, something very large went by in the black water.
 
@@ -298,7 +298,7 @@ Nobody said anything for a while. A long way away, on the other side of the wall
 
 The line of light went out.
 
-She heard her get up. It took some time; there was a good deal to move. There was a soft bare heavy step on the boards, and another. It came round the end of the bed. It stopped, just on the far side of the hangings, about a foot from Lyra’s face. She could hear it breathing, through its mouth. She lay with her eyes wide open and her hand closed over a small glass phial, and she did not, she did not, she did not make a sound. It smelt of flannel and cold fat. There was a tiny movement of the curtain. Something had been put down, very gently, on the bedside table, with the faint crackle of greaseproof paper.
+She heard her get up. It took some time; there was a good deal to move. A soft bare heavy step came over the boards, and another, round the end of the bed, and stopped just on the far side of the hangings, about a foot from Lyra’s face. She could hear it breathing, through its mouth. She lay with her eyes wide open and her hand closed over a small glass phial, and she did not, she did not, she did not make a sound. It smelt of flannel and cold fat. There was a tiny movement of the curtain. Something had been put down, very gently, on the bedside table, with the faint crackle of greaseproof paper.
 
 The feet went away.
 
@@ -310,6 +310,6 @@ It was a sandwich. She held it in both hands, under the blankets, with her knees
 
 “It’s a bacon one,” said Lyra.
 
-It wasn’t a voice. There wasn’t anything there. It was just her lips, moving, against the bread. Nobody could have heard that, she thought, not unless they’d been lying along the vein. She opened her mouth.
+It wasn’t a voice. There wasn’t anything there. It was just her lips, moving, against the bread. Nobody could have heard it, she thought, not unless they’d been lying along the vein. She opened her mouth.
 
 She ate it. She ate it slowly, with the tears running across her nose and into her ear, and her whole chest shaking. She had to stop, and breathe, and begin again. It was very salt. She ate the whole thing, to the last corner, and then she licked her fingers, and she lay there holding the bit of greaseproof paper.

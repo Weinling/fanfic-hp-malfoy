@@ -19,7 +19,7 @@
 ## Pendiente, sin urgencia
 
 - Poda de segundas explicaciones del 40 en adelante, por tramos, antes de publicar cada uno.
-- Pasada de frase larga en el 80-86: «It» en 19 por mil (`docs/notas/criticas-opus/cap-86-y-tanda.md`).
+- Pasada de tics del 71 al 86 y de frase larga del 80 al 86, hechas el 6 de noviembre. Siguen por encima de lo publicado (36-37): frases con «It was» 7,8 por mil frente a 2,2; frases de cinco palabras o menos 21,6 frente a 9,7. Lo que queda se ataja al escribir, no con otra pasada.
 - El 77 es lo más flojo de la tanda: seis cuadros sueltos hasta Ginny.
 - Hay unos 150 archivos con « 2» en el nombre, sin seguimiento, que parecen copias de sincronización. No se han tocado.
 - Vigilar que nadie repita «Tom» tras el 56, salvo Harry en el 82.

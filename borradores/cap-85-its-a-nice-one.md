@@ -22,7 +22,7 @@ The door banged. A thickset figure had come in backwards, shaking snow from a sh
 
 “Zabini’s put in a Galleon,” said Goyle, to Lyra.
 
-She said it with pride. She felt in her apron, and held it out, on the flat of her big pink hand. It was quite an ordinary Galleon. It had been polished. There was a very small square of card tied to it with a bit of thread, and on the card, in a slanting elegant bored hand, Lyra read: *As an investment. I expect nothing. B.Z.*
+She said it with pride. She felt in her apron, and held it out, on the flat of her big pink hand. It was quite an ordinary Galleon, polished, with a very small square of card tied to it with a bit of thread, and on the card, in a slanting elegant bored hand, Lyra read: *As an investment. I expect nothing. B.Z.*
 
 A very small movement had occurred at the corner of Crabbe’s mouth. Lyra saw it. She had never seen that book, with its stiff black spine, ruled by hand. There were dates in it that went back two years, in the small round careful writing, a whole long patient history of butter, and all the way down the margin, in a much larger, slower, rounder script, somebody had been adding remarks in pencil. *Good. More nutmeg. Ness says no.*
 
@@ -32,13 +32,13 @@ She had a slight sensation of having looked through a window, from the dark outs
 
 “What will you call it?” said Lyra.
 
-She hadn’t known that she was going to say that. It didn’t sound like anything. It wasn’t the pleasant voice. It had come out a little hoarse.
+She hadn’t known that she was going to say that. It wasn’t the pleasant voice. It had come out a little hoarse.
 
 They both looked at her. It was very quiet in the room. She saw Crabbe’s pencil stop. Goyle had turned her big soft face, with the snow-light on it; she looked at Lyra, for some time, as she’d have looked at something that had been in the oven and was just starting to rise.
 
 “We don’t know,” said Goyle. “Ness wants *Goyle and Crabbe*. She says that people like to know who they’re suing.”
 
-It got out before she could stop it. It wasn’t very much, a sort of sharp small breath down her nose; it hurt her somewhere under the ribs. It was a laugh. Crabbe had looked down at her book again. But she’d heard that, she must have heard, because Lyra saw the pencil start up, quite slowly, and she saw the flat pale ear above it go pink.
+It got out before she could stop it, a sort of sharp small breath down her nose, that hurt her somewhere under the ribs. It was a laugh. Crabbe had looked down at her book again. But she’d heard it, she must have heard, because Lyra saw the pencil start up, quite slowly, and she saw the flat pale ear above it go pink.
 
 They went to Honeydukes, for the fudge, and to the Three Broomsticks; and somebody put a plate in front of Lyra with a thing on it, and she ate some. It was a good day. She noticed that at about four o’clock, on the road back, with the lamps coming on along the wall of Hogsmeade Station, and the three of them walking in a line, in the blue dusk, with the snow creaking. Goyle was singing something, under her breath, flat. Lyra had got a crumb in the wool of her glove. Her arm lay along her side. It listened, she supposed. It had heard about the marble. She hoped very much that he was enjoying that.
 
@@ -52,11 +52,11 @@ It was the second flight up from the Entrance Hall, a little after five. Everyon
 
 He stood up.
 
-He had got very thin. He took his hands out of the book, and she saw them go to his pockets, one and then the other, and settle there. He didn’t say anything. It was the first time they had been within ten feet of each other, without a Hall full of people, since the fifteenth of November. There was a white line by the side of his mouth. There was nothing whatever on his face. She had seen that face do a good many things to a piece of toast.
+He had got very thin. He took his hands out of the book, and she saw them go to his pockets, one and then the other, and settle there. He didn’t say anything. It was the first time they had been within ten feet of each other, without a Hall full of people, since the fifteenth of November. A white line ran by the side of his mouth, and there was nothing whatever on his face. She had seen that face do a good many things to a piece of toast.
 
 She stopped, two steps below him. She didn’t know why. She should have gone by. She had a line about his tie.
 
-He looked at her. It was a slow, tired, careful look, and it went from her wet hair down to her boots, and back; and it stopped. It stopped at the corner of her mouth. She saw something happen in the back of his eyes. It was very slight. She’d have said it was a sort of disbelief. She put up one woollen finger, and touched the place, and there was a bit of pastry there.
+He looked at her. It was a slow, tired, careful look, that went from her wet hair down to her boots, and back; and it stopped at the corner of her mouth. She saw something happen in the back of his eyes. It was very slight. She’d have said it was a sort of disbelief. She put up one woollen finger, and touched the place, and there was a bit of pastry there.
 
 “You’ve eaten something,” said Harry.
 
@@ -82,7 +82,7 @@ She let go. She smoothed it down, once. She went on past him, up the stairs, wit
 
 There was a thin hard sun on the Sunday.
 
-She got the box out at about three. She did that on Sundays. She’d have told you it was only sensible. She drew the hangings on the door side, for the look of the thing. The dormitory was empty, with everyone up at the lake, trying to skate. She knelt down by her trunk, and moved the winter things, and felt in the left boot, and she lifted it out and set it on her bed. It was very clean and pale. It might have been the inside of an almond. She took off the lid.
+She got the box out at about three. She did that on Sundays. She’d have told you it was only sensible. She drew the hangings on the door side, for the look of the thing. The dormitory was empty, with everyone up at the lake, trying to skate. She knelt down by her trunk, and moved the winter things, and felt in the left boot, and she lifted it out and set it on her bed. It was very clean and pale, like the inside of an almond. She took off the lid.
 
 There were twenty-four.
 
@@ -112,9 +112,9 @@ The card had fallen out of the lid. It lay on the floor, by the wet mark of a bo
 
 “He’s got his lemon drops,” said Goyle. She let it fall. “He won’t miss one.”
 
-There was a bar of sun across the room. It lay along the floor between them, and up over the end of the bed. It had a great deal of dust in it. It was going round very slowly. Lyra could see each of those. There was a bottle of ink in her hand.
+A bar of sun lay along the floor between them, and up over the end of the bed, with a great deal of dust in it, going round very slowly. Lyra could see each of those. There was a bottle of ink in her hand.
 
-She had not moved. Her heart didn’t seem to be doing anything. She heard someone speak. It was a very good voice. She’d had it since she was eleven; it had got her a bench, and a boy to carry her bag, and it had never failed her but the once. It wasn’t raised. It was cool and clear and bored, and it came out as it always came.
+She had not moved. Her heart didn’t seem to be doing anything. She heard someone speak. It was a very good voice. She’d had it since she was eleven; it had got her a bench, and a boy to carry her bag, and it had never failed her but the once. It was cool and clear and bored, and it came out as it always came.
 
 “Put that down,” said Lyra.
 
@@ -156,7 +156,7 @@ The dust went on going round.
 
 It took a little over a minute.
 
-She knew that. She’d read the label. It had been made for a very old, very strong man. She found she had crossed the room. She didn’t know what had happened to the ink. She was on her knees on the boards, and she’d got something black all over her skirt, and she had hold of a hand. It was large and warm and rather damp. There was flour in the creases. It closed round hers, in its grey wool, in a comfortable sort of way.
+She knew it. She’d read the label. It had been made for a very old, very strong man. She found she had crossed the room. She didn’t know what had happened to the ink. She was on her knees on the boards, and she’d got something black all over her skirt, and she had hold of a hand. It was large and warm and rather damp, with flour in the creases, and it closed round hers, in its grey wool, in a comfortable sort of way.
 
 There wasn’t a bezoar in the room.
 
@@ -174,7 +174,7 @@ The colour was going out of Goyle’s face, slowly. She looked down at Lyra’s 
 
 She held it out.
 
-It wasn’t very steady. It came across the small space between them, with its bit of a curl, at the end of that big pale floury hand. It stopped about an inch from Lyra’s lips. She could smell chocolate. Behind that, there was something faint and sweet and rather sharp, like the peel of an orange on a winter morning.
+It came across the small space between them, not very steadily, with its bit of a curl, at the end of that big pale floury hand, and it stopped about an inch from Lyra’s lips. She could smell chocolate. Behind that, there was something faint and sweet and rather sharp, like the peel of an orange on a winter morning.
 
 “Go on,” said Goyle.
 
@@ -196,7 +196,7 @@ She took off her gloves. There was ink on them. She laid them on the bed.
 
 *Then* she opened her mouth.
 
-It wasn’t a word. It wasn’t anything that she had ever heard. It came from a long way under the floor. It went on, and on, and she heard it go along the passage and up the stone stairs, and she heard doors. She stood with her arms hanging, in the sun, beside a girl who was still smiling at her. Against her ribs, in a small glass phial with a neat twist of wire, there were twelve hours of the most tremendous luck. She had been saving that for Friday.
+It wasn’t a word, or anything she had ever heard. It came from a long way under the floor, and it went on, and on, and she heard it go along the passage and up the stone stairs, and she heard doors. She stood with her arms hanging, in the sun, beside a girl who was still smiling at her. Against her ribs, in a small glass phial with a neat twist of wire, there were twelve hours of the most tremendous luck. She had been saving that for Friday.
 
 ⁂
 

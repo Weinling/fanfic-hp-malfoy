@@ -2,7 +2,7 @@
 
 She did it as Arithmancy, because it had to be done as something.
 
-She did it in August, on the window seat of the old schoolroom, with a clean sheet and a ruled margin, in the second week that she was able to hold a pen. It lay along the inside of her left forearm, from a little below the elbow to the wrist, and it was not like her father’s. His was a thing done in a batch. Hers had been made to measure, by someone who took an interest, over three hours and a half. It was a thin grey-green snake, as fine as a line of engraving, lying in two slow curves, and it had no skull. It had a very small flat head that rested on the pulse. It had one eye, on the side towards her, and the eye was open.
+She did it in August, on the window seat of the old schoolroom, with a clean sheet and a ruled margin, in the second week that she was able to hold a pen. It lay along the inside of her left forearm, from a little below the elbow to the wrist, and it was not like her father’s. His was a thing done in a batch. Hers had been made to measure, by someone who took an interest, over three hours and a half. It was a thin grey-green snake, as fine as a line of engraving, lying in two slow curves, and it had no skull, only a very small flat head that rested on the pulse. It had one eye, on the side towards her, and the eye was open.
 
 There was no lid. She had looked. It was about the size of a grain of rice, and it was the colour of weak tea, and it looked at nothing.
 
@@ -74,7 +74,7 @@ They rose when she came into the common room.
 
 She had expected looks. She came down the stone steps behind a first-year with the password, with the green lamps swinging, and Montague got to his feet, and Warrington’s sister, and it went on across the room in a small rustling wave, from the fire to the door. Seven people in Slytherin had fathers under the Wizengamot since June, and every one of them knew what had been done, and who had done it; they’d had it from their mothers. *By four o’clock, as I asked.* A fifth-year who had never spoken to her got up and gave her the chair. It was the good one. She had fought Parkinson for that chair for five years, and he was holding the back of it for her now, with shining eyes.
 
-There was a badge on her pillow, in silver: *Captain*. There was a note about it from Snape, one line. Weasley had got the other. She heard that at supper; she had it from Zabini, who said it was the first thing to have happened in Gryffindor in years that he would pay to see. She had a good laugh, in the right place.
+On her pillow lay a silver badge, *Captain*, with one line about it from Snape. Weasley had got the other. She heard that at supper; she had it from Zabini, who said it was the first thing to have happened in Gryffindor in years that he would pay to see. She had a good laugh, in the right place.
 
 Crabbe was on the end of the bench in the dormitory, with her boots off. Her father had got nine years, on the sixteenth of August, for his part in an affair in a room full of glass. She’d taken some time over one of the laces. She looked up when Lyra came in, without hurry, and it went to the left sleeve, and on, and it did not stop.
 
@@ -148,9 +148,9 @@ The Marks were always in the left arm. He’d know that. He had been in a war. S
 
 “I’ll bear it in mind, Professor,” said Lyra.
 
-There was Apparition. It was on Saturday mornings in the Great Hall, with the tables taken away and a man from the Ministry who appeared to have been drawn with a ruler. They were given each a wooden hoop. On the third Saturday in October, with the whole of the sixth year standing round in their socks, Harry Potter shut his eyes and frowned, and turned on the spot, with enormous concentration, and went with a loud crack to the other side of his hoop. He stood there, looking pleased. A hundred people began to scream with laughter. He looked round. He looked behind him, and then, following the direction of their fingers, down.
+There was Apparition, on Saturday mornings in the Great Hall, with the tables taken away and a man from the Ministry who appeared to have been drawn with a ruler. They were given each a wooden hoop. On the third Saturday in October, with the whole of the sixth year standing round in their socks, Harry Potter shut his eyes and frowned, and turned on the spot, with enormous concentration, and went with a loud crack to the other side of his hoop. He stood there, looking pleased. A hundred people began to scream with laughter. He looked round. He looked behind him, and then, following the direction of their fingers, down.
 
-It was his left eyebrow. It lay in the centre of the hoop on the bare boards, and it looked extremely surprised.
+It was his left eyebrow. It lay in the centre of the hoop on the bare boards, looking extremely surprised.
 
 She had to turn her back. She had to put her hand over her mouth, and hold on to Goyle. It got out anyway. She had not laughed since a Sunday in June. It hurt her under the ribs, it hurt where the house was, and she stood with her shoulders going and the tears running down, wheezing; and when she got her head up, he had found her, right across the Hall, with his hand clapped to the place, and half his forehead bald. He was grinning at her. He couldn’t help it. Nor could she. It didn’t last. Then the man with the ruler had got there, and someone had shouted for Madam Pomfrey, and she’d straightened up, and put her face back on, and taken ten points from Gryffindor for leaving parts of itself on school property.
 
@@ -228,7 +228,7 @@ She stopped. It didn’t run. It had been going along the bottom of the wall, cl
 
 So it was the same. She had rather thought it would be.
 
-She felt nothing much. She had felt it all in a linen cupboard. She stood with her book of rounds in the crook of her arm, and looked at the small soft creature that had sat by her fire. It had gone through a boy’s pockets, and heard everything that she’d ever said. *I love you*, and *Please come*; it had seen him with his glasses off. It had a coat that had been made for somebody else. It wasn’t even afraid of her, she thought; or no more than it was of everything. She supposed it would be told what she did.
+She felt nothing much. She had felt it all in a linen cupboard. She stood with her book of rounds in the crook of her arm, and looked at the small soft creature that had sat by her fire. It had gone through a boy’s pockets, and heard everything that she’d ever said. *I love you*, and *Please come*; it had seen him with his glasses off. It had a coat that had been made for somebody else, and it wasn’t even afraid of her, she thought; or no more than it was of everything. She supposed it would be told what she did.
 
 She had been caught out once, at thirteen, for not having counted. She’d said so to Weasley, with some heat.
 

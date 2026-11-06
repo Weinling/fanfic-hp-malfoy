@@ -6,7 +6,7 @@ Her mother had come for her on the Tuesday, and nobody from the school would be 
 
 There must have been eighty of them. They were standing along both walls, not saying very much. Somebody had brought a chair and put it by the pear. On the chair was a plate.
 
-Hopkins had done that. He had carried it up from the kitchens himself, with his left hand and his forearm, and set it down, and stepped back. It was a slice of fish pie. It had gone a bit cold. He stood looking at that, long and mild, with his bad hand against his chest, and he didn’t appear to be going to say anything. There was a house-elf beside the chair, and another, and then you noticed there were a good many, in a row, along the skirting, with their ears down. They had brought a very small loaf.
+Hopkins had done that. He had carried it up from the kitchens himself, with his left hand and his forearm, and set it down, and stepped back. It was a slice of fish pie, gone a bit cold. He stood looking at that, long and mild, with his bad hand against his chest, and he didn’t appear to be going to say anything. There was a house-elf beside the chair, and another, and then you noticed there were a good many, in a row, along the skirting, with their ears down. They had brought a very small loaf.
 
 Nobody had organised anything. They just came up, as you’d go up for a Sorting. A second-year put down a bun. Nott stood there for some time with his long dull careful face, and took a chess piece out of his pocket, and looked at it, and put it back. He went and stood beside a thickset girl who wasn’t looking at him; and after a while, without turning her head, she moved over by about an inch.
 
@@ -48,7 +48,7 @@ A very small boy was sitting on the bottom step, with his knees together and his
 
 He got down on one knee. He couldn’t have said how. “Draco. All right. It’s all right. Who asked you?”
 
-A hand came out of the scarf. It held out a sheet of paper. It was thick and cream-coloured and faintly ribbed. It had been folded once. He took that, and he tilted it to the torch, and there were two lines on it, in a small upright clear good hand, the hand of a boy who has won prizes.
+A hand came out of the scarf. It held out a sheet of paper, thick and cream-coloured and faintly ribbed, folded once. He took that, and he tilted it to the torch, and there were two lines on it, in a small upright clear good hand, the hand of a boy who has won prizes.
 
 *There is a pale box at the bottom of your sister’s trunk, in the left boot. She is tired. Take it from her tonight, and bring it to the seventh floor. Everybody thinks you get lost. You would do.*
 
@@ -60,7 +60,7 @@ He read it. He read it twice. There was a roaring noise, somewhere, and it seeme
 
 He unwound the scarf.
 
-It was about the size of a prayer book. It was very clean. It was made of some pale smooth wood, like the inside of an almond. He held it out in both hands, at the full length of his short arms, and his fingers had left damp marks on it.
+It was about the size of a prayer book, very clean, made of some pale smooth wood like the inside of an almond. He held it out in both hands, at the full length of his short arms, and his fingers had left damp marks on it.
 
 Harry took it from him. It hardly weighed anything. He laid his wand down on the step. He lifted the lid. He could smell chocolate. Under that there was something else, very faint and sweet, like the peel of an orange on a winter morning; and he had been shown a lot of things in the green underwater light of a certain dungeon, he’d been taught to stand over a thing, and breathe in, and name what it was. His whole skin had gone cold. *To the Headmaster*, said a card, *with the compliments of the Sixth Year*.
 
@@ -72,7 +72,7 @@ Harry looked up.
 
 “I counted. In July. I gave it to her and I told her that. I count things.” The pale eyes were fixed on the box. They were enormous. There was no expression in them whatever, and the tears had started to run out of them, quite steadily, without any help. “There’s twelve in each. It’s very exact. I always count. So I counted now. You can look.”
 
-He looked. It was the corner of the top layer, on the left. There was a small square of pleated paper there. There was nothing on it but a brown smear.
+He looked. In the corner of the top layer, on the left, there was a small square of pleated paper, with nothing on it but a brown smear.
 
 One gap.
 
@@ -106,7 +106,7 @@ He’d always known. He had known since he was sixteen. He’d known that it wou
 
 The sign said *OUT OF ORDER*. The door was open by about a hand.
 
-He could hear the water from the end of the corridor. There was a tap running, or a good many. It was nearly dark, with the snow-light coming in at the high frosted windows, grey and blue on the wet floor, and it smelt of old drains. All along one wall the long cracked mirror gave him back a thin boy in black, with a box. The ghost had stopped crying. He noticed that. There wasn’t any sound at all but the water, and something else.
+He could hear the water from the end of the corridor. A tap was running, or a good many. It was nearly dark, with the snow-light coming in at the high frosted windows, grey and blue on the wet floor, and it smelt of old drains. All along one wall the long cracked mirror gave him back a thin boy in black, with a box. The ghost had stopped crying. He noticed it. There wasn’t any sound at all but the water, and something else.
 
 She was at the sinks.
 
@@ -270,10 +270,10 @@ Her pulse had got stronger. It was going along under the ball of his thumb, quit
 
 Something moved, under his thumb.
 
-It was very slight. It was about the size of a grain of rice. It gave a small drowsy shift, like someone who has been asleep, and has heard a noise. He looked down. He moved his thumb.
+It was about the size of a grain of rice. It gave a small drowsy shift, like someone who has been asleep, and has heard a noise. He looked down. He moved his thumb.
 
 The thin grey skin had started to draw back.
 
-He couldn’t do anything. He couldn’t take his eyes away. It slid up, and it slid down, very gently, in no sort of hurry at all. There was a line of dull brown, and a slit, and it widened. It was the colour of weak tea. It was quite round, and it was perfectly awake. It lay on the pulse of the only person he had ever come for, and it opened all the way.
+He couldn’t do anything. He couldn’t take his eyes away. It slid up, and it slid down, very gently, in no sort of hurry at all. There was a line of dull brown, and a slit, and it widened. It was the colour of weak tea, quite round, and perfectly awake. It lay on the pulse of the only person he had ever come for, and it opened all the way.
 
 It looked at him.

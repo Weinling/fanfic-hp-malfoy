@@ -52,7 +52,7 @@ And underneath, in a hand that she had always considered to be the best in Slyth
 
 She didn’t know what she had expected. She had lain awake over it. She had read every page that he’d let her see, about what that paper did, and to whom. It collected when the debtor died, and it kept what it collected; it had kept Thomas Greengrass since 1688. It was the same paper. She had taken it from the same drawer. She had looked at it for a week, in the small hours, with an island of cold under her ribs that had the house in it. She needed to know what she had signed, and what he had.
 
-A thin high wheezing had begun. She looked up, in some alarm. His whole frame had started to shake, inside the strips of linen, and his mouth had come open, and for an instant she thought that this was the end of it, and that she would have to go and find somebody. There was water running out of his eyes. It went down along the marks. *Not*, he was saying. *Not re*— He got his breath, with a noise like a saw, and it set him off again. It was the most dreadful sound; he laughed and laughed, and she had to get up and put her arm behind his neck, and hold the cup for him. Most of it went down his front.
+A thin high wheezing had begun. She looked up, in some alarm. His whole frame had started to shake, inside the strips of linen, and his mouth had come open, and for an instant she thought that this was the end of it, and that she would have to go and find somebody. Water ran out of his eyes and down along the marks. *Not*, he was saying. *Not re*— He got his breath, with a noise like a saw, and it set him off again. It was the most dreadful sound; he laughed and laughed, and she had to get up and put her arm behind his neck, and hold the cup for him. Most of it went down his front.
 
 “Oh,” said Abraxas Malfoy. “Oh, my d-dear. N-nine hundred years. And not one of us ever thought—” It took him again, more weakly. “*Not repayable.* You’ve written a b-bad debt into the b-book of the house, on p-purpose, in your own name. Your father would have had you s-seen by a doctor.”
 
@@ -126,7 +126,7 @@ He looked at her for some time. She felt it begin: that light, cool, unhurried p
 
 He began, quite softly, to laugh.
 
-She had been told about that. She’d been told to think about what had been happening on the other occasion. It was a pleasant laugh, light and rather boyish. There was real delight in it. It went on for a breath or two, and when it stopped Bellatrix had gone white under the dirt, and had her fingers in her mouth.
+She had been told about that. She’d been told to think about what had been happening on the other occasion. It was a pleasant laugh, light and rather boyish, with real delight in it. It went on for a breath or two, and when it stopped Bellatrix had gone white under the dirt, and had her fingers in her mouth.
 
 “Oh, my dear,” said the Dark Lord. “*There* you are. I did wonder when you’d come in.”
 
@@ -150,13 +150,13 @@ Lyra read about the four houses for a long time. She thought about what sort of 
 
 That left the one in Pimlico. It had a blue door. Madam Bones chose it herself. She told nobody until the morning, which was exactly right. She went alone up the stairs, with two good Aurors out in the street in the rain, and she locked the door behind her with her own wand.
 
-It was the best thing that Lyra had ever done with her head. She knew that. She had never done anything so clean. She had made a very able, very careful person do precisely what she ought; she had not told one lie that mattered. She sat in the window seat on the morning of the twenty-sixth with the *Prophet* on her knee.
+It was the best thing that Lyra had ever done with her head. She knew it. She had never done anything so clean. She had made a very able, very careful person do precisely what she ought; she had not told one lie that mattered. She sat in the window seat on the morning of the twenty-sixth with the *Prophet* on her knee.
 
 *AMELIA BONES FOUND DEAD. Locked Room Baffles Aurors.* It said that the Head of the Department of Magical Law Enforcement had been a Hufflepuff, and a magistrate of the old school. There was a photograph. She looked up at you through the monocle, without any particular expression, and looked down at something on her desk, and went on reading. It said she had been found at her table, with her pen in her hand, and that she left a niece, Susan, 16, a pupil at Hogwarts School, who had been told at home.
 
 She read it to the end. She looked for the place in herself. She had been told that it was like pouring, and she supposed it had been. It was a fine hot morning. Down on the lawn the white peacock’s mate was walking about, looking for something.
 
-There was a plait, she remembered. There had been a girl who stood up, crying, with a glove.
+There had been a plait, she remembered, and a girl who stood up, crying, with a glove.
 
 *That was three*, thought Lyra. She couldn’t have said what she was counting.
 

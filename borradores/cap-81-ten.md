@@ -60,7 +60,7 @@ He’d have liked to have a good answer. He had a number of them. He looked at h
 
 “I just know,” said Harry. “It was destroyed. I saw it. It’s not that. She’s safe, I swear. It’s not going to happen again.”
 
-He heard that. So did everyone. There was a short silence in the cupboard. A tap was dripping, on the other side of the wall.
+He heard it. So did everyone. There was a short silence in the cupboard. A tap was dripping, on the other side of the wall.
 
 Ron looked at him for a long moment. He nodded, slowly, two or three times, as you might if somebody had explained to you about the rent. He put the mop back in the corner, and he stood it quite carefully, so that it shouldn’t fall.
 
@@ -140,7 +140,7 @@ She waited.
 
 For an instant she looked at him.
 
-It was so quick. He would never be sure. He’d go over it, a very great number of times. Her eyes came back from the window, and they met his, full on; and they were not the colour of nothing. There was somebody in them. There was someone a long way down, at the bottom of something, looking up, with her mouth open. He took a step. She looked at his hands.
+It was so quick. He would never be sure. He’d go over it, a very great number of times. Her eyes came back from the window, and they met his, full on; and they were not the colour of nothing. There was someone in them, a long way down, at the bottom of something, looking up, with her mouth open. He took a step. She looked at his hands.
 
 Then she had turned her head again, by that inch, and she smiled a little at the air.
 
@@ -222,7 +222,7 @@ There was a small sound, beside him. Blaise Zabini was sitting across the table 
 
 *10.*
 
-He had never given one. Everybody knew that; Goyle had been trying for a year and a half. He raised his dark, tired, intelligent eyes to Harry’s face, and there wasn’t any amusement in them at all. It made him look a good deal older.
+He had never given one. Everybody knew it; Goyle had been trying for a year and a half. He raised his dark, tired, intelligent eyes to Harry’s face, and there wasn’t any amusement in them at all. It made him look a good deal older.
 
 “I should stop there, if I were you,” said Zabini quietly. He looked along the table, at the straight back and the cup; he looked for a moment, and he looked away. “Both of you.”
 

@@ -103,7 +103,7 @@ He looked at it for a bit. Then he took it back.
 
 He was starving, so he went down to the kitchens.
 
-It was the Sunday after, about half past nine. It had got to be a thing that you could do. You went along by the Hufflepuff barrels and tickled the pear; and if you turned left you got the long room, with the Society’s notice on the door. If you turned right you got four house-elves bowing, and a smell that would have made a Dementor sit down and cry. He turned right. He’d been doing a lot of that.
+It was the Sunday after, about half past nine. You could do that, these days. You went along by the Hufflepuff barrels and tickled the pear; and if you turned left you got the long room, with the Society’s notice on the door. If you turned right you got four house-elves bowing, and a smell that would have made a Dementor sit down and cry. He turned right. He’d been doing a lot of that.
 
 “They *like* it,” someone was saying, in a slow voice.
 
@@ -123,7 +123,7 @@ Ron stopped. He had been in that kitchen a fair number of times, and he’d seen
 
 “The custard. Friday. You always do. You think it wants more because you’re cross.” She turned the pastry a quarter of the way round. She hadn’t looked up. “Hello, Weasley. There’s a pie.”
 
-There was. It was on a rack by the range, the size of a small shield, with leaves on it. It was steak and something, with a crust that broke with a noise like walking on frost, and he sat down on the end of the bench with a plate, and for about four minutes he wasn’t anybody’s captain. He ate it with his eyes shut. When he opened them she was standing on the other side of the table with her hands in a cloth, looking at him, with her head a bit on one side. She’d got small slow eyes, and he had never really looked at them. She was Malfoy’s, she’d always been Malfoy’s, she had sat next to it for five and a half years.
+There was. It was on a rack by the range, the size of a small shield, with leaves on it: steak and something, with a crust that broke with a noise like walking on frost, and he sat down on the end of the bench with a plate, and for about four minutes he wasn’t anybody’s captain. He ate it with his eyes shut. When he opened them she was standing on the other side of the table with her hands in a cloth, looking at him, with her head a bit on one side. She’d got small slow eyes, and he had never really looked at them. She was Malfoy’s, she’d always been Malfoy’s, she had sat next to it for five and a half years.
 
 “Well?” said Goyle.
 
@@ -143,9 +143,9 @@ But she’d gone back to her pastry.
 
 It was the twenty-eighth of November, and he knew what it was going to be as soon as he came in.
 
-He’d gone along because he went. It was a Thursday. It had got to be about forty of them by now, in the long room behind the kitchens, what with the first-years and the Ravenclaws and everyone who’d read about Madam Bones. They were doing Disarming, down at the far end. Neville was going up and down with his sleeves rolled and that pot under his arm, saying “Sorry. Your other left.” It smelt of cold dust and bacon. There was a good noise, a lot of people shouting *Expelliarmus* and missing. Somebody’d got Dean’s wand in the rafters.
+He’d gone along because he went. It was a Thursday, and there were about forty of them by now, in the long room behind the kitchens, what with the first-years and the Ravenclaws and everyone who’d read about Madam Bones. They were doing Disarming, down at the far end. Neville was going up and down with his sleeves rolled and that pot under his arm, saying “Sorry. Your other left.” It smelt of cold dust and bacon. There was a good noise, a lot of people shouting *Expelliarmus* and missing. Somebody’d got Dean’s wand in the rafters.
 
-Harry had finished with the Patronus lot at eight. He’d had them for an hour, and he’d been very clear, very patient and very good. He hadn’t gone. He was standing on the white line, looking at something. Ron followed his eye. It was the dummy. It was a big stuffed canvas thing, in an old Auror’s coat, that Cedric had got from somewhere, with a turnip for a head.
+Harry had finished with the Patronus lot at eight. He’d had them for an hour, and he’d been very clear, very patient and very good. He hadn’t gone. He was standing on the white line, looking at something. Ron followed his eye. It was the dummy, a big stuffed canvas thing, in an old Auror’s coat, that Cedric had got from somewhere, with a turnip for a head.
 
 “D’you want to see something?” said Harry.
 
@@ -289,7 +289,7 @@ The next night he was there at six, with a Quidditch magazine. He didn’t say a
 
 He saw it on the thirteenth.
 
-It was Friday, in the last double Potions of term. It had been snowing since dawn. It had got dark at about three, and they’d lit the lamps, and the dungeon was all steam and green shadows, with everybody’s Draught of Peace going a bad colour. He’d only got in there by the skin of his teeth, on an E, because Snape was short of people who could still read. They had been told to bottle up and clear away. There was a queue for the sink. Slytherin were doing that thing where they all stood up at once.
+It was Friday, in the last double Potions of term, and it had been snowing since dawn. By three they’d lit the lamps, and the dungeon was all steam and green shadows, with everybody’s Draught of Peace going a bad colour. He’d only got in there by the skin of his teeth, on an E, because Snape was short of people who could still read. They had been told to bottle up and clear away. There was a queue for the sink. Slytherin were doing that thing where they all stood up at once.
 
 He had his head in his bag. He’d lost his stirring rod. He looked up, for no reason, with his hand in a lot of old Chocolate Frog cards. He could see along the bench.
 

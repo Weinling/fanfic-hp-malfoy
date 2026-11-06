@@ -48,7 +48,7 @@ It was very good. It was extremely well done. You could see the burrs in its coa
 
 It turned its head.
 
-No one had told him about this. It had not done that before. It looked up and round, with its slit red eyes, without any hurry, past the benches and the pit. It looked at the place he was looking from. It looked straight at him, as you’d look up at someone on a landing.
+No one had told him about this. It had not done that before. It looked up and round, with its slit red eyes, without any hurry, past the benches and the pit, to the place he was looking from. It looked straight at him, as you’d look up at someone on a landing.
 
 “Come and see,” it said.
 
@@ -56,7 +56,7 @@ The voice was light and courteous. It was addressed to him personally.
 
 “Mr Potter? Mr Potter, can you hear me?”
 
-There was a bluebottle. There was a smell of floor polish, against his cheek. He was lying on his side in the aisle, with a lot of faces and a very old wizard bending down, and somebody’s sandal, and his head was full of broken glass, and he’d been sick, a little, on his sleeve.
+A bluebottle. A smell of floor polish, against his cheek. He was lying on his side in the aisle, with a lot of faces and a very old wizard bending down, and somebody’s sandal, and his head was full of broken glass, and he’d been sick, a little, on his sleeve.
 
 He found he was smiling.
 
@@ -72,7 +72,7 @@ She shuffled along his arm and held out her leg, and looked at him. She’d come
 
 He looked at it.
 
-He looked at it for some time, without any particular thought. It was a bit of parchment, folded in four. It was perfectly dry. It didn’t smell of peat.
+He looked at it for some time, without any particular thought. It was a bit of parchment, folded in four, perfectly dry. It didn’t smell of peat.
 
 He unfolded it.
 

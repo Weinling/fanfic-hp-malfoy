@@ -22,7 +22,7 @@ It felt as if somebody had shut his finger in a door.
 
 He dropped the ladle. He had his hand up in front of his face before he’d had time to think. He could see it, by the blue flame of a Muggle camping stove. It had gone the colour of a fresh cut.
 
-He didn’t stop to think about anything. That was a thing he noticed, later on. He had thought he would think. He had his Cloak in one hand and the Firebolt out from behind the wardrobe in the other, and he’d got as far as the top of the stairs when he remembered the atlas. It was on the floor. It was somewhere under the cassettes. He went back and threw things, and it wasn’t there, and the ring had started to burn down into the bone. He could hear himself breathing. *If mine goes red, I’ll know.* He’d said that when he was fifteen.
+He didn’t stop to think about anything. That was a thing he noticed, later on. He had thought he would think. He had his Cloak in one hand and the Firebolt out from behind the wardrobe in the other, and he’d got as far as the top of the stairs when he remembered the atlas. It was on the floor, somewhere under the cassettes. He went back and threw things, and it wasn’t there, and the ring had started to burn down into the bone. He could hear himself breathing. *If mine goes red, I’ll know.* He’d said that when he was fifteen.
 
 “Oi,” said someone behind him.
 
@@ -50,7 +50,7 @@ He felt it go. It had been leading him on and on across a great dark pale-streak
 
 It was a field.
 
-He stood in it. There was a good deal of long grass, wet already, and it had been grazed. It sloped away to a ragged hedge. He could smell sheep, and hear them; they had got up, a little way off, in a grey uneasy bunch, and were looking at him. There was a gate, tied up with blue string. Somebody had left a feed trough on its side. Over the hedge there was another field, just the same. A long way off, a Muggle car was going along a road with its lights on, and it went behind something, and came out.
+He stood in it. Long grass, wet already and lately grazed, sloped away to a ragged hedge. He could smell sheep, and hear them; they had got up, a little way off, in a grey uneasy bunch, and were looking at him. There was a gate, tied up with blue string. Somebody had left a feed trough on its side. Over the hedge there was another field, just the same. A long way off, a Muggle car was going along a road with its lights on, and it went behind something, and came out.
 
 He turned round, slowly, with his wand held out.
 
@@ -76,11 +76,11 @@ He stayed on his knees, because he had nothing else to try. He put his forehead 
 
 He couldn’t have told you why he went to the horse.
 
-It wasn’t anywhere near. It was fourteen miles north-east of the field, by the atlas, and he went there, because you had to go somewhere and that was where she had been, on the only other night that this had ever happened. He came down on the ridge a little before three. There it lay on the dark side of the hill, long and thin and white, with its one round eye; it had been running for a good while, and it hadn’t got anywhere. He sat down in the short dry grass beside the Firebolt. It was the same place. There wasn’t any snow, and the wind had dropped. He put his hands in his pockets. He looked at it, and he left them there.
+It wasn’t anywhere near; it was fourteen miles north-east of the field, by the atlas, and he went there, because you had to go somewhere and that was where she had been, on the only other night that this had ever happened. He came down on the ridge a little before three. There it lay on the dark side of the hill, long and thin and white, with its one round eye; it had been running for a good while, and it hadn’t got anywhere. He sat down in the short dry grass beside the Firebolt. It was the same place. There wasn’t any snow, and the wind had dropped. He put his hands in his pockets. He looked at it, and he left them there.
 
 He didn’t think she would come. He sat and didn’t think it, for an hour.
 
-The sky went a dull grey-green along the bottom, and birds had started up, down in the valley, one at a time. He had got rather cold. He heard it before he saw it: a faint high rushing, and a whisper in the grass. He stood up. He stood up so fast that he went dizzy, and there was a dark thing coming along the top of the ridge, low and rather slowly. It came down on the far side of the horse’s ear. It stayed where it was for a moment. Then someone got off it, with care, and stood the broom against nothing, and it stayed. She came along the turf towards him, with her cloak round her.
+The sky went a dull grey-green along the bottom, and birds had started up, down in the valley, one at a time. He had got rather cold. He heard it before he saw it: a faint high rushing, and a whisper in the grass. He stood up. He stood up so fast that he went dizzy, and there was a dark thing coming along the top of the ridge, low and rather slowly. It came down on the far side of the horse’s ear, and stayed where it was for a moment. Then someone got off it, with care, and stood the broom against nothing, and it stayed. She came along the turf towards him, with her cloak round her.
 
 She walked very straight. He’d seen her walk like that down the middle of the Great Hall with a broken arm. She had a long grey dress on, with long sleeves, buttoned at the wrist, and it was the thirty-first of July; or it had been. She stopped about four yards away.
 
@@ -108,7 +108,7 @@ He knew that voice. He had heard it across a table with a lace cloth, over a pla
 
 She put her right hand into the fold of her cloak and held something towards him, at the full length of her arm; and she stayed where she was, so that he had to come forward. He went across the grass with his eyes on her face. It was a little flat parcel in tissue paper, tied up with a bit of green thread, and he took it from the very ends of her fingers. They were shaking. He could see that now. All of her was, not much, you’d have had to know, in a fine fast tremor that ran through the hand and the arm and the long grey sleeve, like something with the current on. He had seen that in a chair, with strips of linen. He undid the thread, because it was what you did, with hands that didn’t feel like anything.
 
-It was a sock. It was a very good one, in fine dark grey wool. There was just the one.
+It was a sock, a very good one, in fine dark grey wool. There was just the one.
 
 “You seemed to be short,” said Lyra.
 
@@ -152,7 +152,7 @@ She let go of the collar. She smoothed it down, once.
 
 “That was the last one,” said Lyra.
 
-He couldn’t help it. He had no breath at all. It was just what you said. It had been what you said for thirteen months, in a tower, and at a window, and on a hill, in the blackest dark there was, and it had never once failed.
+He couldn’t help it. He had no breath at all. It was just what you said. You had been saying it for thirteen months, in a tower, and at a window, and on a hill, in the blackest dark there was, and it had never once failed.
 
 “This year,” said Harry.
 

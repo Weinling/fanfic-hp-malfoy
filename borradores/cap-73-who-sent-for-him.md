@@ -182,9 +182,9 @@ Somebody went by the end of the bed. It was Hopkins, long and mild and spotty, c
 
 “No,” said Harry. “Nor do I.”
 
-Something touched his ankle. He looked down. Under the empty bed by the wall lay a big black shape with a splint on its leg and its chin on Madam Pomfrey’s second-best slippers. It had brown eyes and a torn ear. It thumped its tail on the boards, once, in case.
+Something touched his ankle. He looked down. Under the empty bed by the wall lay a big black shape with a splint on its leg and its chin on Madam Pomfrey’s second-best slippers. It had brown eyes and a torn ear, and it thumped its tail on the boards, once, in case.
 
-He went over. He didn’t know why. There was somebody sitting on the bed. He hadn’t noticed that; you wouldn’t have. Lupin had his patched elbows on his knees and his hands hanging down, and he was looking at the floor between his shoes, and he had got very small. Nobody had asked him to sit there. He looked up, after a time, and took a moment to work out who it was.
+He went over. He didn’t know why. There was somebody sitting on the bed. He hadn’t noticed it; you wouldn’t have. Lupin had his patched elbows on his knees and his hands hanging down, and he was looking at the floor between his shoes, and he had got very small. Nobody had asked him to sit there. He looked up, after a time, and took a moment to work out who it was.
 
 Harry had come to say something. He had thought it would be something else.
 
@@ -238,7 +238,7 @@ She still came.
 
 He hadn’t been sure of that. He went up on the Thursday night, because there wasn’t anywhere else, and walked past the bare wall, and the door was there. There were the bald rug and the fender and the chair. The next evening, at about ten, she came in with her book of rounds and sat down in it with her feet under her, and she opened the book. She didn’t say anything. He stayed on the rug, on the far side, with his hands where he’d been told. After a while she turned over a page.
 
-It was what they did. It went on for nine nights. It wasn’t bearable, and he couldn’t have done without it.
+They did that for nine nights. It wasn’t bearable, and he couldn’t have done without it.
 
 On the third night he brought a cauldron.
 

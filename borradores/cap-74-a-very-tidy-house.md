@@ -2,7 +2,7 @@
 
 The Aurors had gone to the cellars at last.
 
-Pobble told her so in the hall, taking her cloak, with his ears flat. They had come on the Thursday and again on the Friday, nine of them, in boots. They had taken up the flags in the wine vault, and had the back off the cupboard under the still-room stairs, where nobody had been since her great-grandmother. They had found four hundred bottles of the ’47 and a quantity of dead mice. In 1992 Arthur Weasley would have sold one of his children for that afternoon, and he’d had several to spare; and they had gone away on the Friday evening with mud on the Aubusson, looking tired. There had been nothing to find. There had been nobody at home to find it. Everyone had left for the north before breakfast on the Wednesday, Pobble said, and the master’s study had a purple ribbon across the door, and would Miss Lyra be wanting a bath.
+Pobble told her so in the hall, taking her cloak, with his ears flat. They had come on the Thursday and again on the Friday, nine of them, in boots. They had taken up the flags in the wine vault, and had the back off the cupboard under the still-room stairs, where nobody had been since her great-grandmother. They had found four hundred bottles of the ’47 and a quantity of dead mice. In 1992 Arthur Weasley would have sold one of his children for that afternoon, and he’d had several to spare; and they had gone away on the Friday evening with mud on the Aubusson, looking tired. There had been nothing to find, and nobody at home to find it. Everyone had left for the north before breakfast on the Wednesday, Pobble said, and the master’s study had a purple ribbon across the door, and would Miss Lyra be wanting a bath.
 
 She went up and looked. She didn’t take off her gloves. She walked the whole length of the south wing, with her heels going ahead of her down the boards, and all the shutters had been folded back and the windows stood open on the evening. There was a smell of cut grass. In the end room somebody had stripped the bed and squared the mattress and left the blankets folded at the foot, with the corners true. He had been brought up in an institution. She stood and looked at those corners for a little while, and there wasn’t a hair on the pillow-ticking, or a ring from a glass. You could not have said that anyone had ever been there.
 
@@ -54,7 +54,7 @@ She had seen that done. She knew who had taught him. She took one.
 
 “It’s got orange in it,” said Draco, with his mouth full.
 
-It had. It had gone a little soft, in the heat of the train. It was by some way the best thing that she had eaten in that house. She ate it slowly, with the sun on her arm and the crumbs on her dressing gown, and when she looked up her mother had cut another piece of bread, or done something to it, and had held it out to her on the end of the knife. Nobody said anything about a fountain. Nobody said anything about the Cobb. Lyra ate that as well, and she ate an egg, and some cold ham that Pobble came in and laid at her elbow, sobbing with joy; and Draco showed their mother, with some contempt, how you did a slice. They sat on until the sun had gone off the table. The door went on banging, up above, and she thought she would go and see about it, and she didn’t.
+It had. It had gone a little soft, in the heat of the train, and it was by some way the best thing she had eaten in that house. She ate it slowly, with the sun on her arm and the crumbs on her dressing gown, and when she looked up her mother had cut another piece of bread, or done something to it, and had held it out to her on the end of the knife. Nobody said anything about a fountain. Nobody said anything about the Cobb. Lyra ate that as well, and she ate an egg, and some cold ham that Pobble came in and laid at her elbow, sobbing with joy; and Draco showed their mother, with some contempt, how you did a slice. They sat on until the sun had gone off the table. The door went on banging, up above, and she thought she would go and see about it, and she didn’t.
 
 ⁂
 
@@ -146,7 +146,7 @@ Wormtail looked at the carpet. His lips had drawn back from his front teeth in a
 
 ⁂
 
-There was a linen cupboard on the second floor, behind the old nurseries. It was as deep as a small room. It had slatted shelves up to the ceiling, and it smelt of lavender and hot pipes, and she had last been in it when she was eight.
+The linen cupboard on the second floor, behind the old nurseries, was as deep as a small room, with slatted shelves up to the ceiling and a smell of lavender and hot pipes, and she had last been in it when she was eight.
 
 She got the door shut. She got in at the back, on the floor, between the winter blankets. She took a double sheet down from the shelf, one of the good ones with the crest on it, and she folded it in four, and then she put her face in it, and she opened her mouth as far as it would go.
 
@@ -178,7 +178,7 @@ She went back and stood on the top step, in the shadow of the porch, and waited 
 
 The box came in with the coffee, at dinner. It was still Monday. She had lost hold of the day some time ago.
 
-It was not large. It was made of some pale clean wood, like the inside of an almond, and it stood on the cloth in front of the Dark Lord with its lid off. There was a card in a slot on the inside of the lid. They were lying in two layers, in pleated paper, each with a tiny curl of something on the top. They were very beautifully done. You could smell the chocolate from where she sat.
+It was not large. It was made of some pale clean wood, like the inside of an almond, and it stood on the cloth in front of the Dark Lord with its lid off, and a card in a slot on the inside of the lid. They were lying in two layers, in pleated paper, each with a tiny curl of something on the top. They were very beautifully done. You could smell the chocolate from where she sat.
 
 “Bella?” he said. “Will you have one?”
 

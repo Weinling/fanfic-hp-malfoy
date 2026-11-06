@@ -114,7 +114,7 @@ That was the script. It wasn’t on any bit of paper. It was what they did. He k
 
 “Only the ones who’ve been at your dad’s.” He looked her up and down. He leaned back, so that the iron chair creaked; he was aware of Neville, across the table, going very slowly red. “Nice parasol. Did they let you have that in the cell, or is it just for the visits?”
 
-Somebody drew in a breath. It was a good one, and it would be round the shops by lunch. She turned her head at last and looked at him, and the corner of her mouth lifted by about a sixteenth of an inch, as he’d seen it do in the middle of a duel. It was every bit of it perfect. It was the same as it had been in January, when they’d rehearsed it, on their stomachs, with a sheet of paper, and he had laughed until he got the hiccups. Her eyes were on his. There wasn’t anybody in them.
+Somebody drew in a breath. It was a good one, and it would be round the shops by lunch. She turned her head at last and looked at him, and the corner of her mouth lifted by about a sixteenth of an inch, as he’d seen it do in the middle of a duel. It was every bit of it perfect, the same as it had been in January, when they’d rehearsed it, on their stomachs, with a sheet of paper, and he had laughed until he got the hiccups. Her eyes were on his. There wasn’t anybody in them.
 
 He didn’t know why he said it. It wasn’t in the script.
 

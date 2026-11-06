@@ -10,7 +10,7 @@ His forehead gave a small, polite, single throb, like someone clearing his throa
 
 He stopped breathing.
 
-It wasn’t in his ears. It was very quiet and very close. It seemed to come from a place about an inch inside the scar. He had heard it say *Come and see*, in a pit, with a dog lying on the stone. It was light and cultivated and rather tired, the voice of a man who has been reading late, and has put down his book for a moment, and has thought of someone.
+It wasn’t in his ears. It was very quiet and very close, and it seemed to come from a place about an inch inside the scar. He had heard it say *Come and see*, in a pit, with a dog lying on the stone. It was light and cultivated and rather tired, the voice of a man who has been reading late, and has put down his book for a moment, and has thought of someone.
 
 “I hope I don’t disturb you. I’ve been meaning to say how much I enjoyed that. *Please come.* One seldom gets to see anything really well made, nowadays.”
 
@@ -26,7 +26,7 @@ There was a pause. He seemed to be turning something over, by the stem.
 
 “You sent her back to me on the eighth of January, Mr Potter, with a bag of scraps. You sat on a rug and you wrote them out. You thought that was clever. She has sat at my table every holiday since, and written out my reports. I was short of a clerk, and you lent me one. I only wanted to say how very much obliged I am.”
 
-It stopped. It didn’t fade. It went away as a person does, who has looked in at a door, and has nodded. His forehead gave one more small throb, and was quiet. Seamus turned over and muttered something about West Ham.
+It went away as a person does, who has looked in at a door, and has nodded. His forehead gave one more small throb, and was quiet. Seamus turned over and muttered something about West Ham.
 
 He lay there. He was very cold. After a while he noticed he had bitten through the inside of his cheek.
 
@@ -42,7 +42,7 @@ It hit it hard. The plates jumped. There was a crack, and a spray of milk, and s
 
 He looked at it.
 
-It was lying in the toast rack, on its side. It was white. There was a very great deal of white, more than you would have thought. One wing had gone out across the butter dish, and it hung there, with the long feathers fanned, and the barred tips of them had got into the marmalade. He knew those feathers. He’d have known them in the dark. Her head had turned right round on her neck, and it was resting on her back, looking at the ceiling. Her eyes were open. They were very round and very yellow, with a film on them, and they looked mildly surprised.
+It was lying in the toast rack, on its side, and it was white. There was a very great deal of white, more than you would have thought. One wing had gone out across the butter dish, and it hung there, with the long feathers fanned, and the barred tips of them had got into the marmalade. He knew those feathers. He’d have known them in the dark. Her head had turned right round on her neck, and it was resting on her back, looking at the ceiling. Her eyes were open. They were very round and very yellow, with a film on them, and they looked mildly surprised.
 
 He didn’t do anything.
 
@@ -126,7 +126,7 @@ It lasted a second. It might have been less.
 
 The lid went back on.
 
-He felt it settle. He felt the long fingers relax, and turn over the page. Something brushed by, across his ankles, and went on. When it came, it was perfectly pleasant. It had a slight smile in it. It was the voice of someone who has been told the most amusing thing, and intends to have it framed.
+He felt it settle. He felt the long fingers relax, and turn over the page. Something brushed by, across his ankles, and went on. When it came, it was perfectly pleasant. It had a slight smile in it, the voice of someone who has been told the most amusing thing, and intends to have it framed.
 
 “Well, now,” it said. “You’ll want to see what that costs.”
 
@@ -178,13 +178,13 @@ Fifty.
 
 His right arm had come up.
 
-It came off the table, very smooth, with no weight in it at all. It seemed to know exactly where it was going, past the Slytherin table and away over the frost, for four hundred miles, to a long room with a fire. It had the wand in its hand, and he hadn’t known that. It was perfectly steady, and there was a word on his tongue, with a taste like a coin. *Sec*—
+It came off the table, very smooth, with no weight in it at all, and it seemed to know exactly where it was going, past the Slytherin table and away over the frost, for four hundred miles, to a long room with a fire. It had the wand in its hand, and he hadn’t known that. It was perfectly steady, and there was a word on his tongue, with a taste like a coin. *Sec*—
 
 Something took hold of his sleeve.
 
-It wasn’t hard. It was a big warm slightly earthy hand, with a thick blunt thumb, and a bit of bonemeal under the nail. It closed on the cloth just above his wrist. It didn’t pull. It didn’t do anything. It was just there.
+It wasn’t hard. It was a big warm slightly earthy hand, with a thick blunt thumb and a bit of bonemeal under the nail, and it closed on the cloth just above his wrist. It didn’t pull. It was just there.
 
-He couldn’t turn his head. He could see it from the tail of his eye: a round mild face, with a crooked jaw. It wasn’t looking at him. It was looking along the table at the same thing that he was. It had gone a dull bad colour. Neville had got a spoonful of something halfway to a plant; and he’d laid that down. He sat there, holding on to Harry Potter’s cuff, as you would hold on to a child at the edge of a road, and he didn’t say one word.
+He couldn’t turn his head. He could see it from the tail of his eye: a round mild face, with a crooked jaw. It wasn’t looking at him but along the table, at the same thing he was, and it had gone a dull bad colour. Neville had got a spoonful of something halfway to a plant; and he’d laid that down. He sat there, holding on to Harry Potter’s cuff, as you would hold on to a child at the edge of a road, and he didn’t say one word.
 
 Sixty.
 
