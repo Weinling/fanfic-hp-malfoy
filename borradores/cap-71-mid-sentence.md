@@ -86,7 +86,7 @@ Someone was running. There was a lot of echo. He went up the marble staircase, a
 
 She had never in her life come back with a note undelivered. She had done exactly what he’d told her. She’d have gone to the bothy. She’d have gone round it, and sat on the wall; she’d have waited, hours, she always waited. And he hadn’t been there. He had been there yesterday. He’d been there every day for twelve days, counting sheep. There was nowhere for him to go. Nobody knew. *Nobody knew.* There were three people in the whole world who knew about that hillside. One of them was Hermione, and one had put the roof on, and had not spoken to him since May. He had made sure of that. He had seen to it.
 
-He had looked at it dog, with its leg going the wrong way.
+He had looked at that dog, with its leg going the wrong way.
 
 It was a dream. It was a false one; he knew it was. He knew exactly how it was done. They’d sent it on purpose. He had given them the idea himself, on a rug, with a quill behind his ear.
 

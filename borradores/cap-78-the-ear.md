@@ -60,7 +60,7 @@ She stood in the door for a little. She found she had to put a hand on the frame
 
 “You’ll be wanting your gloves,” said her mother.
 
-She had come along from the other end, in the grey, and stopped where the light fell from the landing window. She stood with her hands together, looking at nothing. They had not been alone in the same room since the kitchen. It didn’t make very much difference. She had been told what it was, and she knew how far it carried. She’d looked at it arm once, on the morning of the first of August, when Lyra had got as far as her own bed; and she had taken the sponge from the elf, and done the rest herself. Her eyes rested for an instant on Lyra’s left sleeve.
+She had come along from the other end, in the grey, and stopped where the light fell from the landing window. She stood with her hands together, looking at nothing. They had not been alone in the same room since the kitchen. It didn’t make very much difference. She had been told what it was, and she knew how far it carried. She’d looked at that arm once, on the morning of the first of August, when Lyra had got as far as her own bed; and she had taken the sponge from the elf, and done the rest herself. Her eyes rested for an instant on Lyra’s left sleeve.
 
 “I had a message for you,” said Narcissa Malfoy, in her ordinary voice. “I had quite forgotten. It’s of no consequence. It was from a person that I met at the seaside. He asked me to say that the chicken was on his account. And the chocolate.”
 

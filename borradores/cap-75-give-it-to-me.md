@@ -190,7 +190,7 @@ He had raised his head. She had been expecting tears. He had always been a crier
 
 She had opened her mouth. There wasn’t anything in it.
 
-He had been there. He’d been sent to bed. *The boy has been sent to bed*, she had thought. She had looked at it empty chair. She thought of the service door behind the sideboard, and the way that a house could be listened to; she thought of a very small boy who had been finding his way round this one, in the dark, for years, and knew where all the panels were.
+He had been there. He’d been sent to bed. *The boy has been sent to bed*, she had thought. She had looked at that empty chair. She thought of the service door behind the sideboard, and the way that a house could be listened to; she thought of a very small boy who had been finding his way round this one, in the dark, for years, and knew where all the panels were.
 
 “You take everything,” said Draco.
 
