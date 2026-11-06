@@ -8,6 +8,101 @@ Edén · *Never Own a Malfoy, Potter* · 6 de noviembre de 2026.
 
 ## 1. Diagnóstico de lector
 
+### Actualización del encargo: cantidad, contacto y ambigüedad
+
+*6 de noviembre de 2026, después de la primera entrega y del intercambio de Edén con Claude. Esta actualización modifica el criterio de adopción del informe; no aplica cambios al manuscrito. La auditoría puntual usa la versión de esta rama en `76903a2e4e758d6a95bb51816e99d6e9e254700f`. Las referencias de la primera entrega siguen remitiendo a su base `b4ec2da`, indicada arriba. No se fusiona aquí la revisión de los archivos 73–86.*
+
+**La necesidad principal queda precisada:** quizá convenga quitar besos repetitivos, y hace falta representar mejor algunos de los que permanezcan. Aumentar la duración mediante conversación, una horquilla y un chiste no basta si el contacto mismo sigue siendo una elipsis. Quiero que el lector pueda seguir lo que ocurre mientras se besan o se abrazan, y percibir cómo eso altera a los dos. Tampoco se pretende convertir cada encuentro en una nueva primera vez.
+
+Esto corrige una limitación de mi propio laboratorio: M1 y M2 dan más tiempo a la interacción y al después, pero todavía pueden desarrollar mejor el beso en sí. No son una versión definitiva del nuevo objetivo. La selección posterior deberá valorar también si preservan el hambre de compañía de Harry y la participación de Lyra, sin volver sistemáticamente a Harry más considerado. Las correcciones de continuidad señaladas por Claude —posición de ambos en M4, nombres en M3 y años de Arithmancy— deben resolverse antes de adoptar esas muestras; no se han corregido mediante una reescritura silenciosa del manuscrito.
+
+En concreto: al entrar en M4, Harry estaba en la butaca y Lyra en la alfombra; cualquier cambio de sitio debe ocurrir en la escena. En M3, las atribuciones narrativas deben seguir el «Harry» de ese punto del recorrido, y Lyra lleva tres cursos de Arithmancy, no cuatro. Son correcciones locales. No justifican volver a redactar todo el encuentro ni reducir su intensidad afectiva.
+
+#### Qué había ya antes del 39
+
+El recuento es de **encuentros representados**, no del número de veces que aparece la palabra *kiss*, ni de cada contacto de labios dentro de una misma secuencia. Se buscaron las menciones en los archivos 1–39 y se contrastaron los pasajes, incluidos los besos descritos sin ese verbo. No se ha releído por este motivo todo el texto publicado. Se comprobaron también las menciones de los extras; sus recuerdos, escenas familiares y gestos sin beso no se suman como encuentros nuevos de la pareja.
+
+| Trabajo y lector | Pasaje del manuscrito | Qué se cuenta | Qué ya siente el lector |
+|---|---|---|---|
+| 3 | `manuscrito/cap-03-uninvited.md:295`–307 | **Boca 1.** El tren. | Acercamiento desde el suelo, roce breve, desconcierto, hormigueo posterior y orejas rojas. La sorpresa y la iniciativa unilateral forman parte de la escena; no se recodifican como encuentro acordado. |
+| 19 | `borradores/cap-19-shut-up-malfoy.md:249`–269 | **Boca 2.** Interrumpir el insulto. | Los puños de Lyra en el cuello, las gafas contra el pómulo, el tiempo que sigue pasando y la dificultad de ambos para hablar después. El control de la palabra y el afecto permanecen juntos. |
+| 21 | `borradores/cap-21-coincidence.md:279` | **Repetición del mismo beso del 19**, visto desde el bucle. No incrementa el total. | Vergüenza de verse desde fuera y un significado nuevo del mismo acontecimiento. |
+| 24 | `borradores/cap-24-replay.md:221`–243 | **Un beso en la frente.** El acercamiento anterior a la boca queda interrumpido en 225–229. | El brazo que ella deja quedarse, levantar la cara, cerrar y abrir los ojos, detenerse a una respiración de distancia. La anticipación ya existe antes de un beso que no llega a ocurrir. |
+| 27 | `borradores/cap-27-ferret.md:319`–345 | **Un beso en el hocico durante la transformación.** No se suma a los besos labiales humanos. | Petición, negativa, reconsideración de Lyra, iniciativa con el hocico y respuesta física ligada a la magia. Mantener la distinción entre el gesto romántico y la transformación. |
+| 29 | `borradores/cap-29-every-ounce.md:211`–229 | **Boca 3.** El cobertizo. | Petición y respuesta; narices que chocan, cambio de dirección, risa que ella siente, manos en hombros y mangas, recolocar la capa sin interrumpir el beso, perder el hilo de lo que estaban diciendo. Es el modelo más útil para el nuevo criterio. |
+| 30 | `borradores/cap-30-which-one.md:197`–211 | **Boca 4.** A través de la capa. | La tela fría entre las bocas, la asimetría de poder verse y el segundo posterior en que Harry no sabe qué hacer con la cara ni dónde buscarla. Un beso muy breve puede sentirse. |
+| 36 | `borradores/cap-36-below-stairs.md:91`–103 | **Boca 5.** La oficina de correos. | Posturas y lluvia concretas; el contacto es muy corto y el foco pasa a la reacción pública. No necesita fingir que aún no han aprendido a besarse. |
+| 38 | `borradores/cap-38-the-cup.md:43`–57 | **Boca 6.** Antes del laberinto. | Fuerza del acercamiento, gafas contra el pómulo, un sonido sorprendido, abrazo apretado que continúa y el corazón de Harry. Lyra cambia la distancia apoyando la mano en el pecho. |
+| 39 | `borradores/cap-39-never-lied.md:377`–395 | **Boca 7**, si se incluye el capítulo del corte. | Temblor, manos, llanto, abrazo posterior y latido. El texto dedica más espacio a explicar la deuda y el egoísmo que al contacto del beso. Se registra para continuidad; el capítulo sigue cerrado para cambios. |
+
+**Resultado:** seis encuentros de beso en la boca antes del 39, siete contando el 39. Antes de éste hay además dos encuentros de otra clase —frente y hocico—. No deben sumarse los besos del boggart del 4, los familiares, el gesto hacia Buckbeak ni los besos de Fleur y Lyra en el 35 como si fueran nuevos besos entre Harry y Lyra. Tampoco contamos un casi beso como consumado.
+
+Por tanto, después del 39 no estamos descubriendo por primera vez el roce, el latido ajeno, la torpeza de las gafas, la iniciativa de ella o el deseo de quedarse. La maduración deberá encontrarse en **qué viven juntos esta vez**, y en la manera reconocible de besarse que ya pueden haber adquirido. Dos chicos familiarizados con un gesto pueden volver a ponerse nerviosos por lo que ahora significa; no necesitan chocar las narices en cada ocasión para resultar jóvenes.
+
+También hay contacto físico eficaz sin beso antes del corte: «She could feel his heart going under her cheek. It was going as fast as hers» (`borradores/cap-22-a-professional-relationship.md:281`) sucede bajo amenaza del hombre lobo. Sirve de precedente corporal; no permite interpretar todo pulso acelerado posterior como deseo romántico. Importan la situación, la posición del cuerpo y lo que cada uno intenta hacer.
+
+#### Dónde revisar la cantidad
+
+La sospecha de saturación tiene más apoyo en la concentración posterior que en tratar los primeros seis besos como una cifra enorme. Entre los capítulos **62–76 del lector**, once de los quince capítulos numerados contienen algún beso de la pareja, incluidos los no labiales. Los dos intercalados, «Three» y «Bothy», no añaden besos de Harry y Lyra; el extra «Bed Rest» tampoco los necesita. Esta medida describe distribución, no dicta cuántos debería haber.
+
+| Lector / trabajo | Referencia | Decisión para la nueva pasada |
+|---|---|---|
+| 62 / 58 | `borradores/cap-58-scraps.md:151` | Los dos besos en la cabeza prueban una respuesta pequeña, «Mm». **Conservar**: hay un descubrimiento dentro del contacto. |
+| 63 / 59 | `borradores/cap-59-in-public.md:119`, `:223` | El beso interrumpido por la risa ya tiene cuerpo. La culminación de San Valentín se corta al cogerle las orejas. **Conservar el primero; comprobar si el segundo necesita un contacto concreto**, no otra escena grande. |
+| 64 / 60 | `borradores/cap-60-furniture.md:207` | «Quite kindly» entrega la conclusión. **Elegir** entre representar una acción mínima durante el beso o conservar el cuidado mediante otra acción cotidiana. No añadir más consuelo encima. |
+| 66 / 61 | `borradores/cap-61-a-name.md:97` | Beso en la parte chamuscada dentro del resumen de Snap. **Primer candidato a retirar** si se reduce cantidad: la risa que llega «en el lugar correcto» y dormirse juntos ya muestran la superficie agradable de la ocultación. Se perdería un acento juguetón, no una revelación única. |
+| 67 / 62 | `borradores/cap-62-the-list.md:19`, `:175` | El beso al aprender el hechizo es una recompensa resumida; el de la denuncia mezcla euforia y mentira. **Candidato a retirar el primero; conservar la complejidad del segundo.** No dar a ambos una expansión equivalente. |
+| 69 / 64 | `borradores/cap-64-the-date.md:119` | Beso rutinario en la comisura al entrar. **Candidato a sustituir por otro gesto de familiaridad**, si se quiere reservar más peso para mirar, escuchar y sostener durante el derrumbe. Coste: perder una señal rápida de costumbre adquirida. |
+| 70 / 65 | `borradores/cap-65-the-knight.md:109`, `:127` | La cascada de besos tiene alegría y posiciones; la despedida en las escaleras sólo se cuenta. **Conservar la primera; resumir sin reiterar el segundo beso si pesa el patrón.** Preservar la euforia de Lyra y la fractura de Harry. |
+| 72 / 66 | `borradores/cap-66-continuous.md:111` | Beso acoplado al «Mine» rutinario. **Conservar provisionalmente por su relación con el cambio de régimen posterior**; no intensificarlo por defecto ni resolver la posesividad mediante una glosa. |
+| 74 / 68 | `borradores/cap-68-ask-me.md:161` | Muchos besos dentro de un único estallido, con errores y reacciones. **Conservar la secuencia como secuencia**; contar cada ceja y nudillo como nuevo encuentro falsearía la densidad. |
+| 75 / 69 | `borradores/cap-69-you-were-missed.md:175` | Ella mantiene los ojos abiertos mientras él los cierra. **Conservar la asimetría**; la distancia interior no es un defecto que deba curar una descripción más cálida. |
+| 76 / 70 | `borradores/cap-70-cousins.md:97` | Beso pequeño, migas y necesidad de inclinarse sobre un plato. **Conservar**: el logro y la escucha hacen el trabajo principal. No engrandecer también este cierre después de expandir la conversación. |
+
+No propongo eliminar de una vez todos los candidatos. Probaría primero **Snap y el beso de gratitud por el hechizo** —trabajo 61 y 62— y leería el arco sin ellos. Si todavía cada escena agradable parece obligada a terminar con un beso, probaría el de entrada del trabajo 64. Son operaciones distintas de reducir o desarrollar el beso de «In Fives».
+
+El tramo anterior, trabajo 45–49, contiene además una frecuencia expresamente narrada. La gráfica de `borradores/cap-49-in-fives.md:159`–173 llega a diecisiete entradas y Harry distingue quince de las otras dos. No son diecisiete encuentros labiales mostrados completos, y no podemos sumar después cada recuerdo o broma como un acontecimiento adicional. **Reducir aquella frecuencia exige revisar el sistema de puntos**, no sólo quitar una mención al beso. Su función es representar un hábito clandestino que ya se ha vuelto legible para Hermione. La prioridad allí es escoger qué encuentros se dramatizan; no inventar quince clímax.
+
+#### El intermediario que debe tener una escena desarrollada
+
+En las escenas elegidas, quiero poder seguir **entrada, contacto, cambio dentro del contacto y salida**. Es un criterio de lectura, no una plantilla que deba verse en cada párrafo.
+
+- **Situación física:** dónde están los pies y las manos, quién está sentado o de pie, qué distancia cruzan, qué hace una diferencia de altura, si hay una tela entre ellos. Lo necesario para que la acción se entienda sin dibujar cada movimiento.
+- **Contacto identificable:** boca y labios en un beso romántico; mejilla, gafas o cuello de la ropa; cómo acomodan un abrazo, cuánto aprietan y qué cambia cuando el otro se mueve. Esas palabras no quedan excluidas por la edad. El encargo conserva su marco de romance no sexual.
+- **Respuesta durante el gesto:** un cambio de presión, una mano que busca sitio, una pausa para decir algo, una risa que el otro siente y a la que responde. «Se besaron largamente» o «fue abrumador» por sí solos sólo entregan el resultado.
+- **Estado corporal con lugar y función:** el propio pulso o el corazón ajeno cuando el abrazo permite sentirlo, manos torpes, un rostro caliente, quedarse sin la frase preparada, recuperar aire. No todos los besos deben reunirlos todos. Tampoco atribuir acceso a un latido que la posición no permite percibir.
+- **Interpretación de personaje:** pueden darse cuenta de que el otro está tan nervioso, bromear mal, intentar disimular o decidir no comentarlo. Una frase mental o dicha en voz alta puede mantener el orgullo y aumentar la exposición, en vez de traducirla desde un narrador que lo sabe todo.
+- **Un después que todavía pertenece al momento:** no recuperar inmediatamente la ocurrencia perfecta ni terminar siempre en una cuenta, una metáfora y un corte. La respuesta puede hacer que el otro se quede, vuelva a intentarlo o consiga por fin separarse.
+
+**No se exige torpeza constante.** Una pareja puede saber cómo acercarse y aun así perder compostura al oír una petición nueva. No se exige alargar cada beso: el del 30 demuestra que un segundo tiene una textura física suficiente. Y una escena desarrollada puede ser un abrazo, una espera, compartir una tarea, dejarse mirar o escuchar un logro; el beso no tiene que validar todas esas experiencias.
+
+La prueba de calidad será ésta: si se quitan las afirmaciones «fue más largo», «estaba nervioso» o «significaba mucho», ¿queda una interacción que permita sentirlo? Si no, añadir otra explicación o una nueva imagen de una casa interior no resuelve la carencia. Al mismo tiempo, los objetos, las voces y las metáforas ya establecidos pueden conservarse cuando no ocupan el lugar de la experiencia que falta.
+
+#### Posesividad: sostener varias lecturas sin resolverlas por el lector
+
+Éste es un **ajuste expreso del criterio editorial**, no una petición de volver inocente a Harry. El afecto puede contener necesidad, orgullo, celos, alivio de ser elegido, deseo de exclusividad y voluntad de dominio. Los personajes pueden disfrutar de un gesto y no comprender todo lo que les atrae o les inquieta en él. La escena no tiene que poner una etiqueta definitiva a esa mezcla.
+
+Por ello, **aflojar no es un requisito de cada abrazo** ni debe funcionar como certificado de que Harry es bueno. **Apretar tampoco es una prueba automática de profundidad o de peligro.** En «In Fives», dos puños en la ropa, un latido demasiado rápido y que ninguno quiera terminar pueden sostener tensión sin que el narrador decida si todo es ternura o apropiación. La alternativa de que los puños se cierren al moverse Lyra debe probarse por el efecto de la escena: qué intenta hacer ella, qué entiende él y qué ocurre después. «A ella le encanta» dicho desde fuera no sustituye su experiencia, igual que «él la deja libre» no la sustituye desde el otro extremo.
+
+Se preserva la ambigüedad **en la interpretación y en el deseo**, con hechos físicos legibles. Cuando Lyra se mueve dentro de un abrazo para acomodarse, no es lo mismo que intentar salir. Cuando un personaje impide de hecho una marcha o inmoviliza a otro, ese hecho no se vuelve incierto para obtener tensión romántica. Puede seguir siendo complejo lo que sienten y por qué se quedan después. Mostrar el movimiento y la respuesta permite esa complejidad sin narrar una moraleja en cada contacto.
+
+El mismo criterio alcanza al elenco. Lyra reclama la mano que ha curado (`borradores/cap-49-in-fives.md:121`), usa a Nott para provocar una reacción y pasa por alto lo que Vanessa quiere (`borradores/cap-49-in-fives.md:71`–77). No hay que limpiar esos gestos para que sólo Harry tenga el problema, ni diagnosticar como posesivo cualquier cuidado firme. La pertenencia familiar, las cuentas y las jerarquías pueden hacer que cuidar y disponer de alguien se confundan en quien los vive. Cada caso necesita su posición, su deseo propio y su coste; los secundarios no son instrumentos para corregir a la pareja.
+
+No se añadirá por sistema una broma para volver adorable un gesto inquietante, ni una glosa acusatoria para obligar a leer como miedo un instante que aún admite otras lecturas. Tampoco se usará el futuro «Stay there» para decidir de antemano que todos los abrazos anteriores ya eran su equivalente. La progresión gana si una forma que alguna vez quisieron cambia de significado, y el lector puede recordar por qué la quiso.
+
+#### Cómo cambia la siguiente tarea de escritura
+
+Las doce oportunidades y los seis ensayos de la primera entrega permanecen debajo como materiales comparables, **no como cambios ya aprobados**. El nuevo orden de trabajo es:
+
+1. Revisar la función y la concentración de los besos; ensayar las dos retiradas indicadas sin añadir automáticamente otro contacto en su lugar.
+2. En los encuentros que se desarrollen, representar el intermediario físico y la respuesta de ambos. Las muestras anteriores requieren esta comprobación; su mayor longitud por sí sola no garantiza que lo hayan conseguido.
+3. Mantener voces, orgullo, iniciativa y la mezcla posesiva. No hacer del mayor cuidado de Harry una condición para que el lector disfrute la escena.
+4. Comparar los enlaces y las consecuencias. No tocar 1–39 para hacer que un beso posterior parezca novedoso.
+
+Cuando Claude indique qué pasajes ha dejado fuera, Edén podrá trasladarlos directamente para escritura. No hace falta crear otro encargo. Se trabajará sobre los límites y la versión concretos de esos pasajes; no se sustituirá toda una escena por prosa nueva cuando sólo falta desarrollar un encuentro. Las limitaciones particulares de un colaborador se comunicarán como tales, sin convertirlas automáticamente en prohibiciones estéticas de la obra. Esta actualización todavía no ejecuta esas futuras reescrituras.
+
+### Diagnóstico de la primera entrega
+
 La hipótesis del encargo se confirma en algunos empalmes; no describe por igual el conjunto. El romance ya produce ilusión, risa y ganas de quedarse. Su recurso más convincente no es que los personajes pierdan toda su voz, sino que utilicen esa voz para hacer algo que les da vergüenza: Lyra tramita un sentimiento como si fuera una reclamación; Harry encuentra una respuesta pequeña cuando se le ha acabado la respuesta brillante. «There’s a kitten looking» (`borradores/cap-48-where-the-sea-is.md:77`) y el registro de los ciento treinta y tres días (`borradores/cap-59-in-public.md:219`) hacen vivir el afecto dentro de una interacción. No necesitan una capa adicional de intensidad.
 
 **Observación:** hay dos velocidades. En las escenas de mayor peso argumental, la prosa permite que algo ocurra y sea contestado: las gafas, el pañuelo y «Blow» en el 69 del lector; el derrumbe y el «Tua» en el 74. En algunos besos intermedios, en cambio, salta del acercamiento a su resultado: «she only knew she had hold of a handful of tartan dressing gown» (`borradores/cap-45-rounds.md:227`); «It went on for rather longer than the others had» (`borradores/cap-49-in-fives.md:137`). Entiendo que ha sido importante porque me lo cuenta la duración comparada; todavía me falta una pequeña decisión que sólo pueda ocurrir mientras están ahí.
