@@ -4,7 +4,7 @@
 
 ## Parte común
 
-He took one step. She took the other two, because he was being slow about it, and she got him by the front of the jumper and kissed him as if she had been meaning to all day, which she had; and his arms went round her, and for once there was nobody standing far enough away to look superior.
+He took one step. She took the other two, because he was being slow about it, and she got him by the front of the jumper and pulled. He had grown again, which was inconsiderate. She had to go up on her toes, and she arrived crooked, with his nose cold against her cheek and her own hands not at all steady, and she kissed him anyway, as if she had been meaning to all day, which she had. His arms went round her. One of them got it wrong and had to go back for another try; and for once there was nobody standing far enough away to look superior.
 
 It went on for rather longer than the others had. It would have gone on longer still, but his glasses had got hooked in her hair. She discovered this by trying to turn her head. She had to stop and see to it, with one hand still in the jumper, feeling for the pin; and he stood perfectly still under her fingers, with his glasses hanging off one ear and his eyes on her face, as if the pin were the last thing holding up the castle.
 
@@ -36,7 +36,7 @@ She took a fresh handful of the jumper, further round, where there was no seam.
 
 “I haven’t gone anywhere,” she said, into it. “You’re holding me like a tea tray. Do it properly.”
 
-He let out a breath that was mostly a laugh, and did it properly.
+He let out a breath that was mostly a laugh, and did it properly. She felt it move the hair above her forehead.
 
 Somebody in a portrait further down the corridor turned over in his sleep. She had the rest of the sixth floor to walk and a book to write up, and she had plenty of time to think of both of them, and of several other things, and they could all wait.
 
@@ -62,6 +62,6 @@ She had seen him write *Please*, once, smaller than the other words, and pressed
 
 “I am on my rounds,” she said. “This is the sixth floor. I’m inspecting it. I expect to be here for some time.”
 
-He laughed, or something did; she felt it come up through the wool. The fists stayed where they were. Somebody in a portrait further down the corridor turned over in his sleep. She could feel that he was not going to be the one who let go, and she considered it the handsomest thing that anybody had ever failed to say to her.
+He laughed, or something did; she felt it come up through the wool, and it moved the hair above her forehead. The fists stayed where they were. Somebody in a portrait further down the corridor turned over in his sleep. She could feel that he was not going to be the one who let go, and she considered it the handsomest thing that anybody had ever failed to say to her.
 
 It was she who let go. It took her some time.
