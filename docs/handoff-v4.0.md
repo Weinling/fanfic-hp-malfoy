@@ -74,6 +74,8 @@ La regla de oro: **subir la temperatura sin bajar la calidad**. Más emoción qu
 
 **Crítica de la tanda 73-84 (6 de noviembre):** el tic que más ha crecido es la frase corta: «It» pasa de 8,5 a 19,4 por mil entre el 71 y el 86, y ya no se distingue el clímax del pasillo. Vigilar también «that» como pronombre («She smoothed that down»), el brazo «from the shoulder», «there wasn’t anyone there», los objetos que vuelven con su historia entera y el final con gesto mudo. Para la tanda siguiente: un capítulo de frases largas, otro sin un solo eco, y algo bueno que no cueste nada.
 
+**Autor, 6 de noviembre.** **La posesividad se narra ambigua:** el texto no la explica, no la justifica ni aclara si es inocente o no; una escena que se detiene a defenderla roza lo ridículo. **Los besos, menos:** un beso es un recurso especial y se gasta. Se usa menos, sobre todo del 58 al 71, y el que quede se narra con tierra física (quién se mueve, las manos, la altura, la torpeza), no por su resultado.
+
 Antes de entregar: una pasada buscando estos tics y otra de **lectura en frío** (¿dónde se cansaría un lector de Wattpad?, ¿qué frase citaría?, ¿sabe en cada momento clave qué siente Lyra?).
 
 ## 5. Personajes: su función
