@@ -8,6 +8,54 @@ Edén · *Never Own a Malfoy, Potter* · 6 de noviembre de 2026.
 
 ## 1. Diagnóstico de lector
 
+### Entrega narrativa vigente · 7 de noviembre de 2026
+
+La actualización anterior quedó demasiado en indicaciones: clasificaba encuentros y pedía más cuerpo, pero entregaba muy poca prosa nueva del contacto. Eso no cumplía la intención de Edén. **«Conservar» debe distinguir conservar la función de conservar la redacción. Un beso breve también puede tener boca, contacto y respuesta.** No se fija un techo de cuatro encuentros desarrollados.
+
+La corrección se entrega escrita, sobre la base actual `8bd9139a81f3bf0d87cac67fd9d490a4273346ab`, en dos archivos separados:
+
+- [Desarrollo narrativo de trabajo 40–72](laboratorio-besos-40-72-desarrollo.md): B01–B22.
+- [Desarrollo narrativo de trabajo 73–86](laboratorio-besos-73-86-desarrollo.md): B23–B24.
+
+Son **veinticuatro versiones completas de encuentros**. Diecinueve cubren la selección que Claude enumera; otras cinco se conservan como **reserva**, porque no corresponde convertir la propuesta de poda en una orden de Edén. Esta cifra no añade veinticuatro acontecimientos: cada versión reemplaza el encuentro ya existente. B02, B05, B07 y B10 desarrollan elipsis; B19 concreta la localización del primer contacto que la base no especificaba antes de los besos en la cara. Se señala esa diferencia en cada muestra. El beso en la frente posterior a la inmovilización tiene una función de control y no se vende como recompensa afectiva.
+
+| Versión | Lector / trabajo | Encuentro | Tratamiento escrito |
+|---|---|---|---|
+| B01 | 46 / 45 | *Rounds* | Amplio: acercamiento, contacto, ajuste de altura, pausa y continuación, separación. |
+| B02 | 47 / 46 | Cumplido en *Trophies* | Breve: ella se arrodilla, contacto de las bocas y respuesta de su mano. |
+| B03 | 47 / 46 | Mandíbula y falso sueño | Breve, no labial: contacto, espera y recepción antes del «Forty-five». |
+| B04 | 49 / 48 | Anillo y mentira | Breve: la palabra detenida por el beso y una respuesta que no resuelve la mentira. |
+| B05 | 50 / 49 | «Them» | Medio: un beso de la rutina clandestina convertido en interacción concreta. |
+| B06 | 50 / 49 | «Mine» | Amplio: beso, horquilla, vuelta al beso, corazón perceptible y puños cerrados sin glosa que los defienda. |
+| B07 | 61 / 57 | *Against the Wind* | Amplio: frío en el contacto, manos torpes, continuación y separación; conserva los términos previos. |
+| B08 | 62 / 58 | Cabeza en el sillón | Breve, no labial: dos besos dentro del mismo instante y una respuesta de posición. |
+| B09 | 63 / 59 | Beso con risa | Medio: la risa interrumpe un contacto que el lector ya está viviendo. |
+| B10 | 63 / 59 | San Valentín | Amplio: contacto después de la declaración, el papel, la vergüenza y la contestación de ambos. |
+| B11 | 64 / 60 | Cuidado después de Snape | **Reserva:** versión física si finalmente se conserva. |
+| B12 | 66 / 61 | Parte chamuscada en Snap | **Reserva:** se localiza el gesto sin limpiar la actuación de Lyra. |
+| B13 | 67 / 62 | Gratitud por el hechizo | **Reserva:** la enseñanza termina en un encuentro físico; no se revela el robo. |
+| B14 | 67 / 62 | Euforia por la denuncia | Medio: boca y abrazo, con la página aún en el bolsillo. |
+| B15 | 69 / 64 | Beso al entrar | **Reserva:** familiaridad adquirida, no otra primera vez. |
+| B16 | 70 / 65 | Revelación del ajedrez | Medio: se siente lo que ella hace sin inventar la felicidad de Harry. |
+| B17 | 70 / 65 | Despedida en las escaleras | **Reserva:** muestra qué se perdería o repetiría si se conserva. |
+| B18 | 72 / 66 | «Mine» habitual | Breve: ambos saben cómo acercarse; no se fuerza torpeza inaugural. |
+| B19 | 74 / 68 | *Ask Me* | Medio dentro del clímax: respuesta labial, llanto y risa, antes de la cascada de besos. |
+| B20 | 75 / 69 | La promesa sobre la mentira | Breve: el contacto es concreto y ella conserva los ojos abiertos. |
+| B21 | 76 / 70 | Pastel y Arithmancy | Breve: boca, migas, plato y respuesta; la conversación sigue siendo el centro. |
+| B22 | 77 / 71 | Frente después de la petrificación | No labial: el cuerpo inmóvil no puede contestar. Conserva su función de firma. |
+| B23 | 82 / 76 | Colina del cumpleaños | Medio: el beso tiene cuerpo y termina sin la respuesta «It’s August». |
+| B24 | 91 / 85 | «Bacon» | Breve: contacto y respuesta en silencio, sin convertirlo en una estancia. |
+
+**La selección no se reduce a los cuatro amplios.** Las otras versiones también están escritas. La diferencia de extensión permite conservar ritmo; no delega otra vez el contacto a una frase del tipo «se besaron» para que otro escritor tenga que inventarlo entero.
+
+Los bloques narrativos suman **5.663 palabras**: **4.861** en las diecinueve versiones de la selección y **802** en las cinco reservas. No se cuentan aquí encabezados, comentarios ni las instrucciones de aplicación. El presupuesto de menos de mil palabras de la primera entrega describía aquella selección de tres cambios; no es un límite de esta nueva pasada. El crecimiento se revisará por capítulo y por función, después de escoger qué encuentros permanecen. B24, por ejemplo, es más breve que su tramo de base y aun así escribe el contacto y la contestación.
+
+Hay además una corrección del inventario compartido en la conversación: el manuscrito **ya contiene una mirada a la boca como anticipo** en `borradores/cap-76-where-the-house-was.md:147`: «She looked at his mouth, and the split in his lip». No debe confundirse con la mirada a una miga de «Bacon», ni afirmarse que todas las anticipaciones de esa clase proceden de las muestras de Codex.
+
+Las muestras M1 y M2 del laboratorio inicial quedan como versiones anteriores para comparar; B01 y B06 son las versiones de trabajo nuevas del beso. La conversación de Arithmancy de M3 y los cinco minutos de M4 son otros cambios locales: pueden evaluarse sin encargar que se vuelva a redactar de cero todo el encuentro. Los nuevos reemplazos indican sus límites para que tampoco se duplique el beso si se combina una conversación anterior con su nuevo final físico.
+
+La lectura completa ya registrada sigue siendo la base de continuidad. El diff de esta actualización no contiene cambios de manuscrito respecto a lo leído; se han releído las entradas, los contactos y las salidas de las muestras. El handoff y la comparativa de los puños se han consultado, y los estados anteriores de la relación no se han vuelto a convertir en escenas inaugurales. Los recuentos y costes concretos están al final de los dos laboratorios nuevos. Su prosa no está aplicada a los capítulos.
+
 ### Actualización del encargo: cantidad, contacto y ambigüedad
 
 *6 de noviembre de 2026, después de la primera entrega y del intercambio de Edén con Claude. Esta actualización modifica el criterio de adopción del informe; no aplica cambios al manuscrito. La auditoría puntual usa la versión de esta rama en `76903a2e4e758d6a95bb51816e99d6e9e254700f`. Las referencias de la primera entrega siguen remitiendo a su base `b4ec2da`, indicada arriba. No se fusiona aquí la revisión de los archivos 73–86.*
@@ -130,11 +178,11 @@ No son equivalentes la excitación de ser elegido, la satisfacción posesiva y e
 | Extra Y1.6 | `borradores/extra-year-one-6-the-black-pieces.md:67` | La mala jugada encarna la compañía deseada; Harry se avergüenza de un secreto que aún no se paga. | Preservar el error del Barón y la risa. No revelar ni adelantar gratitud consciente. **C**. |
 | 44 | `borradores/cap-44-prefects.md:141` | «A bit» expone una mezquindad real. La corbata ya no puede ser un gesto sin consecuencias. | Conservar 159–163, incluida la retirada de la mano de Harry. Si se poda, hacerlo en explicación, no en esa respuesta. **R**. |
 | 45 | `borradores/cap-44b-trials.md:179` | La alegría por Ron devuelve a Harry un presente que no controla. | Dejar completa la celebración y a Neville. Es un contraejemplo a la compostura excesiva. **C**. |
-| 46 | `borradores/cap-45-rounds.md:223` | El primer beso de la nueva secuencia se cuenta principalmente desde su después. | Muestra 1: representar acercamiento, permiso práctico y separación fallida; conservar la mano oculta y septiembre. **A**. |
-| 47 | `borradores/cap-46-trophies.md:99` | El cumplido torpe importa más que la competición; luego dormir juntos ofrece calor sin etiqueta. | Pequeña respuesta al cumplido, oportunidad 8. Preservar íntegro el mecanismo del falso sueño. **B/C**. |
+| 46 | `borradores/cap-45-rounds.md:223` | El primer beso de la nueva secuencia se cuenta principalmente desde su después. | **B01** desarrolla también el contacto del beso. Conservar la mano oculta, la altura, la armadura y septiembre. **A**. |
+| 47 | `borradores/cap-46-trophies.md:99` | El cumplido torpe importa más que la competición; luego dormir juntos ofrece calor sin etiqueta. | **B02** concreta el beso tras el cumplido y **B03** el de la mandíbula. Conservar el fraude del sueño. **B**. |
 | 48 | `borradores/cap-47-lines.md:89` | Declaración y presión quedan inseparables en la sangre. Lyra no sabe cómo recibirlas. | No añadir recompensa física. Mantener la pregunta moral de 139 y el frasco final. **R**. |
-| 49 | `borradores/cap-48-where-the-sea-is.md:61` | La declaración oral da vergüenza; el anillo es una posibilidad de auxilio, no una reconciliación. | Microprueba de la respuesta durante el vendaje y del final «Sixty». Oportunidades 6–7. **B**. |
-| 50 | `borradores/cap-49-in-fives.md:121` | «Mine» desarma el coqueteo; el abrazo queda contado desde fuera. | Muestra 2: que quedarse y aflojar sean acciones diferentes. No sumar un beso al cómputo. **A**. |
+| 49 | `borradores/cap-48-where-the-sea-is.md:61` | La declaración oral da vergüenza; el anillo es una posibilidad de auxilio, no una reconciliación. | **B04** desarrolla el contacto después del anillo; no resuelve la mentira ni amplía la declaración oral. **B**. |
+| 50 | `borradores/cap-49-in-fives.md:121` | «Mine» desarma el coqueteo; el abrazo queda contado desde fuera. | **B05** da cuerpo a «Them» y **B06** a «Mine». Mantener las entradas y cifras de la gráfica. **A/B**. |
 | 51 | `borradores/cap-50-pretext.md:41` | La pareja no puede ocupar el lugar de lo que Lyra deja hacer a Ron. | Conservar la canción, a Draco cantándola y el coste para Snape. **R**. |
 | 52 | `borradores/cap-50b-lanterns.md:73` | Reparación de grupo: Ginny sabe enseñar, Ron se ríe y Harry aprende a estar. | No robarle el capítulo a Ron con una escena de pareja. **C**. |
 | 53 | `borradores/cap-50c-nobody.md:143` | El juego de las manos y los puntos se rompe de verdad. | Mantener la parálisis, la retirada y el cuaderno sin entrada. Ningún alivio romántico al final. **R**. |
@@ -146,24 +194,24 @@ No son equivalentes la excitación de ser elegido, la satisfacción posesiva y e
 | 58 | `borradores/cap-54-the-east-cottage.md:23` | Gratitud de Narcissa; el papel sí llega a quien le pertenece. El peligro familiar vuelve a cerrar la escena. | Conservar esa propiedad del regalo. No insertar mensajes amorosos nuevos en la nota de Regulus. **C/R**. |
 | 59 | `borradores/cap-55-the-long-book.md:151` | Jugar con Draco da vida a lo que está en peligro, sin resolverlo. | No sustituir al hermano por recuerdos de Harry. Mantener la mano que ofrece el abuelo y su coste. **C/R**. |
 | 60 | `borradores/cap-56-he-will-look.md:155` | Coacción, daño y pérdida de un recuerdo utilizable. | No adelantar el rescate ni intercalar alivio de pareja en la cena o ante la puerta de Draco. **R**. |
-| 61 | `borradores/cap-57-against-the-wind.md:137` | Contacto decidido por Lyra, disculpa sin cobro y términos negociados. | Preservar la espera hasta que la mano deja de temblar. El beso ya tiene varias fases en 211. **C/R**. |
-| 62 | `borradores/cap-58-scraps.md:147` | Refugio compartido; Harry deja de arreglar lo que Lyra cuenta. | Una respuesta concreta en el abrazo de 227, oportunidad 9. No extender todo el sillón. **B**. |
-| 63 | `borradores/cap-59-in-public.md:119` | Estudiar, reír, decirlo sin querer; el romance ya desordena la escena. | Preservar San Valentín. Añadir sólo la escena nueva de pedir cinco minutos tras el estudio, muestra 4. **A/C**. |
-| 64 | `borradores/cap-60-furniture.md:193` | Harry busca compañía mientras oculta lo que sabe; la amabilidad no resuelve la mentira. | Probar una petición breve antes de «Go to bed», oportunidad 10. No abrir la revelación de Snape. **B**. |
+| 61 | `borradores/cap-57-against-the-wind.md:137` | Contacto decidido por Lyra, disculpa sin cobro y términos negociados. | **B07** desarrolla el beso y su separación. Conservar disculpa, muñeca y términos previos. **A**. |
+| 62 | `borradores/cap-58-scraps.md:147` | Refugio compartido; Harry deja de arreglar lo que Lyra cuenta. | **B08** concreta los dos besos en la cabeza. El abrazo por Draco conserva su silencio. **B**. |
+| 63 | `borradores/cap-59-in-public.md:119` | Estudiar, reír, decirlo sin querer; el romance ya desordena la escena. | **B09** desarrolla la risa dentro del beso y **B10** el contacto de San Valentín. Los cinco minutos son otra intervención. **A/B**. |
+| 64 | `borradores/cap-60-furniture.md:193` | Harry busca compañía mientras oculta lo que sabe; la amabilidad no resuelve la mentira. | **B11**, en reserva, ofrece contacto físico si se conserva el beso. Evaluar también retirarlo por acumulación. **B**. |
 | 65 | `borradores/cap-60b-three.md:51` | Ron quiere oír otra vez una admiración mal dicha. La fiesta es felicidad compartida. | Nueva escena de Ron y Hermione bailando, muestra 5, opcional. Conservar toda la victoria, la planta y la radio. **B**. |
-| 66 | `borradores/cap-61-a-name.md:97` | La escena agradable funciona como superficie de una ocultación. | No desarrollar Snap como prueba de que todo va bien. Preservar a Goyle negándose y la caricia falsa por Bode. **R**. |
-| 67 | `borradores/cap-62-the-list.md:175` | Alivio real, culpa omitida y posesión inquietante ocupan el mismo abrazo. | No hacer más larga la recompensa por la denuncia. Proteger el papel que sigue en el bolsillo. **R**. |
+| 66 | `borradores/cap-61-a-name.md:97` | La escena agradable funciona como superficie de una ocultación. | **B12**, en reserva. Puede retirarse el beso sin retirar la partida ni convertirla en una noche inocente. **R/B**. |
+| 67 | `borradores/cap-62-the-list.md:175` | Alivio real, culpa omitida y posesión inquietante ocupan el mismo abrazo. | **B13** reserva el beso del hechizo; **B14** desarrolla el de la denuncia con la página aún en el bolsillo. **R/B**. |
 | Extra Y4.2 | `borradores/extra-year-four-2-bed-rest.md:35` | Compañía cotidiana: leer lo aburrido es una decisión afectuosa, con asco y humor. | Preservar «Is it long?» y la comprobación de Bagnold. No añadir beso para validar lo que ya significa quedarse. **C**. |
 | 68 | `borradores/cap-63-the-spoon.md:165` | La taza espantosa revela cuidado; la recepción de Lyra es actuación después de St Mungo’s. | No arreglar esa recepción para dar mariposas limpias. Mantener el pulgar final y el desconocimiento de Harry. **R**. |
-| 69 | `borradores/cap-64-the-date.md:145` | Se puede ser mirado llorando y no morir de ello. La presencia se vuelve carga compartida. | Microprueba de petición práctica, oportunidad 11. Conservar el viraje final al plan secreto. **B/C**. |
-| 70 | `borradores/cap-65-the-knight.md:109` | La gratitud de Lyra alcanza al niño que Harry teme haber perdido. La alegría de una persona hiere a la otra. | No hacer más elocuente a Harry ni corregir el malentendido mediante el abrazo. **R**. |
+| 69 | `borradores/cap-64-the-date.md:145` | Se puede ser mirado llorando y no morir de ello. La presencia se vuelve carga compartida. | **B15**, en reserva, concreta el saludo habitual. Mantener la escena del llanto y el viraje al plan secreto. **B/C**. |
+| 70 | `borradores/cap-65-the-knight.md:109` | La gratitud de Lyra alcanza al niño que Harry teme haber perdido. La alegría de una persona hiere a la otra. | **B16** desarrolla cómo recibe Harry los besos; **B17** reserva la despedida posterior. Mantener la fractura. **R/B**. |
 | 71 | `borradores/cap-65b-bothy.md:97` | Ron confía una vergüenza amorosa y ofrece compañía sin recibir todas las respuestas. | Preservar sus palabras. El consejo de decirlo mal ya sirve de criterio para esta revisión. **C**. |
-| 72 | `borradores/cap-66-continuous.md:175` | El posesivo deja de ser un juego; la mano impide una marcha. | No añadir beso tras la retirada. La ligereza de Lyra en 189 es defensa, no resolución. **R**. |
+| 72 | `borradores/cap-66-continuous.md:175` | El posesivo deja de ser un juego; la mano impide una marcha. | **B18** concreta el beso rutinario. No añadir otro después del agarre posterior. **R/B**. |
 | 73 | `borradores/cap-67-through-a-door.md:69` | La intimidad proporciona las armas con las que se hieren. Los amigos pagan consecuencias propias. | No hacer de Ron una interrupción del romance. Mantener el final con el anillo como ambivalencia. **R**. |
-| 74 | `borradores/cap-68-ask-me.md:161` | Gozo físico, vergüenza compartida y palabras repetidas; ya hay una larga recompensa. | Conservar. El laboratorio no intenta superar «Tua» ni borrar el precio de faltar a la cena. **C/R**. |
-| 75 | `borradores/cap-69-you-were-missed.md:175` | Harry recibe una promesa sincera sobre una mentira; luego juntos envían secretos separados. | Afinar la duración del encuentro de las lechuzas, oportunidad 12; conservar la asimetría de ojos abiertos. **B/R**. |
-| 76 | `borradores/cap-70-cousins.md:93` | Por fin Lyra desea contar un logro a alguien. La explicación de la respuesta se resume. | Muestra 3: representar una parte de esa conversación y una pregunta de Harry. Preservar el remate equívoco. **A**. |
-| 77 | `borradores/cap-71-mid-sentence.md:201` | Inmovilización y cuidado administrativo del cuerpo: culmina el control, no el cortejo. | No prolongar ni embellecer el beso de 217. Mantener a Hermione viendo y decidiendo. **R**. |
+| 74 | `borradores/cap-68-ask-me.md:161` | Gozo físico, vergüenza compartida y palabras repetidas; ya hay una larga recompensa. | **B19** desarrolla el contacto dentro del clímax; no duplicar la euforia ni borrar el precio de la cena. **B/R**. |
+| 75 | `borradores/cap-69-you-were-missed.md:175` | Harry recibe una promesa sincera sobre una mentira; luego juntos envían secretos separados. | **B20** concreta el beso y conserva sus ojos abiertos. La lechucería se evalúa por separado. **B/R**. |
+| 76 | `borradores/cap-70-cousins.md:93` | Por fin Lyra desea contar un logro a alguien. La explicación de la respuesta se resume. | **B21** desarrolla sólo el beso del pastel; la conversación de Arithmancy sigue siendo la intervención principal. **A/B**. |
+| 77 | `borradores/cap-71-mid-sentence.md:201` | Inmovilización y cuidado administrativo del cuerpo: culmina el control, no el cortejo. | **B22** concreta la firma en la frente y la falta de respuesta posible. No añadir recompensa. **R**. |
 | 78 | `borradores/cap-72-mine.md:221` | Crabbe hace el rescate; Harry devuelve una varita sin poder devolver la confianza. | Preservar cinco horas, agua, negativa a bajar y última frase. No reconciliar al amanecer. **R**. |
 
 ## 3. Doce oportunidades, por orden de adopción
