@@ -17,7 +17,7 @@ Lee, en este orden:
 | Ruta | Qué es | ¿Se edita? |
 |---|---|---|
 | `manuscrito/` | Capítulos 1 a 15, publicados | No |
-| `borradores/` | Capítulos del 16 en adelante, extras, interludios y el guion de la tanda en curso. Nada más. **Los archivos llevan número de trabajo; el título, el del lector:** `docs/notas/reestructura/numeracion.md` | Del 40 en adelante |
+| `borradores/` | Capítulos del 16 en adelante, extras, interludios y el guion de la tanda en curso. Nada más. **Los archivos llevan número de trabajo; el título, el del lector:** `docs/notas/reestructura/numeracion.md` | Del 41 en adelante |
 | `docs/estado-de-trabajo.md` | Dónde estamos | Sí, en cada paso, y corto |
 | `docs/handoff-v4.0.md` | Lo vigente | Sí |
 | `docs/capitulos/` | Continuidad y un manual por capítulo | Sí, al cerrar cada capítulo |
@@ -33,7 +33,7 @@ Lee, en este orden:
 
 ## Reglas
 
-- **Publicación (autor, 5 de noviembre de 2026):** publicado hasta el 38 inclusive, y el 39 muy pronto. **Del 1 al 38 no se toca;** una errata se apunta en `erratas-publicado.md`. Del 40 en adelante se puede cambiar a fondo; el 39, solo con el autor. Lo nuevo no puede contradecir lo publicado. Publicar lo hace el autor.
+- **Publicación (autor, 7 de noviembre de 2026):** publicado hasta el 40 inclusive. **Del 1 al 40 no se toca;** una errata se apunta en `erratas-publicado.md`. Del 41 en adelante se puede cambiar a fondo. Lo nuevo no puede contradecir lo publicado. Publicar lo hace el autor.
 - **Son menores:** nada sexual ni sensual, nunca.
 - **Prosa:** comillas y apóstrofos tipográficos (“ ” ’), separador `⁂`, cursivas `*…*`, Mr/Mrs sin punto. Extensión orientativa: 3.000 a 4.200 palabras; si recortar pierde más de lo que gana, no se recorta.
 - **Vamos por nuestro camino (autor, 5 de noviembre).** El lector no conoce el original y no hay que debérselo. No se leen capítulos de referencia. Se rescata de él solo lo que escribiríamos peor: lista en `docs/notas/reestructura/decisiones.md`, §9. Se coge la idea, nunca la frase; los guiones no citan frases de la oficial. Al escribir no se tiene delante. Cotejo final: `herramientas/ngramas.py`.
