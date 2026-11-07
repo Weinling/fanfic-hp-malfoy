@@ -59,3 +59,6 @@
 - McGonagall: «in tens».
 - Lyra dice que fue el jueves cuando lo besó y le dijo que era el final; el sábado en el alféizar él la llama «mine» no la pareja.
 - Lavender: hechizo contra granos, «lasts till dark», que Potter llamó «warts».
+
+## Romance (7 de noviembre)
+Sexta planta rehecha: ella cruza dos pasos y pisa su propio dobladillo; él baja lo que falta (sin puntillas: se reservan para 76 y 85). Las gafas se enganchan en una horquilla («Hold still»). La costura en la oreja: los puños se abren, «No», «Stay a bit», «You’re holding me like a tea tray. Do it properly». «You’re making a terrible noise.» Sigue siendo un beso: la cuenta no cambia. **Primer «Stay» de Harry a Lyra tras la ruptura.**

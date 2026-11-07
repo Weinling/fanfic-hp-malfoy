@@ -224,9 +224,35 @@ He turned his head at that, and looked at her properly, and it went through her 
 
 She had missed that particular smile, and she would have liked it put on record that she was still extremely angry. It was not the one he kept for the Great Hall. It started at one corner and went crooked, and it had no business whatever on a face that thin at that hour of the night, in front of a person who had sent it a tin.
 
-He got down off the sill. He was taller than he had been in June. She could not have told anybody afterwards which of them crossed the last of the floor; she only knew she had hold of a handful of tartan dressing gown, and that it was quite short, and not at all sensible, and that he kept his right hand in his pocket the whole time, which she thought was very like his cheek.
+He got down off the sill. He was taller than he had been in June, which she took as one more thing done to annoy her, and there was a good deal less floor between them than there had been when he was sitting down. He seemed to notice that when she did. His left hand came up a little way, and stopped, and went down again.
 
-She stepped back. She put her badge straight, and then her hair, and she looked at a suit of armour until she was certain of her voice.
+“Well?” said Lyra.
+
+“Nothing.”
+
+“You have been keeping me here for a remarkable amount of nothing.”
+
+He looked at her badge. It seemed to be giving him some difficulty.
+
+“I could go,” said Potter.
+
+He would, too. He would say good night in that even, pleasant voice, and go off along the wall, and in the morning he would hold a door for her. She had had eleven days of that door.
+
+She took hold of his dressing gown.
+
+It was tartan, and quite short, and extremely poor material for making a point with. She had meant to pull him nearer, and he had already come; they both stopped, with a handful of it between them, and for one dreadful second she could see him trying not to smile again.
+
+“Don’t,” she said.
+
+He stopped trying.
+
+She could not have told anybody afterwards how long it took. She only knew that she had gone up on her toes for it, and that his left hand had made up its mind at last, somewhere behind her elbow, and that he kept the right one in his pocket the whole time, which she thought was very like his cheek.
+
+She came down again. She did not get far. She still had the dressing gown, and his glasses had gone crooked, and neither of them seemed to know whose job that was.
+
+“Your badge,” said Potter, in a voice she had not heard at breakfast.
+
+It had turned sideways. She let go of him. She put it straight, and then her hair, and she looked at a suit of armour until she was certain of her voice.
 
 “That was the last one,” said Lyra.
 

@@ -64,3 +64,6 @@
 
 ## Forma
 Cuatro escenas desde Lyra, de la comedia del despacho a la ternura de la sala de trofeos. Un beso despierta, otro dormido. Cierra con Filch y la mirada de Mrs Norris.
+
+## Romance (7 de noviembre)
+El beso del armario: él sigue de rodillas y ella se inclina, con una mano en la vitrina.

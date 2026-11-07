@@ -156,7 +156,7 @@ He blew.
 
 “We shall *not* have that,” said Lyra Malfoy. “Do be quiet. I’m thinking.”
 
-He put his forehead down on her shoulder. He had not meant to. He was so tired that he could hardly hold it up. She let him. After a moment he felt her hand come up, and rest on the back of his neck, rather as you might rest your hand on a dog that you had decided to keep. He breathed in. She smelt of soap. He had carried that thing for four years and three months, up every staircase in the castle, and he had never once in all that time set it down, and now there was somebody else’s hand on it. He didn’t know what he had thought that would be like. He had not thought it would feel like that. It felt like being able to stop walking.
+He put his forehead down on her shoulder. He had not meant to. He was so tired that he could hardly hold it up. She let him. After a moment he felt her hand come up, and rest on the back of his neck, rather as you might rest your hand on a dog that you had decided to keep. He breathed in. She smelt of soap. He had carried that thing for four years and three months, up every staircase in the castle, and he had never once in all that time set it down, and now there was somebody else’s hand on it. It felt like being able to stop walking.
 
 ⁂
 

@@ -100,7 +100,7 @@ He sat back on his heels. He had a black smear on his forehead. He looked at her
 
 She looked for something to say to that. It seemed to have been put somewhere she could not reach.
 
-She got up, and stepped over the tin. It was only the one step. It was very brief, and there was metal polish on his chin, and when it was over she looked at him severely from about four inches away.
+She got up, and stepped over the tin. It was only the one step. He was still on his knees, and she had to bend for it, with one hand on the cabinet. It was very brief, and there was metal polish on his chin, and when it was over she stayed where she was and looked at him severely from about four inches away.
 
 “That was the last one.”
 

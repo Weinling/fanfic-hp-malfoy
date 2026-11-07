@@ -65,3 +65,6 @@
 
 ## Forma
 Siete escenas desde Lyra, de la clase de Umbridge al beso en la séptima planta. Alterna comedia y amenaza; cierra con una ronda y cinco puntos de menos para Gryffindor.
+
+## Romance (7 de noviembre)
+Ventana de la séptima planta rehecha: él se para, «I could go», ella coge la bata, «Don’t». Ella sube de puntillas; la mano derecha sigue en el bolsillo. Separación que no sale a la primera; «Your badge». Mismo beso, misma cuenta.

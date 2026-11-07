@@ -439,6 +439,7 @@ En orden de lectura. Las fechas marcadas «deducida» no las da el texto: salen 
 - **79 (sep.-13 oct.):** ver `cap-79.md`. Dos sillas. Contramaleficio. Harry vuelve a agarrarla.
 
 - **80 (9 nov.):** el viento tapa la Marca; se lo grita; Obliviate a Ginny. **81 (11-16 nov.):** «By four o’clock»; ella habla al oído; anillo azul; *Please come* en público; diez de Zabini. **82 (16-18 nov.):** Hedwig muerta; Harry insulta a Riddle; la Marca arde un minuto; Harry jura matarle despacio. **83 (nov.-13 dic.):** Ron narrador; Neville: «Not you»; turnos para sentarse con Harry; Felix a la bolsa. **84 (dic.):** Crabbe sabe lo de su letra; Goyle dice no; diez de verdad; oye a Greer y a Crabbe. **85 (14-15 dic.):** el local; «Bacon»; **Greer Goyle muere**; «It was her heart». **86 (19 dic.):** veintitrés; se corta sola; *Sec*—; «Hold it»; el ojo se cierra y se abre.
+- **Romance (7 de noviembre):** ninguna escena cambia hechos ni cuentas. Nuevo en el texto: «Stay a bit» (49), los cinco minutos fuera del horario (59), el papel de los 133 días lo guarda Harry (59), «Which bit did you like?» (70), la mesa del pub (85; Crabbe sigue sin hablarle). Ver sus manuales.
 - **Besos en la boca de la tanda:** 76 (colina) y 85 (escalera).
 - **Moneda:** va en los dos sentidos (79). **Grupo:** «Defence Society», de Neville; Harry, fuera desde el 5 de diciembre de 1996. **Felix:** en el bolsillo de Lyra. **Caja:** en poder de Harry, veintitrés (86; queda en el lavabo: tramo 4). **El libro negro de Crabbe y el local:** sin dueña. **Calcetín:** Harry. **Guantes de Miss Bode:** Lyra.
 

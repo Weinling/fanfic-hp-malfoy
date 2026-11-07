@@ -40,7 +40,39 @@ They both looked at her. It was very quiet in the room. She saw Crabbe’s penci
 
 It got out before she could stop it, a sort of sharp small breath down her nose, that hurt her somewhere under the ribs. It was a laugh. Crabbe had looked down at her book again. But she’d heard it, she must have heard, because Lyra saw the pencil start up, quite slowly, and she saw the flat pale ear above it go pink.
 
-They went to Honeydukes, for the fudge, and to the Three Broomsticks; and somebody put a plate in front of Lyra with a thing on it, and she ate some. It was a good day. She noticed that at about four o’clock, on the road back, with the lamps coming on along the wall of Hogsmeade Station, and the three of them walking in a line, in the blue dusk, with the snow creaking. Goyle was singing something, under her breath, flat. Lyra had got a crumb in the wool of her glove. Her arm lay along her side. It listened, she supposed. It had heard about the marble. She hoped very much that he was enjoying that.
+They went to Honeydukes, for the fudge, and to the Three Broomsticks, where Goyle chose the table before Lyra was through the door. It was a small one by the window. Crabbe laid the black book on it, and somebody put a plate in front of Lyra with a mince pie on it. She could not remember having asked for one.
+
+“You can leave the bit you don’t want,” said Goyle. She had a much larger plate, and she was attending to it. “It’s good pastry.”
+
+“You’ve tried it, I take it.”
+
+“Four times. I wanted to be sure.”
+
+Crabbe made a small mark in the book.
+
+“That doesn’t come out of the marble.”
+
+“You’ve put it under Lunch, Ness.”
+
+Lyra watched the pencil go back behind the ear. She had been going to say something about how one approached a landlady. She had a very good voice for landladies.
+
+“What happens if the flour goes up again?” she said.
+
+Crabbe looked at her for a little while, as if checking which question had been asked. She didn’t say anything. She turned back two pages, and laid one finger on a line, and took it away again, and she didn’t push the book across; and Lyra leant over far enough to see a column of figures in three sizes, crossed out and done again, and a total that had been rubbed so often that the paper had gone thin.
+
+“We’ve allowed for that,” said Goyle. “Ness has.”
+
+“And if it goes up twice?”
+
+“Then we get the marble.”
+
+Crabbe looked at her.
+
+“Then we get the marble *later*,” said Goyle, with her mouth full. “I know.”
+
+Lyra took up her fork. The pie broke very neatly down the middle. Nobody looked. Goyle was attending to her own plate, with great care, and breathing through her nose; and Lyra ate one half while they disagreed about whether a person could be expected to buy two buns if one of them was rather small. She gave it as her view that they could. Goyle thought about that, quite seriously, and said no.
+
+It was a good day. She noticed that at about four o’clock, on the road back, with the lamps coming on along the wall of Hogsmeade Station, and the three of them walking in a line, in the blue dusk, with the snow creaking. Goyle was singing something, under her breath, flat. Lyra had got a crumb in the wool of her glove. Her arm lay along her side. It listened, she supposed. It had heard about the marble. She hoped very much that he was enjoying that.
 
 She thought it had probably been the best day of her life. It seemed an odd thing to find out, in Hogsmeade.
 

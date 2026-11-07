@@ -118,7 +118,61 @@ He looked down at her. He was scarlet, and furious, and it was starting to get a
 
 She kissed him, as the only way of stopping. It did not work; she got the giggles halfway through, and bit her own lip, and he said “Ow” on her behalf.
 
-They went back to the goblins, since it was on the timetable. She read out the dates, and he got them wrong. The fire burned down a little, and he put a log on it. Nobody said anything for the rest of the hour, and nobody gave it a mark.
+They went back to the goblins, since it was on the timetable. She read out the dates, and he got them wrong. The fire burned down a little, and he put a log on it. Nobody said anything for the rest of the hour.
+
+At half past ten Potter got out of the chair and began to put the goblins away.
+
+He did it with unusual thoroughness. He capped the ink and squared the parchment, and he found her ruler under the fender, and gathered up three quills, of which only one was his.
+
+“Must you make such a business of it?” said Lyra, from the rug.
+
+He looked at the quills.
+
+“It’s half past ten.”
+
+“I can read a timetable.”
+
+“Right.”
+
+He put them in his bag. She watched him do the buckle. He got it wrong, took it out and tried again. It was an extremely slow buckle, and she could have had him through the door in half the time, if that had been what she wanted.
+
+“You needn’t go at once.”
+
+The buckle stopped.
+
+“Is there more?”
+
+“No, Potter. There are no more goblins. The goblins have gone to bed. You may take your hand off the buckle.”
+
+He did. She had the dates across her knees, and she looked at them. She had been on the same one since the buckle. It did not seem possible that she was going to have to say the rest of this.
+
+“Five minutes,” said Lyra.
+
+He looked at her. Then he looked at the timetable over the fire.
+
+“You’ve got rounds.”
+
+“I am aware of my rounds.”
+
+He stood there for a moment, with his bag. Then he put it down, and came back across the rug, past the chair, and let himself down on the floor beside her with his back against it and his long legs out in front of him. After a while he looked round.
+
+“What are we doing?”
+
+She took him by the top of the head, and turned it back towards the fire.
+
+“This.”
+
+“Oh.”
+
+He stayed facing the right way. His shoulder had come to rest against hers. She left her hand where it was, in his ridiculous hair, for want of anywhere better. He let the whole weight of his head go back against it, and shut his eyes, as if that had been the arrangement from the start. The log caught along one side.
+
+“You can stop looking pleased,” said Lyra.
+
+“You can’t see my face.”
+
+She could hear it perfectly well.
+
+It was rather more than five minutes, and nobody gave it a mark.
 
 ⁂
 
@@ -221,6 +275,22 @@ He had got out a quill. He had taken a sheet of paper from the fender, and was h
 She looked at him. She looked at him sitting on her Arithmancy, with ink on his lip, holding a sheet of the second-best paper in both hands.
 
 “Ten points from Gryffindor,” said Lyra, with what voice she could find. She took him by the ears. “For sitting.”
+
+Nobody remembered the paper until it crackled. It had got between them, and it had not been improved by the experience. He found it under his elbow, and looked at it in alarm, and began to smooth it out on his knee with the side of his hand.
+
+“You are not keeping that.”
+
+“I am.”
+
+“You have the most dreadful handwriting.”
+
+“I know.”
+
+He folded it in four, very slowly, along none of the creases it had already got, and put it in his back pocket, and sat on it.
+
+“That’s another ten,” said Lyra.
+
+She did not tell him to get off the chair.
 
 ⁂
 

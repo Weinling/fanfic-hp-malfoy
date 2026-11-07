@@ -20,3 +20,6 @@ El anillo vuelve al dedo. La cinta verde se quita. La oferta de Lucius: si Potte
 
 ## Forma
 Empieza con un alivio y acaba en dos palabras.
+
+## Romance (7 de noviembre)
+La tarta: él no entiende nada («It’s the same squiggle»), «I didn’t mean stop», **«Which bit did you like?»**, «I want that one again». Ella señala dónde dejó de ser dos preguntas. La línea, en glaseado porque no queda papel. Aritmancia: Harry no la cursa; Lyra lleva tres años.

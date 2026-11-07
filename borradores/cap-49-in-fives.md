@@ -134,7 +134,49 @@ She had said a great many things to him, in five years, in a great many voices, 
 
 “I said that *you* couldn’t. I said nothing whatever about the other way round.”
 
-He took one step, and she had him by the jumper, or he had her. It was difficult to say. It went on for rather longer than the others had, and at some point she found that she had her forehead against his collarbone, and that his arms had gone round her, and that they were both simply standing there, on the sixth floor, breathing. His heart was going like a rabbit’s. His hands were holding on to the back of her robes, in two fists. She could feel that he was not going to be the one who let go.
+He took one step. She took the other two, because he was being slow about it, and the second of them landed on the hem of her own robes. She got him by the front of the jumper and pulled. He had grown again, which was inconsiderate, and he had to come down the last of the way by himself. He came. They arrived badly, with his nose cold against her cheek and her own hands not at all steady, and she kissed him anyway, as if she had been meaning to all day, which she had. His arms went round her. One of them got it wrong and had to go back for another try, and she let that pass; she was in no position to look superior.
+
+His glasses got hooked in her hair. She discovered this by trying to turn her head. Something pulled, sharply, just above her ear, and they stopped, both of them looking in the wrong direction, joined at the pin.
+
+“Hold still,” said Lyra.
+
+He held still. She kept one hand in the jumper and felt for the pin with the other, while the glasses hung off one ear, and he stood under her fingers with his eyes on her face, as if the pin were the last thing holding up the castle.
+
+“There.”
+
+“Thanks.”
+
+She had not meant to laugh. It came out very small, and then he had started, without a sound, and she could feel it going through him from the jumper; and it was ridiculous, there was nothing in the world funny about a hairpin, and she could not remember when she had last been so happy. She put his glasses back on him, crooked. She went back to what she had been doing. Nobody had told her to stop.
+
+At some point she found that she had her forehead against his collarbone, and that they were both simply standing there, on the sixth floor, breathing. His heart was going like a rabbit’s. His hands were holding on to the back of her robes, in two fists.
+
+There was a seam in her ear. She shifted her shoulder, about half an inch, and the fists opened at once.
+
+“No,” said Lyra, much too quickly.
+
+He had begun to draw back. He stopped.
+
+“It was a *seam*. It was in my ear. I was moving a seam, Potter, not leaving the country.”
+
+“Right. Sorry.”
+
+He had gone red; she could see it arriving at his collar without lifting her head. His hands came back, and lay against her robes quite flat, very carefully, like the hands of someone who has been told not to touch the exhibits. It was extremely well-mannered, and she hated it. She wanted the fists.
+
+“Could you—” said Potter, and stopped. She waited, with a great deal less composure than she would have preferred. “Stay a bit.”
+
+She took a fresh handful of the jumper, further round, where there was no seam.
+
+“I haven’t gone anywhere,” she said, into it. “You’re holding me like a tea tray. Do it properly.”
+
+He let out a breath that was mostly a laugh, and did it properly. She felt it move the hair above her forehead.
+
+“You’re making a terrible noise,” said Lyra, after a while.
+
+“Me?”
+
+She put one finger on the place, through the wool. He looked down at it, and the red went on up.
+
+Somebody in a portrait further down the corridor turned over in his sleep. She had the rest of the sixth floor to walk and a book to write up. They could wait. She could feel that he was not going to be the one who let go, and she considered it the handsomest thing that anybody had ever failed to say to her.
 
 It was she who let go. It took her some time.
 

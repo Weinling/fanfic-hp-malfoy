@@ -24,3 +24,6 @@ Termina en acción corriente: la tostada, hasta los bordes.
 
 ## Añadido (5 de noviembre)
 El horario de Hermione deja libres martes y jueves por el grupo de Diggory; el jueves, además, por Snape y Lyra.
+
+## Romance (7 de noviembre)
+**Cinco minutos** al acabar la hora de los goblins: primera vez que se saltan el horario de Granger («You needn’t go at once»); él se sienta en el suelo, junto a ella; sin beso. «It was rather more than five minutes, and nobody gave it a mark.» **San Valentín:** tras «For sitting», el papel cruje; «You are not keeping that.» / «I am.»; lo dobla, se lo guarda en el bolsillo de atrás (enlaza con el 60) y se sienta encima: «That’s another ten.»

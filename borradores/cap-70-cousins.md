@@ -90,7 +90,45 @@ He was looking at her with such a terrible hopeful pride that she had to bite th
 
 She watched that go across his face. She watched him look at the cake, and he opened his mouth. And she began to laugh; she couldn’t help it, it got out from under her ribs, and she sat down on the rug with her hands over her face and howled. He stood over her saying, “No, but it’s—you *said* it— Is it really? But that’s even better!” in a rising voice, and then he had gone too, and they sat on either side of the plate, helpless, with their eyes running, not able to look at each other, or the thing between them, which had begun very slowly to subside.
 
-She ate it. There was salt in it, and a certain amount of shell. It had the texture of a wet Sunday in Surrey. She held out her plate and she had a second piece, sitting cross-legged on the bald rug with the window open and the swifts going over, and she told him about the eleventh question, from the beginning, with diagrams, on the back of his Potions notes. He didn’t understand one word of it. He sat with his chin in his hand and his mouth full, nodding, and he looked at her the whole time; and when she got to the line, the beautiful one, she found that she had drawn it for him in icing on the edge of the plate, and he looked down at it, and up.
+She ate it. There was salt in it, and a certain amount of shell. It had the texture of a wet Sunday in Surrey. She held out her plate and she had a second piece, sitting cross-legged on the bald rug with the window open and the swifts going over, and she told him about the eleventh question, from the beginning, with diagrams, on the back of his Potions notes.
+
+He didn’t understand one word of it. She could see that by the third line. He sat with his chin in his hand and his mouth full, nodding in all the wrong places.
+
+“That’s the same thing,” he said, pointing with his fork.
+
+“It is not remotely the same thing.”
+
+“It’s the same squiggle.”
+
+“It’s in a different *place*, Potter. That’s the whole— Look.” She drew a line from one to the other. “You see?”
+
+He looked at it with painful attention.
+
+“No.”
+
+She put down the quill.
+
+“Well. Nobody asked you to. You haven’t done the three years.” She began to turn the sheet over.
+
+“I didn’t mean stop.”
+
+He had said it rather quickly. He put down the fork, with a piece of cake still on it, and turned the sheet back towards her.
+
+“Which bit did you like?”
+
+“Which bit did I— It’s an *examination*, Potter.”
+
+“You had a face on, at the door. I want that one again.”
+
+She looked at the two columns. It took her a moment to find the place, and then she put the end of the quill on it, about two-thirds of the way down.
+
+“There,” said Lyra. “That’s where it stopped being two questions. Everybody else was still doing two questions.”
+
+“But you weren’t.”
+
+“Obviously.”
+
+She had gone a little warm. It was absurd; he had understood practically nothing. She turned the quill the right way round, and went up the page, so that he could see it coming, and then she was going rather fast, and she had got up on her knees. He had not picked up the fork. He looked at her the whole time; and when she got to the line, the beautiful one, there was no room left on the paper, and she found that she had drawn it for him in icing on the edge of the plate, and he looked down at it, and up.
 
 “That’s *you*, that is,” said Harry. “All of that.”
 

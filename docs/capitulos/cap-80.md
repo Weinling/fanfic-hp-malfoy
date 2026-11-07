@@ -6,3 +6,6 @@ Slytherin–Gryffindor con vendaval. A trescientos pies, la presión de la Marca
 
 ## Quién sabe qué
 Lyra sabe que el viento fuerte tapa la Marca. Ginny pierde la hora. Harry no oyó nada.
+
+## Romance (7 de noviembre)
+En el medio minuto: ella señala su ceja y él se tapa la que no es.

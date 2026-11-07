@@ -9,3 +9,6 @@ Lyra y Snape. Veintitrés. Pomfrey duda. Dumbledore firma lo que dice Snape.
 
 ## Lectura de Codex (6 de noviembre)
 Pomfrey: «I shall write down what I found.» Queda por escrito.
+
+## Romance (7 de noviembre)
+La mesa de Las Tres Escobas: la tartaleta sin pedir, «You’ve put it under Lunch, Ness», la pregunta por la harina. **Crabbe sigue sin dirigirle la palabra a Lyra:** contesta con un dedo en la línea, y habla Goyle. «Then we get the marble» / «Then we get the marble *later*.» Goyle la ve comer y no dice nada.
