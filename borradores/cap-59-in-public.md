@@ -116,7 +116,13 @@ He looked down at her. He was scarlet, and furious, and it was starting to get a
 
 “Substantive charms,” said Potter. “Something about a goblet. I got it wrong.”
 
-She kissed him, as the only way of stopping. It did not work; she got the giggles halfway through, and bit her own lip, and he said “Ow” on her behalf.
+She pulled herself up by the front of his jumper and kissed him, as the only way of stopping. He bent over the arm of the chair to meet her. His mouth was already trying to smile, and she could feel it move under hers; she pressed closer, determined that one of them should keep a straight face, and his hand came against her cheek.
+
+It nearly worked. She got as far as being kissed back, with his fingers warm along the side of her face and her own knees sliding on the rug. Then she remembered that he had failed Divination.
+
+The laugh got out between them. She tried to keep her mouth still, bit her own lip and drew back.
+
+“Ow,” said Potter on her behalf.
 
 They went back to the goblins, since it was on the timetable. She read out the dates, and he got them wrong. The fire burned down a little, and he put a log on it. Nobody said anything for the rest of the hour.
 
@@ -275,6 +281,14 @@ He had got out a quill. He had taken a sheet of paper from the fender, and was h
 She looked at him. She looked at him sitting on her Arithmancy, with ink on his lip, holding a sheet of the second-best paper in both hands.
 
 “Ten points from Gryffindor,” said Lyra, with what voice she could find. She took him by the ears. “For sitting.”
+
+His smile faltered under her hands. He glanced at her mouth, then met her eyes, and she felt heat come into her face all over again. She had been meaning to make a remark. She drew his head down instead.
+
+He leant sideways from the arm of the chair, and she kept hold until his mouth met hers. One hand got free of the paper and found the back of her shoulder. She let go of an ear to catch his collar, and he drew her closer. His lips pressed more firmly against hers, and her fingers stopped trying to straighten the cloth.
+
+He was kissing her back now, quite seriously. She could feel the pressure of his fingers through her robes and his chest moving against her arm; when she opened her eyes, his were shut. She shut hers again. She had said it, and he had written it down, and she was still holding him by one ear, and she wanted to stay exactly where she was.
+
+His mouth began to smile again. She drew back enough to look at him, but he followed, and the corner of his glasses touched her forehead. She felt his breath go against her cheek before either of them managed a word.
 
 Nobody remembered the paper until it crackled. It had got between them, and it had not been improved by the experience. He found it under his elbow, and looked at it in alarm, and began to smooth it out on his knee with the side of his hand.
 

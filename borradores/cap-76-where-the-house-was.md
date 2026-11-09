@@ -144,9 +144,11 @@ She went on looking at the horse. It had come up out of the dark by now; you cou
 
 He had no idea how long they stood there. The birds had got very loud. All down the valley a mist was lying along the river, with the tops of the willows coming out of it, and it was going to be another beautiful day.
 
-She walked up to him. It was only about a yard. She came quite close, closer than she had been since a rug in June, and he stopped breathing. He kept his hands exactly where they were. He pushed them down, as far as they’d go, so that his shoulders hurt. She smelt of soap, and something else, under it, faint and sharp, like a burnt match. She stood there with her left arm behind her. She looked at his mouth, and the split in his lip. Then she put up her right hand and took hold of his collar, and she stood on her toes, and it cost her something; he heard her breath catch. She kissed him.
+She walked up to him. It was only about a yard. She came quite close, closer than she had been since a rug in June, and he stopped breathing. He kept his hands exactly where they were. He pushed them down, as far as they’d go, so that his shoulders hurt. She smelt of soap, and something else, under it, faint and sharp, like a burnt match. She stood there with her left arm behind her. She looked at his mouth, and the split in his lip. Then she put up her right hand and took hold of his collar, and she stood on her toes, and it cost her something; he heard her breath catch. He bent towards her before she had finished pulling.
 
-It wasn’t long. Her mouth was very cold, and it was shaking. It didn’t feel like anything he’d been told. It felt like somebody who has come a long way to set something down, and can’t stop, and can’t stay. He kissed her back, with his eyes shut, with his hands in his pockets. He’d have stood there till he died.
+Her lips were very cold. He felt them shake against his, felt the uneven pressure as she tried to stay high enough, and went lower with her. The split in his lip stung. He shut his eyes and kissed her back, holding the sock inside his pocket so tightly that his nails went into his palm.
+
+It wasn’t long. Her fingers loosened at his collar, and for a few seconds he could feel her mouth answer his. Then her heels came down. Their mouths parted, and he opened his eyes, still bent towards her, with his hands in his pockets. He’d have stood there till he died.
 
 She let go of the collar. She smoothed it down, once.
 

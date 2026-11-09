@@ -172,7 +172,9 @@ He had been waiting behind the door. She had not got it properly shut. It was a 
 
 “I love you,” said Potter. “I know, *hold still*. I love you, I love you. I don’t care. Look at you. You’re the most frightening person I’ve ever met in my life.”
 
-He kissed her. He got most of her left eyebrow, and then he got it right. He had her by the front of her robes, with both fists, and his forehead came down against hers; he was out of breath and he was shaking with it. She found that she was holding on to his ears. There was a hard square of folded paper in her pocket. *Most satisfactory. Assisted by.* She could feel its edges. She had thought it would have stopped being there. It seemed that one could sit in a chair with that in one’s pocket, and be looked at like this; that the one thing did not do anything at all to the other. She had supposed there would be some sort of arrangement. *He has a pie on Tuesdays.* She wanted to go on being what he was looking at. She shut her eyes, and turned her face into his collar, and stayed there.
+He kissed her. He got most of her left eyebrow, and she had got hold of his ears by the time he got it right. His mouth came against hers too quickly; he was still trying to laugh, and she held his head where she wanted it until he stopped. Then he kissed her properly, with both fists in the front of her robes, and she forgot what she had been going to say about his nose.
+
+His forehead came down against hers. He was out of breath and shaking with it. She kept her hands by his ears, with her thumbs against his cheeks. There was a hard square of folded paper in her pocket. *Most satisfactory. Assisted by.* She could feel its edges. She had thought it would have stopped being there. It seemed that one could sit in a chair with that in one’s pocket, and be looked at like this; that the one thing did not do anything at all to the other. She had supposed there would be some sort of arrangement. *He has a pie on Tuesdays.* She wanted to go on being what he was looking at. She shut her eyes, and turned her face into his collar, and stayed there.
 
 “*Mine*,” said Potter.
 

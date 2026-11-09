@@ -172,7 +172,9 @@ She saw it go in. She saw him believe it. He let out his breath, and his shoulde
 
 “Yours,” said Lyra.
 
-That was true. That was what she kept noticing. It was the truest thing she had. He kissed her, with his eyes shut, and she kept hers open, and looked past his ear at the small square window, where a piece of perfectly blue sky was going on and on.
+That was true. That was what she kept noticing. It was the truest thing she had. He kissed her, with his eyes shut. She felt the smile leave his mouth as it met hers, felt him turn closer in the chair. His hand found hers on the arm of it, and his fingers closed more firmly when she answered the kiss.
+
+She kept her eyes open. She could see the fine crease beside his nose, and the edge of his cheek when he moved his head. He drew back an inch, still with his eyes shut, and she followed far enough that he would not have to wonder why she had stopped. Her fingers lay inside his. Past his ear was the small square window, where a piece of perfectly blue sky was going on and on.
 
 ⁂
 

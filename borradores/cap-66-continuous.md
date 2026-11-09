@@ -108,7 +108,15 @@ Crabbe had been one of the four. It came back to her, for some reason, as she sa
 
 She took him by the front of his jumper, and looked at him down her nose. “*Mine*,” she said, as one might to a dog that had brought in something from the garden.
 
-It was what they did. His mouth went up at the corner. “Mine,” he said, and he kissed her, and she took ten points off him for presumption. The ring had gone quite warm on its ribbon. She put down her bag, and got out her Arithmancy.
+It was what they did. His mouth went up at the corner.
+
+“Mine,” he said, and bent towards her.
+
+She raised her face, turned it the little amount that she already knew she needed, and met his mouth with her hand still in the jumper. His fingers settled at her waist. For a moment she kept him there by the wool, with the strap of her bag slipping down her other arm; then she drew back and caught it.
+
+“Ten points from Gryffindor. Presumption.”
+
+The ring had gone quite warm on its ribbon. She put down her bag, and got out her Arithmancy.
 
 ⁂
 

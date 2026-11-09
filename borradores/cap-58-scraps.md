@@ -148,7 +148,11 @@ She stopped fighting when she noticed that. She was out of breath. Her hair had 
 
 She could not think when that had last been the case. She did not think it had.
 
-She kissed him, on the top of the head, because it was what was nearest. He said “Mm.” It was a perfectly ridiculous thing to have done. She did it again, to see.
+She kissed him, on the top of the head, because it was what was nearest. His hair flattened under her mouth and sprang up again when she moved. He said “Mm”, very quietly, against her shoulder.
+
+She kept her hand in his hair. He had put a surprising amount of weight on her; she could feel his back rise under her other arm, and the chair had ceased complaining. It was a perfectly ridiculous thing to have done. She did it again, to see.
+
+His head turned a little towards her. She felt the movement against her collar, and then he settled more firmly into her shoulder. She was going to tell him he was heavy. She left it for later.
 
 ⁂
 

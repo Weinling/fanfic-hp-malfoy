@@ -100,7 +100,9 @@ He sat back on his heels. He had a black smear on his forehead. He looked at her
 
 She looked for something to say to that. It seemed to have been put somewhere she could not reach.
 
-She got up, and stepped over the tin. It was only the one step. He was still on his knees, and she had to bend for it, with one hand on the cabinet. It was very brief, and there was metal polish on his chin, and when it was over she stayed where she was and looked at him severely from about four inches away.
+She got up, and stepped over the tin. It was only the one step. He was still on his knees, and she had to bend for it, with one hand on the cabinet. His mouth went still against hers. Then he lifted his face into the kiss, and his left hand caught her sleeve, and she had to press harder on the cabinet to keep from coming down on top of him.
+
+It was very brief. There was metal polish on his chin; she had some on hers now. She stayed where she was, with his fingers in her sleeve, and looked at him severely from about four inches away.
 
 “That was the last one.”
 
@@ -184,9 +186,9 @@ It must have been nearly midnight. She ought to move.
 
 She stayed where she was for what she was prepared to describe as a moment. Nobody could see. There was not a person in the world who knew. It was the first time that she had been warm since the Owlery, and she had been wrong about that being the castle. She looked at the hand on the floor, at the long ink stain on the thumb. She thought of putting her own into it, simply to see; and did not. There was a position to keep up.
 
-She tipped her head back instead, very carefully, until she could reach, and kissed the corner of his jaw.
+She tipped her head back instead, very carefully, until she could reach, and put her lips against the corner of his jaw. His skin was warm. She stayed there for one small, thoroughly unnecessary second, with her mouth just below his cheek.
 
-Nothing happened. He went on breathing. She let her head down again, and shut her eye.
+He went on breathing. She let her head down again, rather hot in the face, and shut her eye.
 
 “Forty-five,” said Potter, not moving.
 

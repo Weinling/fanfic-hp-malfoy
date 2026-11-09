@@ -158,7 +158,11 @@ It wasn’t a figure of speech. They just stopped; he sat down on the floor, on 
 
 “Yours,” said Lyra, with her nose in the air and her mouth starting to go. “That’s twice. I warned you.”
 
-He made a noise. He had no idea what noise it was; he thought it might be the one that Fang made when you came home. He was up again. He didn’t know how he’d got up. He had her by both hands. They were freezing cold, and she was laughing, or crying, or something, her whole face had come apart, and he said, “Again,” and she said, “Yours, you imbecile, that’s three, I’ve never been so embarrassed,” and he kissed her. He kissed her on the forehead. He got the left eyebrow and the right eyebrow and the end of her nose, and her chin, and both sets of knuckles, one after another, with a loud noise, like somebody stamping a great many forms in a hurry.
+He made a noise. He had no idea what noise it was. He was up again. He didn’t know how he’d got up. He had her by both hands. They were freezing cold, and she was laughing, or crying, or something, her whole face had come apart, and he said, “Again,” and she said, “Yours, you imbecile, that’s three, I’ve never been so embarrassed—”
+
+He kissed her. She was still trying to finish the sentence; he felt the last bit of it against his mouth, and then she stopped speaking and held his hands much too hard. She turned her head a little and kissed him back. Her thumbs pressed into his palms. He forgot to loosen his own grip until his nose would let no air in and he had to pull back.
+
+He sniffed, horribly. She laughed straight into his face. He let go to put his arms round her, and she caught his ears, and he tried again and got her forehead. The left eyebrow, the right eyebrow, the end of her nose. She was laughing too hard to hold his head straight now. He got her chin, then took her hands again and kissed both sets of knuckles, one after another, with a loud noise, like somebody stamping a great many forms in a hurry.
 
 “Stop it! You’re *dripping!* Potter—you’ve got your glasses in my eye—that’s a hundred points—”
 

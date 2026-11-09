@@ -44,7 +44,11 @@ They were not all funny. She did not put that in the book. There was a night beh
 
 “Yes,” said Lyra. “*Them*.”
 
-Neither of them could have said afterwards who started it. It was the same argument, by other means. She wrote *Insolence*, and for once it was the plain truth.
+She pulled him nearer, to make him look at her. He was already looking; he had been looking the whole time, and she caught the corner of his mouth with hers because she could not bear one more reasonable word from it.
+
+His head turned. The next moment they were kissing properly, with the hard edge of the armour against her shoulder and his hand under her elbow. He moved her just far enough to clear it. She went with him and kept hold of the gown, and he kissed her again, still frowning. She could feel the frown where his forehead brushed hers.
+
+It was the same argument, by other means. She wrote *Insolence*, and for once it was the plain truth.
 
 ⁂
 
@@ -136,6 +140,8 @@ She had said a great many things to him, in five years, in a great many voices, 
 
 He took one step. She took the other two, because he was being slow about it, and the second of them landed on the hem of her own robes. She got him by the front of the jumper and pulled. He had grown again, which was inconsiderate, and he had to come down the last of the way by himself. He came. They arrived badly, with his nose cold against her cheek and her own hands not at all steady, and she kissed him anyway, as if she had been meaning to all day, which she had. His arms went round her. One of them got it wrong and had to go back for another try, and she let that pass; she was in no position to look superior.
 
+He was smiling against her mouth. She could feel it, and she kissed the smile before he could say anything. His head came down further. She freed her hem with one hand and put that hand against his face instead, with her fingers by his ear. He had asked her to say it again; she could not have said a thing now, even if she had wanted to.
+
 His glasses got hooked in her hair. She discovered this by trying to turn her head. Something pulled, sharply, just above her ear, and they stopped, both of them looking in the wrong direction, joined at the pin.
 
 “Hold still,” said Lyra.
@@ -146,9 +152,11 @@ He held still. She kept one hand in the jumper and felt for the pin with the oth
 
 “Thanks.”
 
-She had not meant to laugh. It came out very small, and then he had started, without a sound, and she could feel it going through him from the jumper; and it was ridiculous, there was nothing in the world funny about a hairpin, and she could not remember when she had last been so happy. She put his glasses back on him, crooked. She went back to what she had been doing. Nobody had told her to stop.
+She had not meant to laugh. It came out very small, and then he had started, without a sound, and she could feel it going through him from the jumper; and it was ridiculous, there was nothing in the world funny about a hairpin, and she could not remember when she had last been so happy. She put his glasses back on him, crooked. His eyes went to her mouth. She had barely caught the jumper again when he bent and kissed her.
 
-At some point she found that she had her forehead against his collarbone, and that they were both simply standing there, on the sixth floor, breathing. His heart was going like a rabbit’s. His hands were holding on to the back of her robes, in two fists.
+This time there was no pin between them. She could feel his hands gathering the cloth at the back of her robes, and his mouth answering hers without the awkward turn. Her own grip had gone no looser. She had him, and she wanted him to know it; she held on when he paused, with her face still close to his, and he came back.
+
+At some point her forehead came to rest against his collarbone. They were both simply standing there, on the sixth floor, breathing; she turned her head against the jumper and felt his heart going like a rabbit’s beside her cheek. His hands were holding on to the back of her robes, in two fists.
 
 There was a seam in her ear. She shifted her shoulder, about half an inch, and the fists opened at once.
 

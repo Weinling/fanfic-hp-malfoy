@@ -106,7 +106,9 @@ She laughed. It broke in the middle. She laid her forehead against his.
 
 “You weren’t anybody yet,” said Lyra. “You just *came*.”
 
-She kissed him. She kissed him on the mouth, and on the cheekbone, and on the bridge of his glasses, crying and laughing, and then she put her arms round his neck and held on with all her strength. Her heart was going like a bird’s. She was saying something into his collar, over and over, and he could not make it out at first. It was *thank you*. It was very quiet and rather cross.
+She kissed him. Her mouth was wet with tears, and her fingers were shaking against his temples. He shut his eyes. The kiss broke on a laugh; she came back, missed, got his cheekbone instead, and pressed another one against the bridge of his glasses. He could feel her breath in small, broken starts against his face.
+
+Then she put her arms round his neck and held on with all her strength. He had to lean forward to keep them both upright. Her heart was going like a bird’s against his chest. She was saying something into his collar, over and over, and he could not make it out at first. It was *thank you*. It was very quiet and rather cross.
 
 He put his arms round her. They went round her by themselves. Over her shoulder he could see the little room, the fire, the timetable, and the pieces picking themselves up off the rug; and quite near his knee a small black knight was getting to its feet and putting its helmet straight, and looking up at him.
 

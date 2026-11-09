@@ -246,7 +246,11 @@ It was tartan, and quite short, and extremely poor material for making a point w
 
 He stopped trying.
 
-She could not have told anybody afterwards how long it took. She only knew that she had gone up on her toes for it, and that his left hand had made up its mind at last, somewhere behind her elbow, and that he kept the right one in his pocket the whole time, which she thought was very like his cheek.
+She went up on her toes. He had stopped smiling, and his eyes went to her mouth; she had time to see that, and to feel extremely hot about it, before she pulled him down the last inch.
+
+Their mouths met a little off centre. She turned her head to put that right, and his left hand made up its mind at last, somewhere behind her elbow. He drew her closer by it. She had been prepared to do all the pulling; the small, firm movement brought her badge against him and left her with a breath she had no room to spend on a remark.
+
+His mouth was warm. She could feel him kiss her back, the pressure change as he bent further, and she tightened her grip on the tartan. For a few seconds she forgot the corridor. Then one heel began to shake, and his fingers closed round her elbow, and she remembered exactly where she was: on the seventh floor, kissing Potter, who had his right hand in his pocket the whole time, which she thought was very like his cheek.
 
 She came down again. She did not get far. She still had the dressing gown, and his glasses had gone crooked, and neither of them seemed to know whose job that was.
 
