@@ -6,7 +6,7 @@
 
 ## Dónde estamos
 
-- **Escrito:** del 1 al 86 de trabajo (92 del lector), con *Year One* 1 a 6, *Year Four* 1 a 3 y tres interludios. **Publicado hasta el 40 (autor, 7 de noviembre).**
+- **Escrito:** del 1 al 86 de trabajo (92 del lector), con *Year One* 1 a 6, *Year Four* 1 a 3 y tres interludios. **Publicado hasta el 42 (autor, 10 de noviembre).**
 - **Orden de lectura y títulos:** `docs/notas/reestructura/numeracion.md`.
 - **Tanda 73-84 cerrada y criticada** (informes en `docs/notas/criticas-opus/`; guion en `docs/archivo/guiones/`). Termina el 19 de diciembre de 1996: el ojo se abre.
 - **Lectura de Codex del 1 al 78 aplicada** (`docs/notas/criticas-codex/lectura-39-78.md`). El grupo de Diggory ya está en la línea principal; en sexto lo lleva Neville, y Harry está fuera desde el 5 de diciembre.
@@ -31,5 +31,7 @@
 - La tercera entrada del cine sigue sin usar (tramo 5).
 
 ## Espera al autor
+
+- **La otra vida, el cruce y los agujeros del canon:** propuestas en `docs/notas/reestructura/divergencia-y-mecanica.md`, con cuatro decisiones al final. Sin aprobar. Condicionan el guion del tramo 4.
 
 - La decisión §7 (el otro Harry perdió) sigue en pie, con lo que añade el §10. La tarea nocturna está desactivada.
