@@ -1,5 +1,5 @@
 # Capítulo 48: «Where the Sea Is»
-- **Archivo:** `borradores/cap-48-where-the-sea-is.md` · **Palabras:** ~3.160 · **Punto de vista:** Lyra · **Fecha(s) en la historia:** octubre de 1995. Un jueves, «the fourth Thursday» de las clases con Snape (1); un miércoles de detención, «a quarter past six», tras el lunes del 47 (2); un miércoles «in the middle of October» (3 a 6); la mañana siguiente a la cita (7); la fecha exacta de 2 a 7 no consta · **Estado:** escrito
+- **Archivo:** `borradores/cap-48-where-the-sea-is.md` · **Palabras:** ~3.220 · **Punto de vista:** Lyra · **Fecha(s) en la historia:** octubre de 1995. Un jueves, «the fourth Thursday» de las clases con Snape (1); un miércoles de detención, «a quarter past six», tras el lunes del 47 (2); un miércoles «in the middle of October» (3 a 6); la mañana siguiente a la cita (7); la fecha exacta de 2 a 7 no consta · **Estado:** escrito
 
 ## Escenas
 1. **El despacho de Snape (Lyra).** Cuarta sesión de Legilimancia, jueves. Ella ha «furnished a room»: el desayuno en la Manor, un partido, Draco en la Selección, un chico con quien discutió en un tren, un examen, un vestido. En un rincón aparece una vela, «Held up in a corridor she had never meant to show anybody, by somebody small, and bare-footed, and frightened»: **la apaga con un pellizco, sin portazo.** Snape: «Furniture, Miss Malfoy, does not move.» / «I do not ask what it was.» / «I should prefer not to know. Thursday.»
@@ -55,3 +55,7 @@
 - La casa: costa de Northumberland, norte de Alnwick, Georgian, ventanas de su tatarabuelo, visita única a los siete años por Portkey desde el estudio, no consta en ningún registro.
 - Los nueve días de cura, tras el miércoles de «I love you», hasta que acaban las detenciones.
 - El «Right» de Potter ya lo dijo una vez a una mentira, en junio, en esa aula.
+
+## Romance (10 de noviembre)
+
+El beso conserva la brusquedad de Lyra y el enfado por la mentira. La mano marcada queda a una pulgada del pelo; la otra alcanza la manga. La separación precede a «Liar»; no se resuelve la mentira ni cambia el azul del anillo.

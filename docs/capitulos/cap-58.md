@@ -1,5 +1,5 @@
 # Capítulo 58: «Scraps»
-- **Archivo:** `borradores/cap-58-scraps.md` · **Palabras:** ~3.600 · **Punto de vista:** Lyra · **Fechas:** 1 de enero; 8 de enero a finales de enero de 1996.
+- **Archivo:** `borradores/cap-58-scraps.md` · **Palabras:** ~3.930 · **Punto de vista:** Lyra · **Fechas:** 1 de enero; 8 de enero a finales de enero de 1996.
 
 ## Escenas
 1. **La puerta del jardín.** Año Nuevo. Narcissa le coge la capa mojada: «The garden door sticks in the cold… he notices hems.» Lo sabe y calla.
@@ -22,3 +22,7 @@ Lucius tiembla un poco desde enero. Crabbe se quedó en Hogwarts. Lyra no le ens
 
 ## Forma
 Gancho: la rata, con eco del 19.
+
+## Romance (10 de noviembre)
+
+Se mantienen dos besos en la cabeza, no en la boca. Él responde acomodando la cabeza en su hombro; ella sostiene su peso y deja para después la protesta por ello. No hay declaración nueva.

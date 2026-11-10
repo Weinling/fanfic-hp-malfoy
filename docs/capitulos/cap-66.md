@@ -1,5 +1,5 @@
 # Capítulo 66: «Continuous»
-- **Archivo:** `borradores/cap-66-continuous.md` · **Palabras:** ~3.350 · **Punto de vista:** Lyra · **Fecha:** 1.ª semana de mayo a viernes 24 de mayo de 1996.
+- **Archivo:** `borradores/cap-66-continuous.md` · **Palabras:** ~3.480 · **Punto de vista:** Lyra · **Fecha:** 1.ª semana de mayo a viernes 24 de mayo de 1996.
 
 ## Escenas
 1. **«What was he like?»** Harry pregunta por el niño; ella, feliz, se lo cuenta sin saber que se lo clava. «I’d give a good deal to have him back for an afternoon.» Él: su Patronus era un ciervo. Ella: el zorro con el mentón de ella, el suyo con las orejas de él; «I should think we made it up.» Le dura hasta el jueves.
@@ -18,3 +18,7 @@ El anillo de ella va ahora en una cinta verde, no en el dedo. Nott: dos tomos de
 
 ## Forma
 Cinco escenas; termina en «She let it go.»
+
+## Romance (10 de noviembre)
+
+El beso de la rutina de «Mine» tiene un ángulo que ella ya conoce y la mano de él en su cintura. Se retira el símil del perro. La vigilancia anterior y la pelea posterior no cambian, ni se añade un beso a esa pelea.

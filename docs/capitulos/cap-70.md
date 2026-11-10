@@ -1,5 +1,5 @@
 # Capítulo 70: «Cousins»
-- **Archivo:** `borradores/cap-70-cousins.md` · **Palabras:** ~4.050 · **Punto de vista:** Lyra · **Fecha:** del 8 al 17 de junio de 1996.
+- **Archivo:** `borradores/cap-70-cousins.md` · **Palabras:** ~4.420 · **Punto de vista:** Lyra · **Fecha:** del 8 al 17 de junio de 1996.
 
 ## Escenas
 1. **El catálogo** (mar. 11). Narcissa responde con limón, pág. 31 de un catálogo de semillas: Sirius estará en el extremo del Cobb, en Lyme, **el 18 a mediodía**. Su búho tardó tres días en encontrarle. Ella irá a la modista de Charmouth, a pie. **«I shall tell him that it was about Regulus. It will even be true.»** *Bella came in as I was answering him, to borrow the wax… sitting with me in the mornings.*
@@ -21,5 +21,7 @@ El anillo vuelve al dedo. La cinta verde se quita. La oferta de Lucius: si Potte
 ## Forma
 Empieza con un alivio y acaba en dos palabras.
 
-## Romance (7 de noviembre)
+## Romance (7–10 de noviembre)
 La tarta: él no entiende nada («It’s the same squiggle»), «I didn’t mean stop», **«Which bit did you like?»**, «I want that one again». Ella señala dónde dejó de ser dos preguntas. La línea, en glaseado porque no queda papel. Aritmancia: Harry no la cursa; Lyra lleva tres años.
+
+Ella deja la pluma junto al papel y se inclina sobre el plato; él se acerca. Beso breve, miga en la barbilla y retirada de la miga con el pulgar. El diálogo del examen, la línea en el glaseado y el remate de ella quedan intactos.

@@ -2,7 +2,7 @@
 
 10 de noviembre de 2026. Punto de recuperación de esta sesión; no sustituye al cuaderno de lector de la otra tarea.
 
-**Estado vigente:** segunda pasada terminada y comprobada por un subagente independiente; cierre y subida de la rama en curso. El apartado final recoge las decisiones y los recuentos actuales. Las secciones anteriores documentan la primera aplicación y su entrega.
+**Estado vigente:** segunda pasada terminada y comprobada por un subagente independiente, subida a la rama en `9695e80`. El autor ha autorizado expresamente integrarla también en main. Manuales, continuidad y estado preparados para esa integración; el apartado final recoge las decisiones y los recuentos actuales. Las secciones anteriores documentan la primera aplicación y su entrega.
 
 ## Estado comprobado antes de escribir
 
@@ -112,4 +112,6 @@ Los cambios derivados de Claude conservan el fraude de *Trophies*, el portazo de
 - `git diff --check` correcto; comillas equilibradas, sin comillas ni apóstrofos rectos nuevos dentro de palabras. Comparación literal de reservas, inmovilización, cinco minutos, papel, pub, domingo, negativa y salida de la colina contra `593e142`: intactos. No hay cambios en 1–40.
 - Cotejo mecánico final con `herramientas/ngramas.py`, quince capítulos contra 92 referencias: una coincidencia nueva de cinco palabras, «before he could say anything», giro corriente. La referencia no se usó como modelo de escritura.
 
-La autorización anterior para subir se limitaba a la rama. Se ha consultado expresamente si esta nueva petición incluye integrar en main; no se presume la respuesta. Mientras tanto se completa el commit y la subida a `codex/revision-romance-inedito`. El estado y los manuales compartidos no se han presentado como actualizados en main.
+La segunda pasada y el informe quedaron subidos y verificados en **`9695e80d8dc52a1657752bfe4eaf6d3be7e7ff6c`**. Después, al consultar el alcance de la integración, el autor respondió expresamente **«Sí, integrar también en main»**. Esta autorización levanta para esta entrega la prohibición original de hacerlo: no vuelve a estar pendiente de aprobación.
+
+Para integrar se actualizan los quince manuales (extensión aproximada y hechos de los encuentros), dos descripciones antiguas de elipsis en la continuidad y el estado de trabajo. No se modifica la prosa revisada. La integración se prepara desde esta misma carpeta mediante avance ordinario del remoto main, sin cambiar de rama ni manipular la carpeta principal. La referencia remota de main comprobada antes del cierre era `593e142`; el commit final y la verificación de ambas ramas permiten comprobar la entrega.

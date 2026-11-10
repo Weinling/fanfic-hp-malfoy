@@ -1,5 +1,5 @@
 # Capítulo 62: «The List»
-- **Archivo:** `borradores/cap-62-the-list.md` · **Palabras:** ~3.300 · **Punto de vista:** Lyra · **Fechas:** lunes 18 a jueves 28 de marzo de 1996, y el sábado 30.
+- **Archivo:** `borradores/cap-62-the-list.md` · **Palabras:** ~3.620 · **Punto de vista:** Lyra · **Fechas:** lunes 18 a jueves 28 de marzo de 1996, y el sábado 30.
 
 ## Escenas
 1. **El cajón.** Pide a Harry un encantamiento sin decir para qué («I’m asking»).
@@ -21,3 +21,7 @@ Termina con ella esperando a que pasen.
 
 ## Añadido (5 de noviembre)
 Lyra da a Goyle el destinatario antes de «Is it a nice one?»: Madam Bones, lechuza del colegio. Los que se levantan llevan los pies y el brazo como enseña el grupo.
+
+## Romance (10 de noviembre)
+
+El levantamiento queda registrado como algo que él no ha preguntado, mientras ella tiene las manos en sus hombros; no equivale a renegociar los términos. Después él inicia el beso y ella le sostiene la cara. La hoja de Hopkins permanece en el bolsillo y el «Mine» posterior sigue asustándola; la alegría no borra esa culpa.

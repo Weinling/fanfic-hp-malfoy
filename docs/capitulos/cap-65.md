@@ -1,5 +1,5 @@
 # Capítulo 65: «The Knight»
-- **Archivo:** `borradores/cap-65-the-knight.md` · **Palabras:** ~3.300 · **Punto de vista:** Harry · **Fecha:** domingo 28 de abril de 1996.
+- **Archivo:** `borradores/cap-65-the-knight.md` · **Palabras:** ~3.310 · **Punto de vista:** Harry · **Fecha:** domingo 28 de abril de 1996.
 
 ## Escenas
 1. **La partida.** Lyra trae el ajedrez de Lucius. Harry tapa al rey con un peón. El alfil: «Not *there*. I told him.» El rey: **«He asked us not to say, miss.»**
@@ -16,3 +16,7 @@ La memoria volvió entre enero y Pascua de 1992. Harry usó «Who came?» sin sa
 
 ## Forma
 Termina en una acción corriente.
+
+## Romance (10 de noviembre)
+
+Ella besa deliberadamente boca, pómulo y puente de las gafas antes de abrazarlo; el latido se percibe contra el pecho durante el abrazo. La gratitud de ella y la fractura interior de Harry no se hacen coincidir. El segundo beso de la escalera queda como estaba.

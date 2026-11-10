@@ -1,5 +1,5 @@
 # Capítulo 68: «Ask Me»
-- **Archivo:** `borradores/cap-68-ask-me.md` · **Palabras:** ~4.550 · **Punto de vista:** Harry · **Fecha:** domingo 2 de junio de 1996, víspera de los TIMOs.
+- **Archivo:** `borradores/cap-68-ask-me.md` · **Palabras:** ~4.510 · **Punto de vista:** Harry · **Fecha:** domingo 2 de junio de 1996, víspera de los TIMOs.
 
 ## Escenas
 1. **«I think I ate him.»** Ocho días sin Ron. Harry le cuenta lo del niño. **«What did he taste of?»** Risa que se rompe: llora por sí mismo por primera vez. Ella no dice nada; se sienta en el suelo a su lado.
@@ -17,3 +17,7 @@ La butaca tiene una pata rota. Harry dice «Lyra» sin motivo por primera vez. *
 
 ## Forma
 Sin sombra salvo la que ella nombra. Acaba feliz.
+
+## Romance (10 de noviembre)
+
+El beso en la boca tiene respuesta de ella y manos enlazadas; la nariz obstruida de Harry lo interrumpe. Siguen frente y nudillos, sin una cadena de besos que fallan de blanco. La carrera, la estantería, el calcetín perdido y la alegría permanecen.

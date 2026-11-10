@@ -1,5 +1,5 @@
 # Capítulo 69: «You Were Missed»
-- **Archivo:** `borradores/cap-69-you-were-missed.md` · **Palabras:** ~4.100 · **Punto de vista:** Lyra (el narrador dice «Harry» desde aquí, para siempre) · **Fecha:** lunes 3 a jueves 6 de junio de 1996.
+- **Archivo:** `borradores/cap-69-you-were-missed.md` · **Palabras:** ~4.440 · **Punto de vista:** Lyra (el narrador dice «Harry» desde aquí, para siempre) · **Fecha:** lunes 3 a jueves 6 de junio de 1996.
 
 ## Escenas
 1. **La nota.** Harry baja silbando. En su plato, sin búho, papel de la casa, letra escolar pequeña y clara, sin firma: ***You were missed.*** Sin segunda capa.
@@ -18,3 +18,7 @@ Sirius estuvo en la cueva y vio el cuerpo (26); lo que no tiene es la nota de Re
 
 ## Forma
 Empieza con él silbando; termina bajando de la mano, cada uno con su secreto.
+
+## Romance (10 de noviembre)
+
+Ella responde al beso con los ojos abiertos y lo sigue cuando él se separa un poco para que no sospeche. Se mantiene la mano enlazada en el brazo de la butaca. «Yours» es verdadero; la mentira sobre Draco permanece.

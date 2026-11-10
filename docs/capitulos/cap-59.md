@@ -1,5 +1,5 @@
 # Capítulo 59: «In Public»
-- **Archivo:** `borradores/cap-59-in-public.md` · **Palabras:** ~3.650 · **Punto de vista:** Lyra · **Fechas:** 29 de enero a 15 de febrero de 1996.
+- **Archivo:** `borradores/cap-59-in-public.md` · **Palabras:** ~4.450 · **Punto de vista:** Lyra · **Fechas:** 29 de enero a 15 de febrero de 1996.
 
 ## Escenas
 1. **El odio ensayado.** Gran Comedor: «Yours were all repossessed.» Zabini puntúa: «Six.» Lucius sabe lo de la ventana; nadie más puede saberlo.
@@ -25,5 +25,7 @@ Termina en acción corriente: la tostada, hasta los bordes.
 ## Añadido (5 de noviembre)
 El horario de Hermione deja libres martes y jueves por el grupo de Diggory; el jueves, además, por Snape y Lyra.
 
-## Romance (7 de noviembre)
+## Romance (7–10 de noviembre)
 **Cinco minutos** al acabar la hora de los goblins: primera vez que se saltan el horario de Granger («You needn’t go at once»); él se sienta en el suelo, junto a ella; sin beso. «It was rather more than five minutes, and nobody gave it a mark.» **San Valentín:** tras «For sitting», el papel cruje; «You are not keeping that.» / «I am.»; lo dobla, se lo guarda en el bolsillo de atrás (enlaza con el 60) y se sienta encima: «That’s another ten.»
+
+Durante el estudio él se inclina desde la butaca hacia ella, de rodillas en la alfombra, y la risa interrumpe el beso. En San Valentín ella sigue en el asiento y él en el brazo: mano de él al hombro, oreja y cuello de la ropa de él en las manos de ella. El contacto ocupa dos párrafos antes del papel; los cinco minutos y la coda del bolsillo siguen intactos.
