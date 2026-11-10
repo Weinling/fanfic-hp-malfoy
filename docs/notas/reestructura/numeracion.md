@@ -59,7 +59,8 @@
 | 84 | 90 | The Plainest Hand |
 | 85 | 91 | It’s a Nice One |
 | 86 | 92 | Twenty-Three |
+| 87 | 93 | What I Found |
 
-**Orden de lectura de la tanda:** 73, 74, 75, Interludio 3, 76 a 81, *Year Four* 3, 82 a 86.
+**Orden de lectura de la tanda:** 73, 74, 75, Interludio 3, 76 a 81, *Year Four* 3, 82 a 86, 87 en adelante.
 
 **Orden de lectura desde el 41:** 41, Interludio 2, 42, 43, *Year One* 5 y 6, 44, 44b, 45 a 49, 50, 50b, 50c, 51, 51b, 52, *Year Four* 1, 53 a 60, 60b, 61, 62, *Year Four* 2, 63, 64, 65, 65b, 66 en adelante.

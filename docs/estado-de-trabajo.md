@@ -6,7 +6,7 @@
 
 ## Dónde estamos
 
-- **Escrito:** del 1 al 86 de trabajo (92 del lector), con *Year One* 1 a 6, *Year Four* 1 a 3 y tres interludios. **Publicado hasta el 42 (autor, 10 de noviembre).**
+- **Escrito:** del 1 al 87 de trabajo (93 del lector), con *Year One* 1 a 6, *Year Four* 1 a 3 y tres interludios. **Publicado hasta el 42 (autor, 10 de noviembre).**
 - **Orden de lectura y títulos:** `docs/notas/reestructura/numeracion.md`.
 - **Tanda 73-84 cerrada y criticada** (informes en `docs/notas/criticas-opus/`; guion en `docs/archivo/guiones/`). Termina el 19 de diciembre de 1996: el ojo se abre.
 - **Lectura de Codex del 1 al 78 aplicada** (`docs/notas/criticas-codex/lectura-39-78.md`). El grupo de Diggory ya está en la línea principal; en sexto lo lleva Neville, y Harry está fuera desde el 5 de diciembre.
@@ -14,7 +14,7 @@
 ## Siguiente paso exacto
 
 1. **Romance aplicado:** partes de Claude y Codex, **17 capítulos distintos**. Codex desarrolló 18 encuentros en 15 capítulos y aplicó una segunda pasada tras la lectura de Claude y la crítica de un subagente independiente. Informe: `docs/notas/criticas-codex/critica-independiente-romance-10-nov.md`; decisiones y recuentos: `cuaderno-aplicacion-romance.md`, en la misma carpeta. Manuales y continuidad actualizados. **El autor autorizó integrar la entrega revisada en main el 10 de noviembre.** Se conserva la diferencia entre el tramo anterior al 73 y los dos besos posteriores. **Sin decidir:** retirar cinco encuentros (trabajo 60, 61, primer beso del 62, 64 y segundo del 65); sus textos no se han cambiado. La inmovilización del 71 tampoco se ha retocado.
-2. **Guion de la tanda 87-98 escrito y pendiente de aprobar:** `borradores/guion-tanda-87-98.md`. Doce capítulos, del baño (19 de diciembre de 1996) a la muerte de Dumbledore en la Mansión (23 de marzo de 1997). El autor delegó las decisiones de fondo; están en `decisiones.md`, §12. Retoques de coherencia hechos: una frase del 43 (Ginny) y otra del 74 (el secreto solo se puede decir). **Siguiente:** si el autor aprueba el guion, escribir el 87; antes, leer enteros del 73 al 83, que solo conozco por su guion.
+2. **Tanda 87-98 en marcha.** Guion corregido con el informe del autor: `borradores/guion-tanda-87-98.md`. Decisiones de fondo: `decisiones.md`, §12. **Escrito: el 87** (*What I Found*), con manual y continuidad. **Siguiente: el 88** (*Clauses*, Lyra, 20 y 21 de diciembre). Antes de escribirlo, leer enteros el 78, el 80 y el 81; del 73 al 83 solo están leídos enteros el 73, el 79 y el 82. **Críticos: por tandas**, al acabar el 98 (`CLAUDE.md`).
 3. El autor lee la tanda cuando quiera. Si cambia algo de fondo, manda eso.
 
 **Para abrir una sesión nueva:** `docs/notas/reestructura/prompt-apertura.md`.
@@ -32,6 +32,6 @@
 
 ## Espera al autor
 
-- Aprobar o corregir el guion de la tanda 87-98 y el §12 de las decisiones.
+- Nada bloquea. El guion y el §12 se pueden corregir en cualquier momento.
 
 - La decisión §7 (el otro Harry perdió) sigue en pie, con lo que añade el §10. La tarea nocturna está desactivada.
