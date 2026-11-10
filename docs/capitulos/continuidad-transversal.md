@@ -452,6 +452,8 @@ En orden de lectura. Las fechas marcadas «deducida» no las da el texto: salen 
 
 - **90 (20 dic. 1996-5 ene. 1997):** ver `cap-90.md`. Harry lleva un bezoar. Ron lo sabe y sigue sentándose; Ginny, buscadora. Lupin: James y «I’d sit on you»; le enseña a respirar para la canción. Ginny sabe que fue Lyra y que no se puede decir en voz alta. La Sala vuelve a dar una sola butaca.
 
+- **91 (enero de 1997):** ver `cap-91.md`. Desde Crabbe. Lyra le entrega una confesión firmada sobre Greer; Crabbe sabe que la Marca oye y pone una condición. Alquila el local sola, con dinero de Zabini y de Nott. Le dice a Susan Bones que la letra es suya.
+
 - **Pobble es elfa** (2, 26, 36, 56, 74). **Hermione exigió el silencio ante Ron** y lo escribió ella (51, 83). Crouch padre estuvo controlado de octubre de 1994 a junio de 1995.
 
 ## 5. Fichas vivas
