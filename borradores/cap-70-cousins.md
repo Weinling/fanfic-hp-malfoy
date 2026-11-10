@@ -134,7 +134,7 @@ She had gone a little warm. It was absurd; he had understood practically nothing
 
 She put the quill beside the paper and leant across the plate. Harry came forward to meet her, with a crumb on his chin and the sun along the side of his glasses, and she kissed him on the mouth.
 
-It was only a small one. She could feel him smiling before she drew back. Her fingers were resting against his jaw, and she brushed off the crumb with her thumb; he looked down at it, and up at her, still smiling. She had a pain in her chest from laughing, and the plate with her beautiful last line was between their knees; and she thought, as clearly as she’d ever thought anything: *I got all of it. There isn’t one thing wrong.*
+It was only a small one. She could feel him smiling before she drew back. Her fingers were resting against his jaw, and she brushed off the crumb with her thumb; he looked down at it, and up at her. She had a pain in her chest from laughing, and the plate with her beautiful last line was between their knees; and she thought, as clearly as she’d ever thought anything: *I got all of it. There isn’t one thing wrong.*
 
 ⁂
 

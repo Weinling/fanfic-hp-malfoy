@@ -148,7 +148,7 @@ She walked up to him. It was only about a yard. She came quite close, closer tha
 
 Her lips were very cold. He felt them shake against his, felt the uneven pressure as she tried to stay high enough, and went lower with her. The split in his lip stung. He shut his eyes and kissed her back, holding the sock inside his pocket so tightly that his nails went into his palm.
 
-It wasn’t long. Her fingers loosened at his collar, and for a few seconds he could feel her mouth answer his. Then her heels came down. Their mouths parted, and he opened his eyes, still bent towards her, with his hands in his pockets. He’d have stood there till he died.
+It wasn’t long. It didn’t feel like anything he’d been told. It felt like somebody who has come a long way to set something down, and can’t stop, and can’t stay. Her fingers loosened at his collar, and for a few seconds he could feel her mouth answer his. Then her heels came down. Their mouths parted, and he opened his eyes, still bent towards her, with his hands in his pockets. He’d have stood there till he died.
 
 She let go of the collar. She smoothed it down, once.
 

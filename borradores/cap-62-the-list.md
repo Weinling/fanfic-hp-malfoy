@@ -156,7 +156,7 @@ There were fourteen people standing in the Great Hall, and one of them had turne
 
 He picked her up.
 
-He had been waiting behind the door. She had not got it properly shut. It was a quarter past ten, on the last night of term. She had come straight up from Professor Snape, who had said nothing whatever about the morning, and had gone through her head twice as hard as usual. It was not on any timetable; and he took her round the middle and lifted her clean off the bald rug, and went round twice with her, knocking over the tea caddy, and put her down in the chair, and fell on top of the arm of it, laughing. She had never heard him make such a noise. He looked about nine.
+He had been waiting behind the door. She had not got it properly shut. It was a quarter past ten, on the last night of term. She had come straight up from Professor Snape, who had said nothing whatever about the morning, and had gone through her head twice as hard as usual. It was not on any timetable; and he took her round the middle and lifted her clean off the bald rug, and went round twice with her, knocking over the tea caddy, and put her down in the chair, and fell on top of the arm of it, laughing. He hadn’t asked. She had both hands on his shoulders. She had never heard him make such a noise. He looked about nine.
 
 “*Fourteen!*” said Potter. “Did you *see*? He got *up!* Hopkins! I thought I was going to be sick. The whole— Did you see McGonagall? Did you see *Filch?* He’s gone and taken all her decrees down himself. He’s got them in a wheelbarrow. Seamus says she’ll get five years. Dumbledore’s given the whole school a holiday on Saturday. It *is* a holiday on Saturday.”
 

@@ -228,11 +228,11 @@ She went to the door. At the door she stopped, as she always stopped at doors in
 
 She stood with her hand on the door for about as long as it took to know he was lying.
 
-Then she came back across the room. She had hold of him by the front of his robes before he had got his mouth shut. He was still trying to say something when she kissed him; she felt the word stop against her lips, and his head bent the rest of the way.
+Then she came back across the room. She had hold of him by the front of his robes before he had got his mouth shut. He was still trying to say something when she kissed him as she would have slammed something; she felt the word stop against her lips, and his head bent the rest of the way.
 
 His marked hand came up and stopped an inch from her hair. She could see it out of the corner of her eye. His other hand had found her sleeve, and he was kissing her back now, and neither of those things made her any less angry. She pulled him closer by the cloth. It was the first time since June that she had gone back for anything.
 
-She broke the kiss and put her forehead against his collar. He was breathing unevenly. Her own hands had pulled his robes into two hard twists.
+She broke the kiss. He was breathing unevenly. Her own hands had pulled his robes into two hard twists.
 
 “Liar,” said Lyra, against his collar.
 

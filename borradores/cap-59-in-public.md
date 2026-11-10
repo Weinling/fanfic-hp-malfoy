@@ -282,13 +282,9 @@ She looked at him. She looked at him sitting on her Arithmancy, with ink on his 
 
 “Ten points from Gryffindor,” said Lyra, with what voice she could find. She took him by the ears. “For sitting.”
 
-His smile faltered under her hands. He glanced at her mouth, then met her eyes, and she felt heat come into her face all over again. She had been meaning to make a remark. She drew his head down instead.
+He leant sideways from the arm of the chair as she drew him down. His lips met hers, and she felt the smile go out of them. One hand got free of the paper and found the back of her shoulder. She let go of an ear to catch his collar; he pulled her closer, and her fingers stopped trying to straighten the cloth.
 
-He leant sideways from the arm of the chair, and she kept hold until his mouth met hers. One hand got free of the paper and found the back of her shoulder. She let go of an ear to catch his collar, and he drew her closer. His lips pressed more firmly against hers, and her fingers stopped trying to straighten the cloth.
-
-He was kissing her back now, quite seriously. She could feel the pressure of his fingers through her robes and his chest moving against her arm; when she opened her eyes, his were shut. She shut hers again. She had said it, and he had written it down, and she was still holding him by one ear, and she wanted to stay exactly where she was.
-
-His mouth began to smile again. She drew back enough to look at him, but he followed, and the corner of his glasses touched her forehead. She felt his breath go against her cheek before either of them managed a word.
+His eyes were shut when she opened hers. She could see the dark ink on his lip, close enough to wipe off; she left it there and kissed him again. His fingers tightened at her shoulder. When she finally lifted her head, he followed, and the corner of his glasses touched her forehead. Neither of them spoke.
 
 Nobody remembered the paper until it crackled. It had got between them, and it had not been improved by the experience. He found it under his elbow, and looked at it in alarm, and began to smooth it out on his knee with the side of his hand.
 

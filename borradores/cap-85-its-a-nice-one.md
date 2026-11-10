@@ -106,9 +106,7 @@ She saw it reach him. His chest had stopped. He stood two steps above her with h
 
 He didn’t. He’d shut his mouth. He pushed his hands down, as far as they would go, so that she saw his shoulders move.
 
-She went up the two steps. She took hold of the edge of his collar, between one grey woollen finger and thumb, and she stood on her toes. His lips were chapped and cold. She put her mouth against his, felt him tremble, and held the collar just long enough for him to turn his head a little and kiss her back.
-
-It was a very small one. She had kept her eyes shut for scarcely a breath. When she opened them his face was still close, his mouth unsteady, and neither of them had made any sound. There wasn’t a thing to hear.
+She went up the two steps. She took hold of the edge of his collar, between one grey woollen finger and thumb, and she stood on her toes. His lips were chapped and cold, and shaking against hers. It was a very small one, and it lasted for as long as a snowflake lasts on a hot stove. She could feel him not breathing. Neither of them made any sound. There wasn’t a thing to hear.
 
 She let go. She smoothed it down, once. She went on past him, up the stairs, with her cloak dripping, and she didn’t look back. At the turn she noticed she’d got her left hand pressed flat against her ribs. She was smiling. She could feel it on her face, like something that had been left out in the rain and had started, very stiffly, to dry.
 

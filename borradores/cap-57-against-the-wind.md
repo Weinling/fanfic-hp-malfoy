@@ -212,7 +212,7 @@ It was properly grey now. There was a thin line of something along the bottom of
 
 He had time to see her looking at his mouth. He bent towards her, and she pulled him down the rest of the way.
 
-Her nose was like ice against his cheek. Her lips were cold too, and he started; she made an impatient movement with her head and kissed him again before he had worked out what to do with his arms. He got them round her. His fingers would hardly bend. The first handful of cloak slid out of them, and he caught it further up, nearer her shoulders.
+Her nose was like ice against his cheek, and she was furious; he could feel it through two cloaks. Her lips were cold too, and he started; she made an impatient movement with her head and kissed him again before he had worked out what to do with his arms. He got them round her. His fingers would hardly bend. The first handful of cloak slid out of them, and he caught it further up, nearer her shoulders.
 
 She was pushing herself up in the snow, with her boots against his and the fastener of his cloak caught between them. He moved his head and found her mouth properly. For a few seconds he could feel her kissing him back and nothing else, until he had to stop to breathe. She stayed close enough that the next breath touched her cheek.
 
@@ -220,9 +220,9 @@ She was pushing herself up in the snow, with her boots against his and the faste
 
 “I’m aware of it.”
 
-He would have laughed if she had left him time. She drew him down again. He shut his eyes and held on, with his hands closed in the back of her cloak. She pulled when he began to straighten, still furious, and he stayed bent over her. Then her hands loosened a little at his collar, and her heels settled into the snow, and he went lower with her, because he could not bear to have it end just because she couldn’t reach.
+He would have laughed if she had left him time. She drew him down again. He shut his eyes and held on, with his hands closed in the back of her cloak. She pulled when he began to straighten, and he stayed bent over her. Then her hands loosened a little at his collar, and her heels settled into the snow. He bent his knees to stay close, because he could not bear to have it end just because she couldn’t reach.
 
-When it did end, she put her forehead against the front of his cloak. His arms stayed round her. Her hair was damp against the side of his face, and his eyes were wet, which he put down to the wind.
+When it did end, she put her forehead against the front of his cloak. He was holding on to her, with both hands, hard, by the back of her cloak, and she had let him. Her hair was damp against the side of his face, and his eyes were wet, which he put down to the wind.
 
 She stepped back. She looked at his collar, and turned it down, and pressed it flat.
 

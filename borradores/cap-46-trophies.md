@@ -188,7 +188,7 @@ She stayed where she was for what she was prepared to describe as a moment. Nobo
 
 She tipped her head back instead, very carefully, until she could reach, and put her lips against the corner of his jaw. His skin was warm. She stayed there for one small, thoroughly unnecessary second, with her mouth just below his cheek.
 
-He went on breathing. She let her head down again, rather hot in the face, and shut her eye.
+Nothing happened. He went on breathing. She let her head down again, rather hot in the face, and shut her eye.
 
 “Forty-five,” said Potter, not moving.
 

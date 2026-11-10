@@ -106,7 +106,7 @@ It was the most extraordinary thing. Nobody had ever cared where she had been. S
 
 Crabbe had been one of the four. It came back to her, for some reason, as she said it. She had been at the end of the bench with her Potions notes, and Nott had been showing her something on the page; and when Lyra came by he had got up, as he always did, to take her bag. Crabbe had looked at her. She had looked as one looks at a bill. Lyra had no idea how long the two of them had been sitting there.
 
-She took him by the front of his jumper, and looked at him down her nose. “*Mine*,” she said, as one might to a dog that had brought in something from the garden.
+She took him by the front of his jumper, and looked at him down her nose. “*Mine*,” she said.
 
 It was what they did. His mouth went up at the corner.
 

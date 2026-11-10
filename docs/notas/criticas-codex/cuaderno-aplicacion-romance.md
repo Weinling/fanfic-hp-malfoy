@@ -2,6 +2,8 @@
 
 10 de noviembre de 2026. Punto de recuperación de esta sesión; no sustituye al cuaderno de lector de la otra tarea.
 
+**Estado vigente:** segunda pasada terminada y comprobada por un subagente independiente; cierre y subida de la rama en curso. El apartado final recoge las decisiones y los recuentos actuales. Las secciones anteriores documentan la primera aplicación y su entrega.
+
 ## Estado comprobado antes de escribir
 
 - Carpeta exclusiva: `/Users/eden/.codex/worktrees/revision-romance-inedito/fanfic-hp-malfoy`.
@@ -62,7 +64,7 @@ Son **18 encuentros en 15 capítulos modificados por Codex**. Comprobado por dif
 - [x] Leer en frío los cambios, comprobar posiciones, secretos, puntos, tics y crecimiento.
 - [x] Registrar recuento real y preparar entrega con rutas explícitas. El commit de aplicación y su rama se comprueban en el historial de git; el cerrojo propio se retira al terminar.
 
-Al entregar, distinguir aplicación narrativa local de fusión/publicación. No afirmar que los capítulos están en main ni que recibieron una nueva crítica externa.
+En aquella primera entrega se distinguió aplicación narrativa local de fusión/publicación; todavía no había una nueva crítica independiente. No confundirla con la segunda pasada descrita al final.
 
 ## Comprobación de la aplicación
 
@@ -81,3 +83,33 @@ La revisión de esta aplicación es propia, sin puntuaciones ni nueva crítica O
 La aplicación narrativa está guardada en el commit **`da87893`**, en `codex/revision-romance-inedito`. La revisión automática bloqueó la primera subida por falta de autorización explícita. El **10 de noviembre**, el autor autorizó subir únicamente esta rama a `https://github.com/Weinling/fanfic-hp-malfoy.git`, sin tocar main, y pidió el mensaje de entrega para Claude.
 
 **Rama subida y verificada con `git ls-remote`.** La primera comprobación devolvió `809079befb1cc597c77d7befde02635e624537ea` para la rama y `593e142c9bc9b2b12aed23032d6572bf41d4b4e3` para main. Este cierre documental se añade después a la misma rama. Main no se ha modificado ni se ha fusionado la entrega. El siguiente paso es que Claude revise la aplicación real en los capítulos, usando este cuaderno como índice; los laboratorios anteriores no sustituyen ese texto. La adopción en main sigue pendiente de decisión del autor.
+
+## Segunda pasada y crítico independiente
+
+El autor trajo la revisión de Claude y pidió expresamente a Codex aplicar los ajustes, hacerse cargo de la parte que Claude no evalúa, realizar las subidas y usar un subagente crítico con contenido específico. Base de esta pasada: **`ae84600`**. El árbol estaba limpio. Se recuperaron este cuaderno, las restricciones y los pasajes actuales y anteriores antes de modificar.
+
+Alcance: nueve capítulos ya incluidos en los quince, sin ampliar el conjunto. Recuperar el pie del fraude (46), el portazo y una salida sin doble collar (48), el remate de iniciativa y menos explicación en el beso (49), la furia y «that she had let him» (57), condensar San Valentín manteniendo contacto y respuesta (59), variar el agarre nuevo de orejas (68), quitar una sonrisa reiterada (70), restituir la imagen de la despedida sin perder el calcetín y el contacto (76), y devolver la brevedad y la inmovilidad de Harry en «Bacon» (85). No retirar besos ni alterar las cinco reservas.
+
+La crítica se encargó a un subagente independiente, sin historial heredado, con dieciocho encuentros y contexto narrativo continuo: 15.352 palabras, en orden, con líneas y hashes de sus capítulos. No recibió el análisis de Claude ni este cuaderno, ni guiones o manuales. Su informe está en **`critica-independiente-romance-10-nov.md`**, en esta carpeta. Es una revisión de extractos contextualizados, no una nueva lectura completa de quince capítulos ni una crítica Opus. El crítico solo escribió su informe; no modificó capítulos ni hizo operaciones de git.
+
+### Resultado y decisiones
+
+El crítico concluyó que el contacto romántico se reconoce y se siente en el paquete, con registros distintos y sin necesidad de alargarlo sistemáticamente. Identificó, por su cuenta, una acumulación de besos que fallan antes de acertar, una tensión entre el levantamiento de *The List* y los términos anteriores, y un símil de mascota que debilitaba la posesividad. No pidió suprimir las sensaciones ni imponer una conducta siempre atenta a Harry.
+
+Se aplicaron sus ajustes de *In Fives* (el brazo ya no falla además del bajo y de la horquilla), *Continuous* (sin símil del perro) y *Ask Me* (frente y nudillos, sin catálogo de objetivos faciales fallidos). En *The Knight*, los besos en pómulo y gafas son deliberados, no otro error al buscar la boca. Se conservan risa, contacto y la diferencia entre la felicidad de Lyra y la fractura interior de Harry.
+
+La objeción sobre *The List* se comprobó contra el propio arranque del capítulo, que recuerda «Nothing moves without asking». Se añadió tras el levantamiento: **«He hadn’t asked. She had both hands on his shoulders.»** Se deja la infracción y la participación de ella sin convertirlas en permiso retroactivo. No se adoptó «She ought to mind»: prescribir qué debería sentir reduciría la ambigüedad pedida por el autor.
+
+El crítico releyó los cinco pasajes ajustados y el contexto añadido de *The List*, y dejó una segunda comprobación al final del mismo informe. Su conclusión es que los arreglos resuelven sus objeciones sin borrar entusiasmo, añadir una imposibilidad corporal ni requerir otra ronda obligatoria. La crítica inicial conserva su snapshot; no se ha reescrito para fingir que ya describía el resultado final.
+
+Los cambios derivados de Claude conservan el fraude de *Trophies*, el portazo de *Where the Sea Is*, «Nobody had told her to stop», la furia y «that she had let him» en *Against the Wind*, la imagen de despedida de la colina y la nieve y respiración detenida de «Bacon». En este último Harry no prolonga el beso. San Valentín tiene dos párrafos de contacto en vez de cuatro: no se sustituyó por un resultado abstracto. No se prohibieron las miradas a la boca; se quitaron dos anticipos redundantes de esta realización concreta.
+
+### Recuentos y verificación final
+
+- **Esta segunda pasada:** doce capítulos ya incluidos en la aplicación; lectores 47, 49, 50, 61, 63, 67, 70, 72, 74, 76, 82 y 91. Son los nueve previstos más tres ajustes derivados de la crítica (trabajo 62, 65 y 66).
+- **Codex, conjunto de ambas pasadas:** quince capítulos y dieciocho encuentros trabajados; con los ocho capítulos de Claude, **diecisiete capítulos distintos**. El censo de encuentros y las cinco reservas no cambian.
+- **Longitud:** segunda pasada, −150 palabras; aplicación completa sobre Claude, +1.411. *In Fives*: 4.145 palabras. *In Public*: 4.445. Recuento por espacios, incluido el título; no se recortaron escenas de los demás personajes para alcanzar un techo orientativo.
+- `git diff --check` correcto; comillas equilibradas, sin comillas ni apóstrofos rectos nuevos dentro de palabras. Comparación literal de reservas, inmovilización, cinco minutos, papel, pub, domingo, negativa y salida de la colina contra `593e142`: intactos. No hay cambios en 1–40.
+- Cotejo mecánico final con `herramientas/ngramas.py`, quince capítulos contra 92 referencias: una coincidencia nueva de cinco palabras, «before he could say anything», giro corriente. La referencia no se usó como modelo de escritura.
+
+La autorización anterior para subir se limitaba a la rama. Se ha consultado expresamente si esta nueva petición incluye integrar en main; no se presume la respuesta. Mientras tanto se completa el commit y la subida a `codex/revision-romance-inedito`. El estado y los manuales compartidos no se han presentado como actualizados en main.
