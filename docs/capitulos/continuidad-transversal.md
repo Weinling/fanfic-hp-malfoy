@@ -454,6 +454,8 @@ En orden de lectura. Las fechas marcadas «deducida» no las da el texto: salen 
 
 - **91 (enero de 1997):** ver `cap-91.md`. Desde Crabbe. Lyra le entrega una confesión firmada sobre Greer; Crabbe sabe que la Marca oye y pone una condición. Alquila el local sola, con dinero de Zabini y de Nott. Le dice a Susan Bones que la letra es suya.
 
+- **92 (6 ene.-14 feb. 1997):** ver `cap-92.md`. Notas en tiras, puntuadas y quemadas. Harry hace el corte a propósito para enseñarle la canción; ella desafina. Ginny recibe su hora por escrito y la hechiza. Amortentia en el té: él no la bebe. Contrato de nueve cláusulas para el sábado 15; la novena es de él.
+
 - **Pobble es elfa** (2, 26, 36, 56, 74). **Hermione exigió el silencio ante Ron** y lo escribió ella (51, 83). Crouch padre estuvo controlado de octubre de 1994 a junio de 1995.
 
 ## 5. Fichas vivas
