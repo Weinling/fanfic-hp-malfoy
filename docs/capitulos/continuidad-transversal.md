@@ -456,6 +456,8 @@ En orden de lectura. Las fechas marcadas «deducida» no las da el texto: salen 
 
 - **92 (6 ene.-14 feb. 1997):** ver `cap-92.md`. Notas en tiras, puntuadas y quemadas. Harry hace el corte a propósito para enseñarle la canción; ella desafina. Ginny recibe su hora por escrito y la hechiza. Amortentia en el té: él no la bebe. Contrato de nueve cláusulas para el sábado 15; la novena es de él.
 
+- **93 (15 feb. 1997):** ver `cap-93.md`. Dumbledore da el bombón; quedan veintidós. En el local de Greer, ella toma un sexto con el Felix dentro. El ojo duerme tres o cuatro minutos: Harry tiene el secreto de la Mansión, el precio de «Ask me» y lo de Greer. «Not yet.» Bezoar. Snape llega y se guarda el resto.
+
 - **Pobble es elfa** (2, 26, 36, 56, 74). **Hermione exigió el silencio ante Ron** y lo escribió ella (51, 83). Crouch padre estuvo controlado de octubre de 1994 a junio de 1995.
 
 ## 5. Fichas vivas
