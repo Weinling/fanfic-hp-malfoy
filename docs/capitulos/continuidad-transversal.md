@@ -448,6 +448,8 @@ En orden de lectura. Las fechas marcadas «deducida» no las da el texto: salen 
 
 - **88 (20-21 dic. 1996):** ver `cap-88.md`. «I raised my wand first.» La cuchara; Bode confesado; primeros papeles; el voto contra sí mismo, rechazado por cláusulas; «Teach me the song.» Draco elige volver a casa: «I can’t fix that.» «Pockets» ha terminado.
 
+- **89 (21 dic. 1996-5 ene. 1997):** ver `cap-89.md`. Riddle sabe que el ojo duerme cuando ella está muriéndose. Toca el recuerdo de Harry cantando: «That was four.» Draco, paje en la Mansión; no vuelve al colegio. La rata nunca entró en el cuarto: Lyra lo deduce sola. Orden nueva: traer a Harry el sábado 22 de marzo, o vencen lo suyo y lo de su madre.
+
 - **Pobble es elfa** (2, 26, 36, 56, 74). **Hermione exigió el silencio ante Ron** y lo escribió ella (51, 83). Crouch padre estuvo controlado de octubre de 1994 a junio de 1995.
 
 ## 5. Fichas vivas

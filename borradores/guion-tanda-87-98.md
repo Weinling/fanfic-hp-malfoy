@@ -344,3 +344,10 @@ Lo que he leído para hacerlo: el 84, el 85 y el 86 enteros; el 43 entero; del 7
 | Dónde está el colmillo | Interludio 2 y 57 |
 
 **Para la tanda siguiente:** qué se cuenta de la muerte de Dumbledore; Crabbe y el papel; Susan; Ron vuelve y con él el claro; Abraxas, el libro y la línea de Greer; la varita ganada de vuelta; Privet Drive y la alacena; el 30 de julio.
+
+## 7. Cambios al escribir (mandan sobre lo de arriba)
+
+- **87:** el orden es baño, Pomfrey, McGonagall, invernadero y Dumbledore. Dumbledore sabía del encargo desde julio. Harry le acusa con la otra vida (el collar, el hidromiel) y Dumbledore le devuelve el cuaderno.
+- **88:** el voto se rechaza; él se guarda la hoja. Los papeles salen del cuaderno negro, y ella ve el dorso.
+- **89:** Riddle **ya sabe que el ojo duerme cuando ella está a punto de morir.** Mira en su cabeza el intervalo del baño y solo encuentra a Harry cantando; ese recuerdo deja de sentirse («That was four»). Bellatrix no quiere que le cierren su corte; tiene celos de que el de Lyra sea más largo. Snape dice ante todos que cerró la herida y que enseña a Potter los martes. La prueba de que la rata no entró es la pregunta de Riddle, un año después: cómo supo el chico dónde estaba la diadema. Lyra no puede decírselo a nadie en voz alta; Narcissa se lo hace saber con la ropa blanca. Draco se queda de paje y manda un recado a Neville: seguirá habiendo cuarenta mandrágoras.
+- **Consecuencia para el 93 y el 94:** como Riddle conoce esa propiedad del ojo, el 15 de febrero oirá un segundo silencio y sabrá que ella estuvo muriéndose. Hace falta una versión para él. **Lo que se dice en voz alta antes de que el ojo se cierre es una chica que se come, por pena, un bombón de su amiga muerta, y un chico que llega tarde a impedirlo.** Lo ensayan por papel. Snape, que llega al final, es quien se lo cuenta a Riddle así, y Riddle lo cree porque le conviene: el chico la ha salvado otra vez y la seguirá adonde sea.

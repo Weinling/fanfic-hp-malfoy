@@ -6,7 +6,7 @@
 
 ## Dónde estamos
 
-- **Escrito:** del 1 al 88 de trabajo (94 del lector), con *Year One* 1 a 6, *Year Four* 1 a 3 y tres interludios. **Publicado hasta el 42 (autor, 10 de noviembre).**
+- **Escrito:** del 1 al 89 de trabajo (95 del lector), con *Year One* 1 a 6, *Year Four* 1 a 3 y tres interludios. **Publicado hasta el 42 (autor, 10 de noviembre).**
 - **Orden de lectura y títulos:** `docs/notas/reestructura/numeracion.md`.
 - **Tanda 73-84 cerrada y criticada** (informes en `docs/notas/criticas-opus/`; guion en `docs/archivo/guiones/`). Termina el 19 de diciembre de 1996: el ojo se abre.
 - **Lectura de Codex del 1 al 78 aplicada** (`docs/notas/criticas-codex/lectura-39-78.md`). El grupo de Diggory ya está en la línea principal; en sexto lo lleva Neville, y Harry está fuera desde el 5 de diciembre.
@@ -14,7 +14,7 @@
 ## Siguiente paso exacto
 
 1. **Romance aplicado:** partes de Claude y Codex, **17 capítulos distintos**. Codex desarrolló 18 encuentros en 15 capítulos y aplicó una segunda pasada tras la lectura de Claude y la crítica de un subagente independiente. Informe: `docs/notas/criticas-codex/critica-independiente-romance-10-nov.md`; decisiones y recuentos: `cuaderno-aplicacion-romance.md`, en la misma carpeta. Manuales y continuidad actualizados. **El autor autorizó integrar la entrega revisada en main el 10 de noviembre.** Se conserva la diferencia entre el tramo anterior al 73 y los dos besos posteriores. **Sin decidir:** retirar cinco encuentros (trabajo 60, 61, primer beso del 62, 64 y segundo del 65); sus textos no se han cambiado. La inmovilización del 71 tampoco se ha retocado.
-2. **Tanda 87-98 en marcha.** Guion corregido con el informe del autor: `borradores/guion-tanda-87-98.md`. Decisiones de fondo: `decisiones.md`, §12. **Escritos: el 87** (*What I Found*) **y el 88** (*Clauses*), con manual y continuidad. **Siguiente: el 89** (*When It Falls Due*, Lyra, Navidad en la Mansión). Antes de escribirlo, leer enteros el 74, el 75 y el 56, y el interludio 3. Del 73 al 83 están leídos enteros el 73, el 78, el 79, el 81 y el 82; el 80 no. **Críticos: por tandas**, al acabar el 98 (`CLAUDE.md`).
+2. **Tanda 87-98 en marcha.** Guion corregido con el informe del autor: `borradores/guion-tanda-87-98.md`. Decisiones de fondo: `decisiones.md`, §12. **Escritos: 87, 88 y 89**, con manual y continuidad. **Siguiente: el 90** (*Sit on You*, Harry, Navidad a mediados de enero). Antes de escribirlo, leer enteros el 77 y el 83, y repasar el 65b. El guion tiene al final una sección de cambios hechos al escribir, que manda sobre lo anterior. Del 73 al 83 están leídos enteros el 73, 74, 75, 78, 79, 81 y 82. **Críticos: por tandas**, al acabar el 98 (`CLAUDE.md`).
 3. El autor lee la tanda cuando quiera. Si cambia algo de fondo, manda eso.
 
 **Para abrir una sesión nueva:** `docs/notas/reestructura/prompt-apertura.md`.
