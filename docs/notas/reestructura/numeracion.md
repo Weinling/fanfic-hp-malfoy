@@ -60,6 +60,7 @@
 | 85 | 91 | It’s a Nice One |
 | 86 | 92 | Twenty-Three |
 | 87 | 93 | What I Found |
+| 88 | 94 | Clauses |
 
 **Orden de lectura de la tanda:** 73, 74, 75, Interludio 3, 76 a 81, *Year Four* 3, 82 a 86, 87 en adelante.
 

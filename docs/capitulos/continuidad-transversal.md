@@ -446,6 +446,8 @@ En orden de lectura. Las fechas marcadas «deducida» no las da el texto: salen 
 
 - **87 (19 dic. 1996):** ver `cap-87.md`. Myrtle atestigua; Pomfrey no firma una caída; Harry, fuera del equipo y cada tarde con McGonagall. Draco sabe que Harry cortó a su hermana y se guarda la moneda. Dumbledore sabía del encargo desde julio y de Greer desde el domingo; pide que sea Voldemort quien lo haga. La caja, en su escritorio.
 
+- **88 (20-21 dic. 1996):** ver `cap-88.md`. «I raised my wand first.» La cuchara; Bode confesado; primeros papeles; el voto contra sí mismo, rechazado por cláusulas; «Teach me the song.» Draco elige volver a casa: «I can’t fix that.» «Pockets» ha terminado.
+
 - **Pobble es elfa** (2, 26, 36, 56, 74). **Hermione exigió el silencio ante Ron** y lo escribió ella (51, 83). Crouch padre estuvo controlado de octubre de 1994 a junio de 1995.
 
 ## 5. Fichas vivas
