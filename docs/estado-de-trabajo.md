@@ -17,6 +17,8 @@
 2. **Guion del tramo 4** (del baño a julio de 1997), sobre el texto ya cambiado: `decisiones.md`, §5, §6, §9, §10 y §11, y las notas «Para el tramo 4» del guion archivado. Va después porque se apoya en los peldaños del romance.
 3. El autor lee la tanda cuando quiera. Si cambia algo de fondo, manda eso.
 
+**Para abrir una sesión nueva:** `docs/notas/reestructura/prompt-apertura.md`.
+
 **Antes de cada commit:** `git branch --show-current`. Codex cambió una vez esta carpeta a su rama y un commit cayó ahí. Sus trabajos, en su propia carpeta.
 
 ## Pendiente, sin urgencia
