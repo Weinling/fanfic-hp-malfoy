@@ -168,13 +168,15 @@ Corrige lo anterior donde choque. El razonamiento largo está en `docs/archivo/n
 - **Lo vivido no se reescribe.** Vale para el giratiempo y para el fragmento: no puede entrar en el pasado de su propio mundo.
 - **Un trozo de alma solo puede ir a sí mismo.** Entró por la primera puerta abierta hacia su gemelo: el pasillo de Quirrell.
 - Los dos fragmentos se fundieron, y el que llegó despertó al de aquí. Dosifica los recuerdos. **Hizo un solo corte, el claro,** y nadie lo nota porque un recuerdo que acaba en una muerte acaba de golpe. Al final Harry pierde esos recuerdos porque nunca fueron suyos.
-- **El fragmento guarda la puerta.** Voldemort mira en la cabeza de Harry a través de él, y solo ve lo que el fragmento deja pasar. Por eso en cinco años no ha sabido de la otra vida más que por Pettigrew. Lyra teme esa puerta con razón y sin saber esto.
+- **El fragmento guarda una puerta, con límites.** Por la cicatriz puede retener unas pocas cosas que ha enterrado: la otra vida, y luego el plan de la Mansión. Le cuesta y no lo puede todo. No para a quien mira a Harry a los ojos ni a quien le posee: ahí solo vale la Oclumancia de Harry, y los riesgos pasados fueron reales (el Atrio). Ayuda una vez por ese segundo camino, en un detalle, y se cobra acercándose. Lyra teme esa cabeza con razón.
 
 **Por qué Harry es así, si la otra vida no era distinta.** No hace falta que el otro Harry fuese peor. El nuestro es más cabrón por cuatro causas de este mundo: recibió una guerra a los once años y lleva cinco ganando con ella; Sirius vivió aquí tres años más y premió al James que veía en él; Lyra recompensa parte de lo peor; y, sobre todo, recibió la vida del otro **sin la única escena que la redimía**. Tiene todas las veces que le dejaron ir y le falta la vez que fueron a por él. Sigue siendo cabrón hasta el final: cuando recupere el claro no se vuelve bueno, porque la costumbre ya es suya.
 
 **La sangre, aquí.** Voldemort tiene la de Harry por el escreguto. Si le matara Voldemort en persona, Harry viviría. Es el plan de Dumbledore, y Harry sabe el qué y no el porqué. El fragmento quiere lo contrario: que caiga el cuerpo antes. **Harry mata el cuerpo por decisión propia, sin brazo y sin voz, sabiendo que rompe ese plan.** Con la copa, el anillo y la serpiente ya destruidos, lo que queda de Voldemort va a su única ancla, que es Harry. Dumbledore se deja matar sin defenderse, como Lily, y esa protección dura lo que la de Privet Drive: hasta los diecisiete.
 
-**Varitas.** Una varita cambia de dueño cuando se gana contra su voluntad, y devolverla no lo deshace. Harry ganó la de Lyra el 18 de junio de 1996. La de Saúco no entra: Dumbledore muere por decisión propia y la línea se acaba con él.
+**Varitas.** La lealtad se gana venciendo la voluntad del dueño, y devolver la varita no lo deshace. Harry ganó la de Lyra el 18 de junio de 1996. Una muerte que el dueño elige no vence nada: por eso nadie gana la de Saúco cuando muere Dumbledore, mueva quien mueva el brazo.
+
+**La muerte de Dumbledore.** Qué logra, por qué no basta con detener a Harry y por qué dura hasta los diecisiete: cerrado en el guion de la tanda 87-98, capítulo 98. **Snape** muere de una maldición, por ponerse en medio, y no del Voto, que no tiene plazo.
 
 **El secreto de la Mansión solo se puede decir.** Riddle lo hizo así para oírlo (74, sembrado). Por eso el veneno: es la única vez que ella puede decirlo sin que él lo oiga.
 
