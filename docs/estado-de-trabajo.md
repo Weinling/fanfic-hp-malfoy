@@ -14,7 +14,7 @@
 ## Siguiente paso exacto
 
 1. **Romance aplicado:** partes de Claude y Codex, **17 capítulos distintos**. Codex desarrolló 18 encuentros en 15 capítulos y aplicó una segunda pasada tras la lectura de Claude y la crítica de un subagente independiente. Informe: `docs/notas/criticas-codex/critica-independiente-romance-10-nov.md`; decisiones y recuentos: `cuaderno-aplicacion-romance.md`, en la misma carpeta. Manuales y continuidad actualizados. **El autor autorizó integrar la entrega revisada en main el 10 de noviembre.** Se conserva la diferencia entre el tramo anterior al 73 y los dos besos posteriores. **Sin decidir:** retirar cinco encuentros (trabajo 60, 61, primer beso del 62, 64 y segundo del 65); sus textos no se han cambiado. La inmovilización del 71 tampoco se ha retocado.
-2. **Guion del tramo 4** (del baño a julio de 1997), sobre el texto ya cambiado: `decisiones.md`, §5, §6, §9, §10 y §11, y las notas «Para el tramo 4» del guion archivado. Va después porque se apoya en los peldaños del romance.
+2. **Guion de la tanda 87-98 escrito y pendiente de aprobar:** `borradores/guion-tanda-87-98.md`. Doce capítulos, del baño (19 de diciembre de 1996) a la muerte de Dumbledore en la Mansión (23 de marzo de 1997). El autor delegó las decisiones de fondo; están en `decisiones.md`, §12. Retoques de coherencia hechos: una frase del 43 (Ginny) y otra del 74 (el secreto solo se puede decir). **Siguiente:** si el autor aprueba el guion, escribir el 87; antes, leer enteros del 73 al 83, que solo conozco por su guion.
 3. El autor lee la tanda cuando quiera. Si cambia algo de fondo, manda eso.
 
 **Para abrir una sesión nueva:** `docs/notas/reestructura/prompt-apertura.md`.
@@ -32,6 +32,6 @@
 
 ## Espera al autor
 
-- **La otra vida, el cruce y los agujeros del canon:** propuestas en `docs/notas/reestructura/divergencia-y-mecanica.md`, con cuatro decisiones al final. Sin aprobar. Condicionan el guion del tramo 4.
+- Aprobar o corregir el guion de la tanda 87-98 y el §12 de las decisiones.
 
 - La decisión §7 (el otro Harry perdió) sigue en pie, con lo que añade el §10. La tarea nocturna está desactivada.

@@ -155,6 +155,33 @@ Informe: `docs/notas/criticas-codex/lectura-73-84.md`, §7.
 - **El veneno y «Not yet»:** el consentimiento, sin que la intoxicación sea un examen romántico.
 - **Qué sabe Dumbledore de Greer:** abierto. Snape dijo que diría lo mismo; no se ha visto.
 
+## 12. La otra vida, el cruce y las reglas (10 de noviembre; el autor delegó la decisión)
+
+Corrige lo anterior donde choque. El razonamiento largo está en `docs/archivo/notas/divergencia-y-mecanica.md`.
+
+**La otra vida es la de los siete libros hasta una hora antes del final.** La única diferencia es que Ron y Hermione fueron a buscarle (§10). De ahí salen dos cosas, con las reglas de los libros:
+- **El sacrificio se rompió.** Al oír a Ron levantó la varita (65b). Murió peleando y no protegió a nadie.
+- **Pudo volver y eligió no hacerlo.** La sangre le ataba a la vida, como en los libros. En la estación cogió el tren, porque ellos estaban al otro lado. «No se levantó» es literal.
+- **«Voldemort ganó» es palabra de Riddle.** El fragmento es la criatura de debajo del banco; se fue de allí y no sabe qué pasó después. Afina el §7: murió y no se levantó; lo demás no lo sabe nadie.
+
+**El cruce.** Nadie viajó. Cruzó el fragmento, con lo que grabó en dieciséis años detrás de los ojos de Harry. Dos reglas nuestras, y ninguna más:
+- **Lo vivido no se reescribe.** Vale para el giratiempo y para el fragmento: no puede entrar en el pasado de su propio mundo.
+- **Un trozo de alma solo puede ir a sí mismo.** Entró por la primera puerta abierta hacia su gemelo: el pasillo de Quirrell.
+- Los dos fragmentos se fundieron, y el que llegó despertó al de aquí. Dosifica los recuerdos. **Hizo un solo corte, el claro,** y nadie lo nota porque un recuerdo que acaba en una muerte acaba de golpe. Al final Harry pierde esos recuerdos porque nunca fueron suyos.
+- **El fragmento guarda la puerta.** Voldemort mira en la cabeza de Harry a través de él, y solo ve lo que el fragmento deja pasar. Por eso en cinco años no ha sabido de la otra vida más que por Pettigrew. Lyra teme esa puerta con razón y sin saber esto.
+
+**Por qué Harry es así, si la otra vida no era distinta.** No hace falta que el otro Harry fuese peor. El nuestro es más cabrón por cuatro causas de este mundo: recibió una guerra a los once años y lleva cinco ganando con ella; Sirius vivió aquí tres años más y premió al James que veía en él; Lyra recompensa parte de lo peor; y, sobre todo, recibió la vida del otro **sin la única escena que la redimía**. Tiene todas las veces que le dejaron ir y le falta la vez que fueron a por él. Sigue siendo cabrón hasta el final: cuando recupere el claro no se vuelve bueno, porque la costumbre ya es suya.
+
+**La sangre, aquí.** Voldemort tiene la de Harry por el escreguto. Si le matara Voldemort en persona, Harry viviría. Es el plan de Dumbledore, y Harry sabe el qué y no el porqué. El fragmento quiere lo contrario: que caiga el cuerpo antes. **Harry mata el cuerpo por decisión propia, sin brazo y sin voz, sabiendo que rompe ese plan.** Con la copa, el anillo y la serpiente ya destruidos, lo que queda de Voldemort va a su única ancla, que es Harry. Dumbledore se deja matar sin defenderse, como Lily, y esa protección dura lo que la de Privet Drive: hasta los diecisiete.
+
+**Varitas.** Una varita cambia de dueño cuando se gana contra su voluntad, y devolverla no lo deshace. Harry ganó la de Lyra el 18 de junio de 1996. La de Saúco no entra: Dumbledore muere por decisión propia y la línea se acaba con él.
+
+**El secreto de la Mansión solo se puede decir.** Riddle lo hizo así para oírlo (74, sembrado). Por eso el veneno: es la única vez que ella puede decirlo sin que él lo oiga.
+
+**El libro.** Cobra al morir el deudor. Guarda y no consume, al contrario que el Beso. Quemarlo cancela las deudas y deja libre lo guardado para irse; solo vuelve quien tiene un cuerpo al que volver.
+
+**Lupin vive.** Cedric, sin decidir. **La Piedra** no se usa. **Ginny** no acabó mal: él rompió para protegerla y ella le dejó ir (43, retocado). **La casa del norte** la supo por Dobby, en las dos vidas; se dice cuando quepa.
+
 ## Lo que decido si no dices lo contrario
 
 - **Unos 100 capítulos en total**, más extras: unos 50 más de los que hay ahora, contra los 35 que se estimaban. Son unas 200.000 palabras por escribir.

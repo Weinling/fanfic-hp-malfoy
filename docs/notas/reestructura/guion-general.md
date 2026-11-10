@@ -2,6 +2,8 @@
 
 *Actualización: `decisiones.md`, §10, y `revision-39-72.md` mandan sobre esto donde choquen; suman capítulos y amplían el tramo 3 a catorce.*
 
+*10 de noviembre: el tramo 4 pasa a doce capítulos (87 a 98, `borradores/guion-tanda-87-98.md`) y acaba el 23 de marzo de 1997. `decisiones.md`, §12, fija la otra vida y las reglas.*
+
 *3 de noviembre de 2026. Sale de `decisiones.md` (aprobadas). **Cuanto más lejos, menos fijo:** el tramo 1 va capítulo a capítulo; el 2, por arcos; del 3 en adelante solo hay puntos que no se pueden romper, y todo lo demás se decide al llegar. El final es una dirección, no un compromiso: se trabaja cuando toque.*
 
 ## Recuento

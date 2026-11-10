@@ -80,7 +80,7 @@ Sirius, who looked at him across the table every morning, delighted, and saw som
 
 Dumbledore had been fond of him. Dumbledore had been so fond of him that he had brought him up, over seven years, with great gentleness and every attention, for the purpose of being killed at the right moment. There had been nobody in that life who was not fond of him. The whole of the wizarding world had been fond of him, and it had stood on a staircase and watched him go.
 
-Ginny, for a while. It had not worked. He had come somewhere after Quidditch and her brothers and not making a fool of herself, and she had been quite right, and they had both been very nice about it.
+Ginny, for a few weeks. He had ended that himself, at a funeral, for her own good. She had said she’d always known he would, and she hadn’t argued, and she had been quite right, and they had both been very nice about it.
 
 Ron and Hermione. He stopped there for some time.
 

@@ -110,6 +110,7 @@ Detalle del fondo en `docs/notas/lo-que-sabe-harry.md`. Lo decidido (`docs/notas
 - **El niño:** nunca se fue; llegaron recuerdos, no un alma. Harry teme haberlo sustituido.
 - **El otro Harry perdió:** murió en el Bosque y no se levantó; Voldemort ganó allí. Nadie volvió. Harry no lo sabe hasta que se lo dice Riddle (decisiones, §7). Es heredero de un muerto, no un viajero.
 - **La causa:** no viajó Harry, huyó Riddle. «You didn’t come back, Potter. I did. You’re what I was carrying.» El fragmento se calla; su «Mine» se oye en el Ministerio.
+- **Reglas cerradas el 10 de noviembre** (decisiones, §12): la otra vida es la de los libros hasta que Ron y Hermione van a por él; pudo volver y no quiso; el fragmento hizo un solo corte y guarda la puerta de su cabeza; aquí Voldemort tiene su sangre; el secreto de la Mansión solo se puede decir.
 - **El surco:** la otra vida le llega por el cuerpo antes que por la cabeza. Avisos en el 52 y el 72; el baño, en diciembre de 1996.
 - **Por qué existe Lyra:** una moneda (53). Nadie vuelve a preguntarlo.
 

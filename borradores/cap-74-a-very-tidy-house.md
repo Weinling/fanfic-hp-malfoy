@@ -168,7 +168,7 @@ It didn’t hurt, as she had thought it would. He stood her on the step with her
 
 After that she stood in the door.
 
-They had to be told; it was the only way. They came up from the road, one at a time, to the place where the gravel stopped, and stood in the sunshine looking about them at an empty field, and she walked down and said it: to Bellatrix, who kissed her; to Avery; to old Nott, who took off his hat. It took nine words. Towards three she walked down the drive for a thin man in black, with a long yellow face, who stood with his hands in his sleeves and looked at the air above her head. She told him where he was. He looked at her then, once, and she saw him take in her eyes, and what had been done about them.
+They had to be told; it was the only way. He had made it so that it would not go on paper. Paper went astray, he said; a thing like this wanted saying. They came up from the road, one at a time, to the place where the gravel stopped, and stood in the sunshine looking about them at an empty field, and she walked down and said it: to Bellatrix, who kissed her; to Avery; to old Nott, who took off his hat. It took nine words. Towards three she walked down the drive for a thin man in black, with a long yellow face, who stood with his hands in his sleeves and looked at the air above her head. She told him where he was. He looked at her then, once, and she saw him take in her eyes, and what had been done about them.
 
 “Miss Malfoy,” said Snape. He walked past her towards the house.
 
