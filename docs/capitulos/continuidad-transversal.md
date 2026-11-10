@@ -450,6 +450,8 @@ En orden de lectura. Las fechas marcadas «deducida» no las da el texto: salen 
 
 - **89 (21 dic. 1996-5 ene. 1997):** ver `cap-89.md`. Riddle sabe que el ojo duerme cuando ella está muriéndose. Toca el recuerdo de Harry cantando: «That was four.» Draco, paje en la Mansión; no vuelve al colegio. La rata nunca entró en el cuarto: Lyra lo deduce sola. Orden nueva: traer a Harry el sábado 22 de marzo, o vencen lo suyo y lo de su madre.
 
+- **90 (20 dic. 1996-5 ene. 1997):** ver `cap-90.md`. Harry lleva un bezoar. Ron lo sabe y sigue sentándose; Ginny, buscadora. Lupin: James y «I’d sit on you»; le enseña a respirar para la canción. Ginny sabe que fue Lyra y que no se puede decir en voz alta. La Sala vuelve a dar una sola butaca.
+
 - **Pobble es elfa** (2, 26, 36, 56, 74). **Hermione exigió el silencio ante Ron** y lo escribió ella (51, 83). Crouch padre estuvo controlado de octubre de 1994 a junio de 1995.
 
 ## 5. Fichas vivas
