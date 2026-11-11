@@ -10,7 +10,7 @@ There was nothing else. She read the whole of the essay through again, every wor
 
 She raised her eyes. He was at the board with his back to the room, writing out the method for a Draught of Peace that the sixth form had been making since they were fifteen, with his right cuff buttoned close to the bone.
 
-Twice, then. Once on a wet floor in December, with the taps running, and once on the flags of a shop in Hogsmeade, with the snow on his shoulders and no breath in him; and both times he had come through the door at a run, from too far away to have heard anything at all. She had counted the eleven minutes in December because they were the only thing about him that she could count. She had not, until this moment, with the red ink drying on the page, thought to ask herself what had set him running.
+Twice, then. Once on a wet floor in December, with the taps running, and once on the flags of a shop in Hogsmeade, with snow on him; and both times he had come through the door at a run, from too far away to have heard anything at all. In December she had been in no state to count anything. She had not, until this moment, with the red ink drying on the page, thought to ask herself what had set him running.
 
 She did not ask him now. She sat with her quill and the essay and went over the method on the board, and he did not turn round, and that was the arrangement, as near as she could make it out: he would not ask her what she had been doing on the floor of a pastry-cook’s, because if he knew he would be obliged to stop her doing it again; and she would not tell him, because she was going to.
 
@@ -22,7 +22,7 @@ Her mother was well. The snowdrops had come up on the north lawn in a great many
 
 She looked at the hand for a long time. It was perfectly steady, the strokes all the one weight, the capitals made as they had been made at the head of her nursery lists. She would look at it every Thursday, she supposed, as one looks at the face of a clock.
 
-On the Thursday the elves sent up the orange cake, as they had every week since Christmas, on a board, to the green baize in front of an empty chair. She smelt it from the top of the stairs. She went straight back out of the common room and did her rounds forty minutes early, and nobody in Slytherin, not even Zabini, said a word about it.
+On the Thursday the elves sent up the orange cake, as they had every week since Christmas, on a board, to the green baize in front of an empty chair. She smelt it from the top of the stairs. She went straight back out of the common room and up seven flights, and sat in the chair by herself until he came; and nobody in Slytherin, not even Zabini, said a word about it.
 
 ⁂
 
@@ -32,11 +32,13 @@ So he had read the whole of it before she saw him again. She had meant that. It 
 
 He was on the rug when she came in on the Monday, with his back to the mended chair and his knees drawn up, and the book shut on the floor beside him. He looked as he had looked in the shop, only washed. She sat down above him and opened the *Anabasis*, because they had finished with the Persians and somebody in that army had to get home, and began to read aloud about ten thousand Greeks a very long way from the sea; and he put into her free hand, without a word, a square of yellowish paper folded as small as a stamp.
 
-She knew it. She had carried it in her glove from Wiltshire, and since then it had lain in the green book, under the fender, in the one room in the castle that nothing with whiskers had ever got into.
+She knew it. She had carried it in her glove from Wiltshire, and since then it had lain in the green book, in the one room in the castle that nothing with whiskers had ever got into.
 
 *For H. Potter*, it said, in the round careful hand of somebody who had lately been counting Mandrakes. *I was asked to go somewhere at night. I could not tell you before so I am telling you after. Sundays after dinner he goes in the drawing room by himself and shuts the door, only he has me for the lamp. There is a board by the second window that is newer than the others. Under it there is a cup, gold, with two handles and a badger on the side, and a ring, gold, with a black stone, too big for anybody. He looks at them for four minutes. He doesn’t touch them. That is all. D. M.*
 
-She had read it four times on the first night and twenty since. Every time she came to *only he has me for the lamp* she had had to stop.
+She had read it four times on the first night and twenty since. She read it again now, with the Greeks open on her knee, and got as far as *only he has me for the lamp*, and her voice, which had been going on steadily about a river, stopped in the middle of a word and did not start again. She could not make it. She sat there with her mouth open and the book shaking, and nothing came, and the room was so quiet that anybody listening four hundred miles off would have heard a girl stop reading for no reason at all.
+
+He took the book out of her hands. He found the place, with his finger, and he read it aloud himself, badly, in his flat Surrey voice, tripping over every Greek name, about the river and the cavalry and somebody called Tissaphernes, whom he pronounced three different ways; and he went on doing it, without looking up, for a page and a half, until she put out her hand for the book again and he gave it back.
 
 Beside it, on a strip torn from the bottom of his Charms, he had written:
 
@@ -46,11 +48,19 @@ She went on reading about the Greeks. Under the book, on her knee, she wrote bac
 
 *You would have gone that night. On a broom. Into a field.*
 
-He read it. He looked up at her, and his jaw did something, and she saw him consider lying to her and decide that it was not worth the paper.
+He read it. He looked up at her, and his jaw set, and she saw him consider lying to her and decide that it was not worth the paper.
 
 *Yes.*
 
 *Quite*, wrote Lyra, and underlined it, and read him a paragraph about a river.
+
+He took the strip back and wrote under her line, hard enough to tear it. *You put it in the book for if you were dead.*
+
+She read him the rest of the river. It was true, and she had nothing in red pencil for it.
+
+*He doesn’t need a lamp*, she wrote, when she could. *He wanted somebody who counts things to see them. He said so, in front of me: what a careful child it is. He wants you to know where they are. It is the door he wants you to find.*
+
+*I know.*
 
 He was a long time over the next one. When it came it was not about the six weeks.
 
@@ -60,7 +70,7 @@ He was a long time over the next one. When it came it was not about the six week
 
 *Two more of what the diary was.*
 
-She stopped reading. It was only for a word, and she found the place again and went on; but she had been thirteen in an empty classroom with a book that bled, and a boy had said the number seven to her as if it were the time of a train. She counted, under the Greeks, on the fingers of her right hand. A diary, under a basilisk. A locket out of a cave by the sea, that had been her mother’s cousin’s. A little crown in a box, that a boy of eleven had been sent to fetch and found already broken. A cup. A ring. He wrote *the snake* before she could ask, and she put down the sixth finger and looked at the one that was left.
+She stopped reading. It was only for a word, and she found the place again and went on; but she had been twelve in an empty classroom with a book that bled, and a boy had said the number seven to her as if it were the time of a train. She counted, under the Greeks, on the fingers of her right hand. A diary, under a basilisk. A locket out of a cave by the sea, that had been her mother’s cousin’s. A little crown in a box, that a boy of eleven had been sent to fetch and found already broken. A cup. A ring. He wrote *the snake* before she could ask, and she put down the sixth finger and looked at the one that was left.
 
 He was watching the fire.
 
@@ -72,13 +82,13 @@ There was not time for everything. She had learnt that in a shop, with her mouth
 
 Because every time she sat down to dinner in that house, somebody came in. He came in as one comes into a room one has let for the season, with the boots wiped, and he went wherever he liked. She could keep him from very little. She could put a thing in the wall and stand in front of it, as she had in December, with the song; and he had walked past her furniture to the one place that she had not made fit to be seen, without so much as looking at the table. If she carried this into the house in her own head, he would have it before the soup. She could not take the plan home. Somebody else would have to carry it in, behind her face, and keep it where he could not look.
 
-She did not put in the other thing, which was that the somebody had a second door. She had seen what was behind it on a landing, and in a pink room, and on a wet floor, and she would sooner have walked into Wiltshire on her own.
+She did not put in the other thing, which was that the somebody had a second door. She had seen what was behind it three times, and she would sooner have walked into Wiltshire on her own.
 
 He had underlined *behind her face* twice, and written nothing.
 
 So they furnished it.
 
-They did it in the three-quarters of an hour that was left of each evening, between Professor McGonagall’s clock striking nine in her study and Lyra’s rounds at ten, on strips of second-best paper, with the Greeks going on above it in the pleasant voice for whatever might be listening. She had never in her life described the room to anybody. Snape had been inside it on a great many Thursdays, and had asked once to see the table; the other had walked through it whenever he liked for a year, as though he held the lease. Nobody had ever been given it on paper, a piece at a time, to take away.
+They did it in the three-quarters of an hour that was left of each evening, between Professor McGonagall’s clock striking nine in her study and Lyra’s rounds at ten, on strips of second-best paper, with the Greeks going on above it in the pleasant voice for whatever might be listening. Snape had asked once to see the table, on a Thursday, and been shown it. Nobody had ever been given it on paper, a piece at a time, to take away.
 
 She began with the table, because it was what one saw first. A long table, laid for breakfast, with a white cloth that had been ironed on the table and not off it, so that the creases ran the long way. Eight places, though only two were used. The sun came in from the left, low, at the angle that it had at nine in the morning in the second week of October, and lay across the cloth as far as the marmalade. She wrote the silver down one piece at a time: the coffee pot, which had a dent by the spout where she had dropped it at four; the toast rack, with one bar bent inward, so that the third slice always stood crooked; a sugar bowl with lions’ feet. She wrote what was on the plates. She wrote that the butter was cold.
 
@@ -98,7 +108,7 @@ She did the chair over which a dress had been laid for Christmas, dark blue, wit
 
 On the fourth night she came to the boy on the train.
 
-She had known that she would have to. He was in the room; he had been in the room since she built it; he stood by the window with his hands in his pockets, eleven years old, in a jumper that was too big for him, with a cut on his chin and his hair standing up at the back, and he was refusing a hand that she had held out to him, in front of a Weasley, and she had said something about it that she had polished for six years until it shone. Nobody looking into that room would have thought him important. That was the point of him. He was a boy she had quarrelled with once, in a carriage, and never forgiven, and a person who came in with his boots wiped would look at him and see a spoilt girl’s grudge, and pass on.
+She had known that she would have to. He was in the room; he had been in the room since she built it; he stood by the window with his hands in his pockets, eleven years old, in a jumper that was too big for him, with a cut on his chin and his hair standing up at the back, and he was refusing a hand that she had held out to him, in front of a Weasley, and she had said something about it that she had polished for six years until it shone. Nobody looking into that room would have thought him important. A person who came in with his boots wiped would see a spoilt girl’s grudge, and pass on.
 
 She wrote him down. She wrote the jumper, and the chin, and the hair; she wrote which way he was looking, which was at the door and not at her, and that his glasses had been mended with tape. She did it in her smallest hand, quite quickly, and she did not look at the boy on the rug while he read it.
 
@@ -109,6 +119,12 @@ When he gave it back, he had not written anything on it. He held it out to her a
 *Snape taught me to have nothing in there*, he wrote, later. *Empty. That was the whole idea.*
 
 *Nobody believes nothing*, wrote Lyra. *He has been in a great many heads. He will believe a table.*
+
+*And the rest?*
+
+*Behind the boy at the window. Nobody looks at him. I never have.*
+
+He looked up at her, and she turned a page that did not need turning.
 
 They could not try it. That was the thing that she lay awake with. There was one person in the castle who could have walked into the boy on the rug and told them whether the table would stand, and that person had written *Twice* in the margin of an essay and turned his back to the room so that he should not be told. She would send Harry into that house with her furniture in his head, built in forty-five-minute pieces out of paper that they burnt, and nobody would look at it before it was looked at by the one person who mustn’t find a crack.
 
@@ -130,7 +146,7 @@ He had a line for this. It was *That’s very kind of your mother*, and she had 
 
 “Yeah,” said Harry. “I’d like that.”
 
-It was not on the paper. It was a great deal worse than what was on the paper, because it was true. He had said it with his whole face, the way that a boy says yes who has been asked to something for the first time in two lives, and she saw a fourth-year on the landing above them put her hand over her mouth.
+It was not on the paper, and it was true, which was a great deal worse. He had said it with his whole face, the way that a boy says yes who has been asked to something for the first time in two lives, and she saw a fourth-year on the landing above them put her hand over her mouth.
 
 “You needn’t sound so pleased about it,” said Lyra. That was not on the paper either.
 
@@ -156,25 +172,25 @@ There was a full moon on the Saturday, the twenty-second, and she watched it com
 
 She had to stand a long way off. That was the whole difficulty with Longbottom, and Harry had seen it before she had: a thing that was asked for within a room’s length of her left arm was asked for in Wiltshire as well, and there was no saying aloud, near her, *knotgrass*, or *fluxweed picked at the full*, without somebody at a dinner-table setting down his glass. So she stood on the gravel in her cloak and her prefect’s badge, where a prefect on her rounds might very well stand, and watched the two of them through three panes of glass, like a play with the sound taken out.
 
-Greenhouse Three was lit, low, with one lamp. Longbottom was at the far bench, with his sleeves pushed up and the lamp at his elbow, and he had not looked up when Harry came in. They talked. She could see their mouths go. Harry had his hands out of his pockets, where Longbottom could see them, and stood at the end of the bench and didn’t come any nearer; and Longbottom went on pricking out a tray of seedlings with his thumbs, and then he stopped, and asked something, and looked at Harry for a long while.
+Greenhouse Three was lit, low, with one lamp. Harry stood at the end of the bench with his hands out of his pockets and came no nearer; Longbottom went on pricking out seedlings with his thumbs, and then stopped, and asked something, and looked at him for a long while.
 
-Then he took a knife down from a nail. He went to the end of the house where a long low trough stood under the glass, in the white light, and the moon came in on him through the roof as if through water; and he knelt down, quite slowly, as a man kneels in church, and began to cut. He did it one stem at a time, with his head bent over it. He had done this before; she could tell from the way that he held his hands. He laid each stem on a cloth. When he had a bunch the size of a fist he got up, and wrapped it, and put it in Harry’s hands, with a second bundle, coarser, from another bench; and then, as Harry turned to go, he said something else, and did not wait to see it land, and went back to his seedlings.
-
-Harry came out into the cold and stood for a moment on the step with his arms full of plants, looking at nothing.
+Then he took a knife down from a nail. He went to the end of the house where a long low trough stood under the glass, in the white light of the moon, and knelt down, and began to cut, one stem at a time, with his head bent over it, laying each on a cloth. When he had a bunch the size of a fist he got up, and wrapped it, and put it in Harry’s hands, with a second bundle, coarser, from another bench; and then, as Harry turned to go, he said something else, and did not wait to see it land, and went back to his seedlings.
 
 She had it on paper at a quarter past ten, by the light of a wand, in the seventh-floor corridor.
 
-*He asked who it was for. I said for the kid. He said then it’s not for you, and gave me it. He said the Society meets Tuesdays and Thursdays and it’s still not for me either. He said tell D. they’ve been potted on.*
+*He asked who it was for. I said for the kid. He said then it’s not for you, and gave me it. He said the Society still meets Tuesdays and Thursdays, and I’m still not to come. He said tell D. they’ve been potted on.*
 
 She stood under a tapestry of some trolls being taught to dance, and read it until she had it by heart, and burnt it.
 
-The room gave them a cauldron on the Sunday, an old pewter one with a mended rim, on a trivet by the fender, as if it had been there for years. They set the lacewings to stew on the Monday night, and the knotgrass went in by the book. She had the book. It had cost her a signature on a slip for the Restricted Section, which she had put in front of Professor Snape on the Friday with three others, and which he had signed without reading, as he had signed everything she put in front of him since she was thirteen. She had never known him read one. She had not known, until she watched the quill go across it, how much she would mind that.
+The room gave them a cauldron on the Sunday, an old pewter one with a mended rim, on a trivet by the fender, as if it had been there for years. They set the lacewings to stew on the Monday night, and the knotgrass went in by the book. She had the book, on a slip for the Restricted Section that Professor Snape had signed on the Friday without reading, as he had signed everything she put in front of him since she was thirteen.
 
 Harry knew the method already. He wrote, on the first evening, that he had seen it done in his second year, in the other one, and she asked where; and he wrote back, after a moment, *A girls’ lavatory. On the second floor. Nobody ever went in it.*
 
 She put the pencil down.
 
 He saw her do it. He took the strip back off her knee before she could stop him, and turned it over, and wrote on the back: *Sorry. Different one. Same bathroom.* And then, because he could not leave a thing alone: *Myrtle liked you better.*
+
+She took the strip off him and wrote underneath, *Myrtle has no taste*, and her hand was steady by the *t*.
 
 It would be ready on the twenty-first, if the lacewings did as they were told. The other two things, that only one cupboard in the castle kept, came up from the dungeons on a Tuesday night in his pockets, in a twist of brown paper that smelt of a snake; she did not ask him how. She stood over the pot most evenings for a minute with the Greeks open in her hand, and stirred it anticlockwise, and it stank like a drain, and she found that she was happy, standing in a stink with a boy and a book and a plan, as she had not been since before June.
 
@@ -186,7 +202,7 @@ On the last Thursday in February she held out her hand for his, without a word. 
 
 He did not take it at once. He looked at it lying across her palm: a pale wood, with the grain going the length of it like a thread in silk. He had had it once before, in June, in a pink room, with her lying on the carpet at his feet. She saw him remember that, and saw him wish not to.
 
-“Go on,” she said. “It doesn’t bite. It has never had the opportunity.”
+She tapped the back of his hand with the handle, as one taps a slow pupil.
 
 He took it.
 
@@ -194,15 +210,15 @@ He did nothing that could be heard. He only turned, on the rug, towards the lamp
 
 He looked at the wand. Then he looked at her, and he had gone quite white.
 
-She had expected it. She had read about it in the summer, in her father’s study, with the blinds half down, and put it away to be looked at when it was wanted. She tried his, now, to be thorough. She pointed it at the nearest lamp and asked it to go down by an inch, and it went down by about a quarter of one, very slowly, with a bad grace, like a younger brother asked to clear the table.
+She had expected it. She had read about it in the summer, and put it away to be looked at when it was wanted. She tried his, now, to be thorough. She pointed it at the nearest lamp and asked it to go down by an inch, and it went down by about a quarter of one, very slowly, with a bad grace, like a younger brother asked to clear the table.
 
 That made her laugh. She had not meant to. It came out of her nose, in a most unbecoming manner, and he looked at her as if she had done a spell.
 
-“It’s been yours since June,” said Lyra. “I’ve only been borrowing it.”
+She did not say it. She had the pencil out before the laugh was done, and she wrote it on the back of the evening’s last strip, in the best hand in Slytherin, and held it where he could read it and nothing else could hear it.
 
-She heard it go out into the room, and further. Somebody in Wiltshire would make of it what he liked: a girl saying something soft to a boy she had on a string, about her heart, very likely, and very nicely put. Let him. The boy on the rug knew exactly what she meant, and that it was a pink carpet and a pin laid on a fender, and the wand taken out from between her fingers and put in his pocket; and she watched him know it, and not look away.
+*It’s been yours since June. I’ve only been borrowing it.*
 
-The rest went on paper. He had the pencil out before she had finished hearing herself.
+The boy on the rug knew exactly what she meant: a pink carpet, and a pin laid on a fender, and the wand taken out from between her fingers and put in his pocket; and she watched him know it, and not look away. He took the pencil.
 
 *I can give it back. Now. Take it.*
 
@@ -228,10 +244,10 @@ He gave it to her, and looked at the fire.
 
 *The night of the 15th, about one in the morning. Somebody pushed. Not through the eyes. Through here.* An arrow, drawn in pencil, going up off the edge of the paper, towards nothing; she knew where it pointed. *Hard, for about a minute. Looking for the shop. It held. I didn’t do anything. I was asleep. It held anyway.*
 
-The date was three weeks old. He had carried it about all that time, in a pocket, in a castle where a rat had once gone through his pockets every night for a year; and taken it out, and put it back. She could have hit him. There was nothing she could say to him about it that could be said aloud, and she would not waste paper on it.
+The date was three weeks old. He had carried it about all that time, in a pocket, in a castle where a rat had once gone through his pockets every night for a year; and taken it out, and put it back. She hit him. She did it with the flat of the *Anabasis*, on the shoulder, hard enough to jar her own wrist, and remarked to the room that there was a draught. There was nothing about it that could be said aloud, and she would not waste paper on it.
 
 She read it twice, as she read anything that had a signature on it. Then she read it a third time, for what had been left out, and found that there was very little; he had got better at writing short. *It held.* *It held anyway.* She knew what he had been asleep for, and that nobody asleep keeps a door; and she knew that he knew that, and that it had been in his pocket for three weeks because neither of them had a pencil for the next line.
 
 She looked up. He was looking at her now.
 
-She did not put a mark on it. It was the first strip all winter that she had not marked. She held the corner to what was left of the fire, and watched it catch, and curl, and lift, and go up the chimney into the dark over Scotland; and then she picked up the *Anabasis*, and found the place, and read to him, in the pleasant voice, about the men who came over the last hill and saw the sea.
+She did not put a mark on it. She held the corner to what was left of the fire, and watched it catch, and curl, and lift, and go up the chimney into the dark over Scotland; and then she picked up the *Anabasis*, and found the place, and read to him, in the pleasant voice, about the men who came over the last hill and saw the sea.

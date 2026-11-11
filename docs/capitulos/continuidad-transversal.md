@@ -464,6 +464,8 @@ En orden de lectura. Las fechas marcadas «deducida» no las da el texto: salen 
 
 - **96 (22 mar. 1997):** ver `cap-96.md`. Tren y calzador-Traslador; la casa aparece para Harry. Narcissa le reconoce por la forma de estar de pie y miente: «You’ll want to wear the grey»; «She has a headache». Draco lo sabe: hipo, segunda taza. «He wouldn’t come» (una nota). Riddle mira; el taburete estaba donde él lo dejó, aunque Lyra lo escribió en otro sitio: lo arregló algo dentro de Harry. «You keep a very tidy house.» El plazo, vencido; «the account later».
 
+- **97 (noche del 22 mar. 1997):** ver `cap-97.md`. La tabla se abre con la mano de Lyra; Harry rompe solo la copa y el anillo (no gira la piedra). Riddle pide la vida de «Lyra»; Harry se queda quieto y levanta la barbilla. Snape: «Chin up, Miss Malfoy. You look like your father», se pone delante y muere de la maldición; «Severus. Why?». Lyra mata a la serpiente con el colmillo. Se acaba la hora del Multijugos y Harry, con su cara y el vestido gris, mata a Riddle con la varita de ella, sin brazo ni voz. «It was quite quick.»
+
 - **Pobble es elfa** (2, 26, 36, 56, 74). **Hermione exigió el silencio ante Ron** y lo escribió ella (51, 83). Crouch padre estuvo controlado de octubre de 1994 a junio de 1995.
 
 ## 5. Fichas vivas

@@ -69,6 +69,7 @@
 | 94 | 100 | A Borrowed Wand |
 | 95 | 101 | Chin |
 | 96 | 102 | The Grey |
+| 97 | 103 | Due |
 
 **Orden de lectura de la tanda:** 73, 74, 75, Interludio 3, 76 a 81, *Year Four* 3, 82 a 86, 87 en adelante.
 

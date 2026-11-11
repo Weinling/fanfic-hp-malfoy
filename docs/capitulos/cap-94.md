@@ -21,4 +21,6 @@
 El papel de Draco: en el libro verde, bajo el guardafuegos de la Sala. El caldero de Multijugos: en la Sala, listo el 21. Las varitas: cada una con su dueño; la de Lyra, ganada por Harry. El trabajo con *Twice.*: quemado. La tira de la cicatriz: quemada, sin nota.
 
 ## Notas
+- **Crítica de Opus aplicada (11 de noviembre):** «It’s been yours since June» va escrito, no en voz alta (Riddle escucha las entregas de varita, 89); Harry: *You put it in the book for if you were dead*; Lyra: *He doesn’t need a lamp… It is the door he wants you to find* (la nota es cebo y van igual); el plan va *Behind the boy at the window*; Lyra se queda sin voz al leer *only he has me for the lamp* y Harry lee él; le pega con el *Anabasis* por llevar la tira en el bolsillo. Doce años, no trece, al oír «seven».
+
 5.250 palabras, como el resto de la tanda. Frase media más larga que en el 93. Se escribió con el 87-93 leído entero y la crítica de Fable recibida al final; de ella se aplicó ya lo que tocaba al 94 (el oído no oye nada del papel: arreglado en el 92, y aquí la varita va por papel tras el pantallazo). Sin crítico propio: va con el 95, a Opus.
