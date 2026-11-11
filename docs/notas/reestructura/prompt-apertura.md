@@ -16,6 +16,7 @@ PONTE AL DÍA
    - docs/notas/reestructura/guion-general.md
    - docs/notas/lo-que-sabe-harry.md
    - docs/notas/reestructura/numeracion.md
+   - docs/capitulos/arcos.md, entero: la historia por arcos.
    - docs/capitulos/continuidad-transversal.md, entera: es el mapa de cada capítulo, de quién sabe qué y de las fichas. Si choca con el texto, manda el texto.
    - docs/critico-v2.0.md, secciones 2 a 5 (rúbrica y tics)
 
@@ -25,13 +26,7 @@ PONTE AL DÍA
    - docs/notas/criticas-codex/cuaderno-aplicacion-romance.md y critica-independiente-romance-10-nov.md (qué se cambió en el romance y por qué)
    - docs/archivo/guiones/guion-tanda-73-84.md: solo el Voto y las notas «Para el tramo 4» (búscalas con grep)
 
-3. Estos capítulos, completos, porque sostienen el resto:
-   - 36 y 37: la vara de la voz publicada
-   - 39 «Never Lied»: la ruptura, la primera capa del secreto y «Never own»
-   - 57 «Against the Wind»: los términos de la vuelta («scraps», «Hold it», Hopkins)
-   - 68 «Ask Me»: «Yours»; la elección que le cuesta la Marca
-   - 72 «Mine»: el Ministerio, Sirius y el «Mine» del fragmento
-   - 84, 85 y 86: los tres anteriores al tramo 4 (Crabbe, Greer, el baño)
+3. docs/capitulos/arcos.md, entero, y los capítulos de su «Lectura obligatoria», tabla 1 (unas 41.000 palabras), completos.
    Los archivos llevan número de trabajo: cap-72-mine.md es el 78 del lector. Del resto, el manual (docs/capitulos/cap-NN.md) y grep cuando haga falta. Antes de opinar sobre un capítulo concreto o de tocarlo, léelo entero, y di con honestidad lo que no has leído. Para preguntas puntuales sobre capítulos que no has leído puedes usar un subagente lector.
 
 No leas la historia entera. No abras coreano/, referencia/ ni fuentes/. No leas el original.

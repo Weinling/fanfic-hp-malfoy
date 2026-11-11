@@ -123,7 +123,7 @@ Detalle del fondo en `docs/notas/lo-que-sabe-harry.md`. Lo decidido (`docs/notas
 
 ## 9. Flujo de un capítulo
 
-1. **Leer antes de crear:** este handoff y la continuidad enteros; el guion de la tanda; los manuales que toque y los tres capítulos anteriores en texto. El original no se lee (`decisiones.md`, §9). Grep de cada nombre, objeto, lugar o «primera vez».
+1. **Leer antes de crear:** este handoff, `docs/capitulos/arcos.md` con su lectura obligatoria, y la continuidad, enteros; el guion de la tanda; los manuales que toque y los tres capítulos anteriores en texto. El original no se lee (`decisiones.md`, §9). Grep de cada nombre, objeto, lugar o «primera vez».
 2. **Escribir** en `borradores/cap-NN-titulo.md`.
 3. **Pasada de tics y lectura en frío.**
 4. **Crítica por tandas** (`CLAUDE.md`): Fable para una tanda o un capítulo muy especial; Opus para lo demás. Corre en segundo plano mientras se escribe el capítulo siguiente. Encargo: `docs/notas/reestructura/encargo-criticos-opus.md`. Escribe en `docs/notas/criticas-opus/`.

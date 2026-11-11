@@ -7,10 +7,11 @@ Adaptación al inglés británico de una fanfic coreana de Harry Potter con Lyra
 Lee, en este orden:
 1. `docs/estado-de-trabajo.md`: una página, con el siguiente paso exacto.
 2. `docs/handoff-v4.0.md`: identidad, motor, reglas y flujo.
-3. `docs/capitulos/continuidad-transversal.md`: hitos, quién sabe qué, cada capítulo.
-4. El guion de la tanda en curso, el capítulo que toca y lo que pida su ficha.
+3. `docs/capitulos/arcos.md`: la historia entera por arcos (trama, la pareja peldaño a peldaño, quién sabe qué, misterios, promesas) y **la lectura obligatoria**.
+4. `docs/capitulos/continuidad-transversal.md`: hitos, quién sabe qué, cada capítulo.
+5. El guion de la tanda en curso, el capítulo que toca y lo que pida su ficha.
 
-**Antes de crear o rehacer un capítulo** (autor, 4 de noviembre): además, los manuales que toque y los tres capítulos anteriores en texto (autor, 11 de noviembre: **si el capítulo es de una tanda con guion, todos los ya escritos de esa tanda**), y grep de cada nombre, objeto, lugar o «primera vez». No se escribe a ciegas, y se dice con honestidad lo que no se ha leído. La historia entera no es obligatoria.
+**Antes de crear o rehacer un capítulo** (autor, 4 de noviembre): además, los capítulos de lectura obligatoria de `arcos.md` (los de «Siempre» y los que toquen), los manuales que toque y los tres capítulos anteriores en texto (autor, 11 de noviembre: **si el capítulo es de una tanda con guion, todos los ya escritos de esa tanda**), y grep de cada nombre, objeto, lugar o «primera vez». No se escribe a ciegas, y se dice con honestidad lo que no se ha leído. La historia entera no es obligatoria.
 
 ## Mapa
 
@@ -20,7 +21,7 @@ Lee, en este orden:
 | `borradores/` | Capítulos del 16 en adelante, extras, interludios y el guion de la tanda en curso. Nada más. **Los archivos llevan número de trabajo; el título, el del lector:** `docs/notas/reestructura/numeracion.md` | Del 43 en adelante |
 | `docs/estado-de-trabajo.md` | Dónde estamos | Sí, en cada paso, y corto |
 | `docs/handoff-v4.0.md` | Lo vigente | Sí |
-| `docs/capitulos/` | Continuidad y un manual por capítulo | Sí, al cerrar cada capítulo |
+| `docs/capitulos/` | Manual por arcos (`arcos.md`), continuidad y un manual por capítulo | Sí, al cerrar cada capítulo; `arcos.md`, al cerrar cada tanda |
 | `docs/critico-v2.0.md` | Rúbrica y tics | Sí |
 | `docs/notas/reestructura/` | Decisiones, guion general, encargos de crítica, poda | Sí |
 | `docs/notas/criticas-opus/` | Críticas de la tanda en curso | Las escribe el crítico |
