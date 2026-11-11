@@ -268,7 +268,7 @@ He had not said a word to her since the Entrance Hall. He said this one to the t
 
 He did not look up. He stood very straight, holding the tray quite level, as though it had water in it, and she saw that there was a second cup on it this morning, with something in it; and that while nobody was attending he had slid that one, by about an inch, to her side.
 
-She drank it. It was stewed, and he had put the milk in first.
+She drank it. It was stewed, and he had put the milk in first. When she set the cup down there was something under the saucer that had not been there before: a square of paper folded as small as a stamp, of the kind that is torn from the flyleaf of a Herbology book. It went into her glove while the cup was still rattling. Her brother looked at the wall.
 
 “What a careful child it is,” said the Dark Lord. “He has counted my shirts. Severus, I think we’re keeping you.”
 

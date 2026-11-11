@@ -6,7 +6,7 @@
 
 ## Dónde estamos
 
-- **Escrito:** del 1 al 93 de trabajo (99 del lector), con *Year One* 1 a 6, *Year Four* 1 a 3 y tres interludios. **Publicado hasta el 42 (autor, 10 de noviembre).**
+- **Escrito:** del 1 al 94 de trabajo (100 del lector), con *Year One* 1 a 6, *Year Four* 1 a 3 y tres interludios. **Publicado hasta el 42 (autor, 10 de noviembre).**
 - **Orden de lectura y títulos:** `docs/notas/reestructura/numeracion.md`.
 - **Tanda 73-84 cerrada y criticada** (informes en `docs/notas/criticas-opus/`; guion en `docs/archivo/guiones/`). Termina el 19 de diciembre de 1996: el ojo se abre.
 - **Lectura de Codex del 1 al 78 aplicada** (`docs/notas/criticas-codex/lectura-39-78.md`). El grupo de Diggory ya está en la línea principal; en sexto lo lleva Neville, y Harry está fuera desde el 5 de diciembre.
@@ -14,9 +14,10 @@
 ## Siguiente paso exacto
 
 1. **Romance aplicado:** partes de Claude y Codex, **17 capítulos distintos**. Codex desarrolló 18 encuentros en 15 capítulos y aplicó una segunda pasada tras la lectura de Claude y la crítica de un subagente independiente. Informe: `docs/notas/criticas-codex/critica-independiente-romance-10-nov.md`; decisiones y recuentos: `cuaderno-aplicacion-romance.md`, en la misma carpeta. Manuales y continuidad actualizados. **El autor autorizó integrar la entrega revisada en main el 10 de noviembre.** Se conserva la diferencia entre el tramo anterior al 73 y los dos besos posteriores. **Sin decidir:** retirar cinco encuentros (trabajo 60, 61, primer beso del 62, 64 y segundo del 65); sus textos no se han cambiado. La inmovilización del 71 tampoco se ha retocado.
-2. **Tanda 87-98 en marcha.** Guion: `borradores/guion-tanda-87-98.md`; su §7 manda sobre lo anterior. Decisiones de fondo: `decisiones.md`, §12. **Escritos: del 87 al 93**, con manual y continuidad; **ninguno criticado todavía**; del 87 al 93 leídos enteros en la sesión del 11 de noviembre. **Siguiente: el 94** (*A Borrowed Wand*, Lyra, del 16 de febrero a principios de marzo). Preparado el 11 de noviembre (final del guion): lo que ya existe del cuarto de su cabeza, la varita, el Multijugos, Snape. **Lo bloquea una decisión del autor:** cómo saben Lyra y Harry que la copa y el anillo están bajo el salón de la Mansión; no consta en ningún capítulo y el interludio 2 apunta a otra parte.
-   **Críticas de la tanda (aprobado por el autor el 11 de noviembre):** del 87 al 93, Fable, de una vez, **lanzado el 11 de noviembre**, en segundo plano mientras se escribe el 94 (prompt al final de `encargo-criticos-opus.md`; informe en `criticas-opus/tanda-87-93.md`). El 94 y el 95, Opus, juntos, mientras se escribe el 96. Del 96 al 98, Fable, juntos: son una sola noche. **Lectura de Codex** (85-98) y **romance inédito** (87-98), al cerrar la tanda; el romance, lo último.
-   **Para el 94:** frase más larga que en el 93 (media de 11 palabras frente a 13-15 en el 36 y el 37) y menos frases que empiezan por «It». Los siete de la tanda pasan de 4.200 palabras.
+2. **Tanda 87-98 en marcha.** Guion: `borradores/guion-tanda-87-98.md`; su §7 manda sobre lo anterior. Decisiones de fondo: `decisiones.md`, §12. **Escritos: del 87 al 94**, con manual y continuidad. **La copa y el anillo:** lo contó Draco (decidido el 11 de noviembre; retocado el 89; ver el final del guion).
+   **Crítica de Fable del 87 al 93: hecha** (`docs/notas/criticas-opus/tanda-87-93.md`; notas de 7,5 a 9). Aplicado ya lo que tocaba al 94 (92: el oído no oye nada del papel). **Siguiente: aplicar el resto de esa crítica**, pesándola; después, el 95 (*Chin*, Harry, marzo hasta el viernes 21). Al 95 le falta un motivo para que Hermione reconozca la piel de serpiente: el Multijugos no ha salido nunca antes del 94.
+   **Plan de críticas (aprobado el 11 de noviembre):** el 94 y el 95, Opus, juntos, mientras se escribe el 96. Del 96 al 98, Fable, juntos. **Lectura de Codex** (85-98) y **romance inédito** (87-98), al cerrar la tanda; el romance, lo último.
+   **Antes de escribir:** todos los capítulos ya escritos de la tanda, en texto (`CLAUDE.md`).
 3. El autor lee la tanda cuando quiera. Si cambia algo de fondo, manda eso.
 
 **Para abrir una sesión nueva:** `docs/notas/reestructura/prompt-apertura.md`.

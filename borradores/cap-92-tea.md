@@ -226,9 +226,9 @@ She could not speak for a moment.
 
 “And the third?”
 
-He sniffed. He took his time over it.
+He sniffed. He took his time over it. Then he turned the strip over, and wrote on the last clean inch of it, and held it up.
 
-“Burnt paper,” said Harry. “Second-best. I’d know it anywhere.”
+*Burnt paper. Second-best. I’d know it anywhere.*
 
 She stared at him; and he began to laugh.
 
@@ -250,7 +250,7 @@ She sat down. Her knees had rather settled it.
 
 “I wanted to be sure of you,” she said.
 
-“You can’t be. Nor can I.” He tore the strip in half, and gave her the clean end. “That’s why you’ve got a pencil.”
+“You can’t be. Nor can I.” He tore a fresh strip in half, and wrote on one end, and gave her the other, clean. *That’s why you’ve got a pencil.*
 
 ⁂
 

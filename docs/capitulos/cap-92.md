@@ -18,4 +18,6 @@
 El contrato: Harry, cuatro hojas. La llave del local: Lyra. El Felix: Lyra, sin abrir hasta el sábado. La taza con Amortentia: en el guardafuegos del cuarto. El papel de Ginny: Ginny.
 
 ## Notas
+- 11 de noviembre (crítica de Fable): «Burnt paper. Second-best» y «That’s why you’ve got a pencil» pasan a papel; Riddle no debe oír que escriben.
+
 4.900 palabras. Lyra tiene ya tres confesiones firmadas en manos de otros: Crabbe, Ginny y, verbal, Harry. Sin crítico: va con la tanda.
