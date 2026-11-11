@@ -462,6 +462,8 @@ En orden de lectura. Las fechas marcadas «deducida» no las da el texto: salen 
 
 - **95 (marzo-21 mar. 1997):** ver `cap-95.md`. Ensayo con regla y tablas. Hermione lo deduce por el registro de la Sección Prohibida y el candado de Snape; pide que no mienta a Ron, y él no puede. Ron: «Am I coming?» «No»; media patata. «Don’t ask me again.» El anillo de Lyra, plata en el dedo de Harry. «Chin up. And smile. Like you mean it», sin que ella sepa que ya lo dijo en 1991. **Sin beso** (ver el manual).
 
+- **96 (22 mar. 1997):** ver `cap-96.md`. Tren y calzador-Traslador; la casa aparece para Harry. Narcissa le reconoce por la forma de estar de pie y miente: «You’ll want to wear the grey»; «She has a headache». Draco lo sabe: hipo, segunda taza. «He wouldn’t come» (una nota). Riddle mira; el taburete estaba donde él lo dejó, aunque Lyra lo escribió en otro sitio: lo arregló algo dentro de Harry. «You keep a very tidy house.» El plazo, vencido; «the account later».
+
 - **Pobble es elfa** (2, 26, 36, 56, 74). **Hermione exigió el silencio ante Ron** y lo escribió ella (51, 83). Crouch padre estuvo controlado de octubre de 1994 a junio de 1995.
 
 ## 5. Fichas vivas
