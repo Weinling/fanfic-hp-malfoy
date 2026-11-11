@@ -21,4 +21,4 @@ El calzador-Traslador: con Harry. Un frasco de Multijugos: en el bolsillo del ve
 
 ## Notas
 - **Crítica de Fable aplicada (11 de noviembre):** la serpiente está bajo la mesa desde la sopa, con la cabeza sobre el zapato de Riddle; frascos con nueve marcas, uno por hora; el taburete «hard against her chair», desplazado por Riddle «towards the window» (y así en el 94); Narcissa elige sin explicación larga.
-4.580 palabras. Sin romance. El taburete paga el 56 y el 94; la forma de estar de pie, el 88.
+4.580 palabras. Sin beso; el romance va en los gestos: los dos dedos en la muñeca, la risa de ella con la barbilla de él en el tren, la muñeca que tiembla ante la casa. El taburete paga el 56 y el 94; la forma de estar de pie, el 88.
