@@ -42,7 +42,7 @@ He said it as a man might who has been to a concert. The talk went out along the
 
 “I’d have *finished*,” said Aunt Bella.
 
-“Yes. That’s the difference between you.” He turned the glass. “And then his. Half a word again. He never does finish a thing, that boy; I put it down to his upbringing. After that, I am sorry to say, I heard nothing at all, for about the length of a song. It was the oddest sensation. I have had that ear open since the first of August, and it had not so much as blinked.” His eyes had gone to the sling, with a mild, proprietary interest. “It appears to sleep when you are very nearly gone. I hadn’t known that. One never does know quite everything about one’s own work. I shall have to take care that you are not often so ill. Show me.”
+“Yes. That’s the difference between you.” He turned the glass. “And then his. Half a word again. He never does finish a thing, that boy; I put it down to his upbringing. After that, I am sorry to say, I heard nothing at all, for about the length of a song. It was the oddest sensation. I have had that ear open since the first of August, and it had not so much as blinked.” His eyes had gone to the sling, with a mild, proprietary interest. “It appears to sleep when you are very nearly gone. I hadn’t known that. One never does know quite everything about one’s own work. I shall have to take care that you are not often so ill.” He turned the glass. “And on the Friday he offered you his wand. For good; I heard the terms read out. You gave it back to him, with reasons. Quite right, my dear. I want him able to walk. Show me.”
 
 She turned her head to the candles.
 

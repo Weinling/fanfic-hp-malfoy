@@ -208,7 +208,7 @@ The lease came back on the twentieth, with the chimney written in and the second
 
 Vanessa signed it at the table in the common room, with Nott for a witness. She sent sixteen Galleons by the school owl, in a stocking. The key was iron, and as long as her hand.
 
-She painted the board herself, on the dormitory floor, on a Sunday, with a pot of green from Filch and a ruler. She had the lettering from the lid of a tin. There had been an argument once about what went on it. *Ness wants Goyle and Crabbe. She says that people like to know who they’re suing.* It had got a laugh, in a pub, from somebody who very seldom laughed; and a pencil had started up again, and an ear had gone pink.
+She painted the board herself, on the dormitory floor, on a Sunday, with a pot of green from Filch and a ruler. She had the lettering from the lid of a tin. There had been an argument once about what went on it. *Ness wants Goyle and Crabbe.* She had lost it, in the end, in the only way that she could have.
 
 She gave it one name. It took her most of the afternoon to get the apostrophe where it belonged.
 

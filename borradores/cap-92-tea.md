@@ -36,7 +36,7 @@ She burnt it with the others. She found, on her rounds, that she had brought it 
 
 The pork came up from the kitchens on a Thursday, in a cloth, by itself.
 
-She found it on the fender when she came in, the better part of a shoulder, with a note pinned to the rind in a round careful hand that was not an elf’s. *Off the Friday order. Mind the grain.* Somebody had copied that out of a fat black book. She stood and looked at it rather longer than a joint of meat required.
+She found it on the fender when she came in, the better part of a shoulder, with a note pinned to the rind in a slow, backward-sloping hand that was not an elf’s. *Off the Friday order. Mind the grain.* Somebody had copied that out of a fat black book. She stood and looked at it rather longer than a joint of meat required.
 
 “You’ve brought something that can’t complain,” said Lyra. “How thoughtful.”
 
@@ -50,7 +50,7 @@ Paper was no use; he would not have been able to hold the pencil. She said it al
 
 He looked up at her. He looked at the line that ran down from under her ear, and then at his own right hand.
 
-It did not go up by itself. She had been ready for that. She had seen that arm rise on a landing, and in a pink room, and across a wet floor, as smooth as a thing on a wire, and she watched for it now with her back against the chair and her wand loose in her sleeve; and what she saw was a boy lift his arm from the shoulder as though it weighed a hundredweight, with the sweat coming out on his lip, and point it at a piece of meat. His mouth moved. He got it all out, under his breath, to the last syllable. She had never heard the end of it before.
+She had been ready for it to go up by itself. She had seen that arm rise on a landing, and in a pink room, and across a wet floor, as smooth as a thing on a wire, and she watched for it now with her back against the chair and her wand loose in her sleeve; and what she saw was a boy lift his arm from the shoulder as though it weighed a hundredweight, with the sweat coming out on his lip, and point it at a piece of meat. His mouth moved. He got it all out, under his breath, to the last syllable. She had never heard the end of it before.
 
 The rind opened in a long clean line, as a letter is opened.
 
@@ -84,7 +84,7 @@ She needed some time to believe this. She had been top in every subject that cou
 
 She stood up. She had never in her life been told to put her feet apart by anybody. She did it, in the square-necked grey, on a bald rug, with her bad arm in its sling and her chin up; and he walked round her once, frowning, exactly like a small tired man in a brown jumper, and told her, as though she were a first-year with a recorder, to give him her note.
 
-It was a quarter of a tone under, at ten o’clock, and again at half past. He sat on the fender with his elbows on his knees and beat time with a toasting fork; and at some point she found that she was so angry that she had forgotten to be anything else, and that he was grinning at her quite openly, with his terrible lopsided mouth, as he had not since a gale in November.
+It was a quarter of a tone under, at half past nine, and again at ten. He sat on the fender with his elbows on his knees and beat time with a toasting fork; and at some point she found that she was so angry that she had forgotten to be anything else, and that he was grinning at her quite openly, with his terrible lopsided mouth, as he had not since a gale in November.
 
 “Six weeks,” said Harry. “You said.”
 
@@ -128,7 +128,7 @@ She folded it once, and held it out.
 
 The girl read it where she stood. She read it as she had learnt to read everything, twice, with the pencil going under the words; and Lyra watched the colour leave her face a freckle at a time, and saw her get to the collar, and stop there.
 
-She did not burn it. She put it inside her robes, on the left.
+She did not burn it. She put it inside her robes; and Lyra, who knew now what went through pockets in the dark, watched it go, and found that she had no right whatever to ask for it back.
 
 Then she took out her wand.
 
@@ -150,7 +150,7 @@ On the Saturday, against Ravenclaw, the Weasley girl took the Snitch in eleven m
 
 ⁂
 
-She did it as a column, in the end, on the window-seat of the dormitory, with nothing written down.
+She went through it in the end on the window-seat of the dormitory, with nothing written down. There were three ways, and she took them in order.
 
 If she brought him in at the front door, on her arm, he was dead before the soup. If she came alone, then she was, and her mother with her; and Draco would go on pouring tea for whoever was left. That was two, and neither of them would do.
 
@@ -244,7 +244,7 @@ He looked at the cup, on the fender, full to the brim, with the steam going up f
 
 “Nothing moves without asking,” said Harry. “You, Draco, anybody. That’s what you said. On a hill.” He picked up the pencil. “You don’t put me anywhere.”
 
-She heard it. She heard the whole of it, in her own voice, with snow on it. She had stood on a chalk ridge and made that the price of coming back to him; she had turned down a Vow on the strength of it, in a hospital bed, with headings. And she had come up seven floors tonight with three drops in her sleeve to arrange a boy for his own good.
+She heard it. She heard the whole of it, in her own voice, with snow on it.
 
 She sat down. Her knees had rather settled it.
 
@@ -263,6 +263,8 @@ She did the heads. He would not have known how. She set them down one under anot
 *2. One, from the box on the Headmaster’s desk. H. to ask for it. He may show this paper.*
 
 *3. I take a third part. I have done the figures; they are below. I may be wrong.*
+
+He stopped at the third. She heard the pencil go down on the rug. For the length of a paragraph about the Thracians he did not pick it up, and she did not look; and when the sheet came back there was nothing in the margin but a mark where his thumb had been, pressed hard enough to shine.
 
 *4. Before it, I drink what H. left in my bag in December. It is mine to spend.*
 

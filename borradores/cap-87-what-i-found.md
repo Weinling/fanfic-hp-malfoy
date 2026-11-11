@@ -62,7 +62,7 @@ He said it to the corridor at large, in the voice of a man reading out a notice.
 
 Madam Pomfrey set the basin down on the windowsill.
 
-“I wrote down a heart on Sunday,” she said. “I’ll not write down a fall.”
+“They wrote down a heart on Sunday,” she said. “I’ll not write down a fall.”
 
 She was a small woman, and she didn’t raise her voice. “That child has been laid open from the angle of the jaw to the middle of the arm, as clean as a draper’s scissors, and somebody had the closing of it who knew the counter before ever he knelt down. I’ve been thirty years at this, Severus, and I couldn’t have shut that with a month’s notice. One of these days I should very much like to be told how you came by it. Tonight I want the Deputy Headmistress.” Her eyes had gone to Harry’s cuffs, and they stayed there. “And I’ll have the truth from somebody, if I have to get it from the dead.”
 
@@ -136,7 +136,7 @@ Professor McGonagall took off her spectacles. Without them she looked older, and
 
 “No, Professor.”
 
-“Don’t agree with me. It’s insufferable.” She drew a sheet of parchment towards her and did not write on it. “You are off the Gryffindor team, from tonight until you leave this school. You’ll tell Weasley yourself, before breakfast. I don’t see why I should do that for you, and he has a Cup to win with no Seeker. Every evening of term, from six o’clock until nine, you will be in that chair, with your work on that desk and both your hands on top of it, where I can see them. That includes Saturdays. It will go on until the summer; and if I’m spared, until the summer after.”
+“Don’t agree with me. It’s insufferable.” She drew a sheet of parchment towards her and did not write on it. “You are off the Gryffindor team, from tonight until you leave this school. You’ll tell Weasley yourself, before breakfast. I don’t see why I should do that for you, and he has a Cup to win with no Seeker. Every evening of term, from seven o’clock until nine, you will be in that chair, with your work on that desk and both your hands on top of it, where I can see them. That includes Saturdays. It will go on until the summer; and if I’m spared, until the summer after.”
 
 “Yes, Professor.”
 
@@ -194,7 +194,7 @@ The eyes came open at once, pale and entirely clear, like the eyes of someone wh
 
 “No. Listen. Your sister’s in the hospital wing. She’s going to get better; Madam Pomfrey says so. Professor Snape mended her.” He had worked out the order of this on the way down the lawn, and it was no use to him at all. “I hurt her. It was me. I did it with a curse. She’d stopped, she wasn’t doing anything, and I did it anyway.”
 
-Draco sat up. He did it in stages. He studied Harry, with his head a little on one side; he had his sister’s way of going down a face as though it were a column of figures.
+Draco sat up. He did it in stages. He studied Harry, with his head a little on one side; he had his sister’s way of reading a face to the bottom before he answered it.
 
 “How many?” he said.
 
@@ -278,7 +278,9 @@ Dumbledore nodded slowly, as at a sum that had come out.
 
 “Then there are two of us in this room who looked away,” he said, “and one girl under the ground in the north. I shan’t insult you by dividing it.”
 
-He let that lie. When he went on, it was about something else.
+“You could try,” said Harry. “You’re the one with the drawer.”
+
+Dumbledore inclined his head, as though that were a fair point, and did not take it up. He let it lie. When he went on, it was about something else.
 
 “It was not *Diffindo*.”
 

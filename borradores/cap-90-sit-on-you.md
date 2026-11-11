@@ -4,7 +4,7 @@ He told Ron at ten to seven on the Friday morning, in the dormitory, because Pro
 
 He had been down to the dungeons first. At six o’clock, with the castle dark and the snow still coming, he had let himself into the Potions store and gone to the third shelf on the left, and taken one small brown shrivelled thing out of a jar, and not written it in the book. It had come out of the stomach of a goat. He had got one down somebody on a hearthrug once, in another life, with his thumb, and had not thought about it since; and on Sunday afternoon there had not been one within four floors of a girl with flour on her hands. He had it in his left pocket now, and kept his fingers round it.
 
-Ron was sitting on the edge of his bed, lacing a boot. He’d got a practice. He looked up, and saw who it was, and his face did what it had been doing for a fortnight: it shut, though not all the way.
+Ron was sitting on the edge of his bed, lacing a boot. He’d got a practice. He looked up, and saw who it was, and his face did what it had been doing for a fortnight, which was to wait and see.
 
 “I’m off the team,” said Harry.
 
@@ -42,7 +42,7 @@ Harry watched it arrive. He had known this face for five years and three months,
 
 “No, you don’t. You never asked.”
 
-He took his broom from the end of the bed and went out. But at dinner that night, when Harry came in late from Professor McGonagall’s study with ink on his fingers and sat down at the very end of the table, by the doors, there was somebody already there, a foot away, eating a pie as if he had a grudge against it.
+He took his broom from the end of the bed and went out. But at lunch, when Harry came in late and sat down at the very end of the table, by the doors, there was somebody already there, a foot away, eating a pie as if he had a grudge against it.
 
 “It’s Friday,” said Ron, to the wall. “I’m on the list. Don’t read anything into it.”
 
@@ -212,7 +212,7 @@ He took it, and it went in and stayed where it was. He could not have got out fr
 
 “Are you going to tell me?”
 
-Here it was. He could feel the old thing get up and stretch. He could have told her. He had it all: an arm, and a grey line, and a thing that heard. She was owed it, if anybody had ever been owed anything. He’d only have to open his mouth, and decide, over the top of a girl in Wiltshire, in a square-necked dress, that it was best. It would have been the kind thing. He was very nearly always right.
+Here it was. He could feel the old thing get up and stretch. He could have told her. He had it all: an arm, and a grey line, and a thing that heard. She was owed it, if anybody had ever been owed anything. He’d only have to open his mouth, and decide, over the top of a girl in Wiltshire with her arm in a sling, that it was best. It would have been the kind thing. He was very nearly always right.
 
 *Nothing moves without asking.* He had thought that she meant chess pieces.
 
@@ -226,7 +226,7 @@ Ginny considered him. He had the feeling that she was reading it twice, once for
 
 “Then I’ll get it from her.”
 
-“She can’t tell you either.” He stopped. He picked the next three words one at a time, and laid them down. “Not out loud.”
+“She can’t tell you either.” He stopped. He picked the next three words one at a time, and laid them down, and knew while he did it that he was deciding again. “Not out loud.”
 
 Nothing moved in her face. But she had been a year in a bathroom on the second floor, with a friend whom nobody else could hear; and he watched it reach her, and go in, and be put somewhere safe, the way that a Chaser takes a ball out of the air without appearing to have looked at it.
 

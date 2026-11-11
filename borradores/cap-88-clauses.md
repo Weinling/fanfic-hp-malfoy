@@ -82,7 +82,7 @@ Professor McGonagall’s nostrils went thin. She had the look of someone who has
 
 “You don’t think it enough.”
 
-“I don’t think it has anything to do with me,” said Lyra; and that, too, was perfectly true, and it surprised both of them.
+“I don’t think it has anything to do with me,” said Lyra; and that, too, was perfectly true.
 
 The spectacles rested on her for some little time. Then Professor McGonagall asked, in an altered tone, whether there was anything that she wanted; and Lyra said that she would like to see him.
 
@@ -146,7 +146,7 @@ His eyes went to the gloves and stayed on them. She waited for him to say someth
 
 It was not kind. She would have known what to do with kind. She opened her mouth, and the tears ran back into her ears, and he fed her the whole of the bowl without another word, and scraped it.
 
-When that was done he put his hand inside his robes and brought out a small black notebook and the stub of a pencil. He tore out a leaf. He wrote on his knee, with his arm crooked round it like a second-year in a test, and he held the paper where she could see it and where nothing else could.
+When that was done he put his hand inside his robes and brought out a small black notebook and the stub of a pencil. He tore out a leaf. He wrote on his knee, with his arm crooked round it like a second-year in a test, and he held the paper where she could read it, and neither of them said a word.
 
 *Dumbledore has the box. Your brother is alright he’s with Nevilles lot.*
 

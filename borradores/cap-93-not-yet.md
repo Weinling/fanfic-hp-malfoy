@@ -36,7 +36,7 @@ He took it out himself. He used the little silver tongs from the bowl of lemon d
 
 “Two,” said Dumbledore. “People drop them.”
 
-Harry had one already. He had changed it over that morning; it was Saturday, and it was in the right. He took the others, and the yellow twist, and he noticed that his hand was perfectly steady, and that the old man had noticed it as well.
+Harry had one already. He had changed it over that morning; it was Saturday, and it was in the left. He took the others, and the yellow twist, and he noticed that his hand was perfectly steady, and that the old man had noticed it as well.
 
 “I make one condition. Professor Snape is not to hear of this beforehand. He would be obliged to prevent you.” He paused for no longer than it takes to choose a word. “I use the term exactly.”
 
@@ -62,7 +62,7 @@ She was there already. She stood in the middle of a low dim room with a stone fl
 
 He shut the door behind him. She did not turn round.
 
-They had the lines by heart. He had learnt his in the bath, and in Professor McGonagall’s study with a Charms essay in front of him and both hands on the desk; there were eleven of them. He had not known, until he opened his mouth, that he would mean every one.
+They had the lines by heart. He had learnt his in the bath, and at breakfast behind a propped-up Charms book, and on the road down with his lips moving; and at the stile he had burnt the fourth sheet with the end of his wand. There were eleven of them. He had not known, until he opened his mouth, that he would mean every one.
 
 “Malfoy,” said Harry. “What are you doing here?”
 
@@ -73,6 +73,8 @@ They had the lines by heart. He had learnt his in the bath, and in Professor McG
 “I’m not. You’ve seen to that. I can’t so much as cross a village.” She had turned, at last. She was the colour of the snow on the sill, with the line running down from under her ear into the fur, and her eyes went over his face once, quickly, as they had gone over a sheet of headings. “You may as well stay, since you’re here. I’m tired, Potter. I’m so very tired.”
 
 That was the sixth, from the fourth sheet, in her writing. He had said, when she showed it to him, that nobody would believe she’d say such a thing; and she had looked at him over the top of the Persian Wars and not troubled to answer.
+
+“Then come back up to the castle,” said Harry. That was the seventh, and the feeblest thing on the sheet.
 
 She took off her gloves. They were the kid ones. She laid them on the stool, and she put her right hand into her cloak.
 
@@ -88,7 +90,7 @@ He gave her the yellow twist. He gave her, with it, what she had told him to bri
 
 “She kept one for me,” said Lyra. That was the eighth. “Did you know? She held it out. I didn’t take it.”
 
-Her voice had cracked right across, which was not on the sheet.
+Her voice had cracked right across, which was not on the sheet. She had written that line on Friday for a thing on her arm to hear, and thought it rather good.
 
 She cut it in three. She did that as she did everything, with her tongue between her teeth, and it took her a long time, because of her hands; and she looked at the three pieces, and chose the smallest. He saw her raise it. And he saw her stop, with her head on one side, exactly as though somebody had touched her on the elbow; and she put it down again, and cut that piece in half.
 
@@ -122,7 +124,7 @@ She chewed it slowly, with her eyes shut. He felt her swallow; it went down the 
 
 He would have given a great deal not to have heard that. He did not know why. It had the sound of something that had been said before.
 
-It began at the feet. She told him so. She was allowed to tell him that; it was what a girl would say. *My feet have gone. That’s funny.* She said that it was cold in here. A minute afterwards she said that her hands had pins and needles, and he saw the right one open and shut on her knee. He had her wrist. He could feel it start to hurry. He had the brown stone in his other fist, down by his side, held so hard that it had printed itself on his palm, and there was a clock somewhere; there was a church, at the top of the High Street, and it had struck the half as he came in.
+It began at the feet. She told him so. She was allowed to tell him that; it was what a girl would say. *My feet have gone. That’s funny.* She said that it was cold in here. A minute afterwards she said that her hands had pins and needles, and he saw the right one open and shut on her knee. He had her wrist. He could feel it start to hurry. He had the brown stone in his other fist, down by his side, held so hard that it had printed itself on his palm, and there was a clock somewhere; there was a church, at the top of the High Street, and it had struck the half while she was cutting.
 
 He counted, since nothing else was permitted him.
 
@@ -140,7 +142,7 @@ She had started to shake: not a shiver; it came from the middle of her, in long 
 
 It was his right hand that he had to watch.
 
-It did not go up by itself. That was the thing that he would remember. He had been waiting for it; he had looked at that arm for a year as you would look at a dog that has bitten somebody. It lay against his thigh, with a stone in it that would have stopped all this in the time it takes to swallow, and it was shaking so that the knuckles knocked on the floor; and every bit of that was him. Nobody was holding it down for him. There was no voice. He had only to open his fingers. *I can’t fix that*, he had said, to a child. He could fix this. He had done it once before, on a hearthrug, with his thumb. He knelt on the flagstones of a pastry-cook’s shop with the only person he had ever come for dying against his chest, by her own arrangement, and he kept his hand shut, and it was the hardest thing that he had done in two lives.
+It did not go up by itself. That was the thing that he would remember. He had been waiting for it; he had looked at that arm for a year as you would look at a dog that has bitten somebody. It lay against his thigh, with a stone in it that would have stopped all this in the time it takes to swallow, and it was shaking so that the knuckles knocked on the floor; and every bit of that was him. Nobody was holding it down for him. There was no voice. He had only to open his fingers. *I can’t fix that*, he had said, to a child. He could fix this. He had done it once before, on a hearthrug, with his thumb. He knelt on the flagstones of a pastry-cook’s shop with the only person he had ever come for dying against his chest, by her own arrangement, and he kept his hand shut.
 
 Seven. Her lips had gone blue.
 
@@ -158,7 +160,7 @@ And something moved, under his thumb.
 
 He knew it before he looked: smaller than a pulse, a slow, slight, drowsy shifting, like a child turning over. He took his thumb away by a quarter of an inch. The lid had come down. It came from the top and the bottom, thin and grey, and it stopped halfway and drooped, and the last dull bit of brown looked at him without seeing him at all, and went out.
 
-There was a small flat head lying on a girl’s wrist, as peaceful as a stone.
+There was a small flat head lying on a girl’s wrist, with its eye shut.
 
 He felt all of her let go at once.
 
@@ -240,13 +242,13 @@ He had known that it would take a moment. It had taken a moment with Ron. He hel
 
 She coughed.
 
-It was a small, wet, ugly sound, and it was the best thing that he had ever heard. Her whole body jerked. She turned her head and was sick on the flagstones, and on his knee, and dragged in a breath that went all the way down, with a whoop in it, like a child’s; and under his fingers the beat came back, a little at a time, like the tide coming up a beach. He had felt that once before. He knew what came next.
+It was a small, wet, ugly sound. Her whole body jerked. She turned her head and was sick on the flagstones, and on his knee, and dragged in a breath that went all the way down, with a whoop in it, like a child’s; and under his fingers the beat came back, a little at a time. He had felt that once before. He knew what came next.
 
 He looked.
 
 The thin grey lid had begun to draw back. It slid up and it slid down, in no hurry. A line of dull brown showed, and widened. It was perfectly round, and quite awake, and it looked at him.
 
-He had about a second. He had it ready; they had not written this part down, but he had known for a week what it would have to be.
+He had about a second. He had it ready; they had not written this part down, but he had known since Friday what it would have to be.
 
 “You *idiot!*” said Harry. His voice broke in the middle, and he let it. “You stupid— You could have *died!* One of *hers!* I was standing there, I was right in front of you, what did you think— Breathe. Breathe, damn you. I’ve got you.”
 
