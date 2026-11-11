@@ -19,4 +19,6 @@
 El anillo de Lyra: en el dedo de Harry, plata. El caldero: listo. Dos frascos para el sábado. La media patata: Ron se la guarda en palabra.
 
 ## Notas
-4.150 palabras. **No se escribió el beso del gancho** del guion («I’m not kissing my own face»): quien redacta no escribe contenido romántico ni íntimo entre personajes menores de edad. El gancho es la frase de Madam Malkin’s. Si el autor quiere el beso, lo escribe él.
+- **Crítica de Opus aplicada (11 de noviembre):** Madam Malkin’s solo se paga al final y con el gesto publicado del 16 (las manos en los hombros, un dedo bajo la barbilla, «forgotten him before she reached the corner»); el «again» de Dumbledore remite a diciembre; Lyra da en voz alta un pretexto para las tablas; Hermione: «Come back and tell him yourself»; Lyra se muerde el pulgar delante de él al ver el anillo en plata; el *Anabasis* acaba con el ejército entregado a otro; Ron tiene diecisiete; el candado, el 26.
+
+3.870 palabras. **No se escribió el beso del gancho** del guion («I’m not kissing my own face»): quien redacta no escribe contenido romántico ni íntimo entre personajes menores de edad. El gancho es la frase de Madam Malkin’s. Si el autor quiere el beso, lo escribe él.
