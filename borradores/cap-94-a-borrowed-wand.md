@@ -104,7 +104,7 @@ He read every strip twice, as she had taught him, and then he shut his eyes; and
 
 *I don’t doubt it.*
 
-She did the chair over which a dress had been laid for Christmas, dark blue, with the hem turned back an inch to show the stitching, which had been her grandmother’s. She did a stool, three-legged, with small turned feet, that stood by the table where it went, and a boy of eleven sitting on it with a hat too big for him coming down over his ears; and she wrote that the stool stood on the left of her chair, beside the marmalade, and her pencil stopped for a moment above *left*, and went on.
+She did the chair over which a dress had been laid for Christmas, dark blue, with the hem turned back an inch to show the stitching, which had been her grandmother’s. She did a stool, three-legged, with small turned feet, that stood by the table where it went, and a boy of eleven sitting on it with a hat too big for him coming down over his ears; and she wrote that the stool stood hard against her chair, beside the marmalade, and her pencil stopped for a moment above *against*, and went on.
 
 On the fourth night she came to the boy on the train.
 

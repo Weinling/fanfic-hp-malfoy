@@ -20,4 +20,5 @@
 El calzador-Traslador: con Harry. Un frasco de Multijugos: en el bolsillo del vestido gris. La Capa: Lyra. El colmillo: con ellos (para el 97). El anillo de Lyra: en el dedo de Harry, plata.
 
 ## Notas
+- **Crítica de Fable aplicada (11 de noviembre):** la serpiente está bajo la mesa desde la sopa, con la cabeza sobre el zapato de Riddle; frascos con nueve marcas, uno por hora; el taburete «hard against her chair», desplazado por Riddle «towards the window» (y así en el 94); Narcissa elige sin explicación larga.
 4.580 palabras. Sin romance. El taburete paga el 56 y el 94; la forma de estar de pie, el 88.

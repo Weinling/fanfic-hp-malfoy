@@ -22,7 +22,7 @@ She could not help it. She had been perfectly steady for four hours and a quarte
 
 It was so exactly the face she made at Weasleys that she had to bite the side of her thumb.
 
-At ten past four he went down the corridor to the lavatory with his bag, and came back with his hair still hers; and at ten past five, and at ten past six. Each time the corridor was a little emptier, and the lamps had come on in it, and she sat in the dark with her knees drawn up and counted the flasks in her head, and found that there were enough, and counted them again.
+On the hour, by her watch, he went down the corridor to the lavatory with his bag, and came back with his hair still hers: at two, and at three, and so on down England. There were nine marks on each flask, done with a diamond, and he was to drink to the next one and no further. Each time the corridor was a little emptier, and the lamps had come on in it, and she sat in the dark with her knees drawn up and counted the flasks in her head, and found that there were enough, and counted them again.
 
 ⁂
 
@@ -94,7 +94,7 @@ She turned away. She went back across the hall towards the drawing room, with he
 
 Lyra stood in the hall of her own house, a yard from her own face, and watched her mother choose.
 
-She had seen her mother choose before, she thought, without knowing what she was watching; and she had taken it for weakness, because she had been younger and had known nothing whatever about anything. It was not weakness. She saw that now. She saw a woman with her hand on a door, in her own house, with a man in the drawing room who had once taught her son to pour tea, deciding in the space of a breath, with no time and no help and nobody to ask, which of her children she was going to lie for; and choosing both.
+She had seen it before, she thought, and taken it for weakness; she had been younger then, and had known nothing whatever about anything. There were two children in that house. Her mother had been asked, with her hand on a door, which of them she would lie for, and had not troubled to answer the question.
 
 She found that she could not see the staircase very well. She pressed, all the same. Up.
 
@@ -132,7 +132,13 @@ The place was at the Dark Lord’s left hand, opposite Draco, with the second-be
 
 She could see feet. That was all, from there. Her mother’s grey slippers, side by side. Aunt Bella’s boots, which were not clean. Avery’s, and old Nott’s, and somebody she did not know. Professor Snape’s black ones, at the far end, quite still. Draco’s small polished shoes, on the rung of his chair, where he had been told not to put them. And in the middle of the left side, in front of her own chair, her own black shoes with the strap, polished so that one could have shaved in them, with somebody’s feet in them who had never worn a strap in his life, set neatly together on the carpet and pressed down hard, as though the floor might go.
 
-She had the end of the Cloak in her teeth. She had counted: he had drunk the last flask but one on the landing at a quarter to nine, with her fingers on his elbow, and there were fifty minutes on it, and the last was in the pocket of the grey.
+And there was something else under the table.
+
+She had not seen it come. She had taken it, at first, for the shadow of the cloth. It lay along the carpet from the head of the table to the middle, as thick as her mother’s waist, with the firelight going down it in small dull scales; and the end of it, which was the head, rested across the instep of a long narrow shoe, and now and then put out a tongue to see what the air was doing. It was about four feet from her knees. She had never been told its name.
+
+She breathed through her mouth, and very little.
+
+She had the end of the Cloak in her teeth. She had counted: he had drunk to the last mark but one on the landing at a quarter to nine, with her fingers on his elbow; that gave him until a quarter to ten, and there was one swallow left in the pocket of the grey.
 
 They let the soup go round. He never ate. She heard the glass turn by the stem, on the cloth above her, as she had heard it turn every night of every holiday for a year; and she heard Avery tell a story about a train, and Aunt Bella laugh at the wrong part. She heard her mother say something about the snowdrops. She heard nothing from her own chair for a long time, and then a spoon set down.
 
@@ -180,9 +186,9 @@ She did not know what he saw. She knew what was there to see. A long table laid 
 
 The stool.
 
-She had written it on the left of her chair, beside the marmalade, where it went.
+She had written it beside the marmalade, hard against her chair, where it went.
 
-She knew it the moment she thought of it, with the whole of her, as one knows a step is missing in the dark. The stool was not where it went. It had not been there since the last night of the year before last, when a long white finger had come down in her own head and lifted it, and turned it to the light, and looked underneath, and set it down again a little to the left. She had watched him do it. She had felt the Hat lift. And she had sat on a rug in February with a pencil, and written the stool down where she had put it, at eleven, and not where he had left it; because she had never once in fourteen months let herself look at the place where it was now, and her pencil had stopped above the word, and gone on.
+She knew it the moment she thought of it, with the whole of her, as one knows a step is missing in the dark. It did not stand there. It had not stood there since the last night of the year before last, when a long white finger had come down in her own head and lifted it, and turned it to the light, and looked underneath, and set it down again a hand’s breadth off, towards the window, where it had no business. She had watched him do it. She had felt the Hat lift. She had gone to it there on bad nights for fourteen months and never once looked at the gap. And she had sat on a rug in February with a pencil, and written the stool down where she had put it, at eleven, and not where he had left it; her pencil had stopped above the word, and gone on.
 
 He would come to the table. He always came to the table. He would come to the stool.
 

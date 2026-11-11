@@ -15,7 +15,8 @@
 - **Bellatrix:** aturdida, viva. **Colagusano y Avery:** huidos.
 
 ## Fichas
-La varita de Lyra: con Harry. La de Harry: con Lyra (la cogió al cruzar el comedor). La varita de Saúco: en la mano de Dumbledore, bajada. La Capa: en el comedor. El abrigo de Lupin: en Harry. La Marca de Lyra: cerrada.
+La varita de Lyra: con Lyra (la recuperó al cruzar el comedor). La de Harry, de acebo: con Harry; es la que apunta a Dumbledore. Las gafas: Harry, con el pañuelo de ella. La varita de Saúco: en la mano de Dumbledore, bajada. La Capa: en el comedor. El abrigo de Lupin: en Harry. La Marca de Lyra: cerrada.
 
 ## Notas
+- **Crítica de Fable aplicada (11 de noviembre):** Harry no ve sin gafas: Lyra le enseña la muñeca de cerca y le devuelve las gafas en el vestíbulo, envueltas en su pañuelo. Lyra recupera su varita al cruzar el comedor; Harry lleva la suya, de acebo, y con ella le mueven el brazo contra Dumbledore. «Bellatrix» en el narrador. **Siembras que no pagan esta noche y quedan para la tanda siguiente:** la novena cláusula del contrato y «And smile. Like you mean it».
 3.900 palabras. Sin romance. Quedan para la tanda siguiente: qué se cuenta fuera; por qué los diecisiete; el Voto (Lyra no lo sabe aún); Abraxas en el ala este; Crabbe y el papel; Ron y el claro.

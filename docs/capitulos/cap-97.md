@@ -22,4 +22,5 @@
 La copa y el anillo: rotos, en el salón de abajo. La serpiente: muerta, con el colmillo dentro. La varita de Lyra: en la mano de Harry. El vestido gris y los zapatos: puestos, en Harry. Las gafas: no las tiene.
 
 ## Notas
+- **Crítica de Fable aplicada (11 de noviembre):** a Harry le mandan arriba a las nueve y veinte por la jaqueca; Lyra sale tras el elfo de la sopera y vuelve a entrar bajo el mantel cuando Pobble aguanta la puerta. El cebo no salta, y algo detrás de su oreja se alegra. Lyra espera tras dos puertas. La muñeca de Snape lleva ardiendo desde la sopa, por una chica que no está en su silla, y sigue humeando tras su muerte; no es lo que le mató. El verde solo aparece una vez. «Bellatrix» y «Narcissa» en el narrador de Harry.
 3.400 palabras: el más corto de la tanda, a propósito. Sin calor, como pedía el guion. Lo que no pasa por el punto de vista de Harry (el Voto) queda para el 98 y la tanda siguiente.

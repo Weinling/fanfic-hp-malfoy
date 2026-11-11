@@ -2,7 +2,9 @@
 
 The drawing room had eleven windows, and the board was by the second.
 
-He found it in the dark, by counting, with her face on and her shoes pinching and the last of the potion going down his throat like cold mud. Nobody had lit the lamps in there tonight. The fire was banked, and red, and gave just enough to see the long pale room go away into shadow on either hand: sofas under dust-sheets, a harp with a cover on it, a clock that had stopped at twenty past four on some afternoon in another century. The floor was oak, laid in narrow boards, the length of the room, and polished until it gave back the fire; and two yards out from the second window, where the curtains did not quite meet, there was one board that was a shade lighter than the others, and that the polish had not had so long to work on.
+He had been sent up at twenty past nine with a headache that was Narcissa’s invention, and told to lie down until he was wanted. He had gone up the east stair as far as the turn. She had come out from under the cloth behind the elf with the tureen, a hand’s breadth from Avery’s chair; he knew it only because two fingers found his wrist on the landing, and were as cold as the banister.
+
+He found the board in the dark, by counting, with her face on and her shoes pinching and the last of the potion going down his throat like cold mud. Nobody had lit the lamps in there tonight. The fire was banked, and red, and gave just enough to see the long pale room go away into shadow on either hand: sofas under dust-sheets, a harp with a cover on it, a clock that had stopped at twenty past four on some afternoon in another century. The floor was oak, laid in narrow boards, the length of the room, and polished until it gave back the fire; and two yards out from the second window, where the curtains did not quite meet, there was one board that was a shade lighter than the others, and that the polish had not had so long to work on.
 
 A child had seen that, holding a lamp.
 
@@ -14,7 +16,7 @@ The board did not move. Nothing happened to it that he could see. But there was 
 
 She took her hand away at once. He felt her go.
 
-That had been on paper too. A room’s length, and further. Whatever the things under this floor did when they were broken, and he knew what they did, he had heard it in two lives, it must not be done within a room’s length of her left arm. So she went. He felt the air move as she got up, and heard nothing; and then the door at the far end of the room, which had been standing ajar, swung to by about an inch, and then by another, and then stopped, as though a draught had caught it. She would be in the gallery. She would be standing against the panelling with her arm held out from her body, as far from the door as the gallery went, with her eyes shut. He had watched her practise it, on the seventh floor, a dozen times, while he read the Greeks aloud for once and she walked away from him and back.
+That had been on paper too. A room’s length, and further. Whatever the things under this floor did when they were broken, and he knew what they did, he had heard it before, it must not be done within a room’s length of her left arm. So she went. He felt the air move as she got up, and heard nothing; and then the door at the far end of the room, which had been standing ajar, swung to, an inch at a time, as though a draught had caught it, and latched. He counted her after that: the length of the gallery, and the baize door at the end of it, and the passage beyond, where the portraits began. Two doors. She would be standing against the panelling with her arm held out from her body, with her eyes shut. He had watched her practise it, on the seventh floor, a dozen times, while he read the Greeks aloud for once and she walked away from him and back.
 
 He was by himself.
 
@@ -28,13 +30,17 @@ He set it on the oak. He took out the fang.
 
 He had carried it since a night in the Chamber when he was twelve, wrapped in a sock in the bottom of his trunk, and then in his robes, and then for years in the inside pocket where other people kept a wand they did not use; he had done the diary with it, and the diadem, the first night back, on a heap of other people’s rubbish. It was curved, and yellow, and longer than his hand. Her hand. He held it as he had held it then.
 
-He did not wait. He had learnt that, if nothing else, in two lives: that the waiting was where it got at you. He brought it down into the bowl of the cup with the whole of his weight.
+He did not wait. He had learnt that, if nothing else: that the waiting was where it got at you. He brought it down into the bowl of the cup with the whole of his weight.
 
 The noise came up out of the gold.
 
 It was not loud; it was worse than loud, and it went into him by the soles of the feet and the roots of the teeth, a long high grating shriek like a thing being dragged out of a place it had grown into, and the cup jumped on the oak and rang and lay still, with a black split down the side of it and something like smoke coming out of the split and going away into the dark; and the drawing room was quiet again, and the clock had not started, and the fire had not moved.
 
-He was on his hands and knees. He found that he was breathing like a runner. He did not know whether anybody in the house had heard. He thought of a man two rooms off with a glass in his hand, and of the board, and of the length of a room, and he could not tell; and there was nothing to be done about it now.
+He was on his hands and knees, breathing like a runner. Nothing came. No bell rang; no door opened; nothing had been laid on that board but polish. He had spent six weeks getting ready for whatever was under it, and there was nothing under it but a cup.
+
+*It is the door he wants you to find.* She had written that in February, and he had said that he knew. He knelt on the oak with a split cup in front of him and found that he did not know at all; and behind his right ear, for about as long as it takes to notice a thing, something that was not relief sat quite still, and was pleased.
+
+He did not look at that. There was not time.
 
 The ring was in the corner, on the cloth, by itself.
 
@@ -54,7 +60,7 @@ He sat back on his heels. He did not look at it again.
 
 ⁂
 
-She was in the gallery, as he had known she would be, at the far end of it under the portraits, flat against the panelling with her eyes shut and her left arm held out from her side as if it were something she was carrying for somebody else. He could not see her. He knew where she was because the Cloak had caught on the frame of a picture, and the picture was of an old man in a ruff, and the old man in the ruff was looking down at the air beside him with an expression of the most profound disgust.
+She was in the passage beyond the gallery, as he had known she would be, under the portraits, flat against the panelling with her eyes shut and her left arm held out from her side as if it were something she was carrying for somebody else. He could not see her. He knew where she was because the Cloak had caught on the frame of a picture, and the picture was of an old man in a ruff, and the old man in the ruff was looking down at the air beside him with an expression of the most profound disgust.
 
 He put two fingers on her wrist. Down. Done.
 
@@ -62,19 +68,21 @@ He felt her breath go out of her, all of it, the length of the arm.
 
 Then he put the fang into her hand, wrapped in the sock, and felt her fingers close on it; and he went on along the gallery, in her shoes, with her face, at twenty to eleven, to the door of the dining room, where a footman of very small size, with his ears flat to his head, was standing to say that the Dark Lord had asked for Miss Malfoy, and that the family were all waiting.
 
+The elf held the door. It held it a moment longer than one person needed, with its eyes on the floor; and something that was not a draught went past his ankles, low down, and in under the cloth.
+
 ⁂
 
 They were all there.
 
-They had not left the table. The candles had burnt down, and the cloth had been cleared but for glasses and a dish of almonds; and they were sitting where they had sat at dinner, as people sit in a box at the theatre before the curtain, with their chairs turned a little towards the head of the table and their faces lit from below. Avery. Old Nott, with his hat on his knee. Aunt Bella, leaning forward with her chin in her hands and her eyes very bright. Professor Snape, at the far end, quite still, with his hands on the cloth. Lyra’s mother, upright, in the dove-grey, with one hand flat on the table; and beside her chair, with her other hand closed round his wrist, Draco, in his grey suit, standing.
+They had not left the table. The candles had burnt down, and the cloth had been cleared but for glasses and a dish of almonds; and they were sitting where they had sat at dinner, as people sit in a box at the theatre before the curtain, with their chairs turned a little towards the head of the table and their faces lit from below. Avery. Old Nott, with his hat on his knee. Bellatrix Lestrange, leaning forward with her chin in her hands and her eyes very bright. Professor Snape, at the far end, quite still, with his hands on the cloth. Narcissa, upright, in the dove-grey, with one hand flat on the table; and beside her chair, with her other hand closed round his wrist, Draco, in his grey suit, standing.
 
 At the head of the table, in Lucius Malfoy’s chair, the Dark Lord was turning a glass.
 
-He did not look angry. Harry had seen him angry, in two lives, and it was not like this. He looked as a man looks at the end of a long and pleasant dinner, when there is one small matter of business still to see to before he can go up.
+He did not look angry. Harry had seen him angry. It was not like this. He looked as a man looks at the end of a long and pleasant dinner, when there is one small matter of business still to see to before he can go up.
 
 “Ah,” he said. “There you are. Come in, my dear. Come and stand where I can see you. No, not there. On the hearthrug. That’s right.”
 
-Harry went and stood on the hearthrug. He did it as she had taught him: straight through the door, without stopping in it, and across the room, and then still. He did not look at the face. He looked at the shoulder, and then at the glass. Under the long table, in the dark, among the legs of the chairs, something heavy shifted on the carpet and lay out along the floor towards the fire; and somewhere among the legs, a yard behind it, there was a girl with a fang.
+Harry went and stood on the hearthrug. He did it as she had taught him: straight through the door, without stopping in it, and across the room, and then still. He did not look at the face. He looked at the shoulder, and then at the glass. Under the long table, in the dark, the thing that slept on its master’s foot had shifted, and lay out along the carpet towards the fire; and a yard behind its head, where she had spent the whole of the soup learning the length of it, there was a girl with a fang.
 
 He could not think about that. He had a minute. He had less.
 
@@ -84,7 +92,7 @@ He could not think about that. He had a minute. He had less.
 
 “And so I am afraid it has fallen due.” He said it gently. He set the glass down on the cloth. “You understand that this is not anger. I have no wish whatever to do it. You have been extremely useful to me, and I have been very fond of you, and your brother pours a beautiful cup of tea. But a thing that is not paid is not a debt, it is a gift; and I have never in my life made a gift, and I am too old to start.” He stood up. He took his wand out of his sleeve: long, and pale, and old. “Narcissa, you had better take the boy out.”
 
-Her mother did not move. Her hand had closed on Draco’s wrist so that the knuckles were white. Draco had not moved either. He was looking at Harry’s face, which was his sister’s, without blinking.
+Narcissa did not move. Her hand had closed on Draco’s wrist so that the knuckles were white. Draco had not moved either. He was looking at Harry’s face, which was his sister’s, without blinking.
 
 “Miss Malfoy,” said the Dark Lord. “I asked you for a thing, and it is undone; and so I must ask you, with very great regret, for your life.”
 
@@ -98,11 +106,11 @@ This was it. He knew that, quite clearly, in the middle of it. *It must be he wh
 
 He stood still. He lifted his chin.
 
-The green began at the end of the wand, small, the size of a coin.
+The Dark Lord drew breath for it. He was a man who liked to say the whole of a thing.
 
 And somebody stood up at the far end of the table.
 
-He did not see it happen. Nobody did. There was a chair going over, very loud in that silence, and a long black shape coming down the side of the table faster than he had ever seen it move, with the candle-flames lying flat behind it; and Harry saw, as it came, that the man had his left hand clamped round his right wrist, as he had had it clamped in a hospital corridor and on the threshold of a shop, and that there was smoke coming up between his fingers.
+He did not see it happen. Nobody did. There was a chair going over, very loud in that silence, and a long black shape coming down the side of the table faster than he had ever seen it move, with the candle-flames lying flat behind it; and Harry saw, as it came, that the man had his left hand clamped round his right wrist, as he had had it clamped in a hospital corridor and on the threshold of a shop, and that there was smoke coming up between his fingers. He had had it so since the soup. Harry had taken it, at dinner, for a way of sitting. Whatever was under that cuff had been burning for two hours, for a girl who was not in her chair; and he had sat and let it.
 
 Snape did not look at the Dark Lord. He did not look at the wand.
 
@@ -114,11 +122,11 @@ It was not said to her, or to anybody else in the room.
 
 He stepped in front of the hearthrug.
 
-He did it as you would step in front of a door: square, with his back to Harry and his arms a little out from his sides, filling the space. There was not time for anything else. There was not time for a word. Harry, behind him, saw the black back of him, and the lank hair, and past his shoulder the end of the Dark Lord’s wand and the green coming out of it; and then the green, which had been for somebody else, went into Severus Snape instead, in the middle of the chest, with a sound like a great rush of wind going past in the dark.
+He did it as you would step in front of a door: square, with his back to Harry and his arms a little out from his sides, filling the space. There was not time for anything else. Harry, behind him, saw the black back of him, and the lank hair, and past his shoulder the end of the Dark Lord’s wand and the green coming out of it; and then the green, which had been for somebody else, went into Severus Snape instead, in the middle of the chest, with a sound like a great rush of wind going past in the dark.
 
 He did not fall at once. He stood there for a moment, quite still, as if he had been asked a question and was considering how to answer it. Then his knees went, and he came down on the hearthrug, sideways, without putting out a hand, and lay on his face at Harry’s feet, between Harry and the fire.
 
-His left hand had come off his right wrist. There was a mark there, round the bone, raw and black, as though a wire had been pulled tight.
+His left hand had come off his right wrist. There was a mark there, round the bone, raw and black, as though a wire had been pulled tight; and it was not what had killed him. Harry knew that much. He did not know what it was. He knew only that it had gone on smoking for a moment after the man was dead, as a thing does that has not been told.
 
 Nobody in the room moved.
 
@@ -136,7 +144,7 @@ Not a person: a long thin rising noise like a kettle, like a creature in a trap;
 
 It took a long time to die, perhaps half a minute. Nobody went near it.
 
-Aunt Bella was on her feet, screaming too. Avery had his wand out and did not know where to point it. And at the head of the table the Dark Lord had turned, quite slowly, away from the man on the hearthrug, and was looking at the snake, and then at the empty air under the table where the cloth had been dragged away, where there was nothing at all to see but a rumpled corner of something silvery, and a small white hand, holding on to a chair-leg, with ink on the second finger.
+Bellatrix was on her feet, screaming too. Avery had his wand out and did not know where to point it. And at the head of the table the Dark Lord had turned, quite slowly, away from the man on the hearthrug, and was looking at the snake, and then at the empty air under the table where the cloth had been dragged away, where there was nothing at all to see but a rumpled corner of something silvery, and a small white hand, holding on to a chair-leg, with ink on the second finger.
 
 He knew. Harry saw him know. He saw him look at the snake, and at the empty air, and at the hearthrug, and at the face on the hearthrug that was standing over Severus Snape’s body with a pale wand in its hand; and he saw him count, very fast, as a man counts the doors of a burning house: the cup, and the ring, and the snake.
 
