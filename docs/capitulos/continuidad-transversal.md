@@ -460,6 +460,8 @@ En orden de lectura. Las fechas marcadas «deducida» no las da el texto: salen 
 
 - **94 (17 feb.-6 mar. 1997):** ver `cap-94.md`. *Twice.* de Snape. Riddle cree la versión del bombón por pena. **La copa y el anillo, bajo una tabla junto a la segunda ventana del salón: lo contó Draco** en un papel que le pasó a Lyra bajo el platillo el 5 de enero (89, retocado). Harry recibe el cuarto de ella por papel; el taburete, donde ella lo puso. Invitación a Pascua en voz alta. Multijugos en la Sala, listo el 21 de marzo; Neville da las hierbas «for the kid». Harry ganó la varita de ella en junio. La cicatriz aguantó sola la noche del 15.
 
+- **95 (marzo-21 mar. 1997):** ver `cap-95.md`. Ensayo con regla y tablas. Hermione lo deduce por el registro de la Sección Prohibida y el candado de Snape; pide que no mienta a Ron, y él no puede. Ron: «Am I coming?» «No»; media patata. «Don’t ask me again.» El anillo de Lyra, plata en el dedo de Harry. «Chin up. And smile. Like you mean it», sin que ella sepa que ya lo dijo en 1991. **Sin beso** (ver el manual).
+
 - **Pobble es elfa** (2, 26, 36, 56, 74). **Hermione exigió el silencio ante Ron** y lo escribió ella (51, 83). Crouch padre estuvo controlado de octubre de 1994 a junio de 1995.
 
 ## 5. Fichas vivas
