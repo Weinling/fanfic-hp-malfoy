@@ -1,6 +1,6 @@
 # Prompt de apertura
 
-*10 de noviembre de 2026. Se pega al empezar una sesión nueva. Sustituye al del 5 de noviembre (en `docs/archivo/sesiones/`).*
+*10 de noviembre de 2026, retocado el 11. Se pega al empezar una sesión nueva que tenga que conocer el rumbo (guiones, decisiones). Para seguir escribiendo capítulos basta con lo que pide `CLAUDE.md`. Sustituye al del 5 de noviembre (en `docs/archivo/sesiones/`).*
 
 ```
 Sigues el trabajo de «Never Own a Malfoy, Potter». Trabajas en español con el autor, Edén; los capítulos van en inglés británico. Esta sesión no tiene una tarea cerrada de antemano: tienes que conocer la historia y su rumbo lo bastante para escribir guiones y también para discutir ideas, decisiones, tramas, personajes y cambios en los capítulos sin publicar.
@@ -12,7 +12,7 @@ PONTE AL DÍA
 1. El núcleo, entero y en este orden:
    - docs/estado-de-trabajo.md
    - docs/handoff-v4.0.md
-   - docs/notas/reestructura/decisiones.md (todo; §5 a §11 son el rumbo vigente)
+   - docs/notas/reestructura/decisiones.md (todo; §5 a §12 son el rumbo vigente)
    - docs/notas/reestructura/guion-general.md
    - docs/notas/lo-que-sabe-harry.md
    - docs/notas/reestructura/numeracion.md
@@ -37,17 +37,17 @@ PONTE AL DÍA
 No leas la historia entera. No abras coreano/, referencia/ ni fuentes/. No leas el original.
 
 LO QUE DEBES TENER CLARO
-- Publicado hasta el 40: del 1 al 40 no se toca; una errata se apunta en erratas-publicado.md. Del 41 en adelante se puede cambiar a fondo, sin contradecir lo publicado.
+- Publicado hasta el 42: del 1 al 42 no se toca; una errata se apunta en erratas-publicado.md. Del 43 en adelante se puede cambiar a fondo, sin contradecir lo publicado.
 - Los informes de Codex son criterio, no órdenes. Mandan las decisiones del autor.
 - Harry es gris: actúa, desea y se equivoca; nada de nobleza que no se haya ganado. Lyra es una cría y se rompe delante de los demás. La amistad va en la línea principal, y los amigos tienen vida propia.
 - La posesividad se narra ambigua: ni se explica, ni se justifica, ni se aclara si es inocente. Menos besos, y los que queden, con tierra física. Nada de segundas explicaciones.
 - Si dejas algo fuera por un límite tuyo, dilo al entregar cada escena, con una línea final: «Fuera por mi límite:» y lo que quedó fuera, o «Nada». No lo disfraces de problema de voz ni lo presentes como regla del autor.
-- Cada capítulo nuevo o rehecho lo revisa un crítico Opus nuevo, a ciegas, antes de cerrarlo.
+- La crítica va por tandas y a ciegas, en segundo plano mientras se escribe lo siguiente: Fable para una tanda o un capítulo muy especial, Opus para lo demás (`CLAUDE.md`).
 - Comprueba la rama antes de cada commit: Codex trabaja en su propia carpeta y alguna vez ha cambiado la de aquí.
 
 PENDIENTE
 - Decidir si se retiran cinco besos en reserva: trabajo 60, 61, primer beso del 62, 64 y el de la escalera del 65.
-- El guion del tramo 4, del baño a julio de 1997, para que el autor lo apruebe antes de escribir.
+- La tanda 87-98 está escrita hasta donde diga el estado; su guion, en borradores/guion-tanda-87-98.md. El guion de la tanda siguiente se escribe con Fable.
 - Sigue en pie la decisión §7 (el otro Harry perdió), con lo que añade el §10.
 
 AL TERMINAR DE LEER, UN MENSAJE CORTO

@@ -126,7 +126,7 @@ Detalle del fondo en `docs/notas/lo-que-sabe-harry.md`. Lo decidido (`docs/notas
 1. **Leer antes de crear:** este handoff y la continuidad enteros; el guion de la tanda; los manuales que toque y los tres capítulos anteriores en texto. El original no se lee (`decisiones.md`, §9). Grep de cada nombre, objeto, lugar o «primera vez».
 2. **Escribir** en `borradores/cap-NN-titulo.md`.
 3. **Pasada de tics y lectura en frío.**
-4. **Crítico Opus** (subagente; se reutiliza mientras le quepa). Encargo: `docs/notas/reestructura/encargo-criticos-opus.md`. Escribe en `docs/notas/criticas-opus/`.
+4. **Crítica por tandas** (`CLAUDE.md`): Fable para una tanda o un capítulo muy especial; Opus para lo demás. Corre en segundo plano mientras se escribe el capítulo siguiente. Encargo: `docs/notas/reestructura/encargo-criticos-opus.md`. Escribe en `docs/notas/criticas-opus/`.
 5. **Arreglos**, decidiendo con motivo.
 6. **Manual, continuidad y estado.** Commit y push a la rama y a `main`.
 

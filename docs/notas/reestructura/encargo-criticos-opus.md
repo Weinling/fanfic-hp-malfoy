@@ -1,11 +1,11 @@
-# Encargo de los críticos de la reestructura (Opus)
+# Encargo de los críticos (Opus y Fable)
 
 *4 de noviembre de 2026. Dos críticos, cada uno en su sesión y con su tanda. Este documento es común a los dos; el prompt de cada uno está al final.*
 
 ## Reglas
 
 - **No editas ningún capítulo.** Escribes solo tu informe y haces commit de ese archivo, con ruta explícita. Otra sesión está escribiendo en `borradores/`: no toques nada más ni hagas `git add .`.
-- **Sin subagentes y sin Fable.** La lectura la haces tú, una vez, en orden.
+- **Sin subagentes.** La lectura la haces tú, una vez, en orden. (Desde el 11 de noviembre el crítico de una tanda o de un capítulo muy especial es Fable; los demás, Opus. Este encargo vale para los dos.)
 - **Críticas a ciegas.** No leas `docs/notas/reestructura/` (salvo este archivo), guiones, fichas, manuales, handoff, `coreano/` ni `referencia/`. Tampoco capítulos posteriores a tu tanda.
 - **De `docs/critico-v2.0.md`** lee las secciones 2 a 5. No uses el formato de la 6 ni el ranking: el formato es el de abajo.
 - **Continuidad:** no leas toda la historia. Busca con grep en `manuscrito/` y `borradores/` (solo `cap-NN-*`, `extra-*` e `interludio-*`, nunca `*ficha*` ni `guion*`, y sin pasar del número de tu tanda) cada nombre, objeto, lugar, fecha o «primera vez» que dudes, y lee esos pasajes. Si hay choque, cita las dos líneas con archivo y número. Del 1 al 37 está publicado y no se puede cambiar: si choca, se arregla lo nuevo.
@@ -74,4 +74,31 @@ Tu tanda es de enemigos que no se quitan las manos de encima: comedia, recaídas
 - ¿Funciona el extra del ajedrez justo después del 52? ¿Se pasa el final del tramo de plantar cosas?
 
 Escribe el informe en docs/notas/criticas-opus/reestructura-44-54.md, con commit de ese archivo y push de tu rama. Al acabar, dime el veredicto en cinco líneas.
+```
+
+## Prompt del crítico de la tanda 87-93 (Fable, 11 de noviembre)
+
+Va como subagente en segundo plano mientras se escribe el 94. Escribe su informe, no hace commit (lo hace la sesión principal).
+
+```
+Eres el crítico externo de «Never Own a Malfoy, Potter», un fanfic de Harry Potter en inglés británico con Lyra Malfoy en lugar de Draco. Repositorio: /Users/eden/Documents/fanfic-hp-malfoy. Ignora todo archivo cuyo nombre acabe en « 2.md».
+Lee primero docs/notas/reestructura/encargo-criticos-opus.md y cúmplelo, salvo dos cosas: no haces commit (otra sesión escribe a la vez en borradores/ y lo hará ella) y la vara de la voz son el 36 y el 37.
+
+Lee en este orden, enteros, en borradores/:
+- Como vara de la voz, sin criticarlos: cap-36-below-stairs, cap-37-the-north.
+- Como entrada, sin criticarlos: cap-85-its-a-nice-one, cap-86-twenty-three.
+- Tu tanda: cap-87-what-i-found, cap-88-clauses, cap-89-when-it-falls-due, cap-90-sit-on-you, cap-91-under-owing, cap-92-tea, cap-93-not-yet.
+Los títulos llevan el número del lector (cap-93 es el «Chapter 99»); cita siempre por archivo:línea.
+
+La tanda va del 19 de diciembre de 1996 al 15 de febrero de 1997: tras el baño, él le ha abierto el brazo y ella sigue sin poder hablar porque la Marca oye. Mira sobre todo:
+- ¿Duele Greer desde fuera de Lyra (87, 91) y sin que nadie la perdone? ¿Supervivencia se confunde en algún sitio con reparación?
+- Las reglas del oído: lo que se dice en voz alta, lo que va en papel y se quema, y lo que solo se puede decir. ¿Alguna escena las dobla porque le conviene? ¿Se entiende sin que se explique?
+- Dumbledore (87, 93): ¿se lee como oscuro, o el texto le limpia? Harry: ¿sigue siendo gris o se ha vuelto noble? ¿Lyra se rompe delante de los demás o se vuelve demasiado adulta?
+- El 91 desde Crabbe: ¿voz propia o Lyra con otro nombre? ¿Pesa su decisión?
+- El 92 y el 93: ¿la Amortentia y la novena cláusula funcionan como consentimiento y no como gesto bonito? ¿La espera del 93 se sostiene o se estira? ¿El 93 paga sin beso?
+- Las cuentas: veintitrés y veintidós, fechas, el sexto del bombón, los siete minutos y los once.
+- Extensión: los siete pasan de 4.200 palabras (de 4.600 a 5.350). Di qué escena o párrafo cortarías en cada uno, si alguno, y qué se perdería.
+- Repetición entre capítulos: arranques, finales con gesto mudo, objetos que vuelven con su historia entera, «It» en los golpes.
+
+Escribe el informe en docs/notas/criticas-opus/tanda-87-93.md, con el formato del encargo. Al acabar, responde con el veredicto en cinco líneas y las tres correcciones que más importan.
 ```
