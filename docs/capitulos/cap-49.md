@@ -11,7 +11,7 @@
 - «Educational Decree Twenty-Four, page nine.»
 - «Insolent use of a window seat»
 - «Mine,» said Lyra.
-- «Never own a Malfoy,»
+- «Never own a Malfoy… You said» (lo dice Harry, 49:137)
 - «Eighty-five,»
 - «Fifteen. One was a line. One was fraud.»
 - «Is it safe?»

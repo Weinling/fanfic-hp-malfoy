@@ -7,18 +7,18 @@
 3. **Potter en la mesa.** Tras cuatro días evitándole, él llega a su mesa y se sienta al revés en la silla: “You’ve been avoiding me.” Lee el título de la redacción y se pone serio: “What are you putting in it?” / “Everything in the book. Nothing that isn’t.” / “Good.” Le pide que cuente cómo cogió la Snitch; ella lo hace (el falso picado, Wood mirando), sin el frío ni la parte del medio. “You let go of the broom?” / “On purpose.” “Your third one worked.” “You held on.” / “That’s two I owe you, then.” / “You haven’t paid the first.” Ella renuncia a cobrar el “cómo lo sabía” y gasta la pregunta en: “On the train. When you came round. Who did you hear?” — “My mum... It’s the only way I get to hear her.” — “Mine’s a stand. The Slytherin one, coming at me. About two seconds of it.” — “It ends, though.” — “Not in theirs.” Pince cierra; él mete la silla bajo la mesa y dice: “Malfoy. Thanks for asking.” Pince apaga la lámpara.
 
 ## Frases literales importantes
-- “I’m told you stayed with him.” / “I was trying to catch the Snitch, sir. He was in the way.” (l. 33-39)
-- “Thank you, Professor. But I won.” (l. 45)
-- “The offer stands, all the same. It doesn’t expire.” (l. 49)
-- “Malfoys paid what they owed.” (l. 93); “She did not have to like the creditor.”
-- “You’ve been avoiding me.” / “Winning takes up a surprising amount of time.” (l. 103-105)
-- “Everything in the book. Nothing that isn’t.” / “Good.” (l. 115-119)
-- “You let go of the broom?” / “On purpose.” (l. 137-141)
-- “You held on.” / “That’s two I owe you, then.” / “You haven’t paid the first.” (l. 151-159)
-- “On the train. When you came round. Who did you hear?” (l. 171)
-- “My mum... It’s the only way I get to hear her.” (l. 177-181)
-- “Mine’s a stand.” / “It ends, though.” / “Not in theirs.” (l. 185-191)
-- “Malfoy... Thanks for asking.” (l. 197-201)
+- “I’m told you stayed with him.” / “I was trying to catch the Snitch, sir. He was in the way.” (l. 45-51)
+- “Thank you, Professor. But I won.” (l. 59)
+- “The offer stands, all the same. It doesn’t expire.” (l. 63)
+- “Malfoys paid what they owed.” (l. 145); “She did not have to like the creditor.”
+- “You’ve been avoiding me.” / “Winning takes up a surprising amount of time.” (l. 159-161)
+- “Everything in the book. Nothing that isn’t.” / “Good.” (l. 171-175)
+- “You let go of the broom?” / “On purpose.” (l. 195-199)
+- “You held on.” / “That’s two I owe you, then.” / “You haven’t paid the first.” (l. 209-217)
+- “On the train. When you came round. Who did you hear?” (l. 229)
+- “My mum... It’s the only way I get to hear her.” (l. 235-239)
+- “Mine’s a stand.” / “It ends, though.” / “Not in theirs.” (l. 243-249)
+- “Malfoy... Thanks for asking.” (l. 255-259)
 
 ## Fichas (objetos y motivos)
 - **Orbe del boggart de Lupin = la luna** (confirma el cap. 4).

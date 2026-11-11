@@ -823,20 +823,29 @@ El resto (87, 88, 89, 90, 91, 92, 94, 96, 98) se pueden conocer por el manual, s
 
 ## Apéndice: choques entre manuales y texto (11 de noviembre)
 
-Los encontraron los lectores al redactar este manual. **Manda el texto.** Ninguno se ha corregido todavía en los manuales.
+Los encontraron los lectores al redactar este manual. **Manda el texto.**
 
-- **Manual del 12:** los números de línea van desplazados unas 58 líneas («Who did you hear?» está en 12:229, no en la 171).
-- **Madam Malkin’s:** hay tres versiones (1:41, 3:265, Y1-1:37) que no chocan si se leen como recuerdos distintos. El 95 usa la del 16 y el 3: las manos en los hombros y un dedo bajo la barbilla.
-- **Continuidad, 24:** dice que ella levanta la cara e interrumpe Narcissa. En el texto, ella abre los ojos al acordarse de la capa de su padre, y Narcissa llega después.
-- **Anillos:** el significado del azul («te echa de menos») y el del dorado del 25 y el 26 son lectura del manual. El texto da morado, dorado y verde (24:51). El verde del 87:53 no se explica.
-- **35:** no es que Lyra le robe a Fleur el segundo beso. Fleur besa la mejilla de Harry y Lyra corta el segundo besando a Fleur en las dos mejillas.
-- **Manual del 39:** «Those are the terms» y «Put it on the bill» son de Harry (39:369). **Manual del 49:** «Never own a Malfoy… You said» también es de Harry (49:137).
-- **Cuenta de besos del 49:** la continuidad dice dieciséis y una línea; el texto, «Fifteen. One was a line. One was fraud» (49:223). Desde el 57 nadie numera los besos.
-- **Manual del 47:** «It was worse than Lupin» no está en el texto.
-- **Manual del 50:** desfasado. Sus escenas 6 a 10 están ahora en el 50c, y la noche de Harry, en el 50b. Además, es «her cousin», no «el primo de Crabbe».
-- **Manuales del 72 y el 73:** dicen que Fudge ve a Voldemort. El texto solo muestra un bombín verde lima en el suelo (72:153).
-- **56 y 57:** los anillos se ponen rojos a horas distintas. Fallo ya anotado.
-- **Manual del 74:** «I don’t know. That’s why» es de Draco (74:201), no de Bellatrix.
-- **78:237:** a la rata le falta un dedo en la pata izquierda; en el 75 y en el canon, la derecha. Probable errata.
-- **Sin manual:** el Interludio 3 y el *Year Four* 3.
-- **Fallos menores ya conocidos:** 38:5 («the morning before the Third Task»), la pajarita de Draco (42 y 43), «seven weeks» en 44:121, el ajedrez del abuelo (Y4-1 frente a 41 y 54) y la edad de 55:77.
+**Corregidos el mismo día:**
+- Manual del 12: los números de línea van ahora con el texto.
+- Continuidad del 24: él le acerca la mano y ella abre los ojos al acordarse de la capa de su padre; Narcissa llega después.
+- Continuidad del 35: Lyra corta el segundo beso de Fleur besándola ella en las dos mejillas.
+- Continuidad del 49: diecisiete deducciones, que son quince besos, una línea y una trampa (49:223).
+- Manuales del 39 y el 49: «Those are the terms», «Put it on the bill» y «Never own a Malfoy… You said» son de Harry.
+- Manual del 47: fuera «It was worse than Lupin», que no está en el texto.
+- Manual del 50: avisa de que las escenas 6 a 10 están en el 50c y la noche de Harry en el 50b; «la prima de Crabbe».
+- Manual del 72: Fudge solo aparece como un bombín (72:153); que lo vio lo dicen el 73:113 y el 74:163.
+- Manual del 74: «I don’t know. That’s why» es de Draco (74:201).
+- Manuales nuevos: el Interludio 3 y el *Year Four* 3.
+
+**No eran choques:**
+- Madam Malkin’s tiene tres versiones (1:41, 3:265, Y1-1:37) que se leen como recuerdos distintos. El 95 usa la del 16 y el 3.
+- La rata del 78:237 tiene un dedo menos en la izquierda; la «right hand» del 75:31 es la de Karkaroff.
+
+**Siguen abiertos (fallos menores ya anotados en la continuidad):**
+- Los anillos del 56 y el 57 se ponen rojos a horas distintas.
+- 38:5 («the morning before the Third Task»).
+- La pajarita de Draco (42 y 43).
+- «seven weeks» en 44:121.
+- El ajedrez del abuelo (Y4-1 frente a 41 y 54).
+- La edad de 55:77.
+- Los colores de los anillos: el texto da morado, dorado y verde (24:51), y rojo y azul más tarde (48). El dorado del 25 y el 26 como relicario destruido es lectura del manual.

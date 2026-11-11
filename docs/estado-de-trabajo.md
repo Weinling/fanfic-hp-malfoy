@@ -26,7 +26,7 @@
 
 ## Pendiente, sin urgencia
 
-- **Manual por arcos hecho (11 de noviembre):** `docs/capitulos/arcos.md`, unas 21.000 palabras, con la lectura obligatoria. Se pone al día al cerrar cada tanda. Su apéndice lista quince choques entre manuales y texto sin corregir todavía en los manuales.
+- **Manual por arcos hecho (11 de noviembre):** `docs/capitulos/arcos.md`, unas 21.000 palabras, con la lectura obligatoria. Se pone al día al cerrar cada tanda. Los choques entre manuales y texto que encontró están corregidos (ver su apéndice); quedan solo fallos menores ya anotados.
 
 - Poda de segundas explicaciones del 40 en adelante, por tramos, antes de publicar cada uno.
 - Pasada de tics del 71 al 86 y de frase larga del 80 al 86, hechas el 6 de noviembre. Siguen por encima de lo publicado (36-37): frases con «It was» 7,8 por mil frente a 2,2; frases de cinco palabras o menos 21,6 frente a 9,7. Lo que queda se ataja al escribir, no con otra pasada.

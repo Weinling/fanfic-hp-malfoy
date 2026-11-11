@@ -6,7 +6,7 @@
 2. **La profecía.** Lucius: fila 97. Harry gana treinta minutos hablando. La coge y la deja caer. Rookwood presente. Dan a Cedric y a Neville (mandíbula). Hermione, quemada en un brazo.
 3. **Sirius.** Llega la Orden; él, con sal, arena y el papel en el bolsillo: «*Forty-one sheep!*» Bellatrix: «a nice day at the seaside… who she lends her wax to». **Harry entiende «he’s with my—».** Se pone delante; Sirius le aparta: **«Good one, Prongs.»** Cruza el velo.
 4. **«*Sec*—».** Corre tras Bellatrix por decisión propia. El brazo sube. Conoce la palabra: la usó a los dieciséis, en otra vida, en un baño, y juró. Corte de la sien a la boca; ella se ríe: «Oh, you little *beauty*.» ***Mine***, tras la oreja derecha. Le suena bien.
-5. **Después.** Dumbledore y «Tom». «Not today.» Fudge lo ve. Lucius, esposado: **«By four o’clock, as I asked. You may tell my daughter it was very well done.»** (Escudo para ella ante los suyos y veneno para Harry.) Hermione vio la fuente. Harry encuentra la varita de Lyra en el bolsillo.
+5. **Después.** Dumbledore y «Tom». «Not today.» El texto solo muestra un bombín verde lima en el suelo (72:153); que Fudge lo vio lo dicen Dumbledore (73:113) y Riddle (74:163). Lucius, esposado: **«By four o’clock, as I asked. You may tell my daughter it was very well done.»** (Escudo para ella ante los suyos y veneno para Harry.) Hermione vio la fuente. Harry encuentra la varita de Lyra en el bolsillo.
 6. **Coda.** Cinco horas y diez en la alfombra, 23 gatitos. Termina la palabra: *mother*. El anillo se apaga y vuelve frío. **Reconoce la sonrisa del armario.** *Please come.* Crabbe, con un frasco de agua, le quita el hechizo: «This isn’t anything.» Lyra se queda, de pie: *Stay there*.
 7. **Al amanecer.** Él sale por la chimenea y le devuelve la varita. «Sirius.» **«He was with my mother.» «I was trying to tell you.»**
 
@@ -14,7 +14,7 @@
 - **Harry** sabe que Sirius estaba con Narcissa y lo que ella intentaba decirle. Oyó a Lucius; no sabe qué significa. No sabe lo de la oferta por Draco.
 - **Bellatrix** vio de lo que es capaz Harry. **Hermione** también.
 - **Lyra** sabe que Harry es la cara del armario.
-- **Junior y Lucius**, detenidos. **Fudge** ha visto a Voldemort.
+- **Junior y Lucius**, detenidos. **Fudge** ha visto a Voldemort (dicho en 73:113 y 74:163; en el 72 solo su bombín).
 - La profecía está rota.
 
 ## Continuidad fácil de romper

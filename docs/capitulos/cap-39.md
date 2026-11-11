@@ -18,7 +18,7 @@
 - «I can’t be with you.»
 - «Who came?» / «Nobody.»
 - «Never *own* a Malfoy, Potter.»
-- «Put it on the bill.»
+- «Put it on the bill.» (lo dice Harry, 39:369)
 - «I don’t want you to go.» / «I don’t want to.»
 - «That was the last one.» / «I don’t want it to be.» / «This year.»
 
@@ -28,7 +28,7 @@
 - **El Owlery:** paja, búhos, una marca oscura en la paja donde él ha andado.
 
 ## Libro de cuentas
-- Él la puso «on credit» sin los términos; ella: «You could have owed me for the rest of your life». El beso es su respuesta («Those are the terms»).
+- Él la puso «on credit» sin los términos; ella: «You could have owed me for the rest of your life». El beso es su respuesta. «Those are the terms» lo dice Harry (39:369).
 - Mentira de ella en aquella aula, sin explicar.
 
 ## Quién sabe qué (al final)

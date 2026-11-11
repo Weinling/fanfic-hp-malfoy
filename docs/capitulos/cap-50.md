@@ -2,6 +2,9 @@
 - **Archivo:** `borradores/cap-50-pretext.md` · **Palabras:** ~5.280 · **Punto de vista:** Lyra · **Fecha(s) en la historia:** sábado 4 de noviembre de 1995, día del partido (1 a 5); domingo 5 (6); lunes 6 a jueves 9 (7, 8); viernes 10 (9, 10). Fechas deducidas del texto («the first Saturday of November») y del calendario del 49 · **Estado:** escrito
 
 ## Escenas
+
+**Ojo (11 de noviembre):** el capítulo se partió. Las escenas 6 a 10 de esta lista están ahora en `cap-50c-nobody.md` (*Nobody*), y la noche de Harry tras el partido, en `cap-50b-*.md` (*Lanterns*). Este manual las conserva juntas como resumen; para citar, ve al 50b o al 50c.
+
 1. **La carta de Lucius (changing room, mañana del partido).** Una sola cara, a toda prisa, con manchas de tinta: «*you will burn this*». El señor del norte ha tenido que dejar «the house in the north»: Dumbledore la vigilaba desde los acantilados, entre la niebla. **«*Somebody talked.*»** Él ha respondido «for myself and for your mother». Posdata: **«*Draco writes that he is happy. Keep him so.*»** La dobla en la manga izquierda, contra la muñeca.
 2. **El partido (Gryffindor–Slytherin).** Weasley guarda los aros por primera vez. La canción de Slytherin (un sexto curso, sobre Weasley, su familia y «a bin»); Lyra no canta ni la corta, aunque podría. Lleva la placa nueva, plateada, con una *I* (Inquisitorial Squad, que Umbridge le prendió el jueves). Potter coge la Snitch «a foot in front of hers»; en el choque se le sube la manga y asoma la carta; él lo ve. Lyra pierde.
 3. **Weasley y Granger (fuera de los vestuarios).** Weasley: «I let in four». Lyra le contesta con la voz del sexto curso. Granger se interpone: **«You didn’t sing it.»** Lo ha visto desde segundo; «You could have stopped it… I don’t know which of those is worse, Malfoy.»
@@ -59,7 +62,7 @@
 
 ## Secundarios
 - Wayne Hopkins (Hufflepuff, quinto curso), Cedric Diggory (Head Boy), Crabbe y Goyle, Weasley, Granger, Thomas (oyente de Weasley), Umbridge.
-- Un sexto curso escribió la canción. El primo de Crabbe, de quien viene el aviso, no aparece.
+- Un sexto curso escribió la canción. La prima de Crabbe («her cousin»), de quien viene el aviso, no aparece.
 
 ## Continuidad fácil de romper
 - Lyra vive el partido con la carta aún en la manga; Potter la ve asomar.

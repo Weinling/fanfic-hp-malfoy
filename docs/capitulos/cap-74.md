@@ -8,7 +8,7 @@
 4. **La cena.** Gracias, una por una: el informe del 19 de mayo; el limón (él lo leyó: el orfanato); Lyme: «You moved him for me.» Lucius gastó lo último en cubrirla. Pettigrew y los papeles: «He has nits»; *Sat. 17th. 8.30, not 9. Wear the socks*; el Obispo tachado. **Solo papeles.** «What a pity about the Bishop of Bath and Wells.» Lyra cree que oyeron todo.
 5. **El armario de la ropa blanca.** Se rompe, sola, con una sábana.
 6. **Fidelius.** La guardiana es ella. Se lo dice a Bellatrix, Avery, el viejo Nott, Snape.
-7. **La caja.** Madera clara, dos capas, veinticuatro. Bellatrix no coge ninguno. «I don’t know. That’s why.»
+7. **La caja.** Madera clara, dos capas, veinticuatro. Bellatrix no coge ninguno. Draco: «I don’t know. That’s why.» (74:201)
 
 ## Quién sabe qué
 Riddle da a entender que la rata oyó el cuarto; es mentira. Harry no sabe nada de esto.

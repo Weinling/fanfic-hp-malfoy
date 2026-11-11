@@ -18,7 +18,6 @@
 - «I love you.»
 - «Five points from Gryffindor,»
 - «For writing what you were not told to write.»
-- «It was worse than Lupin.»
 - «Very instructive, Professor,»
 - «Somebody cut themselves,»
 - «Keep the jar.»
