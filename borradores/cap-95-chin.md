@@ -226,4 +226,14 @@ He could not, for a moment, do anything at all.
 
 She looked at him, puzzled, and a little annoyed, because the instruction was perfectly clear and he was standing there like a post. Then she saw his face; and he saw her not understand it, and decide not to ask, because there was not time, and because it was not a room in which one could.
 
-He drew the cork. It smelt of mud, and of something under the mud that was her. He drank it.
+He took the pencil out of her fingers. He wrote under her line, in the worst hand in Gryffindor, and held it out.
+
+*Not kissing my own face, though.*
+
+She read it twice, as she read anything. The second time she was looking for what had been left out, and he watched her not find it. He had got better at writing short.
+
+He did not wait for the red pencil. If he waited he would think, and if he thought he would go and write something under *The Account*; so he put the flask down on the arm of the chair and bent and kissed her, with the fire on one side of them and the pot heaving on its trivet on the other, and nobody four hundred miles away any the wiser.
+
+She did not drop the pins. He found that out afterwards: her hand had come up between them and stayed there, shut, against the front of his jumper, and when he straightened she was still holding all eleven, a little crushed, so hard that they had printed themselves across her palm in a row. She looked at them, and then at him, with her mouth not quite closed, as she had looked at a cake with the wrong letter on it. She did not know what she had been given. He meant her not to.
+
+He picked up the flask, and drew the cork. It smelt of mud, and of something under the mud that was her. He drank it.

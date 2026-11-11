@@ -96,6 +96,30 @@ She stood looking after it.
 
 Then she said, in the same clear voice, a word that he had not known she knew. She said it to the lawn. She said it again, louder, with great care over the consonants, and then another one, worse, that she could only have had from Ron; and then she said his name, *Harry*, for no reason at all, to see what it was like to say it out of doors; and she started to laugh, on the top step of Malfoy Manor in her stockinged feet, with her arms round herself, and could not stop.
 
+It went on until she had to sit down. Then it ran out all at once, as a thing does that has come to the end of the road, and she sat on the top step with her feet on the cold stone and looked up at him.
+
+“I said a thing to you in November,” said Lyra. “At three hundred feet. In a gale.”
+
+He remembered the gale. He remembered her face a yard off, streaming, and her mouth going, and that he had leant out as far as the broom would let him and heard nothing at all.
+
+“You said *what*,” said Lyra. “I told you everything I had, and you put your hand behind your ear and said *what*.”
+
+“I couldn’t hear you.”
+
+“I’m aware of that. That was the point.” She looked away down the drive, to where the fox had gone. “I love you. I have done for some time. I thought you had better hear it once from the proper distance, with nothing on my arm.”
+
+Out on the lawn the peacock went on.
+
+He had heard it once before, on a rug, by accident, in among some remarks about marmalade, and she had taken it back the same minute and called it *loathe*. He had written down the time. He had nothing to write on now.
+
+“Say that again,” said Harry.
+
+“I shall do nothing of the kind.”
+
+She did, though. She said it to the drive, rather loudly, as she had said the other words, with great care over the consonants; and then she put out her hand, sideways, without looking, and took hold of his. Not two fingers on the wrist, not *up* or *down* or *your chin*: the whole of his hand, on the top step, for no reason that anybody listening could have needed to know.
+
+Nobody was listening. He held on.
+
 ⁂
 
 Lupin came first, a little after one.
