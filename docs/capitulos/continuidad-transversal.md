@@ -466,6 +466,8 @@ En orden de lectura. Las fechas marcadas «deducida» no las da el texto: salen 
 
 - **97 (noche del 22 mar. 1997):** ver `cap-97.md`. La tabla se abre con la mano de Lyra; Harry rompe solo la copa y el anillo (no gira la piedra). Riddle pide la vida de «Lyra»; Harry se queda quieto y levanta la barbilla. Snape: «Chin up, Miss Malfoy. You look like your father», se pone delante y muere de la maldición; «Severus. Why?». Lyra mata a la serpiente con el colmillo. Se acaba la hora del Multijugos y Harry, con su cara y el vestido gris, mata a Riddle con la varita de ella, sin brazo ni voz. «It was quite quick.»
 
+- **98 (22-23 mar. 1997):** ver `cap-98.md`. La Marca de Lyra se cierra para siempre; «You can stop counting now». Bellatrix tiene la maldición entera (Riddle se la dio tras oírla en febrero) y corta a Narcissa; Lyra canta y la cierra: «You were flat.» El zorro lleva las nueve palabras a Lupin; Lupin, la Orden. Al amanecer, lo que queda de Riddle está en Harry. Dumbledore llega el último, ve, baja la varita: «Mine»; «Until you are seventeen, Harry. And not a day after.» Lo ven Lyra, Lupin y Narcissa. Bellatrix, aturdida; Avery y Colagusano, huidos.
+
 - **Pobble es elfa** (2, 26, 36, 56, 74). **Hermione exigió el silencio ante Ron** y lo escribió ella (51, 83). Crouch padre estuvo controlado de octubre de 1994 a junio de 1995.
 
 ## 5. Fichas vivas
